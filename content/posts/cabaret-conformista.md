@@ -1,0 +1,15 @@
+---
+title: "Cabaret Conformista"
+date: 2016-11-27
+slug: "cabaret-conformista"
+categories: 
+  - "fuji-x-a1"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2016/11/DSCF8166.jpg
+image: https://lh3.googleusercontent.com/KHr6UsedvXjHsHWMxz4VRpeWg4Xoi5k1RuWwgU_qpS76pI0U4FVNmLDzd5CJg_oLwg11_KmFOvAm7VXUsQn-B-QKxSrVtJqoyVtttLHSc-q95J4L9zKgf9296giTyG4HfKGCHxcDLFhVa5FvU3Hc8SzPq2YrHCKmRb7JMxVq4pTIZONtgp7e-JJRab1tmEF4LVKWep5gDvD4H2XtxHjClIKhiho_zqqa-8hTmNcrCXn61U8Sl7zisjkcpQmrwjXYb2ZQTyyg6U24WMPnWqkT2-K1PWjgSiYYo_e9cPonhoy_Lu2Qh0XB0NY8ZYHYHWD90V1l5DCIblYKZXzZU-IkZLYw_maGIMANP-1t4V9Sf7xGYLyQLgO7C-7vGjc9ZcxnQse6az3DW36bNCqjamEl6LAbFmUTwUPZba9PodGngd-e3y-LD-3a9WnnZRGYCoGeCkb68wmWNR1NGe8y2dpPppGciSbnbfeODHLJXCUx75RuCAkBdEec7GzVIjuZzqUuwz9WVpPR2AWLIeJw2X9uYataDdyoyA_D9zriC8k-FQz4URrTGS6jnvoMqMoAUyjWYcgs7F7lIIiw1ynmkOsmwbljVsoaGqxqPh-IaHD5s5mX5bVBTA=w1473-h983-no
+---
+
+[![](https://lh3.googleusercontent.com/KHr6UsedvXjHsHWMxz4VRpeWg4Xoi5k1RuWwgU_qpS76pI0U4FVNmLDzd5CJg_oLwg11_KmFOvAm7VXUsQn-B-QKxSrVtJqoyVtttLHSc-q95J4L9zKgf9296giTyG4HfKGCHxcDLFhVa5FvU3Hc8SzPq2YrHCKmRb7JMxVq4pTIZONtgp7e-JJRab1tmEF4LVKWep5gDvD4H2XtxHjClIKhiho_zqqa-8hTmNcrCXn61U8Sl7zisjkcpQmrwjXYb2ZQTyyg6U24WMPnWqkT2-K1PWjgSiYYo_e9cPonhoy_Lu2Qh0XB0NY8ZYHYHWD90V1l5DCIblYKZXzZU-IkZLYw_maGIMANP-1t4V9Sf7xGYLyQLgO7C-7vGjc9ZcxnQse6az3DW36bNCqjamEl6LAbFmUTwUPZba9PodGngd-e3y-LD-3a9WnnZRGYCoGeCkb68wmWNR1NGe8y2dpPppGciSbnbfeODHLJXCUx75RuCAkBdEec7GzVIjuZzqUuwz9WVpPR2AWLIeJw2X9uYataDdyoyA_D9zriC8k-FQz4URrTGS6jnvoMqMoAUyjWYcgs7F7lIIiw1ynmkOsmwbljVsoaGqxqPh-IaHD5s5mX5bVBTA=w1473-h983-no)](https://goo.gl/photos/VKs2yJ1qJYjhUX4s9)
+
+Molt bon primer (i espero que no darrer) Cabaret amb artístes de proximitat al Casal de barri de Proseritat.

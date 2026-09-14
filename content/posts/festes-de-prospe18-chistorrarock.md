@@ -1,0 +1,13 @@
+---
+title: "Festes de Prospe’18 – ChistorraRock"
+date: 2018-05-29
+slug: "festes-de-prospe18-chistorrarock"
+categories: 
+  - "fuji-x-pro1"
+author: "inuxbcn"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2018/05/DSF5254.jpg
+image: https://lh3.googleusercontent.com/FpUSkW8s7fp-7bB7BJe8huGgFXWFL2YjtRCE7uxTk8RrkdOR_TrHqSG2a2TzH_9FyGgsOjMj0JWQSZ3-3a5cVdnekPac8CCWRWTM-CkNgPsahGNPCvsIfgpcdkUX69ICwoD-hRM6fEvIB-uNvcYE2rlLtcUySdJuH_dwPy0BSNsep7BOxVdess_9--xCNqdHNKjitD7PZoT4kK-T2-B_hehQeufq2m7WZF-NvHdC3Zsx5ExyHTvthziCC6JcYMMHRGtvZ_-gj-Tpkv2FG_jDO0zORqGBtP94fIHiGf0bFJSB5I4gYFry91NcHt7g8GjxkZ5perGH0-_EFPatrFU2N0-QxJO2MZODOMFroxDEMdw5EYk6vZ8j9Sy41tlKae2y6kqgmTD5UOUpievMbOmLKZ8fWbSUM4gOmOaIjg76vji1stg4L8raM0M0mIytKmUvRlRCRqS2L2fL5SRnBPRzBYgXp7LeWUmO6viRFs_tUdb-pcVSh-lfPLaALVDeZGfD01SJAEOzpQsxYc0ggsdEuQkkZ6PGi03gYtEUERLme3BdV4DZPDRfe4-wQlMAFP0dtPEWrbGOp_I8Wda4BVFr53g5U1ihiXq57LHa0Wtb=w1512-h1008-no
+---
+
+[![](https://lh3.googleusercontent.com/FpUSkW8s7fp-7bB7BJe8huGgFXWFL2YjtRCE7uxTk8RrkdOR_TrHqSG2a2TzH_9FyGgsOjMj0JWQSZ3-3a5cVdnekPac8CCWRWTM-CkNgPsahGNPCvsIfgpcdkUX69ICwoD-hRM6fEvIB-uNvcYE2rlLtcUySdJuH_dwPy0BSNsep7BOxVdess_9--xCNqdHNKjitD7PZoT4kK-T2-B_hehQeufq2m7WZF-NvHdC3Zsx5ExyHTvthziCC6JcYMMHRGtvZ_-gj-Tpkv2FG_jDO0zORqGBtP94fIHiGf0bFJSB5I4gYFry91NcHt7g8GjxkZ5perGH0-_EFPatrFU2N0-QxJO2MZODOMFroxDEMdw5EYk6vZ8j9Sy41tlKae2y6kqgmTD5UOUpievMbOmLKZ8fWbSUM4gOmOaIjg76vji1stg4L8raM0M0mIytKmUvRlRCRqS2L2fL5SRnBPRzBYgXp7LeWUmO6viRFs_tUdb-pcVSh-lfPLaALVDeZGfD01SJAEOzpQsxYc0ggsdEuQkkZ6PGi03gYtEUERLme3BdV4DZPDRfe4-wQlMAFP0dtPEWrbGOp_I8Wda4BVFr53g5U1ihiXq57LHa0Wtb=w1512-h1008-no)](https://photos.app.goo.gl/81raKBaCboHKdJDS2)

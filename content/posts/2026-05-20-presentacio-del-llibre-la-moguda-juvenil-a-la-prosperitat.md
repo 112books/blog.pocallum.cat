@@ -1,0 +1,37 @@
+---
+title: "2026-05-20 - Presentació del llibre 'La moguda juvenil a la Prosperitat'"
+date: 2026-05-21
+slug: "2026-05-20-presentacio-del-llibre-la-moguda-juvenil-a-la-prosperitat"
+categories: 
+  - "iphone"
+tags:
+  - "barcelona"
+  - "casal-de-joves-de-prosperitat"
+  - "cultura-popular"
+  - "fotografia-documental"
+  - "llibre"
+  - "memoria-historica"
+  - "moviments-juvenils"
+  - "nou-barris"
+  - "prosperitat"
+  - "roger-costa-puyal"
+author: "fatmin"
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2026/05/IMG_1972.jpg
+image: https://blog.pocallum.cat/wp-content/uploads/2026/05/IMG_1972-1024x576.jpg
+---
+
+## **La Prosperitat, memòria juvenil i relleus generacionals**
+
+Arribava tard. Venia de fora, venia de lluny, i l’acte ja havia començat feia estona. Però encara vaig ser a temps de trobar-me un pati interior ple i una conversa viva. D’aquelles que no són només una presentació de llibre sinó també un exercici de memòria compartida, amb moments d’acord, d’ironia i fins i tot algun retret entre generacions. Tot plegat al **Casal de Joves de Prosperitat**, recentment inaugurat, en un ambient que convidava tant a escoltar com a fer un got mentre la conversa anava creixent en petits corrillos improvisats.
+
+La presentació girava al voltant de la segona edició del llibre _**[La moguda juvenil a la Prosperitat](https://www.prosperitat.org/2026/03/06/segona-edicio-del-llibre-la-moguda-juvenil-a-la-prosperitat-1980-2000/)**. 1980-2000_, escrit pel periodista **Roger Costa Puyal** i coordinat per la comissió de memòria i patrimoni de l’[Associació Veïnal de Prosperitat](https://www.prosperitat.org/). Un llibre que, segons explicaven les seves impulsores, es va esgotar el mateix dia de la primera presentació i que ara torna a estar disponible.
+
+El projecte recupera la memòria d’una generació que va construir espais propis al barri, especialment al voltant del Casal de Joves de Prosperitat. Un model pràcticament únic: un espai autogestionat per joves que encara avui continua existint i mantenint viu aquell esperit de participació directa, assemblea i cultura feta des de baix. Una rara avis en temps de gestions externalitzades, protocols i branding institucional omnipresent.
+
+El llibre recorre bars, locals, concerts, fanzins, ràdios lliures i formes d’organització juvenil que van marcar una època concreta de Nou Barris però que també expliquen una altra manera d’entendre Barcelona, molt allunyada del relat olímpic oficial i dels decorats de postal que sovint han acabat monopolitzant la memòria de ciutat.
+
+Durant l’acte era interessant observar les mirades creuades entre els qui havien estat joves als vuitanta i els joves d’avui. Canvien els codis, canvien les eines i canvien les precarietats, però en el fons continuen apareixent les mateixes preguntes: com construir espais propis, com organitzar-se i com evitar que la memòria d’un barri acabi convertida només en nostàlgia domesticada.
+
+A les fotografies, alguns dels protagonistes i responsables d’aquesta publicació que ja ha arribat a la seva segona edició. Senyal que, malgrat tot, encara hi ha històries de barri que interessen, interpel·len i continuen generant conversa.
+
+[![](https://blog.pocallum.cat/wp-content/uploads/2026/05/IMG_1972-1024x576.jpg)](https://photos.app.goo.gl/eDGA5MKfAHbQQrBp6)

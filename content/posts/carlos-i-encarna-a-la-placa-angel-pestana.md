@@ -1,0 +1,14 @@
+---
+title: "Carlos i Encarna a la Plaça Ángel Pestaña"
+date: 2020-07-25
+slug: "carlos-i-encarna-a-la-placa-angel-pestana"
+categories: 
+  - "camara"
+  - "leica-m6"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2020/07/2020-07-24-029.jpg
+image: https://lh3.googleusercontent.com/NkInO1yN-qIvA1h8OMUqR1nvqmAT9Pz-hsdvgN2wCZGFdwK8fvSqPWvJbYMYysO_PWsXoVBc9gN2wKwV_gRPwMs9NIpMo8lPuGbw1667a8jtba8pEPnhfK1bZW1VJq4VWMroQTMwFxazUnt-Ec01YgtgDIs_VuvupUiprBA58KgZp6VpkRMauE7pteGe8tevMf4F0N7l1TamK4w1-gphpx9vshwPhyex7KmwO90-HRq4asKFHd3hrTzh2ixanmdY-x9ruWKjtTbLeacOSCRAMI9OkfwrNRio1dgF9x25s_78ol-BhlzR4GtKuuvKWB-Pxki8L2-wXwu7JtFnLM1SNb_6rOX3eszdDSPlpFGzzL4RO5jIG2XJoVDSnLU_oMPXRuQr7HAS0_ItGtrqT9TKvjdDvCYS1F162t91GDQw6N4EDHRU8cu31M1v3ydkQPkV0LDgz_2I-LWt8tUpmosMb6k-cJotGI0r1gmh-yojAa3oQNYeL5LwxtCwPIz22RC8G-w9DmMc4k9tegczMr-r5qsbR5ltQPVFaOty0FZp-QZSfVPxv-EJnYXvXXADVuOVt-g2gmv0_901qZ6E-fN-5KgbairBqJ4mL2PZa4BgWts-RhIvZM0WNWMLy57s1XwL5WjY17hKsaWYrLAZUjwiYg72kyk24z86Z5XUXWWSuN-MOZHFo0Nuw4o1s5P7Xw=w1336-h826-no?authuser=0
+---
+
+[![](https://lh3.googleusercontent.com/NkInO1yN-qIvA1h8OMUqR1nvqmAT9Pz-hsdvgN2wCZGFdwK8fvSqPWvJbYMYysO_PWsXoVBc9gN2wKwV_gRPwMs9NIpMo8lPuGbw1667a8jtba8pEPnhfK1bZW1VJq4VWMroQTMwFxazUnt-Ec01YgtgDIs_VuvupUiprBA58KgZp6VpkRMauE7pteGe8tevMf4F0N7l1TamK4w1-gphpx9vshwPhyex7KmwO90-HRq4asKFHd3hrTzh2ixanmdY-x9ruWKjtTbLeacOSCRAMI9OkfwrNRio1dgF9x25s_78ol-BhlzR4GtKuuvKWB-Pxki8L2-wXwu7JtFnLM1SNb_6rOX3eszdDSPlpFGzzL4RO5jIG2XJoVDSnLU_oMPXRuQr7HAS0_ItGtrqT9TKvjdDvCYS1F162t91GDQw6N4EDHRU8cu31M1v3ydkQPkV0LDgz_2I-LWt8tUpmosMb6k-cJotGI0r1gmh-yojAa3oQNYeL5LwxtCwPIz22RC8G-w9DmMc4k9tegczMr-r5qsbR5ltQPVFaOty0FZp-QZSfVPxv-EJnYXvXXADVuOVt-g2gmv0_901qZ6E-fN-5KgbairBqJ4mL2PZa4BgWts-RhIvZM0WNWMLy57s1XwL5WjY17hKsaWYrLAZUjwiYg72kyk24z86Z5XUXWWSuN-MOZHFo0Nuw4o1s5P7Xw=w1336-h826-no?authuser=0)](https://photos.app.goo.gl/G7SVWj3bzQkGpVLo8)

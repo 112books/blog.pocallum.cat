@@ -1,0 +1,17 @@
+---
+title: "Festival de Blues de Barcelona 2018"
+date: 2018-07-16
+slug: "festival-de-blues-de-barcelona-2018-johnny-big-stone-the-blues-workers-kenny-neal-joe-louis-walker-keith-dunn-balta-bordoy-rob-stone-the-boogiers-i-travellin-brothers"
+categories: 
+  - "leica-m6"
+author: "inuxbcn"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2018/07/HD272-021.jpg
+image: https://lh3.googleusercontent.com/VEM3zVXCBc5-tRCdZc9VN8RPfW6aky1foP2zRqU4KtHhpwUXe6PQf0mWIRji1N5LnKn6OkP7nhsRNukhrvZeF3T7JatZ956cEdgMjmNyiN5ZSArYjAFZUMqJb8yDdGRs0sb-WZbZ55m0XDI9ZnYOHMXpYvZPp3N0okKMyiLpdt8Fa1HOcmtDgmqjYmlDGQr1c6vg2AQiLQIsL9PXLx4k3wkJT6Bxdco3B6oTWHR3g_JlVzmqx6R_9KDtPAv7I4brR6uvE8ARVLbUuBhFMyvad47CBLOA8lr9bDAYnQpTLKgMrSaV3Jcz3Izh2Y8zHQaF5P5asUqjjHeOcqgFcPHIWVYh3AGo0YbQ6WSUxixg9fsd5k6VeR5xyMApvCWVNBVItU3l34D6Rbtg0Z0pYZ41Y3WsIbizh4Hf1bZp9otzLt0xXevB8wJIULx5kSOUqz4B5hhydLbOn08geZD0wel7TGzr0EozlLJrsipUUCmsY2H7tv336KgJWOmIFyhryK0YNk3GlDDqm0tx241JVgYmEOsRv8iE9a7xRJ_-94i1KAuObHqzmuGwBlKc_q97KcGWniwiErpC1dZW2SWhT4Xb2xvCZYOtag2JECu3YHEL=w1512-h1008-no
+---
+
+[![](https://lh3.googleusercontent.com/VEM3zVXCBc5-tRCdZc9VN8RPfW6aky1foP2zRqU4KtHhpwUXe6PQf0mWIRji1N5LnKn6OkP7nhsRNukhrvZeF3T7JatZ956cEdgMjmNyiN5ZSArYjAFZUMqJb8yDdGRs0sb-WZbZ55m0XDI9ZnYOHMXpYvZPp3N0okKMyiLpdt8Fa1HOcmtDgmqjYmlDGQr1c6vg2AQiLQIsL9PXLx4k3wkJT6Bxdco3B6oTWHR3g_JlVzmqx6R_9KDtPAv7I4brR6uvE8ARVLbUuBhFMyvad47CBLOA8lr9bDAYnQpTLKgMrSaV3Jcz3Izh2Y8zHQaF5P5asUqjjHeOcqgFcPHIWVYh3AGo0YbQ6WSUxixg9fsd5k6VeR5xyMApvCWVNBVItU3l34D6Rbtg0Z0pYZ41Y3WsIbizh4Hf1bZp9otzLt0xXevB8wJIULx5kSOUqz4B5hhydLbOn08geZD0wel7TGzr0EozlLJrsipUUCmsY2H7tv336KgJWOmIFyhryK0YNk3GlDDqm0tx241JVgYmEOsRv8iE9a7xRJ_-94i1KAuObHqzmuGwBlKc_q97KcGWniwiErpC1dZW2SWhT4Xb2xvCZYOtag2JECu3YHEL=w1512-h1008-no)](https://photos.app.goo.gl/5fT77GKCVfacvoGWA)
+
+Enguany una mirada nova, versió realitzada 100% analògica del 16è Festival de Blues de Barcelona. Leica M6, RPX 400 @1600.
+
+Amb: Johnny Big Stone & the Blues Workers, Kenny Neal, Joe Louis Walker, Keith Dunn & Balta Bordoy, Rob Stone & The Boogiers i Travellin Brothers

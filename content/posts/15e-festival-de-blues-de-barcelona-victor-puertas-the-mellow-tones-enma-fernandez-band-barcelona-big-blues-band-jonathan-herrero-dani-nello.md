@@ -1,0 +1,13 @@
+---
+title: "15è Festival de Blues de Barcelona – Víctor Puertas & The Mellow Tones, Enma Fernández Band, Barcelona Big Blues Band + Jonathan Herrero + Dani Nel·lo"
+date: 2017-07-16
+slug: "15e-festival-de-blues-de-barcelona-victor-puertas-the-mellow-tones-enma-fernandez-band-barcelona-big-blues-band-jonathan-herrero-dani-nello"
+categories: 
+  - "canon-eos-6d"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2017/07/IMG_5183.jpg
+image: https://lh3.googleusercontent.com/CiAiBqp8Ge_NYTrS88WY2qgjsDsjnVaOf8E9FQhBI5dt8bmoI0EsxejsaakRTcOx_8imupWdtxjgrjcp9YJYtKgQM5-Ikb3SPUEVGFagco8Riv73-vg2UrnwmLrS1-dYNC0wYST32INhmsihDIhbutw4TI2qpfUYtBrdTN2_wiUYIL7TNyDZbQ0r9ICIHtTy-2q6N0C-PgARZryaLhjTdY1-q0emruCvk0x83XQFtrgnIFDe-YUOmFU0XGSEtWdKUwJOJn58ru_j1oFzlHOympfxtouclb-ougYMIv1keUTZ20BfEZQhyzdJpff78Zc91k0DF-k7ShS5A7gxWhMipbYpuheCZ5XZP4PkkpLwmFb3S6eITW46XrL5lgRovopCcdcb4M6yAW6K_pP40n9cUdNVGDDny60zyyHo7qF5eWbT_RwTlqWf7klYcXEUxVfVRKIQdgx1f9HB7sDhzPdqUpoa3jBxNv6ANCLR93UM1nGsKlHV19PARVc2Yg1Y8dJnltp143DyqB4mm_9i3w0-N-v9KCy7JhMUr-4fTb1-8aPtyEIYGG_E-uwPyKP0GT1unFM7JKI5D-z2h7cf0UZONnVFLWn6KlzX_rWNVUZ1Sc57exdyh4BEhEDphQ=w1285-h857-no
+---
+
+[![](https://lh3.googleusercontent.com/CiAiBqp8Ge_NYTrS88WY2qgjsDsjnVaOf8E9FQhBI5dt8bmoI0EsxejsaakRTcOx_8imupWdtxjgrjcp9YJYtKgQM5-Ikb3SPUEVGFagco8Riv73-vg2UrnwmLrS1-dYNC0wYST32INhmsihDIhbutw4TI2qpfUYtBrdTN2_wiUYIL7TNyDZbQ0r9ICIHtTy-2q6N0C-PgARZryaLhjTdY1-q0emruCvk0x83XQFtrgnIFDe-YUOmFU0XGSEtWdKUwJOJn58ru_j1oFzlHOympfxtouclb-ougYMIv1keUTZ20BfEZQhyzdJpff78Zc91k0DF-k7ShS5A7gxWhMipbYpuheCZ5XZP4PkkpLwmFb3S6eITW46XrL5lgRovopCcdcb4M6yAW6K_pP40n9cUdNVGDDny60zyyHo7qF5eWbT_RwTlqWf7klYcXEUxVfVRKIQdgx1f9HB7sDhzPdqUpoa3jBxNv6ANCLR93UM1nGsKlHV19PARVc2Yg1Y8dJnltp143DyqB4mm_9i3w0-N-v9KCy7JhMUr-4fTb1-8aPtyEIYGG_E-uwPyKP0GT1unFM7JKI5D-z2h7cf0UZONnVFLWn6KlzX_rWNVUZ1Sc57exdyh4BEhEDphQ=w1285-h857-no)](https://photos.app.goo.gl/3szju5dznKDaDZ0T2)

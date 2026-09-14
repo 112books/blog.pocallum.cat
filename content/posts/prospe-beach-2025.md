@@ -1,0 +1,32 @@
+---
+title: "Prospe Beach 2025"
+date: 2025-07-13
+slug: "prospe-beach-2025"
+categories: 
+  - "iphone"
+tags:
+  - "competitions-esportives"
+  - "festa-estiuenca"
+  - "gastronomia"
+  - "juliol"
+  - "musica"
+  - "participacio"
+  - "penyes"
+  - "placa-angel-pestana"
+  - "prospe-beach"
+  - "prosperitat"
+  - "torneig"
+author: "fatmin"
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/07/IMG_4715.jpg
+image: https://blog.pocallum.cat/wp-content/uploads/2025/07/IMG_4715-1024x576.jpg
+---
+
+[![](https://blog.pocallum.cat/wp-content/uploads/2025/07/IMG_4715-1024x576.jpg)](https://photos.app.goo.gl/1fXTU5GtfCjDSxu76)
+
+Un any més —i ja hem perdut el compte de quants en portem!—, la Prosperitat ha celebrat la seva festa més estiuenca i divertida: el [Prospe Beach](https://prospebeach.org). Durant tot el mes de juliol, tot i que enguany sembla que els dalt han retallat una mica els dies, el barri gaudeix de la sorra (gairebé com la de platja!) que cobreix la plaça Ángel Pestaña.
+
+Al matí, la mainada construeix castells i es refresca amb mànegues, acompanyats de familiars, centres d’esplai i casals d’estiu. Al migdia, la calor apreta i la plaça queda més tranquil·la, però a la tarda, petits i no tan petits tornen a omplir-la de rialles i jocs a la sorra, passant-s’ho d’allò més bé. Al vespre i fins ben entrada la nit, els joves prenen el relleu: fan esport i entrenen per al gran dia, el més esperat de l’estiu a la Prospe: el Prospe Beach!  
+Durant el juliol, la plaça es converteix en escenari de moltes competicions esportives, però la més multitudinària i popular, sens dubte, és la del dia de Prospe Beach. Veïns i veïnes, agrupats en penyes (les mateixes de les festes!), entitats i grups d’amics, s’organitzen per participar-hi.
+
+El torneig comença a primera hora i no s’atura fins ben entrada la matinada, per la gran quantitat d’equips que s’hi apunten. Hi ha nivells per a tothom: des dels més “costellada” fins als aficionats i, és clar, els més “pro”, que arriben a la final i fan gaudir a tothom amb el seu nivell. Però el més important no és guanyar, sinó participar, fer festa, gaudir de la música i, sobretot, de l’exhibició gastronòmica: cada penya s’espavila per portar menjar fresquet o ben bo, tot i que cada cop es limiten més els focs per torrar carn.  
+Ahir només vaig poder passar-hi una estona al migdia, però espero que les fotografies us transmetin la màgia d’aquesta festa i com de lúdica i especial es veu la plaça en un dia tan assenyalat per a tothom.

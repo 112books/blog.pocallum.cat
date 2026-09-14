@@ -1,0 +1,13 @@
+---
+title: "Presentació del Llibre ¡Dando caña! de Pedro Pico, Pico Vena. A càrrec de: Azagra & Revuelta"
+date: 2018-02-27
+slug: "presentacio-del-llibre-dando-cana-de-pedro-pico-pico-vena-a-carrec-de-azagra-revuelta"
+categories: 
+  - "leica-m6"
+author: "inuxbcn"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2018/02/HD199-001.jpg
+image: https://lh3.googleusercontent.com/XwjD5e00ecciCo8Fs52jTUnZxP5-3Zaupr7IEhB1HIFcIYDtBNTJMtagjEe_cdedBhKZiB4rdDNTp1qzBLYb9jwazdWjgmtIfOCRoCr58by4KacxOZWjPomqe_YSFQvByn5HoTJ2M2TmL3ZTOF8D3C1lQRyITKCFPYDB4yhhx0QMH-q26pLo_lbVSMsITEVxxBVxJewQ-wxXJA29bSb6gUOW_TgAS-ofJwCgPSucwcyd6AbrFJhOD1N43XlINoqbxiSUhoeb4Z3dVPfgSAPYhK8E6Vj-0_Zr4X-JBxvU-2AR96HEGnmeiJyH1nLlK_aBNNuHDGrzCbgO5gPItVUfjBrquaH_G-ft6hzXbV9CnlkBejP-5g-1RmtAXt7elKdaK8d5PefJbzvXdwGtOsmx9WF6jhB_1UFbnxJ7laJ5BovLtup6m0IS-WVbsRXs8Fe32Q-260PqZ9xavZgNLRWdrtk9VeNiocfLRhEj7vXMmZh5x4ezRCN9-CXX4_6NJ6PCIADG0QYeiJOAflnWcD8aJI3InKLCQlfLY12mh1E_euIzGaBcRGDVtuD6DYM4Tm-N4Bg7DLUL7f_CG8YKlagn6pQBLN4AlWWSeE-DZCJN=w1427-h952-no
+---
+
+[![](https://lh3.googleusercontent.com/XwjD5e00ecciCo8Fs52jTUnZxP5-3Zaupr7IEhB1HIFcIYDtBNTJMtagjEe_cdedBhKZiB4rdDNTp1qzBLYb9jwazdWjgmtIfOCRoCr58by4KacxOZWjPomqe_YSFQvByn5HoTJ2M2TmL3ZTOF8D3C1lQRyITKCFPYDB4yhhx0QMH-q26pLo_lbVSMsITEVxxBVxJewQ-wxXJA29bSb6gUOW_TgAS-ofJwCgPSucwcyd6AbrFJhOD1N43XlINoqbxiSUhoeb4Z3dVPfgSAPYhK8E6Vj-0_Zr4X-JBxvU-2AR96HEGnmeiJyH1nLlK_aBNNuHDGrzCbgO5gPItVUfjBrquaH_G-ft6hzXbV9CnlkBejP-5g-1RmtAXt7elKdaK8d5PefJbzvXdwGtOsmx9WF6jhB_1UFbnxJ7laJ5BovLtup6m0IS-WVbsRXs8Fe32Q-260PqZ9xavZgNLRWdrtk9VeNiocfLRhEj7vXMmZh5x4ezRCN9-CXX4_6NJ6PCIADG0QYeiJOAflnWcD8aJI3InKLCQlfLY12mh1E_euIzGaBcRGDVtuD6DYM4Tm-N4Bg7DLUL7f_CG8YKlagn6pQBLN4AlWWSeE-DZCJN=w1427-h952-no)](https://photos.app.goo.gl/duCajZCTmmhVpKCH2)

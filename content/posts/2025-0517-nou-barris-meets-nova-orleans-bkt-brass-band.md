@@ -1,0 +1,37 @@
+---
+title: "2025-0517 - Nou Barris meets Nova Orleans - BKT Brass Band"
+date: 2025-05-18
+slug: "2025-0517-nou-barris-meets-nova-orleans-bkt-brass-band"
+categories: 
+  - "fuji-x-pro1"
+  - "fujinon-16mm-f2-8"
+tags:
+  - "ateneu-popular-de-nou-barris"
+  - "barcelona"
+  - "bkt-brass-band"
+  - "cultura"
+  - "esdeveniments"
+  - "festa"
+  - "musica"
+  - "nou-barris"
+  - "nova-orleans"
+  - "pocallum"
+  - "rua"
+  - "tallers-familiars"
+  - "tradicions"
+author: "fatmin"
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/05/DSCF0935.jpg
+image: https://blog.pocallum.cat/wp-content/uploads/2025/05/DSCF0935-1024x683.jpg
+---
+
+[![](https://blog.pocallum.cat/wp-content/uploads/2025/05/DSCF0935-1024x683.jpg)](https://photos.app.goo.gl/kVfR1qypybHMMDcA7)
+
+_Un moment en què la [BKT Brass Band](https://www.instagram.com/bktbrassband/) la va liar a "[Date Una Huerta](https://www.instagram.com/date_una_huerta/)" hort ocupat i autogestionat per les veïnes de la Prosperitat_
+
+Ahir vam tornar a gaudir d’una jornada molt especial dedicada a la cultura musical de Nova Orleans, un esdeveniment que ja s’ha convertit en una cita imprescindible a Nou Barris. L’Ateneu Popular de Nou Barris ha celebrat la sisena edició de “[Nou Barris meets Nova Orleans](https://ateneu9b.net/ca/programacions/nou-barris-meets-nova-orleans-v6)”, una festa plena de ritme, color i bon ambient.
+
+La tarda va començar amb el tradicional taller familiar de decoració de paraigües, inspirat en les desfilades de Nova Orleans, on grans i petits van poder personalitzar els seus paraigües per lluir-los després a la rua. Aquesta activitat, a més de divertida, ens connecta amb les tradicions de Louisiana, on els paraigües decorats són símbol de festa i comunitat.
+
+A les 18h, la [BKT Brass Band](https://www.instagram.com/bktbrassband/) va donar el tret de sortida a la rua, omplint els carrers de Nou Barris de música vibrant i energia. El recorregut va passar per diversos carrers emblemàtics del barri, creant una autèntica festa al carrer i apropant la música tradicional de Nova Orleans a tothom.
+
+No us perdeu aquesta festa que, de ben segur, deixarà empremta i ganes de repetir. Fins la propera edició!

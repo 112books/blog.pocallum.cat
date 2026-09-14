@@ -1,0 +1,23 @@
+---
+title: "One hour, one Km, one roll – 2020-05-21"
+date: 2020-05-21
+slug: "one-hour-one-km-one-roll-2020-05-21"
+categories: 
+  - "leica-m6"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2020/05/2020-05-11-021.jpg
+image: https://lh3.googleusercontent.com/m-3Gm6YR88Kn-XuT-0jQo_7_mw-TBIMlmGYSbcpA5t4P6VbL1tmNwhab6tKY8JwO__bqtIa5y2WGucMZo-__OmeGeHBXpZd9B-c5IPJVNUcGFgpZduF7qIS7TqH17lV6D5HFHr_w-WmjnwRgn7gg_VcxZqeAGLhWdngwMEzAK0-Wn1J1ADjfDnsM5-zSRtigC4uGNxqwlKK5tOYRwKDO8QwgCKeoPmRpELBvmkSgUCwaD0e3-NUVBBtHHdqVHI-6OAetS7CFwGiiJWDVGmyhuFsdgvqminoz8_TJll0km_w151V57boHFTvfOVU52UUEt9H5OJwyN9CDMQCw8BuczP0ra0c5R0Dsqbk3bcZA__SQ27zorKUDcD9gDOVxNwZ0hopqVzUZYhpkDIwXqjue9qZopnQOQXWrTCMCpKZp9x5_oHVsrlelFUDFLXAR1zbTVq82yntUdRnioNgZ-8l3yXsC_-VbbCb5lDeaFNTN0sPdnAxPYup2yPGV4f16Nk8uzpKx9EBG2fonVbmQT0Vy_qvtjJunqTiGjeipju7nFhGvr-VdjsDC3mBPvAa-ptBMZkOf4RojecI8i697cJU8xAj-nK02I8Ld2XazLzrO-ArcWzB1YwlVG532RChHayJOPm58LcWo7wrAnxzlTVtRxhrewbTHHoqeAC1fX60ietPQW8jivOZNQotdh0YHKw=w813-h1320-no?authuser=0
+---
+
+<figure>
+
+[![](https://lh3.googleusercontent.com/m-3Gm6YR88Kn-XuT-0jQo_7_mw-TBIMlmGYSbcpA5t4P6VbL1tmNwhab6tKY8JwO__bqtIa5y2WGucMZo-__OmeGeHBXpZd9B-c5IPJVNUcGFgpZduF7qIS7TqH17lV6D5HFHr_w-WmjnwRgn7gg_VcxZqeAGLhWdngwMEzAK0-Wn1J1ADjfDnsM5-zSRtigC4uGNxqwlKK5tOYRwKDO8QwgCKeoPmRpELBvmkSgUCwaD0e3-NUVBBtHHdqVHI-6OAetS7CFwGiiJWDVGmyhuFsdgvqminoz8_TJll0km_w151V57boHFTvfOVU52UUEt9H5OJwyN9CDMQCw8BuczP0ra0c5R0Dsqbk3bcZA__SQ27zorKUDcD9gDOVxNwZ0hopqVzUZYhpkDIwXqjue9qZopnQOQXWrTCMCpKZp9x5_oHVsrlelFUDFLXAR1zbTVq82yntUdRnioNgZ-8l3yXsC_-VbbCb5lDeaFNTN0sPdnAxPYup2yPGV4f16Nk8uzpKx9EBG2fonVbmQT0Vy_qvtjJunqTiGjeipju7nFhGvr-VdjsDC3mBPvAa-ptBMZkOf4RojecI8i697cJU8xAj-nK02I8Ld2XazLzrO-ArcWzB1YwlVG532RChHayJOPm58LcWo7wrAnxzlTVtRxhrewbTHHoqeAC1fX60ietPQW8jivOZNQotdh0YHKw=w813-h1320-no?authuser=0)](https://photos.app.goo.gl/w4hneCtX1n8rsRUZA)
+
+<figcaption>
+
+2020-05-21 - Leica M6 -AGFA APX 400
+
+</figcaption>
+
+</figure>

@@ -1,0 +1,15 @@
+---
+title: "HomeDev#78 - LC-A 120 - Lady Grey 400"
+date: 2016-08-30
+slug: "homedev78-lc-a-120-lady-grey-400"
+categories: 
+  - "lc-a-120"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2016/08/HD78-LC120-LadyGrey-008.jpg
+image: https://lh3.googleusercontent.com/2FJme05dmp4gUvV1ziTA0Ku-sn5tw-jKybLY4efFBHMOGWpMODNUULMsMeWQ2utA5ze9DfM56eDOkMAqxXMiYfv3fT_bc21v5znNDVCYR-UgPM_8z9YCsVAFFjb3UWnt54lpRv1cFz7F6bf4HV1E6tRjGMY6s1xJimbvTEFf_0rhZEUdQ4mq_feooMwed8YR-hR_TGddKpIqe8-FvczrTNaKIR_eq63ogZV1Fm8mHf-fNpIzyKuhM60C7BLlE91aIcmwGEwh10ny8b2m6Y0_xremX9Agd3xxNLEoVZHPlEMjMF-sRNc_4XYj_5sutUEvlDVC2MbN3QDJkY2njSe2n0aP_bd1m1qK62vXpugWaSm0BgTUWGLiJCmz4l8n-DvV5kxeIrvA1ijB-ALJ9WPtEVv7AgqbNxsGWrQ-pPrdcS6m7Z5Rz4O9QB1XbiZWX54o4Zl6DKPg0OtT0rjifvXQBa6WkyybqT6Oe9p7t6bKeS5AT9HxjNImYT1vrljg44Y-5pHY7qOMah8kbBrImhf-Klb58EX43CPjZPmTNLKxRRv-mAiXIhxqWuyykgcTpJ2Je7Qbw7WNHVNG_mHW5mnM0hyu2n7S4FTn1kbr-_wRvQ6_P7hXEQ=s1284-no
+---
+
+[![](https://lh3.googleusercontent.com/2FJme05dmp4gUvV1ziTA0Ku-sn5tw-jKybLY4efFBHMOGWpMODNUULMsMeWQ2utA5ze9DfM56eDOkMAqxXMiYfv3fT_bc21v5znNDVCYR-UgPM_8z9YCsVAFFjb3UWnt54lpRv1cFz7F6bf4HV1E6tRjGMY6s1xJimbvTEFf_0rhZEUdQ4mq_feooMwed8YR-hR_TGddKpIqe8-FvczrTNaKIR_eq63ogZV1Fm8mHf-fNpIzyKuhM60C7BLlE91aIcmwGEwh10ny8b2m6Y0_xremX9Agd3xxNLEoVZHPlEMjMF-sRNc_4XYj_5sutUEvlDVC2MbN3QDJkY2njSe2n0aP_bd1m1qK62vXpugWaSm0BgTUWGLiJCmz4l8n-DvV5kxeIrvA1ijB-ALJ9WPtEVv7AgqbNxsGWrQ-pPrdcS6m7Z5Rz4O9QB1XbiZWX54o4Zl6DKPg0OtT0rjifvXQBa6WkyybqT6Oe9p7t6bKeS5AT9HxjNImYT1vrljg44Y-5pHY7qOMah8kbBrImhf-Klb58EX43CPjZPmTNLKxRRv-mAiXIhxqWuyykgcTpJ2Je7Qbw7WNHVNG_mHW5mnM0hyu2n7S4FTn1kbr-_wRvQ6_P7hXEQ=s1284-no)](https://get.google.com/albumarchive/103138221614479310970/album/AF1QipMsu2eV-9UH7r2HS0-iQPt6AZW0Ml6f9c4Mz2Af)
+
+De la darrera escapada per terres gironines amb la LC-A 120.

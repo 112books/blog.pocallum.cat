@@ -1,0 +1,23 @@
+---
+title: "Ivan Kovacevic 5spots - Campari Milano BCN"
+date: 2020-08-15
+slug: "ivan-kovacevic-5spots-campari-milano-bcn"
+categories: 
+  - "leica-m6"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2020/08/2020-87-14-A-033.jpg
+image: https://lh3.googleusercontent.com/yPal1rGq1iLUkoqM4Dh1Os5JHd3BaKf71tQ8PznjbWtqMVXD3Fw2MnUSQeXqmOwyWcR53QKxH9qWULHlPBzxryWNCnv_HpS5f7E2AvbXWayxEHCHiAvCdgtZinp277jKKnCgNmOA2IZ8bSQYVieazDhbfXlNFdJQGil4mud815QHY4loHP0sPgkp-r-nTyNktrejXd0Zt-vCWKLQXEeoMV7Fh2siPE6PazFsbvemu5KK1cid2mWTYKzycMrdfHViQO0-ec23pwE-ttlEknClHTb4Fec25cDm1VyCtcIFjtYdWkmxAMM0grhZRB2jbRZ37-dJ-uBy6uqjsDbNZqXtlWofO2HCDgJKA8EuuAmmFRY96STZwWK4n7Zq56wEZ0FJykMfkKPmPnHGPRBfldrc55qrF_FY2L8YvloUJu0CTWQ1e0eLW2djzSRX885l9dyEd23rRGoFWZGnqMc5CnzTcje1z0K1bUMCcLvOzYaAMBFBARCEUBROmg21ZQaSW1BcJlIiVEHWKZ0_8twPArVesAfVABsZqTTVmVtXkpcQm7wShEY7Z0SOs1cebYL99KQYel6SGpeYVTAosYKriWr5dLPtsGgDTflgDrgSxcAeJGT4tK0Nc8GUMVswXST2o69sZe20C4uVRkciYpnHLzN_ihweRi3tImarXs1wqbMhHAXCw9if5sMv2v8od-Lvkw=w1696-h1014-no?authuser=0
+---
+
+<figure>
+
+[![](https://lh3.googleusercontent.com/yPal1rGq1iLUkoqM4Dh1Os5JHd3BaKf71tQ8PznjbWtqMVXD3Fw2MnUSQeXqmOwyWcR53QKxH9qWULHlPBzxryWNCnv_HpS5f7E2AvbXWayxEHCHiAvCdgtZinp277jKKnCgNmOA2IZ8bSQYVieazDhbfXlNFdJQGil4mud815QHY4loHP0sPgkp-r-nTyNktrejXd0Zt-vCWKLQXEeoMV7Fh2siPE6PazFsbvemu5KK1cid2mWTYKzycMrdfHViQO0-ec23pwE-ttlEknClHTb4Fec25cDm1VyCtcIFjtYdWkmxAMM0grhZRB2jbRZ37-dJ-uBy6uqjsDbNZqXtlWofO2HCDgJKA8EuuAmmFRY96STZwWK4n7Zq56wEZ0FJykMfkKPmPnHGPRBfldrc55qrF_FY2L8YvloUJu0CTWQ1e0eLW2djzSRX885l9dyEd23rRGoFWZGnqMc5CnzTcje1z0K1bUMCcLvOzYaAMBFBARCEUBROmg21ZQaSW1BcJlIiVEHWKZ0_8twPArVesAfVABsZqTTVmVtXkpcQm7wShEY7Z0SOs1cebYL99KQYel6SGpeYVTAosYKriWr5dLPtsGgDTflgDrgSxcAeJGT4tK0Nc8GUMVswXST2o69sZe20C4uVRkciYpnHLzN_ihweRi3tImarXs1wqbMhHAXCw9if5sMv2v8od-Lvkw=w1696-h1014-no?authuser=0)](https://photos.app.goo.gl/kQou5KoSWrMsomuC8)
+
+<figcaption>
+
+2020-08-14 - Leica M6 - Summicron 50f/2 - Agfa APX 400 @1600
+
+</figcaption>
+
+</figure>

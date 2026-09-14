@@ -1,0 +1,15 @@
+---
+title: "Cap d'any xinès al Parc de l'estació del Nord de barcelona"
+date: 2017-02-04
+slug: "cap-dany-xines-al-parc-de-lestacio-del-nord-de-barcelona"
+categories: 
+  - "leica-m6"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2017/02/HomeDev99-027.jpg
+image: https://lh3.googleusercontent.com/hwpqoAIfcczRB95Dxh1eT5rXqVnUMgTojmeaec_1X_Txh_7uHnDEu1qjtj8LEBozwfz-Z07neyIINLX--egi6QGJ2l-daVNwHBQd8uOIVhpW3ZGdMMfSw8o3iuG1HEaikT7o51HexAneHN4wHx8aJVRThqysy1MUatVXNRKZXmH5czmry1v8ge6LEnN1WVqk8kcZlvJ2kXOo8jwIuUbrumsjZFN4ZudZSbXOZjn4q-Eo7STF-GlUPT8Le248WKMZ3MGZygNLXDbJeUcrtQ0ZSK0t68d1mefIiWBCeG7pZpx_7HO5FCDXioKJJtFNgqoYF0TMIW1qUOVhgmupx0u2AjHI3ip_k3AX2dFJlQ1WKTFrGBHuudHE_BVvvmLM_u27YlDiazqFaaotuod0ab49Y3cibjtqpy5pc16L_sxKPS-FFrWtr2rEgDUUzn67FIMM1bWPg6yyTkXRK0eD2E-U9A4HIeUInY27mvCesAMyrzGyVCYPeJLqZ3qZE533OQUrImueqCrwrlWPuYYwT7UHHTCDoBh-Bg1Sw9O3aLa-vGh2SEzOrxbQBIqDBF8mPWwd8p0KSLAI7I0TNFKR1G5xYEPd71oaC1OyHDvGIYLIYkQyODG6X6ZFMQ=w1451-h968-no
+---
+
+[![](https://lh3.googleusercontent.com/hwpqoAIfcczRB95Dxh1eT5rXqVnUMgTojmeaec_1X_Txh_7uHnDEu1qjtj8LEBozwfz-Z07neyIINLX--egi6QGJ2l-daVNwHBQd8uOIVhpW3ZGdMMfSw8o3iuG1HEaikT7o51HexAneHN4wHx8aJVRThqysy1MUatVXNRKZXmH5czmry1v8ge6LEnN1WVqk8kcZlvJ2kXOo8jwIuUbrumsjZFN4ZudZSbXOZjn4q-Eo7STF-GlUPT8Le248WKMZ3MGZygNLXDbJeUcrtQ0ZSK0t68d1mefIiWBCeG7pZpx_7HO5FCDXioKJJtFNgqoYF0TMIW1qUOVhgmupx0u2AjHI3ip_k3AX2dFJlQ1WKTFrGBHuudHE_BVvvmLM_u27YlDiazqFaaotuod0ab49Y3cibjtqpy5pc16L_sxKPS-FFrWtr2rEgDUUzn67FIMM1bWPg6yyTkXRK0eD2E-U9A4HIeUInY27mvCesAMyrzGyVCYPeJLqZ3qZE533OQUrImueqCrwrlWPuYYwT7UHHTCDoBh-Bg1Sw9O3aLa-vGh2SEzOrxbQBIqDBF8mPWwd8p0KSLAI7I0TNFKR1G5xYEPd71oaC1OyHDvGIYLIYkQyODG6X6ZFMQ=w1451-h968-no)](https://goo.gl/photos/u7ummRk6r2SS9kmE6)
+
+(HomeDev#99 - Leica M6, Fomapan 400, HL-110 - 7')

@@ -1,0 +1,20 @@
+---
+title: "Vermutsical amb Red Rombo"
+date: 2020-02-16
+slug: "vermutsical-amb-red-rombo"
+categories: 
+  - "leica-m6"
+tags:
+  - "agfa-apx-100"
+  - "blues"
+  - "casal-de-barri-de-prosperitat"
+  - "pushed200"
+  - "voigtlander-35-f-1-7"
+author: "inuxbcn"
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2020/02/2020-02-15-Red-Rombo-007.jpg
+image: https://lh3.googleusercontent.com/RDZOLa2T2MYjkmVVxjqjBpAHyoFHXa4ahrQ179Q0YU_dy3v7y0yYdYWVwt5O9RXoJF9wz4obhyftqj1cLJfupCrYdoGDQLmUBqh4_FN8y8d9m_vfKao93IGtjOM-67XKEty29HI0mXtZKZnNOvP49RJT6lJm8drbVly2vUj1tz0cY6ds7wCPkHwixmErvEXfbQvzIjFArXjJD2zh3bc0gTtCycK_vz5W-4g-GsjW8m_t3kQxV1LIsiXEDIBcZiTvx5zSUJpTkJVy0zDdIbCqpiLipLIs4n_Kqi7hRuRxoSjvt0qcPED9vdzrMSLGEL4eOMeYZ7tjNUJOYBGW08cakDvPHwBgZn-JuyfnUkRkpTXMim-PYEVsqhOFSygkSo54mIneSWAhc67p6ZyFK6waQdd46Uuel8FJmrQBZ8Y69q7ZQ8QI65U0_cEfcezzeAZ30hN06tZQcDUQO3khr4wPHvtOpwomUTapAz2y6ALGCDwmvBGiLO_ZkOcixf5FIpHE5xDnPNmEv-MvriEabJbbMLnnTFt8BGAJwWIVRESssdkACNNKRUgc3SDfXN1-sH5FhU0QzIwujcP6gFs8kJqpAMgP7IJQrnWTvw1rQnSTH3rRJUuMBFsnqbltjAOivzT2Wcp3W2uD8dzFPO6jSR8d9Edxn8QIoLjs2p-nE1p25h63Teseh9LzA1M=w1495-h923-no
+---
+
+[![](https://lh3.googleusercontent.com/RDZOLa2T2MYjkmVVxjqjBpAHyoFHXa4ahrQ179Q0YU_dy3v7y0yYdYWVwt5O9RXoJF9wz4obhyftqj1cLJfupCrYdoGDQLmUBqh4_FN8y8d9m_vfKao93IGtjOM-67XKEty29HI0mXtZKZnNOvP49RJT6lJm8drbVly2vUj1tz0cY6ds7wCPkHwixmErvEXfbQvzIjFArXjJD2zh3bc0gTtCycK_vz5W-4g-GsjW8m_t3kQxV1LIsiXEDIBcZiTvx5zSUJpTkJVy0zDdIbCqpiLipLIs4n_Kqi7hRuRxoSjvt0qcPED9vdzrMSLGEL4eOMeYZ7tjNUJOYBGW08cakDvPHwBgZn-JuyfnUkRkpTXMim-PYEVsqhOFSygkSo54mIneSWAhc67p6ZyFK6waQdd46Uuel8FJmrQBZ8Y69q7ZQ8QI65U0_cEfcezzeAZ30hN06tZQcDUQO3khr4wPHvtOpwomUTapAz2y6ALGCDwmvBGiLO_ZkOcixf5FIpHE5xDnPNmEv-MvriEabJbbMLnnTFt8BGAJwWIVRESssdkACNNKRUgc3SDfXN1-sH5FhU0QzIwujcP6gFs8kJqpAMgP7IJQrnWTvw1rQnSTH3rRJUuMBFsnqbltjAOivzT2Wcp3W2uD8dzFPO6jSR8d9Edxn8QIoLjs2p-nE1p25h63Teseh9LzA1M=w1495-h923-no)](https://photos.app.goo.gl/A2nncfmD7otFX8Ek7)
+
+2020-02-15 - LM6 - Voigtlander35f1.7 - APX100 @200 - HC-110B

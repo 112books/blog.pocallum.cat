@@ -1,0 +1,15 @@
+---
+title: "The Red & The Rotten i la Jam Session del Festival conduïda pels alumnes de l'Escola-Taller de Blues de Barcelona"
+date: 2018-07-05
+slug: "the-red-the-rotten-i-la-jam-session-del-festival-conduida-pels-alumnes-de-lescola-taller-de-blues-de-barcelona"
+categories: 
+  - "leica-m6"
+author: "inuxbcn"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2018/07/HD257-005.jpg
+image: https://lh3.googleusercontent.com/d9V7Kj3DlVGkwBwIKWGzlIoL_bjTzBIHxbTILtOrrlmlgc23-tdS2Z5N3QqvEIQkn2LGMQ6W50_5lhRvwN1d5CCR8XkkrCspG-f4xG5QfEf4IbR1mScR5mAJEQCUZebiGL_ICnYmWbPEDlFotSAFAgAaNjUX4-jJF0_boXX4Omo8t8iIrX23Ysv3IvNViX7fl1mcXGARpZ7WwGV_Iz0awH8zeOB6DIlPz2K6Ct68zvrzumu43xvbSuPruOyyC66RJoFiUBrhPdHQhCtZiXVZpTHeMVKnTt5WkJEcQw6QAK22gEaMG35ezNApEPrgQ-l-E3FFnwN2OjFSiltI6BOoRZyV5-_tPXtCE4c7f3UgKLZlcYCO97P-7rZJ6ae3_XXQSqwVWea71YCfJ6VOA1j2I4ODMlPLTKBzuqTmE0JS5bb_slUReeuk1H4bCB-Gofv5H43Wsm0Lwq8NyLMVANqzzYQNuc_jk1pNmjs_otwW8mRDTe4R47bLv-QOMLT0AYicBE_6mtbIJZYjZlUxp7MgybFYze-F1g8OsbujYWx125sXUtG6N4gsckVfUWfzeAyrEVcIrH_agcn34ssPWTUXLJ3rs6TPcWoZz35YVdgN=w1512-h932-no
+---
+
+[![](https://lh3.googleusercontent.com/d9V7Kj3DlVGkwBwIKWGzlIoL_bjTzBIHxbTILtOrrlmlgc23-tdS2Z5N3QqvEIQkn2LGMQ6W50_5lhRvwN1d5CCR8XkkrCspG-f4xG5QfEf4IbR1mScR5mAJEQCUZebiGL_ICnYmWbPEDlFotSAFAgAaNjUX4-jJF0_boXX4Omo8t8iIrX23Ysv3IvNViX7fl1mcXGARpZ7WwGV_Iz0awH8zeOB6DIlPz2K6Ct68zvrzumu43xvbSuPruOyyC66RJoFiUBrhPdHQhCtZiXVZpTHeMVKnTt5WkJEcQw6QAK22gEaMG35ezNApEPrgQ-l-E3FFnwN2OjFSiltI6BOoRZyV5-_tPXtCE4c7f3UgKLZlcYCO97P-7rZJ6ae3_XXQSqwVWea71YCfJ6VOA1j2I4ODMlPLTKBzuqTmE0JS5bb_slUReeuk1H4bCB-Gofv5H43Wsm0Lwq8NyLMVANqzzYQNuc_jk1pNmjs_otwW8mRDTe4R47bLv-QOMLT0AYicBE_6mtbIJZYjZlUxp7MgybFYze-F1g8OsbujYWx125sXUtG6N4gsckVfUWfzeAyrEVcIrH_agcn34ssPWTUXLJ3rs6TPcWoZz35YVdgN=w1512-h932-no)](https://photos.app.goo.gl/j8sFwJBx83Z2iiHm8)
+
+HomeDev#257 - Leica M6 - Ilford Delta 400 @1600 -

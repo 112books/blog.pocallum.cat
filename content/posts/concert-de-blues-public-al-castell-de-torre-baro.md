@@ -1,0 +1,15 @@
+---
+title: "Concert de blues Públic al Castell de Torre Baró"
+date: 2018-06-17
+slug: "concert-de-blues-public-al-castell-de-torre-baro"
+categories: 
+  - "leica-m4-2"
+author: "inuxbcn"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2018/06/HD252-021.jpg
+image: https://lh3.googleusercontent.com/9nabB38GWdPyPgX73u2ht4-iLcbxlOJZPg5ddGAopv9BvRGTKzibyfKYNwrYLFItL6eMd6Pm57QNJ_fyX9z1rfg3fGhlhamTmXkK1AkGqnarJrDLe0my03xP5_rQq3ecGVw28I2Ij5J6Gzw66wP7uad4nbDWrNV4AYyIdXZl2bL_4dqcBbq1gtlnfbwXQZNCA5jkplsmxh6eQPgeXR17B2Gm8ypn9nWkcpuQ5KMkTn67guSZU_lyDMNZVZJBiV0-KxpBHxfHhryWQaAMU7aI7mfpCVght3tFefqP5wj5NI3HtnyO5dcNFei0MSQuf8dmKsqrvJXGmrfFnm_VoYDXYo8K5vk21Ukg6Jea_oiicJ5n07pHUYoKcy73Jna51M4dwBCmNL5B1LUWVN9F84aypWTVWcDbTZpj1Os04Ylngkh605lA5orsahE6ZnNO_qR8tlH9UOMPfmLB1krhHbGduUL2XviG-xt7yU06dRKbfdIENMgy5Gs6yrjVtnqaMU7SDSh8YGyOU5W5WHFe5HW7SJuCxkWZcvUFKICK3_dQaWMrOpbEwGaU3c-hvbGBaOACXK8QhTPtGja26CVBCFImM1-FJZBaYU2cqkANqcD1=w1512-h932-no
+---
+
+[![](https://lh3.googleusercontent.com/9nabB38GWdPyPgX73u2ht4-iLcbxlOJZPg5ddGAopv9BvRGTKzibyfKYNwrYLFItL6eMd6Pm57QNJ_fyX9z1rfg3fGhlhamTmXkK1AkGqnarJrDLe0my03xP5_rQq3ecGVw28I2Ij5J6Gzw66wP7uad4nbDWrNV4AYyIdXZl2bL_4dqcBbq1gtlnfbwXQZNCA5jkplsmxh6eQPgeXR17B2Gm8ypn9nWkcpuQ5KMkTn67guSZU_lyDMNZVZJBiV0-KxpBHxfHhryWQaAMU7aI7mfpCVght3tFefqP5wj5NI3HtnyO5dcNFei0MSQuf8dmKsqrvJXGmrfFnm_VoYDXYo8K5vk21Ukg6Jea_oiicJ5n07pHUYoKcy73Jna51M4dwBCmNL5B1LUWVN9F84aypWTVWcDbTZpj1Os04Ylngkh605lA5orsahE6ZnNO_qR8tlH9UOMPfmLB1krhHbGduUL2XviG-xt7yU06dRKbfdIENMgy5Gs6yrjVtnqaMU7SDSh8YGyOU5W5WHFe5HW7SJuCxkWZcvUFKICK3_dQaWMrOpbEwGaU3c-hvbGBaOACXK8QhTPtGja26CVBCFImM1-FJZBaYU2cqkANqcD1=w1512-h932-no)](https://photos.app.goo.gl/racXHyC4UhhTBt1A6)
+
+HomeDev#252 - Leica M4-2 - Summaron 35 f/3.5 - Plus-X Pan del 1989 ;)

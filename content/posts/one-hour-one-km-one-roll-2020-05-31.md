@@ -1,0 +1,23 @@
+---
+title: "One hour, one Km, one roll – 2020-05-31"
+date: 2020-06-01
+slug: "one-hour-one-km-one-roll-2020-05-31"
+categories: 
+  - "rolleiflex-drp-drgm-compur"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2020/06/2020-05-31-008.jpg
+image: https://lh3.googleusercontent.com/S6A3zReHqe8buC1DgYjK2CfVWuCoMDZ90DGSWRVRKDVH8AiMEtJpVL46_1VTrXlvr5ZW10vOiybF18xnrnvO6MSBdRt5mH6tkI9XijWeKH7hk3I7zDqR910cA3nbdYvWDKRodfV3wuqUv4Q9_2NfWZVRIwPx88pXITnJ5ygzwEYvU1a-FQgFUBRu3WN48ZuPo-BAa4eQBhXxyf2HKVl3jZ8iGn3emr0UwgHSem06YYfWPnXEuJKPSsZvKM97uYXNpklmd_zu_Agl-nix1oQCDzTSFkkOl04QAex_ZJKvmFu8iAU3tGJfCKUJXbyhwZMQMvWqNhjNbKzkraZdTLke05wtIWtFF8fMHD88jo3gk3mv6gpygA0C93rQ28zlkOsJ90vbV2pMYMuFfmULMhgzYE4td43tmFiT10FYF2kQ3pqZ_V0KitjQl__WHOmBAh54KKvMM9jc_QPjr8VFvoPimjVWo1P1VgPs3VblEQrz0r578zVCiA1hKtKSEXZj4thx3NCcT0ITimE8Okmd04eOnc5Fx306Kqnsyazk3UO5RBSckVSsXySJn93jJ2PY9dsKht8IvnKDV1EWj79oy_5E3wr30StlqnYPhso55vBwTvYNMq8aX129EPp14-rHmUjvro_yiyllg4kB9AzlDzPtsM1iIwf19s8bQftc_jqSifcpnI1AbYX9wafYq9of0A=s1320-no?authuser=0
+---
+
+<figure>
+
+[![](https://lh3.googleusercontent.com/S6A3zReHqe8buC1DgYjK2CfVWuCoMDZ90DGSWRVRKDVH8AiMEtJpVL46_1VTrXlvr5ZW10vOiybF18xnrnvO6MSBdRt5mH6tkI9XijWeKH7hk3I7zDqR910cA3nbdYvWDKRodfV3wuqUv4Q9_2NfWZVRIwPx88pXITnJ5ygzwEYvU1a-FQgFUBRu3WN48ZuPo-BAa4eQBhXxyf2HKVl3jZ8iGn3emr0UwgHSem06YYfWPnXEuJKPSsZvKM97uYXNpklmd_zu_Agl-nix1oQCDzTSFkkOl04QAex_ZJKvmFu8iAU3tGJfCKUJXbyhwZMQMvWqNhjNbKzkraZdTLke05wtIWtFF8fMHD88jo3gk3mv6gpygA0C93rQ28zlkOsJ90vbV2pMYMuFfmULMhgzYE4td43tmFiT10FYF2kQ3pqZ_V0KitjQl__WHOmBAh54KKvMM9jc_QPjr8VFvoPimjVWo1P1VgPs3VblEQrz0r578zVCiA1hKtKSEXZj4thx3NCcT0ITimE8Okmd04eOnc5Fx306Kqnsyazk3UO5RBSckVSsXySJn93jJ2PY9dsKht8IvnKDV1EWj79oy_5E3wr30StlqnYPhso55vBwTvYNMq8aX129EPp14-rHmUjvro_yiyllg4kB9AzlDzPtsM1iIwf19s8bQftc_jqSifcpnI1AbYX9wafYq9of0A=s1320-no?authuser=0)](https://photos.app.goo.gl/kZrnh49WMyFqNeJQ8)
+
+<figcaption>
+
+2020-05-31 - Rolleiflex - Rollei RPX100 - HC-110
+
+</figcaption>
+
+</figure>

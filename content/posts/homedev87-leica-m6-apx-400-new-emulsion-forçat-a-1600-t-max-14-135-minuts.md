@@ -1,0 +1,13 @@
+---
+title: "HomeDev#87 - Leica M6 - APX 400 New Emulsion forçat a 1600 (T-max 1/4 13,5 minuts)"
+date: 2016-12-01
+slug: "homedev87-leica-m6-apx-400-new-emulsion-forc%cc%a7at-a-1600-t-max-14-135-minuts"
+categories: 
+  - "leica-m6"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2016/12/HD87-Lm6-APX400-001.jpg
+image: https://lh3.googleusercontent.com/EWZt4R6dRXlVFDtmPbkTn4gr-yU6jk6MXG_ixWgWljXJOtMy-g-AquSRVglRijw1_JNApqYACkwlpiQNIUJgk-FOHoD9Jul0Rjrwx6O4jG0S3IM36vuUMIlqGqN31yYIAI5cMqAyKsOTdYV8eWJzLSrxOtyiFiP5OAN-9urOwAti3ejmgps4--RNWAInDlu95ucwAgqk53RMVS3uHEq5PqMzH1ibXK03UPTtxw1_RqZuCSN3qROt2C2ej6L7k-HnPLp2Ch-p_8VWs298cCPklGGQYfhETXXLqbEh2mJ2aVfIb9f82u8rWDk7vCCe3aiFs2L50yFEUVDyaEIHVVzs7fk9XyIEoW8EpXz56192thUSULqy6mt-w1DzDEuao2WI3VErpJyFgSWi25iRnU3RYmuBsyyzbeCkOkGTDcH78nMIkMBfErQR0mUYmRkHVz3TQQuZDNrRieUGtyBy8enOJ2z6lzSimVXYbHbcIkOQed13uCMDrPz-kdsygWNdVjm05gTvaHk6ssXEeYrawr-AVKc742eaCnZCz8nXh5x5LtuaoLU8-luD8k-zz_qR83e_iLpKfot--Hh_rqrLjg1eeiC_sjwGAW1DB_6jwBqtsDrHTFJDMg=w1473-h983-no
+---
+
+[![](https://lh3.googleusercontent.com/EWZt4R6dRXlVFDtmPbkTn4gr-yU6jk6MXG_ixWgWljXJOtMy-g-AquSRVglRijw1_JNApqYACkwlpiQNIUJgk-FOHoD9Jul0Rjrwx6O4jG0S3IM36vuUMIlqGqN31yYIAI5cMqAyKsOTdYV8eWJzLSrxOtyiFiP5OAN-9urOwAti3ejmgps4--RNWAInDlu95ucwAgqk53RMVS3uHEq5PqMzH1ibXK03UPTtxw1_RqZuCSN3qROt2C2ej6L7k-HnPLp2Ch-p_8VWs298cCPklGGQYfhETXXLqbEh2mJ2aVfIb9f82u8rWDk7vCCe3aiFs2L50yFEUVDyaEIHVVzs7fk9XyIEoW8EpXz56192thUSULqy6mt-w1DzDEuao2WI3VErpJyFgSWi25iRnU3RYmuBsyyzbeCkOkGTDcH78nMIkMBfErQR0mUYmRkHVz3TQQuZDNrRieUGtyBy8enOJ2z6lzSimVXYbHbcIkOQed13uCMDrPz-kdsygWNdVjm05gTvaHk6ssXEeYrawr-AVKc742eaCnZCz8nXh5x5LtuaoLU8-luD8k-zz_qR83e_iLpKfot--Hh_rqrLjg1eeiC_sjwGAW1DB_6jwBqtsDrHTFJDMg=w1473-h983-no)](https://goo.gl/photos/H11o6aNR9c2zZ7b36)

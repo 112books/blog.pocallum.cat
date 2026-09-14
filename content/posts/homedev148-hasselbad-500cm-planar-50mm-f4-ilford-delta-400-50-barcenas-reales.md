@@ -1,0 +1,14 @@
+---
+title: "HomeDev#148 - Hasselbad 500CM - Planar 50mm f/4 - Ilford Delta 400 @50 - Barcenas Reales"
+date: 2017-08-21
+slug: "homedev148-hasselbad-500cm-planar-50mm-f4-ilford-delta-400-50-barcenas-reales"
+categories: 
+  - "carl-zeis-distagon-50mm-f-4"
+  - "hasselblad-500cm"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2017/08/HD148-010.jpg
+image: https://lh3.googleusercontent.com/Xy1gc6l0bENEKEA9MUmPSoYbtuhLslehIBCc9Ql2-KSX5dSMC1RmvygwM7G_NcHgViX47AccZAGaQKt4IrJhvoaM_po9T9EEhtUJA2HS17Joo9BIilMYAX71RAi89UZvzZbBAdDUVhviJhlmsyjTry8dgnF9ItJPFqIBNdxKOblugrCwipzfDuWgWE4PKEDlGbO7CscaJmA_WaQLPmePxy4Pl5W7Pkk-U5KGuBlZPMPth8BI99rUgx2UhOH_7CwJTOTYif1GiFa_hUTW7SK0DSgrnvWnlJkGn7yqOE2kQdcGIVnceJxOO_o6jvXZkSssGmOYg7HG53D78_fUn3iO61RNzobKCkp2kFpxYO5RjMJCnw95pWb4wUtpHExPqrjXRGzkO9rgsU5NydR2lqoQXgjG5_eAdD0R-2OThfNkh7TwQXuOSqqtDMJL-wgvqSs9o-qcS5PXfQLW0VT-Iq2piyARxFF62kJcXj-POyGYt4CU2PIqILNwXxTPlr9npSjp5GfOwuKsV-mlttFIaqAOjQ0U-vNahN1OoOIHAITvjbfQahWW4BNBmFa2J61oGMZ5SLyVZPHBAQkB93av7efpjPHKRNpz55R97geKOhrGxWwMuV7AJRx_Ig=s1131-no
+---
+
+[![](https://lh3.googleusercontent.com/Xy1gc6l0bENEKEA9MUmPSoYbtuhLslehIBCc9Ql2-KSX5dSMC1RmvygwM7G_NcHgViX47AccZAGaQKt4IrJhvoaM_po9T9EEhtUJA2HS17Joo9BIilMYAX71RAi89UZvzZbBAdDUVhviJhlmsyjTry8dgnF9ItJPFqIBNdxKOblugrCwipzfDuWgWE4PKEDlGbO7CscaJmA_WaQLPmePxy4Pl5W7Pkk-U5KGuBlZPMPth8BI99rUgx2UhOH_7CwJTOTYif1GiFa_hUTW7SK0DSgrnvWnlJkGn7yqOE2kQdcGIVnceJxOO_o6jvXZkSssGmOYg7HG53D78_fUn3iO61RNzobKCkp2kFpxYO5RjMJCnw95pWb4wUtpHExPqrjXRGzkO9rgsU5NydR2lqoQXgjG5_eAdD0R-2OThfNkh7TwQXuOSqqtDMJL-wgvqSs9o-qcS5PXfQLW0VT-Iq2piyARxFF62kJcXj-POyGYt4CU2PIqILNwXxTPlr9npSjp5GfOwuKsV-mlttFIaqAOjQ0U-vNahN1OoOIHAITvjbfQahWW4BNBmFa2J61oGMZ5SLyVZPHBAQkB93av7efpjPHKRNpz55R97geKOhrGxWwMuV7AJRx_Ig=s1131-no)](https://goo.gl/photos/hU2DBAADGyingCHk9)

@@ -130,23 +130,31 @@ python3 migration/post-processa.py
 ## Resultats conversió (2026-09-14)
 
 ### Eina: `wordpress-export-to-markdown` v3.0.5
-- Execució: `npx wordpress-export-to-markdown --export=export-complet.xml --outdir=/tmp/wpfull --postfields=title,date,slug,categories,tags,excerpt,author,draft`
-- **2.354 posts** generats a `/tmp/wpfull/posts/` (2.363 al WP + 10 drafts)
-- 7 pàgines generades a `/tmp/wpfull/pages/`
+- Execució (segona, definitiva): `npx wordpress-export-to-markdown@3.0.5 --input migration/export.xml --output migration/wpfull --frontmatter-fields "title,date,slug,categories,tags,excerpt,author,draft" --save-images none --wizard false --post-folders false`
+- **2.353 posts** publicats (i **10 drafts** a `_drafts/`) a `migration/wpfull/posts/`
+- **6 pàgines fixes** migrades directament des de `migration/pages/*.xml` al post-processament
+- **Alerta:** el CLI per defecte del servidor (PHP 7.0) no executa l'export actual; fer servir `/opt/php-8.2/bin/php /usr/local/bin/wp ...`
 
 ### Troballes importants
-1. **Tags NO exportats**: el bucket `tags` surt buit a tots els fitxers. L'XML del WP té 843 posts amb tags (3.020 tags únics). Cal post-processament per afegir-los al frontmatter.
-2. **`coverImage` buit**: l'eina no mapeja `_thumbnail_id` → imatge. Cal script per extreure thumbnail de `_thumbnail_id` → adjunt → `guid`.
-3. **Vimeo shortcodes escapats**: `\[vimeo ID w=W h=H\]` en lloc de renderitzar l'iframe. L'iframe renderitzat ja queda al contingut HTML (l'WP l'havia emès abans de l'export).
-4. **Frontmatter generat**: title, date, slug, categories, author. Darrere: contingut Markdown amb imatges en format `![alt](url)`.
+1. **Tags**: la segona execució sí que els extreu (843 posts); el post-processament els reescriu des de l'XML igualment (font canònica).
+2. **`coverImage` buit**: l'eina no mapeja `_thumbnail_id` → imatge. El post-processament extreu la miniatura de `_thumbnail_id` → adjunt → `guid`.
+3. **Vimeo shortcodes escapats**: `\[vimeo ID w=W h=H\]` → convertits a `{{< vimeo ID >}}` (3 posts; es consumeix la barra inversa).
+4. **Frontmatter generat**: title, date, slug, categories, author, tags, thumbnail, image. Darrere: contingut Markdown amb imatges en format `![alt](url)`.
+5. **Slugs URL-encoded del WP (~18 posts)**: reescrits al valor original (`forc%cc%a7at`) per a paritat d'URLs; `excerpt` eliminat (corromput a la font).
 
-### Post-processament pendent
-Script `migration/post-processa.py` (ja creat) que ha de:
-- Afegir `tags:` al frontmatter des de l'XML (843 posts amb tags)
-- Afegir `thumbnail:` de `_thumbnail_id` → adjunt → `guid` (2.349 posts amb thumbnail)
-- Afegir `image:` del primer `<img>` del contingut
-- Convertir shortcodes `[vimeo]` → shortcode Hugo `{{< vimeo ID >}}`
-- Copiar fitxers a `content/posts/`
+### Post-processament fet
+Script `migration/post-processa.py` (executat 2026-09-14, segona execució completa):
+- ✅ `tags:` afegit des de l'XML (font canònica) — **843 posts**
+- ✅ `thumbnail:` de `_thumbnail_id` → adjunt → `guid` — **2.349 posts** (2 recuperats per WP-CLI perquè l'adjunt no era a l'XML)
+- ✅ `image:` del primer `<img>` del contingut — **2.323 posts**
+- ✅ Shortcodes `\[vimeo ID w=W h=H\]` → `{{< vimeo ID >}}` (3 posts)
+- ✅ `excerpt` **eliminat** (196 posts corromputs a la font: accents → `??` al propi XML del WP)
+- ✅ **Slugs URL-encoded del WP (~18 posts):** el WP guarda `forc%cc%a7at` (= `forçat`); es reescriu el `slug:` del frontmatter al valor original per a paritat d'URLs. Verificat vs WP viu (200/404).
+- ✅ Pàgines fixes (6 publicades) migrades a `content/*.md`; **3 buides al WP** (aviso-legal, privacitat, cookies) esperen contingut legal.
+
+**Materials:** `migration/` (gitignored): XML posts (56 MB) + XML pàgines (24 KB) + `wpfull/posts/` (2.353 posts + 10 drafts a `_drafts/`). Els drafts no es copien a `content/posts/`.
+
+**Reexecució:** `python3 migration/post-processa.py` regenera `content/posts/` des de `migration/wpfull/posts/` (idempotent). Les 2 miniatures recuperades per WP-CLI s'apliquen amb un script manual (detalall a `INFORME-MIGRACIO.md`).
 
 ---
 
@@ -183,7 +191,7 @@ Script `migration/post-processa.py` (ja creat) que ha de:
 
 1. ✅ **Exportació** — XML complet de WordPress + còpia de `wp-content/uploads`. **Mesurar mida total d'imatges** (ja fet: 3,4 GB totals; 2,3 GB originals → decisió Dinahosting).
 2. ✅ **Scaffolding** — `hugo new site`, `hugo.toml` amb permalinks idèntics, taxonomies, RSS.
-3. 🔄 **Conversió** — XML → Markdown (`wordpress-export-to-markdown` v3.0.5). **2.354 posts generats a `/tmp/wpfull/posts/`**. Falta post-processament: afegir `thumbnail:`, `image:`, tags al frontmatter; resoldre Vimeo shortcodes; migrar pàgines fixes.
+3. ✅ **Conversió** — XML → Markdown (`wordpress-export-to-markdown` v3.0.5). **2.353 posts (i 10 drafts)** a `content/posts/` amb `tags`, `thumbnail`, `image` i Vimeo resos; pàgines fixes migrades. Materials i script a `migration/` (gitignored).
 4. ⏳ **Tema** — llistat cronològic, single, arxiu mensual, càmeres/taxonomies, cerca Pagefind, RSS, comentaris estàtics + giscus.
 5. ⏳ **Pàgines fixes** — About, Avís Legal, Contacte, Cerca, legal.
 6. ⏳ **QA** — comparativa d'URLs 1:1 WordPress vs Hugo.

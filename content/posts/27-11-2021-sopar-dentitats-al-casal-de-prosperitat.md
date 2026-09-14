@@ -1,0 +1,17 @@
+---
+title: "27-11-2021 - Sopar d'entitats al Casal de Prosperitat + El Pecado"
+date: 2021-11-27
+slug: "27-11-2021-sopar-dentitats-al-casal-de-prosperitat"
+categories: 
+  - "leica-d-lux-6"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2021/11/L1290036.jpg
+image: https://lh3.googleusercontent.com/fsiKwam--VpoT2De2v_KuNCnTp7lt_dleG1pVkGlEKs1T73dxTTnrMdSllyhRVJ_gyU53JMOTZw4o-5qcu4DJWziM47VF6bsB4M_x6MTy7JtzIjVc7EE-NDsh-vNfv5AvN5_9S2gofkMgESZQLed6WvobmUd-DSKKQAb0uhylvVxm5nE1vK5PF_cCSSDd0kl1UkmX7Do0QmKXAhkxMiY-_eGdqGsXXRnTtEWeQCrKbqbKc_T9J5n6FNFMlmjWWQA8FR3yeDQfGd15tIQ5dWg58rAkZVDAHO0Ul_OanWVillQEEYV04nlNxCf7y225Sni08qNTyRueR3evrR4URbhMJ1UmG_vZehJgjaJBy2UQ91nTa1w4LgrMWMDEtNT_BZSA602WDuv4Qbtyx0TGm-w9cDE6eM9zauXxVTeM4qLnrrAcSK6M7HvoFnhiWmbmr1weMVPpLRWC-qfuJXWhZg7MbMGW_PoYxHtfsOkjN1VVug6qodFnIiuKwVLXUIMbhUTCJKeZKCnSKwXzy06gsKT4m8ryAutcGvkMsOTJAwQnvUonFhuyZBQhaWBiWXYG2kS972uyKGVM_-6Lab1f7MwmsCR3l8X9aRk_xzfpFxQ2LiTmr3UiVCyWyibeZVmEm2TLrnmIH4JXt7rqcHxR4psxbUwdstpLiA2hTWR-i_8z0eO5LWIG_UlkGQZADA1eWawm2fxc7QmC1jRn0AhRNF2CuWa=w1764-h992-no?authuser=0
+---
+
+[![](https://lh3.googleusercontent.com/fsiKwam--VpoT2De2v_KuNCnTp7lt_dleG1pVkGlEKs1T73dxTTnrMdSllyhRVJ_gyU53JMOTZw4o-5qcu4DJWziM47VF6bsB4M_x6MTy7JtzIjVc7EE-NDsh-vNfv5AvN5_9S2gofkMgESZQLed6WvobmUd-DSKKQAb0uhylvVxm5nE1vK5PF_cCSSDd0kl1UkmX7Do0QmKXAhkxMiY-_eGdqGsXXRnTtEWeQCrKbqbKc_T9J5n6FNFMlmjWWQA8FR3yeDQfGd15tIQ5dWg58rAkZVDAHO0Ul_OanWVillQEEYV04nlNxCf7y225Sni08qNTyRueR3evrR4URbhMJ1UmG_vZehJgjaJBy2UQ91nTa1w4LgrMWMDEtNT_BZSA602WDuv4Qbtyx0TGm-w9cDE6eM9zauXxVTeM4qLnrrAcSK6M7HvoFnhiWmbmr1weMVPpLRWC-qfuJXWhZg7MbMGW_PoYxHtfsOkjN1VVug6qodFnIiuKwVLXUIMbhUTCJKeZKCnSKwXzy06gsKT4m8ryAutcGvkMsOTJAwQnvUonFhuyZBQhaWBiWXYG2kS972uyKGVM_-6Lab1f7MwmsCR3l8X9aRk_xzfpFxQ2LiTmr3UiVCyWyibeZVmEm2TLrnmIH4JXt7rqcHxR4psxbUwdstpLiA2hTWR-i_8z0eO5LWIG_UlkGQZADA1eWawm2fxc7QmC1jRn0AhRNF2CuWa=w1764-h992-no?authuser=0)](https://photos.app.goo.gl/VDsa4jqfrkoJqZb2A)
+
+**[El Pecado](https://www.instagram.com/elpecado.recs/)** és un col·lectiu feminista no mixt de dones artistes que neix l'any 2019 de la necessitat d'ocupar els espais típicament masculinitzats. 
+
+La seva proposta multidisciplinària inclou poesia, performance, música en directe i DJ set.

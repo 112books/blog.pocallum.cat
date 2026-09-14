@@ -1,0 +1,23 @@
+---
+title: "One hour, one Km, one roll – 2020-06-05"
+date: 2020-06-06
+slug: "one-hour-one-km-one-roll-2020-06-05"
+categories: 
+  - "canon-demi-1963"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2020/06/2020-06-052-041.jpg
+image: https://lh3.googleusercontent.com/ROp89AMhmO_a3SMMMfypkqP6_03jljyn8TGeDKEZga1SynEgkmDDzc6DupYjLNQlbw6Mg4GlM50ygAO3W0I-gBofXrr7OMhHO8BIPFCTBQONGcPwD2CBL-OMohp9A-Llz5P0itc3JroSG2i7vTM8KCxQmWl3wqYzRmBS4IxZfAtWAsyZbcQL8WTqzI1KgawtImkr4Cr0tIsQwmRtln1SqFLLo0iP-kjhCOijqzql02mB-19ZlQoDpL9ZegjDWQUpC0fvBmPpcYW5ctRy4pVtwabhU6ZB_85x6fKtmlXt56jrXCLzmb2583prsqeIYJqgL9fqGXUxKDju4pYLh5CHIu3d9unJDTArDwbqkwIgR2u_JoxkidDykt4rCVgxfl1bPgUYrrc878ORvD_EfVwxPJMKW5l4DxJ2HUpm5nn9zgP6yjYyEGbGsdEqaz7XpgR_zhm2O2H9mwmss7SYNEnYVCu1m7366SGiI5J31GK1FCzEWay1fVtTNAvqeaN1gsZwQfH1dGKEEQ0QFHNZwdYCjRrC0QYxT5d54WEXEbZW4a0hTR8PwNCx8R_01rbL6WVr2Htj41b7XMHyQZZVNygy6RgMo0hz55CxnROZDrGjC98HQZhW32NQ4B2Ay6LvBUWB8nkfR5lxk_mSkYi6wfQCjlUBFzmEuJfOaKY4uXW_9ej7lHiqReaBM-dC-LHGdA=w1681-h1254-no?authuser=0
+---
+
+<figure>
+
+[![](https://lh3.googleusercontent.com/ROp89AMhmO_a3SMMMfypkqP6_03jljyn8TGeDKEZga1SynEgkmDDzc6DupYjLNQlbw6Mg4GlM50ygAO3W0I-gBofXrr7OMhHO8BIPFCTBQONGcPwD2CBL-OMohp9A-Llz5P0itc3JroSG2i7vTM8KCxQmWl3wqYzRmBS4IxZfAtWAsyZbcQL8WTqzI1KgawtImkr4Cr0tIsQwmRtln1SqFLLo0iP-kjhCOijqzql02mB-19ZlQoDpL9ZegjDWQUpC0fvBmPpcYW5ctRy4pVtwabhU6ZB_85x6fKtmlXt56jrXCLzmb2583prsqeIYJqgL9fqGXUxKDju4pYLh5CHIu3d9unJDTArDwbqkwIgR2u_JoxkidDykt4rCVgxfl1bPgUYrrc878ORvD_EfVwxPJMKW5l4DxJ2HUpm5nn9zgP6yjYyEGbGsdEqaz7XpgR_zhm2O2H9mwmss7SYNEnYVCu1m7366SGiI5J31GK1FCzEWay1fVtTNAvqeaN1gsZwQfH1dGKEEQ0QFHNZwdYCjRrC0QYxT5d54WEXEbZW4a0hTR8PwNCx8R_01rbL6WVr2Htj41b7XMHyQZZVNygy6RgMo0hz55CxnROZDrGjC98HQZhW32NQ4B2Ay6LvBUWB8nkfR5lxk_mSkYi6wfQCjlUBFzmEuJfOaKY4uXW_9ej7lHiqReaBM-dC-LHGdA=w1681-h1254-no?authuser=0)](https://photos.app.goo.gl/q4r2GNifSHtvRyx96)
+
+<figcaption>
+
+2020-06-5 - Canon Demi - Agfa APX 400
+
+</figcaption>
+
+</figure>

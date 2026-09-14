@@ -1,0 +1,23 @@
+---
+title: "Escapada al Montseny amb Adox HR-50"
+date: 2021-10-27
+slug: "escapada-al-montseny-amb-adox-hr-50"
+categories: 
+  - "leica-m6"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2021/10/2021-10-26-HR-50-Lm6-030.jpg
+image: https://lh3.googleusercontent.com/oh5jAZbxsbGU7lPWYKJjjBREZVEbkQkR6klZVWImqxIVzteo9bjy3lKYonF-t--kQAn2-zdMwmRhPfPLz3cpukXMflRBWFrjAysh-dFptMiA4pH8DOOndULlDmsFvsBVnRF7JO-rS9JnGNAE094lY41mLWAxsPzp3sYf5d0uY_9v92cVhK2ODNxBQ7xgafLdNJfbDAkdobG9V1OUqDKczoy6xTO6VCOEo5pd14vbjXgfG1iH8XE6w6jctth9rukRKVDYzpWXdlYidufIWW5PAEhoEEJ0Up7PnIBlhOm0tHcDAgJ9wCCB20VobBW9aAjmOL07anPijK9K0Tmlpc6_lYe6ijX1aliI1rkhv0JA39o297gW1Jzk0UpWivYxHlmKESdAgonhzBOCehHhRRhhcxmitwPJ6dV_J_JQu4zUKPpYQJNimVQMp07HiyicqFWwaBHz5_f0OOC0UJpOUPtQIeKyVdVdte3y4ptA8IBn5UFQCMmbl3fH0HoJH8moHhGh7tc0Fo6g3CGR3xXGf03vHzHX28Cw3s2Kq4klpwMnhZXNnz-8ITQMAd87wQn0XLlTt_Het7SRYdEB7JjNigqZGv2HzCk87W3llTGqCiynarJtGXM2eQ_A0LMPOmAo0gJDWWqRUe8nPrv6UXABUsDnRGiWfK4JYmY0-HBh2nTZbjjwh405_DO5MBvw9qZRmrvXgSRDfXVPUB60MNrPM7bwH5Nm=w1764-h1130-no?authuser=0
+---
+
+<figure>
+
+[![](https://lh3.googleusercontent.com/oh5jAZbxsbGU7lPWYKJjjBREZVEbkQkR6klZVWImqxIVzteo9bjy3lKYonF-t--kQAn2-zdMwmRhPfPLz3cpukXMflRBWFrjAysh-dFptMiA4pH8DOOndULlDmsFvsBVnRF7JO-rS9JnGNAE094lY41mLWAxsPzp3sYf5d0uY_9v92cVhK2ODNxBQ7xgafLdNJfbDAkdobG9V1OUqDKczoy6xTO6VCOEo5pd14vbjXgfG1iH8XE6w6jctth9rukRKVDYzpWXdlYidufIWW5PAEhoEEJ0Up7PnIBlhOm0tHcDAgJ9wCCB20VobBW9aAjmOL07anPijK9K0Tmlpc6_lYe6ijX1aliI1rkhv0JA39o297gW1Jzk0UpWivYxHlmKESdAgonhzBOCehHhRRhhcxmitwPJ6dV_J_JQu4zUKPpYQJNimVQMp07HiyicqFWwaBHz5_f0OOC0UJpOUPtQIeKyVdVdte3y4ptA8IBn5UFQCMmbl3fH0HoJH8moHhGh7tc0Fo6g3CGR3xXGf03vHzHX28Cw3s2Kq4klpwMnhZXNnz-8ITQMAd87wQn0XLlTt_Het7SRYdEB7JjNigqZGv2HzCk87W3llTGqCiynarJtGXM2eQ_A0LMPOmAo0gJDWWqRUe8nPrv6UXABUsDnRGiWfK4JYmY0-HBh2nTZbjjwh405_DO5MBvw9qZRmrvXgSRDfXVPUB60MNrPM7bwH5Nm=w1764-h1130-no?authuser=0)](https://photos.app.goo.gl/BqUD2B6CrYK5djdw7)
+
+<figcaption>
+
+2021-10-26 - ADOX HR-50 - Leica M4-6 - Montseny
+
+</figcaption>
+
+</figure>

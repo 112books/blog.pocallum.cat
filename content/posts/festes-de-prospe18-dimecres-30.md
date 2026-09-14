@@ -1,0 +1,13 @@
+---
+title: "Festes de Prospe’18 – Dimecres 30"
+date: 2018-05-31
+slug: "festes-de-prospe18-dimecres-30"
+categories: 
+  - "leica-m6"
+author: "inuxbcn"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2018/06/HD239-LM4-2-047.jpg
+image: https://lh3.googleusercontent.com/tp1wzIovQnJREnimzq7LYrbTGyGJBmtgzP3liogOWP6eqaMIf8jpXwfa9ihLr3i4HyNYjevzblSB4xjwBtr3WVMu68i103-vZOctW7Ps8Wax92hch_HPIr9MutsA1-aOgNwltQOrU41DG2GrE8pv61nQDOq4DqtYtj--3KWsuAb8LLohaPRY88a6I-Aew5a-6TH5w0184WD3QBpUCY1NsK_jmrIZerQgjc-E1wXPD9JDoNHyhBKl6NF_Jy6EoSkq7ZrJzM5mOU7ke2xZENMLYZJPohzEC2ybwecbw8-GeZ9pt5Y5ohzlBLOfz833q0ObUVnZk1EZGuKuew70s9EJ0qVI2tkoG_NG-viy1QfAp-li2xxv_rxgPF8xmYB1rkLFEbewh900p-XOu9cz5y2ayznbWFKnxjGsa_hFAdSzzKl5LpXqJ2vP9W3n-xS3G-wOdXzcFto2rEcrVZwMr8Df1D6GEjmSVTuQnE4or--7Qiqm2qWib_nY5eei4ZD5M3klLRCf6As2-gzK1tEUkfxMk-Rdn5e9oAdW06PThxaY_B4iA-_2w3r4PFSiYtjS9RGseiXdfJowe_LlCk3oGEHAXWzkz-QgifThrJNiIMEi=w1512-h927-no
+---
+
+[![](https://lh3.googleusercontent.com/tp1wzIovQnJREnimzq7LYrbTGyGJBmtgzP3liogOWP6eqaMIf8jpXwfa9ihLr3i4HyNYjevzblSB4xjwBtr3WVMu68i103-vZOctW7Ps8Wax92hch_HPIr9MutsA1-aOgNwltQOrU41DG2GrE8pv61nQDOq4DqtYtj--3KWsuAb8LLohaPRY88a6I-Aew5a-6TH5w0184WD3QBpUCY1NsK_jmrIZerQgjc-E1wXPD9JDoNHyhBKl6NF_Jy6EoSkq7ZrJzM5mOU7ke2xZENMLYZJPohzEC2ybwecbw8-GeZ9pt5Y5ohzlBLOfz833q0ObUVnZk1EZGuKuew70s9EJ0qVI2tkoG_NG-viy1QfAp-li2xxv_rxgPF8xmYB1rkLFEbewh900p-XOu9cz5y2ayznbWFKnxjGsa_hFAdSzzKl5LpXqJ2vP9W3n-xS3G-wOdXzcFto2rEcrVZwMr8Df1D6GEjmSVTuQnE4or--7Qiqm2qWib_nY5eei4ZD5M3klLRCf6As2-gzK1tEUkfxMk-Rdn5e9oAdW06PThxaY_B4iA-_2w3r4PFSiYtjS9RGseiXdfJowe_LlCk3oGEHAXWzkz-QgifThrJNiIMEi=w1512-h927-no)](https://photos.app.goo.gl/5ghUGitrqPeEs0cm1)

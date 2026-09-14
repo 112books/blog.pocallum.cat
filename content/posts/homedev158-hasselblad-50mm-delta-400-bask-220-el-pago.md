@@ -1,0 +1,14 @@
+---
+title: "HomeDev#158 - Hasselblad - 50mm - Delta 400 - Bask 220 - El Pago"
+date: 2017-10-29
+slug: "homedev158-hasselblad-50mm-delta-400-bask-220-el-pago"
+categories: 
+  - "carl-zeis-distagon-50mm-f-4"
+  - "hasselblad-500cm"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2017/10/HD158-006.jpg
+image: https://lh3.googleusercontent.com/7donPkm3bSqQ-i4jJW3QByiGqPABCYRaJ0kLVUFzAc6kAOVlyiqJnJbEQhsMFpFCn2bVZ3uTyDifz4jDwcsQtl5y1Onj0dQ8Y2Ba-RZW3QEt4mxHD0EmJC-_Ht7k82UKQGjXFuXJG2D-Z21JIZQ8zJYuWxfhG9LW7TPOsDL0Z68KHBPutZw7mKYJkj5qnN7dXTuMfSRvrdtMm2o2-AAPmsZJ6v9oMdrbPQjD-tw02ZaMvnWrZ-aoIiHI-czWOWL2bFdd8dossxCBTnQ-SPOdWT9CcwdJoy8214N8INsLBcAW0OcjmWaAsgZj6Nj4Y84EaRpd6aSMA1KBTKcWcPnaUoIcqIGLkf6_WAicZ3apfID_mep9rtNESNM_AUbsgrGqcrBPE5DRV5hBtsp5EgO-ph4cqRp0rKQGB60c915nEWQRUZe7jegk51x23SUvx8wz8Qgfg7nI-9nxXKHrMRnvdfG122nZg2LpFxQeduoslIsmi7Hy9R6VUOxJIikisMPRxDWXPSBDNpbi4rp_UP7bhqYMp624PDkzJ87llXYgC2vx5b0pQfQzd004cxPWIM8pW89jCyB8ve3w3PAalRUj3D_QZYp78RpMqRPuV-eXSf0=w1276-h1318-no
+---
+
+[![](https://lh3.googleusercontent.com/7donPkm3bSqQ-i4jJW3QByiGqPABCYRaJ0kLVUFzAc6kAOVlyiqJnJbEQhsMFpFCn2bVZ3uTyDifz4jDwcsQtl5y1Onj0dQ8Y2Ba-RZW3QEt4mxHD0EmJC-_Ht7k82UKQGjXFuXJG2D-Z21JIZQ8zJYuWxfhG9LW7TPOsDL0Z68KHBPutZw7mKYJkj5qnN7dXTuMfSRvrdtMm2o2-AAPmsZJ6v9oMdrbPQjD-tw02ZaMvnWrZ-aoIiHI-czWOWL2bFdd8dossxCBTnQ-SPOdWT9CcwdJoy8214N8INsLBcAW0OcjmWaAsgZj6Nj4Y84EaRpd6aSMA1KBTKcWcPnaUoIcqIGLkf6_WAicZ3apfID_mep9rtNESNM_AUbsgrGqcrBPE5DRV5hBtsp5EgO-ph4cqRp0rKQGB60c915nEWQRUZe7jegk51x23SUvx8wz8Qgfg7nI-9nxXKHrMRnvdfG122nZg2LpFxQeduoslIsmi7Hy9R6VUOxJIikisMPRxDWXPSBDNpbi4rp_UP7bhqYMp624PDkzJ87llXYgC2vx5b0pQfQzd004cxPWIM8pW89jCyB8ve3w3PAalRUj3D_QZYp78RpMqRPuV-eXSf0=w1276-h1318-no)](https://photos.app.goo.gl/6mmD5yzaAE8W7TMD2)

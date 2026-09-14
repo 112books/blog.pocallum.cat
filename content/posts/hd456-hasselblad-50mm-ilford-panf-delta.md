@@ -1,0 +1,18 @@
+---
+title: "HD#456 - Hasselblad - 50mm  - Ilford PanF+ - Delta"
+date: 2019-11-05
+slug: "hd456-hasselblad-50mm-ilford-panf-delta"
+categories: 
+  - "hasselblad-500cm"
+tags:
+  - "50mm"
+  - "delta-del-ebre"
+  - "escapades"
+  - "ilford-panf"
+  - "vacances"
+author: "inuxbcn"
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2019/11/HC456-011.jpg
+image: https://lh3.googleusercontent.com/U2OfprwcELrW4Xq0p4jKkw4RRifHNE4jd04XvNyznDOaVaVMXtWjJbVHT4bnMXRvqy697UUZMjG55R1wm77c92Zj9nJh2KPNuXvxbf4fFRF9lj5Vf5BWPRQB50cwtdwDjc2tXlhiJqO7RCmf5kIG6Pvao8oNF__i6j5gGvziPBaW1dsMUDfqgqHTnsCUoLQ0-zEvgP9q65q0o0RMCrYirSBnJxBexpJjWOTJ6ILAc_E3WotTlnqA3jWJ0sVy6wXnhMbBeQvVQ2wJD6WUjK3GFsMP-8-Pmx2I4F5JDqpv62ZqKoabszWQYA6PIJnjYanLu7mwbtzIkvnXaA9fIhyjU6NuJmPUv-AMJIaMu9VYECWOrl6I14hTH6eY9QjXcKTAhXAP_Mlp8GViBaCrNHx88sBPaUbMb_8q4IP8F45xCNveTs0AHo0-eZynWLF4ZJ5D-WIaXlS5cyjSk6ZGx8wdAsKOp5h5rbeBpoOx1QdUi9pnS9hBiw66N56IwzFL5yxSCSZVwuOvqWinuGgQgtT5F0UzLsbe6mVZWjldZ-0eGfhEUYwE5VwNYpFhHM9rB8xTaakb_ddp5SmiIj-a3v8k6klyiVhzRDmdvDXOO9g-VZpvFjtwZhxcTVqVeeNOFmLhq7BV_dotKugC3zGQIui_khMtdP4pmaHer0DMSvsNCTT2EwZxslj5xRPH=s1310-no
+---
+
+[![](https://lh3.googleusercontent.com/U2OfprwcELrW4Xq0p4jKkw4RRifHNE4jd04XvNyznDOaVaVMXtWjJbVHT4bnMXRvqy697UUZMjG55R1wm77c92Zj9nJh2KPNuXvxbf4fFRF9lj5Vf5BWPRQB50cwtdwDjc2tXlhiJqO7RCmf5kIG6Pvao8oNF__i6j5gGvziPBaW1dsMUDfqgqHTnsCUoLQ0-zEvgP9q65q0o0RMCrYirSBnJxBexpJjWOTJ6ILAc_E3WotTlnqA3jWJ0sVy6wXnhMbBeQvVQ2wJD6WUjK3GFsMP-8-Pmx2I4F5JDqpv62ZqKoabszWQYA6PIJnjYanLu7mwbtzIkvnXaA9fIhyjU6NuJmPUv-AMJIaMu9VYECWOrl6I14hTH6eY9QjXcKTAhXAP_Mlp8GViBaCrNHx88sBPaUbMb_8q4IP8F45xCNveTs0AHo0-eZynWLF4ZJ5D-WIaXlS5cyjSk6ZGx8wdAsKOp5h5rbeBpoOx1QdUi9pnS9hBiw66N56IwzFL5yxSCSZVwuOvqWinuGgQgtT5F0UzLsbe6mVZWjldZ-0eGfhEUYwE5VwNYpFhHM9rB8xTaakb_ddp5SmiIj-a3v8k6klyiVhzRDmdvDXOO9g-VZpvFjtwZhxcTVqVeeNOFmLhq7BV_dotKugC3zGQIui_khMtdP4pmaHer0DMSvsNCTT2EwZxslj5xRPH=s1310-no)](https://photos.app.goo.gl/rD5BtuuxcvQTL2bd7)

@@ -1,0 +1,27 @@
+---
+title: "2023-05-12 - ProspeCretiva 2023"
+date: 2023-05-13
+slug: "2023-05-12-prospecretiva-2023"
+categories: 
+  - "fuji-x-pro1"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2023/05/DSF0316.jpg
+image: https://lh3.googleusercontent.com/Z9rVRcYmXVQQ9c4vFk7GGc4cvHKAJHnb5GsJBrck6La8zSgX_GI38bRrOYXc-0QAKdDvfEMsDRFtZWrhGn602BGrixlhIOHnH7ZrvNrq0sgWRoc9AuySArC3VEcpzXVAXMDNdyXTNez77TsQfYGIwa8S_T5WEnbRBAzupL7SUlmyZnQTyd0Pv7Ng7GtsOPhZVCx1DDADw0srZe6TsVgcwRFDvPL0ksFH2i_j-6v4cuLZKUuUljwSwkV1t16RLqN3TAa8jU11lM3xfJrUURuhkzk9UfXpp4thjI93zp7NIVopVw9UgQhlYa-1h2krx0o-uOezSekpsKA7bUSynRqXNn5prcZn6EVXs4BCSegesOT99v-PYbyMejPOTHn7jiU-rYgWqLrGYQ_fsR3StWSpjH2cOUIJ2fBppu-ToPo7toalY9VpuxVuYm7LnYY5Bq-j2R7V5q4BbeIPBGFpa2Al4UzoMr1nN2Z7JZJCMpWYyvYQBlVa_3cAndDeJxwb5lqvxM6McMvH7mI_uIL6y8QsoqMQsX6WdBEpO6XjcULQ7vzm39_WTlXyQUYfftJkn0SOw_GqN3FSYJ_Twr5YWDUIe9YruFIIE_GGc1yZFnosGC60e9Fs_27aHBreXY9iqvKlwiXsOgp7FKDk0x6peiqms_bz5lQL5ItG_9zK3gjdrOB4Dswjr5JomBHEjz2_ygNNvbVQ5Ig_JhsAeyCzYbIVwqB7PpRc3rgFm-9eNPlYm9vXeyWc0WCsi0CStWvgpqeRCI1l3t7tAyfGnf7D09fGR5IL4u_lFqhPbVcxdUAPCbGMiz2-zClxSG3t-8nD1XTc3Dk-OvHBP7J-r5mbS12-4xhlzLUyqfhrfu9L1_LILcStvE4G_i4THeebo7Wcj0GqIFeifyF7A4Zrw9Mpbg2oS4Egid299es8X0s-j1GBcT65FA=w1734-h1156-s-no?authuser=0
+---
+
+[![](https://lh3.googleusercontent.com/Z9rVRcYmXVQQ9c4vFk7GGc4cvHKAJHnb5GsJBrck6La8zSgX_GI38bRrOYXc-0QAKdDvfEMsDRFtZWrhGn602BGrixlhIOHnH7ZrvNrq0sgWRoc9AuySArC3VEcpzXVAXMDNdyXTNez77TsQfYGIwa8S_T5WEnbRBAzupL7SUlmyZnQTyd0Pv7Ng7GtsOPhZVCx1DDADw0srZe6TsVgcwRFDvPL0ksFH2i_j-6v4cuLZKUuUljwSwkV1t16RLqN3TAa8jU11lM3xfJrUURuhkzk9UfXpp4thjI93zp7NIVopVw9UgQhlYa-1h2krx0o-uOezSekpsKA7bUSynRqXNn5prcZn6EVXs4BCSegesOT99v-PYbyMejPOTHn7jiU-rYgWqLrGYQ_fsR3StWSpjH2cOUIJ2fBppu-ToPo7toalY9VpuxVuYm7LnYY5Bq-j2R7V5q4BbeIPBGFpa2Al4UzoMr1nN2Z7JZJCMpWYyvYQBlVa_3cAndDeJxwb5lqvxM6McMvH7mI_uIL6y8QsoqMQsX6WdBEpO6XjcULQ7vzm39_WTlXyQUYfftJkn0SOw_GqN3FSYJ_Twr5YWDUIe9YruFIIE_GGc1yZFnosGC60e9Fs_27aHBreXY9iqvKlwiXsOgp7FKDk0x6peiqms_bz5lQL5ItG_9zK3gjdrOB4Dswjr5JomBHEjz2_ygNNvbVQ5Ig_JhsAeyCzYbIVwqB7PpRc3rgFm-9eNPlYm9vXeyWc0WCsi0CStWvgpqeRCI1l3t7tAyfGnf7D09fGR5IL4u_lFqhPbVcxdUAPCbGMiz2-zClxSG3t-8nD1XTc3Dk-OvHBP7J-r5mbS12-4xhlzLUyqfhrfu9L1_LILcStvE4G_i4THeebo7Wcj0GqIFeifyF7A4Zrw9Mpbg2oS4Egid299es8X0s-j1GBcT65FA=w1734-h1156-s-no?authuser=0)](https://photos.app.goo.gl/CN9s67jKCqF1evuT9)
+
+La Prosperitat pot presumir de moltes coses, i precisament una d'elles és tenir una escena musical molt activa. **ProspeCreativa**, que arriba enguany a la seva onzena edició, és un espai pensat perquè els artistes locals puguin exposar les seves pròpies creacions.
+
+Enguany amb les actuacions de:
+
+- **El Zurera**
+
+- **Félix Egea**
+
+- **[Canciones de nadie](https://www.youtube.com/channel/UCZ_zcfG79eQMUFesfvnYqyg)**
+
+- **The Memes & The Pepes**
+
+Organitza: **comissió de programació** del Casal.

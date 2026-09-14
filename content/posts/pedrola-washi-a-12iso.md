@@ -1,0 +1,15 @@
+---
+title: "Pedrola - Washi A 12ISO"
+date: 2018-04-03
+slug: "pedrola-washi-a-12iso"
+categories: 
+  - "leica-m6"
+author: "inuxbcn"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2018/04/HD211-036.jpg
+image: https://lh3.googleusercontent.com/oQ-Axi6cQ0TwS20jsuMmUrC6w3ZUoYGyQ0w4PGlGAS5jae6kHjUNaaNMlELtDIYl1t0WoQF7rJjPpUIazJczZQD3Wwmcr4IAh89UHaRfWU8GxXutECSCCR8PjTNSsnsnUWi4EVWIaS-zSfp0jVbQRtdlyjConFBGRqkh7X5Grr2bQsVQ-c39DYhxV-aysC_vESPgxvHNdo-5SYRrxTHY62PulYtdRcifj5mKFqnIJm0W06lFjBqgC7dU_Ng41BIWLLEJDUdnpi5Qe_xgF9wgCi-OBvtB9wUUH7ZGS2rIdre-nmuwmIedNXLRkBlCLdxoMirLZsPdIKafVlqjVS7EuhYwrH6Vu-oF5giM0pYCz5qSBxGEtvXQO9m2nicU9b6v7L9dwtJMcqFPI8xU55Sk2ujdni-Kig3YAEWsN9St2IYojBcqAqmiR_rUtlW_Li9C3SLh93H6Edvbk26R4knJOeNTa0HjZn6vfVpi54rVO-vflEhz5G9UngaUfJTWPq4PAvmjHVBKKgG-mhFpf-og47LwZ8DwLGwn0EA6-ynKGa_cm6iT72PERCOoaTnKDOZJVrfJmkls0FgfcQ4aOoBRVNwUXow8L5M2lfesFkdK=w896-h1343-no
+---
+
+[![](https://lh3.googleusercontent.com/oQ-Axi6cQ0TwS20jsuMmUrC6w3ZUoYGyQ0w4PGlGAS5jae6kHjUNaaNMlELtDIYl1t0WoQF7rJjPpUIazJczZQD3Wwmcr4IAh89UHaRfWU8GxXutECSCCR8PjTNSsnsnUWi4EVWIaS-zSfp0jVbQRtdlyjConFBGRqkh7X5Grr2bQsVQ-c39DYhxV-aysC_vESPgxvHNdo-5SYRrxTHY62PulYtdRcifj5mKFqnIJm0W06lFjBqgC7dU_Ng41BIWLLEJDUdnpi5Qe_xgF9wgCi-OBvtB9wUUH7ZGS2rIdre-nmuwmIedNXLRkBlCLdxoMirLZsPdIKafVlqjVS7EuhYwrH6Vu-oF5giM0pYCz5qSBxGEtvXQO9m2nicU9b6v7L9dwtJMcqFPI8xU55Sk2ujdni-Kig3YAEWsN9St2IYojBcqAqmiR_rUtlW_Li9C3SLh93H6Edvbk26R4knJOeNTa0HjZn6vfVpi54rVO-vflEhz5G9UngaUfJTWPq4PAvmjHVBKKgG-mhFpf-og47LwZ8DwLGwn0EA6-ynKGa_cm6iT72PERCOoaTnKDOZJVrfJmkls0FgfcQ4aOoBRVNwUXow8L5M2lfesFkdK=w896-h1343-no)](https://photos.app.goo.gl/sK4i8ilpumvoPWB12)
+
+Resultats d'uns dies a Pedrola (Saragossa) amb la película, ben curiosa, Washi A.

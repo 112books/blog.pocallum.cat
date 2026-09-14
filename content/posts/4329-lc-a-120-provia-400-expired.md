@@ -1,0 +1,13 @@
+---
+title: "4329 - Lc-a 120 - Provia 400 expired"
+date: 2016-09-13
+slug: "4329-lc-a-120-provia-400-expired"
+categories: 
+  - "lc-a-120"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2016/09/4329-LCa120-Provia400010.jpg
+image: https://lh3.googleusercontent.com/NnHQl5ZGzn0Du-yAMIsGx5jiZA-QndbT-byIDyYBUD8IUjbUjoXjZH-VdZB2f1E7I_tccn0yOBsi4x5GJphwtYu3eU_K7E97aZ5QxSZIGUPGj5Scxw4nI4uwPxHQTT2N5UjK-OEV_-7dP8_xzsobzQLDeNXCFOqpsutWcJ37VbLEPw22liBSQ086eRbQNanM-lzzjslYPDfiGpJhFQUXsIe49IEMowc9iGwp0K7Q5-HqXfqQ-EmqYbpCK-XeqFGVIXrqBAv46qiM2Tc_fmIpU81Oxt1HASUM0KcRD-6qgJk4OFlUuNVzPz39WmUwZgOzzsyouAQp_9bpA88cKK63wdgpHu7JFWkXdjOWsMrd4epG9eR-NkmiwMC1lLyEY2fkiGB6jX0FuvXERY_qlekmM1WGQ257Pr06C-cEWPS_k9_YuBCO5Wm2373yuA2syoSgEylX1R0QoQt24R9FmhKW242xiKvYHFVPdU_3WGNBSEJo17KWZEnIQm_dl3NBjSMb1Ab6W-is37_wPt-Dojh0Pc0RlU3SyvlVo0uLboIe063Sl6_BvT4F8NdXOWBNSjlJ-WKH35wIslS-_APVXfCNE-ZCvquDFG_IhAYy5vSaHQXaacnqig=s1240-no
+---
+
+[![](https://lh3.googleusercontent.com/NnHQl5ZGzn0Du-yAMIsGx5jiZA-QndbT-byIDyYBUD8IUjbUjoXjZH-VdZB2f1E7I_tccn0yOBsi4x5GJphwtYu3eU_K7E97aZ5QxSZIGUPGj5Scxw4nI4uwPxHQTT2N5UjK-OEV_-7dP8_xzsobzQLDeNXCFOqpsutWcJ37VbLEPw22liBSQ086eRbQNanM-lzzjslYPDfiGpJhFQUXsIe49IEMowc9iGwp0K7Q5-HqXfqQ-EmqYbpCK-XeqFGVIXrqBAv46qiM2Tc_fmIpU81Oxt1HASUM0KcRD-6qgJk4OFlUuNVzPz39WmUwZgOzzsyouAQp_9bpA88cKK63wdgpHu7JFWkXdjOWsMrd4epG9eR-NkmiwMC1lLyEY2fkiGB6jX0FuvXERY_qlekmM1WGQ257Pr06C-cEWPS_k9_YuBCO5Wm2373yuA2syoSgEylX1R0QoQt24R9FmhKW242xiKvYHFVPdU_3WGNBSEJo17KWZEnIQm_dl3NBjSMb1Ab6W-is37_wPt-Dojh0Pc0RlU3SyvlVo0uLboIe063Sl6_BvT4F8NdXOWBNSjlJ-WKH35wIslS-_APVXfCNE-ZCvquDFG_IhAYy5vSaHQXaacnqig=s1240-no)](https://goo.gl/photos/6Ui8SSjKoM5MzBfX7)

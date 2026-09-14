@@ -1,0 +1,15 @@
+---
+title: "Jam de la Escola-Taller de Blues de Barcelona al Castell de Torre Baró"
+date: 2018-06-18
+slug: "jam-de-la-escola-taller-de-blues-de-barcelona-al-castell-de-torre-baro"
+categories: 
+  - "leica-m4-2"
+author: "inuxbcn"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2018/06/HD253-010.jpg
+image: https://lh3.googleusercontent.com/LxuveNfMctYlzZaqw-39uSshSw1fe4A43lWVTnE8khRT5NTNfT16pgTiyXW0182Oi8NEfJlI5C_WVNH3KXhWxnSF0CMSYe-FxTFV8gPqxqmWEJCeRB4dNr2UCc-r0Mjcn09GKsTsSZ2c3zykDDRwLX7pLiknyTTu4oNLil85hyjycTAS3uXW1APgVG__5c0cXvacTgIkwIXpeAlRcBo3NeFNMpuymSxJPXsx-ZzvdfhyIhOTwkUE-hMUq7jjJKRhZVoozEegdrCrILjf-Qxbgy0hV4FDNa4KSiYQ1Z1-o2oHlw1JdIj9l0QX9HsRxVM6-Lsxhkc2Dw_9d0dFVIT2ZkCKWLrhgrxlMIiXqvMaCldzbZotAnakBO3xT2JqQ9zY-cCHZutdzOrQvjCBDB0u9adAZ9udqRtNuIV16mjfA8k5Whyuxda3xjduemZ2HaIv2Bv3TozcTPP2Ff6zZsUe4M_pKntzTvBiFJCPZekZnsyr_z04NxhN53fIys2bGsm2SA5Tdt7fBkwUWmTMliqRquVb-EX7GcjeICgJ9sB_8OdbKXHmmob9PLSd48RoAZMH19IC3dvCJBbOY4YKeJU1EJXrpvkuh2_ztA2Je1mC=w1512-h938-no
+---
+
+[![](https://lh3.googleusercontent.com/LxuveNfMctYlzZaqw-39uSshSw1fe4A43lWVTnE8khRT5NTNfT16pgTiyXW0182Oi8NEfJlI5C_WVNH3KXhWxnSF0CMSYe-FxTFV8gPqxqmWEJCeRB4dNr2UCc-r0Mjcn09GKsTsSZ2c3zykDDRwLX7pLiknyTTu4oNLil85hyjycTAS3uXW1APgVG__5c0cXvacTgIkwIXpeAlRcBo3NeFNMpuymSxJPXsx-ZzvdfhyIhOTwkUE-hMUq7jjJKRhZVoozEegdrCrILjf-Qxbgy0hV4FDNa4KSiYQ1Z1-o2oHlw1JdIj9l0QX9HsRxVM6-Lsxhkc2Dw_9d0dFVIT2ZkCKWLrhgrxlMIiXqvMaCldzbZotAnakBO3xT2JqQ9zY-cCHZutdzOrQvjCBDB0u9adAZ9udqRtNuIV16mjfA8k5Whyuxda3xjduemZ2HaIv2Bv3TozcTPP2Ff6zZsUe4M_pKntzTvBiFJCPZekZnsyr_z04NxhN53fIys2bGsm2SA5Tdt7fBkwUWmTMliqRquVb-EX7GcjeICgJ9sB_8OdbKXHmmob9PLSd48RoAZMH19IC3dvCJBbOY4YKeJU1EJXrpvkuh2_ztA2Je1mC=w1512-h938-no)](https://photos.app.goo.gl/9o78sBtxgCJXRJJd7)
+
+HomeDev#253 - Leica M4-2 - Summaron 35 f/3.5 - Ilford Delta 400

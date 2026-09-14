@@ -1,0 +1,13 @@
+---
+title: "8469 - Leica M6 - Fuji 200 - Barcelona - Dublin"
+date: 2017-09-09
+slug: "8469-leica-m6-fuji-200-barcelona-dublin"
+categories: 
+  - "leica-m6"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2017/09/8469-LeicaM6-Fuji-018.jpg
+image: https://lh3.googleusercontent.com/vYLEL9RM6ipk726GbTO3Oqv3JYieP17iXWym66K9-KFZfK1bno-a1-H39KSViRGhehwtXvYy0-cUjgZ5QIr6wNwkolbhixW10X25CF21fguYUNlPHKpJCS7DWGEh63EwDvU1BKe8Z-Kot978aj90JA43CmoN0l2jCuHp35bdxD2B8ewBKjjZF7r_03OGtNUEiKz-yV_1H4HNd-untz87HKKY4y9aM0fiqFsGmwj85rXKWkD_NYm3cy4-rm9FFpZkofqAGRKdut45560V4C9WpjBkSIgUKGZLR1GuT-Z4uJNWd3qTRhjD6eX2vqxsz_sc9QkOS3cHfr6Z9v8v1d9x98plsUQ80MS4bXFcldRTP86aw63bGM-AQCXhlefjyO-YrmkkHXnHv6qxLE1MwYhRsVkRBpWDB9izgpLLfU6j1yfjmv35yKNRpDqX7IKIieaArxk87D7r9Jk0UVMEApPP9gi6zan7Cnopy-N3nZ9WV02ARalQrWzaxgvNToiy0glfvMmsHv9ceOGHXQ8_OKh65pj1FlqTPhDfs-sgqMTLaRbOhuuLQE6PtsdZDFgzMuoK6lfMJxEJ_DhS68PCssH_qp_qKAdsTaWFcwcMrPUiQbM=w1367-h912-no
+---
+
+[![](https://lh3.googleusercontent.com/vYLEL9RM6ipk726GbTO3Oqv3JYieP17iXWym66K9-KFZfK1bno-a1-H39KSViRGhehwtXvYy0-cUjgZ5QIr6wNwkolbhixW10X25CF21fguYUNlPHKpJCS7DWGEh63EwDvU1BKe8Z-Kot978aj90JA43CmoN0l2jCuHp35bdxD2B8ewBKjjZF7r_03OGtNUEiKz-yV_1H4HNd-untz87HKKY4y9aM0fiqFsGmwj85rXKWkD_NYm3cy4-rm9FFpZkofqAGRKdut45560V4C9WpjBkSIgUKGZLR1GuT-Z4uJNWd3qTRhjD6eX2vqxsz_sc9QkOS3cHfr6Z9v8v1d9x98plsUQ80MS4bXFcldRTP86aw63bGM-AQCXhlefjyO-YrmkkHXnHv6qxLE1MwYhRsVkRBpWDB9izgpLLfU6j1yfjmv35yKNRpDqX7IKIieaArxk87D7r9Jk0UVMEApPP9gi6zan7Cnopy-N3nZ9WV02ARalQrWzaxgvNToiy0glfvMmsHv9ceOGHXQ8_OKh65pj1FlqTPhDfs-sgqMTLaRbOhuuLQE6PtsdZDFgzMuoK6lfMJxEJ_DhS68PCssH_qp_qKAdsTaWFcwcMrPUiQbM=w1367-h912-no)](https://photos.app.goo.gl/gpWQYQfrf6h0GeiM2)

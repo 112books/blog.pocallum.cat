@@ -1,0 +1,18 @@
+---
+title: "HD#455 - Hasselblad - 50mm  - WashiS ISO50 - Delta"
+date: 2019-11-05
+slug: "hd455-hasselblad-50mm-washis-iso50-delta"
+categories: 
+  - "hasselblad-500cm"
+tags:
+  - "50mm"
+  - "delta-del-ebre"
+  - "escapades"
+  - "vacances"
+  - "washi-s-iso50"
+author: "inuxbcn"
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2019/11/HC455-001.jpg
+image: https://lh3.googleusercontent.com/MxoVwzbbleRV-_Gqk0eavZ6ZCvbRvG0oNJFoHSBqIcCc3mEcv_oy8kl7l6-PKTzAhJq6vvS1tuxY6eSZ27JB53sXMKoWuasZY-SehWJ2W-isKR2LkvSS5mXoQNDAbSz3OG9AhkcWqMQYomup6FkS8L-i6c189eu475vLhHH8qvNsynFxAn1NUaTlJxsLcCRE_uDYXc-3bp00qFgLOvVGprhgo3xei6fo59RbsK3dOXhPNuu0HuYDrhQhw8nyhB_lDBBqc1msyb88f3AbuvLc4qNrPZvk4DmDf_H5uC-TD9dkFhqQIHrUaBPm7IHqww1N6BchBP2b8HeqbhYcbIN6Gf9Jwht02eXOj-qJfGHN8NlftqIH1TJbnQsS9ACa1TLC9q8HBhzJG43dt_tHFtg4Q489TAU4l4EPv6QgbRb2GrXbXFad0ZP4pqJP-4p7M3bl3J_-68bhb9-uX-h8j1dK5vqfRheFdmlZP1FQP_0OHcyIXTxz0kc0j9G-kg151OJBYtH3yWNPeAdknyo_tiTj6LyFFY0v3JouT9e1B6v1_5yeLKdhc-7mUGk1Fa4LL7YTZszXPsDHAWrS0u0mVm6xNaJhX85Ju-ORU4QJh7rnMjVpLeO7pyCDJ5n6_SUSHBecQ6OCWHPp1E6HCwmZ4f7zRcOgbFJe_qVIwkeaOF8e3EoGBdTk0IrnsBjT=s1310-no
+---
+
+[![](https://lh3.googleusercontent.com/MxoVwzbbleRV-_Gqk0eavZ6ZCvbRvG0oNJFoHSBqIcCc3mEcv_oy8kl7l6-PKTzAhJq6vvS1tuxY6eSZ27JB53sXMKoWuasZY-SehWJ2W-isKR2LkvSS5mXoQNDAbSz3OG9AhkcWqMQYomup6FkS8L-i6c189eu475vLhHH8qvNsynFxAn1NUaTlJxsLcCRE_uDYXc-3bp00qFgLOvVGprhgo3xei6fo59RbsK3dOXhPNuu0HuYDrhQhw8nyhB_lDBBqc1msyb88f3AbuvLc4qNrPZvk4DmDf_H5uC-TD9dkFhqQIHrUaBPm7IHqww1N6BchBP2b8HeqbhYcbIN6Gf9Jwht02eXOj-qJfGHN8NlftqIH1TJbnQsS9ACa1TLC9q8HBhzJG43dt_tHFtg4Q489TAU4l4EPv6QgbRb2GrXbXFad0ZP4pqJP-4p7M3bl3J_-68bhb9-uX-h8j1dK5vqfRheFdmlZP1FQP_0OHcyIXTxz0kc0j9G-kg151OJBYtH3yWNPeAdknyo_tiTj6LyFFY0v3JouT9e1B6v1_5yeLKdhc-7mUGk1Fa4LL7YTZszXPsDHAWrS0u0mVm6xNaJhX85Ju-ORU4QJh7rnMjVpLeO7pyCDJ5n6_SUSHBecQ6OCWHPp1E6HCwmZ4f7zRcOgbFJe_qVIwkeaOF8e3EoGBdTk0IrnsBjT=s1310-no)](https://photos.app.goo.gl/Nkji8xy8hrbiYJFSA)

@@ -1,0 +1,23 @@
+---
+title: "La Torrada"
+date: 2021-03-16
+slug: "la-torrada"
+categories: 
+  - "rolleiflex-drp-drgm-compur"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2021/03/2021-03-13-Torrada-006.jpg
+image: https://lh3.googleusercontent.com/aYAYXQIim7w8bCrS0L7D0jnJRWoOMGca0kiow8ZfFLi9OEH2-qeeMqviyHIle1CryFMgj-WUHGviTM61Ha8zQQ_dGxwwwpgr6mDlV_CDuMVlJXD0JUymnrXB2K2Y59YnN-SdDKfAOFfwf-VFPjBbTSULz9XUqEsNZqX9cJqovylUoeJfkbLXVWkNeRAk2enTaW_SJDARMeJiE5SwecaK3Jyd3yHPuSgp3X-_tpXTaGvIIuH5r9jnnvJTthgNsihTsU-c5PnwT7MX0XAim-yXEywVpf-aOi-BVGT2OT2kfczjsWiIWilJmQz4nurRZkDVKxHNlq3uMyNExaBJDa5jt7B1n7AFiSWhjNGCQTSvvW__62f1jOd04_-QyG1Dw3vTVpZaHAoOoE_Lykxt1Tec80oYt1CROEjbsx3ldsK8FzhBvL-A0JuYjp1Ex-A4TBr85zr3TV-Cr0Q3fcDeGsCAVFOECuhBEivSCcV66Yt-mi8BGLmDwT2tjqYiuEseZ9KMbeWtzTy3tmFxfnF10Lvn6Szp66-pddqUQlGzvKsQrtbquSQaMXpvNZc8pi-_39z_7XSfywsHqCzn6JtdQSYNWo_aMI-3cmoNH4xvR1YJf-_h4mA5ZpseZLGAtE8MVrssKYY4aPT-uiwO6GxT7o4zyKPOCzQ4FScnMOrd_llu2UGHGFh0zaADy4quDyKE8HhtkvSN13fxtV76aNM-Uo9opMQ1=s1246-no?authuser=0
+---
+
+<figure>
+
+[![](https://lh3.googleusercontent.com/aYAYXQIim7w8bCrS0L7D0jnJRWoOMGca0kiow8ZfFLi9OEH2-qeeMqviyHIle1CryFMgj-WUHGviTM61Ha8zQQ_dGxwwwpgr6mDlV_CDuMVlJXD0JUymnrXB2K2Y59YnN-SdDKfAOFfwf-VFPjBbTSULz9XUqEsNZqX9cJqovylUoeJfkbLXVWkNeRAk2enTaW_SJDARMeJiE5SwecaK3Jyd3yHPuSgp3X-_tpXTaGvIIuH5r9jnnvJTthgNsihTsU-c5PnwT7MX0XAim-yXEywVpf-aOi-BVGT2OT2kfczjsWiIWilJmQz4nurRZkDVKxHNlq3uMyNExaBJDa5jt7B1n7AFiSWhjNGCQTSvvW__62f1jOd04_-QyG1Dw3vTVpZaHAoOoE_Lykxt1Tec80oYt1CROEjbsx3ldsK8FzhBvL-A0JuYjp1Ex-A4TBr85zr3TV-Cr0Q3fcDeGsCAVFOECuhBEivSCcV66Yt-mi8BGLmDwT2tjqYiuEseZ9KMbeWtzTy3tmFxfnF10Lvn6Szp66-pddqUQlGzvKsQrtbquSQaMXpvNZc8pi-_39z_7XSfywsHqCzn6JtdQSYNWo_aMI-3cmoNH4xvR1YJf-_h4mA5ZpseZLGAtE8MVrssKYY4aPT-uiwO6GxT7o4zyKPOCzQ4FScnMOrd_llu2UGHGFh0zaADy4quDyKE8HhtkvSN13fxtV76aNM-Uo9opMQ1=s1246-no?authuser=0)](https://photos.app.goo.gl/desbNcwRTiWUcoNa8)
+
+<figcaption>
+
+2021-03-13 - Rollei - Fomapan 100 - La Torrada
+
+</figcaption>
+
+</figure>

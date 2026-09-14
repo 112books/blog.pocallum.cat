@@ -1,0 +1,16 @@
+---
+title: "7335 - Rollei Crossbird - Bardenas Reales"
+date: 2017-12-23
+slug: "7335-rollei-crossbird-bardenas-reales"
+categories: 
+  - "carl-zeis-distagon-50mm-f-4"
+  - "hasselblad-500cm"
+author: "inuxbcn"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2017/12/7335-005.jpg
+image: https://lh3.googleusercontent.com/9XKwZZ1x6ZpNXDraOkCM613l1D7-LMgydjcXHp9kHU1KpULUHjD3G4B0N4CwTzXAjmd9f4iOgIyo2UfwXxsu-Zoj-xvugXxJ2LS5ANmr86L0k05ceJgqzqtsmptQGPUh03lJ1UeflVEgXbgWGdC2SNspxiXYZlljns5yVVzisEiepofED0HuPZ67xWzimIZONQCLbOLSZydW-gDIi856Zu3eDb2HxZ6zqXCABpfLuIHx7lnHOG6lrfCsFxUBPJnxsaDX543yObMWdlbtO7Tk-BKkdv68yY3qQXxtK03LL9tOySGallCaXOGXnnrKUy5enwbrxqB0m1GbnXn6e-fIDkyNU-0Ofiz95OHrGzOw9lLmOdPVG90rl9nHFZsbqjXKI9GbbkmzSVSExwwxnX_jC_rZ-PG3mgQgQ3oxfgSAdXKD5R8bh54aG4FkgZSr-pRHgUBsjqvsCiPH2WLQkw4SabyNh4gaPYhHkFVBNQIWTvIpRPNhESz7T1szL-UKAmmHiegD8CSa2IlXb325UiqdlDOEvVlPiuNdyPuQ_656ngkuLufYTcDc1IIVFs4wdD3r-2JEgKbHrnrS0642l2oYTER5pRovHvv164bY-eep=s963-no
+---
+
+[![](https://lh3.googleusercontent.com/9XKwZZ1x6ZpNXDraOkCM613l1D7-LMgydjcXHp9kHU1KpULUHjD3G4B0N4CwTzXAjmd9f4iOgIyo2UfwXxsu-Zoj-xvugXxJ2LS5ANmr86L0k05ceJgqzqtsmptQGPUh03lJ1UeflVEgXbgWGdC2SNspxiXYZlljns5yVVzisEiepofED0HuPZ67xWzimIZONQCLbOLSZydW-gDIi856Zu3eDb2HxZ6zqXCABpfLuIHx7lnHOG6lrfCsFxUBPJnxsaDX543yObMWdlbtO7Tk-BKkdv68yY3qQXxtK03LL9tOySGallCaXOGXnnrKUy5enwbrxqB0m1GbnXn6e-fIDkyNU-0Ofiz95OHrGzOw9lLmOdPVG90rl9nHFZsbqjXKI9GbbkmzSVSExwwxnX_jC_rZ-PG3mgQgQ3oxfgSAdXKD5R8bh54aG4FkgZSr-pRHgUBsjqvsCiPH2WLQkw4SabyNh4gaPYhHkFVBNQIWTvIpRPNhESz7T1szL-UKAmmHiegD8CSa2IlXb325UiqdlDOEvVlPiuNdyPuQ_656ngkuLufYTcDc1IIVFs4wdD3r-2JEgKbHrnrS0642l2oYTER5pRovHvv164bY-eep=s963-no)](https://photos.app.goo.gl/T2pfL68Oa08qetsx1)
+
+Unes quantes fotos més de les Bardenas Reales. Aquesta vegada amb Hasselblad 500 c/M, Carl Zeis Distagón 50mm f/4 i la peculiar Rollei Crossbird.

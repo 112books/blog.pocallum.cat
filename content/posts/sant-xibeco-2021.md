@@ -1,0 +1,17 @@
+---
+title: "Sant Xibeco 2021"
+date: 2021-11-20
+slug: "sant-xibeco-2021"
+categories: 
+  - "camara"
+  - "leica-d-lux-6"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2021/11/Captura-de-pantalla-2024-11-13-a-les-20.47.27.png
+image: https://lh3.googleusercontent.com/LXK2fKyeapXUN-IBzrGHIm7z3ZQJt-1aMSsQYUOwxnZMfOF9i_ZJlI55RD8pbZngSfdoAyxhqzPKc6eVhu20mXXqxykUKwK0q8tZjJ-ZWvZLVTJswdQGDQoelApDlOdkrz7tzZ3reQpG8-A5XyUex3IP3c0jMgpYlP1yNeGsiSnda0Ftbuj0TpUP3zlPz4kkvMH4sXWWPB3e2z1Mg024O7IcoNRr04QRv7Hjqe3V_zayDw3AgpuuDXByLmWAD8QNK-9b_OCcgyxGctsh6sIBkL8-Ds89-kRSqGyJXRINyQb-ICs--DESeKkYw-7Y3BXWB-Xc6rkwQj9OvmT2Gja_d4o53xq-7dAoVa8jzLgkKrlKxbVskLy4KJwgZfDhU_sgS7M1Vk9lNWL45yRkiK0IsosT_J4xjpFqNZr3xlqkPyNqEEw96-FKkW116kXjUsf0HX94U50Td7_Y_POmbUl1KmdAJovzZvDoyL6oM6HZpmdhl6jC-vKnHJps6vNCNhA3Qnu0G44OuiR0tdaq5ohYNgpx0Eo5CAhGxmWK6KVhVd3dNyxfqgFhMAVVUfFmLMKc7FwHO3YwwIfRSmq5aOc5xoJcXshy2zYKz1B9jWsq3IUx0dbpWO0u5DPsdqsd8p16f86grwui615o5TqVlWDhxdiNQkbYDvgErutJz24SPPl8ksN7wifZy_uUYS20sggTyzmjGSeEiVPIfXWpcNdD4Bl1=w1764-h992-no?authuser=0
+---
+
+[![](https://lh3.googleusercontent.com/LXK2fKyeapXUN-IBzrGHIm7z3ZQJt-1aMSsQYUOwxnZMfOF9i_ZJlI55RD8pbZngSfdoAyxhqzPKc6eVhu20mXXqxykUKwK0q8tZjJ-ZWvZLVTJswdQGDQoelApDlOdkrz7tzZ3reQpG8-A5XyUex3IP3c0jMgpYlP1yNeGsiSnda0Ftbuj0TpUP3zlPz4kkvMH4sXWWPB3e2z1Mg024O7IcoNRr04QRv7Hjqe3V_zayDw3AgpuuDXByLmWAD8QNK-9b_OCcgyxGctsh6sIBkL8-Ds89-kRSqGyJXRINyQb-ICs--DESeKkYw-7Y3BXWB-Xc6rkwQj9OvmT2Gja_d4o53xq-7dAoVa8jzLgkKrlKxbVskLy4KJwgZfDhU_sgS7M1Vk9lNWL45yRkiK0IsosT_J4xjpFqNZr3xlqkPyNqEEw96-FKkW116kXjUsf0HX94U50Td7_Y_POmbUl1KmdAJovzZvDoyL6oM6HZpmdhl6jC-vKnHJps6vNCNhA3Qnu0G44OuiR0tdaq5ohYNgpx0Eo5CAhGxmWK6KVhVd3dNyxfqgFhMAVVUfFmLMKc7FwHO3YwwIfRSmq5aOc5xoJcXshy2zYKz1B9jWsq3IUx0dbpWO0u5DPsdqsd8p16f86grwui615o5TqVlWDhxdiNQkbYDvgErutJz24SPPl8ksN7wifZy_uUYS20sggTyzmjGSeEiVPIfXWpcNdD4Bl1=w1764-h992-no?authuser=0)](https://photos.app.goo.gl/BxEEm5THkrAjgtqR6)
+
+Un any més les festes d'hivern, les festes de #SantXibeco al barri de la #Prosperitat.  
+Eco eco eco visca Sant Xibeco!

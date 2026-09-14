@@ -1,0 +1,15 @@
+---
+title: "0287 - Noon Pinhole 612 - Fuji RDP-III Fujichrome Provia 100f Pro Color Slide"
+date: 2017-01-12
+slug: "0287-noon-pinhole-612-fuji-rdp-iii-fujichrome-provia-100f-pro-color-slide"
+categories: 
+  - "noon-pinhole-612"
+  - "noonpinhole6x12-f-207"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2017/01/0287-Noon612-005.jpg
+image: https://lh3.googleusercontent.com/-9isinKEn0GNuYDESIW_kaBOTlQ65b6KUzGB71BT8bmNSe2c-hELAfUy8lhbFLsClpq6UTP16DNTF8SATb0FsneElHNlw-A6LTO1VQMNV3uQy5kV2-QzvuFOWbgme6Ogk-iixypOR-xAzFVJ3ZKL_r270O1KB_HywYf3Cz4uT4KTDueSt-a6PTIberIP6B8vkBqr2BPy4Wh9zzjH4RHQ3Xvuz7AUAyw63dQAcZgCEV21Kl8OuuLLmp331RFRozYcK-69HMXaO5uguznMx63v_mrQuRIjx86TPlamrzp4Bnzzyb8UmC4odu0TVnxdt6gHibZ296_7zqOuGd54ZeRXMaroU3Rf020wqqRdZRgSOSx5DVCfmmnTJb_ShsA1E7NhWv6x4RfyeKleoCKRAyR89X6gsWyGonPaPt8iTKUeMB8CuGW7HdPhbU3ip7KQQR7wMvR_DCuevGZrW960yVC4Pw_2Gdeg9wlcJXMeps5napWrdqGa75pD-d4OaAZRVMIJQLMaLPwS1-K4BuZR7gMAl0MGGCoAgNi4YnZ9U3772531Or8JbaDrrQAjGwgdl0_8ztUU86fJwF0LqAh6Thpsfo6obJ3BXWeSW518L-WFWJxTsF2F5_q7Ag=w1469-h704-no
+---
+
+[![](https://lh3.googleusercontent.com/-9isinKEn0GNuYDESIW_kaBOTlQ65b6KUzGB71BT8bmNSe2c-hELAfUy8lhbFLsClpq6UTP16DNTF8SATb0FsneElHNlw-A6LTO1VQMNV3uQy5kV2-QzvuFOWbgme6Ogk-iixypOR-xAzFVJ3ZKL_r270O1KB_HywYf3Cz4uT4KTDueSt-a6PTIberIP6B8vkBqr2BPy4Wh9zzjH4RHQ3Xvuz7AUAyw63dQAcZgCEV21Kl8OuuLLmp331RFRozYcK-69HMXaO5uguznMx63v_mrQuRIjx86TPlamrzp4Bnzzyb8UmC4odu0TVnxdt6gHibZ296_7zqOuGd54ZeRXMaroU3Rf020wqqRdZRgSOSx5DVCfmmnTJb_ShsA1E7NhWv6x4RfyeKleoCKRAyR89X6gsWyGonPaPt8iTKUeMB8CuGW7HdPhbU3ip7KQQR7wMvR_DCuevGZrW960yVC4Pw_2Gdeg9wlcJXMeps5napWrdqGa75pD-d4OaAZRVMIJQLMaLPwS1-K4BuZR7gMAl0MGGCoAgNi4YnZ9U3772531Or8JbaDrrQAjGwgdl0_8ztUU86fJwF0LqAh6Thpsfo6obJ3BXWeSW518L-WFWJxTsF2F5_q7Ag=w1469-h704-no)](https://goo.gl/photos/eKpkad7tA7hJFuzj8)  
+Algunes estenopèiques de l'estiu passat per la Garrotxa, i a Subirats aquestes festes

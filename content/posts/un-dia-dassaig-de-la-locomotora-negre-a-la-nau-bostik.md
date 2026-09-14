@@ -1,0 +1,23 @@
+---
+title: "Un dia d'assaig de la Locomotora Negra a la Nau Bostik"
+date: 2021-01-12
+slug: "un-dia-dassaig-de-la-locomotora-negre-a-la-nau-bostik"
+categories: 
+  - "leica-m6"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2021/01/2021-01-11-Locomotora134.jpg
+image: https://lh3.googleusercontent.com/DmKE73TWT558moQ_LkZzlnRnzwyyao0LaOTi5UXWeYZKm7SXLmiEsctsq4y5T5V7G2syC2xTEpFaL_UR2o1vyM4u4MyOFgtxzWFBItG98-GACV4BPTA1BduCc62O8S8RmDEnKvN737tf5CWmLMMwQ-mFYezZM1Sa7S5FGl7hFEDJln2uR1Hvo28t--K59Xgkzo_ASOobV6nvE45_EJUjngeK3mWkpxlsCK1r1r6b9m5GIW6wBCq70IOyW95JSFh1RmyXmbOTq2bznaX9In7-0g45sZElACK2bpGA4bwMCcJoeIHL9nTFTDdIt_Jf4hyV-R0YsCa5uDHBRvzsu-hSWCdSHq4hrLyxGqDI7UtGqozWWGqyV6iWQD55jTbotieei7czJmtTjbRHyWeoG41b5JyW5rfppMxNcZmt5dAfKnTjnM7VnVqRgtCL9isIXn2LQym5H7tuS8Zk7qGPk24lyt3dXmm7Skshs-UOd4liysDWgq0ZeIOANZVpK3vWYVdJgpNbKy3OCylcazbZs5Fwywi9elMoKZZJcuaPMJ-V4e6nEGrJjMaEaSgfRSQ-VJw0tJuFR3uKJ4A17ETw_9nA-cqLFFjyZ48TruEOg426JUGvSNVEGfURWXqllJxEHjxRkqv--jfvqJ6B8c25jfRnp3Dfd-pqwO6DmPnMBMIp63r04ukf0e6rsPOMZa6Aww=w1709-h1057-no?authuser=0
+---
+
+<figure>
+
+[![](https://lh3.googleusercontent.com/DmKE73TWT558moQ_LkZzlnRnzwyyao0LaOTi5UXWeYZKm7SXLmiEsctsq4y5T5V7G2syC2xTEpFaL_UR2o1vyM4u4MyOFgtxzWFBItG98-GACV4BPTA1BduCc62O8S8RmDEnKvN737tf5CWmLMMwQ-mFYezZM1Sa7S5FGl7hFEDJln2uR1Hvo28t--K59Xgkzo_ASOobV6nvE45_EJUjngeK3mWkpxlsCK1r1r6b9m5GIW6wBCq70IOyW95JSFh1RmyXmbOTq2bznaX9In7-0g45sZElACK2bpGA4bwMCcJoeIHL9nTFTDdIt_Jf4hyV-R0YsCa5uDHBRvzsu-hSWCdSHq4hrLyxGqDI7UtGqozWWGqyV6iWQD55jTbotieei7czJmtTjbRHyWeoG41b5JyW5rfppMxNcZmt5dAfKnTjnM7VnVqRgtCL9isIXn2LQym5H7tuS8Zk7qGPk24lyt3dXmm7Skshs-UOd4liysDWgq0ZeIOANZVpK3vWYVdJgpNbKy3OCylcazbZs5Fwywi9elMoKZZJcuaPMJ-V4e6nEGrJjMaEaSgfRSQ-VJw0tJuFR3uKJ4A17ETw_9nA-cqLFFjyZ48TruEOg426JUGvSNVEGfURWXqllJxEHjxRkqv--jfvqJ6B8c25jfRnp3Dfd-pqwO6DmPnMBMIp63r04ukf0e6rsPOMZa6Aww=w1709-h1057-no?authuser=0)](https://photos.app.goo.gl/yWHwRMZQT6hL5La67)
+
+<figcaption>
+
+2021-01-11 - Leica M6 -Agra APX 400 @1600
+
+</figcaption>
+
+</figure>

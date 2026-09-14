@@ -1,0 +1,22 @@
+---
+title: "\"Inmortales Band\" al Casal de barri de  Prospe"
+date: 2020-02-29
+slug: "inmortales-band-al-casal-de-barri-de-prospe"
+categories: 
+  - "leica-m6"
+tags:
+  - "125"
+  - "agfa-apx-400"
+  - "bcn"
+  - "casal-de-barri-de-prosperitat"
+  - "pushed1600"
+  - "rodinal"
+  - "voigtlander-35-f-1-7"
+author: "inuxbcn"
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2020/02/2020-02-28-3-001.jpg
+image: https://lh3.googleusercontent.com/JvN8Uzqf9ESCbDuJgWBdYA5oErErMNeFMxffS2r1qH4_zAryOd1lN9-Ycg6JKokYKWgDOvx0WfnLA0LnZHcluzae5myJvP7HR7H8wFz3olPkndszfaLzDgGFCmJz8MjAwgvAcSroxxSE-kfJb0g8x0iUCdXNtFq_AieTWN4jsFLgd3il6DUCfH4DZuHtpP12j-fcjnLRyk4RBIljm3jz_XYExxKzoHOIS2moRTj7xQdFaHpjPxDvlLKkp7w7hCtY9yr4gCvOVITnD4n5VQkJJVXiKSkKIkepesepFn4iQv1vImq82XXlqAvg8v41_hxQQY0AVeEZiuchUK86MwoMXaIQC2oaXA9CIKvfFO6lqOtpXmklYks6O1hkvrPIANKX8L_6tjSicy5LZ1bKJI0zvTEp94hjXdPtPaNsmgpkLhMIH_AEpWz8AscIv9yTHvCKYxMlg_o1xJZyBp5A_VBz7L7Af47OkXykqX4SovbjWT7iXJ9JB4923A4L55jtGDwTMHRYoKz3ok6SgDkiZNIkJCrSfY7-QkWSpYXJPU2zQX31wuUzm0XAUDCMIQvXDPIiVGTGnsntq5oJwpRw-DBi0iv463Y15O6kkJyGGbMqMfmu8MDh6zZ3mFyaO1qqp2qol43azvtYwe4ZNeCeOrN2PClqO8AworgLO5lmsp1aHeWiTWBpLrvjbOc=w1868-h1246-no
+---
+
+[![](https://lh3.googleusercontent.com/JvN8Uzqf9ESCbDuJgWBdYA5oErErMNeFMxffS2r1qH4_zAryOd1lN9-Ycg6JKokYKWgDOvx0WfnLA0LnZHcluzae5myJvP7HR7H8wFz3olPkndszfaLzDgGFCmJz8MjAwgvAcSroxxSE-kfJb0g8x0iUCdXNtFq_AieTWN4jsFLgd3il6DUCfH4DZuHtpP12j-fcjnLRyk4RBIljm3jz_XYExxKzoHOIS2moRTj7xQdFaHpjPxDvlLKkp7w7hCtY9yr4gCvOVITnD4n5VQkJJVXiKSkKIkepesepFn4iQv1vImq82XXlqAvg8v41_hxQQY0AVeEZiuchUK86MwoMXaIQC2oaXA9CIKvfFO6lqOtpXmklYks6O1hkvrPIANKX8L_6tjSicy5LZ1bKJI0zvTEp94hjXdPtPaNsmgpkLhMIH_AEpWz8AscIv9yTHvCKYxMlg_o1xJZyBp5A_VBz7L7Af47OkXykqX4SovbjWT7iXJ9JB4923A4L55jtGDwTMHRYoKz3ok6SgDkiZNIkJCrSfY7-QkWSpYXJPU2zQX31wuUzm0XAUDCMIQvXDPIiVGTGnsntq5oJwpRw-DBi0iv463Y15O6kkJyGGbMqMfmu8MDh6zZ3mFyaO1qqp2qol43azvtYwe4ZNeCeOrN2PClqO8AworgLO5lmsp1aHeWiTWBpLrvjbOc=w1868-h1246-no)](https://photos.app.goo.gl/pEq9TUfCGDQP3DjXA)
+
+2020-02-28-M6-Summicron50f/2-Voigtlander21f/4-APX400@1600-R1+25-20'

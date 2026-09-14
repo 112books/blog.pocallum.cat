@@ -1,0 +1,13 @@
+---
+title: "Presa de contacte amb la Lomo'Instant Automat al poble"
+date: 2016-12-29
+slug: "presa-de-contacte-amb-la-lomoinstant-automat-al-poble"
+categories: 
+  - "lomoinstant-automat"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2016/12/Automat-028.jpg
+image: https://lh3.googleusercontent.com/LnOZJPlgd0F-y_gcJGy-FsiDZhAdWHzfRgIrzUGPXmvm3F--hLirTBwbr38Zagw11rRiBKS5i-Tt7FOqNZx6qvbU0CLIptTIvfTl50wgDwWqT2ptSXmo6Im98mIi1BhEm5Js3yXskQZxcj-7Iw1TwOyAl5Bra_xuYi1tBOc-Rofb6-ZzbQEhplt1V6KOZnK-swGAOtMa7XHM-anUAS9t9Z7RIOLrA86EdY4768F3dTFiqSCKs4Rz4KIkE6p9Nc7gzqeq4Wo7NCKuYqVz8phd_inFVsu537u4IW4Q_zHAuKHayF8qPPhYZzCkLj-9huiZK3j-PXmMN_Ikw45pPri4zpKuWlEJCwaz6Hkkrgm5i0hsPFQPcyO2t9PBPzzwyDma09993d1WtWq29tLm8NLcDZ-GNHQJ4Yt3B9XEn4oRbgAWPFFZVfOv1DjQA-ocp-CHgPAn3Fthe3mg2q_jH-dQBgfC7FmEnc0T_ax3GGZeSJslPHTvI-XpzoafS0aMJKt-TXWVbup6Pfk8kNbTL9X2noqxoh3UTXK7tqlsvpMAFogA0KsuFGU4EDFGNWAFqaONoybsuzaznj4mdGKNOfwMPsdJnwaT_eMtZzY6i5IoydaM0v8yEwSKrA=w1469-h938-no
+---
+
+[![](https://lh3.googleusercontent.com/LnOZJPlgd0F-y_gcJGy-FsiDZhAdWHzfRgIrzUGPXmvm3F--hLirTBwbr38Zagw11rRiBKS5i-Tt7FOqNZx6qvbU0CLIptTIvfTl50wgDwWqT2ptSXmo6Im98mIi1BhEm5Js3yXskQZxcj-7Iw1TwOyAl5Bra_xuYi1tBOc-Rofb6-ZzbQEhplt1V6KOZnK-swGAOtMa7XHM-anUAS9t9Z7RIOLrA86EdY4768F3dTFiqSCKs4Rz4KIkE6p9Nc7gzqeq4Wo7NCKuYqVz8phd_inFVsu537u4IW4Q_zHAuKHayF8qPPhYZzCkLj-9huiZK3j-PXmMN_Ikw45pPri4zpKuWlEJCwaz6Hkkrgm5i0hsPFQPcyO2t9PBPzzwyDma09993d1WtWq29tLm8NLcDZ-GNHQJ4Yt3B9XEn4oRbgAWPFFZVfOv1DjQA-ocp-CHgPAn3Fthe3mg2q_jH-dQBgfC7FmEnc0T_ax3GGZeSJslPHTvI-XpzoafS0aMJKt-TXWVbup6Pfk8kNbTL9X2noqxoh3UTXK7tqlsvpMAFogA0KsuFGU4EDFGNWAFqaONoybsuzaznj4mdGKNOfwMPsdJnwaT_eMtZzY6i5IoydaM0v8yEwSKrA=w1469-h938-no)](https://goo.gl/photos/VULFrFHwBnVA1nPZ7)

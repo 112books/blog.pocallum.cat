@@ -1,0 +1,14 @@
+---
+title: "HomeDev#141 - Hasselbad 500CM - Planar 50mm f/4 - Fomapan 200 - Alfonso de Castro Portraits"
+date: 2017-08-20
+slug: "homedev141-hasselbad-500cm-planar-50mm-f4-fomapan-200-alfonso-de-castro-portraits"
+categories: 
+  - "carl-zeis-planar-80mm-f-2-8"
+  - "hasselblad-500cm"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2017/08/HD141-010.jpg
+image: https://lh3.googleusercontent.com/ndAL-lc1OoXr_xBnEk06AXll35DBqwAo_UDxwbum-rvO_cHhGVlLOYmIwCFvwTq7ApSEH2UjlQui6sQGQ4CIr8p-f2q0UFDPHubi2fzC4FSUcFijnbxUGbyWIDW9JM_EBZ-LtpcxdLHwFU7E6MJ7yjWYabXM1723ErVNRZFDo51km7zzJFoo4nTnq7ES-ezBOSozEcjIrtVUSvcmNGyII8xNJ2OCepuE_A-k4FQUVme-zm9cOuYwr7rlJ-p4f0pNXUfdLptaN-fPWnxOWwrZh-Zyu8EirD3-a5lGD-0AlF5vKpSteE5rLsdBhf1TWjQdHo-lE5F2K6zqTmiw2i0G-084KugZg0d6Mq7Su1Te4iRKd1VpNMDFaeqdPkpn4NHrARqww1dogW7eH-Y6Jn7sNwWbWv84Nk98DIDk7EiY6xPQZ8tQkFDg3MfHoknYrwC-a4x9ofIkXISzSLafgQOxBeYN50GMzztALTIZnE3BYSFnbJCL-p403zFh0Wkg8zmCClSsfJQ83qTYVFX_Q8IjRrbl1nzSKbd04nGwvEZIAEhbieAGRua4HsOU1sn1iRjvEYy2Zzo6F724f_3GjiLndwqFAtpKrhj6UMJ0NoXaw6Nk_dwksoSnfw=s1131-no
+---
+
+[![](https://lh3.googleusercontent.com/ndAL-lc1OoXr_xBnEk06AXll35DBqwAo_UDxwbum-rvO_cHhGVlLOYmIwCFvwTq7ApSEH2UjlQui6sQGQ4CIr8p-f2q0UFDPHubi2fzC4FSUcFijnbxUGbyWIDW9JM_EBZ-LtpcxdLHwFU7E6MJ7yjWYabXM1723ErVNRZFDo51km7zzJFoo4nTnq7ES-ezBOSozEcjIrtVUSvcmNGyII8xNJ2OCepuE_A-k4FQUVme-zm9cOuYwr7rlJ-p4f0pNXUfdLptaN-fPWnxOWwrZh-Zyu8EirD3-a5lGD-0AlF5vKpSteE5rLsdBhf1TWjQdHo-lE5F2K6zqTmiw2i0G-084KugZg0d6Mq7Su1Te4iRKd1VpNMDFaeqdPkpn4NHrARqww1dogW7eH-Y6Jn7sNwWbWv84Nk98DIDk7EiY6xPQZ8tQkFDg3MfHoknYrwC-a4x9ofIkXISzSLafgQOxBeYN50GMzztALTIZnE3BYSFnbJCL-p403zFh0Wkg8zmCClSsfJQ83qTYVFX_Q8IjRrbl1nzSKbd04nGwvEZIAEhbieAGRua4HsOU1sn1iRjvEYy2Zzo6F724f_3GjiLndwqFAtpKrhj6UMJ0NoXaw6Nk_dwksoSnfw=s1131-no)](https://goo.gl/photos/6waT7AWMHQvmw6cQ7)

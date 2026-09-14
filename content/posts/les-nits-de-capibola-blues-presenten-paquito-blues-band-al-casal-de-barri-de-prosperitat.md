@@ -1,0 +1,15 @@
+---
+title: "Les Nits de Capibola Blues presenten Paquito Blues Band al Casal de barri de Prosperitat"
+date: 2018-05-05
+slug: "les-nits-de-capibola-blues-presenten-paquito-blues-band-al-casal-de-barri-de-prosperitat"
+categories: 
+  - "leica-m6"
+author: "inuxbcn"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2018/05/HD226-LM6-024.jpg
+image: https://lh3.googleusercontent.com/jC4rHR9wRPVPbRGGRX8ZN5aJR-d-JZ656OpKttRcj4JLGuvI0vpG4zCKPkrboG0Eun0YrfSMuN-YJrnBIgbfgBqWoKQhUdmi1w94DI558_qArEXcGI6bw6WcC-gGnR08bG5QHsbSw9LjyirTPJJQ-nF3Zq-gA3z-nbsA4fTv3oK21hY2X9knSUscrOJSdfL-idnN6hnicR3u6tqOpAq30ewAxlvonPNxY98g9j4Ri9IHrWx2JmWQR2WKSzlO5YKrJ30IqnVDAmVa4F7Z0qz6HoKV6SSAuxKHnTo6_sKM4ideLhBhfCrBXfQZwlRngcZOnMbxYiuFxUqYfZMNxwRuIyhApv7_Q_chvszdjtXGSRpfJ-S6NO2A_bKYpGbn8tmKsjOwYrgZjQxjLWwtg_7vbV9LVLFlBDfRSynxbCsaMkHSWwn7dP_5YCLDhLV7eXrC2qu1iXedbZRaNXnW2zj5i_SqmloztzWjuxFVOOdz842l1eKbE83UAbdqGDkYTJ4SXcIRxScYXwCLxNkYsIjaWQ4CpXrZCSQCn6_c2xHhGrlAUa9CeQx0BslxpNDYckF8_kZ7YRjon415uR1D8GogGj0fOfduEK-8BtLRFYwU=w1516-h1011-no
+---
+
+[![](https://lh3.googleusercontent.com/jC4rHR9wRPVPbRGGRX8ZN5aJR-d-JZ656OpKttRcj4JLGuvI0vpG4zCKPkrboG0Eun0YrfSMuN-YJrnBIgbfgBqWoKQhUdmi1w94DI558_qArEXcGI6bw6WcC-gGnR08bG5QHsbSw9LjyirTPJJQ-nF3Zq-gA3z-nbsA4fTv3oK21hY2X9knSUscrOJSdfL-idnN6hnicR3u6tqOpAq30ewAxlvonPNxY98g9j4Ri9IHrWx2JmWQR2WKSzlO5YKrJ30IqnVDAmVa4F7Z0qz6HoKV6SSAuxKHnTo6_sKM4ideLhBhfCrBXfQZwlRngcZOnMbxYiuFxUqYfZMNxwRuIyhApv7_Q_chvszdjtXGSRpfJ-S6NO2A_bKYpGbn8tmKsjOwYrgZjQxjLWwtg_7vbV9LVLFlBDfRSynxbCsaMkHSWwn7dP_5YCLDhLV7eXrC2qu1iXedbZRaNXnW2zj5i_SqmloztzWjuxFVOOdz842l1eKbE83UAbdqGDkYTJ4SXcIRxScYXwCLxNkYsIjaWQ4CpXrZCSQCn6_c2xHhGrlAUa9CeQx0BslxpNDYckF8_kZ7YRjon415uR1D8GogGj0fOfduEK-8BtLRFYwU=w1516-h1011-no)](https://photos.app.goo.gl/Xn6C72ziUHzBUJuw1)
+
+Leica M6 - Summicron 40mm f/2 - Ilford Delta 400 @1600

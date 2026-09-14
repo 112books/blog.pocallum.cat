@@ -1,0 +1,18 @@
+---
+title: "Vermutsical amb Morosito en acústic - Casal de barri de Prosperitat"
+date: 2019-09-08
+slug: "vermutsical-amb-morosito-en-acustic-casal-de-barri-de-prosperitat"
+categories: 
+  - "leica-m6"
+tags:
+  - "barcelona"
+  - "bcn"
+  - "casal-de-joves-de-prosperitat"
+  - "morosito"
+  - "vermutsical"
+author: "inuxbcn"
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2019/09/HD423-009.jpg
+image: https://lh3.googleusercontent.com/6L1sC2XC7VQk1pAuTLCdBQiZlMRLOZHcm1bu3gPg_1uTh0Kq6qwRxtvr1QxENeTkuYC_lV6PDkIp7xSdsc4lWgnsPabzehTISqoQsRLqF3vOOsqtZq0h_ZDoZecvUEYrPtykbbZv3v53ZCW12vksafuOakckDxwhto61KfypW-GJEi5cRz_GMZmScTSDZ3GXQVTIRsPa6-6RKpEyd8y7KKwaRuVwM96WcAozGMQXeft1kDBAhsho8lpR89HiMWaorrIrt3ZObLV0wXnaxW1BKEC1gwVNGbU9A79asfZtLOCiaO4IPjJcZxdb22WQ55vNYVzS9lBXL6WljgiWTcPr_KhzLoY1bEZp05UhYIdPuqAKsNBL6TrfY8KSg5eKZcdcs14e05dHI5zDDQGDqq_rG5SVIHRK9ccSKsJNSt9zYhepUfX7dqTVy1-kglb5rF8knHx66SWl3FiohBcnY0cWceeCDWIZRH4Z5s_7zrZjR46ZWO1Y4um-HXEiEwgIVsVI_8BMHoAR9_RO48-gdVM8jbWDkudGpgT9wxqZ6sOQgT01w-OY_zPcz0J_iH0lUEy3e7mYHT095fPCUevlts6iJnO9DeO6TP9xz4WAUoblAVmrx_TKk2uPPLk2l-kb8a9_szqby_tQ7R_rJVCv2yTQyABLAeQ-0joKjxnsnGnhdBTNwYE8PeUAItTr=w2016-h1239-no
+---
+
+[![](https://lh3.googleusercontent.com/6L1sC2XC7VQk1pAuTLCdBQiZlMRLOZHcm1bu3gPg_1uTh0Kq6qwRxtvr1QxENeTkuYC_lV6PDkIp7xSdsc4lWgnsPabzehTISqoQsRLqF3vOOsqtZq0h_ZDoZecvUEYrPtykbbZv3v53ZCW12vksafuOakckDxwhto61KfypW-GJEi5cRz_GMZmScTSDZ3GXQVTIRsPa6-6RKpEyd8y7KKwaRuVwM96WcAozGMQXeft1kDBAhsho8lpR89HiMWaorrIrt3ZObLV0wXnaxW1BKEC1gwVNGbU9A79asfZtLOCiaO4IPjJcZxdb22WQ55vNYVzS9lBXL6WljgiWTcPr_KhzLoY1bEZp05UhYIdPuqAKsNBL6TrfY8KSg5eKZcdcs14e05dHI5zDDQGDqq_rG5SVIHRK9ccSKsJNSt9zYhepUfX7dqTVy1-kglb5rF8knHx66SWl3FiohBcnY0cWceeCDWIZRH4Z5s_7zrZjR46ZWO1Y4um-HXEiEwgIVsVI_8BMHoAR9_RO48-gdVM8jbWDkudGpgT9wxqZ6sOQgT01w-OY_zPcz0J_iH0lUEy3e7mYHT095fPCUevlts6iJnO9DeO6TP9xz4WAUoblAVmrx_TKk2uPPLk2l-kb8a9_szqby_tQ7R_rJVCv2yTQyABLAeQ-0joKjxnsnGnhdBTNwYE8PeUAItTr=w2016-h1239-no)](https://photos.app.goo.gl/fnxq1msmdtPjAe1S6)

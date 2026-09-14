@@ -1,0 +1,24 @@
+---
+title: "Festival de Blues de Barcelona –  Tina & Joe & Joan Pau Cumellas"
+date: 2020-07-03
+slug: "festival-de-blues-de-barcelona-tina-joe-joan-pau-cumellas-2"
+categories: 
+  - "camara"
+  - "leica-m6"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2020/07/Captura-de-pantalla-2024-11-14-a-les-11.10.23.png
+image: https://lh3.googleusercontent.com/tYXkax63LzKDwgTufIyYJ4ZkrQjx67p_AQflF7d61VIN7qqGYr_9NVRvbsQN3oV82qh6hOTIVnejtSDMmxXVqulCa03s-trsaM_fbm9e2oaPLKEpmvqOfbzDWR91V70Q8yxbPAa1CRPAfgBH6iL0Kr9X9oylXt3feFwcoXxPj9gTXoIdN4Z2jUqRMXKl3xg-OCj3M7DI9srxlz_hnyxnH3Cv4cBscGNXeZsZK1xEDcbi8v41K6w00mnmAdtAtFbWEZOSt8jnazKZb0tVPL2LW3dUDoTdS842mIDy9drltK4LId2de54QTI_FvOjwyVjzwbGGmK-9jq_kBJJw-UnE7bORNzYQoDFZ9lUxe8jJkuS_37UgT8a6KipKNxn5PIhnv_xRtibGnF5qLR330yGiT5hi5votqgdz1hv4NLpFOe65qeYa0O61OaYAxFA9YDbGUZEaj1IaOlQfhsTww0rYEOfQTaONBYCuDr7e8Etv4OoPa1CenrZNLMDyLyb6t0Zu63SgGIAX99ctX2fgygBuOB0K8HQQBgt4nVCgkXjELAjAhYLWfJqyE9sAUrLemaRORdpcAX67gMmyFKv25_M6CYfRSd5Lth8_qJLYGVlOaef191GxblKAFOX9G-jIFIl7ZVOikSdDyYNtxS9FgvB_TNASTiT4SBb0F_yROIbrmCun4UPJyskFXK2io8L-UQ=w1696-h1053-no?authuser=0
+---
+
+<figure>
+
+[![](https://lh3.googleusercontent.com/tYXkax63LzKDwgTufIyYJ4ZkrQjx67p_AQflF7d61VIN7qqGYr_9NVRvbsQN3oV82qh6hOTIVnejtSDMmxXVqulCa03s-trsaM_fbm9e2oaPLKEpmvqOfbzDWR91V70Q8yxbPAa1CRPAfgBH6iL0Kr9X9oylXt3feFwcoXxPj9gTXoIdN4Z2jUqRMXKl3xg-OCj3M7DI9srxlz_hnyxnH3Cv4cBscGNXeZsZK1xEDcbi8v41K6w00mnmAdtAtFbWEZOSt8jnazKZb0tVPL2LW3dUDoTdS842mIDy9drltK4LId2de54QTI_FvOjwyVjzwbGGmK-9jq_kBJJw-UnE7bORNzYQoDFZ9lUxe8jJkuS_37UgT8a6KipKNxn5PIhnv_xRtibGnF5qLR330yGiT5hi5votqgdz1hv4NLpFOe65qeYa0O61OaYAxFA9YDbGUZEaj1IaOlQfhsTww0rYEOfQTaONBYCuDr7e8Etv4OoPa1CenrZNLMDyLyb6t0Zu63SgGIAX99ctX2fgygBuOB0K8HQQBgt4nVCgkXjELAjAhYLWfJqyE9sAUrLemaRORdpcAX67gMmyFKv25_M6CYfRSd5Lth8_qJLYGVlOaef191GxblKAFOX9G-jIFIl7ZVOikSdDyYNtxS9FgvB_TNASTiT4SBb0F_yROIbrmCun4UPJyskFXK2io8L-UQ=w1696-h1053-no?authuser=0)](https://photos.app.goo.gl/6g6zwsH9CRxsGnKm6)
+
+<figcaption>
+
+Leica M6 - Agfa APX400 @800
+
+</figcaption>
+
+</figure>

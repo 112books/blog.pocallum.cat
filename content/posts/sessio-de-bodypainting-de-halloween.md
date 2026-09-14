@@ -1,0 +1,26 @@
+---
+title: "Sessió de bodypainting de Halloween"
+date: 2020-10-30
+slug: "sessio-de-bodypainting-de-halloween"
+categories: 
+  - "canon-eos-6d"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2020/10/IMG_1881.jpg
+image: https://lh3.googleusercontent.com/fxk3q0Se5mIBobFRmmi2bXFZci0_QSye9A1DVHePcR1Hbh6DIsPQAwBFkSq6OVaojL9yvUr2sEkM7Poi15yJO_haGl3aEgSf0dy3tuT8Jt-f82NRfOfgovYzVMdH6Wnm6FR_Mw-Yzx4P5JaaQ_czWbTzLjtJsgtHc5iyUZz2-ZipTo7dqOCmfmQLmiXOp9p3Cpj6zC4wdlcvkaaYPg1aDGGob0jMiwfIcXtzbNA81j9qTTkQJRdxEIYl9f32IVSrNp6RVPOiuCr2n4c9O1yx3A3U6C4BGKMcqgxlbEFqiMJBUPsWlWcK17q07oG7apuf6Pik7Vv1EYhQVGgjuq7r9LtpdWhp72KSCPtnu_vzRQpA-j8FgcYK28BX6qUIndImPuvp4c30GAu356_yRAh8lYfHTbr2IaifqnvDA1UKrwUVZunAAnAzMEgrwdFhAxtR6Rt6q7ZAG54x6L8FHq3gDJPf2cW_N6y6Nt52C06at6sZZ511PGNQKh1_pVzO35muwJ1HfOCgk2LWui81K98Jalt4U0eficFw0H5NECyASZRG5SUpOgWUzlHytAB51w9XJOlgZeB6KefOO7XEx5SWqlYW3zz_kDyu4iZ9eBNJTWIMFCktnLEw-qJpdw_x7wX0fSbUYu8nhQMnMUAIBY6lkgNZjWXEdZhRLziZ3I_6zIZKbSRdtjtM4zier2Nq4g=w1735-h1157-no?authuser=0
+---
+
+<figure>
+
+[![](https://lh3.googleusercontent.com/fxk3q0Se5mIBobFRmmi2bXFZci0_QSye9A1DVHePcR1Hbh6DIsPQAwBFkSq6OVaojL9yvUr2sEkM7Poi15yJO_haGl3aEgSf0dy3tuT8Jt-f82NRfOfgovYzVMdH6Wnm6FR_Mw-Yzx4P5JaaQ_czWbTzLjtJsgtHc5iyUZz2-ZipTo7dqOCmfmQLmiXOp9p3Cpj6zC4wdlcvkaaYPg1aDGGob0jMiwfIcXtzbNA81j9qTTkQJRdxEIYl9f32IVSrNp6RVPOiuCr2n4c9O1yx3A3U6C4BGKMcqgxlbEFqiMJBUPsWlWcK17q07oG7apuf6Pik7Vv1EYhQVGgjuq7r9LtpdWhp72KSCPtnu_vzRQpA-j8FgcYK28BX6qUIndImPuvp4c30GAu356_yRAh8lYfHTbr2IaifqnvDA1UKrwUVZunAAnAzMEgrwdFhAxtR6Rt6q7ZAG54x6L8FHq3gDJPf2cW_N6y6Nt52C06at6sZZ511PGNQKh1_pVzO35muwJ1HfOCgk2LWui81K98Jalt4U0eficFw0H5NECyASZRG5SUpOgWUzlHytAB51w9XJOlgZeB6KefOO7XEx5SWqlYW3zz_kDyu4iZ9eBNJTWIMFCktnLEw-qJpdw_x7wX0fSbUYu8nhQMnMUAIBY6lkgNZjWXEdZhRLziZ3I_6zIZKbSRdtjtM4zier2Nq4g=w1735-h1157-no?authuser=0)](https://photos.app.goo.gl/M56exjqsLhTXTXz69)
+
+<figcaption>
+
+Clic per veure tot l'àlbum
+
+</figcaption>
+
+</figure>
+
+Mostra de la sessió de Body Painting realitzada a [Llumàtics](https://llumatics.com) amb el maquillatge de [@bodypaint\_barcelona](https://www.instagram.com/bodypaint_barcelona/) i els models [@ely\_pilatessupbeach](https://www.instagram.com/ely_pilatessupbeach/) i [@ritmojack](https://www.instagram.com/ritmojack/).  
+Canon EOS 6D

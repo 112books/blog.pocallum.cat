@@ -1,0 +1,25 @@
+---
+title: "Vermutsical: The Blues Prisoners"
+date: 2021-12-05
+slug: "vermutsical-the-blues-prisoners"
+categories: 
+  - "fuji-x-pro1"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2021/12/DSF5306.jpg
+image: https://lh3.googleusercontent.com/1vUf9eWYudXijn8rEaNf8kAdVqqgNzgQMG0TAr7nCuGgNTKaH9SEQ7IJntFvu5UvIMLgRNhDaK4CYknQ8CRZknbOqvVXslG7srehGAE_1Rc5wg8dL9eOXmGjIfO0s9pV3NKxEwEv-OXCgCQdMYhU17vo87FPl5IHcMbEbgh67DM7FYi6NsfOPs4im8yzcHbuURaliqH6SQurVUrPMhyOzOVRaE9sfr6Ih0lOR_93YeI8hH7EThXE6bt42wd-hX2j_f9hQcvk0Wxpw8UT54InAhTIEnnFtd_hrmqqgLFA1gBkbgnvdHV-g5h4cLPkdRHu_DOeYDUDNiF6Czjf5l5kTfkkbagikVoDnTfIpRFgUhAn4FedW_sX5ZZqEWPwVPntWFhqD37KZshHIa_hhREeQLmWa-Ew4uE-_jabMeskBCE22QBSh_MKovB8sSLbBMqCr8h3s9uikoHCUMwH8wtIzgOP_EtH16SARUZGCRuZo7Gx7MnDuSVPK4c-53pMhG1XTsIPI2-fYRZdxBA5e9K_pQfZ77nFDfx2NRtCQQI5V0a2CRBaHqDQkBAEEsQDBdfHenUGxm4R4_PmQBgG3yZujCtSqFABtGiSvyBShN6QAK7KKrik9_Y1OIkx7VkChQNqHP-U4mrTOGvRZXHAbqwqa4oE3Va_bfvhoas3ebQqAQpl0SQ0vsI9049wBjUZ6mO4FmTl_axukB20zi-9fS3ZaJyK=w1406-h938-no?authuser=0
+---
+
+<figure>
+
+[![](https://lh3.googleusercontent.com/1vUf9eWYudXijn8rEaNf8kAdVqqgNzgQMG0TAr7nCuGgNTKaH9SEQ7IJntFvu5UvIMLgRNhDaK4CYknQ8CRZknbOqvVXslG7srehGAE_1Rc5wg8dL9eOXmGjIfO0s9pV3NKxEwEv-OXCgCQdMYhU17vo87FPl5IHcMbEbgh67DM7FYi6NsfOPs4im8yzcHbuURaliqH6SQurVUrPMhyOzOVRaE9sfr6Ih0lOR_93YeI8hH7EThXE6bt42wd-hX2j_f9hQcvk0Wxpw8UT54InAhTIEnnFtd_hrmqqgLFA1gBkbgnvdHV-g5h4cLPkdRHu_DOeYDUDNiF6Czjf5l5kTfkkbagikVoDnTfIpRFgUhAn4FedW_sX5ZZqEWPwVPntWFhqD37KZshHIa_hhREeQLmWa-Ew4uE-_jabMeskBCE22QBSh_MKovB8sSLbBMqCr8h3s9uikoHCUMwH8wtIzgOP_EtH16SARUZGCRuZo7Gx7MnDuSVPK4c-53pMhG1XTsIPI2-fYRZdxBA5e9K_pQfZ77nFDfx2NRtCQQI5V0a2CRBaHqDQkBAEEsQDBdfHenUGxm4R4_PmQBgG3yZujCtSqFABtGiSvyBShN6QAK7KKrik9_Y1OIkx7VkChQNqHP-U4mrTOGvRZXHAbqwqa4oE3Va_bfvhoas3ebQqAQpl0SQ0vsI9049wBjUZ6mO4FmTl_axukB20zi-9fS3ZaJyK=w1406-h938-no?authuser=0)](https://photos.app.goo.gl/N4RmL7b513G9ZjN98)
+
+<figcaption>
+
+Fuji X-Pro 1
+
+</figcaption>
+
+</figure>
+
+Aquest passat dissabte hem gaudit amb [The Blues Prisoners](https://www.instagram.com/thebluesprisoners/) al Casal de barri de Prosperitat!

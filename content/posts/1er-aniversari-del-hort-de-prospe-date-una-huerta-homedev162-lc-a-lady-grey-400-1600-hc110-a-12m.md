@@ -1,0 +1,13 @@
+---
+title: "1er aniversari del hort de Prospe “Date una Huerta” - HomeDev#162 - LC-A+ - Lady Grey 400 @1600, HC110-A 12m"
+date: 2017-11-16
+slug: "1er-aniversari-del-hort-de-prospe-date-una-huerta-homedev162-lc-a-lady-grey-400-1600-hc110-a-12m"
+categories: 
+  - "lomography-lc-a"
+author: "inuxbcn"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2017/11/HD162-031-1.jpg
+image: https://lh3.googleusercontent.com/nqzZzhPvEevBRtI_PIir0BL6EA42zm48FPJ8aES1iG81OoQHYGOvvIe6BpFvdCxD2KSnIGdh_JScg5NJ8R0ii8Fu1pF9ccvuT0F8VCOFptmyfL2QtQbqG5nRmsShGmEomBelkoP6ZXzd17IEI1BeqIPvNsLK5ccP_6XLLX6-FU9VmgW8itiBkC7SxZHhsK5aBiLBigyKxUn_hXOILDGK3Xvb1Atw4FbvT321nj94GsjNFefjXbLY8zPxNU_45Opmd3lbmjNXrZTmSi-sWqhdktjWiHR80Ieprbasz7fsxyhS3QJV_5vAMFDKosL079uFyhitINN3wcAC01hO3xVLf3NSDDJRmnpOPIC1gW9enN-AhtOPOtgV3LLW3ohVlaH_YD9uhrrZ24m5Af1ZH3JFwB08GTwaC2dSUzQThJykpFYg4s-A3zP9MIJZFGoeT8yWXHFMQShj3-CE1gWhqv5QpNu_lKDgO2u4E9Mf1_tT_8_UM6wV5dWpfpf85EBVJ402I3P2CoVS5YBT9B1hGi6T7KKN2wKRsX4FeQXJM7V4U33FCHYZUkuCFiShgaNZ1q657oX2TrPl66WU7pGREb9LBEU3fx3LDKjS6dPIjm94HvA=w1252-h835-no
+---
+
+[![](https://lh3.googleusercontent.com/nqzZzhPvEevBRtI_PIir0BL6EA42zm48FPJ8aES1iG81OoQHYGOvvIe6BpFvdCxD2KSnIGdh_JScg5NJ8R0ii8Fu1pF9ccvuT0F8VCOFptmyfL2QtQbqG5nRmsShGmEomBelkoP6ZXzd17IEI1BeqIPvNsLK5ccP_6XLLX6-FU9VmgW8itiBkC7SxZHhsK5aBiLBigyKxUn_hXOILDGK3Xvb1Atw4FbvT321nj94GsjNFefjXbLY8zPxNU_45Opmd3lbmjNXrZTmSi-sWqhdktjWiHR80Ieprbasz7fsxyhS3QJV_5vAMFDKosL079uFyhitINN3wcAC01hO3xVLf3NSDDJRmnpOPIC1gW9enN-AhtOPOtgV3LLW3ohVlaH_YD9uhrrZ24m5Af1ZH3JFwB08GTwaC2dSUzQThJykpFYg4s-A3zP9MIJZFGoeT8yWXHFMQShj3-CE1gWhqv5QpNu_lKDgO2u4E9Mf1_tT_8_UM6wV5dWpfpf85EBVJ402I3P2CoVS5YBT9B1hGi6T7KKN2wKRsX4FeQXJM7V4U33FCHYZUkuCFiShgaNZ1q657oX2TrPl66WU7pGREb9LBEU3fx3LDKjS6dPIjm94HvA=w1252-h835-no)](https://photos.app.goo.gl/l7vGkq5Wsm7ZH8B72)

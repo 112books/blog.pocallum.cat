@@ -1,0 +1,20 @@
+---
+title: "Vermutsical amb Alma de Boquerón"
+date: 2019-10-06
+slug: "vermutsical-amb-alma-de-boqueron"
+categories: 
+  - "general"
+tags:
+  - "alma-de-boqueron"
+  - "barcelona"
+  - "bcn"
+  - "casal-de-barri-de-prosperitat"
+  - "live"
+  - "musica"
+  - "vermutsical"
+author: "inuxbcn"
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2019/10/DSF2732.jpg
+image: https://lh3.googleusercontent.com/pYnFcPN-8P3oS48EBCzmkRkeTIemND4cqiA8p5FUaDYiT8sL8ZA2T2fj2fXZJ5ke04J_Q38kI1BUBTzTQataX2VY5PmDDnF_zX8dOi7v7cb-iCxTb5j-24leX4xDvKV0n3zQ8D5WMI6lDYS7idfCIP2nQZUEfMgqWLwrrL3SZNOoYFwTLJouefUTVNbBoUjeiaVg2KerTncl7mJM5rjSNIcdVKaRL2Z-6Ho1ChIIy2R8JxfRFRX7bSVoCSYgf9h-GKugu5JQDH9Hzd_5gWDCk84sdjWFOlwllHoM0WCBaAKPcO5J2usoFrdTIIWn9rU_jUGvUc4ompTb-Xt_rXNvkX8YCdv7d9jA8o9YYzuZNVYyhidYrjVB0hJxbW5zuubV4LKzCkIA1-P7VO2pEo82n3oNn8GKoBO5XfV2sMiKWbFHVsarA4aSYwXNEZSUEH0QSopalt0EX2XHCq5a5fQoFIX8adUPeo7J9lL2xvjr4pA1_zKm2TkYyx7JKYT7cEohUu3Wj9csIa8KxufvtUr62EngVOn7V6coBtBmds03snZqsvwoYNLH-JrrSx02PoWNp8Y00a9NbNBM1b76zXdyOCL0jw6MdJ5a5-bfE9jE7-rkdX58nMy8Ssm2wLQf1DVh_PrrQ8K_YJXxwqo7LUPwIN3P6Bkiwsv3tBmB1eVJIY-K-CR6RAdh5Yuu=w1859-h1239-no
+---
+
+[![](https://lh3.googleusercontent.com/pYnFcPN-8P3oS48EBCzmkRkeTIemND4cqiA8p5FUaDYiT8sL8ZA2T2fj2fXZJ5ke04J_Q38kI1BUBTzTQataX2VY5PmDDnF_zX8dOi7v7cb-iCxTb5j-24leX4xDvKV0n3zQ8D5WMI6lDYS7idfCIP2nQZUEfMgqWLwrrL3SZNOoYFwTLJouefUTVNbBoUjeiaVg2KerTncl7mJM5rjSNIcdVKaRL2Z-6Ho1ChIIy2R8JxfRFRX7bSVoCSYgf9h-GKugu5JQDH9Hzd_5gWDCk84sdjWFOlwllHoM0WCBaAKPcO5J2usoFrdTIIWn9rU_jUGvUc4ompTb-Xt_rXNvkX8YCdv7d9jA8o9YYzuZNVYyhidYrjVB0hJxbW5zuubV4LKzCkIA1-P7VO2pEo82n3oNn8GKoBO5XfV2sMiKWbFHVsarA4aSYwXNEZSUEH0QSopalt0EX2XHCq5a5fQoFIX8adUPeo7J9lL2xvjr4pA1_zKm2TkYyx7JKYT7cEohUu3Wj9csIa8KxufvtUr62EngVOn7V6coBtBmds03snZqsvwoYNLH-JrrSx02PoWNp8Y00a9NbNBM1b76zXdyOCL0jw6MdJ5a5-bfE9jE7-rkdX58nMy8Ssm2wLQf1DVh_PrrQ8K_YJXxwqo7LUPwIN3P6Bkiwsv3tBmB1eVJIY-K-CR6RAdh5Yuu=w1859-h1239-no)](https://photos.app.goo.gl/jLQq3rF8oSAjU4WX9)

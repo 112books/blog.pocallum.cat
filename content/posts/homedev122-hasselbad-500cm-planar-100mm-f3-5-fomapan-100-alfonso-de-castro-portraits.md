@@ -1,0 +1,15 @@
+---
+title: "HomeDev#122 - Hasselbad 500CM - Planar 100mm f/3.5 - Fomapan 100"
+date: 2017-05-12
+slug: "homedev122-hasselbad-500cm-planar-100mm-f3-5-fomapan-100-alfonso-de-castro-portraits"
+categories: 
+  - "hasselblad-500cm"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2017/05/HD122-HasselBlad500-012.jpg
+image: https://lh3.googleusercontent.com/fnmiB8sUAt_vxGAkAh_g_aSlRz2ilSksQQIVB0o06gaSzqvdSayIKZcO9TiH_ehP4yzI79CEYRyp7sroPEtEqm4qXrO6vumZ66zJdItdpTk-HdrwJ6LT3jJP-6nb-mwafDqBT_-_EiZTPRp7TAElvqtvqndoNawrcawwitBxWCuO8ueix-MfySmjviP8VWqr_yYQ4OXyAe0MbU9JVRjlq5bVMCHDRNbRzdp2tI2fh8sBQ_ewtAfq-F7Hd-vt63JX6tGnHeExhBtUd6ONozjVfCJiMoQXc57KVfl9_TOj7JdMOrDv3eU1uFRW9ap5FzzIi1CVfLJFGVqmfaqPSnt78hb_L0fE5b61PNrhBKHTXwpQMP2BwnxdwN0ZYaCAR7jldffK73bR9Ajuih2fOJMHdTEsEAdYycXIcYq-WGiQNV6IHxWG17pK5kvmhtD7j40mZza7Gsr7XP7TFBB-AQ_Xsg3WRMOuLE0KXjLETnMXeKCHldjnfH-mbhohVhQ-A_8KWmuQzYJuBVPgGVQ_4v5NNFQuuagnkViTuO1kaq6UHJN7_w1Nbh9AYerwCYntPjiCS54OWcz7P4fkaj1ZhqmhX9POXMcEX4_ZKo-NwJmZfqcnHWHhUYpEQQ=s1050-no
+---
+
+[![](https://lh3.googleusercontent.com/fnmiB8sUAt_vxGAkAh_g_aSlRz2ilSksQQIVB0o06gaSzqvdSayIKZcO9TiH_ehP4yzI79CEYRyp7sroPEtEqm4qXrO6vumZ66zJdItdpTk-HdrwJ6LT3jJP-6nb-mwafDqBT_-_EiZTPRp7TAElvqtvqndoNawrcawwitBxWCuO8ueix-MfySmjviP8VWqr_yYQ4OXyAe0MbU9JVRjlq5bVMCHDRNbRzdp2tI2fh8sBQ_ewtAfq-F7Hd-vt63JX6tGnHeExhBtUd6ONozjVfCJiMoQXc57KVfl9_TOj7JdMOrDv3eU1uFRW9ap5FzzIi1CVfLJFGVqmfaqPSnt78hb_L0fE5b61PNrhBKHTXwpQMP2BwnxdwN0ZYaCAR7jldffK73bR9Ajuih2fOJMHdTEsEAdYycXIcYq-WGiQNV6IHxWG17pK5kvmhtD7j40mZza7Gsr7XP7TFBB-AQ_Xsg3WRMOuLE0KXjLETnMXeKCHldjnfH-mbhohVhQ-A_8KWmuQzYJuBVPgGVQ_4v5NNFQuuagnkViTuO1kaq6UHJN7_w1Nbh9AYerwCYntPjiCS54OWcz7P4fkaj1ZhqmhX9POXMcEX4_ZKo-NwJmZfqcnHWHhUYpEQQ=s1050-no)](https://goo.gl/photos/WCE3ULDNEQ9EyP2u8)
+
+Primers retrats amb la nova Hasselblad. Aquest cop amb el mestre Alfonso i utilitzant flash.

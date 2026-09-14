@@ -1,0 +1,15 @@
+---
+title: "Rockarbusto 2016 - Divendres"
+date: 2016-10-01
+slug: "rockarbusto-2016-divendres"
+categories: 
+  - "fuji-x-a1"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2016/10/DSCF5575.jpg
+image: https://lh3.googleusercontent.com/lJm8hHkvI1Eks0H5iB5jHmOH2CNL1JysDXqZumDK5KZHLPEmr__JU14YP6CpENVAZDgph8X2mKBPrs8S6xfL1Et12pi3I2LGh10cnoK7RDLzg_PLbpHfxgsnRrLMdbo9GLvietASs8O3q_R9GOeArFiRDCEX_eZTB_LuO4Vq1lGhaVKyKNdu0Db4Y1QULs5iB7xzShz1sdobIrteKA794nlHAd7hRPVoyklV3wVtyTaUndodTKkFt-yStUuUkLvUVgMjkiJHBWs_wE-g2fR5FcweoEhhAXMyWOM8AlDy_MlxU0_VE8JELCO0DOxgeql1tCSaj-8rGXHt3DmMNzqDmne6EO2LpK_9jYU_lpUDedLNvKuijhcdNiNfvrTtfT2xIKF8JMLYmHQ1vdFu3ic12k0b6SjGa-Z6iL4gw1iBGXyOaWU6YW7mztZoH7bADASUN5veLWlOxJFAS-t5ZL7MWjs6Eu1J-qFp7_-ZSM4BExlSFCGdephpDvGv9ntPrC1IYaLVpOA3thClD2j2gXqgzqWDvK9POTyejb2zFJCYsZG71MFeI8xj-lQtJixa88ly--oa_o5uA0D5gFvsED0lr8d1PaxS_o3fVEBpFy1oiuA1zqQacA=w1388-h926-no
+---
+
+[![](https://lh3.googleusercontent.com/lJm8hHkvI1Eks0H5iB5jHmOH2CNL1JysDXqZumDK5KZHLPEmr__JU14YP6CpENVAZDgph8X2mKBPrs8S6xfL1Et12pi3I2LGh10cnoK7RDLzg_PLbpHfxgsnRrLMdbo9GLvietASs8O3q_R9GOeArFiRDCEX_eZTB_LuO4Vq1lGhaVKyKNdu0Db4Y1QULs5iB7xzShz1sdobIrteKA794nlHAd7hRPVoyklV3wVtyTaUndodTKkFt-yStUuUkLvUVgMjkiJHBWs_wE-g2fR5FcweoEhhAXMyWOM8AlDy_MlxU0_VE8JELCO0DOxgeql1tCSaj-8rGXHt3DmMNzqDmne6EO2LpK_9jYU_lpUDedLNvKuijhcdNiNfvrTtfT2xIKF8JMLYmHQ1vdFu3ic12k0b6SjGa-Z6iL4gw1iBGXyOaWU6YW7mztZoH7bADASUN5veLWlOxJFAS-t5ZL7MWjs6Eu1J-qFp7_-ZSM4BExlSFCGdephpDvGv9ntPrC1IYaLVpOA3thClD2j2gXqgzqWDvK9POTyejb2zFJCYsZG71MFeI8xj-lQtJixa88ly--oa_o5uA0D5gFvsED0lr8d1PaxS_o3fVEBpFy1oiuA1zqQacA=w1388-h926-no)](https://goo.gl/photos/3NvNs8tFXvKPUYN9A)
+
+RockArbusto organitza en aquesta edició els concerts al Casal de barri de Prosperitat desinteresadament per recaudar fondos per HardCore Hits Cancer associació contra el cancer infantil. Enguany amb NER&MAZA, THE BALD´S BAND, RKER i CRAK DEL 29

@@ -1,0 +1,16 @@
+---
+title: "Personatges de la #Prospe"
+date: 2018-05-09
+slug: "personatges-de-la-prospe"
+categories: 
+  - "leica-m6"
+  - "summicron-40mm-f-2"
+author: "inuxbcn"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2018/05/HD228-Lm42-020.jpg
+image: https://lh3.googleusercontent.com/7RdDYn8_6l0gm_hkQSW6AyjiqL3MHFhvfA1oQr0Y_fy3iKrLm0-chDi_ve9X676nu88fqooqH5EPFEI8VqOx129USf4XxeBASFaW8S93mXlrGYa4pRFZICnmAVRsrPEaONuyHEzl11SEnW5sRKhtNQ6q_5LFZpYTlL2TCm-YlPxamyWW7eHvOzsizPwgiIv5JuyCmm04XGKBqoW0_vm9jVgOzh6EaTlDLgGQTO1udakSvaFJi3_uG3OLd2KAauHFY0JpiXk_koFakyB1B9zIYHRSCec2DTXmtA1ERiG31kjrlkyuo4M90R7FJjuLcezv7thA8tbMs4aaKkGBCzuMRtY7gw213zY6j2CGRqIEYL8HdTWNH_-QkK3htvvhTN5N-piEjgG8YP09uYhHImiik77a-4UGVqvlQYudVX3OS54c51Ab3LwD3g3iGA_de7VKJTyKc6k2gT3rdgsECSHXSRN6mP9lqzxbZBeg79hMjNnwlJTmVV-y-rVmHKFFplkFtI75XBRfo_CdAz5bPqLOR1jrd-1HhsbHnW9z8FjEm3BjeSA9e7oeHJuSyQGDWFbqKxTFjePZi-GLvLi6RxyZHlzzcpukyFK4jzIjEB-i=w1516-h1011-no
+---
+
+[![](https://lh3.googleusercontent.com/7RdDYn8_6l0gm_hkQSW6AyjiqL3MHFhvfA1oQr0Y_fy3iKrLm0-chDi_ve9X676nu88fqooqH5EPFEI8VqOx129USf4XxeBASFaW8S93mXlrGYa4pRFZICnmAVRsrPEaONuyHEzl11SEnW5sRKhtNQ6q_5LFZpYTlL2TCm-YlPxamyWW7eHvOzsizPwgiIv5JuyCmm04XGKBqoW0_vm9jVgOzh6EaTlDLgGQTO1udakSvaFJi3_uG3OLd2KAauHFY0JpiXk_koFakyB1B9zIYHRSCec2DTXmtA1ERiG31kjrlkyuo4M90R7FJjuLcezv7thA8tbMs4aaKkGBCzuMRtY7gw213zY6j2CGRqIEYL8HdTWNH_-QkK3htvvhTN5N-piEjgG8YP09uYhHImiik77a-4UGVqvlQYudVX3OS54c51Ab3LwD3g3iGA_de7VKJTyKc6k2gT3rdgsECSHXSRN6mP9lqzxbZBeg79hMjNnwlJTmVV-y-rVmHKFFplkFtI75XBRfo_CdAz5bPqLOR1jrd-1HhsbHnW9z8FjEm3BjeSA9e7oeHJuSyQGDWFbqKxTFjePZi-GLvLi6RxyZHlzzcpukyFK4jzIjEB-i=w1516-h1011-no)](https://photos.app.goo.gl/8YC2vfv5HtKduUmw5)
+
+Leica M6, Summicron 40 f/2, Delta 400 @200

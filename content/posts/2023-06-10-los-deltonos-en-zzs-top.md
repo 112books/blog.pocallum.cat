@@ -1,0 +1,22 @@
+---
+title: "2023-06-10 - Los Deltonos en ZZ's Top"
+date: 2023-06-11
+slug: "2023-06-10-los-deltonos-en-zzs-top"
+categories: 
+  - "leica-d-lux-6"
+tags:
+  - "barcelona"
+  - "concert"
+  - "los-deltonos"
+  - "razzmataz"
+  - "zz-top"
+author: "fatmin"
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2023/06/L1310556-Mejorado-NR.jpg
+image: https://lh3.googleusercontent.com/s1yk2qS-reM1Ybi_sAWeLTIjzeY2fiqXcHrbr7InQT6QvPG1wWks_nTaTFQ-N-IhyC0To8E-7oDgiltHTK4QyEiL_LXJmMj6z8lB8Uqj_GsJO-_9KNXBWhtFUZv3n2TgLnS_K_xh_BY-f_NmqP5h1Pxd5G_SUAphdanoY2GhKeBw__8xvcu8hF3X2UinpXLMibdX-WvU1krH3UxyyQqFouZ3Bve-PTeil64BjCeY2hc9_goSUETsbvQsctV-YzYz9harVRgAWpH-_ev1TSKjNF2Ni1NTIrhjrCdh_krTKGCQjjZAKlQGYd9EwKhRIXDCvzinRNelzmmQ3bOotsbseVn0gknFdc_bfA9xZydpj3Xjbf1kzrILXyS6PXKm057AGrVFtfZ0TKEEyKs6-X-bW-uK9RHzuQvowGDamB3BUXpuRYvc02ewnCOlDHHI1A5-kh9615ioemYbB2KDp_ZXcijnnAPpUd1YeoFPF0t6VYYyi1AYagQ7spj0CmFKn_lZAfar7mnX0EjnxCxlZA08nPpGzP3GbcF6PQZCvsDIvG-uHXH9s_Q7eskBfGiFI1YF-pPF2rIzZqymwpRjNq60A29INKLC2VaX7MU3U4qi73gi4NeAj3UVhz67xAGKEPBALMiWTHuKx54oarXesqmh9SpdXvDVv3Q5TsNqD_reY2Ubm5llMl3jKztgtSKeddFeRBTNGr4Z4b2yqcEBDnjUH-j5zRkP25_jz-tyRIvBRgakYczd9p48FnIbUunED4oI2HG4GSKwUGNYv1xn_DrIYRhszC-3XHo4WMsfOm4Y20MB2W46jEVzdPFCBgmS_To6eF24RIcg3-4oOxenwbipbLHjxttzRFGl7hOKPMYY_uAvjZmqEE2HBGGferSOMj-h5pIS-VwZsKhvM1JPnhXRfxv-P5l6uuzJB4gy2VgUsqvBRw=w1734-h975-s-no?authuser=0
+---
+
+[![](https://lh3.googleusercontent.com/s1yk2qS-reM1Ybi_sAWeLTIjzeY2fiqXcHrbr7InQT6QvPG1wWks_nTaTFQ-N-IhyC0To8E-7oDgiltHTK4QyEiL_LXJmMj6z8lB8Uqj_GsJO-_9KNXBWhtFUZv3n2TgLnS_K_xh_BY-f_NmqP5h1Pxd5G_SUAphdanoY2GhKeBw__8xvcu8hF3X2UinpXLMibdX-WvU1krH3UxyyQqFouZ3Bve-PTeil64BjCeY2hc9_goSUETsbvQsctV-YzYz9harVRgAWpH-_ev1TSKjNF2Ni1NTIrhjrCdh_krTKGCQjjZAKlQGYd9EwKhRIXDCvzinRNelzmmQ3bOotsbseVn0gknFdc_bfA9xZydpj3Xjbf1kzrILXyS6PXKm057AGrVFtfZ0TKEEyKs6-X-bW-uK9RHzuQvowGDamB3BUXpuRYvc02ewnCOlDHHI1A5-kh9615ioemYbB2KDp_ZXcijnnAPpUd1YeoFPF0t6VYYyi1AYagQ7spj0CmFKn_lZAfar7mnX0EjnxCxlZA08nPpGzP3GbcF6PQZCvsDIvG-uHXH9s_Q7eskBfGiFI1YF-pPF2rIzZqymwpRjNq60A29INKLC2VaX7MU3U4qi73gi4NeAj3UVhz67xAGKEPBALMiWTHuKx54oarXesqmh9SpdXvDVv3Q5TsNqD_reY2Ubm5llMl3jKztgtSKeddFeRBTNGr4Z4b2yqcEBDnjUH-j5zRkP25_jz-tyRIvBRgakYczd9p48FnIbUunED4oI2HG4GSKwUGNYv1xn_DrIYRhszC-3XHo4WMsfOm4Y20MB2W46jEVzdPFCBgmS_To6eF24RIcg3-4oOxenwbipbLHjxttzRFGl7hOKPMYY_uAvjZmqEE2HBGGferSOMj-h5pIS-VwZsKhvM1JPnhXRfxv-P5l6uuzJB4gy2VgUsqvBRw=w1734-h975-s-no?authuser=0)](https://photos.app.goo.gl/sPZexu39kNdEhnUp6)
+
+https://vimeo.com/835149599
+
+Feia molt que no anava a un concert de r'n'r!

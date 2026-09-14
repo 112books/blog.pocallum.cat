@@ -1,0 +1,25 @@
+---
+title: "2021-02-23 - Los Mambo Jambo a l'estudi"
+date: 2021-02-23
+slug: "2021-02-23-los-mambo-jambo-a-lestudi"
+categories: 
+  - "canon-eos-6d"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2021/02/IMG_4067.jpg
+image: https://lh3.googleusercontent.com/ilAT040msDKyxzFHMutqaU1VE9gOT0LkpcLFYSmAyFy1JxW2hOH9Oh_JUajGW5It1QfybQaPGmWzDoLKGlgCxWmqylU-jS18_91GhRrLq7sqDDZmjnoa2P4soMi9RtnP2AyznKxPNUOmdp_tm2g0KSLVFBPJweE3BagQJ4VhTABLwbYslUIdUaZTDFG7fKWC7zUA7iTEULwg83YYtdobXKRgLtfzxyAhKJK0LaXBg8AuC7kKDzeCguQdFnpbY3Tv6kaulaIkjFU8pxN5sQlA0tJF7_KxGODvZpL7lc3VtOu1_VOMi4SZ8FxKj90R5ZC9DVx7u9FAmipOaO5XO9xDfpEXheaCrNeaxISldhJGRuiF4V-Rome9xm38NhxH90BI_JyiZwAioPAC-uxrFnpqgLEyEXyM02HjTQD_sKMgUtQ2qpu2Opb8eTRyvFkEOS8bSjvxsVwCQSqhzygXqFhcPbC6vcrRuEBINrebWHy-bSXyl0BR_OYZ8x-qoNwynGCJYJgDu1kGBU6l8J5hPdL9xyuG74KWJlqzygaU5swRg0kxScyt-J6C38HW_Dgdn1sr9poIB69GGcUyt0PHmif58RojJP2GEjlOWNr8dYdsRJ1Soc-HCAtmXQXYTS5JW6f3yYHjL-cp7terw2qd0ribyX94g37Pci6EAWuXMeV4RjAVEEtvXZX-fV6hVd9YM0zWIQYkqrxDrJasrhGK9rvzcR3r=w1572-h1049-no?authuser=0
+---
+
+<figure>
+
+[![](https://lh3.googleusercontent.com/ilAT040msDKyxzFHMutqaU1VE9gOT0LkpcLFYSmAyFy1JxW2hOH9Oh_JUajGW5It1QfybQaPGmWzDoLKGlgCxWmqylU-jS18_91GhRrLq7sqDDZmjnoa2P4soMi9RtnP2AyznKxPNUOmdp_tm2g0KSLVFBPJweE3BagQJ4VhTABLwbYslUIdUaZTDFG7fKWC7zUA7iTEULwg83YYtdobXKRgLtfzxyAhKJK0LaXBg8AuC7kKDzeCguQdFnpbY3Tv6kaulaIkjFU8pxN5sQlA0tJF7_KxGODvZpL7lc3VtOu1_VOMi4SZ8FxKj90R5ZC9DVx7u9FAmipOaO5XO9xDfpEXheaCrNeaxISldhJGRuiF4V-Rome9xm38NhxH90BI_JyiZwAioPAC-uxrFnpqgLEyEXyM02HjTQD_sKMgUtQ2qpu2Opb8eTRyvFkEOS8bSjvxsVwCQSqhzygXqFhcPbC6vcrRuEBINrebWHy-bSXyl0BR_OYZ8x-qoNwynGCJYJgDu1kGBU6l8J5hPdL9xyuG74KWJlqzygaU5swRg0kxScyt-J6C38HW_Dgdn1sr9poIB69GGcUyt0PHmif58RojJP2GEjlOWNr8dYdsRJ1Soc-HCAtmXQXYTS5JW6f3yYHjL-cp7terw2qd0ribyX94g37Pci6EAWuXMeV4RjAVEEtvXZX-fV6hVd9YM0zWIQYkqrxDrJasrhGK9rvzcR3r=w1572-h1049-no?authuser=0)](https://photos.app.goo.gl/puFfWrc7MDdGzCow9)
+
+<figcaption>
+
+Canon EOS 6D - Canon 28f/2.8
+
+</figcaption>
+
+</figure>
+
+Avui hem repetit. En aquesta ocasió també amb digital però amb un tractament de Blanc i Negre, la meva zona de confort ;)

@@ -1,0 +1,16 @@
+---
+title: "Reretraos by Alfonso de Castro a Pedrola. 8x10\" - 13-8-17"
+date: 2017-12-05
+slug: "reretraos-by-alfonso-de-castro-a-pedrola-8x10-13-8-17"
+categories: 
+  - "general"
+author: "inuxbcn"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2017/12/8X101708_001-72ppi.jpg
+image: https://lh3.googleusercontent.com/Vi6fZEc7O7zViMRfcaMAn3jQSpxZe_QanqAhhA4QZSbZfsbf7lQo4CGRcGnLuyL6c3rz3g4rz4WBHMpLqb94Y77ZwNQ2ukIRXxUtTnDjYiqY2_9F1TVzKkgc490Qza5ItKSHaaH_C6l7y3KSZZYWSOPoO-2qgHvhwvLL6hAj04mkI58OpwBKqPF8F6LO6KBMCLasDAx4xOWo3qgbNEZFA-Ur6cjSTuDCGMGZAyfj-uZC-yUIshF4husEmn0zH7DPVZVtBZlt-IcHCPuFB_M3Njh78Q7Gd_gilEXgi5kdcHRxoKrRWUCLs8pmAx1MkEIQTw1NSXTQdE61tNamxOZ-ffokX-JAjhtXP-RIEfrhBG-PEbbU-Hm-iNdHjKpVFSMGRpOubBDL3V0G1gyV_4DLVuhWk2_rxpLa5YqbLaYAGDif3zuSe4BHpRYsBFtCawbtyuC_w4sIIVjK3lKVssFWsTOZLJtV0xEpy2O4BnlEeunZvBYIdPe-3xARJaDR4ti_5AroZ1uNZwXcKInWg1dtUzJg34L9OEhjA0KLWyhDMGSzxtIaEXkQTn2HwxYg1_5HcagxIIwEfz-je2PfwQ9soOTKaP20mGwCcuW1s4CQQ4ito717fUJ_1CzLpvGSwoc_hCEB1OkUsTE0jpztqLaLRnHRrwrssikQBJzw=w1036-h1299-no
+---
+
+[![](https://lh3.googleusercontent.com/Vi6fZEc7O7zViMRfcaMAn3jQSpxZe_QanqAhhA4QZSbZfsbf7lQo4CGRcGnLuyL6c3rz3g4rz4WBHMpLqb94Y77ZwNQ2ukIRXxUtTnDjYiqY2_9F1TVzKkgc490Qza5ItKSHaaH_C6l7y3KSZZYWSOPoO-2qgHvhwvLL6hAj04mkI58OpwBKqPF8F6LO6KBMCLasDAx4xOWo3qgbNEZFA-Ur6cjSTuDCGMGZAyfj-uZC-yUIshF4husEmn0zH7DPVZVtBZlt-IcHCPuFB_M3Njh78Q7Gd_gilEXgi5kdcHRxoKrRWUCLs8pmAx1MkEIQTw1NSXTQdE61tNamxOZ-ffokX-JAjhtXP-RIEfrhBG-PEbbU-Hm-iNdHjKpVFSMGRpOubBDL3V0G1gyV_4DLVuhWk2_rxpLa5YqbLaYAGDif3zuSe4BHpRYsBFtCawbtyuC_w4sIIVjK3lKVssFWsTOZLJtV0xEpy2O4BnlEeunZvBYIdPe-3xARJaDR4ti_5AroZ1uNZwXcKInWg1dtUzJg34L9OEhjA0KLWyhDMGSzxtIaEXkQTn2HwxYg1_5HcagxIIwEfz-je2PfwQ9soOTKaP20mGwCcuW1s4CQQ4ito717fUJ_1CzLpvGSwoc_hCEB1OkUsTE0jpztqLaLRnHRrwrssikQBJzw=w1036-h1299-no)](https://photos.app.goo.gl/2iCFiS0Ulo3y7B9d2)
+
+Ja ha passat molt de temps, però finalment tinc l'escaneig dels retrats fets amb una súper 20x25cm amb negatiu B/N. Un xic retocadets ja es poden mostrar.  
+Gràcies Alfonso de Castro!

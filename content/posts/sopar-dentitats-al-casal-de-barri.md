@@ -1,0 +1,15 @@
+---
+title: "Trobada d'entitats al Casal de Barri"
+date: 2016-10-21
+slug: "sopar-dentitats-al-casal-de-barri"
+categories: 
+  - "fuji-x-a1"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2016/10/DSCF6401.jpg
+image: https://lh3.googleusercontent.com/YiuefJI812Vupbr4bMTz9p6m6HoCi5p9hZ8YVksS9K3eq3QNSEjt46D9aN_V-NN_8VyP6qF421VBsaRAtAuEMPRnloQXXc_oQbMrIgPwSoDSXDBmWIWEPb4YbjNoF2EhEJHH2QLiGWRNLwfOjZHx-khEvj1Ht7OoVODBc_-YAsSqScg2Iw6sh4w0ROeUjy5bS5a_rzsvs2e8kdeqE0qtUdyXJj6N00N9tOaEKn8dQEbW31vGqoJOJTZB_sAO7njWhJ8Kv6f73Fym23N9_Ae4eL272OC_lDmvGex--R2Y3LEXwbV68aK2IyxbbVYAqhfeWvHqWKwqj_OnnW9v5zUOL-ZhV7WUc7li3202ZJf1sidNWrNXmyZsafvGN5QQzleBQPTaJX0VXt4cu8BHNXas6NEtt-FI4UaG8i2xx30hY5aYWhPPb-tPRw1gEcPTokLHkyIau6lzJhD1mv-GnWHj-m9WWq-prKCDRIlVdHp406A0MMGBtp-KkbqcqW_04Dbmp47zJSdmYKzlVNKZ6zAv_gd0_mPpjW9Wl6uVXIgmYrIeDCE0kVDDJ9jbtWzaRYgM1O2joAqKD-NU_nAHTwtfFvdbYZEbHn-YTbw_tJnAtCN07tQENg=w1295-h864-no
+---
+
+[![](https://lh3.googleusercontent.com/YiuefJI812Vupbr4bMTz9p6m6HoCi5p9hZ8YVksS9K3eq3QNSEjt46D9aN_V-NN_8VyP6qF421VBsaRAtAuEMPRnloQXXc_oQbMrIgPwSoDSXDBmWIWEPb4YbjNoF2EhEJHH2QLiGWRNLwfOjZHx-khEvj1Ht7OoVODBc_-YAsSqScg2Iw6sh4w0ROeUjy5bS5a_rzsvs2e8kdeqE0qtUdyXJj6N00N9tOaEKn8dQEbW31vGqoJOJTZB_sAO7njWhJ8Kv6f73Fym23N9_Ae4eL272OC_lDmvGex--R2Y3LEXwbV68aK2IyxbbVYAqhfeWvHqWKwqj_OnnW9v5zUOL-ZhV7WUc7li3202ZJf1sidNWrNXmyZsafvGN5QQzleBQPTaJX0VXt4cu8BHNXas6NEtt-FI4UaG8i2xx30hY5aYWhPPb-tPRw1gEcPTokLHkyIau6lzJhD1mv-GnWHj-m9WWq-prKCDRIlVdHp406A0MMGBtp-KkbqcqW_04Dbmp47zJSdmYKzlVNKZ6zAv_gd0_mPpjW9Wl6uVXIgmYrIeDCE0kVDDJ9jbtWzaRYgM1O2joAqKD-NU_nAHTwtfFvdbYZEbHn-YTbw_tJnAtCN07tQENg=w1295-h864-no)](https://goo.gl/photos/WU5ujkFRBRS8Ne1C9)
+
+Un dia únic per conèixer que preparen les entitats del nostre barri. Amés un sopar de luxe i música espatarrant amb El Sobrino del Diablo Trio. Tot això ha passat aquesta nit al [Casal de barri de Prosperitat!](http://casalprospe.org)

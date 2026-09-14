@@ -1,0 +1,23 @@
+---
+title: "Escapada al Montseny amb Washi S - ISO50"
+date: 2021-10-27
+slug: "escapada-al-montseny-amb-washi-s-iso50"
+categories: 
+  - "leica-m4-2"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2021/10/2021-10-26-LM42-WaS-037.jpg
+image: https://lh3.googleusercontent.com/GSSpV0_mnfcZWIKCeyoEEgjulYjELZUUoJC8Z7WkQTix_hkhJJyNkJm6ElFh1c9wRLBYYvjG2mzJynayBdga1BErzqZOgT5gcYdW0rxmuxCQCnwMQmAL3IpbAAHTcYiZA3sCX4IlCczsZM0ye1QtQx3L4q9HjbHGjm3GUufouXGO_-qwGu05Qb-3kpf6MOnANVqxBVIhNuEp_UhByrc57bpxBGgwx_N8Zxu3r81TmwF9P_63_ybSWSjh-taCScKK6nRKqcra48yur3_ndsAM1dqj0gnwoqwUgOzFh-xdfQ7cvPDv-p0Q6s5el-CvXCdv_DB10P4AF6UhujPb_thLgA3M_hekMnRQu4rZ7WnA4IGv_Gb1y4bZGHjBgI0DjaucagjRQfgg53VI0WyZJNOC3Z1yfaVpv4qF4VYTjGJsaUvqT8Q4jJTSyLc49VN0OR7trT3zKp37I5w5MLZCJkjXot657Yd-KjmtXePUa5plKlk2jPsLO-AFnkyFE71cOjDvYQzXyfmtX5WF7D7W78gCibSiiznaUKyk38kMJvFU50QjwKCPOXoyFCKyKii6k2EedjCy-X0WDD6OUaW4da-GXbp7--PG6Y-5qdKNyaIS1ausOTA_3Kgr4QZP70gjmK37eqZMSLcKKPvc3cQNBgDFyVvce1OtuJwNTc3uxyUD4j9ka-B6lyP53N1GICIZvpCSIkfnJGAjVCjkvovSbgLZ-Oab=w1764-h1176-no?authuser=0
+---
+
+<figure>
+
+[![](https://lh3.googleusercontent.com/GSSpV0_mnfcZWIKCeyoEEgjulYjELZUUoJC8Z7WkQTix_hkhJJyNkJm6ElFh1c9wRLBYYvjG2mzJynayBdga1BErzqZOgT5gcYdW0rxmuxCQCnwMQmAL3IpbAAHTcYiZA3sCX4IlCczsZM0ye1QtQx3L4q9HjbHGjm3GUufouXGO_-qwGu05Qb-3kpf6MOnANVqxBVIhNuEp_UhByrc57bpxBGgwx_N8Zxu3r81TmwF9P_63_ybSWSjh-taCScKK6nRKqcra48yur3_ndsAM1dqj0gnwoqwUgOzFh-xdfQ7cvPDv-p0Q6s5el-CvXCdv_DB10P4AF6UhujPb_thLgA3M_hekMnRQu4rZ7WnA4IGv_Gb1y4bZGHjBgI0DjaucagjRQfgg53VI0WyZJNOC3Z1yfaVpv4qF4VYTjGJsaUvqT8Q4jJTSyLc49VN0OR7trT3zKp37I5w5MLZCJkjXot657Yd-KjmtXePUa5plKlk2jPsLO-AFnkyFE71cOjDvYQzXyfmtX5WF7D7W78gCibSiiznaUKyk38kMJvFU50QjwKCPOXoyFCKyKii6k2EedjCy-X0WDD6OUaW4da-GXbp7--PG6Y-5qdKNyaIS1ausOTA_3Kgr4QZP70gjmK37eqZMSLcKKPvc3cQNBgDFyVvce1OtuJwNTc3uxyUD4j9ka-B6lyP53N1GICIZvpCSIkfnJGAjVCjkvovSbgLZ-Oab=w1764-h1176-no?authuser=0)](https://photos.app.goo.gl/wW99JLg3vjH2pXSL8)
+
+<figcaption>
+
+2021-10-26- Leica M4-2 - Washi S ISO50
+
+</figcaption>
+
+</figure>

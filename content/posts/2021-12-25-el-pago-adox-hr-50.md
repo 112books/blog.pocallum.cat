@@ -1,0 +1,23 @@
+---
+title: "2021-12-25 - El Pago - ADOX HR-50"
+date: 2021-12-27
+slug: "2021-12-25-el-pago-adox-hr-50"
+categories: 
+  - "leica-m6"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2021/12/2021-12-25-El-Pago-028.jpg
+image: https://lh3.googleusercontent.com/dDBRJHU-ajxHpL9QjiDODmc5UZYVjIPTXNvIagKFeNqtzmtZKeyuLhydlsoPlHn-S1Ws8bwZWf1Q3A6blULkto8Gw7097KMOMx6UPgfnzWE5UCBnbVUrBzMzuN-kPwwGmMB26Qtp8HvDeXTEl5Qjjxb3OJxp4WF8ApIdCTsgCMkBM4r3VdaNn2GqwiC-692WfUb1WgXJ-YkqN8MYbldm-6UYld0O8C98l3IXh7brDsqOtZwLi86ZGYuEZvqu3PHku6ZCpF0lP_pZmACEOpKqh7bdlzQpKeFOxeuJof0yqWN7BGATjfRspdZ6JEm0ZNNoRr3PYwjqAHv9Q0pnICLyv-nBbDzzAukF37rUU_xy_Kq0PGkDx2lZUwNQ-UFd4MdueiSInv-lQ9BTHfW9x5HmOUmHxpAtrMqWNXlwahmMZNW6Xj00uy5U2C-L-S4MBI0Iyt3-SShCFrMlIsxRa3Wzh86GW_goRUi9qCuo1n6nrRdeJ4nAhxqCBm2t7tS0bd6nbLzPRrMafg69r9GQwBTKttRZXaYRXbJhiFP85_i_qlXWedX9_19eHaRa_qbJRZHTtJoV8MgxJAwr141Sewk5gXjCpcz2teplyuNYGk81iGKI6UAEnADkGO52WaV8IdRPPNLwTDvZp6sMLGdMz0OciDPgHE5-VAicv9L0yd9OwpCitZTg1eQd_HY93FhxB5_hAo_kcXUpW2Pz-LU0mNwoXcDh=w788-h1255-no?authuser=0
+---
+
+<figure>
+
+[![](https://lh3.googleusercontent.com/dDBRJHU-ajxHpL9QjiDODmc5UZYVjIPTXNvIagKFeNqtzmtZKeyuLhydlsoPlHn-S1Ws8bwZWf1Q3A6blULkto8Gw7097KMOMx6UPgfnzWE5UCBnbVUrBzMzuN-kPwwGmMB26Qtp8HvDeXTEl5Qjjxb3OJxp4WF8ApIdCTsgCMkBM4r3VdaNn2GqwiC-692WfUb1WgXJ-YkqN8MYbldm-6UYld0O8C98l3IXh7brDsqOtZwLi86ZGYuEZvqu3PHku6ZCpF0lP_pZmACEOpKqh7bdlzQpKeFOxeuJof0yqWN7BGATjfRspdZ6JEm0ZNNoRr3PYwjqAHv9Q0pnICLyv-nBbDzzAukF37rUU_xy_Kq0PGkDx2lZUwNQ-UFd4MdueiSInv-lQ9BTHfW9x5HmOUmHxpAtrMqWNXlwahmMZNW6Xj00uy5U2C-L-S4MBI0Iyt3-SShCFrMlIsxRa3Wzh86GW_goRUi9qCuo1n6nrRdeJ4nAhxqCBm2t7tS0bd6nbLzPRrMafg69r9GQwBTKttRZXaYRXbJhiFP85_i_qlXWedX9_19eHaRa_qbJRZHTtJoV8MgxJAwr141Sewk5gXjCpcz2teplyuNYGk81iGKI6UAEnADkGO52WaV8IdRPPNLwTDvZp6sMLGdMz0OciDPgHE5-VAicv9L0yd9OwpCitZTg1eQd_HY93FhxB5_hAo_kcXUpW2Pz-LU0mNwoXcDh=w788-h1255-no?authuser=0)](https://photos.app.goo.gl/ZiF7sGMUSiZ4Luxb7)
+
+<figcaption>
+
+Leica M6 - Voigtlander 35f/1.7 - Adox HR-50
+
+</figcaption>
+
+</figure>

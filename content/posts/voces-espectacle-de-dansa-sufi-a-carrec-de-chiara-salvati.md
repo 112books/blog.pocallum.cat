@@ -1,0 +1,15 @@
+---
+title: "VOCES - Espectacle de Dansa Sufi a càrrec de Chiara Salvati"
+date: 2017-09-16
+slug: "voces-espectacle-de-dansa-sufi-a-carrec-de-chiara-salvati"
+categories: 
+  - "canon-eos-6d"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2017/09/IMG_7371.jpg
+image: https://lh3.googleusercontent.com/_lhvL6VYTRWT6BUFHSYhJWuBqATg-byfJQOHSZHNw2apMApC2WO7kmnKsh7EPJ-zTd6-wNPslNM_OLUl3bM1nPvrW3Zlz-VFKrjRJQ6jweBOALN6OwEH4eSVCj4Pf9tpQUjNTG5toMXAqwCBq2xloHjaz5Q2rHJ2_3SbfLbRcYI2twO5WKwtX5SFQuGXBChgV_RjVyg0xuGKujIREeaj_vB-OvXqJPUKs-Zr5tLtFytKT1_1bMKozOw-CUJbAT9A5TYbqCDo1PZTnBWfRJVZBr-AP2sAenPe46YfRnTHBPSaZrq8XkmcfNd9KLRFQa276neyW8uM2obnNK9auVZ3WLsYg8jWnlTyiGElQQrTacskHX5oZ-7Jb63G0_WEb3LwPKiTp1-_KX1yIfeiT7EUzv9LDUhCYoNMGaTCizrQbPAPUFGZZ9-m402C0yD84fOkcZRnSkKgNyVYbgtLE_p-BzFLzm0Fx-79BHp5ckDRXuFr_uEf64bYedjKb6imAofNQTcRx8iiqIF_LDNzXetaQQmujohgVYeeHv2oexY0g_tbESYdyGQLmS3KOy_IkwgcqXYiE6hDh_bzq9GdRWVK3c8d0zriVaZRZF6KUX4Ck4o=w1367-h912-no
+---
+
+[![](https://lh3.googleusercontent.com/_lhvL6VYTRWT6BUFHSYhJWuBqATg-byfJQOHSZHNw2apMApC2WO7kmnKsh7EPJ-zTd6-wNPslNM_OLUl3bM1nPvrW3Zlz-VFKrjRJQ6jweBOALN6OwEH4eSVCj4Pf9tpQUjNTG5toMXAqwCBq2xloHjaz5Q2rHJ2_3SbfLbRcYI2twO5WKwtX5SFQuGXBChgV_RjVyg0xuGKujIREeaj_vB-OvXqJPUKs-Zr5tLtFytKT1_1bMKozOw-CUJbAT9A5TYbqCDo1PZTnBWfRJVZBr-AP2sAenPe46YfRnTHBPSaZrq8XkmcfNd9KLRFQa276neyW8uM2obnNK9auVZ3WLsYg8jWnlTyiGElQQrTacskHX5oZ-7Jb63G0_WEb3LwPKiTp1-_KX1yIfeiT7EUzv9LDUhCYoNMGaTCizrQbPAPUFGZZ9-m402C0yD84fOkcZRnSkKgNyVYbgtLE_p-BzFLzm0Fx-79BHp5ckDRXuFr_uEf64bYedjKb6imAofNQTcRx8iiqIF_LDNzXetaQQmujohgVYeeHv2oexY0g_tbESYdyGQLmS3KOy_IkwgcqXYiE6hDh_bzq9GdRWVK3c8d0zriVaZRZF6KUX4Ck4o=w1367-h912-no)](https://photos.app.goo.gl/aIkIfbAbHDw3Zgyk1)
+
+Un molt visual i espectacular espectacle de dansa Sufi amb la única ballarina Chiara Salvati. Al Casal de Barri de Prosperitat.

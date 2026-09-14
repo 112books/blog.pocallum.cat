@@ -1,0 +1,23 @@
+---
+title: "Plant"
+date: 2020-05-21
+slug: "plant"
+categories: 
+  - "leica-m6"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2020/05/2020-05-11-035.jpg
+image: https://lh3.googleusercontent.com/vPBuVIToq6SaMZqjTS_I-bODwA_H19YLnOtSV9hWbfmGmFg9vKJU87jQ0pJtaEyDPgy658kRcNYpzP69q39oG_DActMtgQqaiKfhQf2bZZaW2GRNcPfcWtWEKl-7FaScSVRwr_MYtNauomtsNk8OGWxNxp3pwbAsGWbyiAAjia9qYn3okczzYgUOBSWhc3LyEsH2btZyTrnoGvLUs2HB8SJBMDW8gOx9YxfCBM3foJIh-pN1tOYjQ7DkFFqUE8vPcJSJFHYKIVi25RNQeQhjCFT0LXlkxIvM0XtO8f76meBuYfgsl2sVbYq-3bl41cGE9gowHK--EY6T3j_PQomb6HC-fN8DfCWh_f9d7F11oMU6jb1lkci0jcsKvv2YJkkgWtASOb6AIXq9PzGVVa4llBAuZssruWoxU1CE2Cb1Wtf5s94JxRnBFJJlnIvKdymJZCFPdZv_L1xWci_UGxjTiVudxMq77c96TXpQp7zq-A-gIm3_1FhS7Komw3Pz0tf91pVGCCMdI_vzhtOX3M0NeuQUW6WeVy8Q1HbUvt2CUByLujzETzyJGOupvooqtZ4IMWLeWcuu7LGmm0TCAO23i5XC1TWBxNwlLab7hS-jpzunEFqnJs7P5lMrJquoqOgEyXicutUiwtELqtpPxccVPghJxCoS7VhUJy8FsxKHuqY0ye2Z8JNT4PJ41Az_kw=w827-h1320-no?authuser=0
+---
+
+<figure>
+
+[![](https://lh3.googleusercontent.com/vPBuVIToq6SaMZqjTS_I-bODwA_H19YLnOtSV9hWbfmGmFg9vKJU87jQ0pJtaEyDPgy658kRcNYpzP69q39oG_DActMtgQqaiKfhQf2bZZaW2GRNcPfcWtWEKl-7FaScSVRwr_MYtNauomtsNk8OGWxNxp3pwbAsGWbyiAAjia9qYn3okczzYgUOBSWhc3LyEsH2btZyTrnoGvLUs2HB8SJBMDW8gOx9YxfCBM3foJIh-pN1tOYjQ7DkFFqUE8vPcJSJFHYKIVi25RNQeQhjCFT0LXlkxIvM0XtO8f76meBuYfgsl2sVbYq-3bl41cGE9gowHK--EY6T3j_PQomb6HC-fN8DfCWh_f9d7F11oMU6jb1lkci0jcsKvv2YJkkgWtASOb6AIXq9PzGVVa4llBAuZssruWoxU1CE2Cb1Wtf5s94JxRnBFJJlnIvKdymJZCFPdZv_L1xWci_UGxjTiVudxMq77c96TXpQp7zq-A-gIm3_1FhS7Komw3Pz0tf91pVGCCMdI_vzhtOX3M0NeuQUW6WeVy8Q1HbUvt2CUByLujzETzyJGOupvooqtZ4IMWLeWcuu7LGmm0TCAO23i5XC1TWBxNwlLab7hS-jpzunEFqnJs7P5lMrJquoqOgEyXicutUiwtELqtpPxccVPghJxCoS7VhUJy8FsxKHuqY0ye2Z8JNT4PJ41Az_kw=w827-h1320-no?authuser=0)](https://photos.app.goo.gl/jGGPKzmgV7GRmLb26)
+
+<figcaption>
+
+2020-05-21 - planta - Leica M6 - Elmatit 90mm f/2.8 - AGFA APX 400
+
+</figcaption>
+
+</figure>

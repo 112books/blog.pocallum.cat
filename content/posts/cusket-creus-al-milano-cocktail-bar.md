@@ -1,0 +1,22 @@
+---
+title: "Cisket Creus al Milano Cocktail-bar"
+date: 2020-03-08
+slug: "cusket-creus-al-milano-cocktail-bar"
+categories: 
+  - "leica-m6"
+tags:
+  - "125"
+  - "agfa-apx-400"
+  - "pushed1600"
+  - "rodinal"
+  - "voigtlander-35-f-1-7"
+author: "inuxbcn"
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2020/03/2020-03-06-Cisku-005.jpg
+image: https://lh3.googleusercontent.com/6MartBMGbnohVIjs644Kue7lr0WMpYPp6pyg4Zm3vBCEW-ZDSne89yJquOmzK5m8kB6TASW6lSsT4EwCZWy1mQNw3L8bHqu1AQZx_eu9AlEIDoiH6vXW9HB9wJDDhIcxGx3QDYKZV8ONYcvEclwuh0Z6jvWt4eAvEpnXBBaVH1D-VCbPNAXkAV6FE4GLSzzaVyuzhLOoLtcTt0KHDCZKFI5yS-fbYjzEc-JAE6ZzSZYCq2AB19VciPL4EYyko6jW76Okapn7UP5GNpuRxAlMWC89fVmPncLvnLkf94tUaB_qJo94U5vlc6jVGnG21v6UOyMRQhXORSZBGhEv2rKnwiVzlbPpS5MbeLoXODGnBAic9ISePPEQpLWfDNRCJUATKzqq0VUZXtoERpoDay3ai_0Jl25BUZZO0jzMi181CWW5giSQIp8LSummDBX-WjBLjU4z7XyXUDfYROkmkGew0-KyE-trBEO1FXhftZde3kJMdLPL4a2bkcqXQDdpwQBJtk_zQ1jU5U-BAWevP_6GrwhLX5vRA_a3SW5NjfSZs2La-EVYIb6ahzHE94XWD20Grd9ZEc571td5g_CVNuX29sTsIR3_BVB7gohfUDv5CTnzXw_zkxeOfUxOlXSeQq3b91sRevCozrphYBPQGMQIJ8lDv2Owa_j-KmXhxPZE4Uv41Lv6Xc4qTOw=w1868-h1246-no
+---
+
+[![](https://lh3.googleusercontent.com/6MartBMGbnohVIjs644Kue7lr0WMpYPp6pyg4Zm3vBCEW-ZDSne89yJquOmzK5m8kB6TASW6lSsT4EwCZWy1mQNw3L8bHqu1AQZx_eu9AlEIDoiH6vXW9HB9wJDDhIcxGx3QDYKZV8ONYcvEclwuh0Z6jvWt4eAvEpnXBBaVH1D-VCbPNAXkAV6FE4GLSzzaVyuzhLOoLtcTt0KHDCZKFI5yS-fbYjzEc-JAE6ZzSZYCq2AB19VciPL4EYyko6jW76Okapn7UP5GNpuRxAlMWC89fVmPncLvnLkf94tUaB_qJo94U5vlc6jVGnG21v6UOyMRQhXORSZBGhEv2rKnwiVzlbPpS5MbeLoXODGnBAic9ISePPEQpLWfDNRCJUATKzqq0VUZXtoERpoDay3ai_0Jl25BUZZO0jzMi181CWW5giSQIp8LSummDBX-WjBLjU4z7XyXUDfYROkmkGew0-KyE-trBEO1FXhftZde3kJMdLPL4a2bkcqXQDdpwQBJtk_zQ1jU5U-BAWevP_6GrwhLX5vRA_a3SW5NjfSZs2La-EVYIb6ahzHE94XWD20Grd9ZEc571td5g_CVNuX29sTsIR3_BVB7gohfUDv5CTnzXw_zkxeOfUxOlXSeQq3b91sRevCozrphYBPQGMQIJ8lDv2Owa_j-KmXhxPZE4Uv41Lv6Xc4qTOw=w1868-h1246-no)](https://photos.app.goo.gl/kSM8TFkurCdDvBHNA)
+
+Presentació, al Milano Cocktail-bar, del nou disc "Ara és el temps" d'en Cisket Creus.
+
+LeicaM6-Voigtlander35mmf/1.7-AgfaAPX400@1600-Rodinal1+25-30'

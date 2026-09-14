@@ -1,0 +1,13 @@
+---
+title: "15è Festival de Blues de Barcelona - Big Dani Pérez Saxplosion, Mingo & Coloma & Simón Blues Express & Tia Carroll, Larry McCray & Alex Zayas Band"
+date: 2017-07-16
+slug: "15e-festival-de-blues-de-barcelona-big-dani-perez-saxplosion-mingo-coloma-simon-blues-express-tia-carroll-larry-mccray-alex-zayas-band"
+categories: 
+  - "canon-eos-6d"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2017/07/IMG_2502.jpg
+image: https://lh3.googleusercontent.com/8doNZZoSE-xZfktSeTF2mZ2MSVCp4xZGInnCWuHy8R5lFpr_SvJsPQdzgv-nQC4ZIzDFSiOt8qAMvWzy5D724WtnNm508atxybDWPlCX1qjylgAWOqssDR8X-LgYpCkfTWxsLhndYuAcZNB-gm5LpzKGAV3zLSTucQN3Izj-ywtoOORVoU-uj6qKAwA-FjSYvgGt0K7urd5hmJIK6HmwaGdqtWcLoPcdUi-_Bpck-n3EsmITDSJ4ihMSkw2oNvlAui08EH9CXmNvPwgtdu4ECkZ6gN74826ULJw1Ka_etjJHCQx4fWxBurqqop9EHEskY1JZWq6dh7CAsGFWZT1ZYyyeF96jplN4xKjwMFPJEBcM_-bk86PQtThor6aatowWkvSe0d7jakDLzThNU87H1HrH2LQsLGlYv_0CC5soDqxcFbpA9bAt8ov-Z1TDxStfCjEsGkqvEFPKC4WPAKqz_cdmgf2bMZg374h2igA1-HWdR9UQB_936KahDPqgkBzMIiKofXxNy2zGSvCDbr-iEY0iqR1uvI_C8OhGebu6hjKSQ97JWe1A2x7MiSEmoFhWptQdOiscSNtyGj_dIJqgj6nw8cwpPj5_qowP4FHhZjjaIdTO3ipLZOfYsA=w1285-h857-no
+---
+
+[![](https://lh3.googleusercontent.com/8doNZZoSE-xZfktSeTF2mZ2MSVCp4xZGInnCWuHy8R5lFpr_SvJsPQdzgv-nQC4ZIzDFSiOt8qAMvWzy5D724WtnNm508atxybDWPlCX1qjylgAWOqssDR8X-LgYpCkfTWxsLhndYuAcZNB-gm5LpzKGAV3zLSTucQN3Izj-ywtoOORVoU-uj6qKAwA-FjSYvgGt0K7urd5hmJIK6HmwaGdqtWcLoPcdUi-_Bpck-n3EsmITDSJ4ihMSkw2oNvlAui08EH9CXmNvPwgtdu4ECkZ6gN74826ULJw1Ka_etjJHCQx4fWxBurqqop9EHEskY1JZWq6dh7CAsGFWZT1ZYyyeF96jplN4xKjwMFPJEBcM_-bk86PQtThor6aatowWkvSe0d7jakDLzThNU87H1HrH2LQsLGlYv_0CC5soDqxcFbpA9bAt8ov-Z1TDxStfCjEsGkqvEFPKC4WPAKqz_cdmgf2bMZg374h2igA1-HWdR9UQB_936KahDPqgkBzMIiKofXxNy2zGSvCDbr-iEY0iqR1uvI_C8OhGebu6hjKSQ97JWe1A2x7MiSEmoFhWptQdOiscSNtyGj_dIJqgj6nw8cwpPj5_qowP4FHhZjjaIdTO3ipLZOfYsA=w1285-h857-no)](https://photos.app.goo.gl/JLT9zN4SYwElrMHj2)

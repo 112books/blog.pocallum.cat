@@ -1,0 +1,17 @@
+---
+title: "La Esclusa - Teatre al Casal de Prosperitat"
+date: 2017-01-15
+slug: "la-esclusa-teatre-al-casal-de-prosperitat"
+categories: 
+  - "canon-eos-6d"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2017/01/IMG_8674.jpg
+image: https://lh3.googleusercontent.com/16aPTqqtBtvOFNeBPB97TLsoU5-jPQko_tcQtKbS9l-ok4TlDSiRHcm5R1whLqsLNkX4aMNRRMdceCPrXc6ObXC301Q1oRQqJVBvoQ733egh1oEWr5_jfy205hvNemhcXeCrPzTDC9vRcXzMX6BgeQA_NkU9tVNIrAB_7WOFULTPOMTn0vd_ZW75EtXChKA1vOvTC6I2ae0FjTZmacSdUmF0bWhrfq-c1701a6hDW7XjwU0ok51fzXuPdMPQqKqMwhcPqLay_4g6EEKBLq2nTwJ9J9rYBgXd-ZPVPy67myeiKrmuF0P6eu3he7zYxtKCjBiE-LfjXd-4jzYljwfK5dxyKwPD0lH0bJ_zWBzFK08rjP04HzWf_0Rsq9PP5fXRS5J4yn_kQcnR0BLUD0PkSzCaPmP5SnK3ssdkvOb7DgWkVedvcPNUjjFSNMXX4YyBLBKUouAnGizzzrc6zdRtdqLwTqy7aUU2DIgRDhXsV5QC6RLY2XfSeJ-xR82xF3hGwc696Uzd1WKk2fLUGXIvBH3zd-s5Rcvhmv5taLw_uG8Ic6cDe0E7nLIGvxpzolWCqeeWzrsdkxB8XnYk2jGEm3Aq5K7r93emlV3VzLFqyR4NgL9Y73atMA=w1469-h942-no
+---
+
+[![](https://lh3.googleusercontent.com/16aPTqqtBtvOFNeBPB97TLsoU5-jPQko_tcQtKbS9l-ok4TlDSiRHcm5R1whLqsLNkX4aMNRRMdceCPrXc6ObXC301Q1oRQqJVBvoQ733egh1oEWr5_jfy205hvNemhcXeCrPzTDC9vRcXzMX6BgeQA_NkU9tVNIrAB_7WOFULTPOMTn0vd_ZW75EtXChKA1vOvTC6I2ae0FjTZmacSdUmF0bWhrfq-c1701a6hDW7XjwU0ok51fzXuPdMPQqKqMwhcPqLay_4g6EEKBLq2nTwJ9J9rYBgXd-ZPVPy67myeiKrmuF0P6eu3he7zYxtKCjBiE-LfjXd-4jzYljwfK5dxyKwPD0lH0bJ_zWBzFK08rjP04HzWf_0Rsq9PP5fXRS5J4yn_kQcnR0BLUD0PkSzCaPmP5SnK3ssdkvOb7DgWkVedvcPNUjjFSNMXX4YyBLBKUouAnGizzzrc6zdRtdqLwTqy7aUU2DIgRDhXsV5QC6RLY2XfSeJ-xR82xF3hGwc696Uzd1WKk2fLUGXIvBH3zd-s5Rcvhmv5taLw_uG8Ic6cDe0E7nLIGvxpzolWCqeeWzrsdkxB8XnYk2jGEm3Aq5K7r93emlV3VzLFqyR4NgL9Y73atMA=w1469-h942-no)](https://goo.gl/photos/s1QkGmNzxxpJFdoq6)  
+"La esclusa", de Michel Azama  
+Dirección: Antonio Moreno  
+Interpretación: Ana Plaza  
+Producción: Nagüal Teatro

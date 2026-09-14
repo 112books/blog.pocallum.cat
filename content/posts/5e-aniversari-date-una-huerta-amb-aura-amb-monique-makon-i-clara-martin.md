@@ -1,0 +1,23 @@
+---
+title: "5è aniversari Date una huerta amb \"Aura\" amb Monique Makon i Clara Martin"
+date: 2021-10-24
+slug: "5e-aniversari-date-una-huerta-amb-aura-amb-monique-makon-i-clara-martin"
+categories: 
+  - "leica-m6"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2021/10/2021-10-23-Aura-029.jpg
+image: https://lh3.googleusercontent.com/8gXFmNUpxgvtU9nfTWsc6UEmlciCksfUc2icAJv8_I6UrhoDgNYq4K6Lk4r4CoOXsIAV52HM8KcWubo1QBaraWt5Gq6IQlF8yZh1iDEnydPr8vmOXo531lCGbyvYdE2jxurxKbvbEDZbZbL5DjM0cwIsYZlQgVRVPERvOQ0-CcMndHKT6kyY8n6HxqRtNWi3gsSoDebdTH49hV8hbPOrEbJt5iJYqmgFD932TsGuBnI5q5qp-dh_h5KIFL-EU8asfXZNIk5s3dt3zRTqb15MEMvNpzZq9rN_k4SsW4sIiQOomuZ2oR113lDzjjP8mciV65M1DSvxCRxesdkKh0ttX59DXQGkHbtph-fLAr-foNRTrMZ9HA19Aq0lNNFwga89trImGwBHPxhIAAwix1bZp6MSqES_cKvSepcKN_XZm2AAeSXF7m2H0Cd8Hcbt89EctWb8Wzlzj9f5uD6RVNX_Uu6gmpg90RQ9kj6DTR-LYlKdaX1g4E3cWZskumZOyaUpM5nxeM8zJpmrKFecO3w7kgC90IiC4xqUBQsyvwIchYCJkPb5ql7qsbIPKped8ATHOEM8RYtKJGdOqKkeqv4YrTG-fDQZTyVwzebiw4Go3kvBTA9DfArsEWDmAV-e_zUO-EbY8IJjTddBOFOIHDtnf6wofSaSYvCdpG0Y-vOSYe7naxE6C0btF7Fm_Za1g5GWGZ_X9-qIdYcXtMFtlCdQsNeD=w1764-h1176-no?authuser=0
+---
+
+<figure>
+
+[![](https://lh3.googleusercontent.com/8gXFmNUpxgvtU9nfTWsc6UEmlciCksfUc2icAJv8_I6UrhoDgNYq4K6Lk4r4CoOXsIAV52HM8KcWubo1QBaraWt5Gq6IQlF8yZh1iDEnydPr8vmOXo531lCGbyvYdE2jxurxKbvbEDZbZbL5DjM0cwIsYZlQgVRVPERvOQ0-CcMndHKT6kyY8n6HxqRtNWi3gsSoDebdTH49hV8hbPOrEbJt5iJYqmgFD932TsGuBnI5q5qp-dh_h5KIFL-EU8asfXZNIk5s3dt3zRTqb15MEMvNpzZq9rN_k4SsW4sIiQOomuZ2oR113lDzjjP8mciV65M1DSvxCRxesdkKh0ttX59DXQGkHbtph-fLAr-foNRTrMZ9HA19Aq0lNNFwga89trImGwBHPxhIAAwix1bZp6MSqES_cKvSepcKN_XZm2AAeSXF7m2H0Cd8Hcbt89EctWb8Wzlzj9f5uD6RVNX_Uu6gmpg90RQ9kj6DTR-LYlKdaX1g4E3cWZskumZOyaUpM5nxeM8zJpmrKFecO3w7kgC90IiC4xqUBQsyvwIchYCJkPb5ql7qsbIPKped8ATHOEM8RYtKJGdOqKkeqv4YrTG-fDQZTyVwzebiw4Go3kvBTA9DfArsEWDmAV-e_zUO-EbY8IJjTddBOFOIHDtnf6wofSaSYvCdpG0Y-vOSYe7naxE6C0btF7Fm_Za1g5GWGZ_X9-qIdYcXtMFtlCdQsNeD=w1764-h1176-no?authuser=0)](https://photos.app.goo.gl/MQfqEkWijkvGmg118)
+
+<figcaption>
+
+Leica M6 - Voigtlander 35f1.7 - Rolleri RPX 400 @1600
+
+</figcaption>
+
+</figure>

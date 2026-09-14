@@ -1,0 +1,23 @@
+---
+title: "La Torrada en fase 3"
+date: 2020-06-19
+slug: "la-torrada-en-fase-3"
+categories: 
+  - "leica-m6"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2020/06/2020-06-17-b-003.jpg
+image: https://lh3.googleusercontent.com/jeXy4rLpgsFgBM3g9vnBn55cpuOBgpBPjVOG_-8oYSCVaDUnHSZcRam73UgjTmoUzXc7SjsAySPz95__boMtgQGkeGWYgdQmJTxZ_ynM6bDUw43glsxrjnjYtr6dWl5I6TrXMOwuC3UQlGJP72txgv1rWvpHOIwBFWH-spNvxU1lB3zniQVz8pZT_h6uko_CyusdPl5RU9yr7-mU7_HDytBLyNohogVXGR3bFV3tXZWhmK8TqtgztvWfWTNeWFZzoqKLeuHhK2xSszGELSq0leWZw_J2PBfpSsRMKwoKnAiLD-VNQfJM5bZD0slAvE8TmSPaEtqY0V1MI87zzjMevQ6ko5UCbZPIhwJysuNyql9ZNM-augDHip3ukEpFaFtwSzNTmNXJz86OjWXGNIUwwGzrtEeI_hW3wyRGLoPJtPmMiChEPy_KBjOhYRgZPfnRdwA2uCR-dXiTCoHhJvyoHsN3TXwzVtX9BwkIPdud8hkWV4iW_7Vb43tkFa-2wD8hh7KBUnnC7Y9y4rlNVRHcru1uluDU8qrsNOzpgXwTSpgPDPKuG-nzVR4yDt_envn1Le3nzQGsGxxvog8DsK-IBNcF9oyjRB6sv9flIAct_xf3JjitAyESYnUbIVpCe8tsiUfYxylRLsBryrCW2GLB3RFr1nDFpLdg2w_hMkYYNa6BTUp6sHm_o9IlwUxkHw=w1336-h817-no?authuser=0
+---
+
+<figure>
+
+[![](https://lh3.googleusercontent.com/jeXy4rLpgsFgBM3g9vnBn55cpuOBgpBPjVOG_-8oYSCVaDUnHSZcRam73UgjTmoUzXc7SjsAySPz95__boMtgQGkeGWYgdQmJTxZ_ynM6bDUw43glsxrjnjYtr6dWl5I6TrXMOwuC3UQlGJP72txgv1rWvpHOIwBFWH-spNvxU1lB3zniQVz8pZT_h6uko_CyusdPl5RU9yr7-mU7_HDytBLyNohogVXGR3bFV3tXZWhmK8TqtgztvWfWTNeWFZzoqKLeuHhK2xSszGELSq0leWZw_J2PBfpSsRMKwoKnAiLD-VNQfJM5bZD0slAvE8TmSPaEtqY0V1MI87zzjMevQ6ko5UCbZPIhwJysuNyql9ZNM-augDHip3ukEpFaFtwSzNTmNXJz86OjWXGNIUwwGzrtEeI_hW3wyRGLoPJtPmMiChEPy_KBjOhYRgZPfnRdwA2uCR-dXiTCoHhJvyoHsN3TXwzVtX9BwkIPdud8hkWV4iW_7Vb43tkFa-2wD8hh7KBUnnC7Y9y4rlNVRHcru1uluDU8qrsNOzpgXwTSpgPDPKuG-nzVR4yDt_envn1Le3nzQGsGxxvog8DsK-IBNcF9oyjRB6sv9flIAct_xf3JjitAyESYnUbIVpCe8tsiUfYxylRLsBryrCW2GLB3RFr1nDFpLdg2w_hMkYYNa6BTUp6sHm_o9IlwUxkHw=w1336-h817-no?authuser=0)](https://photos.app.goo.gl/gmDQExzxwcVqVE9Q7)
+
+<figcaption>
+
+2020-06-17 - b - Leica M6 - APX 100 @400
+
+</figcaption>
+
+</figure>

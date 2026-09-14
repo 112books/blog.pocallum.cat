@@ -1,0 +1,23 @@
+---
+title: "2020-11-03 - Irma - Combo SC -  HP5 5x7\""
+date: 2020-11-06
+slug: "2020-11-03-irma-combo-sc-hp5-5x7"
+categories: 
+  - "cambo-sc"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2020/11/2020-11-03-Cambo5x7-003.jpg
+image: https://lh3.googleusercontent.com/ZH5TIPo0prNyZD-KZ-nafYY3i2cpf_DVSf23n_RZ3mC1_hUmB1ZPpfSDfcH1G9L7hKRJe2tNbjUqO2Isp53sieID015g3ZIHd6VH1owz5xeAvfFtv5TyvMEhEM7BOZpPj2pR2wGb3YkHZTRQiP30LUUm59TDvjSrA_3-hXOLzNTMLwAk8gWmPQxswC6L86hCPy4ptEs9nxqVuMLj8UV9AlsQGaPKMsHV-1EDn3-qtWT9LGR51h7leVB5yLwxxwiGUHJpvTE1ktULgDNWUbz6ND_5R1emeLI8OnhDAF2qrl9C9goeCE4AkWxPQqK_HflPw4x241ohIAEPKljBrz8loPNYwSi7yDXGFPB0OJK5d3U8AH-ZPMMHKOT7SHfZ4oYz3q0pCKLeY0acyUBJUdzc5Y5PLuIAh8OfQxWONwwRRXuxT47y_6hikaFy90kKCyYciAax5E11wSSuLsvHHZYwcrvV8ADKsJm_Hh0uYojcCKRlUPjiu8VGbTQ3qtviHUPjUhwX3jdm67iYzM6FnReUKcvF471Y-2ekLzs5yGA80H-jIBmqYQOk9mpmTuvRvnX6vXCR8UsH21WzPHSA89kT7IeTaNlSr6pjXWd0mBhTVogD3qHJdqR0ZT0-CqsGAzIVYZ1xhOHg6i8R36cQM9YGD0AbAdESGRAyiBvW5J2vZa2Kpz84qcGC5d-SkTsn2g=w868-h1195-no?authuser=0
+---
+
+<figure>
+
+[![](https://lh3.googleusercontent.com/ZH5TIPo0prNyZD-KZ-nafYY3i2cpf_DVSf23n_RZ3mC1_hUmB1ZPpfSDfcH1G9L7hKRJe2tNbjUqO2Isp53sieID015g3ZIHd6VH1owz5xeAvfFtv5TyvMEhEM7BOZpPj2pR2wGb3YkHZTRQiP30LUUm59TDvjSrA_3-hXOLzNTMLwAk8gWmPQxswC6L86hCPy4ptEs9nxqVuMLj8UV9AlsQGaPKMsHV-1EDn3-qtWT9LGR51h7leVB5yLwxxwiGUHJpvTE1ktULgDNWUbz6ND_5R1emeLI8OnhDAF2qrl9C9goeCE4AkWxPQqK_HflPw4x241ohIAEPKljBrz8loPNYwSi7yDXGFPB0OJK5d3U8AH-ZPMMHKOT7SHfZ4oYz3q0pCKLeY0acyUBJUdzc5Y5PLuIAh8OfQxWONwwRRXuxT47y_6hikaFy90kKCyYciAax5E11wSSuLsvHHZYwcrvV8ADKsJm_Hh0uYojcCKRlUPjiu8VGbTQ3qtviHUPjUhwX3jdm67iYzM6FnReUKcvF471Y-2ekLzs5yGA80H-jIBmqYQOk9mpmTuvRvnX6vXCR8UsH21WzPHSA89kT7IeTaNlSr6pjXWd0mBhTVogD3qHJdqR0ZT0-CqsGAzIVYZ1xhOHg6i8R36cQM9YGD0AbAdESGRAyiBvW5J2vZa2Kpz84qcGC5d-SkTsn2g=w868-h1195-no?authuser=0)](https://photos.app.goo.gl/ALhNZvijNQJQy5bh9)
+
+<figcaption>
+
+[@masrima](https://photos.app.goo.gl/ALhNZvijNQJQy5bh9) al nou estudi de @Llimàtics
+
+</figcaption>
+
+</figure>

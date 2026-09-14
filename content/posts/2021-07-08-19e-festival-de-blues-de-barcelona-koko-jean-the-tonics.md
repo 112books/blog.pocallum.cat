@@ -1,0 +1,18 @@
+---
+title: "2021-07-08 - 19è Festival de Blues de Barcelona - Koko-Jean & The Tonics"
+date: 2021-07-09
+slug: "2021-07-08-19e-festival-de-blues-de-barcelona-koko-jean-the-tonics"
+categories: 
+  - "leica-d-lux-6"
+  - "leica-m6"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2021/07/L1280331.jpg
+image: https://lh3.googleusercontent.com/VkSkHdCon5uyzBbYsgnVcBbQvCp-_6XfCUzgg3oe70GTj-dsqUmbZpgb26WEprmn1UuM6umyf5M6YBp4bmATGRhfhcs4-Lw1xlG3tpCHDxQZlCCskerHhz6Hw8-YoITfNFPsRCkRR8S0jCDCzFaHd0hglo9DfAipOYIEFtsKWIDAb09xwRMgroO8npRMKfF1lQebCxWPkmDSNPcH2MVimPo-SCIGSn7zRnyM0CNrhtHhnSU1FnfzQ4PZt3s8mUSCzTsiHweBu5PJkrFh0UCgLr37jS-sNyn7UfVS3VM75hMMB3iyEcbU5yUVhrBCjF88KT1mswHDnAaf7MJTMBd6GwYD3SST7IhGatSfJehN8jd5BP-U99YMVVn5vQa_V_VuWejw0wgH4k5X53W80IZqtTsCAi8SCWr-9NllQdfb_xEiSNYmfRH08UNgMOtTHKD3I3y72N2PgvlF7LSSeq2pKXszXCP0sIPXy_C7W_PS74EmlmCR5QsqWzKF7VTERZNw9kLDOrT8TTk63pGmK1tpZ77Xa7r5PUrXWZ_9i1CZgV7jJXym_sMrjGy6kGBWu81juY5dx8hrpTaOur-VB2zEyQxPLBGNL9Ppqnzp31U_-dXCgAcw4Oup5i9-VG2KQxMyv7PId2ZDHk2T9zzSpQ0XjD4QkKRv-pcwT7LJpBeydZwWlD3GwUNhHpT49vrIGoBzVT0XndHK8uLcR7NZdE2r8yFu=w1449-h815-no?authuser=0
+---
+
+[![](https://lh3.googleusercontent.com/VkSkHdCon5uyzBbYsgnVcBbQvCp-_6XfCUzgg3oe70GTj-dsqUmbZpgb26WEprmn1UuM6umyf5M6YBp4bmATGRhfhcs4-Lw1xlG3tpCHDxQZlCCskerHhz6Hw8-YoITfNFPsRCkRR8S0jCDCzFaHd0hglo9DfAipOYIEFtsKWIDAb09xwRMgroO8npRMKfF1lQebCxWPkmDSNPcH2MVimPo-SCIGSn7zRnyM0CNrhtHhnSU1FnfzQ4PZt3s8mUSCzTsiHweBu5PJkrFh0UCgLr37jS-sNyn7UfVS3VM75hMMB3iyEcbU5yUVhrBCjF88KT1mswHDnAaf7MJTMBd6GwYD3SST7IhGatSfJehN8jd5BP-U99YMVVn5vQa_V_VuWejw0wgH4k5X53W80IZqtTsCAi8SCWr-9NllQdfb_xEiSNYmfRH08UNgMOtTHKD3I3y72N2PgvlF7LSSeq2pKXszXCP0sIPXy_C7W_PS74EmlmCR5QsqWzKF7VTERZNw9kLDOrT8TTk63pGmK1tpZ77Xa7r5PUrXWZ_9i1CZgV7jJXym_sMrjGy6kGBWu81juY5dx8hrpTaOur-VB2zEyQxPLBGNL9Ppqnzp31U_-dXCgAcw4Oup5i9-VG2KQxMyv7PId2ZDHk2T9zzSpQ0XjD4QkKRv-pcwT7LJpBeydZwWlD3GwUNhHpT49vrIGoBzVT0XndHK8uLcR7NZdE2r8yFu=w1449-h815-no?authuser=0)](https://photos.app.goo.gl/UMHErntk5NBJjia8A)
+
+https://vimeo.com/572897367
+
+https://vimeo.com/572897237

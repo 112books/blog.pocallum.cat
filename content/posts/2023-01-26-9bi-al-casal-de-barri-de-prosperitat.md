@@ -1,0 +1,25 @@
+---
+title: "2023-01-26 - 9bi al Casal de barri de Prosperitat"
+date: 2023-01-26
+slug: "2023-01-26-9bi-al-casal-de-barri-de-prosperitat"
+categories: 
+  - "fuji-x-pro1"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2023/01/DSF4329.jpg
+image: https://lh3.googleusercontent.com/XSQ-rbeOPh6spMKIye9YvvoY8lk-Kgupe7Sjdh3jwNTlTdnniyBqDChU9OhxTc-L7-KUhi7_KHx5l00mrgkmxNspvbp5tcHoZIeasF-7g2nJnLc7HlJl08XlckWSviV0p3086JvtbYQsCK7om0LRrmpjQ7_zQYKf7JHAlO2derPT59YztdRQSeRBz6USDPw-lyANnz2QDW1FBAk7FtwuctuOpEenwFb3YTFbbXKcZxRH6UXNNxkEkG98NRmTR-AW6kMrhXsVT-OnDCQcbt1K8DOoIC4tyKCx62XlCUPF9xNw_MFtikKfO59p-X1pcTqNkfzUlDS2a-3KDydZMZ3QzjS-p4utx0ESuwso9_Up9U93V9XqB39o9tNpfHJZyv7oEat5_JXX7PKm7rADoyrudRp9zoZ0lcUqGRKabIGgwBHjwF4DDQmpQOR-m0tHSytu2_wXs6fcvAnqKVfK8Rb8_qScpjkztHrlXpeCrw-8moUAXYrNRtuFrxFGqDmM-DvQBjgejQ05mSEif8m_jFsTai-yJxk5PLITkJTW3-MGl_RuRqJ8XsE0gxU_LXTZcWON_oF2AaT9aatrhhDvF-i1226Q-VxDNESElXeNonNJFHCrTtq7Nva7R83UxGxfAN__J7-h6JbPJfCFhPFRyHaJqMqyp-IXvRMwJ2lh7vBa9U6oNbF5jx9IKj46FUSlXbmtXcSu1JCtfZ5yu-I9Lq5xx1H8uXc0Kh6yTlKuUsoQeflRDMwIMBlUk_nNqNSJubG965CKM7TzsFhFK6oPauVXxcvSPuSk38jY04PxbGE5Vb9tMyVXHeOK-_KW0JF7zjuYGdAOLO0hV6_OXfDuzKqwu1ej7wK2l7rW6yFMwefJcAm-BoA32byjUqNosLu9SC261RU_e7K4_msNdV1En-13WXn2RnBPgLJGZcCxeu5uuKemnw=w1617-h1078-no?authuser=0
+---
+
+<figure>
+
+[![](https://lh3.googleusercontent.com/XSQ-rbeOPh6spMKIye9YvvoY8lk-Kgupe7Sjdh3jwNTlTdnniyBqDChU9OhxTc-L7-KUhi7_KHx5l00mrgkmxNspvbp5tcHoZIeasF-7g2nJnLc7HlJl08XlckWSviV0p3086JvtbYQsCK7om0LRrmpjQ7_zQYKf7JHAlO2derPT59YztdRQSeRBz6USDPw-lyANnz2QDW1FBAk7FtwuctuOpEenwFb3YTFbbXKcZxRH6UXNNxkEkG98NRmTR-AW6kMrhXsVT-OnDCQcbt1K8DOoIC4tyKCx62XlCUPF9xNw_MFtikKfO59p-X1pcTqNkfzUlDS2a-3KDydZMZ3QzjS-p4utx0ESuwso9_Up9U93V9XqB39o9tNpfHJZyv7oEat5_JXX7PKm7rADoyrudRp9zoZ0lcUqGRKabIGgwBHjwF4DDQmpQOR-m0tHSytu2_wXs6fcvAnqKVfK8Rb8_qScpjkztHrlXpeCrw-8moUAXYrNRtuFrxFGqDmM-DvQBjgejQ05mSEif8m_jFsTai-yJxk5PLITkJTW3-MGl_RuRqJ8XsE0gxU_LXTZcWON_oF2AaT9aatrhhDvF-i1226Q-VxDNESElXeNonNJFHCrTtq7Nva7R83UxGxfAN__J7-h6JbPJfCFhPFRyHaJqMqyp-IXvRMwJ2lh7vBa9U6oNbF5jx9IKj46FUSlXbmtXcSu1JCtfZ5yu-I9Lq5xx1H8uXc0Kh6yTlKuUsoQeflRDMwIMBlUk_nNqNSJubG965CKM7TzsFhFK6oPauVXxcvSPuSk38jY04PxbGE5Vb9tMyVXHeOK-_KW0JF7zjuYGdAOLO0hV6_OXfDuzKqwu1ej7wK2l7rW6yFMwefJcAm-BoA32byjUqNosLu9SC261RU_e7K4_msNdV1En-13WXn2RnBPgLJGZcCxeu5uuKemnw=w1617-h1078-no?authuser=0)](https://photos.app.goo.gl/KkjLmyMCo7ptQNzs6)
+
+<figcaption>
+
+Casal de barri de Prosperitat
+
+</figcaption>
+
+</figure>
+
+Avui hem celebrat una important reunió els compis de [9bi](http://www.9barrisimatge.org/). Els temes els de sempre i també, hem arreglat un xic el món (ja ho notareu). Però bé, aquest és l'ambient al nostre estimat [Casal de barri de la Prospe](https://casalprospe.org/).

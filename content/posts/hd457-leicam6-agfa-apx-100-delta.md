@@ -1,0 +1,17 @@
+---
+title: "HD#457 - LeicaM6 - Agfa APX 100 - Delta"
+date: 2019-11-05
+slug: "hd457-leicam6-agfa-apx-100-delta"
+categories: 
+  - "leica-m6"
+tags:
+  - "agfa-apx-100"
+  - "delta-del-ebre"
+  - "escapades"
+  - "vacances"
+author: "inuxbcn"
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2019/11/HC457-012.jpg
+image: https://lh3.googleusercontent.com/T5n6nECkJUnKcs8qhn__xde_p6YKiwNEcIarSFl82QxpilNMW8mpf7qPp05WFbnh2OIkqk6gosQWxoG16z5QnqMNuf0j1jVhGUqePorS9yl8qLQcqklfxrmvuVqwg8lhLR1bN2gMHLwypK-6E1kBabYF7HSsJTrt-NAABGMBiTk2_Qn_jpKyRa1w9JmZ-4RZHBWIQrhznBfvRy4OKyPubZmlusI_h1KNakrxrXOn8sRIbTKywvcU_BmklFbrNEScdDI9rC806sxMBVrU2KlWlrxo1DdAFm2-F-BH-dAI40tZXfiuKzyx74-pSg6bf5TIAAu-fyiSAlrpCHGsXucoxaFpXjelsAW9vP7q1oQEakKpoP_AYo6mwJPS2aNSRo1rtGT3TZphuxw7OjESQkppFS1E8YozBsepVlpoG-QCuc7J5RgeFjj1x3GWMVmnxDj8cSEASzhxo4qYEWSJ-C1bb_0VJuW9wtBH8pjcG1M8pHf0SZtvq8lFM0uTAG6rk1zjC067pgpJ7J1x53OAWi9ByewOGhS57j-DmSwzHZb_jQJ8I62btfAd2vL6siMo925yORLsdD0tjMb26waihlZx_jDrjplhbJ5aSLvFZ13qFRdTbxAhFpAEkX6PWirLtG7XtZIyty5aHcbSMyfcYnk8ycUb_PF5tNppRthgxuHv4KqYLI7jT2cUFt_-=w1523-h934-no
+---
+
+[![](https://lh3.googleusercontent.com/T5n6nECkJUnKcs8qhn__xde_p6YKiwNEcIarSFl82QxpilNMW8mpf7qPp05WFbnh2OIkqk6gosQWxoG16z5QnqMNuf0j1jVhGUqePorS9yl8qLQcqklfxrmvuVqwg8lhLR1bN2gMHLwypK-6E1kBabYF7HSsJTrt-NAABGMBiTk2_Qn_jpKyRa1w9JmZ-4RZHBWIQrhznBfvRy4OKyPubZmlusI_h1KNakrxrXOn8sRIbTKywvcU_BmklFbrNEScdDI9rC806sxMBVrU2KlWlrxo1DdAFm2-F-BH-dAI40tZXfiuKzyx74-pSg6bf5TIAAu-fyiSAlrpCHGsXucoxaFpXjelsAW9vP7q1oQEakKpoP_AYo6mwJPS2aNSRo1rtGT3TZphuxw7OjESQkppFS1E8YozBsepVlpoG-QCuc7J5RgeFjj1x3GWMVmnxDj8cSEASzhxo4qYEWSJ-C1bb_0VJuW9wtBH8pjcG1M8pHf0SZtvq8lFM0uTAG6rk1zjC067pgpJ7J1x53OAWi9ByewOGhS57j-DmSwzHZb_jQJ8I62btfAd2vL6siMo925yORLsdD0tjMb26waihlZx_jDrjplhbJ5aSLvFZ13qFRdTbxAhFpAEkX6PWirLtG7XtZIyty5aHcbSMyfcYnk8ycUb_PF5tNppRthgxuHv4KqYLI7jT2cUFt_-=w1523-h934-no)](https://photos.app.goo.gl/pMBcyAK8MdZkuCsD9)

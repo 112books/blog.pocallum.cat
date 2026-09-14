@@ -1,0 +1,16 @@
+---
+title: "HomeDev#129 - Hasselbad 500CM - Planar 50mm f/4 - Delta 400 @200"
+date: 2017-06-29
+slug: "homedev129-hasselbad-500cm-planar-50mm-f4-delta-400-200"
+categories: 
+  - "carl-zeis-distagon-50mm-f-4"
+  - "hasselblad-500cm"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2017/06/HD129-003.jpg
+image: https://lh3.googleusercontent.com/wR-EtqcHbSIHNOnuJ2WN8gFrbXJ8PbUj3UNDlc_SwpOHBo-OxT-2NOyguZfE-lPpbIXJtpROvkaCvoiFFcblZnyGyaEwnAM-0bTp-geB5xR-2PUANZ3Ux8T2LImxU4yvAqRybxkqFkKdAA-ospyn9aDhTiMrurBhuEGaZD20VBIXTItro7mQihb4yjvnCPN6GF4IauapduAMQ5VdjGPBWpeG2jo80wAScPlMoh_G6PZ0TDC9TR4T4W3SQueaRiPapQuSA4GWpz1cs8Ei9RCFIjrNbQtYqgoYWKVXKgmB4ki4qnlUyHo42t4hE3QlNsIlySxImImsF4GZiB2sURIgv7EF0G4gHw9voD5A4-VBbRCupTlmMPrGgobpXn7mg-OZ1jJ_NA9r6zvg1vd6uaFS1aJ3G7Fjv5phFJUrd9P2Va_qSxfsF5iGPPzc3k1yob9R0WC9-m-oZJLpkViasGtOiVtc1o_4JS-UO2jQ0iOBbXf6s4nKwLOjrqKVe0x5fNXJOT39XJj-_X4fSPAm3daYXyMtJFCf8AjdsbXAhCXYfC6v8wBUgDaSLiZGrewaZtUmRZyhkQvJU4vAWQ5AJfdHQGZlxhFPlo-CxW6YKniLPMqSQrhun8QHAw=s925-no
+---
+
+[![](https://lh3.googleusercontent.com/wR-EtqcHbSIHNOnuJ2WN8gFrbXJ8PbUj3UNDlc_SwpOHBo-OxT-2NOyguZfE-lPpbIXJtpROvkaCvoiFFcblZnyGyaEwnAM-0bTp-geB5xR-2PUANZ3Ux8T2LImxU4yvAqRybxkqFkKdAA-ospyn9aDhTiMrurBhuEGaZD20VBIXTItro7mQihb4yjvnCPN6GF4IauapduAMQ5VdjGPBWpeG2jo80wAScPlMoh_G6PZ0TDC9TR4T4W3SQueaRiPapQuSA4GWpz1cs8Ei9RCFIjrNbQtYqgoYWKVXKgmB4ki4qnlUyHo42t4hE3QlNsIlySxImImsF4GZiB2sURIgv7EF0G4gHw9voD5A4-VBbRCupTlmMPrGgobpXn7mg-OZ1jJ_NA9r6zvg1vd6uaFS1aJ3G7Fjv5phFJUrd9P2Va_qSxfsF5iGPPzc3k1yob9R0WC9-m-oZJLpkViasGtOiVtc1o_4JS-UO2jQ0iOBbXf6s4nKwLOjrqKVe0x5fNXJOT39XJj-_X4fSPAm3daYXyMtJFCf8AjdsbXAhCXYfC6v8wBUgDaSLiZGrewaZtUmRZyhkQvJU4vAWQ5AJfdHQGZlxhFPlo-CxW6YKniLPMqSQrhun8QHAw=s925-no)](https://goo.gl/photos/usivQxzrqKnqZxJz7)
+
+Primeres fotos amb la nova òptica 50mm per la Hasselbad ;)

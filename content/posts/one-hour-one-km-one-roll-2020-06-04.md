@@ -1,0 +1,23 @@
+---
+title: "One hour, one Km, one roll – 2020-06-04"
+date: 2020-06-07
+slug: "one-hour-one-km-one-roll-2020-06-04"
+categories: 
+  - "lc-a-original"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2020/06/2020-06-04-008.jpg
+image: https://lh3.googleusercontent.com/9fdYzAVdgfllUe0okFDE6VJpnQGDDx0VJBnxRXfVF4L02W1G4bGojPp6rpFM4oVyOC2iObLU0ubylwp3jjX4_3Vwf78G8l4-21a44SLjLnpD_LG85GRgxW294p1KyXLGUBbbLrW1DtQmLiS2EpGtjAslwHyWAs0DyhpGhaj_EeLOTbwxVlzpLzGygxHGYGUff9J83mj0kJL5FxSpDG1j_xmkJjFOjsGmYI2kZthAhNWqcJ_YzHX8zIvgqC8M4SVCaJcIPhgDFfgD_KV25jFTumhoq0sAb7oDYg9QBmUTJu8dukrLWzeDOYiEmUMxNm92jF34h6F5jp-c8zQ-nZhuDgfewMYqpy_zeHDmWVGEVZv5cseAsFkMkJylSxwhbyK72ZIyqeAF5X9vsNMb_zqcW7pBIpVykHxQYxXzqlnxt0EDZ_OkaozlQ3e-SoH5yPSApzY1JOzmrQWQoprbbAof9jPUacjVjb2NMZQ9i0czEn7mYs927ENi2i2emHXiVaaY7u20v9ZygdFkmyIjJEMDFxynPklKJy2MRAHGPzBxvk-mvG5sIZUe2gEtO-vHG2wReCE2LBSlV1hmUlvBNUi3JzlTU2uDVT4gU2MxKxdb7IfONk35zjWo7NlrADodzAIvhP2DpsveJmF7FLfN5SBxY6YQc4vxZyuButZRde5auNlYgzZZLdZjEWrXOIQwVQ=w1681-h1029-no?authuser=0
+---
+
+<figure>
+
+[![](https://lh3.googleusercontent.com/9fdYzAVdgfllUe0okFDE6VJpnQGDDx0VJBnxRXfVF4L02W1G4bGojPp6rpFM4oVyOC2iObLU0ubylwp3jjX4_3Vwf78G8l4-21a44SLjLnpD_LG85GRgxW294p1KyXLGUBbbLrW1DtQmLiS2EpGtjAslwHyWAs0DyhpGhaj_EeLOTbwxVlzpLzGygxHGYGUff9J83mj0kJL5FxSpDG1j_xmkJjFOjsGmYI2kZthAhNWqcJ_YzHX8zIvgqC8M4SVCaJcIPhgDFfgD_KV25jFTumhoq0sAb7oDYg9QBmUTJu8dukrLWzeDOYiEmUMxNm92jF34h6F5jp-c8zQ-nZhuDgfewMYqpy_zeHDmWVGEVZv5cseAsFkMkJylSxwhbyK72ZIyqeAF5X9vsNMb_zqcW7pBIpVykHxQYxXzqlnxt0EDZ_OkaozlQ3e-SoH5yPSApzY1JOzmrQWQoprbbAof9jPUacjVjb2NMZQ9i0czEn7mYs927ENi2i2emHXiVaaY7u20v9ZygdFkmyIjJEMDFxynPklKJy2MRAHGPzBxvk-mvG5sIZUe2gEtO-vHG2wReCE2LBSlV1hmUlvBNUi3JzlTU2uDVT4gU2MxKxdb7IfONk35zjWo7NlrADodzAIvhP2DpsveJmF7FLfN5SBxY6YQc4vxZyuButZRde5auNlYgzZZLdZjEWrXOIQwVQ=w1681-h1029-no?authuser=0)](https://photos.app.goo.gl/CGA3PRdecAp1TXiP9)
+
+<figcaption>
+
+2020-06-04 - LC-A (original) - Agfa APX 400
+
+</figcaption>
+
+</figure>

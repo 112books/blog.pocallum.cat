@@ -1,0 +1,23 @@
+---
+title: "2021-05-21 - Manel Sala - Horseman 8x10\" - Fomapan 100"
+date: 2021-05-26
+slug: "2021-05-21-manel-sala-horsman-8x10-fomapan-100"
+categories: 
+  - "horsman-8x10″"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2021/05/2021-05-21-Manel-002.jpg
+image: https://lh3.googleusercontent.com/TG5vDg1dte0hpsLg1LQeHlFdm0r7ikskZLE89g9x9EPBDOkCVY8DYahwquP5OSja9HKuhHdpXvPg74F2DzY13Qi2tljIJN42kLhBdZg_MlX8HgEmPTeC0rzztecDb4AzE3WJPLqNkaSBRlAccbk8dZ8H_7uF3DcQo-7rRwKZvvh8Fr4tmpnnb5TBQ9qXj97ALXom5ipVhximvDClUjQiYTbDTfPZnxjOdNrt9M2UxkxJo2zMuhymW9P7CMCVi8pkt5OrzUbzjzOljuoy9Sj-TvXcTsIEke9tgsdNrkkYZmYhGh_B8hrXNtUQmGFFulGqqrQHaAO7v0s0PYovAUuwpTH6ARC27vyDiILC8q5ixmuRxTvNGFbqpCLA5nel-h6ckFS-li9yfXOiypKe3oi9c7qwUFZakmmJHL2w1QrlAtJuod0A0MxYsabahO8TZiCS0a31kY9apO5H28jAhZtrZ63OI6xU07XTGMWyk-dcB4mLJJ6g94ejQACOPQo4A3WERaZejRZrLyGkwzHK6kfTGGb6d6eNtaCaMSWHXY8J4CEdocLQj83VpV8l8kRgYXJl_fCfi3dEbyelhFwBld0Ac4Vza_UU6jrc5J5v4zvVNT5OZQOzBhbva8-GldZ5PYY4pj_JjPjHgI-H-RCmz6yaJOLWIY25NPB1ooqpBvwyue7_M62HZf_87LAqMXU-jK798LJvlNKWt_IUbkguzaiORLm6=w1002-h1246-no?authuser=0
+---
+
+<figure>
+
+[![](https://lh3.googleusercontent.com/TG5vDg1dte0hpsLg1LQeHlFdm0r7ikskZLE89g9x9EPBDOkCVY8DYahwquP5OSja9HKuhHdpXvPg74F2DzY13Qi2tljIJN42kLhBdZg_MlX8HgEmPTeC0rzztecDb4AzE3WJPLqNkaSBRlAccbk8dZ8H_7uF3DcQo-7rRwKZvvh8Fr4tmpnnb5TBQ9qXj97ALXom5ipVhximvDClUjQiYTbDTfPZnxjOdNrt9M2UxkxJo2zMuhymW9P7CMCVi8pkt5OrzUbzjzOljuoy9Sj-TvXcTsIEke9tgsdNrkkYZmYhGh_B8hrXNtUQmGFFulGqqrQHaAO7v0s0PYovAUuwpTH6ARC27vyDiILC8q5ixmuRxTvNGFbqpCLA5nel-h6ckFS-li9yfXOiypKe3oi9c7qwUFZakmmJHL2w1QrlAtJuod0A0MxYsabahO8TZiCS0a31kY9apO5H28jAhZtrZ63OI6xU07XTGMWyk-dcB4mLJJ6g94ejQACOPQo4A3WERaZejRZrLyGkwzHK6kfTGGb6d6eNtaCaMSWHXY8J4CEdocLQj83VpV8l8kRgYXJl_fCfi3dEbyelhFwBld0Ac4Vza_UU6jrc5J5v4zvVNT5OZQOzBhbva8-GldZ5PYY4pj_JjPjHgI-H-RCmz6yaJOLWIY25NPB1ooqpBvwyue7_M62HZf_87LAqMXU-jK798LJvlNKWt_IUbkguzaiORLm6=w1002-h1246-no?authuser=0)](https://photos.app.goo.gl/UxzXyDirDvXaDKzJ9)
+
+<figcaption>
+
+Retrats onthefly del gran amic Manel Sala "Ulls" a Llumtics
+
+</figcaption>
+
+</figure>

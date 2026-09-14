@@ -1,0 +1,15 @@
+---
+title: "Jam Session del Festival conduïda pels alumnes de l’Escola-Taller de Blues de Barcelona"
+date: 2018-07-05
+slug: "jam-session-del-festival-conduida-pels-alumnes-de-lescola-taller-de-blues-de-barcelona"
+categories: 
+  - "leica-m6"
+author: "inuxbcn"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2018/07/HD258-013.jpg
+image: https://lh3.googleusercontent.com/U8w17XVmhWlL-7QJ0Q_s5Y0TLtfl4MUqkvqPugLI9rova_ynHcMHtkqrrOxkqniMMq0AA0Ly-7uS6MPNmAS0dwuGixOkllqxoYNwVP5KCzBNH-A5_hRKnK3vDzXtZnPP1GotDlAYn_SH2wse9TNUGRpN4wc3WdhGnYPM2fbEkW0rInX13krbq5s8SjzzjFaX6wnjcza2cKQcVcP7CuP0ADbN9NQtmdk8PWfbNrP6QPwkLJxD56G3ZHocRJlUXh3I9T77CCbHMrbdBzNUcPK5YZhpIWwwPe6nO0l2EKMdQlTUIEcIr-8SCv0SFECoexE82H5fM_4NUdUO9mmVcSPelwBqmQZsOFtYubiEhwnbtkIqBudrpEJFG0PxT9oKBpF9VdA2JlfsOESsDDsYaN1XuGsBuy5mK8dW89wbuIiZhLTV2ppO5-AuqUKloGsqfjOp8ynnL-49EOlkfXIwvzlpZdCMTPeK9PffiYZmQ-KBnBfrfUwPdkkKOjDh4Sx17GveCAyAE--2CQUD3mE3beBWzGGiiFxWq0In0Qv49pt32TNMbCOR2h9tOqOrUwOY3KjPHBFO5sSKkXpBJiVjSzBgLvVCK0TeCR4B4mjVT6L1=w1512-h919-no
+---
+
+[![](https://lh3.googleusercontent.com/U8w17XVmhWlL-7QJ0Q_s5Y0TLtfl4MUqkvqPugLI9rova_ynHcMHtkqrrOxkqniMMq0AA0Ly-7uS6MPNmAS0dwuGixOkllqxoYNwVP5KCzBNH-A5_hRKnK3vDzXtZnPP1GotDlAYn_SH2wse9TNUGRpN4wc3WdhGnYPM2fbEkW0rInX13krbq5s8SjzzjFaX6wnjcza2cKQcVcP7CuP0ADbN9NQtmdk8PWfbNrP6QPwkLJxD56G3ZHocRJlUXh3I9T77CCbHMrbdBzNUcPK5YZhpIWwwPe6nO0l2EKMdQlTUIEcIr-8SCv0SFECoexE82H5fM_4NUdUO9mmVcSPelwBqmQZsOFtYubiEhwnbtkIqBudrpEJFG0PxT9oKBpF9VdA2JlfsOESsDDsYaN1XuGsBuy5mK8dW89wbuIiZhLTV2ppO5-AuqUKloGsqfjOp8ynnL-49EOlkfXIwvzlpZdCMTPeK9PffiYZmQ-KBnBfrfUwPdkkKOjDh4Sx17GveCAyAE--2CQUD3mE3beBWzGGiiFxWq0In0Qv49pt32TNMbCOR2h9tOqOrUwOY3KjPHBFO5sSKkXpBJiVjSzBgLvVCK0TeCR4B4mjVT6L1=w1512-h919-no)](https://photos.app.goo.gl/sRysi3vdPe6ZKqbB8)
+
+HomeDev#258 - Leica M6 - Rollei RPX 400 @1600 - Jam sessión Festival de Blues 2018

@@ -1,0 +1,15 @@
+---
+title: "Segón aniversari de Lomography Barcelona"
+date: 2018-12-16
+slug: "segon-aniversari-de-lomography-barcelona"
+categories: 
+  - "leica-m4-2"
+author: "inuxbcn"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2018/12/hd313-018.jpg
+image: https://lh3.googleusercontent.com/1dtW05IouZRz76PRifEzFYoG-vKihbEaB1VB-J9hifDtRX3KWS3RJ1wYJfXHCpWaRujJunYnZ_qiykoq11_X862e9IhHn38UwJ3vU9E6DCU6SV5xkQePmncbT73iYjKmKFTLCiMlO86ogJCm4PRsHCOYlXOX71Wmkbjm6-RACHe6s-UsE1CgTqfnwRVgNTBi3eKfwtRYkqqhOIi2yQcp1Ay0C8hvmKGJ-RLuVH-t5pQGEzrwOYaIUs1AUMGizos5IQMS2bcCP6ADXclREvRQbGJyHyI--D0aPKjkhN95Mk_B-Uih_2OKvqjL6xuJVxebdolmwWgtgIYr21c2GoBPY3gA3TyuS5hg6Y6kqya274fZCjcZjS47NEHVjllZU2XmKebh6_6dcbKa-NCWjRni4RGOwR_RO5OGGjNjTnujWPg-to-lObu1W9ZBtIVyFNQATK8atilyX5T8c90Ax4bGU6mWpAUzMgAnLg6K1Hd3ralGvah8fviX5Oplz3vtfJJl48LzURaGTywPZJJEWgWohgUfEVun0HgWrD7jdRM32YQx1VSWkYo_JBdBCcOQlyyw4aXg9-4O_JVFoAWPECUZY_jYd8tiZ8RgE0qsgY-x-TTshZ_5dFllmj1JlN3AJt36Bd6LsXmPvrkqV0k6xm9Z-6s2Dw=w1224-h762-no
+---
+
+[![](https://lh3.googleusercontent.com/1dtW05IouZRz76PRifEzFYoG-vKihbEaB1VB-J9hifDtRX3KWS3RJ1wYJfXHCpWaRujJunYnZ_qiykoq11_X862e9IhHn38UwJ3vU9E6DCU6SV5xkQePmncbT73iYjKmKFTLCiMlO86ogJCm4PRsHCOYlXOX71Wmkbjm6-RACHe6s-UsE1CgTqfnwRVgNTBi3eKfwtRYkqqhOIi2yQcp1Ay0C8hvmKGJ-RLuVH-t5pQGEzrwOYaIUs1AUMGizos5IQMS2bcCP6ADXclREvRQbGJyHyI--D0aPKjkhN95Mk_B-Uih_2OKvqjL6xuJVxebdolmwWgtgIYr21c2GoBPY3gA3TyuS5hg6Y6kqya274fZCjcZjS47NEHVjllZU2XmKebh6_6dcbKa-NCWjRni4RGOwR_RO5OGGjNjTnujWPg-to-lObu1W9ZBtIVyFNQATK8atilyX5T8c90Ax4bGU6mWpAUzMgAnLg6K1Hd3ralGvah8fviX5Oplz3vtfJJl48LzURaGTywPZJJEWgWohgUfEVun0HgWrD7jdRM32YQx1VSWkYo_JBdBCcOQlyyw4aXg9-4O_JVFoAWPECUZY_jYd8tiZ8RgE0qsgY-x-TTshZ_5dFllmj1JlN3AJt36Bd6LsXmPvrkqV0k6xm9Z-6s2Dw=w1224-h762-no)](https://photos.app.goo.gl/3qdjNxEmDXgTRih5A)
+
+De nou festa de les bones a Lomo Barcelona amb pastís, música en viu (Three Time Losers) i tots els amics de sempre!

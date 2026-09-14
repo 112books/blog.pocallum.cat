@@ -1,0 +1,23 @@
+---
+title: "Joan by Alfonso de Castro"
+date: 2020-11-30
+slug: "joan-by-alfonso-de-castro"
+categories: 
+  - "horsman-8x10″"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2020/11/Captura-de-pantalla-2024-11-14-a-les-11.10.53.png
+image: https://lh3.googleusercontent.com/KKQtLSJPTGf5p62DMkLZJho1Mw0x8H2NhVh8vQYHhAsYMjuNQIUVtpFuyJOP9o8ffFjPMNLwQ3TRery9wor_eSvT7IRphmYPdd0uJEOfOaHsk25hc1UgfXs3FTKBeNQFFoxcRp3DYSERNH8UkJFlLr_RbODqdCuP4YXFAb9Zk47P_J2R6NHzraFLlWhnY8DfrrEBVaPwCCenzWf4GVJshR-KNYPadmh210jTKyomeMMcvTdq7YcoN70WnInZLPfLf3oxgGiE5P-NrCtQrskx6K_-xrs_OAvaNKzs2YZ64qPadGy1D85sZrOS0gDVtRHYRvsKWd_nTG08w3BCzlK_9cK3oUVIZeuDrw8pRr_nn-mGEq-CFSN17_oSWwnp9rTbu8tljGoFZoomBRg6oPdrY7nPlE-iqGKCOWBckapJKxN9lbGIAlQbg-NV7k7ZMVGzl5BHxEPWlvfMIKpV9USJ7c_3sZnMqU3B2qpca4oUdB-Z7DAcOY1ZGb_EFuND3DrzcZoYLyBg7xK3ONYLdyC0546QfoYFCjXYcAOpQeBg45zdEk9jm_HNIYFXISYz1axxbFB8ibjsSfTCWxSNIyEmaByCrsjHrDhFBKQbmFiWooAjUY5Nw624rx60bTBnh8zW4ujxMyEFC8-pJKpI9c7UHrd6D6z6rjHz1QGoSabPyRZbhtiRUgxdwpi7NEQkFA=w1001-h1261-no?authuser=0
+---
+
+<figure>
+
+[![](https://lh3.googleusercontent.com/KKQtLSJPTGf5p62DMkLZJho1Mw0x8H2NhVh8vQYHhAsYMjuNQIUVtpFuyJOP9o8ffFjPMNLwQ3TRery9wor_eSvT7IRphmYPdd0uJEOfOaHsk25hc1UgfXs3FTKBeNQFFoxcRp3DYSERNH8UkJFlLr_RbODqdCuP4YXFAb9Zk47P_J2R6NHzraFLlWhnY8DfrrEBVaPwCCenzWf4GVJshR-KNYPadmh210jTKyomeMMcvTdq7YcoN70WnInZLPfLf3oxgGiE5P-NrCtQrskx6K_-xrs_OAvaNKzs2YZ64qPadGy1D85sZrOS0gDVtRHYRvsKWd_nTG08w3BCzlK_9cK3oUVIZeuDrw8pRr_nn-mGEq-CFSN17_oSWwnp9rTbu8tljGoFZoomBRg6oPdrY7nPlE-iqGKCOWBckapJKxN9lbGIAlQbg-NV7k7ZMVGzl5BHxEPWlvfMIKpV9USJ7c_3sZnMqU3B2qpca4oUdB-Z7DAcOY1ZGb_EFuND3DrzcZoYLyBg7xK3ONYLdyC0546QfoYFCjXYcAOpQeBg45zdEk9jm_HNIYFXISYz1axxbFB8ibjsSfTCWxSNIyEmaByCrsjHrDhFBKQbmFiWooAjUY5Nw624rx60bTBnh8zW4ujxMyEFC8-pJKpI9c7UHrd6D6z6rjHz1QGoSabPyRZbhtiRUgxdwpi7NEQkFA=w1001-h1261-no?authuser=0)](https://photos.app.goo.gl/WSJELgUQMrUHjGBu5)
+
+<figcaption>
+
+2020-11-26 - Horsman 8x10 - Fomapan100 - Joan by [@Alfondc](https://www.instagram.com/alfondcf/)
+
+</figcaption>
+
+</figure>

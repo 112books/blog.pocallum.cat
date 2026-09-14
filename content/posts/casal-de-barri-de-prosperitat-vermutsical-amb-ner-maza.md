@@ -1,0 +1,19 @@
+---
+title: "Casal de barri de Prosperitat - Vermutsical amb Ner & Maza"
+date: 2019-09-15
+slug: "casal-de-barri-de-prosperitat-vermutsical-amb-ner-maza"
+categories: 
+  - "leica-m6"
+tags:
+  - "barcelona"
+  - "bcn"
+  - "casal-de-barri-de-prosperitat"
+  - "ner-maza"
+  - "prosperitat"
+  - "vermutsical"
+author: "inuxbcn"
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2019/09/HD437-009.jpg
+image: https://lh3.googleusercontent.com/xqP4y8ycIrHc3SGYpnQotrDiqwp3inRdjymusM_oW6AoING3iExfXe-OPAn2yURr9XAr9EsxULnAItr7vFIMukrxQWWn8ezo1NHRiyi0vnFDPCfBZQHx4NO1NbjmfHk0PP6bkIROcElksR_ZznxrJ3fArXKTkzXqbP0XKgbhBPowAk1zBwTgqSZDwGVM6fQURf93X1bFc-PAn1YcdfBTYmm0JCjvq2dlZf_dSbohz3fajmO5BaaN1yb3M7xRtM0jdCTaNc4NR_1GzXK4XWUwaqyghr5NDsY1m05qJ7aezfi2QhGIpKqNpbtRKRSpc4tqNTQoJ613Ai8P1IMUXVkxgKZrq9wxmOBox_5CnCm5jO6NMmG7YoA2UD4ucIHrm0Vu6l9pCIcx1s_U4k4DvEQ_bwrVkR2loY_4HsRRIAua3T8wVyxld3cQjQSK6y8IqvoIc0XcOp5-7iUECI4W_BSimRojwbiFs992pxiUymSiIYDkNq1vxrucdtJl3hQlc-Q6pFLcXFjwvKwBURDqSDvDCmC-VmHzQwne5s8t2-5Al3_SnXPBZyDzJQw4OVxhPSIz5pHqC_UygGwQcdbu9pd3CKAXTrUsE13erMLBxUUPt_3M5xANPwf6AxiMBI6g3HTbql2HkperUAkv9mcRmSRKoLzMvWaKzdHIZPljhprdtPTkqBg_KB3HGK0X=w2000-h1239-no
+---
+
+[![](https://lh3.googleusercontent.com/xqP4y8ycIrHc3SGYpnQotrDiqwp3inRdjymusM_oW6AoING3iExfXe-OPAn2yURr9XAr9EsxULnAItr7vFIMukrxQWWn8ezo1NHRiyi0vnFDPCfBZQHx4NO1NbjmfHk0PP6bkIROcElksR_ZznxrJ3fArXKTkzXqbP0XKgbhBPowAk1zBwTgqSZDwGVM6fQURf93X1bFc-PAn1YcdfBTYmm0JCjvq2dlZf_dSbohz3fajmO5BaaN1yb3M7xRtM0jdCTaNc4NR_1GzXK4XWUwaqyghr5NDsY1m05qJ7aezfi2QhGIpKqNpbtRKRSpc4tqNTQoJ613Ai8P1IMUXVkxgKZrq9wxmOBox_5CnCm5jO6NMmG7YoA2UD4ucIHrm0Vu6l9pCIcx1s_U4k4DvEQ_bwrVkR2loY_4HsRRIAua3T8wVyxld3cQjQSK6y8IqvoIc0XcOp5-7iUECI4W_BSimRojwbiFs992pxiUymSiIYDkNq1vxrucdtJl3hQlc-Q6pFLcXFjwvKwBURDqSDvDCmC-VmHzQwne5s8t2-5Al3_SnXPBZyDzJQw4OVxhPSIz5pHqC_UygGwQcdbu9pd3CKAXTrUsE13erMLBxUUPt_3M5xANPwf6AxiMBI6g3HTbql2HkperUAkv9mcRmSRKoLzMvWaKzdHIZPljhprdtPTkqBg_KB3HGK0X=w2000-h1239-no)](https://photos.app.goo.gl/1GbXHffPwyReNhXUA)

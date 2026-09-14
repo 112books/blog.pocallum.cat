@@ -1,0 +1,16 @@
+---
+title: "Hd#131 - Al Poble #1"
+date: 2017-07-02
+slug: "hd131-al-poble-1"
+categories: 
+  - "carl-zeis-distagon-50mm-f-4"
+  - "hasselblad-500cm"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2017/07/HD131-003.jpg
+image: https://lh3.googleusercontent.com/7IezzZIk6-NPjf566WOGSLnjuUDZGzrKgEFqfJ9uHe3FMHkor8v_n9r0XX7ZrE7qTPukc8aVqc1gwH56FbQAP-kugc3sZt2Et2H1wc0ePrFXLGLHK2LJSq6kX5qJ34_zi0R8o3S1ey6rrvQDPUl3SFxPktVv2hs0ERLUuOMqQOKFG5VNhPTR0CTR9jYSTFojXM4GdwFMN2xvnRL9MQY73zS0Dtdw9IF1CWKi9xENlKre5mgXmDFG16lsVDDbZSo7peIKA1SorUvJzVOh9sI36pSyrhcWb66tzOt6G0uaHVZ02pFMpWE4Z0XSL4GzwXGCKf2qL18IPy_Bb6cpovA6pXIZm6xlFEXChJE4ZOfUQxCGF1XzjfNUe7vjLEnY9WQreWNzk8lAlTIPC0_Mkea3L7SJa4fL4-tOJZAVFxskzbZvE3wUcdf1jRaX2WdOUE0FsIXL6dLJH1-wcT0_cgP3EeSxkhF3qHX_SwL5390kI-h3GQs4b6TjgGmdbni4avg-nNoi4eRAIGl_7F6XHPekopvi4TRF3cTIgV3NdXKTzinGmOwIc7kwdgrfICKY6oo-Ekk3rZDkUOcE9ZULZU0QkWW4zcU-c0jB7P4dX3ZH3WtFV1HNtfLDKw=s925-no
+---
+
+[![](https://lh3.googleusercontent.com/7IezzZIk6-NPjf566WOGSLnjuUDZGzrKgEFqfJ9uHe3FMHkor8v_n9r0XX7ZrE7qTPukc8aVqc1gwH56FbQAP-kugc3sZt2Et2H1wc0ePrFXLGLHK2LJSq6kX5qJ34_zi0R8o3S1ey6rrvQDPUl3SFxPktVv2hs0ERLUuOMqQOKFG5VNhPTR0CTR9jYSTFojXM4GdwFMN2xvnRL9MQY73zS0Dtdw9IF1CWKi9xENlKre5mgXmDFG16lsVDDbZSo7peIKA1SorUvJzVOh9sI36pSyrhcWb66tzOt6G0uaHVZ02pFMpWE4Z0XSL4GzwXGCKf2qL18IPy_Bb6cpovA6pXIZm6xlFEXChJE4ZOfUQxCGF1XzjfNUe7vjLEnY9WQreWNzk8lAlTIPC0_Mkea3L7SJa4fL4-tOJZAVFxskzbZvE3wUcdf1jRaX2WdOUE0FsIXL6dLJH1-wcT0_cgP3EeSxkhF3qHX_SwL5390kI-h3GQs4b6TjgGmdbni4avg-nNoi4eRAIGl_7F6XHPekopvi4TRF3cTIgV3NdXKTzinGmOwIc7kwdgrfICKY6oo-Ekk3rZDkUOcE9ZULZU0QkWW4zcU-c0jB7P4dX3ZH3WtFV1HNtfLDKw=s925-no)](https://goo.gl/photos/1g4fWLm69fXyS6AZ7)
+
+HomeDev#131 - Hasselbad 500CM - Planar 50mm f/4 - Fomapan 200

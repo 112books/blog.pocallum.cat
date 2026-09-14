@@ -1,0 +1,13 @@
+---
+title: "HomeDev#86 - LC-A - Tri-X 400 forçat a 1600 (HC-110 1/31)"
+date: 2016-11-28
+slug: "homedev86-lc-a-tri-x-400-forc%cc%a7at-a-1600-hc-110-131"
+categories: 
+  - "lomography-lc-a"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2016/11/HD86-LCa-TriX1600-016.jpg
+image: https://lh3.googleusercontent.com/DziexTUXCnPRtg46j3dIN1CzB2c17dWEI6oxK5X9CqUOF_jEACqWXDDSQUyND8RIHu-DYhj4NRe_ZMSI8stRp6_TKBHumstVdg_XXO1P8yRHdw8Mzvs7aU_t2CAz-o81MVq56PeB9IVZG1Y8hc8HzFascqVCMb3GnaSd30lIyNro77Hf6PxJDg9PuSj69YpMDkH9JTFUDz9khBXaZHpQI4YUuCX_C1jlAAI56582lncGIN-V5GoJbGc1Vl0p6ucUnKUvBZBqmlGFFvOZsWwGBnUMxydrjP4Bm9ZQ72pLg74sCZb0dH-dJk0TDrgB9MlahtWQlPaVL2wwPMFNYu9DZ8z-iCOu8vjvkOxIsv2xS_-awisjgIRdAyWwWC--vzDQO8Nl6OcpsHLU80ZYkYJinFlWva24pgSuHrZZ1zv3miIHiYMdDlQ01zX8f4I0oI9FTz1GQLzjQRt0PCe23emYSwVp27XYO0XFS6buglLzeDqxr96FTykNMqMyFiB5o2lPdWj9lzuk0HgfyCOw8TU97R7hm3aElq-nRn2c55NaSIUdRbJAzd9TOhUcWVV54pfLlxZVS1x05rXfUrV0HKYZQ7xVQq7KF0_jbDFhFm0k6rG2QeR29Q=w1473-h975-no
+---
+
+[![](https://lh3.googleusercontent.com/DziexTUXCnPRtg46j3dIN1CzB2c17dWEI6oxK5X9CqUOF_jEACqWXDDSQUyND8RIHu-DYhj4NRe_ZMSI8stRp6_TKBHumstVdg_XXO1P8yRHdw8Mzvs7aU_t2CAz-o81MVq56PeB9IVZG1Y8hc8HzFascqVCMb3GnaSd30lIyNro77Hf6PxJDg9PuSj69YpMDkH9JTFUDz9khBXaZHpQI4YUuCX_C1jlAAI56582lncGIN-V5GoJbGc1Vl0p6ucUnKUvBZBqmlGFFvOZsWwGBnUMxydrjP4Bm9ZQ72pLg74sCZb0dH-dJk0TDrgB9MlahtWQlPaVL2wwPMFNYu9DZ8z-iCOu8vjvkOxIsv2xS_-awisjgIRdAyWwWC--vzDQO8Nl6OcpsHLU80ZYkYJinFlWva24pgSuHrZZ1zv3miIHiYMdDlQ01zX8f4I0oI9FTz1GQLzjQRt0PCe23emYSwVp27XYO0XFS6buglLzeDqxr96FTykNMqMyFiB5o2lPdWj9lzuk0HgfyCOw8TU97R7hm3aElq-nRn2c55NaSIUdRbJAzd9TOhUcWVV54pfLlxZVS1x05rXfUrV0HKYZQ7xVQq7KF0_jbDFhFm0k6rG2QeR29Q=w1473-h975-no)](https://goo.gl/photos/JWRGp9zNtVLdiLWB6)

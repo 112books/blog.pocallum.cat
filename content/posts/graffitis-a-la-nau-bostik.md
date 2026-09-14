@@ -1,0 +1,23 @@
+---
+title: "Graffitis a la Nau Bostik"
+date: 2021-01-09
+slug: "graffitis-a-la-nau-bostik"
+categories: 
+  - "speed-graphic"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2021/01/2021-01-08-bostik-004.jpg
+image: https://lh3.googleusercontent.com/X-staNeT0HTGpojTqTyqgBLROyey8QzMY7FGvJZ8rgVopHfNOxK6b75n2Mzpr2-mprMazAXqn6YczGjKuZ6C9TF9nd1AexMcZs3-F59ZYl7s2HuTPlBANyu7y_9kl95106pzXWKxYD8QycEVA0ad8GEO_XZua00P8FbxxkhDWiCVmMPvL-ymTNAhaTEdNg-gaikPDfvBToH7orF2rnig1803vKct4g6yTVEiPtZYyH2ejxNmYWansZJ-m2r3VReD2vgEI8bPi4H47-posMI2wSoLReeRFJVn-Gx650YyMV4auBLAyBZs5afZ7AI8V3j46ti-2ZNjZiu-6mBC_auCRwlYt7OyqpfPGO5KGW6d6dDBacGINdPAaC2RGdil3B88oEt65OI1OoPYjyrG8RsgEnH-PWC5bKTcyHfMLqPkWkz4QWvGb3cAGnpScfQsnGYeWgl4r05sSFCpxFAh_p2B9XWjkxaxHdF2KlVBc2b_Cov29L9fk86kgfFW1xwWzJCyeeF69pt3mt9JNMgCZt3rhHNZZclIgd7tzpueW7XAZIEH-0W3XqOmiEOZf3dijVgkGiBl-hsRjEnJelxcCO82F3Oztyz2IQAG8JfTDeBLlHnEXhee2YmubKhgRZv9L_UWRsv3N7mSzUO9i96okoWfmAj-fc8ozgA21Hnhlw6P2eShWIGtRDrKxWAbmypqmA=w1002-h1261-no?authuser=0
+---
+
+<figure>
+
+[![](https://lh3.googleusercontent.com/X-staNeT0HTGpojTqTyqgBLROyey8QzMY7FGvJZ8rgVopHfNOxK6b75n2Mzpr2-mprMazAXqn6YczGjKuZ6C9TF9nd1AexMcZs3-F59ZYl7s2HuTPlBANyu7y_9kl95106pzXWKxYD8QycEVA0ad8GEO_XZua00P8FbxxkhDWiCVmMPvL-ymTNAhaTEdNg-gaikPDfvBToH7orF2rnig1803vKct4g6yTVEiPtZYyH2ejxNmYWansZJ-m2r3VReD2vgEI8bPi4H47-posMI2wSoLReeRFJVn-Gx650YyMV4auBLAyBZs5afZ7AI8V3j46ti-2ZNjZiu-6mBC_auCRwlYt7OyqpfPGO5KGW6d6dDBacGINdPAaC2RGdil3B88oEt65OI1OoPYjyrG8RsgEnH-PWC5bKTcyHfMLqPkWkz4QWvGb3cAGnpScfQsnGYeWgl4r05sSFCpxFAh_p2B9XWjkxaxHdF2KlVBc2b_Cov29L9fk86kgfFW1xwWzJCyeeF69pt3mt9JNMgCZt3rhHNZZclIgd7tzpueW7XAZIEH-0W3XqOmiEOZf3dijVgkGiBl-hsRjEnJelxcCO82F3Oztyz2IQAG8JfTDeBLlHnEXhee2YmubKhgRZv9L_UWRsv3N7mSzUO9i96okoWfmAj-fc8ozgA21Hnhlw6P2eShWIGtRDrKxWAbmypqmA=w1002-h1261-no?authuser=0)](https://photos.app.goo.gl/2bzeyUqAudELZUnS7)
+
+<figcaption>
+
+2021-01-08 - SpeedGraphic 4x5 - Fomapan 400
+
+</figcaption>
+
+</figure>

@@ -1,0 +1,15 @@
+---
+title: "Big Funk Theory i La Coctelera Negra -Sala Sidecar"
+date: 2017-06-18
+slug: "big-funk-theory-y-la-coctelera-negra-sala-sidecar"
+categories: 
+  - "canon-eos-6d"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2017/06/IMG_1577.jpg
+image: https://lh3.googleusercontent.com/P6fFl8Y9J3H6xpQHGvooAuX8Qac-5D0V-zkUsW7z9Z40HQbzR2Tif9yWQwq2ddGfL3jmwhPPc-1Kj0BnDwRbYjVxOAZ_C89ZuIiyZsNfTm8M_GeGxk67ro_ET0Rv08veaAg7cH3zpNWrIHnApy8T6ZBgX4MC-QlBKFT1uT7aA9wO4uvwf29VSMREBVMn8HIpxlhPFJpv-cdVzRZHhOGslNvghyMCw_vvhYP0GOlrjjNorS1_kcHsSJDzjsrQwU2YPevADyL1-40mpMRbruTJe5gkMOK92wifnDQgz8oda07eH_zOVAA6NvrsTK3KumhZ9-IOM2qq9dVEBYe8wRgvOmYCgzQepgxEkubX9onZ0WARdDITHi8s2VvV_UDuNA7El7U1BFzb_wkAXr4sXqVLItXKveGefWTXANgSy1YDHJ9EiJQzUEGpceQbp_GRucfRcv2ivwYcpWJ1Va7rAxZJyFbhcRWGCb2baXB7rkknbuvFWh5edR9f86xdVoE_yCadedcxCo3J61Ka3eBWhjjgS7UJHSgN2XDEComjkImc6uh93fi11pqhFQlycUHgtQ4VVLG477bDz26ZjmSkZIFQxD0vzRCddUZzVn355UuR9LGHeAQQtC_cQw=w925-h617-no
+---
+
+[![](https://lh3.googleusercontent.com/P6fFl8Y9J3H6xpQHGvooAuX8Qac-5D0V-zkUsW7z9Z40HQbzR2Tif9yWQwq2ddGfL3jmwhPPc-1Kj0BnDwRbYjVxOAZ_C89ZuIiyZsNfTm8M_GeGxk67ro_ET0Rv08veaAg7cH3zpNWrIHnApy8T6ZBgX4MC-QlBKFT1uT7aA9wO4uvwf29VSMREBVMn8HIpxlhPFJpv-cdVzRZHhOGslNvghyMCw_vvhYP0GOlrjjNorS1_kcHsSJDzjsrQwU2YPevADyL1-40mpMRbruTJe5gkMOK92wifnDQgz8oda07eH_zOVAA6NvrsTK3KumhZ9-IOM2qq9dVEBYe8wRgvOmYCgzQepgxEkubX9onZ0WARdDITHi8s2VvV_UDuNA7El7U1BFzb_wkAXr4sXqVLItXKveGefWTXANgSy1YDHJ9EiJQzUEGpceQbp_GRucfRcv2ivwYcpWJ1Va7rAxZJyFbhcRWGCb2baXB7rkknbuvFWh5edR9f86xdVoE_yCadedcxCo3J61Ka3eBWhjjgS7UJHSgN2XDEComjkImc6uh93fi11pqhFQlycUHgtQ4VVLG477bDz26ZjmSkZIFQxD0vzRCddUZzVn355UuR9LGHeAQQtC_cQw=w925-h617-no)](https://goo.gl/photos/JiL3pZv36K8DbMsCA)
+
+Genial nit de bona música a la llegendària Sala Sidecar de la Plaça Real de Barcelona. A la tornada a casa la darrera a l'Arena Bar en família.

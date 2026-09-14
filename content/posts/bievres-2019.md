@@ -1,0 +1,15 @@
+---
+title: "Bièvres 2019"
+date: 2019-06-03
+slug: "bievres-2019"
+categories: 
+  - "leica-m4-2"
+author: "inuxbcn"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2019/06/HD367-007.jpg
+image: https://lh3.googleusercontent.com/qSs_h5JS5qzEmRRdet-jl8QhgH7hv0ovio-h21YlPv_BVloMxclfkPUsIyJZGGAXd-TdkBEp5NWr_5MCtxiXgTFJVCRTBH-FrXjL7WvuBEbpIfYMXOaN71lODtAvRJT4e7HErLXfYRDXrmiGmoNWRabUCLhliPF1w231MdubMmTVsQJ6wVjL53rYOg2a55qPa6J1gzNUITwf01na_QDlnF4GMYR1vVQsOkqUbGpiYwWpyz_BRb5Ss27hWtXVWSZQsN1alGL0ORmzwqnPvOuQjSztgM3t4bHK8tvxDb-ssIauFp8BzMIpfixrJLbZfCRTAldgxL8kBi8N-j5o4PGyzBIDL0mcwlFnRzAfDnvi8_saM6Wso8BN2yfiLzsSQUiap41KwNK0l7zgPhJnxwyNM6d_ylG7dDZcti5UWzxoyi_ttSTcNy6N1MdbDaRwjVAmr0fUnNV7UGcIhN3omwBdTxD5Gig0_EtntIjf668GTyN_FKrby-WTPbWi1Md6QCsIqxvbZPfSQ_HywxxJmCkTC9gNaJH7u0slusbDuM3yxuKDxYtQuhBdVCf8w-HY3vDKUD7avvXkNij_PQeJPEfDyG_c4VucGTV5wgIFYikQlidJHl24eP15--oJcAcph8bxuZd3LO-H5UqhIkvoLAjnQeevLI6cW5n2=w1549-h952-no
+---
+
+[![](https://lh3.googleusercontent.com/qSs_h5JS5qzEmRRdet-jl8QhgH7hv0ovio-h21YlPv_BVloMxclfkPUsIyJZGGAXd-TdkBEp5NWr_5MCtxiXgTFJVCRTBH-FrXjL7WvuBEbpIfYMXOaN71lODtAvRJT4e7HErLXfYRDXrmiGmoNWRabUCLhliPF1w231MdubMmTVsQJ6wVjL53rYOg2a55qPa6J1gzNUITwf01na_QDlnF4GMYR1vVQsOkqUbGpiYwWpyz_BRb5Ss27hWtXVWSZQsN1alGL0ORmzwqnPvOuQjSztgM3t4bHK8tvxDb-ssIauFp8BzMIpfixrJLbZfCRTAldgxL8kBi8N-j5o4PGyzBIDL0mcwlFnRzAfDnvi8_saM6Wso8BN2yfiLzsSQUiap41KwNK0l7zgPhJnxwyNM6d_ylG7dDZcti5UWzxoyi_ttSTcNy6N1MdbDaRwjVAmr0fUnNV7UGcIhN3omwBdTxD5Gig0_EtntIjf668GTyN_FKrby-WTPbWi1Md6QCsIqxvbZPfSQ_HywxxJmCkTC9gNaJH7u0slusbDuM3yxuKDxYtQuhBdVCf8w-HY3vDKUD7avvXkNij_PQeJPEfDyG_c4VucGTV5wgIFYikQlidJHl24eP15--oJcAcph8bxuZd3LO-H5UqhIkvoLAjnQeevLI6cW5n2=w1549-h952-no)](https://photos.app.goo.gl/tWKYP317cfWesVUm9)
+
+Escapadeta a Bièvres 2019 - Leica M4-2 - Agfa APX ISO100 - Voiglander Color-Skopar 21mm f/4 - Júpiter 35 F/2.8 - Elmarit 90mm f/2.8

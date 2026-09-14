@@ -1,0 +1,23 @@
+---
+title: "2021-10-26 - Fuji CN200 - Leica M6 - Montseny"
+date: 2022-06-03
+slug: "2021-10-26-fuji-cn200-leica-m6-montseny"
+categories: 
+  - "leica-m4-2"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2022/06/2022-Montseny-amb-Ulls-0028.jpg
+image: https://lh3.googleusercontent.com/2owpLjcjVQ-rhsEjMcT-A3JFtbsu8wpV_uLU2qvPExUITsGYcXpgttAcqWK7-8UmpMwvQA9GoQtPmyPDRgirh4CRc9rjsAKK2WM1vqNqmSmrrI0xgTX6bkVkWnrLye3-bsDqxVOJl7w-klLFsVOEQ3ZSiWub_iirCpmDcmmL0R_NjWqY_iTPIGTDqoKoBlxke6F5DuKWt2kC4Brthe3Tw8O2DVJG0G6ezTEEaE_0UzEvVm-fHX71YSKT-YuOHnXGuOrrTWOJFED5a3lirQ7YFNFVUU-KYPwb85tOLlSjj49GHUoHPCH6Dhtn-lRK6aEwlKYDMHIvYI6gPrrPs8ASTmkj5TOFakhXH-SSphqqtE3P9RIYKUTZcu4VzNQRTvQt1pPXVrznK1k_KJU1WsjkXgk3CB_MvVF9N26kLMmlBx1z8mH5u5FoXDlH1U3LNc9fJMb7Y_FG8Qg9rB1BR8hhbyaqTLv1vOFRXXZNdyPwNELIeZoVeYS-o8hpLlIfx9ryo7ZRfzQ3rjNrRrHAXu9gLjsFImwnpQD8vXOn7Su8_nKsGbGA7l_iGWwYwW-EPulDk3Wf72U2ekrJ7MRceIhu4_l9t-KUxX1fUB4iIrAa3rgMmpfnPw25qRzCMOJUy5RqbpA413zGb1Q6jh0hsjOH9ytwKxMtUYtG_2-5Ka1jZ8Ua7imMQ4hpPjQ8bwjwyjf1uq1XUOoJpc5ZJao4n0iEkkyLV7Rx4Iw40uUqB8iT3OLOLsStSQT9Js_ImdZi=w1759-h1173-no?authuser=0
+---
+
+<figure>
+
+[![](https://lh3.googleusercontent.com/2owpLjcjVQ-rhsEjMcT-A3JFtbsu8wpV_uLU2qvPExUITsGYcXpgttAcqWK7-8UmpMwvQA9GoQtPmyPDRgirh4CRc9rjsAKK2WM1vqNqmSmrrI0xgTX6bkVkWnrLye3-bsDqxVOJl7w-klLFsVOEQ3ZSiWub_iirCpmDcmmL0R_NjWqY_iTPIGTDqoKoBlxke6F5DuKWt2kC4Brthe3Tw8O2DVJG0G6ezTEEaE_0UzEvVm-fHX71YSKT-YuOHnXGuOrrTWOJFED5a3lirQ7YFNFVUU-KYPwb85tOLlSjj49GHUoHPCH6Dhtn-lRK6aEwlKYDMHIvYI6gPrrPs8ASTmkj5TOFakhXH-SSphqqtE3P9RIYKUTZcu4VzNQRTvQt1pPXVrznK1k_KJU1WsjkXgk3CB_MvVF9N26kLMmlBx1z8mH5u5FoXDlH1U3LNc9fJMb7Y_FG8Qg9rB1BR8hhbyaqTLv1vOFRXXZNdyPwNELIeZoVeYS-o8hpLlIfx9ryo7ZRfzQ3rjNrRrHAXu9gLjsFImwnpQD8vXOn7Su8_nKsGbGA7l_iGWwYwW-EPulDk3Wf72U2ekrJ7MRceIhu4_l9t-KUxX1fUB4iIrAa3rgMmpfnPw25qRzCMOJUy5RqbpA413zGb1Q6jh0hsjOH9ytwKxMtUYtG_2-5Ka1jZ8Ua7imMQ4hpPjQ8bwjwyjf1uq1XUOoJpc5ZJao4n0iEkkyLV7Rx4Iw40uUqB8iT3OLOLsStSQT9Js_ImdZi=w1759-h1173-no?authuser=0)](https://photos.app.goo.gl/14Fp8WprR1N4n5gX9)
+
+<figcaption>
+
+Leica M4-2 - Voigtlander 21mmf/4 - Fuji CN 200
+
+</figcaption>
+
+</figure>

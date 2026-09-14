@@ -1,0 +1,15 @@
+---
+title: "Vermutsical amb “La Coctelera”"
+date: 2018-03-11
+slug: "vermutsical-amb-la-coctelera"
+categories: 
+  - "leica-m6"
+author: "inuxbcn"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2018/03/HD203-011.jpg
+image: https://lh3.googleusercontent.com/eFalv81NhAPIHOzABju42T-WIquHOYSnfOO23rlLRISV3QYfxOhKD7A1wJG3jV73kqTO-gfEggc9dvdzFmAj4BNmioCyTucDulETan3jKkiYTvQD2yZj2L7K2aMN-AFcc0goK71Opg7VmU0Vn8yPZl9obr-7ZFQ71DOYc9BbgRFmO_9BCIEnOUoznR0J112uaBh-BF-lK4hzsG7p7badQzkPJuR3YgWtHMQ-pXsw4dULMzFeWRuY29Iud1BCYgLGSrBWX-rp1kH8b-7H3vSt7j0NZg-zzKMBuknkbTwoc604AK9f7tqlaYIcpzlq_Altta2nuqJWChOjdfzRtLy0IY4qRvQovPKjIbSXv5UwiJMum29kG6yJXXqKkcTl5788FtrvEAChF1kw-vrt_wnPtYmhfWBpHI6FUbGCQ9CSv7usnZgvu17vCZnkFw0oIgOxdqVNdCZ_P3cH7NAg6x-nxrP1b_PwSJsvwma_9nVWqzjRZdq0wM_75AYDunb7Nsh2yN56sJcU-9IhLET6Vq_jxb4szboTGbbBbZphbV6FEaGbkPFLmaC0Z68HPQNF-NLskwGwLkRaeV7tGjRHh_mbJYUmlyQxrdU4tvOZMNT7=w1701-h1135-no
+---
+
+[![](https://lh3.googleusercontent.com/eFalv81NhAPIHOzABju42T-WIquHOYSnfOO23rlLRISV3QYfxOhKD7A1wJG3jV73kqTO-gfEggc9dvdzFmAj4BNmioCyTucDulETan3jKkiYTvQD2yZj2L7K2aMN-AFcc0goK71Opg7VmU0Vn8yPZl9obr-7ZFQ71DOYc9BbgRFmO_9BCIEnOUoznR0J112uaBh-BF-lK4hzsG7p7badQzkPJuR3YgWtHMQ-pXsw4dULMzFeWRuY29Iud1BCYgLGSrBWX-rp1kH8b-7H3vSt7j0NZg-zzKMBuknkbTwoc604AK9f7tqlaYIcpzlq_Altta2nuqJWChOjdfzRtLy0IY4qRvQovPKjIbSXv5UwiJMum29kG6yJXXqKkcTl5788FtrvEAChF1kw-vrt_wnPtYmhfWBpHI6FUbGCQ9CSv7usnZgvu17vCZnkFw0oIgOxdqVNdCZ_P3cH7NAg6x-nxrP1b_PwSJsvwma_9nVWqzjRZdq0wM_75AYDunb7Nsh2yN56sJcU-9IhLET6Vq_jxb4szboTGbbBbZphbV6FEaGbkPFLmaC0Z68HPQNF-NLskwGwLkRaeV7tGjRHh_mbJYUmlyQxrdU4tvOZMNT7=w1701-h1135-no)](https://photos.app.goo.gl/MW3gOtXwXqgjXQAN2)
+
+Leica M6 - Ilford Detlta 400 @400

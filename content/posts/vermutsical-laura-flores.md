@@ -1,0 +1,15 @@
+---
+title: "Vermutsical \"Laura Flores\""
+date: 2019-05-16
+slug: "vermutsical-laura-flores"
+categories: 
+  - "leica-d-lux-6"
+author: "inuxbcn"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2019/05/L1210100.jpg
+image: https://lh3.googleusercontent.com/sEG36JBuKn2Dw_2Lj-qey_jehQFyefASFlhhYqB1CNtwVkwENNfV8hYg7ir6vdtmxPsD2G0Nl5u7K7-LV81q6mezPT83rcztMQesf8FuCiicp4rCLR4OSOHo7KGRXXIXJc5_9Qn1Y3S6aVa7C-tcO2qyv4335b4mL6B06zZ21f0wk8IQ_fyIvO8oefcLwaG6ut0sVbgbMyFk8lf1c-la6VveU2jZ1pNftQ6m7jOl3K-zP7vUpanHiwG8dC310qVeUWWLKN9REAukZSEdAdx9OCSj31J8NxsAwS-iYzLAeU-_FilquX9G1pEB1K2_Cpg-TUtpy-cbptJuvSHyuLAdVzAknwnPs5QILLy6r9d9uaUnG4-3IearP9EFWKu1y4nl-wvDdUmE70GpAHzaCsfjWvXn0LeZKoTou-sogZqMk8bHUBFDXB0vUzHDRMmq1ZL7LTLneI-g9kqiJVf5bg_U6g3qrl4ciRj33feVUHD04Y-QSwxQ5z9RUE-y_h4u80jMoZtXzUgCH2H3byTmXh9O9YpM1ujCGPUj0ypJSR4Ma-NkwTQKOkIo_vZecw1ayF4zWTe5Yz77oDK7Cmg0oGTVyxaYsCsftN_LczIsG7g_hNzI18LHMlbxnQX0w3WXidWiLW6Nlt4-5V6DxYCo3cXCg9Tx_a5aT05l=w1549-h1034-no
+---
+
+[![](https://lh3.googleusercontent.com/sEG36JBuKn2Dw_2Lj-qey_jehQFyefASFlhhYqB1CNtwVkwENNfV8hYg7ir6vdtmxPsD2G0Nl5u7K7-LV81q6mezPT83rcztMQesf8FuCiicp4rCLR4OSOHo7KGRXXIXJc5_9Qn1Y3S6aVa7C-tcO2qyv4335b4mL6B06zZ21f0wk8IQ_fyIvO8oefcLwaG6ut0sVbgbMyFk8lf1c-la6VveU2jZ1pNftQ6m7jOl3K-zP7vUpanHiwG8dC310qVeUWWLKN9REAukZSEdAdx9OCSj31J8NxsAwS-iYzLAeU-_FilquX9G1pEB1K2_Cpg-TUtpy-cbptJuvSHyuLAdVzAknwnPs5QILLy6r9d9uaUnG4-3IearP9EFWKu1y4nl-wvDdUmE70GpAHzaCsfjWvXn0LeZKoTou-sogZqMk8bHUBFDXB0vUzHDRMmq1ZL7LTLneI-g9kqiJVf5bg_U6g3qrl4ciRj33feVUHD04Y-QSwxQ5z9RUE-y_h4u80jMoZtXzUgCH2H3byTmXh9O9YpM1ujCGPUj0ypJSR4Ma-NkwTQKOkIo_vZecw1ayF4zWTe5Yz77oDK7Cmg0oGTVyxaYsCsftN_LczIsG7g_hNzI18LHMlbxnQX0w3WXidWiLW6Nlt4-5V6DxYCo3cXCg9Tx_a5aT05l=w1549-h1034-no)](https://photos.app.goo.gl/Rchsoa4kyyUsaepi6)
+
+Vermutsical al Casal de barri de Prosperitat amb Laura Flores & Fulvio Paredes el passat 11 de maig al ritme de candombe, bolero, tambor, tango i més...des de Montevideo a la Havana.

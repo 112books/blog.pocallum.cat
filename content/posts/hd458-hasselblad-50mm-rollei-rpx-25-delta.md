@@ -1,0 +1,18 @@
+---
+title: "HD#458 - Hasselblad - 50mm  - Rollei RPX 25 - Delta"
+date: 2019-11-06
+slug: "hd458-hasselblad-50mm-rollei-rpx-25-delta"
+categories: 
+  - "hasselblad-500cm"
+tags:
+  - "50mm"
+  - "delta-del-ebre"
+  - "escapades"
+  - "rollei-rpx-25"
+  - "vacances"
+author: "inuxbcn"
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2019/11/HC458-005.jpg
+image: https://lh3.googleusercontent.com/4mjMeU3Jq0pgojEf5YU1rkGhsu7HpNTdi9dSyrOcGM7kc98PrYxIeZEB9SfBt7FCjfkmjpChj-shMs9bQIc0-WEycpcMJHuWUkU0NCEZVep0qK_TFEgSJExP9_wEAUqVPKUakycH1zbAQIEPTTPUoxyfnjXu9pvk0ty94WwnvpyYxOqFWaBiFs79BZFrZ4P0hTHVU1A4TesaBYhKMlrfpPoImKPGLStBbR-6lFQL-GDgfO-nJab8Nvp9wT_GCv55llZYKHd6ygocxZP5dLNHUpxDeegXwc_viUDproLrpmjABQqMAZP3t46H7fuSutHNesCAAD0EzKl9o9O5hY7a1xGOqrEvZ-HEXBR1cTHXLVYfXEf04CBqm-fhKiMaCSk4VNpfB__y0-ALQrZIrLNui1NMpIQk724voDfH5KI09NrRdAlA-DKMxjYPkpTXXvgfa99Rx2WEsxPioMsGAoJIB2sWYkEwUO6LF9QI2QwO1PQhxIlv-zsNzbALKAVX70WGPPauVZ3WPzyxZ-8o_O_HXC1WDrIhjJjQGPschU-XtxjuzuT55QYdlnDZCQTYAX6lNmllR2gQ6Qw3Njbtup0DMixbYvH-_mhgjkCet8fO36rfZykeTNT6Qr_Fu-u86Y4Tj_PIOLt_VkXjRkE55_zeSsKlbHQRrAXRrFogJsggS72o-O0RMIkluNRAQBrTRImBMIscIBiueIamtQ0hRSDwCQDmHveTfcNOH4sTKboP0VNDCKgICA=s1310-no
+---
+
+[![](https://lh3.googleusercontent.com/4mjMeU3Jq0pgojEf5YU1rkGhsu7HpNTdi9dSyrOcGM7kc98PrYxIeZEB9SfBt7FCjfkmjpChj-shMs9bQIc0-WEycpcMJHuWUkU0NCEZVep0qK_TFEgSJExP9_wEAUqVPKUakycH1zbAQIEPTTPUoxyfnjXu9pvk0ty94WwnvpyYxOqFWaBiFs79BZFrZ4P0hTHVU1A4TesaBYhKMlrfpPoImKPGLStBbR-6lFQL-GDgfO-nJab8Nvp9wT_GCv55llZYKHd6ygocxZP5dLNHUpxDeegXwc_viUDproLrpmjABQqMAZP3t46H7fuSutHNesCAAD0EzKl9o9O5hY7a1xGOqrEvZ-HEXBR1cTHXLVYfXEf04CBqm-fhKiMaCSk4VNpfB__y0-ALQrZIrLNui1NMpIQk724voDfH5KI09NrRdAlA-DKMxjYPkpTXXvgfa99Rx2WEsxPioMsGAoJIB2sWYkEwUO6LF9QI2QwO1PQhxIlv-zsNzbALKAVX70WGPPauVZ3WPzyxZ-8o_O_HXC1WDrIhjJjQGPschU-XtxjuzuT55QYdlnDZCQTYAX6lNmllR2gQ6Qw3Njbtup0DMixbYvH-_mhgjkCet8fO36rfZykeTNT6Qr_Fu-u86Y4Tj_PIOLt_VkXjRkE55_zeSsKlbHQRrAXRrFogJsggS72o-O0RMIkluNRAQBrTRImBMIscIBiueIamtQ0hRSDwCQDmHveTfcNOH4sTKboP0VNDCKgICA=s1310-no)](https://photos.app.goo.gl/aMhiMU4ZchKAWXqN9)

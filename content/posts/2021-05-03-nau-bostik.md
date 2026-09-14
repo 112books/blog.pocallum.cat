@@ -1,0 +1,23 @@
+---
+title: "2021-05-03 - Nau Bostik"
+date: 2021-05-03
+slug: "2021-05-03-nau-bostik"
+categories: 
+  - "leica-m6"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2021/05/2021-05-03-Bostik-024.jpg
+image: https://lh3.googleusercontent.com/X_9dPLYlN6Amk9B5PrdIzSqMYr0Uuyo9pGCiPi5o0TbFBqdANhpb9S6huad8PQcHOnQVl0_g_XmIzP4-cLLkLEiO-2wIklHEGwloIQCMZmhv9CuoTmh_kJdniSncqx8ugcDueCqwHu2xQvhVwhFbhEgPikeUJ6DexoUEO4TWZQlFZePNIUPyjGW5eRnMxMa-uiPv4KwW282yJinBd5OZCPmJMS_-606_-ZM-AiDXH0jH4QJMAQ37REYFvwVh29Hi30kwiZExrUh20-VXfF-aX7pssimBKyMVp_gpa32DqIhYsiYqQYS3XRNtK-H_xrmerTFpEBEhCmJBKrIoA48CuboIfdiKzzY0aZqZhTJpeSGNZBuISYRAdLfioEWtIiQ6V3D9K2l8sqAaUzzzEZu0plNidI_4ZIpm6F67pf5ejTh-8lExEOc8PR5EvkLzmckAYMWcQAhZtyyctATKQjIcuVTY2R514jRBgtQUghYr3c9s-kyRnVJwXsMQ8Nst7V0xY6bDLwMcsz71wHpVxtMyZwI2IwLu4qszcFqD-Mc_IELXQDeoNCreUJ8L36lXts9y3KPZsVwgniSf6cpONz3WI49GWV2o5WWPFyS1vObKRc8Vg7jgs6aLi99-f6io1oG1YEkkmDKnHnENK3Xdjc542auOQmgC5u6Ki1ai0u-wml16_6MEsTpxQBzJAPSJ-UpQRLqVSXwPiwfw1dTfegzNZYAC=w1449-h867-no?authuser=0
+---
+
+<figure>
+
+![](https://lh3.googleusercontent.com/X_9dPLYlN6Amk9B5PrdIzSqMYr0Uuyo9pGCiPi5o0TbFBqdANhpb9S6huad8PQcHOnQVl0_g_XmIzP4-cLLkLEiO-2wIklHEGwloIQCMZmhv9CuoTmh_kJdniSncqx8ugcDueCqwHu2xQvhVwhFbhEgPikeUJ6DexoUEO4TWZQlFZePNIUPyjGW5eRnMxMa-uiPv4KwW282yJinBd5OZCPmJMS_-606_-ZM-AiDXH0jH4QJMAQ37REYFvwVh29Hi30kwiZExrUh20-VXfF-aX7pssimBKyMVp_gpa32DqIhYsiYqQYS3XRNtK-H_xrmerTFpEBEhCmJBKrIoA48CuboIfdiKzzY0aZqZhTJpeSGNZBuISYRAdLfioEWtIiQ6V3D9K2l8sqAaUzzzEZu0plNidI_4ZIpm6F67pf5ejTh-8lExEOc8PR5EvkLzmckAYMWcQAhZtyyctATKQjIcuVTY2R514jRBgtQUghYr3c9s-kyRnVJwXsMQ8Nst7V0xY6bDLwMcsz71wHpVxtMyZwI2IwLu4qszcFqD-Mc_IELXQDeoNCreUJ8L36lXts9y3KPZsVwgniSf6cpONz3WI49GWV2o5WWPFyS1vObKRc8Vg7jgs6aLi99-f6io1oG1YEkkmDKnHnENK3Xdjc542auOQmgC5u6Ki1ai0u-wml16_6MEsTpxQBzJAPSJ-UpQRLqVSXwPiwfw1dTfegzNZYAC=w1449-h867-no?authuser=0)
+
+<figcaption>
+
+2021-05-03 - Test Voitglander 35f/1.7 - APX400 @400
+
+</figcaption>
+
+</figure>

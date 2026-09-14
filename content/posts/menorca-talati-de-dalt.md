@@ -1,0 +1,23 @@
+---
+title: "Menorca - Talatí de dalt"
+date: 2021-08-10
+slug: "menorca-talati-de-dalt"
+categories: 
+  - "leica-m6"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2021/08/2021-07-02-009.jpg
+image: https://lh3.googleusercontent.com/L1TLwceW2PY7bq105I4v45u7TxLDJNFxvZESRdw17ftNfgON_z4otOyKqzuhciJ4mVqo3pjK5bdZkPDIpw2fNbzG6uzd5S2VBudm8nLzs7EkqWZFWxGER29evEK5snwoILu22YmS-cwm3gm5dN0cq-IOiaomUx4tjX1N696Zm3GbpS-8guWBSvN7PzStVt1jdhJd8aMO1KINx3GQMOrg_fG-Be8ayfOlzmxezy0o6r_tPKOGZ4pAefV5bKJO8OilpDrrCIbpudPC_jSuhcEiSdjSB_XQLsWp_dqT6IiGnhqGRSegY7O_XgJyrCxk2v_ATKw23TPGfyliCuqfH7xBGbH-_N7w66Y71fICztHbCXMedverxAL8103SBVlL4anO-yu5bjK1QPr0IW-cFO5ko-zyccgUPZW6namtYOD_vVVDoc8KlX4hYviBiq5Zyi9AZWrNlt4vXv9DpDMfRTpVGxgFbEvYogpfrobMXWxFs33rYqZunnos_sWJsHw7xjIpO6dztM2URsa7PEg6Ppxt3dndkN4rj-BtC56lqrgxQ7TumboWjicaAyWTSOojtiuk2xM-k2PplzyW-gQJrZn2YbHOCXle-zOAVy39JEelGoTnSTJjGmLWewlNt7ek-DmAXSQ7un_WvKN_9IVjkfzPq_6ydVntVvWXDLQnWItZFGMYjgeY-o8_dQMBL34IwOMM57j0fx3jWGZzKMcccK5LjYx0=w1938-h1203-no?authuser=0
+---
+
+<figure>
+
+[![](https://lh3.googleusercontent.com/L1TLwceW2PY7bq105I4v45u7TxLDJNFxvZESRdw17ftNfgON_z4otOyKqzuhciJ4mVqo3pjK5bdZkPDIpw2fNbzG6uzd5S2VBudm8nLzs7EkqWZFWxGER29evEK5snwoILu22YmS-cwm3gm5dN0cq-IOiaomUx4tjX1N696Zm3GbpS-8guWBSvN7PzStVt1jdhJd8aMO1KINx3GQMOrg_fG-Be8ayfOlzmxezy0o6r_tPKOGZ4pAefV5bKJO8OilpDrrCIbpudPC_jSuhcEiSdjSB_XQLsWp_dqT6IiGnhqGRSegY7O_XgJyrCxk2v_ATKw23TPGfyliCuqfH7xBGbH-_N7w66Y71fICztHbCXMedverxAL8103SBVlL4anO-yu5bjK1QPr0IW-cFO5ko-zyccgUPZW6namtYOD_vVVDoc8KlX4hYviBiq5Zyi9AZWrNlt4vXv9DpDMfRTpVGxgFbEvYogpfrobMXWxFs33rYqZunnos_sWJsHw7xjIpO6dztM2URsa7PEg6Ppxt3dndkN4rj-BtC56lqrgxQ7TumboWjicaAyWTSOojtiuk2xM-k2PplzyW-gQJrZn2YbHOCXle-zOAVy39JEelGoTnSTJjGmLWewlNt7ek-DmAXSQ7un_WvKN_9IVjkfzPq_6ydVntVvWXDLQnWItZFGMYjgeY-o8_dQMBL34IwOMM57j0fx3jWGZzKMcccK5LjYx0=w1938-h1203-no?authuser=0)](https://photos.app.goo.gl/Uxes68qGSyRBwcaG9)
+
+<figcaption>
+
+2021-07-20 - Leica M6t - Washi A
+
+</figcaption>
+
+</figure>

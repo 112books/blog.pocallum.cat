@@ -1,0 +1,14 @@
+---
+title: "Pedrola - HomeDev#186 - Leica M4-2 - Summicron 40c - Delta 400"
+date: 2017-12-31
+slug: "pedrola-homedev186-leica-m4-2-summicron-40c-delta-400"
+categories: 
+  - "leica-m4-2"
+  - "summicron-40mm-f-2"
+author: "inuxbcn"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2017/12/HD186-025.jpg
+image: https://lh3.googleusercontent.com/ikbfQLM-nC3c6kzzJ5cZxLJh94rqAXrtFtoxQ-pI7iF5LifIDGAlX9GY87YFeP7lPIi_ZEEt-VZ-LRVRtmJeYRIGY00NAXRkAKBREUYrZIlqHKxKtvB8awPxhoNIuihTBff6HlCoDBiUora1z15wOSLSFBJEdyGIEvkm5nJXWCRrg_HZvdlC71bvpIscZKbWQKEUDxtIMyXZ5CcXD0cI33ZxKfVAXTo4mVm2wmjfV_m0NeAAV2OJtn8hZKRg3IUGewXG0k_NKk4LFrQFiGEcqWqD-uFaBJDs3Ww7TLNC8W7BX1heZGyZBnOKAieCyHivO5ZGa8AMFTYPWe7hfZclTB0clKMyEpOgI_0vZwFy0NyKcMwPP_aax9FTqFNWL-x_aCmGejHbX4fwoE4SOkRFVfeZ2ZQqm0ByHarh1ef8AnMFqD2DrQZU9y1EbSMIDqrfxcV0hh-TsPxBSMu1hO8ppsZ2TdCAMZSE89ga6Xcp_It5NsI2k3ccQTNU5rI_jAzoAwcuxPvtVo1zZQRJYJM8DSgbLLxFbLTu3d-E6WPSIe_aj7XiBXWLv_vg1jqOOyZtUSpiY52M7cRpS4O3ytGBcczKwzjb9GqavdUKwC0J=w1252-h835-no
+---
+
+[![](https://lh3.googleusercontent.com/ikbfQLM-nC3c6kzzJ5cZxLJh94rqAXrtFtoxQ-pI7iF5LifIDGAlX9GY87YFeP7lPIi_ZEEt-VZ-LRVRtmJeYRIGY00NAXRkAKBREUYrZIlqHKxKtvB8awPxhoNIuihTBff6HlCoDBiUora1z15wOSLSFBJEdyGIEvkm5nJXWCRrg_HZvdlC71bvpIscZKbWQKEUDxtIMyXZ5CcXD0cI33ZxKfVAXTo4mVm2wmjfV_m0NeAAV2OJtn8hZKRg3IUGewXG0k_NKk4LFrQFiGEcqWqD-uFaBJDs3Ww7TLNC8W7BX1heZGyZBnOKAieCyHivO5ZGa8AMFTYPWe7hfZclTB0clKMyEpOgI_0vZwFy0NyKcMwPP_aax9FTqFNWL-x_aCmGejHbX4fwoE4SOkRFVfeZ2ZQqm0ByHarh1ef8AnMFqD2DrQZU9y1EbSMIDqrfxcV0hh-TsPxBSMu1hO8ppsZ2TdCAMZSE89ga6Xcp_It5NsI2k3ccQTNU5rI_jAzoAwcuxPvtVo1zZQRJYJM8DSgbLLxFbLTu3d-E6WPSIe_aj7XiBXWLv_vg1jqOOyZtUSpiY52M7cRpS4O3ytGBcczKwzjb9GqavdUKwC0J=w1252-h835-no)](https://photos.app.goo.gl/UOTvxsimUd3Uf5kA2)

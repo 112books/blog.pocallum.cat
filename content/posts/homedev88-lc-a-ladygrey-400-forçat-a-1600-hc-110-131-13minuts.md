@@ -1,0 +1,15 @@
+---
+title: "HomeDev#88 - LC-A+ - LadyGrey 400 forçat a 1600 (HC-110 1/31 - 13minuts)"
+date: 2016-12-04
+slug: "homedev88-lc-a-ladygrey-400-forc%cc%a7at-a-1600-hc-110-131-13minuts"
+categories: 
+  - "lomography-lc-a"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2016/12/HD88-LCa-LG400-023.jpg
+image: https://lh3.googleusercontent.com/Dmm6DEF3Lg6ZbBIY2Z6lOlVmbADAespI_vqXrOq8K0hvh0p5Ff7hckKEFqpgJQ_Y4s_iEN5lI4uRl9hvhf469xfK8Ya0d6qt7E2HNoAuOj0pBNxAaCswc1QvwfoR0zb9m-wq8bvyHu352UcSVbjVQnRCGcmwUqUhyIbnzWQVviI8Z7N-i4-q8BGYVkItuYG9SUpJ-uh354eKljNUyeTjGXI9O48x2Pvb_K0kX5K94lEX-qYtVCAo9eguYKmsWgpgAOLifggdDxizHOZNtEqBP17zrlRlq4_PWTk4LcbK9zCQBSH6SNqmSSbUB2_oTlpwZT25CTiVg9ziHUft9zag34iet99w0Hv1xSdwAlxxssr88rWQYuPaqa49JSqjvpCOd-VGzel-zNxYFb5_X4JAenySKZqnG_ztroOsgZ0ZRzZWB5XJ4F3UGs3tCzZC4PTSIOC2i_cDgzKMYzOUmvlUtKxIt3BGcJMz-h34Ltf4EZnZ8Wl6pH0cl4WToBUNwaKrhSKhy11a5NoSGPRHxS7bmOrXyn1rxV6jQaUMDZfDQDo8hD9hFEv7lWrKqQRWxdxdHorWSZIgx2xLagZWAjGjWH9kIBgDfIV8CITAUs-sv6_1b_sk6Q=w1473-h983-no
+---
+
+[![](https://lh3.googleusercontent.com/Dmm6DEF3Lg6ZbBIY2Z6lOlVmbADAespI_vqXrOq8K0hvh0p5Ff7hckKEFqpgJQ_Y4s_iEN5lI4uRl9hvhf469xfK8Ya0d6qt7E2HNoAuOj0pBNxAaCswc1QvwfoR0zb9m-wq8bvyHu352UcSVbjVQnRCGcmwUqUhyIbnzWQVviI8Z7N-i4-q8BGYVkItuYG9SUpJ-uh354eKljNUyeTjGXI9O48x2Pvb_K0kX5K94lEX-qYtVCAo9eguYKmsWgpgAOLifggdDxizHOZNtEqBP17zrlRlq4_PWTk4LcbK9zCQBSH6SNqmSSbUB2_oTlpwZT25CTiVg9ziHUft9zag34iet99w0Hv1xSdwAlxxssr88rWQYuPaqa49JSqjvpCOd-VGzel-zNxYFb5_X4JAenySKZqnG_ztroOsgZ0ZRzZWB5XJ4F3UGs3tCzZC4PTSIOC2i_cDgzKMYzOUmvlUtKxIt3BGcJMz-h34Ltf4EZnZ8Wl6pH0cl4WToBUNwaKrhSKhy11a5NoSGPRHxS7bmOrXyn1rxV6jQaUMDZfDQDo8hD9hFEv7lWrKqQRWxdxdHorWSZIgx2xLagZWAjGjWH9kIBgDfIV8CITAUs-sv6_1b_sk6Q=w1473-h983-no)](https://goo.gl/photos/qnmfgizEeXBm45JU7)
+
+Un altre "experiment" forçant rodets de 400 a 1600. En aquest cas el resultat no m'agrada massa gens, però encara he pogut rescatar alguna foto.

@@ -1,0 +1,16 @@
+---
+title: "OnlyTattooBarcelona 2018"
+date: 2018-03-20
+slug: "onlytattoobarcelona-2018"
+categories: 
+  - "leica-m6"
+  - "summicron-40mm-f-2"
+author: "inuxbcn"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2018/03/HD207-021.jpg
+image: https://lh3.googleusercontent.com/cowvW5p7n0Ahyar5rJsktzvDlFoBiI4QYFIvRQXQKSfiLB5A9UQxnL_-57uu5cPdz_C2ftmQMx8g5v-cYMs_tIzssfNv4YVG9L2PQBrXdhJlhCbV7j36FbQJZbEcWC-BsqY-5FIav90qLGL-uDgYveIcJIHMjZUm26DA9OQ-zZ9gQK63UW1_vc2F5kITnnyseIBbOpDh65ubFEDJoEpitTSvnnyKCHQgSs1d_N7tftWbUUy8Q4LvlNbVtGjYFU3RBr2_0G9HG6E9gRqfNMlrAljJkwzne56X1mlrAuQ-Ylbdl0u6G74gZJh7OPRqMaRX-mMzxUIQH_JtfHJrHh-WZvzwp_robKeX5oKggWgQiPLHD0pHU3847-wfIIMG44Pg2xIat-jHV5IRilmydMH-iJiP3-qDTEBf51L1wckQ3EirxW6GG1dLjsLoTniwQ1ZZwBeXIdoywpOeFjCCd3uJmjSnFbtJu2mbGwNLXLLN1WupTxY7nVDkmQWPUTadAS9T4HLCUYi46N7geTtiCF0nz0y27YdePAPGZP7tUScFVKmONydX3u-xh2JFjvxEHeWR4YPUgiurzxbSYlURNxfee9TqsgKPTTgBtROjr6xU=w1701-h1135-no
+---
+
+[![](https://lh3.googleusercontent.com/cowvW5p7n0Ahyar5rJsktzvDlFoBiI4QYFIvRQXQKSfiLB5A9UQxnL_-57uu5cPdz_C2ftmQMx8g5v-cYMs_tIzssfNv4YVG9L2PQBrXdhJlhCbV7j36FbQJZbEcWC-BsqY-5FIav90qLGL-uDgYveIcJIHMjZUm26DA9OQ-zZ9gQK63UW1_vc2F5kITnnyseIBbOpDh65ubFEDJoEpitTSvnnyKCHQgSs1d_N7tftWbUUy8Q4LvlNbVtGjYFU3RBr2_0G9HG6E9gRqfNMlrAljJkwzne56X1mlrAuQ-Ylbdl0u6G74gZJh7OPRqMaRX-mMzxUIQH_JtfHJrHh-WZvzwp_robKeX5oKggWgQiPLHD0pHU3847-wfIIMG44Pg2xIat-jHV5IRilmydMH-iJiP3-qDTEBf51L1wckQ3EirxW6GG1dLjsLoTniwQ1ZZwBeXIdoywpOeFjCCd3uJmjSnFbtJu2mbGwNLXLLN1WupTxY7nVDkmQWPUTadAS9T4HLCUYi46N7geTtiCF0nz0y27YdePAPGZP7tUScFVKmONydX3u-xh2JFjvxEHeWR4YPUgiurzxbSYlURNxfee9TqsgKPTTgBtROjr6xU=w1701-h1135-no)](https://photos.app.goo.gl/EzohOMmUPpMjQwq43)
+
+Nova edició del Only Tattoo Barcelona a la fira de Montjuïc. Enguany only analògic amb Leica M6, Summicron 40C, Rollei RPX400 @800 ;)

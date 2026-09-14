@@ -1,0 +1,14 @@
+---
+title: "HomeDev#143 - Hasselbad 500CM - Planar 50mm f/4 - Ilford PanF 50 - Alfambra a Santa Eulalia"
+date: 2017-08-20
+slug: "homedev143-hasselbad-500cm-planar-50mm-f4-ilford-panf-50-alfambra-a-santa-eulalia"
+categories: 
+  - "carl-zeis-planar-80mm-f-2-8"
+  - "hasselblad-500cm"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2017/08/HD142-019.jpg
+image: https://lh3.googleusercontent.com/vNRzlt2rxeWHI3ImfxFqmYx0btSkKWU_9Wo-QIDxtYswfLYIUMsKHBilw2Z37w3fZU8-FxkgQP8jBnmT5kJuRAhLpKoD2mAT2BZ5Kxx7s3jUPlVDkXoxO-N-0KJZCJMxaScTPuLbLWt1NrshvUVoUTM4KJKfX0ldScTxdglYp6jfaLIixm-mWkNqgn-AYdaVmUgb5aK8jg5b1ociAtDFQh-7M3vTLBVVYI5vMi0U4wL_0VujDb_HmnbzKQ5e2LZFi03DeSoNzgFb7N3TdPsNw_SeNuDUlHAyk8gbTU3nSY6TVZf-gtJXUaLxDSPrq2YpPq4mt5XEfroPa6NCY7HXxOrmVLHvmsLvENdQHo_EPU8OcNEo12d_G6Cl2oRM8SxhlwgbHoUrPcabPiK2-KXwDkR6KtfUCS30rbMwcYNDBAg_F9wj_n2ZS1dsj2ItC1lq4geSQBjNPLBDFIedWP-Z0f3kQ8Tl-phgnFaOOTG6-zCUo9iPNLYM8soLUPLKCoh-22rreXrvMudZulvca14K20tpakuB8ABDfa84F2Qeb6tZbhLfzLT8PZzsHW7KrcYOcoQnvUOj8x_EpbD4rNPwYpcAgnLxVd57KxKoRbC01UOsH58IIsz69A=s1131-no
+---
+
+[![](https://lh3.googleusercontent.com/vNRzlt2rxeWHI3ImfxFqmYx0btSkKWU_9Wo-QIDxtYswfLYIUMsKHBilw2Z37w3fZU8-FxkgQP8jBnmT5kJuRAhLpKoD2mAT2BZ5Kxx7s3jUPlVDkXoxO-N-0KJZCJMxaScTPuLbLWt1NrshvUVoUTM4KJKfX0ldScTxdglYp6jfaLIixm-mWkNqgn-AYdaVmUgb5aK8jg5b1ociAtDFQh-7M3vTLBVVYI5vMi0U4wL_0VujDb_HmnbzKQ5e2LZFi03DeSoNzgFb7N3TdPsNw_SeNuDUlHAyk8gbTU3nSY6TVZf-gtJXUaLxDSPrq2YpPq4mt5XEfroPa6NCY7HXxOrmVLHvmsLvENdQHo_EPU8OcNEo12d_G6Cl2oRM8SxhlwgbHoUrPcabPiK2-KXwDkR6KtfUCS30rbMwcYNDBAg_F9wj_n2ZS1dsj2ItC1lq4geSQBjNPLBDFIedWP-Z0f3kQ8Tl-phgnFaOOTG6-zCUo9iPNLYM8soLUPLKCoh-22rreXrvMudZulvca14K20tpakuB8ABDfa84F2Qeb6tZbhLfzLT8PZzsHW7KrcYOcoQnvUOj8x_EpbD4rNPwYpcAgnLxVd57KxKoRbC01UOsH58IIsz69A=s1131-no)](https://goo.gl/photos/pxXbF7G672DegMB96)
