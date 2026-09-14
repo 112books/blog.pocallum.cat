@@ -1,0 +1,18 @@
+{{ define "main" }}
+<h1>{{ .Site.Title }}</h1>
+<p>{{ .Site.Params.description }}</p>
+{{ $pag := .Paginate (where .Site.RegularPages "Section" "posts") }}
+{{ range $pag.Pages }}
+<article>
+  <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+  <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 de January de 2006" }}</time>
+  <p>{{ .Summary }}</p>
+</article>
+<hr>
+{{ end }}
+<nav>
+  {{ if $pag.HasPrev }}<a href="{{ $pag.Prev.URL | relURL }}">← Més nous</a>{{ end }}
+  Pàgina {{ $pag.PageNumber }} de {{ $pag.TotalPages }}
+  {{ if $pag.HasNext }}<a href="{{ $pag.Next.URL | relURL }}">Més antics →</a>{{ end }}
+</nav>
+{{ end }}

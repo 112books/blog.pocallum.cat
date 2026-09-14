@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} — {{ .Site.Title }}{{ end }}</title>
+  {{ with .OutputFormats.Get "RSS" -}}
+  <link rel="alternate" type="application/rss+xml" title="{{ $.Site.Title }}" href="{{ .RelPermalink }}">
+  {{- end }}
+</head>
+<body>
+  <!-- TEMA PROVISIONAL — la fase 4 el substitueix pel tema real derivat de pocallum.cat -->
+  <header>
+    <a href="{{ "/" | relURL }}"><strong>{{ .Site.Title }}</strong></a>
+    <nav>
+      {{ range .Site.Menus.main }}<a href="{{ .URL }}">{{ .Name }}</a> · {{ end }}
+    </nav>
+    <hr>
+  </header>
+  <main>
+    {{ block "main" . }}{{ end }}
+  </main>
+  <footer>
+    <hr>
+    <p>© {{ now.Format "2006" }} Pocallum · <a href="{{ .Site.Params.webPare }}">pocallum.cat</a></p>
+  </footer>
+</body>
+</html>

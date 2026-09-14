@@ -1,0 +1,61 @@
+name: Deploy → Staging (GitHub Pages)
+
+on:
+  push:
+    branches: [develop]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: "pages-staging"
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Install Hugo
+        run: |
+          wget -q https://github.com/gohugoio/hugo/releases/download/v0.164.0/hugo_extended_0.164.0_linux-amd64.tar.gz
+          tar -xzf hugo_extended_0.164.0_linux-amd64.tar.gz
+          sudo mv hugo /usr/local/bin/
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install staticrypt
+        run: npm install staticrypt
+
+      - name: Build Hugo (staging, amb drafts, imatges apuntant al servidor)
+        run: |
+          hugo --minify \
+               --baseURL "https://112books.github.io/blog.pocallum.cat/" \
+               --buildDrafts
+
+      - name: Protect with staticrypt
+        run: |
+          shopt -s globstar
+          html_files=(public/**/*.html)
+          if [ ${#html_files[@]} -gt 0 ]; then
+            npx staticrypt "${html_files[@]}" \
+              --password "${{ secrets.SITE_PASSWORD }}" \
+              --config .staticrypt.json \
+              --directory public
+          fi
+        shell: bash
+
+      - name: Deploy to GitHub Pages (branca gh-pages-staging)
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
+          publish_branch: gh-pages-staging

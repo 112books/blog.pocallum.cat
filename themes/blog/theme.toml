@@ -1,0 +1,12 @@
+name = "Blog"
+license = "MIT"
+licenselink = "https://github.com/112books/blog.pocallum.cat/blob/main/LICENSE"
+description = "Tema del blog de Pocallum — derivat del sistema de disseny de pocallum.cat (PROVISIONAL, fase 4)"
+homepage = "https://blog.pocallum.cat/"
+tags = ["blog", "photography", "minimal"]
+features = []
+min_version = "0.146.0"
+
+[author]
+  name = "Joan Linux Martínez"
+  homepage = "https://pocallum.cat"

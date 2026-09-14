@@ -1,0 +1,11 @@
+{{ define "main" }}
+<article>
+  <h1>{{ .Title }}</h1>
+  <p>
+    <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 de January de 2006" }}</time>
+    {{ with .GetTerms "categories" }}· Categories: {{ range . }}<a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a> {{ end }}{{ end }}
+    {{ with .GetTerms "tags" }}· Etiquetes: {{ range . }}<a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a> {{ end }}{{ end }}
+  </p>
+  {{ .Content }}
+</article>
+{{ end }}
