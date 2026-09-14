@@ -1,5 +1,5 @@
 # Migració blog.pocallum.cat — de WordPress a Hugo
-**Data:** 2026-09-14 | **Estat:** Fase 1 completada (exportació). Hosting redefinit.
+**Data:** 2026-09-14 | **Estat:** Fase 3 en curs. Conversió XML→Markdown feta, post-processament pendent.
 
 > La font de veritat operativa del projecte és **[CLAUDE.md](CLAUDE.md)**.
 
@@ -66,9 +66,9 @@ Arguments de suport:
 
 ## Pla de migració (fases)
 
-1. **Exportació** — XML complet de WordPress + còpia de `wp-content/uploads`. Mesurar mida total d'imatges.
-2. **Scaffolding** — `hugo new site` a aquest directori, `hugo.toml` amb `permalinks` idèntics, taxonomies `categories` + `tags`, RSS activat.
-3. **Conversió** — WordPress XML → Markdown (eines: `wordpress-export-to-markdown`, `wp2hugo` o `exitwp`). Validar comptador de posts, dates, categories i tags.
+1. ✅ **Exportació** — XML complet de WordPress + còpia de `wp-content/uploads`. Mesurar mida total d'imatges.
+2. ✅ **Scaffolding** — `hugo new site` a aquest directori, `hugo.toml` amb `permalinks` idèntics, taxonomies `categories` + `tags`, RSS activat.
+3. 🔄 **Conversió** — WordPress XML → Markdown (`wordpress-export-to-markdown` v3.0.5). **2.354 posts generats**. Falta post-processament (thumbnail, image, tags, Vimeo) + migrar pàgines fixes.
 4. **Tema** — layout de llistat cronològic, single, arxiu mensual, càmeres/taxonomies, cerca (Pagefind), RSS idèntic a `/feed/`.
 5. **Comentaris i pàgines fixes** — renderitzar comentaris estàtics; migrar About/Avís/Contacte/legal.
 6. **QA** — comparativa d'URLs: crawlar el WordPress actual vs el Hugo local i verificar resposta 200 a 1:1.
@@ -78,12 +78,41 @@ Arguments de suport:
 
 ## Pròxim pas
 
-Anàlisi de l'XML exportat i **inici de la conversió a Markdown** (fase 3): triar eina (`wordpress-export-to-markdown`/`wp2hugo`), unir els 4 fitxers XML (59 MB ja a `migration/`), i validar els 2.353 posts amb dates, categories, etiquetes i slugs.
+Completar el **post-processament de la conversió** (fase 3): executar `migration/post-processa.py` per afegir `thumbnail:`, `image:` i `tags:` al frontmatter dels 2.354 posts, resoldre els Vimeo shortcodes, i copiar els fitxers a `content/posts/`. Després: migrar les 7 pàgines fixes i iniciar la fase 4 (tema).
 
 ## Estat de la fase 1 (exportació, 2026-09-14)
 
 - ✅ XML complet baixat a `migration/` (4 fitxers, 59 MB, via WP-CLI + PHP 8.2)
 - ✅ Recomptes verificats: 2.353 posts publicats (+10 no publicats), 96 categories, 3.177 etiquetes, 96 comentaris (71 aprovats + resta pendent/esborrall)
 - ✅ `uploads` analitzat: 3,4 GB totals; 1,2 GB miniatures + 69 MB `-scaled` (regenerables, no es migren); **2,3 GB d'originals (9.706 fitxers)** → romanen al servidor
+
+---
+
+## Estat de la fase 3 (conversió, 2026-09-14)
+
+### Eina utilitzada
+`wordpress-export-to-markdown` v3.0.5 — execució:
+```bash
+npx wordpress-export-to-markdown --export=export-complet.xml --outdir=/tmp/wpfull --postfields=title,date,slug,categories,tags,excerpt,author,draft
+```
+
+### Resultats
+- **2.354 posts** generats a `/tmp/wpfull/posts/` (2.363 al WP + 10 drafts)
+- 7 pàgines generades a `/tmp/wpfull/pages/`
+- Frontmatter: title, date, slug, categories, author
+- Contingut: Markdown amb imatges `![alt](url)`
+
+### Problemes detectats
+1. **Tags buits**: el camp `tags` surt buit a tots els fitxers. L'XML del WP té 843 posts amb tags (3.020 tags únics). L'eina no parseja correctament les etiquetes del XML.
+2. **`coverImage` buit**: l'eina no mapeja `_thumbnail_id` → imatge. Cal script per extreure thumbnail de `_thumbnail_id` → adjunt → `guid`.
+3. **Vimeo shortcodes escapats**: `\[vimeo ID w=W h=H\]` en lloc de renderitzar l'iframe (3 posts).
+
+### Post-processament
+Script `migration/post-processa.py` creat per:
+- Afegir `tags:` al frontmatter des de l'XML (843 posts amb tags)
+- Afegir `thumbnail:` de `_thumbnail_id` → adjunt → `guid` (2.349 posts amb thumbnail)
+- Afegir `image:` del primer `<img>` del contingut
+- Convertir shortcodes `[vimeo]` → shortcode Hugo `{{< vimeo ID >}}`
+- Copiar fitxers a `content/posts/`
 
 *Informe generat el 2026-09-14 · projecte blog.pocallum.cat → Hugo*
