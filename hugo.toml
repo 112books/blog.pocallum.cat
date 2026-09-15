@@ -88,3 +88,8 @@ defaultContentLanguage = "ca"
   name   = "Contact"
   url    = "/contact/"
   weight = 5
+
+[[menus.main]]
+  name   = "Cerca"
+  url    = "/cerca/"
+  weight = 6

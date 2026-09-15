@@ -15,8 +15,9 @@
         {{ range .Site.Menus.main }}
         {{ $isExternal := strings.HasPrefix .URL "http" }}
         <li>
+          {{ $active := or ($.IsMenuCurrent "main" .) (and (not $isExternal) (and (ne .URL "/") (strings.HasPrefix $.RelPermalink (.URL | relLangURL)))) }}
           <a href="{{ if $isExternal }}{{ .URL }}{{ else }}{{ .URL | relLangURL }}{{ end }}"
-             class="nav-link{{ if $.IsMenuCurrent "main" . }} is-active{{ end }}{{ if $isExternal }} is-external{{ end }}"
+             class="nav-link{{ if $active }} is-active{{ end }}{{ if $isExternal }} is-external{{ end }}"
              {{ if $isExternal }}target="_blank" rel="noopener noreferrer"{{ end }}>
             {{ .Name }}
           </a>

@@ -171,7 +171,7 @@ h1, h2, h3, h4 {
   position: sticky;
   top: 0;
   z-index: 100;
-  background: rgba(8, 8, 8, 0.55);
+  background: rgba(8, 8, 8, 0.35);
   backdrop-filter: blur(8px);
   -webkit-backdrop-filter: blur(8px);
   border-bottom: 1px solid var(--line);
@@ -296,42 +296,55 @@ h1, h2, h3, h4 {
 .page-meta a { color: var(--accent); }
 .page-meta a:hover { text-decoration: underline; }
 
-/* ── Home: cap de pàgina ───────────────────────────────────────────────────── */
-.home-header {
-  border-bottom: 1px solid var(--line);
-  padding: var(--space-16) 0 var(--space-12);
-}
-.home-title {
-  font-size: clamp(2.8rem, 7vw, 5.5rem);
-  letter-spacing: -0.03em;
-  line-height: 1.0;
-  font-weight: 800;
-  font-style: italic;
-}
-.home-title .dot { color: var(--accent); }
-.home-stats {
-  margin-top: var(--space-8);
+/* ── Home: hero portada ────────────────────────────────────────────────────── */
+
+/* El hero puja per sota del header sticky (margin-top negatiu) */
+.home-hero {
+  margin-top: calc(-1 * var(--nav-h));
+  min-height: 92svh;
+  background-size: cover;
+  background-position: center 40%;
+  background-repeat: no-repeat;
+  position: relative;
   display: flex;
-  flex-wrap: wrap;
-  justify-content: flex-end;
-  gap: var(--space-4) var(--space-10);
+  align-items: flex-end;
 }
-.home-stat { text-align: right; }
-.home-stat__num {
-  display: block;
-  font-family: var(--f-display);
-  font-size: 1.6rem;
-  font-weight: 700;
-  line-height: 1.1;
-  letter-spacing: -0.02em;
+.home-hero-overlay {
+  position: absolute;
+  inset: 0;
+  background:
+    linear-gradient(to bottom,
+      rgba(8,8,8,0.25) 0%,
+      rgba(8,8,8,0.15) 40%,
+      rgba(8,8,8,0.80) 100%);
+  pointer-events: none;
 }
-.home-stat__label {
+.home-hero-content {
+  position: relative;
+  z-index: 1;
+  padding-bottom: var(--space-14);
+}
+.home-hero-eyebrow {
   font-family: var(--f-mono);
-  font-size: 0.6rem;
+  font-size: 0.78rem;
   letter-spacing: 0.14em;
   text-transform: uppercase;
-  color: var(--mid);
+  color: rgba(255,255,255,0.65);
+  margin-bottom: var(--space-4);
 }
+.home-hero-title {
+  font-size: clamp(2.4rem, 6vw, 5rem);
+  letter-spacing: -0.03em;
+  line-height: 1.05;
+  font-weight: 800;
+  font-style: italic;
+  color: #fff;
+}
+.home-hero-dot  { color: var(--accent); }
+/* "camera & action" — més petit que el domini superior */
+.home-hero-sub  { display: block; font-size: clamp(1.6rem, 4vw, 3.2rem); margin-top: var(--space-2); }
+.home-hero-amp  { color: var(--accent); margin: 0 0.05em; }
+.home-hero-bang { color: var(--accent); }
 
 /* ── Blog mosaic (portada) ─────────────────────────────────────────────────── */
 .blog-mosaic {
@@ -1250,8 +1263,30 @@ h1, h2, h3, h4 {
 .footer-legal-links a:hover { color: var(--fg); }
 .footer-powered {
   grid-column: 2;
-  text-align: center;
-  justify-self: center;
+  text-align: right;
+  justify-self: end;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: var(--space-3);
+}
+.footer-stats {
+  display: flex;
+  gap: var(--space-5);
+  flex-wrap: wrap;
+  justify-content: flex-end;
+}
+.footer-stat {
+  font-family: var(--f-mono);
+  font-size: 0.68rem;
+  letter-spacing: 0.06em;
+  color: var(--mid);
+  white-space: nowrap;
+}
+.footer-stat strong {
+  color: var(--fg);
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
 }
 .footer-powered-link {
   font-family: var(--f-mono);

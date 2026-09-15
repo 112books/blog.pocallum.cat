@@ -3,7 +3,7 @@
 <head>
   {{ partial "head.html" . }}
 </head>
-<body>
+<body{{ if .IsHome }} class="is-home"{{ end }}>
   <a href="#main-content" class="skip-link">Salta al contingut</a>
   {{ partial "header.html" . }}
 
