@@ -1,0 +1,16 @@
+---
+title: "Pinhole Portraits - HomeDev#114 - Noon612 - Ilford 50"
+date: 2017-05-01
+slug: "pinhole-portraits-homedev114-noon612-ilford-50"
+categories: 
+  - "noon-pinhole-612"
+  - "noonpinhole6x12-f-207"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2017/05/HD111-004.jpg
+image: https://lh3.googleusercontent.com/Gn9qcCAQjj7Afn0MpXmzutiHrpaH-X2PqlyeX3sBq4BhZ0ecBur0ILzU3xqewLXBWKIm58gyH8ySTzspFdkcan8d7DIMa8j7JJsmqpMkwbubv42lG6i-aV5UbaJzNtsiN2HBqsZN9w5-ersiETAZTfEn7Cft8-uDZrAdsHgcuour33pf1PgpNCsd5tV3vfG1ppZSyciXuWCwEeTyiONWGDT5K3ALCwRt4r_bHqtgbzYgvo8MSxTg_NPPc9E1lY0QKGkWMhQ7H2we1jNaFspWFi0Ej0X2crHp8u08nGo_b9nf99RWrgxBOdoUDTDC6WgIPIQLBmeaO7LS1X53-cpZMWKKWjYSXzIMEXUOTVQJXXXqqAM5CR-Okzr3R8VVoA79UZlCc_uXRcsMw1C4MlzXx2Kmcj9PyLiC--5aP6mn-dj3JC3mAeMrvYLhNJ6Stvo_kLzZGyKxItOfQkIgICRdUVDUxoypKypEsu6HkVbj3stzQ5iio9WpyeFh6TlfBIOEL4PU672cu9f8cfZhzZkJh0_F_o0xOyxrmHdG5fMhjKsnO09gYqSlcSuW_lEy4UDZkmukCG0Z4Q_VDmwexDDp5xCZDNnj0-IABEBDG2uGTSFJlVA-LqWYjQ=w525-h1050-no
+---
+
+[![](https://lh3.googleusercontent.com/Gn9qcCAQjj7Afn0MpXmzutiHrpaH-X2PqlyeX3sBq4BhZ0ecBur0ILzU3xqewLXBWKIm58gyH8ySTzspFdkcan8d7DIMa8j7JJsmqpMkwbubv42lG6i-aV5UbaJzNtsiN2HBqsZN9w5-ersiETAZTfEn7Cft8-uDZrAdsHgcuour33pf1PgpNCsd5tV3vfG1ppZSyciXuWCwEeTyiONWGDT5K3ALCwRt4r_bHqtgbzYgvo8MSxTg_NPPc9E1lY0QKGkWMhQ7H2we1jNaFspWFi0Ej0X2crHp8u08nGo_b9nf99RWrgxBOdoUDTDC6WgIPIQLBmeaO7LS1X53-cpZMWKKWjYSXzIMEXUOTVQJXXXqqAM5CR-Okzr3R8VVoA79UZlCc_uXRcsMw1C4MlzXx2Kmcj9PyLiC--5aP6mn-dj3JC3mAeMrvYLhNJ6Stvo_kLzZGyKxItOfQkIgICRdUVDUxoypKypEsu6HkVbj3stzQ5iio9WpyeFh6TlfBIOEL4PU672cu9f8cfZhzZkJh0_F_o0xOyxrmHdG5fMhjKsnO09gYqSlcSuW_lEy4UDZkmukCG0Z4Q_VDmwexDDp5xCZDNnj0-IABEBDG2uGTSFJlVA-LqWYjQ=w525-h1050-no)](https://goo.gl/photos/AyAyRHeUne3UUN2M8)
+
+Alguns retrats fets ahir, dia de la fotografía Pinhole, a la Nau Bostik amb la Noon Pinhole 612

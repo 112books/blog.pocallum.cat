@@ -1,0 +1,19 @@
+---
+title: "Manifestació 18-O - De la Meridiana al Centre de Barcelona"
+date: 2019-10-19
+slug: "manifestacio-18-o-de-la-meridiana-al-centre-de-barcelona"
+categories: 
+  - "fuji-x-pro1"
+tags:
+  - "18-0"
+  - "barcelona"
+  - "bcn"
+  - "centre"
+  - "manifestacio"
+  - "meridiana"
+author: "inuxbcn"
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2019/10/DSF3289.jpg
+image: https://lh3.googleusercontent.com/fGuse1BklQqSvYZjbafcDzycWYNWB5yOX9-UOn7rMhH7K3CweJSeI3TKGVdVj6reoFubwxiny82M7vWJitj_093UTgSI5BpxUN7gLKvmszuUwBfS8ieQTNmG06IiWZhS3OdGzKD4R6wj0FFcLMCYhbXgIjq_f5uVn2maXcutDM654mfkEbAaCmLAv7XaMwmRNX5OMSNN4rK-Y5jci43R_TEwHGllzyGso4mYI3WkFZoJsVUCk6_mWwAkAYV-sCNnGDKy2eZJC_H2R5c_SGz6Wh-25dHRrKct0woeepJ9-aa_WFsVUq38LqvEfwPCIqzHHOIeQBCOo5tkINEs4uk156NiiBIHrgqu0EnR48vM-zJc_pW82qNdB7UIzyy_xcRDI2utPeaz6Z7PyB1L9j-3bpmepjD2ib_WxtDKniaJ7nCBLlOMA_3d8YPBAvHcKVEr83GQevGtBZv4MTJ1YIeSxfAlHAvyEBU8KaGt09ckRVE5FJTDqzNmEEfYEoKzw1agT3eqUTqvAAsi28TLJijNZMRHo9YrOUzgK_i-FGPnDpwuKLf3DZp6ePkUdiuSOLREBa13nV_-Ll-VLb6Pta1_rIG_WcNVIsjaWCu6FdfjiKaa3oDiegZxKXw_tbr5ZlTNlLixJIde92B758X9RNOVWU_reEiOJRmKT8LYswB-1K9CgL7ZrxkpD0aB=w1562-h1042-no
+---
+
+[![](https://lh3.googleusercontent.com/fGuse1BklQqSvYZjbafcDzycWYNWB5yOX9-UOn7rMhH7K3CweJSeI3TKGVdVj6reoFubwxiny82M7vWJitj_093UTgSI5BpxUN7gLKvmszuUwBfS8ieQTNmG06IiWZhS3OdGzKD4R6wj0FFcLMCYhbXgIjq_f5uVn2maXcutDM654mfkEbAaCmLAv7XaMwmRNX5OMSNN4rK-Y5jci43R_TEwHGllzyGso4mYI3WkFZoJsVUCk6_mWwAkAYV-sCNnGDKy2eZJC_H2R5c_SGz6Wh-25dHRrKct0woeepJ9-aa_WFsVUq38LqvEfwPCIqzHHOIeQBCOo5tkINEs4uk156NiiBIHrgqu0EnR48vM-zJc_pW82qNdB7UIzyy_xcRDI2utPeaz6Z7PyB1L9j-3bpmepjD2ib_WxtDKniaJ7nCBLlOMA_3d8YPBAvHcKVEr83GQevGtBZv4MTJ1YIeSxfAlHAvyEBU8KaGt09ckRVE5FJTDqzNmEEfYEoKzw1agT3eqUTqvAAsi28TLJijNZMRHo9YrOUzgK_i-FGPnDpwuKLf3DZp6ePkUdiuSOLREBa13nV_-Ll-VLb6Pta1_rIG_WcNVIsjaWCu6FdfjiKaa3oDiegZxKXw_tbr5ZlTNlLixJIde92B758X9RNOVWU_reEiOJRmKT8LYswB-1K9CgL7ZrxkpD0aB=w1562-h1042-no)](https://photos.app.goo.gl/G4GHK5DLFPA2WJud7)

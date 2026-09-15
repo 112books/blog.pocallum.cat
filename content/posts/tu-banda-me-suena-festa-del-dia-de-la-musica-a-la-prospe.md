@@ -1,0 +1,15 @@
+---
+title: "Tu Banda Me Suena - Festa del dia de la música a la Prospe"
+date: 2019-06-22
+slug: "tu-banda-me-suena-festa-del-dia-de-la-musica-a-la-prospe"
+categories: 
+  - "leica-m6"
+author: "inuxbcn"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2019/06/HD384-020.jpg
+image: https://lh3.googleusercontent.com/o7qvWhA8MHoqZPJFS0Q63e46jHI3RAuRuEtCoiEAWFaALZpO8fMOl1DsOQfyv91ztwR1BCcCmL0ZVaO5sT5AUF9_fuReim3vJ37hJ-s7CYpcr7FEQ_oNc2Q0l7CX50BkCkwLrIGK1f-ffHC_AWrsBFn_hC3Le7QAFhd8VRXS8mtxn4hXnUwpGGvylDLcXMjkphcPTe24MKPNNRvavq2oKS1a29Fn783fhrYizV3MDzhJyJFwG_xrMkutHEvKl-dThZa18sXtDJdbQoU7-TVkdp8S6KhBb_SLmjsiNjxh5L_-8xkJXNKjJWnR6eMyi9AU1q5BGZaKOhU6syP-9fb6U91xt6paahh-jY90sOAcYwD5xSvJQRDnLVBo25TZJRUe0AJg7FnZDwvcOiHDxyyhcWrJP5PRzt0IcENIXx8yi6IYvG0q0_B0Wsu9iIUSAzpYebxT3TrKo3J7PDc9GfjM7v5W2EnxLKtVpVzhCe-QS3bgqqikkhGIw5fhjb_rSfmuEIGSALkSVkK6LSsInuD8UEvnWSnJXImkOd6aY2c2mnwfwBiirNhWltWF37zy6swn3Y4QG1eos3il3QYPLqVjXsZO7kHYoS_PmATBN5GQLplf4eO49Lw4_zjiolmGtqC8_0hM0i4-Wjwcx1TT34gMpoSKo-IlJ3-K=w1549-h1033-no
+---
+
+[![](https://lh3.googleusercontent.com/o7qvWhA8MHoqZPJFS0Q63e46jHI3RAuRuEtCoiEAWFaALZpO8fMOl1DsOQfyv91ztwR1BCcCmL0ZVaO5sT5AUF9_fuReim3vJ37hJ-s7CYpcr7FEQ_oNc2Q0l7CX50BkCkwLrIGK1f-ffHC_AWrsBFn_hC3Le7QAFhd8VRXS8mtxn4hXnUwpGGvylDLcXMjkphcPTe24MKPNNRvavq2oKS1a29Fn783fhrYizV3MDzhJyJFwG_xrMkutHEvKl-dThZa18sXtDJdbQoU7-TVkdp8S6KhBb_SLmjsiNjxh5L_-8xkJXNKjJWnR6eMyi9AU1q5BGZaKOhU6syP-9fb6U91xt6paahh-jY90sOAcYwD5xSvJQRDnLVBo25TZJRUe0AJg7FnZDwvcOiHDxyyhcWrJP5PRzt0IcENIXx8yi6IYvG0q0_B0Wsu9iIUSAzpYebxT3TrKo3J7PDc9GfjM7v5W2EnxLKtVpVzhCe-QS3bgqqikkhGIw5fhjb_rSfmuEIGSALkSVkK6LSsInuD8UEvnWSnJXImkOd6aY2c2mnwfwBiirNhWltWF37zy6swn3Y4QG1eos3il3QYPLqVjXsZO7kHYoS_PmATBN5GQLplf4eO49Lw4_zjiolmGtqC8_0hM0i4-Wjwcx1TT34gMpoSKo-IlJ3-K=w1549-h1033-no)](https://photos.app.goo.gl/dvbozKSsN6ZSXTXs6)
+
+Leica M6 -Summicron-c 40 f/2 - Rollei RPX 400 @1600

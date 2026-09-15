@@ -1,0 +1,15 @@
+---
+title: "HomeDev#101 – LC-A+ – Foma400 - HL-110"
+date: 2017-02-20
+slug: "homedev101-lc-a-foma400-hl-110"
+categories: 
+  - "lomography-lc-a"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2017/02/HomeDev101-026.jpg
+image: https://lh3.googleusercontent.com/4KM1Bio2THSwUpLWrEUGyype8-lznOFxaZ8p6RoMV4Yd360ahTR-C6-RJaPFiAFGNjCmzRSoJcdFc-AylTtn1UmvsJaBafNmCgCz6BSHqv_TJ3OliuFe8wTUpzL9mQZW2Z8RBuKzNQzYUObfY-qafU3R0C-i-1pPVAUntNED_XwA-uotdeFdeSXk-F9HgS-pVrezxivWDJpyvygRVDn-rAIf45lU1IEOEuik-ZM7ix8AvTKUUs6pvSOAwLL8jobaeeqUIHjeH3LdxJRR8F9B4Ir1tDX71rJd3nVS71MXaNTnPvUPoScZBNKSGFlizALGRICXID5DLqKaec9EI1w9iMn1LDvor6GtAgOWuSg0iPiWEa6MGCtbindaY-NDj_OKGRvnZRx56rmSfiwH2GSnAOwPAfHC5h3vfLIa83u2FubxZaIrzSNuj5WnJ4VDQCjN4WfGeHl02TWjYBAJrya33AatLzH-V0-KD8dVz-BUybsA6ZD9ge_d2bDSvTe7X0u_B1_QqF0ZKw1d7zeY5ihQPw_DKQ6cp7St-huQOcY_BvaVBTSBqxvJ6B38TbhWmJJWaSxXsfdM5e037yn0SDWmvfcO3R7klj1UrPXraMbVIHylaAlMf_sx1w=w1082-h722-no
+---
+
+[![](https://lh3.googleusercontent.com/4KM1Bio2THSwUpLWrEUGyype8-lznOFxaZ8p6RoMV4Yd360ahTR-C6-RJaPFiAFGNjCmzRSoJcdFc-AylTtn1UmvsJaBafNmCgCz6BSHqv_TJ3OliuFe8wTUpzL9mQZW2Z8RBuKzNQzYUObfY-qafU3R0C-i-1pPVAUntNED_XwA-uotdeFdeSXk-F9HgS-pVrezxivWDJpyvygRVDn-rAIf45lU1IEOEuik-ZM7ix8AvTKUUs6pvSOAwLL8jobaeeqUIHjeH3LdxJRR8F9B4Ir1tDX71rJd3nVS71MXaNTnPvUPoScZBNKSGFlizALGRICXID5DLqKaec9EI1w9iMn1LDvor6GtAgOWuSg0iPiWEa6MGCtbindaY-NDj_OKGRvnZRx56rmSfiwH2GSnAOwPAfHC5h3vfLIa83u2FubxZaIrzSNuj5WnJ4VDQCjN4WfGeHl02TWjYBAJrya33AatLzH-V0-KD8dVz-BUybsA6ZD9ge_d2bDSvTe7X0u_B1_QqF0ZKw1d7zeY5ihQPw_DKQ6cp7St-huQOcY_BvaVBTSBqxvJ6B38TbhWmJJWaSxXsfdM5e037yn0SDWmvfcO3R7klj1UrPXraMbVIHylaAlMf_sx1w=w1082-h722-no)](https://goo.gl/photos/JbzdFTQYgiRxpsQs6)
+
+Un dia fantàstic realitzant el taller "Diana entre Cactus" a Montjuïc amb els alumnes de Lomography Embassy Barcelona.

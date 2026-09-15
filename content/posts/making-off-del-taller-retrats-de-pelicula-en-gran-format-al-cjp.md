@@ -1,0 +1,13 @@
+---
+title: "Making off del Taller “Retrats de película en gran format” al CJP"
+date: 2017-03-16
+slug: "making-off-del-taller-retrats-de-pelicula-en-gran-format-al-cjp"
+categories: 
+  - "fuji-x-a1"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2017/03/DSCF1711.jpg
+image: https://lh3.googleusercontent.com/5X7LXlQS3ejra6HpOhP_qnB0Qv_3Yfity_uWVlYk4UDs1qH8cAyp65i98fhNfAqsV7PU9jxVdZ8lT5Xk4fdrtgoqP1jzS3Y1YsxqIaiyWuyFEnNlkir31EW-5uM7z42n3RuA48pHLeREbvkTVe1qpkyddfE8Uczi35ymRRE402R8yWOdNUyULqq7xFwYRurlpN2Dd25uxpkL7mlpAzrTsBrkrukYXy9F16OL232GTfujBW0e3zL4vFA0G7AYgxp0z8p1THYjcjv6US8kMpUC-KyBr2NLi8-b0loaUKNBLQMl-k4FI2TwOmtjtL9TPc5x2PIn-9am0oDA7KoSXTIw8zDqR-oTcDAPxcNE6PQroFOYjWBojK1-T0-NFciRWUcd_oaiLncT1ewRSvVqwFq5ZQp3K7NFRWKKtG29u1h4MEhOcTreb7G8vYK0dF2zFTHhyzZyHBoa-jarIlJ1lwJfJsxxK5MsPOW1iO97vlPm1rDigqv7XqBcMNq86Go5RdFPC843Zxa-b3GGNQD70_Cg-i4wmE-GYzCf5ycd2R-7CMCQhJkROtQUn7ndynbfXrJc3jN8EH231hIa5E-2qW-QpPQ1PT67tQDoKGxrYttYyH27-uXL4zRzow=w822-h1232-no
+---
+
+[![](https://lh3.googleusercontent.com/5X7LXlQS3ejra6HpOhP_qnB0Qv_3Yfity_uWVlYk4UDs1qH8cAyp65i98fhNfAqsV7PU9jxVdZ8lT5Xk4fdrtgoqP1jzS3Y1YsxqIaiyWuyFEnNlkir31EW-5uM7z42n3RuA48pHLeREbvkTVe1qpkyddfE8Uczi35ymRRE402R8yWOdNUyULqq7xFwYRurlpN2Dd25uxpkL7mlpAzrTsBrkrukYXy9F16OL232GTfujBW0e3zL4vFA0G7AYgxp0z8p1THYjcjv6US8kMpUC-KyBr2NLi8-b0loaUKNBLQMl-k4FI2TwOmtjtL9TPc5x2PIn-9am0oDA7KoSXTIw8zDqR-oTcDAPxcNE6PQroFOYjWBojK1-T0-NFciRWUcd_oaiLncT1ewRSvVqwFq5ZQp3K7NFRWKKtG29u1h4MEhOcTreb7G8vYK0dF2zFTHhyzZyHBoa-jarIlJ1lwJfJsxxK5MsPOW1iO97vlPm1rDigqv7XqBcMNq86Go5RdFPC843Zxa-b3GGNQD70_Cg-i4wmE-GYzCf5ycd2R-7CMCQhJkROtQUn7ndynbfXrJc3jN8EH231hIa5E-2qW-QpPQ1PT67tQDoKGxrYttYyH27-uXL4zRzow=w822-h1232-no)](https://goo.gl/photos/usj7W1Qf6T3cdgFL6)

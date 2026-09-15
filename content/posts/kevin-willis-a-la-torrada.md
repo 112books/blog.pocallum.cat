@@ -1,0 +1,20 @@
+---
+title: "Kevin Willis a la Torrada"
+date: 2019-11-09
+slug: "kevin-willis-a-la-torrada"
+categories: 
+  - "fuji-x-pro1"
+tags:
+  - "7-artesians-35mmf-1-8"
+  - "barcelona"
+  - "bcn"
+  - "festa"
+  - "kevin-willis"
+  - "la-torrada"
+  - "prosperitat"
+author: "inuxbcn"
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2019/11/DSF3853.jpg
+image: https://lh3.googleusercontent.com/_tqMMrEea94WJ3eGkSV4FWGemUPzVinSlyNrDfVHpV9fGhKZqi93dPbkSogUiy2AhXIApTaKMxRrwJrrJX4FlvAudR5KRD34cPHSycH6Ny-skJ3-dBt_PM4bas63F5p4-8kGr6E2wU66BM2VflYUEZpQYK2SOtElsh7FdIAIf0umSxws97ld_3-SQzgv7uUKdaouByMCKN1dbxYyAUHVds_F0jYAvTzHvZdw8vxwiY9BZXfKxXKZklJa0FpnNSlV_VmigkSMEJclJ8j148OUJDIBkkTs8qGNV8m-8qt3NhX-c9mIfH1zKcz-9xHxf3M_prRBwhfdgRrlT07vbCNcG38BORtnXq90RQBmwxwkwBE3qEe9SXTeXcJ8nvY5BIwSwfdeTJeDapriJNTC9VWtJOMXezjlJw4UaUnR3Levv8AgF7AjPOmI_oINpypLcIaZlbSfXqB-oO7tlTeKVWiFH3lv_L34p8ZmdjWonekcWuN45XpOn9yIig8dLH8Pyw39lEWzHihFL7RqnL-kFARB35zj_uai0_SdyLDYYU9rxZim7Fe2HhQk_4iC3z5NILHp0BkU4kG7eQLykCYeTVGFd6S5AiNnweGFow6AUJz66oYrfmpEEfisNePSpegv2HqwMMdvxslis1F8QuVuBRt_YtK6QZ2yQUa_P6HJjtLFerWlY8MGMNKA-td7=w1524-h1016-no
+---
+
+[![](https://lh3.googleusercontent.com/_tqMMrEea94WJ3eGkSV4FWGemUPzVinSlyNrDfVHpV9fGhKZqi93dPbkSogUiy2AhXIApTaKMxRrwJrrJX4FlvAudR5KRD34cPHSycH6Ny-skJ3-dBt_PM4bas63F5p4-8kGr6E2wU66BM2VflYUEZpQYK2SOtElsh7FdIAIf0umSxws97ld_3-SQzgv7uUKdaouByMCKN1dbxYyAUHVds_F0jYAvTzHvZdw8vxwiY9BZXfKxXKZklJa0FpnNSlV_VmigkSMEJclJ8j148OUJDIBkkTs8qGNV8m-8qt3NhX-c9mIfH1zKcz-9xHxf3M_prRBwhfdgRrlT07vbCNcG38BORtnXq90RQBmwxwkwBE3qEe9SXTeXcJ8nvY5BIwSwfdeTJeDapriJNTC9VWtJOMXezjlJw4UaUnR3Levv8AgF7AjPOmI_oINpypLcIaZlbSfXqB-oO7tlTeKVWiFH3lv_L34p8ZmdjWonekcWuN45XpOn9yIig8dLH8Pyw39lEWzHihFL7RqnL-kFARB35zj_uai0_SdyLDYYU9rxZim7Fe2HhQk_4iC3z5NILHp0BkU4kG7eQLykCYeTVGFd6S5AiNnweGFow6AUJz66oYrfmpEEfisNePSpegv2HqwMMdvxslis1F8QuVuBRt_YtK6QZ2yQUa_P6HJjtLFerWlY8MGMNKA-td7=w1524-h1016-no)](https://photos.app.goo.gl/qYbLHR87kWD1UNvb6)

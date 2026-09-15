@@ -1,0 +1,25 @@
+---
+title: "Capibola Brass Band"
+date: 2021-04-13
+slug: "capibola-brass-band"
+categories: 
+  - "leica-m6"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2021/04/2021-04-11-Brass-Ban-014.jpg
+image: https://lh3.googleusercontent.com/yf4B3ssDJFBi85Q-OZQbLTrB6SB9Rba4986X7NkZwVx193mFbtH0hWilMDEZNshYqlm1IqEkEgrmAefiodgUsHow11qnlJP03CwrNDZs7xi32WVO6nNF_eZMVDJjFiFj56_R55aknYd_5tbCs4dwmDMdAAJldKNnkuOGwFHVSFBJ542e_UzIvibhBOJHGGNBMHiqsHE-Wytg7XfkQkuJPMakr9YJvwoFTrVnyLJ7LDCC5MuUt4anJIIZVt3Zd_dNjCwSTWmr42WxvpSK8BH9MYR33DSM8Zf2UYkFDfvsw6ugHj8QlUgjmC4I459Uom6ux0yjXIZkhEp-DNlTIgJxRKVorhgtISv9s3orvIYAOlLBuF7cveh1xONdsiDfyjA54XOBF5ETUcIn8PA-OpKjqVIMqevkHgkusk6jAmthb18SVw-E0ybx9ETCWVbaxez_geUwFm17CgCIcQ61mwqb2wJd7fGInEBBdWBjq8k1pZwG1CUjxVvb03Ym4lGNn4TEK0N0CWNmUSYjgmpNHObzPrHuZM_NCdBwtojv0ilpYq_0qLWEMnABlwBLUSrccHhePxAR_o7C0IaJmhpmaFH-EdHbP7wZrXxapIfVwiTsnPl52oqqSIe6HOQhRxjgLAZMGcljCJP8EGUfCObj4qxbpL5dKQwNqlHmBlLGGUmXDDm2YMTW2ehZxB1PzKYCtFUAsmJ-mIUZna1uXWYFPNEHu8jh=w1449-h872-no?authuser=0
+---
+
+<figure>
+
+[![](https://lh3.googleusercontent.com/yf4B3ssDJFBi85Q-OZQbLTrB6SB9Rba4986X7NkZwVx193mFbtH0hWilMDEZNshYqlm1IqEkEgrmAefiodgUsHow11qnlJP03CwrNDZs7xi32WVO6nNF_eZMVDJjFiFj56_R55aknYd_5tbCs4dwmDMdAAJldKNnkuOGwFHVSFBJ542e_UzIvibhBOJHGGNBMHiqsHE-Wytg7XfkQkuJPMakr9YJvwoFTrVnyLJ7LDCC5MuUt4anJIIZVt3Zd_dNjCwSTWmr42WxvpSK8BH9MYR33DSM8Zf2UYkFDfvsw6ugHj8QlUgjmC4I459Uom6ux0yjXIZkhEp-DNlTIgJxRKVorhgtISv9s3orvIYAOlLBuF7cveh1xONdsiDfyjA54XOBF5ETUcIn8PA-OpKjqVIMqevkHgkusk6jAmthb18SVw-E0ybx9ETCWVbaxez_geUwFm17CgCIcQ61mwqb2wJd7fGInEBBdWBjq8k1pZwG1CUjxVvb03Ym4lGNn4TEK0N0CWNmUSYjgmpNHObzPrHuZM_NCdBwtojv0ilpYq_0qLWEMnABlwBLUSrccHhePxAR_o7C0IaJmhpmaFH-EdHbP7wZrXxapIfVwiTsnPl52oqqSIe6HOQhRxjgLAZMGcljCJP8EGUfCObj4qxbpL5dKQwNqlHmBlLGGUmXDDm2YMTW2ehZxB1PzKYCtFUAsmJ-mIUZna1uXWYFPNEHu8jh=w1449-h872-no?authuser=0)](https://photos.app.goo.gl/z4WcCpYw4j4oDzwz5)
+
+<figcaption>
+
+Leica M6 - Voigtlander 35f/1.7 - Agfa APX 400
+
+</figcaption>
+
+</figure>
+
+Immortalitzant el naixement de la Capibola Brass Band el darrer dia 11 d'Abril al costat de la Casa de les Aigües.

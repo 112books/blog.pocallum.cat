@@ -1,0 +1,23 @@
+---
+title: "2022-07-09 – 20è Festival de Blues de Barcelona – Barcelona Big Blues Band ft Lluís Coloma"
+date: 2022-07-13
+slug: "2022-07-09-20e-festival-de-blues-de-barcelona-barcelona-big-blues-band-ft-lluis-coloma"
+categories: 
+  - "leica-m6"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2022/07/2022-07-09-BBBB-2-0044.jpg
+image: https://lh3.googleusercontent.com/62okqNLIZFinFhpKjEJBmFCeMb44BOq2jP5aC9sGtSfVX3tq6rKa1XpZqwLPKNXINYW9CZF1KVoGGD3_g-wNS66Qn908Qt-Vsipp37VOnAaaRSfEfZJOq9s0dJNoe3Pr487y72rWMiDVfnpjOGNx4AdcUaVyD1W_hnwIFOmezUgzZTwsHnxRubqvXBQpDgcvpjfwPGwQ9xy2I5MJCGedpnRX3crl1fXqqgM1S9TEjkakvOdKfP8RJ08YqzQhdCrwj-_4F8my4PKd1w_0Zg-FUkiNbVAhqULn0cAqrUykaVrmu1kzx3HYcoQzY7BXq-6g9QmuvEYNPGarHei8uyiEJm8noSo0FCHC50ppGac6q9kxVHnpO7-QyKBlx1PsldN9kz_RerGXnfK81iUuc6ktjXtVS5k04XovTcUYOlaMq3dGajV1ThwDQ-v1gkiDqbq9h797JHzDi_6DNnM0AR12vnUJHB-l2NjYI6eVaGl1ip05zm0ef1coijzV9ONZrET0fsjnvbQWppYDcF4mDt5ZPE_zYOWVc4QRsahISz7tBbem18trXfJO3a1xDvAdMwfdIvig7Hg0ocRYlkFxzKviG5tHyPfMj5k9IjSCYvYAdJdA6SpZ-4jYeq8GmfYu2vyr85ydMyftKN03D8wAp2-DwTwBoJH7KV2CPK_WXBxBBUHbz8CkOQY-p-WLtQvfdGpndl7g7rViihW5TkMTgeYLdD3f7J_2VcKvjr17qWiX6dhOYvZX2zLlGPJKHfZt=w1643-h1096-no?authuser=0
+---
+
+<figure>
+
+[![](https://lh3.googleusercontent.com/62okqNLIZFinFhpKjEJBmFCeMb44BOq2jP5aC9sGtSfVX3tq6rKa1XpZqwLPKNXINYW9CZF1KVoGGD3_g-wNS66Qn908Qt-Vsipp37VOnAaaRSfEfZJOq9s0dJNoe3Pr487y72rWMiDVfnpjOGNx4AdcUaVyD1W_hnwIFOmezUgzZTwsHnxRubqvXBQpDgcvpjfwPGwQ9xy2I5MJCGedpnRX3crl1fXqqgM1S9TEjkakvOdKfP8RJ08YqzQhdCrwj-_4F8my4PKd1w_0Zg-FUkiNbVAhqULn0cAqrUykaVrmu1kzx3HYcoQzY7BXq-6g9QmuvEYNPGarHei8uyiEJm8noSo0FCHC50ppGac6q9kxVHnpO7-QyKBlx1PsldN9kz_RerGXnfK81iUuc6ktjXtVS5k04XovTcUYOlaMq3dGajV1ThwDQ-v1gkiDqbq9h797JHzDi_6DNnM0AR12vnUJHB-l2NjYI6eVaGl1ip05zm0ef1coijzV9ONZrET0fsjnvbQWppYDcF4mDt5ZPE_zYOWVc4QRsahISz7tBbem18trXfJO3a1xDvAdMwfdIvig7Hg0ocRYlkFxzKviG5tHyPfMj5k9IjSCYvYAdJdA6SpZ-4jYeq8GmfYu2vyr85ydMyftKN03D8wAp2-DwTwBoJH7KV2CPK_WXBxBBUHbz8CkOQY-p-WLtQvfdGpndl7g7rViihW5TkMTgeYLdD3f7J_2VcKvjr17qWiX6dhOYvZX2zLlGPJKHfZt=w1643-h1096-no?authuser=0)](https://photos.app.goo.gl/SuLjsxJVvZmPNvKm9)
+
+<figcaption>
+
+Leica M6 - Voigtlander 35f/1.7 - Agfa APX 100 @1600
+
+</figcaption>
+
+</figure>

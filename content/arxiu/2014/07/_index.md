@@ -1,0 +1,6 @@
+---
+title: "juliol 2014"
+date: 2014-07-01
+outputs: ["HTML"]
+---
+

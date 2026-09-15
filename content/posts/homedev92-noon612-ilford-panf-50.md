@@ -1,0 +1,16 @@
+---
+title: "HomeDev#92 - Noon612 - Ilford Panf 50"
+date: 2016-12-27
+slug: "homedev92-noon612-ilford-panf-50"
+categories: 
+  - "noon-pinhole-612"
+  - "noonpinhole6x12-f-207"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2016/12/HomeDev92-044.jpg
+image: https://lh3.googleusercontent.com/KLbFIJHtzQGKZyEQkVbEz-oePFRe9afXFeiNj1V-pswk-Dx9PdyNUd7x43fLM4MOaDJcEt-_wQfRUSXe3AcWwQZj9DSH2cMBNoG0jtFebduU5vCoHyeCwRiNDIlzUv_8Yff7R_7X5RAYWJgU9ucHkP2x9Li-vlIEfYkKJKqWE8YfxFrb853PBvCKDADOuo2IcwzoYWW6W9Qtyt_7xa2Sa6iLj0LJK9IaeyAP7lGkyR_Xvkw9ojn2bMxh06x88V1opSIQV0_flmRUR5kfU2TZRCE_K_m7O4WewDir9xw5iAVm5aQsCqCPF-vZkwHnIf6ZUU9eGpRjFJ2_zJftAamPGYlfSk5Aq-82xWIUR_h8pzhKqCrB6CqxH82sh6B3PFZR2tfxXgrNAzoQW2MwD4XM4Mq0bddCTy6unTakwW7lU5neAr0T74wBRwnRSrzo_UKO2yhAb46dAO4U-a4qoT1Yip4_N0byPLZ0tqwLBWk4jMOc3vzL02ti--KfN9mzhGNmkIF4oWAnliETmlHLjyrnryweqDT3vFE7RyW6jP-xoBBLRK1Bj-wW0SjDURIhP7RAa5RPBaEu9EkcnoGFd2nkkIV9bsb2kbSm2HvE4YHMo2UKNYwD6zdMsQ=w1505-h716-no
+---
+
+[![](https://lh3.googleusercontent.com/KLbFIJHtzQGKZyEQkVbEz-oePFRe9afXFeiNj1V-pswk-Dx9PdyNUd7x43fLM4MOaDJcEt-_wQfRUSXe3AcWwQZj9DSH2cMBNoG0jtFebduU5vCoHyeCwRiNDIlzUv_8Yff7R_7X5RAYWJgU9ucHkP2x9Li-vlIEfYkKJKqWE8YfxFrb853PBvCKDADOuo2IcwzoYWW6W9Qtyt_7xa2Sa6iLj0LJK9IaeyAP7lGkyR_Xvkw9ojn2bMxh06x88V1opSIQV0_flmRUR5kfU2TZRCE_K_m7O4WewDir9xw5iAVm5aQsCqCPF-vZkwHnIf6ZUU9eGpRjFJ2_zJftAamPGYlfSk5Aq-82xWIUR_h8pzhKqCrB6CqxH82sh6B3PFZR2tfxXgrNAzoQW2MwD4XM4Mq0bddCTy6unTakwW7lU5neAr0T74wBRwnRSrzo_UKO2yhAb46dAO4U-a4qoT1Yip4_N0byPLZ0tqwLBWk4jMOc3vzL02ti--KfN9mzhGNmkIF4oWAnliETmlHLjyrnryweqDT3vFE7RyW6jP-xoBBLRK1Bj-wW0SjDURIhP7RAa5RPBaEu9EkcnoGFd2nkkIV9bsb2kbSm2HvE4YHMo2UKNYwD6zdMsQ=w1505-h716-no)](https://goo.gl/photos/pnLFY6NdG2ftJ5Hz5)
+
+Estenopejant l'Alt Penedès novament.

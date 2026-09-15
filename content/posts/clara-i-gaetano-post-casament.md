@@ -1,0 +1,17 @@
+---
+title: "Clara i Gaetano - Post-Casament"
+date: 2016-12-17
+slug: "clara-i-gaetano-post-casament"
+categories: 
+  - "fuji-x-a1"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2016/12/DSCF8981.jpg
+image: https://lh3.googleusercontent.com/xZpjM-Hb0YQL1DlAZpZC6U6o3TfYKOWPbLeymI5XW1KOe7NCx__DNJ26CCwLKk1j64796PFgOIQ3horarZXXYfbusHzbouIZQ51jwUctHKHlq6pxPih0UQ3ok9yOLx5-Q9Ka5UTmX5FQE8hJ_0mhDsVROc6StbglEdDb-vXtFXX5KsQxNDI6zFSYMfXZPfag-mdMmc-LmUKBZEPEYy4mqhWVzAcnxefu3zeu5aTTafd6CFp_Eeui-hvJIrjIOsyKLJnD2mWi5kz0EeOfryL6DUd7nomUY3w4Td-s9hhYcEPAKEsfPggowRXyt5k-23dfX4GrI9NVgp_liSuZiDLiaFG2HIv4U5obJnbEC-K4WvcKh_DF0_7nSZgHdKfciKvcaGaYDtoHbklPwVXYhdC7LbKlSnBI8Ca_1fc1tl2T9DBQphsEBlBe9el2NpxbRw7rWXvKXwyQvF8NAC4yXJrfdo1im7uq-JiHUt3eAKcDVyzmqR0L4_0rPH6gX1cc1Q-UIS4KLNucANP9dqL7Xohtpp80MdNIwVb9RO8n3fRZWUh2FPPb1R0NqQH9SoBYwJRsx7c3i2ZdY39Pha24bdugr-UTU_YXyjXCHNrrk3KYNX_d-ga4ExGz8g=w1473-h983-no
+---
+
+[![](https://lh3.googleusercontent.com/xZpjM-Hb0YQL1DlAZpZC6U6o3TfYKOWPbLeymI5XW1KOe7NCx__DNJ26CCwLKk1j64796PFgOIQ3horarZXXYfbusHzbouIZQ51jwUctHKHlq6pxPih0UQ3ok9yOLx5-Q9Ka5UTmX5FQE8hJ_0mhDsVROc6StbglEdDb-vXtFXX5KsQxNDI6zFSYMfXZPfag-mdMmc-LmUKBZEPEYy4mqhWVzAcnxefu3zeu5aTTafd6CFp_Eeui-hvJIrjIOsyKLJnD2mWi5kz0EeOfryL6DUd7nomUY3w4Td-s9hhYcEPAKEsfPggowRXyt5k-23dfX4GrI9NVgp_liSuZiDLiaFG2HIv4U5obJnbEC-K4WvcKh_DF0_7nSZgHdKfciKvcaGaYDtoHbklPwVXYhdC7LbKlSnBI8Ca_1fc1tl2T9DBQphsEBlBe9el2NpxbRw7rWXvKXwyQvF8NAC4yXJrfdo1im7uq-JiHUt3eAKcDVyzmqR0L4_0rPH6gX1cc1Q-UIS4KLNucANP9dqL7Xohtpp80MdNIwVb9RO8n3fRZWUh2FPPb1R0NqQH9SoBYwJRsx7c3i2ZdY39Pha24bdugr-UTU_YXyjXCHNrrk3KYNX_d-ga4ExGz8g=w1473-h983-no)](https://goo.gl/photos/dMCUAJdCZwNmtHVK6)
+
+I després del casament, una copeta més al Bar Plaza de la Prospe.
+
+Felicitats parella, us desitjo el millor!

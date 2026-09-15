@@ -1,0 +1,15 @@
+---
+title: "Les nits de Capibola Blues amb The Company Store"
+date: 2017-05-13
+slug: "les-nits-de-capibola-blues-amb-the-company-store"
+categories: 
+  - "canon-eos-6d"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2017/05/IMG_0599.jpg
+image: https://lh3.googleusercontent.com/CNzMc4LMWIcT4TE5yUh3IypfOvThp7npDdGeefR-m3nTopefdGc5nWZe2bCTj0iOQ76aUKhpxrb2Q7ULsbQxkSDbIrBd28CfLLGUW1HG6Oe7Ipi20jirhfdOCFD94omNsMRNAoAxqlb0GCpgnFJwFd1IzBWuoYmTlgOgt7cIaBIFFYiLnq_DQox3s5X3l2RX1mhVPQuOPTdWj3FJKMEjlSdfd63LkoKC0ThKfCjUGuqFYlbMcATlbtM1eXPfLEXat0d9i_0S8Pv5nZZU2XlaRyXZfmB2b8C-6BIp3-e2NSUBvQd42mBT1r-CzT5L9r8xCeYzxtMYsQ_unukdNxViQJnr8Dq1R2VVxaNK7350f32LTUYl61dUunIQUJzxOaVEeR9A5wojZSn2DqTt_BbAfC07x8227qjrwma4crVMRVYYctOl4vEWhuYblCG0mGgoO0dMkaFXFwWf5rQbaWi6Ae_O9-aErcp7w2My3GF8oEqTIl54Ven9Zg046kUrH6n0jc0et86W0MoR6jRjv8mt0nUssR09g8y2kxFugf6aYXED57EYaBpGG13Qa-93kFMDIDZytWmrok_AzEqp8wa7VbEeHjnSg0b-dcnjFJE42MEQj2IdQtfGiA=w1285-h857-no
+---
+
+[![](https://lh3.googleusercontent.com/CNzMc4LMWIcT4TE5yUh3IypfOvThp7npDdGeefR-m3nTopefdGc5nWZe2bCTj0iOQ76aUKhpxrb2Q7ULsbQxkSDbIrBd28CfLLGUW1HG6Oe7Ipi20jirhfdOCFD94omNsMRNAoAxqlb0GCpgnFJwFd1IzBWuoYmTlgOgt7cIaBIFFYiLnq_DQox3s5X3l2RX1mhVPQuOPTdWj3FJKMEjlSdfd63LkoKC0ThKfCjUGuqFYlbMcATlbtM1eXPfLEXat0d9i_0S8Pv5nZZU2XlaRyXZfmB2b8C-6BIp3-e2NSUBvQd42mBT1r-CzT5L9r8xCeYzxtMYsQ_unukdNxViQJnr8Dq1R2VVxaNK7350f32LTUYl61dUunIQUJzxOaVEeR9A5wojZSn2DqTt_BbAfC07x8227qjrwma4crVMRVYYctOl4vEWhuYblCG0mGgoO0dMkaFXFwWf5rQbaWi6Ae_O9-aErcp7w2My3GF8oEqTIl54Ven9Zg046kUrH6n0jc0et86W0MoR6jRjv8mt0nUssR09g8y2kxFugf6aYXED57EYaBpGG13Qa-93kFMDIDZytWmrok_AzEqp8wa7VbEeHjnSg0b-dcnjFJE42MEQj2IdQtfGiA=w1285-h857-no)](https://goo.gl/photos/vjTzUi7mNQisNF9k7)
+
+Pletòric concert de "The Company Store", formació sorgida de l'Escola de Blues de Barcelona. Tot, un cop més, al Casal de Barri de Prosperitat!

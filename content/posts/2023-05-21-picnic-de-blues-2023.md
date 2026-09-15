@@ -1,0 +1,23 @@
+---
+title: "2023-05-21 - Pícnic de Blues 2023"
+date: 2023-05-22
+slug: "2023-05-21-picnic-de-blues-2023"
+categories: 
+  - "fuji-x-pro1"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2023/05/Captura-de-pantalla-2024-11-14-a-les-11.18.23.png
+image: https://lh3.googleusercontent.com/L1Pr---x8H4sQA7-jHKWZDQ9oRJXluia6ReTwskT-DPc9m8Di1s6Xnqv5lRxsH0GBWkNojw7F05gnoMWkjnDyCqcyTwYWaAbQiyskNHEv3PRynnYcOPE4mcPLnBSRdtxi9eKFbuRqWGT739J12SCaQUbQxqnqtuqxiPCshso-rxnuVmD0nnsMzTOJXbU1vz1ftosh0q2Y4UjdaHdaoiSaqdHSSD7y09ze7IaOmdruYqX4Yo0sB_i2W57K2cHXh9vTwWoXq4wWFTSSyij4HJ1QMHfl69kWmRoe-WzSmkBAj9n9eL2w7rG5ZB0Uj_d-uUp_pPrCJHDlk15Lwqz7bcAiM3CTHXzJWe6VcAy53rMHYYOm_ycMlVIq1diuT9gwIFgpWeHiATi6yCGmK64P4z2kPuyQYaWmm4n5N1weY-sHW5_c12eGjsJI1LzaqEFM-0jR3qButQTPQeruDcqaTsWD_j0wxrZ8BMdQhDAwGXdxsAf0sgLOf3q3FzosJfSuFYrycEiLiKd7SmsjyUx3WPgNG_rL12ZlU5gPD2nAkAVcIVY7SrSC4Dct4KMZSFnmXdxCUXurW0jjyE6pCSjhJWQNANa5SQFQe3DpIAEjZIwvKgEfMRzYcnxsHjD1RxXmQHxdpFFV7KJzzTN-PS8XfNT0tquvdjAIo9NUttrmouwcCt_x7dnbm1CQ1ZwEYg7nSfcGmUDrpRfiwtrfBHPFJrY3D2TXIQ5gMIqEHJqMP7nw-cbB--IZQAB5iOkHEl8WaQ6hUxyyzAS2O-RN-og_cAAfa_RnI_y5rAcPxd1KY6khbWT8AoJJ88oiUOJ4raL9gw14-5iTifRdbikvAs0fX6YvJGz3BZzk1EfsBwSYKHA2McM5JLxe7-Pc7rjFS9Kfk_ruIeBvtyjzECnz7XKY_y8q2HRQfv6jbnDTnUiSnAQYLHJOA=w1734-h1156-s-no?authuser=0
+---
+
+[![](https://lh3.googleusercontent.com/L1Pr---x8H4sQA7-jHKWZDQ9oRJXluia6ReTwskT-DPc9m8Di1s6Xnqv5lRxsH0GBWkNojw7F05gnoMWkjnDyCqcyTwYWaAbQiyskNHEv3PRynnYcOPE4mcPLnBSRdtxi9eKFbuRqWGT739J12SCaQUbQxqnqtuqxiPCshso-rxnuVmD0nnsMzTOJXbU1vz1ftosh0q2Y4UjdaHdaoiSaqdHSSD7y09ze7IaOmdruYqX4Yo0sB_i2W57K2cHXh9vTwWoXq4wWFTSSyij4HJ1QMHfl69kWmRoe-WzSmkBAj9n9eL2w7rG5ZB0Uj_d-uUp_pPrCJHDlk15Lwqz7bcAiM3CTHXzJWe6VcAy53rMHYYOm_ycMlVIq1diuT9gwIFgpWeHiATi6yCGmK64P4z2kPuyQYaWmm4n5N1weY-sHW5_c12eGjsJI1LzaqEFM-0jR3qButQTPQeruDcqaTsWD_j0wxrZ8BMdQhDAwGXdxsAf0sgLOf3q3FzosJfSuFYrycEiLiKd7SmsjyUx3WPgNG_rL12ZlU5gPD2nAkAVcIVY7SrSC4Dct4KMZSFnmXdxCUXurW0jjyE6pCSjhJWQNANa5SQFQe3DpIAEjZIwvKgEfMRzYcnxsHjD1RxXmQHxdpFFV7KJzzTN-PS8XfNT0tquvdjAIo9NUttrmouwcCt_x7dnbm1CQ1ZwEYg7nSfcGmUDrpRfiwtrfBHPFJrY3D2TXIQ5gMIqEHJqMP7nw-cbB--IZQAB5iOkHEl8WaQ6hUxyyzAS2O-RN-og_cAAfa_RnI_y5rAcPxd1KY6khbWT8AoJJ88oiUOJ4raL9gw14-5iTifRdbikvAs0fX6YvJGz3BZzk1EfsBwSYKHA2McM5JLxe7-Pc7rjFS9Kfk_ruIeBvtyjzECnz7XKY_y8q2HRQfv6jbnDTnUiSnAQYLHJOA=w1734-h1156-s-no?authuser=0)](https://photos.app.goo.gl/toVon1NFBejtdxYr9)
+
+Malgrat les amenaces de pluja, un any més s'ha celebrat el Pícnic de Blues dins les festes Majos de Nou Barris. Aquest any, amb un pressupost ben ajustat, han aconseguit que s'impliquessin:
+
+- La Blues Social Club
+
+- Martín Burguez & His Rhythm Combo
+
+- The New Old School
+
+Aneu preparant-vos que al juliol tenim Festival de Blues de Barcelona!

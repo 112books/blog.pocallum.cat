@@ -1,0 +1,16 @@
+---
+title: "Pedrola - HomeDev#185 - Leica M4-2 - Summicron 40c - Delta 400"
+date: 2017-12-31
+slug: "pedrola-homedev185-leica-m4-2-summicron-40c-delta-400"
+categories: 
+  - "leica-m4-2"
+  - "summicron-40mm-f-2"
+author: "inuxbcn"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2017/12/HD185-015.jpg
+image: https://lh3.googleusercontent.com/ddeWSi6oELK8WvCNMXIX1h8qYBSb9MA3bZUaPhqnxg-T9vbHUPsOSGMZ44h1LPOP1o4wktE-jxsoQ9VveWALQEBmkCCjjehVTwXGgB51ROBW_9lpxfrOhD7ezul-AEISrhnoK7spZ-ADzXqZ28O5-U9jBZjHDkZtFlYVoEz5hhIpZOfNmkZPalg635ry5cGyMDRv3DOriEN2c-IwktwTo4FRdRFTQzQ-4QERV4FR0_S5rf9u-Evd3uUPKyicjR3zH0Ei-kalYXGQiVkOIOAsLoJG_i1uVEFukh7nj6vc4lKpKqCQkPEogERwsELHgHiQmo50dI3a0hsBdN5raumzKveuGQ8XXnpoJXWiJNIkJdcwQoP73XQpWxsEBPrg-KgiO4D7RKGMSczNUZhbmPoLpKDScbRsPlnqHbObcWVUlhGqke9d5ocIcb07qZhm9UO_d63ZMgiMCc_S4N0IrcURF6sUMEscJKNmzr5Wifv6JmhgIzDEPzcg12ilHh71arvdlrKgJhOrTi7Vb3zQOBG1Au8lco9tdLqbiBDOE5kFOjLo5L0fUWFMH9ouAQtIknMaJnJQ1XH6vvPXAnXSF2dOe6SLoK7okgp5va27Y1DhXKoUyKtNZNuVHjkOrdcijIo06Ncj9sVXoRZaq0JnfCyLlhwobCHhpEaCtA=w1252-h835-no
+---
+
+[![](https://lh3.googleusercontent.com/ddeWSi6oELK8WvCNMXIX1h8qYBSb9MA3bZUaPhqnxg-T9vbHUPsOSGMZ44h1LPOP1o4wktE-jxsoQ9VveWALQEBmkCCjjehVTwXGgB51ROBW_9lpxfrOhD7ezul-AEISrhnoK7spZ-ADzXqZ28O5-U9jBZjHDkZtFlYVoEz5hhIpZOfNmkZPalg635ry5cGyMDRv3DOriEN2c-IwktwTo4FRdRFTQzQ-4QERV4FR0_S5rf9u-Evd3uUPKyicjR3zH0Ei-kalYXGQiVkOIOAsLoJG_i1uVEFukh7nj6vc4lKpKqCQkPEogERwsELHgHiQmo50dI3a0hsBdN5raumzKveuGQ8XXnpoJXWiJNIkJdcwQoP73XQpWxsEBPrg-KgiO4D7RKGMSczNUZhbmPoLpKDScbRsPlnqHbObcWVUlhGqke9d5ocIcb07qZhm9UO_d63ZMgiMCc_S4N0IrcURF6sUMEscJKNmzr5Wifv6JmhgIzDEPzcg12ilHh71arvdlrKgJhOrTi7Vb3zQOBG1Au8lco9tdLqbiBDOE5kFOjLo5L0fUWFMH9ouAQtIknMaJnJQ1XH6vvPXAnXSF2dOe6SLoK7okgp5va27Y1DhXKoUyKtNZNuVHjkOrdcijIo06Ncj9sVXoRZaq0JnfCyLlhwobCHhpEaCtA=w1252-h835-no)](https://photos.app.goo.gl/M4Hck38z9gSsXaHF3)
+
+Passejant per Pedrola, un poble de Saragossa, amb Alfonso de Castro i la M4-2.

@@ -1,0 +1,23 @@
+---
+title: "Festival de Blues de Barcelona – Los Brillantes amb Chino Swingslide, Albert Bello, Ivan Kovasevic i Bernat Font"
+date: 2020-07-11
+slug: "festival-de-blues-de-barcelona-los-brillantes-amb-chino-swingslide-albert-bello-ivan-kovasevic-i-bernat-font"
+categories: 
+  - "leica-m6"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2020/07/2020-07-10-A-014.jpg
+image: https://lh3.googleusercontent.com/vxlwtRioUNOTUL8qW5680OpyuTRPR584Wl6VMkuEgsLUs4iVPZ954farknMigc6gyqoXJr0w8UtlvRVP1jPip0-OTeYCvMKjnzZnTcdELKcLps1OOGmkEyVCouwFB6ksorI-cBcdL3LsIKSpmLYIbV9Lexy-VuK5bk43XpCb6TF_EaO3MxKF7dvRtNApRYy1Vsrz5kggtaDwEkr_pd0ELVF_9GUqhOFuthxsYF58wT9opizXryQWHtYnGLxLlsVmOF84QIssBX9kGTyGOIvlXclL7c3U15cz7VVe5qPCiwNAvAYknjrrQpOXeyYRKy8GpEtZEj7Hguz8TGQVEAYnIz83mXBToZTua4m7kQFfIxjkERdqXvXU4sSJ2Bgzjx-JPb9JXEjuzruc6lCuDycJ4rOwX6S1txPgJKSykJ9mlgPTLQPIkfBVvr0c1YUHGjs7btL-jc5NtPCJFV6-leszDEE6K0dQO7k6bjoX0E1DmJqFbGhvvlnpUT4viiGIfCI2FARh3Uw04jxLtwbt08e5YuQYoOXPJDVJHbgaTi0WTY2VGU5wg4Xyz1xSA64mceH4Q7mKAuiHLIpLvtHS7xk8U0T-TjONZR_gNXWRFsqCFx0yjCmsU8uGuhzxAPGLWI1mRLev5RTuaDzYUXRZ4CWA8KqgJl2G-Qc9gWYNhQ-Ocj7QVML-Xz4tnGl07dwEuw=w1696-h1064-no?authuser=0
+---
+
+<figure>
+
+[![](https://lh3.googleusercontent.com/vxlwtRioUNOTUL8qW5680OpyuTRPR584Wl6VMkuEgsLUs4iVPZ954farknMigc6gyqoXJr0w8UtlvRVP1jPip0-OTeYCvMKjnzZnTcdELKcLps1OOGmkEyVCouwFB6ksorI-cBcdL3LsIKSpmLYIbV9Lexy-VuK5bk43XpCb6TF_EaO3MxKF7dvRtNApRYy1Vsrz5kggtaDwEkr_pd0ELVF_9GUqhOFuthxsYF58wT9opizXryQWHtYnGLxLlsVmOF84QIssBX9kGTyGOIvlXclL7c3U15cz7VVe5qPCiwNAvAYknjrrQpOXeyYRKy8GpEtZEj7Hguz8TGQVEAYnIz83mXBToZTua4m7kQFfIxjkERdqXvXU4sSJ2Bgzjx-JPb9JXEjuzruc6lCuDycJ4rOwX6S1txPgJKSykJ9mlgPTLQPIkfBVvr0c1YUHGjs7btL-jc5NtPCJFV6-leszDEE6K0dQO7k6bjoX0E1DmJqFbGhvvlnpUT4viiGIfCI2FARh3Uw04jxLtwbt08e5YuQYoOXPJDVJHbgaTi0WTY2VGU5wg4Xyz1xSA64mceH4Q7mKAuiHLIpLvtHS7xk8U0T-TjONZR_gNXWRFsqCFx0yjCmsU8uGuhzxAPGLWI1mRLev5RTuaDzYUXRZ4CWA8KqgJl2G-Qc9gWYNhQ-Ocj7QVML-Xz4tnGl07dwEuw=w1696-h1064-no?authuser=0)](https://photos.app.goo.gl/xAKtXq8e4EmRvVfc8)
+
+<figcaption>
+
+Leica M6 - Agfa APX400 @800
+
+</figcaption>
+
+</figure>

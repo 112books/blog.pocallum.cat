@@ -1,0 +1,17 @@
+---
+title: "Ron Carter Golden Striker Trio"
+date: 2018-07-16
+slug: "ron-carter-golden-striker-trio"
+categories: 
+  - "leica-m4-2"
+author: "inuxbcn"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2018/07/HD282-011.jpg
+image: https://lh3.googleusercontent.com/uNH7S5Vedo7h_diggq0W8UsQYkURG2VhPQo5g-OUWDDzxChv7QHUKA-izPZ-5UEbzG8KOqZafONORFYcGgYTyfTWxlLv0xjgih2UKVnZ9s5Eggwr9MW29BxrGlJa7gO8dQqe3jr2GGP-16DAl1ydJXWb0cRB4dJCT6ff5sZJdd7EWfz-woWcgmGdmUgXFQAHPAt_VVdjaohFEY4uE_0VbdrSjWQmg7nhPOz5r6gp3mGwukdbASoTF-cuFBK28IDuDVNKud925wwOVQ8kIwkfVVspQJEow0ZpCPHwe16FTv7wA7-Am7xiqHUacaZBm6NR_YqU_qHWs3B9az3Ctm1fa0l3xegILfZ_r8M8TmFJh7MwEdwx93CCabsewsAvFzqM3SL2d6DeIN-rJpqel-6QxWc6W29JOIFRGBvnycW3jB6W9hM93_S8RKCSJi7F3ZiLYNayxVDCoJ8_HwMcO_DB3EakIC0kQAbJvhpWqnPPKHNfSpFj-g1a7E6FpwYWtkRJRoyGR5uO7mB2A8ZEsW09q8pDyxaa0ngaFw7MrgMutxBItJfUZNsjKwXOOMn9MsYuvjlUPmp96NVKZbekk7RN7wwrInWLNm4H-TTQVsTp=w1512-h1008-no
+---
+
+[![](https://lh3.googleusercontent.com/uNH7S5Vedo7h_diggq0W8UsQYkURG2VhPQo5g-OUWDDzxChv7QHUKA-izPZ-5UEbzG8KOqZafONORFYcGgYTyfTWxlLv0xjgih2UKVnZ9s5Eggwr9MW29BxrGlJa7gO8dQqe3jr2GGP-16DAl1ydJXWb0cRB4dJCT6ff5sZJdd7EWfz-woWcgmGdmUgXFQAHPAt_VVdjaohFEY4uE_0VbdrSjWQmg7nhPOz5r6gp3mGwukdbASoTF-cuFBK28IDuDVNKud925wwOVQ8kIwkfVVspQJEow0ZpCPHwe16FTv7wA7-Am7xiqHUacaZBm6NR_YqU_qHWs3B9az3Ctm1fa0l3xegILfZ_r8M8TmFJh7MwEdwx93CCabsewsAvFzqM3SL2d6DeIN-rJpqel-6QxWc6W29JOIFRGBvnycW3jB6W9hM93_S8RKCSJi7F3ZiLYNayxVDCoJ8_HwMcO_DB3EakIC0kQAbJvhpWqnPPKHNfSpFj-g1a7E6FpwYWtkRJRoyGR5uO7mB2A8ZEsW09q8pDyxaa0ngaFw7MrgMutxBItJfUZNsjKwXOOMn9MsYuvjlUPmp96NVKZbekk7RN7wwrInWLNm4H-TTQVsTp=w1512-h1008-no)](https://photos.app.goo.gl/FC4H1o112UeVm6Bp9)
+
+Una nit al Vijazz de Vilafranca del Penedès.
+
+HomeDev#282 - Leica M4-2 - Ilford PanF+ - Rodinal 1/50

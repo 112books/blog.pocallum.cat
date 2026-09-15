@@ -1,0 +1,23 @@
+---
+title: "LC-A+ Rollei RPX 400 - Fotos soltes"
+date: 2021-10-27
+slug: "lc-a-rollei-rpx-400-fotos-soltes"
+categories: 
+  - "lomography-lc-a"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2021/10/2021-10-26-LCA-RPX-021.jpg
+image: https://lh3.googleusercontent.com/18DWHiu1CDnCdLalM0om2S935qXBzBATHc1hPUaycIIoZx1VsVwR9UnuH1vlO01XGyEgrGKDzmL-UUl3Up9_PP0LlNVXusCXwvnyHOj_FxYdGgXT6VJv8Qny-RBhl6IlnfGXs6B2mC6En87aXjG491D0XiTxtYFqa6BuZZBT3IAUCzf9wmLtM-SMGaPjoiKW_SPigbcbDppXt1Y3xJWmM90E1CVio7Pj9fcCg-8zARoKNdU8mUP0Nx8DC6g7F1OKoKIYLOrsXp30qjFVTbH_O5ZfPKhpRVmrLo0AwZOZ7rWwKIt_MT7gwimjPWO9dL2mgk9_EA3eftK8NZi_nTIjlP7X8zfl9i21SDONxEXtKldnwhhCWeOGV-cFZ7MUdrhvJLl8MWlEgWtzL3v7TfLc-RBmInTVIs8cUaH4evp5FwbXzEOOvUMudrmfpG4nNSUZtp_YRZJrWuMGFgySPb-Xl4MS4j1E3yBs-Mr0jI87MBonkQikI4JQMXMGet2JwkdRclOBriOSJljLcMeu9EKSyFFPAvUFBkVD531jxNF9MQNsKkytsQDyg9ezzCvgkLOB3ERBWoKIrTOoC-IWOXtolCxDQBeQXfbS6Ni6MCNY7OurQjiPlsTaoXysZtgVeP4eRBFKVwrKrIYGAcMEVH5Do37zxlVTHKjwhOQMnk13xTkFU0N9XvEeCQWx4fMBnM-PVVVAml1XsNhnitbJ4SMFq8P4=w1764-h1095-no?authuser=0
+---
+
+<figure>
+
+[![](https://lh3.googleusercontent.com/18DWHiu1CDnCdLalM0om2S935qXBzBATHc1hPUaycIIoZx1VsVwR9UnuH1vlO01XGyEgrGKDzmL-UUl3Up9_PP0LlNVXusCXwvnyHOj_FxYdGgXT6VJv8Qny-RBhl6IlnfGXs6B2mC6En87aXjG491D0XiTxtYFqa6BuZZBT3IAUCzf9wmLtM-SMGaPjoiKW_SPigbcbDppXt1Y3xJWmM90E1CVio7Pj9fcCg-8zARoKNdU8mUP0Nx8DC6g7F1OKoKIYLOrsXp30qjFVTbH_O5ZfPKhpRVmrLo0AwZOZ7rWwKIt_MT7gwimjPWO9dL2mgk9_EA3eftK8NZi_nTIjlP7X8zfl9i21SDONxEXtKldnwhhCWeOGV-cFZ7MUdrhvJLl8MWlEgWtzL3v7TfLc-RBmInTVIs8cUaH4evp5FwbXzEOOvUMudrmfpG4nNSUZtp_YRZJrWuMGFgySPb-Xl4MS4j1E3yBs-Mr0jI87MBonkQikI4JQMXMGet2JwkdRclOBriOSJljLcMeu9EKSyFFPAvUFBkVD531jxNF9MQNsKkytsQDyg9ezzCvgkLOB3ERBWoKIrTOoC-IWOXtolCxDQBeQXfbS6Ni6MCNY7OurQjiPlsTaoXysZtgVeP4eRBFKVwrKrIYGAcMEVH5Do37zxlVTHKjwhOQMnk13xTkFU0N9XvEeCQWx4fMBnM-PVVVAml1XsNhnitbJ4SMFq8P4=w1764-h1095-no?authuser=0)](https://photos.app.goo.gl/JBoaYj7x8UA3fXR1A)
+
+<figcaption>
+
+2021-10-26 - Rollei RPX 400 - LC-A+ - Variades
+
+</figcaption>
+
+</figure>

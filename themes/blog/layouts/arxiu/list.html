@@ -1,0 +1,117 @@
+{{ define "main" }}
+{{ $posts := where .Site.RegularPages "Section" "posts" }}
+{{ if .Parent.IsHome }}
+{{/* ── /arxiu/ — túnel del temps ─────────────────────────────────────────── */}}
+{{ $abbrs := dict "1" "gen" "2" "feb" "3" "mar" "4" "abr" "5" "mai" "6" "jun" "7" "jul" "8" "ago" "9" "set" "10" "oct" "11" "nov" "12" "des" }}
+<header class="page-header">
+  <div class="container">
+    <p class="page-eyebrow">Des de desembre de 2010</p>
+    <h1 class="page-title">Arxiu</h1>
+    <p class="page-intro">El túnel del temps de la crònica: els anys, un darrere l&#39;altre.</p>
+  </div>
+</header>
+<div class="container">
+  <div class="tunel">
+    {{ range $posts.GroupByDate "2006" }}
+    {{ $year := .Key }}
+    {{ $primer := index .Pages 0 }}
+    {{ $mesos := dict }}
+    {{ range .Pages.GroupByDate "1" }}{{ $mesos = merge $mesos (dict .Key (printf "%d" (len .Pages))) }}{{ end }}
+    <section class="tunel__capa" aria-label="Arxiu de {{ $year }}">
+      <div class="tunel__cap">
+        <span class="{{ if $primer.Params.thumbnail }}tunel__any{{ else }}tunel__placeholder{{ end }}">{{ $year }}</span>
+        <span class="tunel__count">{{ len .Pages }} posts</span>
+      </div>
+      <div class="tunel__cos">
+        {{ if $primer.Params.thumbnail }}
+        <a class="tunel__foto" href="{{ "arxiu/" | relURL }}{{ $year }}/" aria-label="Obrir l&#39;arxiu de {{ $year }}">
+          <img src="{{ $primer.Params.thumbnail }}" alt="" loading="lazy">
+        </a>
+        {{ end }}
+        <ul class="tunel__mesos">
+          {{ range $i := seq 1 12 }}
+          {{ $num := printf "%d" $i }}
+          {{ $n := index $mesos $num }}
+          <li>
+            {{ if $n }}
+            <a class="tunel__mes" href="{{ printf "arxiu/%s/%02d/" $year $i | relURL }}">{{ index $abbrs $num }}<span class="tunel__mes-n">{{ $n }}</span></a>
+            {{ else }}
+            <span class="tunel__mes is-buit">{{ index $abbrs $num }}<span class="tunel__mes-n">0</span></span>
+            {{ end }}
+          </li>
+          {{ end }}
+        </ul>
+      </div>
+    </section>
+    {{ end }}
+  </div>
+</div>
+
+{{ else if .Parent.Parent.IsHome }}
+{{/* ── /arxiu/YYYY/ — un any ──────────────────────────────────────────────── */}}
+{{ $yearStr := .Date.Format "2006" }}
+{{ $yearPages := slice }}
+{{ range $posts.GroupByDate "2006" }}
+  {{ if eq .Key $yearStr }}{{ $yearPages = .Pages }}{{ end }}
+{{ end }}
+{{ $total := len $yearPages }}
+<header class="page-header">
+  <div class="container">
+    <p class="page-eyebrow"><a href="{{ "arxiu/" | relURL }}">Arxiu</a></p>
+    <h1 class="page-title">{{ $yearStr }}</h1>
+    <p class="page-intro">{{ $total }} posts</p>
+  </div>
+</header>
+<div class="arxiu-summary">
+  <div class="container">
+    {{ range $yearPages.GroupByDate "January" }}
+    {{ $monthNum := (index .Pages 0).Date.Format "01" }}
+    <div class="arxiu-group">
+      <a class="arxiu-month-title" href="{{ "arxiu/" | relURL }}{{ $yearStr }}/{{ $monthNum }}/">{{ partial "mes-cat.html" (index .Pages 0).Date }} · {{ len .Pages }}</a>
+      <ul class="arxiu-list">
+        {{ range .Pages }}
+        <li class="arxiu-item">
+          <time class="arxiu-item__date" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "02/01" }}</time>
+          <a class="arxiu-item__title" href="{{ .RelPermalink }}">{{ .Title }}</a>
+        </li>
+        {{ end }}
+      </ul>
+    </div>
+    {{ end }}
+  </div>
+</div>
+
+{{ else }}
+{{/* ── /arxiu/YYYY/MM/ — un mes ───────────────────────────────────────────── */}}
+{{ $yearStr  := .Date.Format "2006" }}
+{{ $monthStr := .Date.Format "1" }}
+{{ $monthPages := slice }}
+{{ range $posts.GroupByDate "2006" }}
+  {{ if eq .Key $yearStr }}
+    {{ range .Pages.GroupByDate "1" }}
+      {{ if eq .Key $monthStr }}{{ $monthPages = .Pages }}{{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+{{ $total := len $monthPages }}
+<header class="page-header">
+  <div class="container">
+    <p class="page-eyebrow"><a href="{{ "arxiu/" | relURL }}">Arxiu</a> · <a href="{{ printf "arxiu/%s/" $yearStr | relURL }}">{{ $yearStr }}</a></p>
+    <h1 class="page-title">{{ partial "mes-cat.html" .Date }} de {{ $yearStr }}</h1>
+    <p class="page-intro">{{ $total }} {{ if eq $total 1 }}post{{ else }}posts{{ end }}</p>
+  </div>
+</header>
+<div class="arxiu-summary">
+  <div class="container">
+    <ul class="arxiu-list">
+      {{ range $monthPages }}
+      <li class="arxiu-item">
+        <time class="arxiu-item__date" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "02/01" }}</time>
+        <a class="arxiu-item__title" href="{{ .RelPermalink }}">{{ .Title }}</a>
+      </li>
+      {{ end }}
+    </ul>
+  </div>
+</div>
+{{ end }}
+{{ end }}

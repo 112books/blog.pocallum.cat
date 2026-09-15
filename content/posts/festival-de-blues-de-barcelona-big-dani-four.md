@@ -1,0 +1,23 @@
+---
+title: "Festival de Blues de Barcelona - Big Dani Four"
+date: 2020-07-02
+slug: "festival-de-blues-de-barcelona-big-dani-four"
+categories: 
+  - "leica-m6"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2020/07/2020-07-01-a-004.jpg
+image: https://lh3.googleusercontent.com/tjPaxSpdgh-pOgtSX1mB7GL_v4UYi6V1TMuGHQV0kwRNzh5tWwLaH0Mg5Q6Jbth3r7B7BDa5DOjXCQSjYQfyYc02GTxFOXTM3jK5U9XrsF7dW1F30KORaHgTp8R1z3Eq-rvNqXycQXj1fRlM-WQIhxGbTQVOjuAcd06RI6GMYxrEapKo70kovzweX2KEzNPQJ1Q1sx63bQ5A_qG9qClhhCcytyAUeeW1WsT6r3EXp44oN5nzvljGhi78I3QO4Wb77WERp1RSnh7lNp1S3bJGwMV1WQ-1lR1AaLMDGh_CA73L0gNt1Pa6meCbpXYrTT_O3olQJzbvoWrUAXmatlEdcKQRch01lKPJaX145HwqNEKNRLdpgLvUigawCrNPtBanzrJ_FQzs9AdMWDGTnezF8zR12nM2ZhunoWA6X9C4XcCJnw8T-55et_zg3U6JveVxQo4S8xzozyEn9-8SDVyA21gKmQ9ZuTTuLnJd6ZhTB2-dlk3gBt1gbmEv8nvIThf84IZiTBptHAe51rH7tuH5f_95E9RMiPEmtuSVwfxUbHEfIXi3DzGs6iipov1iveFh8iJSxHNr7NlcKTzvUgf2786wAbBqI7bQv0dL6d5GMYwJeVKS5lrr3PhCMXbkjoG-Q4Qqx8RejkveSmxGpFQ14lD9UnqzPJ9IJ-Tq5j4CqcoMBVT5mG7VCRrZeq6NKA=w1336-h803-no?authuser=0
+---
+
+<figure>
+
+[![](https://lh3.googleusercontent.com/tjPaxSpdgh-pOgtSX1mB7GL_v4UYi6V1TMuGHQV0kwRNzh5tWwLaH0Mg5Q6Jbth3r7B7BDa5DOjXCQSjYQfyYc02GTxFOXTM3jK5U9XrsF7dW1F30KORaHgTp8R1z3Eq-rvNqXycQXj1fRlM-WQIhxGbTQVOjuAcd06RI6GMYxrEapKo70kovzweX2KEzNPQJ1Q1sx63bQ5A_qG9qClhhCcytyAUeeW1WsT6r3EXp44oN5nzvljGhi78I3QO4Wb77WERp1RSnh7lNp1S3bJGwMV1WQ-1lR1AaLMDGh_CA73L0gNt1Pa6meCbpXYrTT_O3olQJzbvoWrUAXmatlEdcKQRch01lKPJaX145HwqNEKNRLdpgLvUigawCrNPtBanzrJ_FQzs9AdMWDGTnezF8zR12nM2ZhunoWA6X9C4XcCJnw8T-55et_zg3U6JveVxQo4S8xzozyEn9-8SDVyA21gKmQ9ZuTTuLnJd6ZhTB2-dlk3gBt1gbmEv8nvIThf84IZiTBptHAe51rH7tuH5f_95E9RMiPEmtuSVwfxUbHEfIXi3DzGs6iipov1iveFh8iJSxHNr7NlcKTzvUgf2786wAbBqI7bQv0dL6d5GMYwJeVKS5lrr3PhCMXbkjoG-Q4Qqx8RejkveSmxGpFQ14lD9UnqzPJ9IJ-Tq5j4CqcoMBVT5mG7VCRrZeq6NKA=w1336-h803-no?authuser=0)](https://photos.app.goo.gl/DtLALBLAbUqLjo8Y7)
+
+<figcaption>
+
+Leica M6 - Agfa APX400
+
+</figcaption>
+
+</figure>

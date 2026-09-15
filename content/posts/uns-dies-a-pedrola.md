@@ -1,0 +1,23 @@
+---
+title: "Uns dies a Pedrola"
+date: 2020-08-11
+slug: "uns-dies-a-pedrola"
+categories: 
+  - "leica-m6"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2020/08/2020-87-05-B-006.jpg
+image: https://lh3.googleusercontent.com/GX2PLPoTF_cidWGWex8RWOingbvvkJ98VGiGdh8GmnacimT-JRbDJ-v-8rdBjXT_mOkPddkJmsO8L1f_dAFcloims7kpBgmR0LdInHZo5i-VvPrLHKlFr5EmXKSBI0Vi4GC30fJ4yzwaAucfQlSpb69naArLzD4Saw27qFY_wuH0zxSHzOMxghyrdkflg13_jsqLDhmJaEtl6sw3CMx9qn4DeIRo9Xg86qYJAvkoAVnirCXlQKfMossTO7jkqh88jL87_GPdmT8bIO5mPDcbeorA9KzH-SVUHbDadFGUuRa0aSmHIVYDqAUBVMYD614zZS212hTYlZd53Ck3QJnOwB_NgaRKaIun2T7O1CBUAwXc_n-d2VslcuLuI2M7py0ZAY7i504DgKMhY2I3enNQfmC7F_SSeMhFme-WQa2b_7qG3-UZ8q_Qo881BWfUDE7n8-VvmeKjZM4a_XNClCgvHdPmnJOVMjAipUxyeZlTyM6C2orrd5JibO3ArTxdAuScfR0uKDoYhENVhPwZOkh7CwsoGmJUFEFEl8Cbulmk-8S0lMqjRvhS5XWI109XF8AN1kWFS3K9Hr7cE-ASIvUnf66lbMqPvSEihj8w9uSawypa4DjRaPEI6SdhB4OndJFtgJwlk92SfXQ44N_SOWiTaI2oJ9OJZx3yfdepdHUBFiuJOAdFGLuglsk1akhgjQ=w1336-h831-no?authuser=0
+---
+
+<figure>
+
+[![](https://lh3.googleusercontent.com/GX2PLPoTF_cidWGWex8RWOingbvvkJ98VGiGdh8GmnacimT-JRbDJ-v-8rdBjXT_mOkPddkJmsO8L1f_dAFcloims7kpBgmR0LdInHZo5i-VvPrLHKlFr5EmXKSBI0Vi4GC30fJ4yzwaAucfQlSpb69naArLzD4Saw27qFY_wuH0zxSHzOMxghyrdkflg13_jsqLDhmJaEtl6sw3CMx9qn4DeIRo9Xg86qYJAvkoAVnirCXlQKfMossTO7jkqh88jL87_GPdmT8bIO5mPDcbeorA9KzH-SVUHbDadFGUuRa0aSmHIVYDqAUBVMYD614zZS212hTYlZd53Ck3QJnOwB_NgaRKaIun2T7O1CBUAwXc_n-d2VslcuLuI2M7py0ZAY7i504DgKMhY2I3enNQfmC7F_SSeMhFme-WQa2b_7qG3-UZ8q_Qo881BWfUDE7n8-VvmeKjZM4a_XNClCgvHdPmnJOVMjAipUxyeZlTyM6C2orrd5JibO3ArTxdAuScfR0uKDoYhENVhPwZOkh7CwsoGmJUFEFEl8Cbulmk-8S0lMqjRvhS5XWI109XF8AN1kWFS3K9Hr7cE-ASIvUnf66lbMqPvSEihj8w9uSawypa4DjRaPEI6SdhB4OndJFtgJwlk92SfXQ44N_SOWiTaI2oJ9OJZx3yfdepdHUBFiuJOAdFGLuglsk1akhgjQ=w1336-h831-no?authuser=0)](https://photos.app.goo.gl/d32iAYMEVQkXnPKA8)
+
+<figcaption>
+
+2020-08-05 - A/B - Leica M6 - Voigtlander 35mmf/1.7 - APX100
+
+</figcaption>
+
+</figure>

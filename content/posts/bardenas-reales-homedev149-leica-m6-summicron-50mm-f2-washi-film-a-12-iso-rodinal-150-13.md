@@ -1,0 +1,14 @@
+---
+title: "Bardenas Reales (HomeDev#149 - Leica M6 - Summicron 50mm f/2 - Washi film A 12 ISO - Rodinal 1/50 13')"
+date: 2017-08-21
+slug: "bardenas-reales-homedev149-leica-m6-summicron-50mm-f2-washi-film-a-12-iso-rodinal-150-13"
+categories: 
+  - "leica-m6"
+  - "leica-summicron-m-50mmf-2-0"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2017/08/HD149-012.jpg
+image: https://lh3.googleusercontent.com/96GvyiEAtZY6WCxRzJ9yRLJd5uKF6pTSnBhJjS3ClX9Xg3vecP8vxX1Jr4BjkzeSohrC5s4HgTqgji2X6bxTetYiKHK1hzhlN5xehgnMzDHOnG6ZsMtvA_kt9i59rXS9rg5vEiAQTSkPsDWpYsFAixXkyqVUw0Ao4Tq1MStpBkX86ieSRJFI136CNMnzAx1Gjd2cGwyUkXUyLuI9PDAoeaQJSxIVRiblvlL533bgmaW47Brhww2z5c61dS8kUY9Op_pAWJQ8UAWvPuU9H_IfvnFnjzRQ4LvuSC0A-44tUwJIX7jetnN2Zm_P1yNzsoJC0kSJ7NG6P7DxTYh9rRppEK-qAWvvtT2Ce4LTqfb0ReoBIouCv-YTS_Kjjr5TgxHNEhPIGhWXcp_J6-kcYB0RderrulxejwMNGawGJSuwEG0UUjXyjR5tPU_ZZYeMhSAi_ax3o0LF0xAspAuCaXg3qTARNE8tGk8tfwuhi5oYAx4zxN49NEQ_Us0_LDafUTvVZ0r66fuO7QRkBoU4o2rdiR9Z7fkmWKd6Hlj1v0dAaWrnl4QL7OmYBYWMc2YBi7PCmI1ixfKloUBQD5Es1tbZZ6CTjiVJYYzi7Is5EJYQZHdUshNxgcAF4Q=w1367-h897-no
+---
+
+[![](https://lh3.googleusercontent.com/96GvyiEAtZY6WCxRzJ9yRLJd5uKF6pTSnBhJjS3ClX9Xg3vecP8vxX1Jr4BjkzeSohrC5s4HgTqgji2X6bxTetYiKHK1hzhlN5xehgnMzDHOnG6ZsMtvA_kt9i59rXS9rg5vEiAQTSkPsDWpYsFAixXkyqVUw0Ao4Tq1MStpBkX86ieSRJFI136CNMnzAx1Gjd2cGwyUkXUyLuI9PDAoeaQJSxIVRiblvlL533bgmaW47Brhww2z5c61dS8kUY9Op_pAWJQ8UAWvPuU9H_IfvnFnjzRQ4LvuSC0A-44tUwJIX7jetnN2Zm_P1yNzsoJC0kSJ7NG6P7DxTYh9rRppEK-qAWvvtT2Ce4LTqfb0ReoBIouCv-YTS_Kjjr5TgxHNEhPIGhWXcp_J6-kcYB0RderrulxejwMNGawGJSuwEG0UUjXyjR5tPU_ZZYeMhSAi_ax3o0LF0xAspAuCaXg3qTARNE8tGk8tfwuhi5oYAx4zxN49NEQ_Us0_LDafUTvVZ0r66fuO7QRkBoU4o2rdiR9Z7fkmWKd6Hlj1v0dAaWrnl4QL7OmYBYWMc2YBi7PCmI1ixfKloUBQD5Es1tbZZ6CTjiVJYYzi7Is5EJYQZHdUshNxgcAF4Q=w1367-h897-no)](https://goo.gl/photos/JrepkzbyDbRirLCD6)

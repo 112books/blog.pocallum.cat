@@ -1,0 +1,23 @@
+---
+title: "2021-11-20 - Raimundo Amador a l'Apolo"
+date: 2021-11-22
+slug: "2021-11-20-raimundo-amador-a-lapolo"
+categories: 
+  - "leica-m6"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2021/11/2021-11-20-R.Amador-036.jpg
+image: https://lh3.googleusercontent.com/iNYGCF8AERtC-6mZoiqcn1Ue63Z16Dvdh4_ennP8h2zrH5UK2L06LvoIRPynM9EeuZXIXpWQp21q9lBkZnz6Ax8kZO-cKZMl25L2qDWpFbECBYN4tt-1rQJkIqyS_GQRPvwDaEtd8zJTWTfQxsTIAp4jNVGmopzYZzqkbOhfBQeqvuCKi6qfOIXg46mBUhRc2gRVgrABNQKrk726lpV7VAfVI2GhnVnfvqHV1a4Jrjk8RLS5G4qsnhpRYu8JbAuMkhddrwHsFdIND1JIFwLmSCVvM68jpQ432ze1bZvVGgmIu8LwYQj8jrEqRh2Nl6ztc2us__DrgIa41AGShNYnzFaki5cq0MT1spJ5Qv57F-djLG20GZ5HaWBkl4sbpUNxPwHLtEIU_-I3Z-rSc3W7u7FO70iGeu7NAAXKbEiJ86U1ODgCVkNKEm3i89UP0qjwN1iUR-gX8PFHUG-fGIz5RIUAFIPZ0wD_pXN27O7jYZHwj5-TCvkeZD_7Lm1X_8fsl3ZXqEXn-aYawtN9FrTICJlyEwAqeauRaBiJx3HNdJfJSPq_xuhOtOkJ0x8Iak1Jr1txqUmQoFUvIsK_DkpgYM4xQiEvP7_c13rH3KqJ9JDV9aVLzr8rKPHjkIB6reJ1fa7RQYbxnFkFHwrusmRi7IUJxxJCnL1EBwdz-AlTzGf6JBK_WpnSKkfby2Ahir9q7oO6_9rBF_QCa86hmwaq8a1R=w1764-h1113-no?authuser=0
+---
+
+<figure>
+
+[![](https://lh3.googleusercontent.com/iNYGCF8AERtC-6mZoiqcn1Ue63Z16Dvdh4_ennP8h2zrH5UK2L06LvoIRPynM9EeuZXIXpWQp21q9lBkZnz6Ax8kZO-cKZMl25L2qDWpFbECBYN4tt-1rQJkIqyS_GQRPvwDaEtd8zJTWTfQxsTIAp4jNVGmopzYZzqkbOhfBQeqvuCKi6qfOIXg46mBUhRc2gRVgrABNQKrk726lpV7VAfVI2GhnVnfvqHV1a4Jrjk8RLS5G4qsnhpRYu8JbAuMkhddrwHsFdIND1JIFwLmSCVvM68jpQ432ze1bZvVGgmIu8LwYQj8jrEqRh2Nl6ztc2us__DrgIa41AGShNYnzFaki5cq0MT1spJ5Qv57F-djLG20GZ5HaWBkl4sbpUNxPwHLtEIU_-I3Z-rSc3W7u7FO70iGeu7NAAXKbEiJ86U1ODgCVkNKEm3i89UP0qjwN1iUR-gX8PFHUG-fGIz5RIUAFIPZ0wD_pXN27O7jYZHwj5-TCvkeZD_7Lm1X_8fsl3ZXqEXn-aYawtN9FrTICJlyEwAqeauRaBiJx3HNdJfJSPq_xuhOtOkJ0x8Iak1Jr1txqUmQoFUvIsK_DkpgYM4xQiEvP7_c13rH3KqJ9JDV9aVLzr8rKPHjkIB6reJ1fa7RQYbxnFkFHwrusmRi7IUJxxJCnL1EBwdz-AlTzGf6JBK_WpnSKkfby2Ahir9q7oO6_9rBF_QCa86hmwaq8a1R=w1764-h1113-no?authuser=0)](https://photos.app.goo.gl/m6CkMZYcrCaZnEmD9)
+
+<figcaption>
+
+Leica M6 - Voigtlander 35f/1.7 - Rollei RPX 400 @1600
+
+</figcaption>
+
+</figure>

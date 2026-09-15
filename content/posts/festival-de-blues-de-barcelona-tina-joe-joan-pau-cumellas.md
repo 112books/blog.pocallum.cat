@@ -1,0 +1,14 @@
+---
+title: "Festival de Blues de Barcelona – Tina & Joe & Joan Pau Cumellas"
+date: 2020-07-03
+slug: "festival-de-blues-de-barcelona-tina-joe-joan-pau-cumellas"
+categories: 
+  - "camara"
+  - "leica-d-lux-6"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2020/07/Captura-de-pantalla-2024-11-14-a-les-11.09.55.png
+image: https://lh3.googleusercontent.com/mDrxrhIno3vzh35KDXue5EDI5Mzr5ozNghOtefmusW3V8v2L4_2bj9JwXfPq4V37xS4EVgOM-2Nx93KK_GWS-gS90aabcVpOxQSngB7m3hMcXU__ChXtY--a-APWsVit6L1ak3T5-x69-DcRCfiQKG1UTTJE3s4SNiLITJOHHZuSqi0sInZxnSVJaz1hCBBAX6cw2Wj2tDV6Yy7uzXfJvJqUXLj_tWw_qMHdaNhMW708SEgPxOUT_FDkjJOzmUr91An2ppFxJRCEp7xDmCBiITM7pfaxlfdQ7TQF3i2oV_bKK1bk-6ALioqBpe084zm7JvQUPaKFTivOAajedToH2rWGRUNQkhts4xJ4M6tkdqZ2Q9lxEYra5mfogF8QUlXenV6nDpdG861okfHpYSY7KJ0oOehdksL0kL3Uu2dUUvEDZa2yD7s3VzFOsX3g6BNNFYO4IPTWsnS-jQ-rMRSvH7dVoMLAO-A2a_AMDW-pQibk_xMGMU-bLzQSu4eljn_F7o_W5v0TzX1DgqCvWqn7wbw7VhxLIWbDFR7qK0_737p90UXTl1DWWvv0hmfbdwqCYqRAdlTfgA0X-OfL92sMMNNhVvaVrT0iaftSmWMLI2wCuau7Z6HSr93BdM2idMCqFSgk-GIF_qcAWieR-PnvkZ9omrgMIDG0lUOqqu4MnlJK9Lrd0JybrIM7KPvH6g=w1336-h752-no?authuser=0
+---
+
+[![](https://lh3.googleusercontent.com/mDrxrhIno3vzh35KDXue5EDI5Mzr5ozNghOtefmusW3V8v2L4_2bj9JwXfPq4V37xS4EVgOM-2Nx93KK_GWS-gS90aabcVpOxQSngB7m3hMcXU__ChXtY--a-APWsVit6L1ak3T5-x69-DcRCfiQKG1UTTJE3s4SNiLITJOHHZuSqi0sInZxnSVJaz1hCBBAX6cw2Wj2tDV6Yy7uzXfJvJqUXLj_tWw_qMHdaNhMW708SEgPxOUT_FDkjJOzmUr91An2ppFxJRCEp7xDmCBiITM7pfaxlfdQ7TQF3i2oV_bKK1bk-6ALioqBpe084zm7JvQUPaKFTivOAajedToH2rWGRUNQkhts4xJ4M6tkdqZ2Q9lxEYra5mfogF8QUlXenV6nDpdG861okfHpYSY7KJ0oOehdksL0kL3Uu2dUUvEDZa2yD7s3VzFOsX3g6BNNFYO4IPTWsnS-jQ-rMRSvH7dVoMLAO-A2a_AMDW-pQibk_xMGMU-bLzQSu4eljn_F7o_W5v0TzX1DgqCvWqn7wbw7VhxLIWbDFR7qK0_737p90UXTl1DWWvv0hmfbdwqCYqRAdlTfgA0X-OfL92sMMNNhVvaVrT0iaftSmWMLI2wCuau7Z6HSr93BdM2idMCqFSgk-GIF_qcAWieR-PnvkZ9omrgMIDG0lUOqqu4MnlJK9Lrd0JybrIM7KPvH6g=w1336-h752-no?authuser=0)](https://photos.app.goo.gl/4RuuRbcvcpLuKVXw8)

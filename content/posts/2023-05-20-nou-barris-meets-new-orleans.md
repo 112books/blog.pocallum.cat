@@ -1,0 +1,18 @@
+---
+title: "2023-05-20 - Nou Barris meets New Orleans"
+date: 2023-05-21
+slug: "2023-05-20-nou-barris-meets-new-orleans"
+categories: 
+  - "fuji-x-pro1"
+  - "iphone"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2023/05/DSF0999.jpg
+image: https://lh3.googleusercontent.com/Y-x_1cJgb4Ixc5_98iRwqMsPPs_nZ1yFNru2DlUA0djNmO12g0m89qptHed-MuLEyp552yOBd3pH1D7yQDjy6_MR6TVq7OVwqjsftv51AXiRmonLh_ix2r4HIl5NXYnE7kfoml88595pqsLEEMFtgRZJH_pG_N8cHWToHPLSBZn6HpjZNXmEd1theV0sDsWK5-P_DOT3c27QWiI_26upr13oRW2qKeLGwW5Tv7IwIkFtWkyOFAY4Q_csbUfGuW5IEA168AW91mSHTIGq7AO-Vkn7BMGSkI0LpvJdQa_RFfFLAxySGK5BpcLzO432dFw3wv1FyM-QI1L2Em2Z3LNWtNUc3dhjMvMbYJuB6KMugi0z1xiDyULyzzA4IgiaHp4QcbMI20aTXDBvn2vrI4hhUdoBqRnG2hF0Xo_akItHp3dKx3by77ISsaaoQA8a8PLBPizsIowkFmAyNuMDD_fHS6YMEDf6vOuZIOSxRd5eplW03qm57AJuigVPGnuhXfnkremjojLatE_eBF3f2_UnoHIfa-w-Tqh5EpRN0dI3iYK-N4YYlETgcmwqs6IJTLtfk31k1xcNnwYyetw3JZ_QTSJ3ABcHWef2KBz4HN3GpagxQq252aWh2ZkqUYJctrzb5WD0ctq5b4siQnLGlPKMed_YgR0BctrtPYI9ZQl2JVgdMytMk2wuv3FxSWC1NzHXdrq-sdPiAYedkJaoId7ZEtlCouQnSxlAqNNM-yRiwVrogqckI8M4gACeCRqism9rni2_hHB3FQj8ep5rEGuHU5huVtZEjelnbSuEFQbYxH4JwcyPUti1De8R_I1P5uNL9NhLVfULN6HrTP8c1xZydhvPGcPlnEiolRmjIri1wCrYIVeLdjGfqcgbauplpgTClei7B6ssMdhGg8WcCl0_zic6chIpBuIOrqlr0Dy1MGo1Cw=w1374-h916-s-no?authuser=0
+---
+
+[![](https://lh3.googleusercontent.com/Y-x_1cJgb4Ixc5_98iRwqMsPPs_nZ1yFNru2DlUA0djNmO12g0m89qptHed-MuLEyp552yOBd3pH1D7yQDjy6_MR6TVq7OVwqjsftv51AXiRmonLh_ix2r4HIl5NXYnE7kfoml88595pqsLEEMFtgRZJH_pG_N8cHWToHPLSBZn6HpjZNXmEd1theV0sDsWK5-P_DOT3c27QWiI_26upr13oRW2qKeLGwW5Tv7IwIkFtWkyOFAY4Q_csbUfGuW5IEA168AW91mSHTIGq7AO-Vkn7BMGSkI0LpvJdQa_RFfFLAxySGK5BpcLzO432dFw3wv1FyM-QI1L2Em2Z3LNWtNUc3dhjMvMbYJuB6KMugi0z1xiDyULyzzA4IgiaHp4QcbMI20aTXDBvn2vrI4hhUdoBqRnG2hF0Xo_akItHp3dKx3by77ISsaaoQA8a8PLBPizsIowkFmAyNuMDD_fHS6YMEDf6vOuZIOSxRd5eplW03qm57AJuigVPGnuhXfnkremjojLatE_eBF3f2_UnoHIfa-w-Tqh5EpRN0dI3iYK-N4YYlETgcmwqs6IJTLtfk31k1xcNnwYyetw3JZ_QTSJ3ABcHWef2KBz4HN3GpagxQq252aWh2ZkqUYJctrzb5WD0ctq5b4siQnLGlPKMed_YgR0BctrtPYI9ZQl2JVgdMytMk2wuv3FxSWC1NzHXdrq-sdPiAYedkJaoId7ZEtlCouQnSxlAqNNM-yRiwVrogqckI8M4gACeCRqism9rni2_hHB3FQj8ep5rEGuHU5huVtZEjelnbSuEFQbYxH4JwcyPUti1De8R_I1P5uNL9NhLVfULN6HrTP8c1xZydhvPGcPlnEiolRmjIri1wCrYIVeLdjGfqcgbauplpgTClei7B6ssMdhGg8WcCl0_zic6chIpBuIOrqlr0Dy1MGo1Cw=w1374-h916-s-no?authuser=0)](https://photos.app.goo.gl/QCZjqtzfKtdixeoZA)
+
+En aquesta quarta edició, amenaçada i minvada per la pluja, la festa "_Nou Barris meets New Orleans_" ha tingut. Així i tot, un munt d'esdeveniments i tots molt guapos. Jo només he pogut passar per la Rua amb "Zebrass" pel barri i al vespre el fantàstic concert de "_The Big Easy's Crew_" a l'Ateneu Popular de Nou Barris. Una efímera formació que barreja músics de diferents bandes i estils. Aquí una petita mostra del concert:
+
+https://player.vimeo.com/video/828671103?h=bb2617a378&badge=0&autopause=0&player\_id=0&app\_id=58479

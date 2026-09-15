@@ -1,0 +1,16 @@
+---
+title: "HomeDev#168 - Hasselblad 500 CM - 50mm - Rollei RPX 25 - Badenas Reales"
+date: 2017-12-11
+slug: "homedev168-hasselblad-500-cm-50mm-rollei-rpx-25-badenas-reales"
+categories: 
+  - "carl-zeis-distagon-50mm-f-4"
+  - "hasselblad-500cm"
+author: "inuxbcn"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2017/12/HD168-007.jpg
+image: https://lh3.googleusercontent.com/eaLFtfCkWAzaK358u54xF4IsNDl5rfRD16bFE-e6fQfCPWOmZLKI8BMRxCT_nDxdCPOOz6yLM4V1-ckq0Sxy-hJUOGT8d1JCvlU4sBl6exkXpCx2nRO8RhGNdZLtzkOC0w3WcLMp8mGoublGV4Eu7Htb4S2v3Cq-PUOd0A6hUZWlPrN56VGKm7SzMTUhix3dTPD4WEK3EB6mH43BUnysmGal-5mhXohoQ1z7XGREdzM29j9utK8jZKHh0yoh7xnBlI2mJd5azVYv13vq0DHCe8Bm0w990J6Jq-7Egmr2RxJ1MyW9VHU9uSTPNbIgUynDQd_WZIDouG2X5yzIa8bcLI2N-g6XUPOc5VOu_lRFLuEjYK93aHwxKxea2rkU1rgb7uLpnHBzL48ZaJ7epTYT44vHB2sax_fdQgq_CsWHO1ra8xwxlk5ghnVvpOiakMwAT1-6C2rguK-18OjeFeEUbxfNGKKTaKYJPmMBtHMdO613eDZCT4TUuxdNDbM4u3kW7YpqN1-vKLPVMSNZKkT4WtJX3v1RXg3owKgUDz9A4nKq5sCgtJBQRspYO16pify2mGg8QME9jFlmqVYQgdV-sgKBPMHlQkW0gyVZN250-rU=s1323-no
+---
+
+[![](https://lh3.googleusercontent.com/eaLFtfCkWAzaK358u54xF4IsNDl5rfRD16bFE-e6fQfCPWOmZLKI8BMRxCT_nDxdCPOOz6yLM4V1-ckq0Sxy-hJUOGT8d1JCvlU4sBl6exkXpCx2nRO8RhGNdZLtzkOC0w3WcLMp8mGoublGV4Eu7Htb4S2v3Cq-PUOd0A6hUZWlPrN56VGKm7SzMTUhix3dTPD4WEK3EB6mH43BUnysmGal-5mhXohoQ1z7XGREdzM29j9utK8jZKHh0yoh7xnBlI2mJd5azVYv13vq0DHCe8Bm0w990J6Jq-7Egmr2RxJ1MyW9VHU9uSTPNbIgUynDQd_WZIDouG2X5yzIa8bcLI2N-g6XUPOc5VOu_lRFLuEjYK93aHwxKxea2rkU1rgb7uLpnHBzL48ZaJ7epTYT44vHB2sax_fdQgq_CsWHO1ra8xwxlk5ghnVvpOiakMwAT1-6C2rguK-18OjeFeEUbxfNGKKTaKYJPmMBtHMdO613eDZCT4TUuxdNDbM4u3kW7YpqN1-vKLPVMSNZKkT4WtJX3v1RXg3owKgUDz9A4nKq5sCgtJBQRspYO16pify2mGg8QME9jFlmqVYQgdV-sgKBPMHlQkW0gyVZN250-rU=s1323-no)](https://photos.app.goo.gl/YssEisSiOXdvIpjK2)
+
+Provant per primer cop la pel·lícula Rollei RPX d'ISO 25 a les Bardenas Reales, a Navarra. Càmera Hasselblad 500CM

@@ -1,0 +1,25 @@
+---
+title: "2021-10-10 - Sant Feliu de Pallerols"
+date: 2021-10-13
+slug: "2021-10-10-sant-feliu-de-pallerols"
+categories: 
+  - "leica-m6"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2021/10/2021-10-10b-St.-Feliu-031.jpg
+image: https://lh3.googleusercontent.com/P7rwID7cAmBLPvswQT2sGAzeOnrMSj_uq5TGAycWl_l1BeiH3dix0RW3tTZ02aev0b9pUAarYXUK8vjFPZrdet6nlvPPPobE8ghGcEfajDQ3AtMcFPESZ8i0hz9PuA_8HPsQfAeGoq4FuivhPrVedSNmBKSSdsHL2gxvIE5I-5J3qyXtS8IATxznY-J-1iaQPV4wlEcIL41aiKJI8waOt3Tb6d6vcIjXAwPzv05iVt8ok1ze0OmYYN4w2b4CGCcfIWxNY8Y6Bv3YyLshGJAguGy8m-NsNzwQfPJzXDDun0gK4Jt4l-7gpykrs6nsiAOYP4ZP32chTCdCAqxU8IJX8wqnfi4whyCa8g8JwzsGaTpto9WOXhleal0XPpfoVY02fHa8EznRGyZIh9O1k9AHXe7kiEO8kqih1lOfl-MUFfOWRMslBbSoXHK1ee0l_5wvitLhB0JiQhU3NXISFfwyS4UQ3D6GVwBeEooh9RbwrHU2TupL8_w_4qBbWLcyFQa27ZjO9DtZr1vRfyZNOF-HXDSNNVahXTWY-yNolSgxB_2K65YshWhuT9DnQboHZCSnli-NOTNj9kmuglKXSMURLex37l9_-Pr65JaJu510LXgTpRt_wLkTYAM6Ia0M20gulE_HwZxorI0vMHXWc2xsRqCSAGOfPNzmtr9S9YXIx9FRD-fVpR9G-gBhs2UwLkiTaRHhjj_ePJJycon29J9Jo-kd=w1989-h1223-no?authuser=0
+---
+
+<figure>
+
+[![](https://lh3.googleusercontent.com/P7rwID7cAmBLPvswQT2sGAzeOnrMSj_uq5TGAycWl_l1BeiH3dix0RW3tTZ02aev0b9pUAarYXUK8vjFPZrdet6nlvPPPobE8ghGcEfajDQ3AtMcFPESZ8i0hz9PuA_8HPsQfAeGoq4FuivhPrVedSNmBKSSdsHL2gxvIE5I-5J3qyXtS8IATxznY-J-1iaQPV4wlEcIL41aiKJI8waOt3Tb6d6vcIjXAwPzv05iVt8ok1ze0OmYYN4w2b4CGCcfIWxNY8Y6Bv3YyLshGJAguGy8m-NsNzwQfPJzXDDun0gK4Jt4l-7gpykrs6nsiAOYP4ZP32chTCdCAqxU8IJX8wqnfi4whyCa8g8JwzsGaTpto9WOXhleal0XPpfoVY02fHa8EznRGyZIh9O1k9AHXe7kiEO8kqih1lOfl-MUFfOWRMslBbSoXHK1ee0l_5wvitLhB0JiQhU3NXISFfwyS4UQ3D6GVwBeEooh9RbwrHU2TupL8_w_4qBbWLcyFQa27ZjO9DtZr1vRfyZNOF-HXDSNNVahXTWY-yNolSgxB_2K65YshWhuT9DnQboHZCSnli-NOTNj9kmuglKXSMURLex37l9_-Pr65JaJu510LXgTpRt_wLkTYAM6Ia0M20gulE_HwZxorI0vMHXWc2xsRqCSAGOfPNzmtr9S9YXIx9FRD-fVpR9G-gBhs2UwLkiTaRHhjj_ePJJycon29J9Jo-kd=w1989-h1223-no?authuser=0)](https://photos.app.goo.gl/qCqEEeZqo94Xpmj16)
+
+<figcaption>
+
+Leica M6 - Voigtlander 35/f1.7 - Rollei RPX 400
+
+</figcaption>
+
+</figure>
+
+Escapada a Sant Feliu de Pallerols i contorns.

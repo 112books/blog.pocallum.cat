@@ -1,0 +1,13 @@
+---
+title: "HomeDev#256 - Leica M4-2 - Argenti Nanotromic-X ISO-32 @25 Rodinal 1-200 - 60minuts"
+date: 2018-07-01
+slug: "homedev256-leica-m4-2-argenti-nanotromic-x-iso-32-25-rodinal-1-200-60minuts"
+categories: 
+  - "leica-m4-2"
+author: "inuxbcn"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2018/07/HD254-019.jpg
+image: https://lh3.googleusercontent.com/gOBCVVjnHb4ddWKGrAi1hYWTqXCKycLQBQZd1Fbe33g73KcsYjL0RXRKVHcXv80kD3W0RVnc_qHjJ_DcVRa8cxm7VdBr5RAUCv5I4nI7pARjX3EpMNk1Zl5RSHyDDz1NOyqLblr_R4VCi6HYwgOrB135uM7sG4dRCkaem1IuSOokFv7IjbraI91dSMBwsqLqq4qOzT4RAMCw3ZgEq-xFE_TrAz848w_oTwyNh3DGLkO0Go4xN3OEMU6lYyO4EG5neei1kez5Q1_2BW8EuUE-WM8Fjo54Ic153kxGzzW_I6WvxTVGUOOt2yiMmOBrs4S3ViO71HBwB-QoMwcZEE3dqNjR6o2UYe8tcY37UdW9h_fOEHv8EH9iVfvSRZdVOUtsDKKEhQ-84eeMFJXyakQa0xiBxgCc5cN_VC2J9O1VAKkI-k1avLkb3AZ-PdhPNDxnn3UPDPy9-PZqfxOWeO8tvCqlIm3zPL-sCb_W4EgefBWYkve9v9LTdbhHbB4aRJaQHKgjl_n1jvaTeoJxVcobLT4G-y31ZplIhBdHwu0n75FxQ-AFrJVjaZcKo07viObsMJiWecgigCslMFm8K0oess7MhTt6m-6oaMzyg5ja=w1512-h1000-no
+---
+
+[![](https://lh3.googleusercontent.com/gOBCVVjnHb4ddWKGrAi1hYWTqXCKycLQBQZd1Fbe33g73KcsYjL0RXRKVHcXv80kD3W0RVnc_qHjJ_DcVRa8cxm7VdBr5RAUCv5I4nI7pARjX3EpMNk1Zl5RSHyDDz1NOyqLblr_R4VCi6HYwgOrB135uM7sG4dRCkaem1IuSOokFv7IjbraI91dSMBwsqLqq4qOzT4RAMCw3ZgEq-xFE_TrAz848w_oTwyNh3DGLkO0Go4xN3OEMU6lYyO4EG5neei1kez5Q1_2BW8EuUE-WM8Fjo54Ic153kxGzzW_I6WvxTVGUOOt2yiMmOBrs4S3ViO71HBwB-QoMwcZEE3dqNjR6o2UYe8tcY37UdW9h_fOEHv8EH9iVfvSRZdVOUtsDKKEhQ-84eeMFJXyakQa0xiBxgCc5cN_VC2J9O1VAKkI-k1avLkb3AZ-PdhPNDxnn3UPDPy9-PZqfxOWeO8tvCqlIm3zPL-sCb_W4EgefBWYkve9v9LTdbhHbB4aRJaQHKgjl_n1jvaTeoJxVcobLT4G-y31ZplIhBdHwu0n75FxQ-AFrJVjaZcKo07viObsMJiWecgigCslMFm8K0oess7MhTt6m-6oaMzyg5ja=w1512-h1000-no)](https://photos.app.goo.gl/hzte9DCfcv4JhK3y9)

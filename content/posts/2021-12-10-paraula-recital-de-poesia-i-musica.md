@@ -1,0 +1,17 @@
+---
+title: "2021-12-10 - Paraula - recital de poesia i música"
+date: 2021-12-11
+slug: "2021-12-10-paraula-recital-de-poesia-i-musica"
+categories: 
+  - "fuji-x-pro1"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2021/12/DSF5434.jpg
+image: https://lh3.googleusercontent.com/pbHGVqUx8q1ilqErjblCgNZ-5CFD1pRqPuTiiMsPy-YB3HrGn1FJqJ5wzmLCn0tF2yhx8e6MlFD0jV1hewISm0J1J8Lpqrey4iHvaS4QOx5Rg98YWqcsxNNVYeEt18U-YoJI7pLo4s1LpfK9Qa_QEeU_vRDyQs74qc7hAOUOHzoOtYk0DyDRydY1339bu9egTsf2nT4HYh9wEM-68iJHhwnI8lg0QubI-LIRGr2QoC6zAh_c4X-zgKnkWlAfGLGNztk4QoBrwTtgi6EjECqdB2B-06vLEg8ibR6wn_c9NBvsrGyFAIAcZWgHf83JgHVvz5H9GOYH8F8ejghmgItS31etA4YnZu4fe8IYktxk3Ff4ePce644Lkr7RuCW9yvXcWPbsQ84e5XbcVXkoyqvqHQckVQVfT4gq4Yn4eOPvM5S88M85E9UY9gJVUATTn7xJ-AbXMk8rrltx3bci_73Ggu6qmmFNIq1sDarzcxDKluNGz5KiB3CF6v6uARnpJnYKPF4acae2Pq_hpU-Bqv20z-RX66MzGmussZJVGOKchDqKJp2kbRtUfYpMR3M6Nz5gwcCvBeOSNiDbTQX9fMq6zQVU9MeYBi1Os4W_uBiHnlbbgpCL5wMqGSWs2c3cdJZfjOhkqNkl1uoVq0mtTUFPKnHsS54LKhOJq_2NfHbRVKAx2GRB8gTppkHTOeFCoRDWTbIiUB9AYPdrcHfowCgiACT8=w1406-h938-no?authuser=0
+---
+
+[![](https://lh3.googleusercontent.com/pbHGVqUx8q1ilqErjblCgNZ-5CFD1pRqPuTiiMsPy-YB3HrGn1FJqJ5wzmLCn0tF2yhx8e6MlFD0jV1hewISm0J1J8Lpqrey4iHvaS4QOx5Rg98YWqcsxNNVYeEt18U-YoJI7pLo4s1LpfK9Qa_QEeU_vRDyQs74qc7hAOUOHzoOtYk0DyDRydY1339bu9egTsf2nT4HYh9wEM-68iJHhwnI8lg0QubI-LIRGr2QoC6zAh_c4X-zgKnkWlAfGLGNztk4QoBrwTtgi6EjECqdB2B-06vLEg8ibR6wn_c9NBvsrGyFAIAcZWgHf83JgHVvz5H9GOYH8F8ejghmgItS31etA4YnZu4fe8IYktxk3Ff4ePce644Lkr7RuCW9yvXcWPbsQ84e5XbcVXkoyqvqHQckVQVfT4gq4Yn4eOPvM5S88M85E9UY9gJVUATTn7xJ-AbXMk8rrltx3bci_73Ggu6qmmFNIq1sDarzcxDKluNGz5KiB3CF6v6uARnpJnYKPF4acae2Pq_hpU-Bqv20z-RX66MzGmussZJVGOKchDqKJp2kbRtUfYpMR3M6Nz5gwcCvBeOSNiDbTQX9fMq6zQVU9MeYBi1Os4W_uBiHnlbbgpCL5wMqGSWs2c3cdJZfjOhkqNkl1uoVq0mtTUFPKnHsS54LKhOJq_2NfHbRVKAx2GRB8gTppkHTOeFCoRDWTbIiUB9AYPdrcHfowCgiACT8=w1406-h938-no?authuser=0)](https://photos.app.goo.gl/4rSjsKAZzXep1JEQ9)
+
+La poeta **Montse Huguet** llegirà textos propis i també poemes de Federico García Lorca, acompanyada per la guitarra d'**Angel Roldan**.
+
+Organitza: **comissió literària** del Casal de Barri de Prosperitat.

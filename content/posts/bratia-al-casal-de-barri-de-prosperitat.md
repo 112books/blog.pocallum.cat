@@ -1,0 +1,15 @@
+---
+title: "Bratia al Casal de barri de Prosperitat"
+date: 2021-12-18
+slug: "bratia-al-casal-de-barri-de-prosperitat"
+categories: 
+  - "fuji-x-pro1"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2021/12/DSF5803.jpg
+image: https://lh3.googleusercontent.com/AixXaHMDAOtfzaevnfBpBfkELOxGEEnfmMerHxF8LKSR3U8NJKcHXoc1YiRcfRIvppDcEf5V8DcNc-vBjN-rtO-bSfzTfeNW2GqW2k_Wo-vWp-QrwTMF7eAPb5JAja0D5EfiFW8Bl5rLywITstSP70R0aCmV1fU9Lfi4Zi8ZIFJzAxe012T1VZo_Eb6C-5jgoUr1yd1-ChRfQhTGi4n3pT2dZ-9RZvKoVxv1tm2C1GTc_n98jyohgTdC0JKpOYjgBoUyehPOF-lXDe2zsPGFdbPN5-w93Ebq6k7H7DLQrCkAe73W-HWQbJtct-dDwWe8dbzkBrUsodPchD8wlEb17a0b-uciMw5XtQZKmuy4Vb6yVqm7tXxSlALpfwGMj0yVjS3VGTrqhsnAroTfmhdwOZJu10KOk7kCH9jhtbcJ3YWDFJrXzAZqH9KyICycvTbdqU_VnSOuXzPoeOnBKnerD8rAXXaTlN0ktYojjWWCQ9Lv6DiQ9UeG8n8HTXo20IswjoILe755lLb3BtrtdPcHbvnE1biQ3DhR9yShfTwsxJrKSKTdOqdQo1HFSFV0-GYa6ab32HFgcrMayXPkjXBVW2AgHUsCSjYMhhXU48Z_o3E8xP9w4qp4HqdOy1HnSJgA5QZgmCwEGYnC4Qhi7K3zjiF5FDATRdaiy7db9CgjKkcIOgFO9F_XgcVGz1-5ON262I1JiAmgbWSCwKTgWn6U2s9J=w1766-h1178-no?authuser=0
+---
+
+[![](https://lh3.googleusercontent.com/AixXaHMDAOtfzaevnfBpBfkELOxGEEnfmMerHxF8LKSR3U8NJKcHXoc1YiRcfRIvppDcEf5V8DcNc-vBjN-rtO-bSfzTfeNW2GqW2k_Wo-vWp-QrwTMF7eAPb5JAja0D5EfiFW8Bl5rLywITstSP70R0aCmV1fU9Lfi4Zi8ZIFJzAxe012T1VZo_Eb6C-5jgoUr1yd1-ChRfQhTGi4n3pT2dZ-9RZvKoVxv1tm2C1GTc_n98jyohgTdC0JKpOYjgBoUyehPOF-lXDe2zsPGFdbPN5-w93Ebq6k7H7DLQrCkAe73W-HWQbJtct-dDwWe8dbzkBrUsodPchD8wlEb17a0b-uciMw5XtQZKmuy4Vb6yVqm7tXxSlALpfwGMj0yVjS3VGTrqhsnAroTfmhdwOZJu10KOk7kCH9jhtbcJ3YWDFJrXzAZqH9KyICycvTbdqU_VnSOuXzPoeOnBKnerD8rAXXaTlN0ktYojjWWCQ9Lv6DiQ9UeG8n8HTXo20IswjoILe755lLb3BtrtdPcHbvnE1biQ3DhR9yShfTwsxJrKSKTdOqdQo1HFSFV0-GYa6ab32HFgcrMayXPkjXBVW2AgHUsCSjYMhhXU48Z_o3E8xP9w4qp4HqdOy1HnSJgA5QZgmCwEGYnC4Qhi7K3zjiF5FDATRdaiy7db9CgjKkcIOgFO9F_XgcVGz1-5ON262I1JiAmgbWSCwKTgWn6U2s9J=w1766-h1178-no?authuser=0)](https://photos.app.goo.gl/2YywfcE92JGmaawb8)
+
+[Bratia](https://bratiamusic.com/) Aquesta és la nova formació del gran contrabaixista [Ivan kovacevic](https://ivankovacevic.com). Ahir vàrem tenir el plaer de poder-los escoltar al [Casal de barri de Prosperitat](https://casalprospe.org/)

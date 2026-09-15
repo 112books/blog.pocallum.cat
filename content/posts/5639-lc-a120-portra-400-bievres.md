@@ -1,0 +1,15 @@
+---
+title: "5639 - LC-A120 - Portra 400 - Bièvres"
+date: 2017-06-21
+slug: "5639-lc-a120-portra-400-bievres"
+categories: 
+  - "lc-a-120"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2017/06/5639-009.jpg
+image: https://lh3.googleusercontent.com/uwd6JH35_4w6eJ30YEszTGi6-hX3G_Vlsqq7JaeAydkOFq-EThdEFWjxWlc8Sza37DEkd3d0hBQV196h7yNYShIbuob_bhgsTL0bqZD2veEgvGdNcS6woIzUA_njbJLamNZoIopLim_uMPK4N1-oZlUeOo-u19DaMaWgqZwrLS8fjimNmDKWeY3wJmcDuWXWF3Q2YP6he6jnAbg3UEgiytdhz-MTk6187cLGv55W65iijZprc-i2TuMvBuGTm0WUWGPEjPP3tbxDhewrYgcSJvfS2cghcgR-5Lhqk38uk2jcMRDRyLcbR9TqborwjcHQ_2dc88eGXCxeNTvYbf-iDQvs0WSLDg9GrQl-JYR8mHhFtO-EwOPtpsulLoLgwyKE-yE7OsDgAvlczuNShcot85OzzXrPzGs_b-bYmFwE83anPdDlp6ci0ufOn3Nis48AmIU20Eg6d64v138X_iILeG5BJ4PSGaeKzhwV3dPp7SW7F5NxQKtTKVuHGsmAXMaeH4bhIQIRVWJaljkXvv7j6ojXHzyhOuzO5Ky_SGWsKot_EldiHCWbAWll3TwwZK7AHT7msqtgo4v4HI7aGtOZEqUGWgcqvV-llTr5tXc8xJ3nqT2c_Prujw=s925-no
+---
+
+[![](https://lh3.googleusercontent.com/uwd6JH35_4w6eJ30YEszTGi6-hX3G_Vlsqq7JaeAydkOFq-EThdEFWjxWlc8Sza37DEkd3d0hBQV196h7yNYShIbuob_bhgsTL0bqZD2veEgvGdNcS6woIzUA_njbJLamNZoIopLim_uMPK4N1-oZlUeOo-u19DaMaWgqZwrLS8fjimNmDKWeY3wJmcDuWXWF3Q2YP6he6jnAbg3UEgiytdhz-MTk6187cLGv55W65iijZprc-i2TuMvBuGTm0WUWGPEjPP3tbxDhewrYgcSJvfS2cghcgR-5Lhqk38uk2jcMRDRyLcbR9TqborwjcHQ_2dc88eGXCxeNTvYbf-iDQvs0WSLDg9GrQl-JYR8mHhFtO-EwOPtpsulLoLgwyKE-yE7OsDgAvlczuNShcot85OzzXrPzGs_b-bYmFwE83anPdDlp6ci0ufOn3Nis48AmIU20Eg6d64v138X_iILeG5BJ4PSGaeKzhwV3dPp7SW7F5NxQKtTKVuHGsmAXMaeH4bhIQIRVWJaljkXvv7j6ojXHzyhOuzO5Ky_SGWsKot_EldiHCWbAWll3TwwZK7AHT7msqtgo4v4HI7aGtOZEqUGWgcqvV-llTr5tXc8xJ3nqT2c_Prujw=s925-no)](https://goo.gl/photos/wfn8Hkwwr3qbUZrJ8)
+
+Així és mes o menys Bièvres i la seva fira fotogràfica

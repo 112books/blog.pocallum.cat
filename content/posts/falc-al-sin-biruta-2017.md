@@ -1,0 +1,15 @@
+---
+title: "Green Buds al Sin Biruta 2017"
+date: 2017-06-11
+slug: "falc-al-sin-biruta-2017"
+categories: 
+  - "lomography-lc-a"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2017/06/HD126-017.jpg
+image: https://lh3.googleusercontent.com/Zm5LMgNZSFS9uJ0Yh_HwTQkufFjzHVX7tdgC0eezO3aQ1D0X_4fUSsM88Ggn-LttlG9C_Z_tUQMYzcxYAHgAEKwK6E8bNjrkOREf6iaKR6jNVtUcojoZtQ4Bo4RsdzGN5yvSDjiLgYE7Cu9LyClnAbtTkXmjI9dS0DF7qYhIg6mHAmFRYl-3iRFuoOqgS0-zY9pqGo-K0E5vcSLR0ZGK5MVdWHqWbRyv-vT8i4o6VDecD_fJAY6_tUL2kvTcH2vQiFDU4ZDLPPfD8x29tK2PO3l1tzvLWOuwX-F-5AsSNBaE5uuB-oJ9NI52BPjn8-N5lfsUvYNy2MPj1EGix0w14ty5K1R60iDTE25ZApUwwgyAOJenoXk-lGIkbNedQBr9CEbVqopf3Z1kQgnqS3opwdvGozXMA3e15rQJ6HJPKHg0n2Q5hqq0Nw7FBZi_8EVPUJcSMHv3ogGJLpXigNkMoNA1wfSzqTJfXEtJQ32JS2CbbQ00cIeUUCW1XgJtvr2fAEmXOL7s3prSiQggsY9ja3KsmvIIHEB3KgDvI8LhpLJCxmmPGWt5lu439iD9d-UqB5GWryj9K6SQVvrZD1kgEefsOGC7XYqVLL5LrPabHQwUU7jzirnotg=w902-h1352-no
+---
+
+[![](https://lh3.googleusercontent.com/Zm5LMgNZSFS9uJ0Yh_HwTQkufFjzHVX7tdgC0eezO3aQ1D0X_4fUSsM88Ggn-LttlG9C_Z_tUQMYzcxYAHgAEKwK6E8bNjrkOREf6iaKR6jNVtUcojoZtQ4Bo4RsdzGN5yvSDjiLgYE7Cu9LyClnAbtTkXmjI9dS0DF7qYhIg6mHAmFRYl-3iRFuoOqgS0-zY9pqGo-K0E5vcSLR0ZGK5MVdWHqWbRyv-vT8i4o6VDecD_fJAY6_tUL2kvTcH2vQiFDU4ZDLPPfD8x29tK2PO3l1tzvLWOuwX-F-5AsSNBaE5uuB-oJ9NI52BPjn8-N5lfsUvYNy2MPj1EGix0w14ty5K1R60iDTE25ZApUwwgyAOJenoXk-lGIkbNedQBr9CEbVqopf3Z1kQgnqS3opwdvGozXMA3e15rQJ6HJPKHg0n2Q5hqq0Nw7FBZi_8EVPUJcSMHv3ogGJLpXigNkMoNA1wfSzqTJfXEtJQ32JS2CbbQ00cIeUUCW1XgJtvr2fAEmXOL7s3prSiQggsY9ja3KsmvIIHEB3KgDvI8LhpLJCxmmPGWt5lu439iD9d-UqB5GWryj9K6SQVvrZD1kgEefsOGC7XYqVLL5LrPabHQwUU7jzirnotg=w902-h1352-no)](https://goo.gl/photos/e2EJocPVs9Vzy6Xi7)
+
+Green Buds. HomeDev#126, kodak T-max 400, LC-+, nou barris, sin biruta

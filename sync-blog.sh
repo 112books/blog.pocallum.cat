@@ -86,6 +86,19 @@ build_local() {
   print "Build local (amb drafts)..."
   hugo --minify --buildDrafts || exit 1
   ok "Build correcte → ./${BUILD_DIR}/"
+  print "Indexant amb Pagefind..."
+  npx --yes pagefind --site "$BUILD_DIR" || { warn "Pagefind no disponible — cerca no funcionarà"; }
+  ok "Pagefind indexat"
+}
+
+preview_local() {
+  print "Build + Pagefind + servidor estàtic..."
+  hugo --minify --buildDrafts || exit 1
+  npx --yes pagefind --site "$BUILD_DIR" || { warn "Pagefind no disponible"; }
+  ok "Build i índex llestos"
+  dim "http://localhost:8080  —  Ctrl+C per aturar"
+  echo ""
+  cd "$BUILD_DIR" && python3 -m http.server 8080
 }
 
 deploy_staging() {
@@ -224,8 +237,9 @@ echo -e " Branca: ${YLW}${CURRENT}${RST}"
 echo ""
 echo " 1) Status del repo"
 echo " 2) Sync  (commit + pull --rebase + push)"
-echo " 3) Servidor local  →  localhost:1313"
-echo " 4) Build local (amb drafts)"
+echo " 3) Servidor local  →  localhost:1313  (sense Pagefind)"
+echo " 4) Build local  →  public/ + Pagefind indexat"
+echo " b) Preview complet  →  build + Pagefind + :8080"
 echo "───────────────────────────────────────"
 echo " 5) Deploy staging  →  GitHub Pages (develop, sense imatges)"
 echo " 6) Deploy producció → Dinahosting (rsync) — manté wp-content/"
@@ -244,6 +258,7 @@ case $opt in
   2) sync ;;
   3) server_local ;;
   4) build_local ;;
+  b) preview_local ;;
   5) deploy_staging ;;
   6) deploy_prod_pages ;;
   i) imatges_locals ;;

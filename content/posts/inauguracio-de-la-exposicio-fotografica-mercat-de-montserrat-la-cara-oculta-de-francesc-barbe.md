@@ -1,0 +1,19 @@
+---
+title: "Inauguració de la Exposició Fotogràfica \"Mercat de Montserrat: La cara oculta\" de Francesc Barbé"
+date: 2019-09-17
+slug: "inauguracio-de-la-exposicio-fotografica-mercat-de-montserrat-la-cara-oculta-de-francesc-barbe"
+categories: 
+  - "fuji-x-pro1"
+tags:
+  - "9barrisimatge-org"
+  - "casal-de-barri-de-prosperitat"
+  - "exposicio"
+  - "francesc-barbe"
+  - "mercat-de-montserrat"
+  - "nou-barris"
+author: "inuxbcn"
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2019/09/DSF2527-1.jpg
+image: https://lh3.googleusercontent.com/eCxo_Pm2WeR3TAkb5x2lPDvkgZWVr5zd_rTV1EFyyVPaZPRBs9ECcTC5HA9GuaBUvjEog1lhlUovzrVXbNIQDyrVKQtREaIvmTxQ2a7Mhr0Z2Gn1lFs1U6qymkY-6M0WlI5WNh_0IxZxM-VwhZZFI-GSeCCWExQjxZQhEyCqO0dIlwHFwXlN8FiW1QCCMwC3pkpOdbKsN9tFePMzzC_Mc0gCEtd_HTu5GAMdFE3LEcAZk7hpg4SQ0Nd7hDRVlwxozJ09FrMa5ejREg29wfv7cb89pkxIISIhV7PfTk4s5VhUhH5FyN_02a_qohXP24U-ZPwKqiFBTz9NBw6sTex-ER9QfMJJUoo2bzmTB2lLDHgR0i6dsRAAG7cmJJd9GQjRVeNlQVevNpDMOTCdzVWCHVXMmtoBmzrFuPhsVHI1E0hH4qnPJJPtdh4Wft22WzJuiGi20xMGjWop9TKZo0Wy0-uQ0gKF7yLSG-NxRs0Zuz4DugaUv3pzuhWPF9ZrKac1dDKO9lRcmmNzZZ2hynzNgkQSO-CftQbsw47Pv6zNotk-hbhLG6DEW5KG3mKi9niTwkpWKRk-iGNvU396dOTnLZoSe-ZOEQcFl9nl-q0yJptdVtBC93QizL63UBR2EEC7298WD-hmXzvZZXINVD6jOSb2FyXRyLQJjaZsel9hC9fmqA9ZpHKKLfrd=w1859-h1239-no
+---
+
+[![](https://lh3.googleusercontent.com/eCxo_Pm2WeR3TAkb5x2lPDvkgZWVr5zd_rTV1EFyyVPaZPRBs9ECcTC5HA9GuaBUvjEog1lhlUovzrVXbNIQDyrVKQtREaIvmTxQ2a7Mhr0Z2Gn1lFs1U6qymkY-6M0WlI5WNh_0IxZxM-VwhZZFI-GSeCCWExQjxZQhEyCqO0dIlwHFwXlN8FiW1QCCMwC3pkpOdbKsN9tFePMzzC_Mc0gCEtd_HTu5GAMdFE3LEcAZk7hpg4SQ0Nd7hDRVlwxozJ09FrMa5ejREg29wfv7cb89pkxIISIhV7PfTk4s5VhUhH5FyN_02a_qohXP24U-ZPwKqiFBTz9NBw6sTex-ER9QfMJJUoo2bzmTB2lLDHgR0i6dsRAAG7cmJJd9GQjRVeNlQVevNpDMOTCdzVWCHVXMmtoBmzrFuPhsVHI1E0hH4qnPJJPtdh4Wft22WzJuiGi20xMGjWop9TKZo0Wy0-uQ0gKF7yLSG-NxRs0Zuz4DugaUv3pzuhWPF9ZrKac1dDKO9lRcmmNzZZ2hynzNgkQSO-CftQbsw47Pv6zNotk-hbhLG6DEW5KG3mKi9niTwkpWKRk-iGNvU396dOTnLZoSe-ZOEQcFl9nl-q0yJptdVtBC93QizL63UBR2EEC7298WD-hmXzvZZXINVD6jOSb2FyXRyLQJjaZsel9hC9fmqA9ZpHKKLfrd=w1859-h1239-no)](https://photos.app.goo.gl/GKEUEJzyhG8Dno9R7)

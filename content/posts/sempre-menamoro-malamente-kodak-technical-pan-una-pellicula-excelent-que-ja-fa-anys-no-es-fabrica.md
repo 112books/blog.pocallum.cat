@@ -1,0 +1,17 @@
+---
+title: "Sempre m'enamoro \"malamente\". Kodak Technical Pan una pel·licula excelent que ja fa anys no es fabrica"
+date: 2018-06-27
+slug: "sempre-menamoro-malamente-kodak-technical-pan-una-pellicula-excelent-que-ja-fa-anys-no-es-fabrica"
+categories: 
+  - "leica-m6"
+tags:
+  - "kodak-technical-pan"
+  - "leica-m6"
+author: "inuxbcn"
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2018/06/HD204-021.jpg
+image: https://lh3.googleusercontent.com/nZmBI7I1FD7trPGf1Yzhk6DqpT1e35uY_Ut1NDHJD0NcLjOsrk5pwl37aP7rOsV1Qqg_CnXMYDuBm0GwoaDcZAvpQJfTVGqkCqOABVRP1UfhWOkKpieXno8wA-coPOOudeJXvddkOVZ5LX2Oj19NmrN-I4i6VXKAmL9s3wzxu93aL4dlhakUzh3LCW_Y4KilupxwSLgAgej21oPtqGAajtr3RDKlTaVJHxqJOMg1vZAhgl-3dqONJ6FfcVev_qJQGOxnYL_9H_FMWHHiDfNBz3Zlj9f2jGw3wewVm1-_ZU41g7Ub3zv7X9Ez32N23VFMWiEI-uGvMVx_tIMIUjvt69_n2Mw17nytEoVUFXMmu5QQgPCvwFUXQt2JlH3hiKqArVjoLmaIelYDy9InQwoE7oAiRSxbX1MP4QxrjDyJfTFAmauEo1W2sIwtx6BxQ-Mld9yWbicTrfHSTgiu_q9DHExEJLp30bX85louJ2a1rcxXCOGCHoeufLS9zEHWKEQiNfQZfggkGrdUFwiYWUz0jLF7usbfuRJVR3_hWMwOQwqm8f23UyKyjFKBGDXPCVHG66v725JNfesk4RxMtih30j3zwtHSawb-eoMVzd-qC_ICKzFY8juenz8BmA4v1YkYQr94ARUOoHj8skNKMXMbxBVr-zlFMTwIeg=w896-h1343-no
+---
+
+[![](https://lh3.googleusercontent.com/nZmBI7I1FD7trPGf1Yzhk6DqpT1e35uY_Ut1NDHJD0NcLjOsrk5pwl37aP7rOsV1Qqg_CnXMYDuBm0GwoaDcZAvpQJfTVGqkCqOABVRP1UfhWOkKpieXno8wA-coPOOudeJXvddkOVZ5LX2Oj19NmrN-I4i6VXKAmL9s3wzxu93aL4dlhakUzh3LCW_Y4KilupxwSLgAgej21oPtqGAajtr3RDKlTaVJHxqJOMg1vZAhgl-3dqONJ6FfcVev_qJQGOxnYL_9H_FMWHHiDfNBz3Zlj9f2jGw3wewVm1-_ZU41g7Ub3zv7X9Ez32N23VFMWiEI-uGvMVx_tIMIUjvt69_n2Mw17nytEoVUFXMmu5QQgPCvwFUXQt2JlH3hiKqArVjoLmaIelYDy9InQwoE7oAiRSxbX1MP4QxrjDyJfTFAmauEo1W2sIwtx6BxQ-Mld9yWbicTrfHSTgiu_q9DHExEJLp30bX85louJ2a1rcxXCOGCHoeufLS9zEHWKEQiNfQZfggkGrdUFwiYWUz0jLF7usbfuRJVR3_hWMwOQwqm8f23UyKyjFKBGDXPCVHG66v725JNfesk4RxMtih30j3zwtHSawb-eoMVzd-qC_ICKzFY8juenz8BmA4v1YkYQr94ARUOoHj8skNKMXMbxBVr-zlFMTwIeg=w896-h1343-no)](https://photos.app.goo.gl/LwLOkyXDV9mHOx0J2)
+
+HomeDev#204 - Leica M6 - [Kodak Technical Pan](https://en.wikipedia.org/wiki/Technical_Pan) - Rodinal 1+150 - 13 min a 20º

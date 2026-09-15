@@ -1,0 +1,17 @@
+---
+title: "Barcelona Worldwide Pinhole Photography Day 2019"
+date: 2019-04-29
+slug: "barcelona-worldwide-pinhole-photography-day-2019"
+categories: 
+  - "wood-pinholes-4x5-camera"
+author: "inuxbcn"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2019/04/4x5-Pinhole2019-007.jpg
+image: https://lh3.googleusercontent.com/wfGgpWk5YTxudlHPf3EBWQGkkKvOssJI1q03J7j2ggk1Ci5t8zyovn2RGB6S_uFnxqRzGq3iXVWpv_g-8IXK2_WwjDJepNfV1T_gII-UhM3CEZRBbv-kbkT0HBhpFwUTgnCL0E-m6Tn5GZL8BJ269jX4HvqZpA_KTzXwndH3aKZTRg1ltQanzn3PxHhA3tH2wKT6crEovCm--aqXiqOlgHFB-LoxylflMffCZ5pqPkZWKnZPUHQMwGizZFJKNLDhMZgVNlMzZhmwicvfJQ8Qbv5pcnSRYA3lmKB1mhAPnIl3nQylxXx0pi1AHVK9iHf_mfNKTURfpWD8FDZwPEQN-1DW-44ZDOd4ufSzity19g7gD7P0zRM8RZD315K2QuyFOC4sDfFJrf2eOabXt8T2MVK1UgO39-CAMrpKs6Qg9j9ddBruQpQt2LVDjgo5N0XeaazlrJLVY9vZhTq5ROhyb0sCMFf3VmneLf5w8t_M9khEMyf9xBnCqZupUhhZ9Ev6r4tFzt7vPT82W1vNid4Pf3b6KObS7vLGWyFril-d9r62IJ3t5hnBP9DIWa-ccaA31w0mhNS6bhcpBXrfd0C04MMmQogVUYwMoW5RCCiSWG0FUqmITTO-0GuK9Nt9uPMFQoB-agUR6rWtWHn7IyK1x1Z3AiW5gwzn=w992-h1239-no
+---
+
+[![](https://lh3.googleusercontent.com/wfGgpWk5YTxudlHPf3EBWQGkkKvOssJI1q03J7j2ggk1Ci5t8zyovn2RGB6S_uFnxqRzGq3iXVWpv_g-8IXK2_WwjDJepNfV1T_gII-UhM3CEZRBbv-kbkT0HBhpFwUTgnCL0E-m6Tn5GZL8BJ269jX4HvqZpA_KTzXwndH3aKZTRg1ltQanzn3PxHhA3tH2wKT6crEovCm--aqXiqOlgHFB-LoxylflMffCZ5pqPkZWKnZPUHQMwGizZFJKNLDhMZgVNlMzZhmwicvfJQ8Qbv5pcnSRYA3lmKB1mhAPnIl3nQylxXx0pi1AHVK9iHf_mfNKTURfpWD8FDZwPEQN-1DW-44ZDOd4ufSzity19g7gD7P0zRM8RZD315K2QuyFOC4sDfFJrf2eOabXt8T2MVK1UgO39-CAMrpKs6Qg9j9ddBruQpQt2LVDjgo5N0XeaazlrJLVY9vZhTq5ROhyb0sCMFf3VmneLf5w8t_M9khEMyf9xBnCqZupUhhZ9Ev6r4tFzt7vPT82W1vNid4Pf3b6KObS7vLGWyFril-d9r62IJ3t5hnBP9DIWa-ccaA31w0mhNS6bhcpBXrfd0C04MMmQogVUYwMoW5RCCiSWG0FUqmITTO-0GuK9Nt9uPMFQoB-agUR6rWtWHn7IyK1x1Z3AiW5gwzn=w992-h1239-no)](https://photos.app.goo.gl/FPs6AhCpxNxQX1Pc7)
+
+Totes les plaques 4x5" que vaig disparar el passat diumenge a la [Nau Bostik](http://naubostik.com) amb una càmera estenopèica, de fusta ben senzilla, tot celebrant el [Worldwide Pinhole Photography Day](https://pinholeday.org).
+
+Com podreu observar hi ha una doble accidental.

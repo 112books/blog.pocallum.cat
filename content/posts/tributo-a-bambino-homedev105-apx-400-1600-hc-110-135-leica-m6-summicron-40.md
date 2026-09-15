@@ -1,0 +1,14 @@
+---
+title: "Tributo a Bambino - HomeDev#105 - APX 400 @1600 (HC-110 13,5')  Leica M6 + Summicron 40"
+date: 2017-03-19
+slug: "tributo-a-bambino-homedev105-apx-400-1600-hc-110-135-leica-m6-summicron-40"
+categories: 
+  - "leica-m6"
+  - "summicron-40mm-f-2"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2017/03/HD105-LeicaM6-017.jpg
+image: https://lh3.googleusercontent.com/hEXunn-MWaOp3OLwOXp6DILbdYLNecKty5nLL0M603SWoaGtlGnBYHkjZUQRH1PgjUU2tl3qpAvASPnKgriE1YuEHKy-ds3ACqlwu5xYdiAqHe2x9xrvdsdYuBKroPmaxiu2bean_c9D-OMhkjhTg2FloyoB2gvtRpsjoQ70t6gVGaZYDgYBqvoRKPlRa-1JUB8vnzo8Jen0XbyHO1EC_4d4vnQGi-rqTG-CmI7SbMTD1TzepJU1mPgktVg5SahpknELFxwnl_JryelwAAObqREHpYDmLXSx-oG0wRMp8hrES9zP4KWfhu0gPEcSVxQEyY9DNh7Pqst9xxNj5BiA6E2Dnam2VdkYTVeGT25RY5tXR2M1jLWrbddbaEuPenL9Yi6Qy8Ap3sAqprT7_ds1HdzepktATt8w7SEKlNrPDcWgmfQAfUdeaurbGyic70IpeGdi65bZuE6l3bJmou0xLEMRfh0gGQRnW7XAMVWhW39939LrDIjp86G80XCWYEUmiQutpHQTdb66_2plCz8B4sj0XFcpI5X8Vjnp9-sCMtTSLVmUSbSyRdlY0a5oOq9djoaBm9q7Jv7vYeKTSWInyH8YJktTuOyecpooBpjrS3oPh0ng0YvoZg=w822-h1232-no
+---
+
+[![](https://lh3.googleusercontent.com/hEXunn-MWaOp3OLwOXp6DILbdYLNecKty5nLL0M603SWoaGtlGnBYHkjZUQRH1PgjUU2tl3qpAvASPnKgriE1YuEHKy-ds3ACqlwu5xYdiAqHe2x9xrvdsdYuBKroPmaxiu2bean_c9D-OMhkjhTg2FloyoB2gvtRpsjoQ70t6gVGaZYDgYBqvoRKPlRa-1JUB8vnzo8Jen0XbyHO1EC_4d4vnQGi-rqTG-CmI7SbMTD1TzepJU1mPgktVg5SahpknELFxwnl_JryelwAAObqREHpYDmLXSx-oG0wRMp8hrES9zP4KWfhu0gPEcSVxQEyY9DNh7Pqst9xxNj5BiA6E2Dnam2VdkYTVeGT25RY5tXR2M1jLWrbddbaEuPenL9Yi6Qy8Ap3sAqprT7_ds1HdzepktATt8w7SEKlNrPDcWgmfQAfUdeaurbGyic70IpeGdi65bZuE6l3bJmou0xLEMRfh0gGQRnW7XAMVWhW39939LrDIjp86G80XCWYEUmiQutpHQTdb66_2plCz8B4sj0XFcpI5X8Vjnp9-sCMtTSLVmUSbSyRdlY0a5oOq9djoaBm9q7Jv7vYeKTSWInyH8YJktTuOyecpooBpjrS3oPh0ng0YvoZg=w822-h1232-no)](https://goo.gl/photos/zhQVn77sxqmgtX6LA)

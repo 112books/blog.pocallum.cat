@@ -1,0 +1,23 @@
+---
+title: "Escapada al Montseny amb Rolleiflex"
+date: 2021-10-27
+slug: "escapada-al-montseny-amb-rolleiflex"
+categories: 
+  - "rolleiflex-drp-drgm-compur"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2021/10/2021-10-26-Rolleiflex-012.jpg
+image: https://lh3.googleusercontent.com/i1q1apJw5WLSBBKqBuZ1CsMOfCHT4yAIonvMgRztUeaHUOjaYlup7-GbMVsghZtnPczSZ0_pLtJ96CtcHIoY-KJumD2e7fJJIHVfzK-zJ1tQQ1sKv-2K7kNwtSqTJsWoOrp1OqkWYrb4VBiZK2ivYGY3WDjnHZvd9w1KU61y7Uw5j05PBj9sntt6abq37YbrUVgAlIGp-z82H4qNQVmmbjkCa3lSh9g6wnXrzibO45wyMk5qFxn3aOuClGO5K1y_AbzjfgXttZ-53AklAghEU_Zm8nI38U-ORtapda5NAvoI17D28qMUNRX6B6AjxqlaL7KT_BA5H4DO3VMyaABlBSEHy-vAjfDnWxIbQa07TtnPlFJz92gun6PWO3xOK1wkqIpUnThl9hPqz91PrnTinUFturf__hHZZY0FzPeyVhwgHOt4p2k9r6-Tnv9a2GMHsDlWvNkAjjKtRUMxWv2Khia2ru4HgVc7d0LO-KDfcPbTCF0cFIwrzc8wSXa_YLcLbvBSWMII7kVeJ5BQZ9XNlA_M0GY9gtVZyzkItG-LYW9ZD-GADMosAxOZyMbNDRMaDINpAPbATjdH-I0lDnC2e8gIBc1_aoYxSI2mEaZ0chmGo76Q_KXQ8l6CHnAey7T-UaDKOunjP0zmNS9C5vXric074wAHnlM3jbrXJWk1CgqBKNOxDUm7Ew6gNTvSBFl-YhAzSckN4I5UMtvwwVo4w4m6=s1336-no?authuser=0
+---
+
+<figure>
+
+[![](https://lh3.googleusercontent.com/i1q1apJw5WLSBBKqBuZ1CsMOfCHT4yAIonvMgRztUeaHUOjaYlup7-GbMVsghZtnPczSZ0_pLtJ96CtcHIoY-KJumD2e7fJJIHVfzK-zJ1tQQ1sKv-2K7kNwtSqTJsWoOrp1OqkWYrb4VBiZK2ivYGY3WDjnHZvd9w1KU61y7Uw5j05PBj9sntt6abq37YbrUVgAlIGp-z82H4qNQVmmbjkCa3lSh9g6wnXrzibO45wyMk5qFxn3aOuClGO5K1y_AbzjfgXttZ-53AklAghEU_Zm8nI38U-ORtapda5NAvoI17D28qMUNRX6B6AjxqlaL7KT_BA5H4DO3VMyaABlBSEHy-vAjfDnWxIbQa07TtnPlFJz92gun6PWO3xOK1wkqIpUnThl9hPqz91PrnTinUFturf__hHZZY0FzPeyVhwgHOt4p2k9r6-Tnv9a2GMHsDlWvNkAjjKtRUMxWv2Khia2ru4HgVc7d0LO-KDfcPbTCF0cFIwrzc8wSXa_YLcLbvBSWMII7kVeJ5BQZ9XNlA_M0GY9gtVZyzkItG-LYW9ZD-GADMosAxOZyMbNDRMaDINpAPbATjdH-I0lDnC2e8gIBc1_aoYxSI2mEaZ0chmGo76Q_KXQ8l6CHnAey7T-UaDKOunjP0zmNS9C5vXric074wAHnlM3jbrXJWk1CgqBKNOxDUm7Ew6gNTvSBFl-YhAzSckN4I5UMtvwwVo4w4m6=s1336-no?authuser=0)](https://photos.app.goo.gl/VemQmwTLtiSyHBfS6)
+
+<figcaption>
+
+2021-10-26- Rolleiflex - Fomapan 100 @50
+
+</figcaption>
+
+</figure>

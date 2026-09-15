@@ -1,0 +1,25 @@
+---
+title: "2022-04-06 - Lluís Coloma Troupe Portraits"
+date: 2022-06-15
+slug: "lluis-coloma-troupe-portraits"
+categories: 
+  - "canon-eos-6d"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2022/06/IMG_0048.jpg
+image: https://lh3.googleusercontent.com/9FMJpS7a6ZiKrq3JawNFivcZiqjyfP7m1_nM73gIcj6sChqdOVkrnqE-JKvj0Oz5zmOs1QdD4Z0ckw-omPECRQz6Ikr3mAaawy2pTGOStQPgBMLKWhVcmTz25qkPA1i28CMzrmepeRRWQ3yCScLS43w74pKHZTqp8aXr7F2pwJ_iENE9lX7I3iLwqndMEfYjDB1df5Iu47ia46bRNDha9VE7mM3FSnCQJ7TEYOt-Ahof8MxyYuXlCl5F14s1GAFnyKARgpIsd_l1I3wAdu13Gvq_THrM1NUaqG-ZwQn3PoFhFU2MeicUn5WkwtgM2-E2pGz1xt2mgovzjBTcjPJxrkeHTy4rONkIiVpfU9-PuEzFWDBNkDF_64Ac1o0mqBlJgrB5q2G_llUupLmk0wjuQ9vRKVkCMF6UAtWTkgVqoXrCpDAzD27AY5286lHXe83A-kNRi2pn9QCCZvkWjliikww2UZbkFBeQHx4dF1ZpCdjjXObBgXtYxYkLPJbkAcuJAl4W7aO31i9kZqLbrayeHFtbwfmkoByIuuEFT-5B6XkkS3qYnUtiESKhXwvUqPvnZgLhqp6Imd1amXkKKiG2fAbTU8ATMTSaa3aX9SX2iRNJxXFF3SCdZkZugd1-3-EjdEZPN2xRQLIF9tFizfWHdxyqz3-LGuvhT6HowoYbsYBP3V_Xn728hUu1ZidoSkjUowK8WLlycao9fo8vKnS8KvmuSd6c2iMoBXRYkZnRTRGyAeELObPdKdU6nmSI=w852-h1278-no?authuser=0
+---
+
+<figure>
+
+[![](https://lh3.googleusercontent.com/9FMJpS7a6ZiKrq3JawNFivcZiqjyfP7m1_nM73gIcj6sChqdOVkrnqE-JKvj0Oz5zmOs1QdD4Z0ckw-omPECRQz6Ikr3mAaawy2pTGOStQPgBMLKWhVcmTz25qkPA1i28CMzrmepeRRWQ3yCScLS43w74pKHZTqp8aXr7F2pwJ_iENE9lX7I3iLwqndMEfYjDB1df5Iu47ia46bRNDha9VE7mM3FSnCQJ7TEYOt-Ahof8MxyYuXlCl5F14s1GAFnyKARgpIsd_l1I3wAdu13Gvq_THrM1NUaqG-ZwQn3PoFhFU2MeicUn5WkwtgM2-E2pGz1xt2mgovzjBTcjPJxrkeHTy4rONkIiVpfU9-PuEzFWDBNkDF_64Ac1o0mqBlJgrB5q2G_llUupLmk0wjuQ9vRKVkCMF6UAtWTkgVqoXrCpDAzD27AY5286lHXe83A-kNRi2pn9QCCZvkWjliikww2UZbkFBeQHx4dF1ZpCdjjXObBgXtYxYkLPJbkAcuJAl4W7aO31i9kZqLbrayeHFtbwfmkoByIuuEFT-5B6XkkS3qYnUtiESKhXwvUqPvnZgLhqp6Imd1amXkKKiG2fAbTU8ATMTSaa3aX9SX2iRNJxXFF3SCdZkZugd1-3-EjdEZPN2xRQLIF9tFizfWHdxyqz3-LGuvhT6HowoYbsYBP3V_Xn728hUu1ZidoSkjUowK8WLlycao9fo8vKnS8KvmuSd6c2iMoBXRYkZnRTRGyAeELObPdKdU6nmSI=w852-h1278-no?authuser=0)](https://photos.app.goo.gl/Qj3akgXGxvPYeMrf9)
+
+<figcaption>
+
+Lluís Coloma
+
+</figcaption>
+
+</figure>
+
+Aquí uns pocs retrats, aquest cop en digital, d'en [Lluís Coloma i la "Troupe"](https://www.lluiscoloma.com/es/proyectos/lluis-coloma-his-musical-troupe) que l'acompanya en el seu darrer projecte.

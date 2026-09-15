@@ -1,0 +1,14 @@
+---
+title: "1147 - Cosina CX2 - 13b = Nou Barris – 1B Torrellobeta i Vilapiscina"
+date: 2016-10-29
+slug: "1147-cosina-cx2-13b-nou-barris-1b-torrellobeta-i-vilapiscina"
+categories: 
+  - "cosina-cx-2"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2016/10/1147-Cosina-Cx2-006.jpg
+image: https://lh3.googleusercontent.com/AUI3gRCf2NwnHhp0qSUghWHoMF3hLy8Sy715vZiBzkMUQnKx95RoRE6fChmHtiLxUK3LjZqVxNYtiMu8uVR4LIft_Tr2syUTu4iEoJIziPalMbtICm63TaLLzkg-Z82sqV1dHHM4Vs7IF1LX3GjZsKT_Uoe4z3O4GwAWOudRPaN72x5vH9kgyO7hFgAFqn8dwHhroZn7xJJfHVF-S8yb-8xe5NmRBpCXfKVgeDQOuTvK110vW4DtaRHDJwjhdyRggZvujPwgYgX5Nv8ncJzAngkLpEqrSbtNvLFGBIebMn-u36HqHgKCvhrcuUAvRJ9ySMXyJUd6_3ItKnocHD6mX2zjALcmL41SkeLj17MV0PlsXFF-qkMm-I8g6rG1MvUGLKwu8tSxSfk3VGgq9mdMJV2UERY0kI5jgG1HvGjtaBObn7ERZpH1mUulPIAlJPW376Cy3hoLRHl8M2AFyP-zyeuQ7ykyelx_kbUNBxn3lr993_TkFp35ukAND4laS41UUN20nA7wrvTj53ZeJKlm6iBTKeaeiCB-OQqve1UrlFygRGI_irthq4GELTOLcO8J30htdj4gprlUqgyvK4ULvoVsKS6Z2YoS-IDt0LHYwJEdIG48BA=w895-h1339-no
+---
+
+[![](https://lh3.googleusercontent.com/AUI3gRCf2NwnHhp0qSUghWHoMF3hLy8Sy715vZiBzkMUQnKx95RoRE6fChmHtiLxUK3LjZqVxNYtiMu8uVR4LIft_Tr2syUTu4iEoJIziPalMbtICm63TaLLzkg-Z82sqV1dHHM4Vs7IF1LX3GjZsKT_Uoe4z3O4GwAWOudRPaN72x5vH9kgyO7hFgAFqn8dwHhroZn7xJJfHVF-S8yb-8xe5NmRBpCXfKVgeDQOuTvK110vW4DtaRHDJwjhdyRggZvujPwgYgX5Nv8ncJzAngkLpEqrSbtNvLFGBIebMn-u36HqHgKCvhrcuUAvRJ9ySMXyJUd6_3ItKnocHD6mX2zjALcmL41SkeLj17MV0PlsXFF-qkMm-I8g6rG1MvUGLKwu8tSxSfk3VGgq9mdMJV2UERY0kI5jgG1HvGjtaBObn7ERZpH1mUulPIAlJPW376Cy3hoLRHl8M2AFyP-zyeuQ7ykyelx_kbUNBxn3lr993_TkFp35ukAND4laS41UUN20nA7wrvTj53ZeJKlm6iBTKeaeiCB-OQqve1UrlFygRGI_irthq4GELTOLcO8J30htdj4gprlUqgyvK4ULvoVsKS6Z2YoS-IDt0LHYwJEdIG48BA=w895-h1339-no)](https://goo.gl/photos/o5JUenVUf1sxQSzz7)  
+Rodet disparat amb la petita Cosina CX2 a la passejada fotogràfica 1b - Torrellobeta i Vilapiscina, dins el projecte de [9barrisimatge.org](http://www.9barrisimatge.org).

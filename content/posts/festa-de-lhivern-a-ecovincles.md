@@ -1,0 +1,16 @@
+---
+title: "Festa de l'hivern a Ecovincles"
+date: 2018-12-17
+slug: "festa-de-lhivern-a-ecovincles"
+categories: 
+  - "camara"
+  - "leica-m6"
+author: "inuxbcn"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2018/12/hd315-018.jpg
+image: https://lh3.googleusercontent.com/DK8e4eTonU9CGQCks8EWREG7WQaS6qdy8NSWd-HFj-gH2eD-FUtxIkWKofbUP9ByurnnF90crlhUVpObVL9rcUHNXv6OOcqNHYm2s7BjW8xJBjGCPNxTmsfSZ628bNINnJutadMox1Ow9-rtt6A4xPbF22GjP7YhLyIZs6_Sm4xs1SIOL3ht6fEI0USZDIjTK2w-i_B3iytWxX-tkHfw4U4ph0XJ8lo3XUXqh8WkkeS-zpBbh9GhUf0yFZTHRi-BC8W-WxBQew5lCqBRzIjN4wgdmAi1h_AaplKbqmkQl8bVA9vIYL-MML5weoe7c1Zz6aKE3LyCs8Vh_iwGQqNsK--rK8Z00pOH5gMM4mcMEDL4mmxqLSJ6yte-eRrFzSM1Z_56hnxVVaFS2qVdD7_ZmIrtmMar3S7LSAyTi98j1pkW-WXAPYimBTLBKPOn2Hjl3DC4W2gL7v9IWXvcwjCvIjKbKMUxlRSHaDJDsvYO6VHTZEb7GXEabsdLRI4Ge8NeUwAF8DUmqUKCsbUhPXgM0-ZEJ4hfXIDyUSmTqKSHfn1vK4HoTJ8JYVeLehh9_VNiUlwsGLzCui5qJfHWVwCpei8leXpJiBYI4-DW-I60wBhmpBzsBxsbbLoSEvCF3k4LxSDYnB2fluE9gJSQRXAl1Cc-iQ=w1224-h752-no
+---
+
+[![](https://lh3.googleusercontent.com/DK8e4eTonU9CGQCks8EWREG7WQaS6qdy8NSWd-HFj-gH2eD-FUtxIkWKofbUP9ByurnnF90crlhUVpObVL9rcUHNXv6OOcqNHYm2s7BjW8xJBjGCPNxTmsfSZ628bNINnJutadMox1Ow9-rtt6A4xPbF22GjP7YhLyIZs6_Sm4xs1SIOL3ht6fEI0USZDIjTK2w-i_B3iytWxX-tkHfw4U4ph0XJ8lo3XUXqh8WkkeS-zpBbh9GhUf0yFZTHRi-BC8W-WxBQew5lCqBRzIjN4wgdmAi1h_AaplKbqmkQl8bVA9vIYL-MML5weoe7c1Zz6aKE3LyCs8Vh_iwGQqNsK--rK8Z00pOH5gMM4mcMEDL4mmxqLSJ6yte-eRrFzSM1Z_56hnxVVaFS2qVdD7_ZmIrtmMar3S7LSAyTi98j1pkW-WXAPYimBTLBKPOn2Hjl3DC4W2gL7v9IWXvcwjCvIjKbKMUxlRSHaDJDsvYO6VHTZEb7GXEabsdLRI4Ge8NeUwAF8DUmqUKCsbUhPXgM0-ZEJ4hfXIDyUSmTqKSHfn1vK4HoTJ8JYVeLehh9_VNiUlwsGLzCui5qJfHWVwCpei8leXpJiBYI4-DW-I60wBhmpBzsBxsbbLoSEvCF3k4LxSDYnB2fluE9gJSQRXAl1Cc-iQ=w1224-h752-no)](https://photos.app.goo.gl/nxv4F5wTwfVPKGCT8)
+
+Homedev#315 - Leica M6 - Eastman Plus-X 5231 VIntage Cine Film

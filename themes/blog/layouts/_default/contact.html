@@ -1,0 +1,36 @@
+{{ define "main" }}
+<div class="contact-fullpage" style="background-image:url('https://blog.pocallum.cat/wp-content/uploads/2025/09/2025-09-16-LC-A-Foma400-Varies-0007-1536x942.jpg')">
+  <div class="contact-fullpage-overlay" aria-hidden="true"></div>
+
+  <div class="contact-fullpage-content container--narrow">
+    <header class="contact-fullpage-header">
+      <p class="page-eyebrow">Contacte</p>
+      <h1 class="page-title">{{ .Title }}</h1>
+      <p class="page-intro">Vols dir-me alguna cosa? Endavant.</p>
+    </header>
+
+    <div class="contact-options">
+      <div class="contact-option">
+        <p class="contact-option__label">Correu electrònic</p>
+        <p class="contact-option__value">
+          <a class="js-email contact-option__link" data-u="hola" data-d="pocallum.cat" href="#">hola<span aria-hidden="true">&#64;</span>pocallum.cat</a>
+        </p>
+      </div>
+      <div class="contact-option">
+        <p class="contact-option__label">Formulari de contacte</p>
+        <p class="contact-option__value">
+          <a class="contact-option__link" href="https://pocallum.cat/contacte/" target="_blank" rel="noopener noreferrer">pocallum.cat/contacte/ ↗</a>
+        </p>
+      </div>
+    </div>
+
+    <div class="contact-also">
+      <p class="contact-also-label">També em trobaràs a:</p>
+      <div class="contact-also-links">
+        {{ with .Site.Params.instagram }}<a href="{{ . }}" target="_blank" rel="noopener noreferrer" class="contact-also-link">Instagram</a>{{ end }}
+        {{ with .Site.Params.facebook }}<a href="{{ . }}" target="_blank" rel="noopener noreferrer" class="contact-also-link">Facebook</a>{{ end }}
+      </div>
+    </div>
+  </div>
+</div>
+{{ end }}

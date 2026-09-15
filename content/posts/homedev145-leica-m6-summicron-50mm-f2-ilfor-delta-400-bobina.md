@@ -1,0 +1,14 @@
+---
+title: "HomeDev#145 - Leica M6 - Summicron 50mm f/2 - Ilfor Delta 400 Bobina"
+date: 2017-08-20
+slug: "homedev145-leica-m6-summicron-50mm-f2-ilfor-delta-400-bobina"
+categories: 
+  - "leica-m6"
+  - "leica-summicron-m-50mmf-2-0"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2017/08/HD145-004.jpg
+image: https://lh3.googleusercontent.com/HqCjtD0ksthkWadmxxt1T6RtBnczOAmp_uD8pWfmdU4lxF8d_dDl5uBmVWnu4l0CId1TJUKRKafRIA8Yemc5YFmgaPARVOM95niooHTQioVx6gFw56UbNNYOD3SIw6uiX0ZB4mgqKLW5nEhMLn7ZVQT5gkBAVO34b3_H_GxZSwOBpjw3UL0oxPzrIv8yQRQesGYuMDVjAe4HkFSnjJM0dY6paOhPY7govYXR0BftBaWP0Ndi_WaBr0jgqd8PJHGJb8orBYbzErynyDhOlqH0jJpNgkxshXDuzrtB0sTpKXbfin1UOkNsYGxFnm_41rcPS-vwp1QOx9WTQsW_ycX1SvEEbhPi0fTGHswTJk5eHZz1eUUcVqd7-GwkmwUA7mDTxABaSkSDc0a0F-D57ZHTGKXMnVl-PWbL23WPd8m8DyGIRADWXYich7aw-cFsoR2h5BCAlloHSXQp0SWu6DxnssfF45n8DremRRYv5p0F5ffKuu7CZ5Fzd3dEQAE2Lt-DddIT57OpYWiLSN_lhtV-3XTP_rgXvqel4uhWK8aAltMB82RkhnXLq4za9MBGdhPuZF--NivkqdvejcNcMyLpw4mD8kPy4-nC0rrj9RbJUmam3B2e9AMQ-g=w1624-h1083-no
+---
+
+[![](https://lh3.googleusercontent.com/HqCjtD0ksthkWadmxxt1T6RtBnczOAmp_uD8pWfmdU4lxF8d_dDl5uBmVWnu4l0CId1TJUKRKafRIA8Yemc5YFmgaPARVOM95niooHTQioVx6gFw56UbNNYOD3SIw6uiX0ZB4mgqKLW5nEhMLn7ZVQT5gkBAVO34b3_H_GxZSwOBpjw3UL0oxPzrIv8yQRQesGYuMDVjAe4HkFSnjJM0dY6paOhPY7govYXR0BftBaWP0Ndi_WaBr0jgqd8PJHGJb8orBYbzErynyDhOlqH0jJpNgkxshXDuzrtB0sTpKXbfin1UOkNsYGxFnm_41rcPS-vwp1QOx9WTQsW_ycX1SvEEbhPi0fTGHswTJk5eHZz1eUUcVqd7-GwkmwUA7mDTxABaSkSDc0a0F-D57ZHTGKXMnVl-PWbL23WPd8m8DyGIRADWXYich7aw-cFsoR2h5BCAlloHSXQp0SWu6DxnssfF45n8DremRRYv5p0F5ffKuu7CZ5Fzd3dEQAE2Lt-DddIT57OpYWiLSN_lhtV-3XTP_rgXvqel4uhWK8aAltMB82RkhnXLq4za9MBGdhPuZF--NivkqdvejcNcMyLpw4mD8kPy4-nC0rrj9RbJUmam3B2e9AMQ-g=w1624-h1083-no)](https://goo.gl/photos/oczUZGErLfv9sAaVA)

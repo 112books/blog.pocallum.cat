@@ -1,0 +1,23 @@
+---
+title: "Poti-poti variat"
+date: 2021-04-24
+slug: "poti-poti-variat"
+categories: 
+  - "lc-a-original"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2021/04/2021-04-23-LC-a-012.jpg
+image: https://lh3.googleusercontent.com/CBxHqYgg9j0Ju2xCn8zg4pdVLqTKt9RpbkjIzWGm-SvPJDfUhX_V0AHHQZp-QTxLdevd6f1mSOQbvV3Swo9-gi3LarJUxRTNKi3HOvZdlIT0ifzcUMsVkWetbYwdOSzfK2Nb0Ro_12kjQdZayhcnprUp-VWUC2lyx70GTRTGkQsOoamr05nBEgcP3lhItlA6I9_H-1s-_PmbUH80umdOnYNnqfwa4N5AN1EF6hHE1tEfi9nxsnmYA5sKKbtwCTIDEzcdZkPf5ClzbYEguIe4yBpf1kms1m2q6xSVPkzla2HBxO-E2wFGSd4ePafVJM2umnu527WP3KR_aiUgywWGxug-Ph5Lco-2hx7f5y-c99bfHH7CusEvjZyt0FgZJ9dayL6x6RuOyG8zGAbKb53ncyavshBnpZNF4lXdfX1zjNLl41R-_ZfifrDwXObld_d6os6-Mf2JyApBsWMi4-VYLfFW-ETEWkECeXkc_lScR4iVKjZrtTpJmyabLhIqe9GbDnR0UbJawp1c49JCsh7RDlvxPWjWz66jPPsUJGkdCO07j9hGpX6Cp37vpcDQk_nJp91x2a42hmahGKdPZXLAj1CgGcRqaLH4wVc-cPtCifChNPuylkh9DbvUGIaJLsLM73FO4A0pZbE2H2McS5nMuJipj7Rv_avvmWMtxYQHW30lMKJOXNn-z5p6qNAACpgy5LNhXqaGpZOOpa63pzM5y3GV=w1809-h1124-no?authuser=0
+---
+
+<figure>
+
+[![](https://lh3.googleusercontent.com/CBxHqYgg9j0Ju2xCn8zg4pdVLqTKt9RpbkjIzWGm-SvPJDfUhX_V0AHHQZp-QTxLdevd6f1mSOQbvV3Swo9-gi3LarJUxRTNKi3HOvZdlIT0ifzcUMsVkWetbYwdOSzfK2Nb0Ro_12kjQdZayhcnprUp-VWUC2lyx70GTRTGkQsOoamr05nBEgcP3lhItlA6I9_H-1s-_PmbUH80umdOnYNnqfwa4N5AN1EF6hHE1tEfi9nxsnmYA5sKKbtwCTIDEzcdZkPf5ClzbYEguIe4yBpf1kms1m2q6xSVPkzla2HBxO-E2wFGSd4ePafVJM2umnu527WP3KR_aiUgywWGxug-Ph5Lco-2hx7f5y-c99bfHH7CusEvjZyt0FgZJ9dayL6x6RuOyG8zGAbKb53ncyavshBnpZNF4lXdfX1zjNLl41R-_ZfifrDwXObld_d6os6-Mf2JyApBsWMi4-VYLfFW-ETEWkECeXkc_lScR4iVKjZrtTpJmyabLhIqe9GbDnR0UbJawp1c49JCsh7RDlvxPWjWz66jPPsUJGkdCO07j9hGpX6Cp37vpcDQk_nJp91x2a42hmahGKdPZXLAj1CgGcRqaLH4wVc-cPtCifChNPuylkh9DbvUGIaJLsLM73FO4A0pZbE2H2McS5nMuJipj7Rv_avvmWMtxYQHW30lMKJOXNn-z5p6qNAACpgy5LNhXqaGpZOOpa63pzM5y3GV=w1809-h1124-no?authuser=0)](https://photos.app.goo.gl/89J6jdnqM5EsD7Aa6)
+
+<figcaption>
+
+2021-04-23 - LC-A original - APX400 - varies
+
+</figcaption>
+
+</figure>

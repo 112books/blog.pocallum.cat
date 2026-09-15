@@ -1,0 +1,20 @@
+---
+title: "BAUM’19 – Barcelona Tattoo Show – Dissabte 5"
+date: 2019-10-07
+slug: "baum19-barcelona-tattoo-show-dissabte-5"
+categories: 
+  - "leica-m6"
+tags:
+  - "agfa-apx-400"
+  - "barcelona-tattoo-show"
+  - "baumfest"
+  - "pushed800"
+  - "summicron-40mmf-2"
+author: "inuxbcn"
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2019/10/HD443-001.jpg
+image: https://lh3.googleusercontent.com/HPJnpkqCNPdHHPSpBe-awqpYCl0_MVEXypLHvlBi8x4FLzhbc7aMQ6huDEhzEQF9lyR76Xw0VqPeinfPfKtZrYpqUoGv9DJAhauBN1hcMvmHL6yqfHSQ9ku8CMfkp8bFuS4fTCBRSvsLmeM7iVcR_cU-WKIajg7Q4nnA8t5Rg3IzRAy53qCi5y-HXgtgCOxCKE_Qi1kZRN7M4kq8ZF_qginct7hf9weszpqrvAfxw3uh2lFXp6ngyPB9Xnb_C239xh9fOdnMf2pjSXvxp9l3aNm0edPCVNbqTglhy1nB0_vAV1wvSmg2vtp76gVdGI8KGNE72ePFuOkzuGSJrt-OhRhmSgKR3KeOXM2LTiJEmqKXJ8Ue5kHvJR80vPThgxdTnfUQ-QVCvdoRujxm6HggMa-YMJyPhS0Z0y_pfE5rqOoMm0ATo7WC4X17x0z467EeIrWvV9PO3v0uTaWXZZSvthojKnHkutt31XsL9ZecsibfMRg5eW9yEjjfUeT57XGhXSFL-Nm44kmPYDqG5ITLcajpQMTqfoItD5MTzDSo8NcGN7267DfARs1nOgGZhhYJk3P2x6JtbZxYZixOJifHx7qIko1i3ENSRlRKb_QTysHz82ylpdDO55hVsC1r22JG4AQQEIdqqmwIS8iWCZCzT381GPUaZ3UILP3yQTtQweV1NPP1vBU1A_RJ=w766-h1239-no
+---
+
+[![](https://lh3.googleusercontent.com/HPJnpkqCNPdHHPSpBe-awqpYCl0_MVEXypLHvlBi8x4FLzhbc7aMQ6huDEhzEQF9lyR76Xw0VqPeinfPfKtZrYpqUoGv9DJAhauBN1hcMvmHL6yqfHSQ9ku8CMfkp8bFuS4fTCBRSvsLmeM7iVcR_cU-WKIajg7Q4nnA8t5Rg3IzRAy53qCi5y-HXgtgCOxCKE_Qi1kZRN7M4kq8ZF_qginct7hf9weszpqrvAfxw3uh2lFXp6ngyPB9Xnb_C239xh9fOdnMf2pjSXvxp9l3aNm0edPCVNbqTglhy1nB0_vAV1wvSmg2vtp76gVdGI8KGNE72ePFuOkzuGSJrt-OhRhmSgKR3KeOXM2LTiJEmqKXJ8Ue5kHvJR80vPThgxdTnfUQ-QVCvdoRujxm6HggMa-YMJyPhS0Z0y_pfE5rqOoMm0ATo7WC4X17x0z467EeIrWvV9PO3v0uTaWXZZSvthojKnHkutt31XsL9ZecsibfMRg5eW9yEjjfUeT57XGhXSFL-Nm44kmPYDqG5ITLcajpQMTqfoItD5MTzDSo8NcGN7267DfARs1nOgGZhhYJk3P2x6JtbZxYZixOJifHx7qIko1i3ENSRlRKb_QTysHz82ylpdDO55hVsC1r22JG4AQQEIdqqmwIS8iWCZCzT381GPUaZ3UILP3yQTtQweV1NPP1vBU1A_RJ=w766-h1239-no)](https://photos.app.goo.gl/E4KnBCY6sVDiLxb36)
+
+Leica M6 - Summicron 40mmf/2 - Agfa APX 400 @800

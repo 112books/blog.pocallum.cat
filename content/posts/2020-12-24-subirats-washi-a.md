@@ -1,0 +1,23 @@
+---
+title: "2020-12-24 - Subirats - Washi A"
+date: 2022-01-22
+slug: "2020-12-24-subirats-washi-a"
+categories: 
+  - "leica-m6"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2022/01/2020-12-24-Subirats-009.jpg
+image: https://lh3.googleusercontent.com/u2BfCqmqAuED4XcQb_IsFrN6HSsA7eZ8cbxpUo3z8Aevbz0SVw5vfKlE6FPo4WOcO8xO-a2H8gx-79tikFE16a4zNsWZxWIx4JFRYxOXlDtKkCejgOsxqvov2wgimGN1qyM-jv6EZGxBiUEv7zOlmEo-yJ78IE84Mtv34xhQdkibFQOxZzkIyqfY8Euw6ahbjQ0zZ_psg79hNwWUF8BkwRTGeyjdxvIuCvS9b24XK4KigyIKGg7gaaBmHHcJmEpC7rV9prSYyUxhcCyPb14U3lfUyqXZvmPY6NQ2to6Nd08zcV4D9puw_Pyhj08NmwPnCjLhCmud_LGi0fxF6lu5Q_fCNk8azKh8sAfe_ffWOO0D2MjUatOGp0KXqOsHGS31NSf4j4gqnaVXIazUODSH_rVizPdmChIrk46vzy2O1PUl5G9s9Kahd-rMirhFsvqG1iRMFTIUhz9Gwa4vF4qAk_ysk40LjgNkfLetSHY-epIurWdOnEpeHP0Iyh1IIzNm67pGjaESkq2-nHEs7huJ3h6OlxApsayQayYO7KVQS8k-OsUsU4qvOhOURBs-Gplz-IBdT6qbo6fqIQJ3C2UFj2J8osyJqGoObDgnGa3-kzjoKPZRyVN5NfR_HPmERq-OwLg-_UDzSuGhvY9B1rZPt4IxQ-XbZibGtZOYopVwS0C3No-By0ab7ZL0O5lT8SZUJb-xPQcJv-ew2Ig8bVcOBVMH=w1903-h1195-no?authuser=0
+---
+
+<figure>
+
+[![](https://lh3.googleusercontent.com/u2BfCqmqAuED4XcQb_IsFrN6HSsA7eZ8cbxpUo3z8Aevbz0SVw5vfKlE6FPo4WOcO8xO-a2H8gx-79tikFE16a4zNsWZxWIx4JFRYxOXlDtKkCejgOsxqvov2wgimGN1qyM-jv6EZGxBiUEv7zOlmEo-yJ78IE84Mtv34xhQdkibFQOxZzkIyqfY8Euw6ahbjQ0zZ_psg79hNwWUF8BkwRTGeyjdxvIuCvS9b24XK4KigyIKGg7gaaBmHHcJmEpC7rV9prSYyUxhcCyPb14U3lfUyqXZvmPY6NQ2to6Nd08zcV4D9puw_Pyhj08NmwPnCjLhCmud_LGi0fxF6lu5Q_fCNk8azKh8sAfe_ffWOO0D2MjUatOGp0KXqOsHGS31NSf4j4gqnaVXIazUODSH_rVizPdmChIrk46vzy2O1PUl5G9s9Kahd-rMirhFsvqG1iRMFTIUhz9Gwa4vF4qAk_ysk40LjgNkfLetSHY-epIurWdOnEpeHP0Iyh1IIzNm67pGjaESkq2-nHEs7huJ3h6OlxApsayQayYO7KVQS8k-OsUsU4qvOhOURBs-Gplz-IBdT6qbo6fqIQJ3C2UFj2J8osyJqGoObDgnGa3-kzjoKPZRyVN5NfR_HPmERq-OwLg-_UDzSuGhvY9B1rZPt4IxQ-XbZibGtZOYopVwS0C3No-By0ab7ZL0O5lT8SZUJb-xPQcJv-ew2Ig8bVcOBVMH=w1903-h1195-no?authuser=0)](https://photos.app.goo.gl/EGRzLY9S4uzVJ7gr5)
+
+<figcaption>
+
+Leica M6 - Voigtlander 35f/1.7 - Washi A ISO12
+
+</figcaption>
+
+</figure>

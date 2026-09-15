@@ -1,0 +1,15 @@
+---
+title: "HomeDev#108 - Leica M6 - Júpiter 35 f/2.8 - Fomapan 200"
+date: 2017-04-09
+slug: "homedev108-leica-m6-jupiter-35-f2-8-fomapan-200"
+categories: 
+  - "leica-m6"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2017/04/HD108-009.jpg
+image: https://lh3.googleusercontent.com/iqX9-doW1Sx2sQwtcLZDYFmVu7I7uyk7r3ZtB1--6oZQzq5tpqsKVOBUiv1ezIa2Zn5cwnfQ1WAhJXWcUP7-2d9RcPEjtAYZcEqvfbg9mVHCOB-M6KhPLkqI-iL1klvAV-6TfSxxHy0NfJd3e_nAcxc0m6ESeV5NmLxwNwuHRnmPU5WBVSZ4PBGPtBXj7nHNLWPUvuPNMxKBoGPWekPx020weeKIgO29eKF0PznVeKXdSf796--ubRQofp8BCXaMGvt-yafMB7nsChs-d2cWhMk0VOze9dl0YxvQ92ZRABAoX4OHCbfY57mfa6fbbSa5qIdrnEqzDRiT1__VFdGVyjO4fyoJL6NHkEMXRG3YINFZCVPxzaCAdSXo0hn_IhRT4Wv0llTSp-64vwwmck0Cl3jBPndAlkJ4W7WMZHZ9E8neYNGZRoe9OSSkYDPcEviIml3V3rHgn2Da63_L2jTXUeGJpvId7Ew-VA9nHSxiSUuBXZYYpO5AxC2l9_X2kCiUKll6zzG6M3WuPFyIDdPM-4kOiNMjVjVFZS6wu1H_oS35lKPB7KVBKq9vDF8FH_aqon5F4-R_-o1kNjzwD9nOf_ArKBDBh6HxGiXvqy3Q-K9yOf6X2ulhgA=w1432-h955-no
+---
+
+[![](https://lh3.googleusercontent.com/iqX9-doW1Sx2sQwtcLZDYFmVu7I7uyk7r3ZtB1--6oZQzq5tpqsKVOBUiv1ezIa2Zn5cwnfQ1WAhJXWcUP7-2d9RcPEjtAYZcEqvfbg9mVHCOB-M6KhPLkqI-iL1klvAV-6TfSxxHy0NfJd3e_nAcxc0m6ESeV5NmLxwNwuHRnmPU5WBVSZ4PBGPtBXj7nHNLWPUvuPNMxKBoGPWekPx020weeKIgO29eKF0PznVeKXdSf796--ubRQofp8BCXaMGvt-yafMB7nsChs-d2cWhMk0VOze9dl0YxvQ92ZRABAoX4OHCbfY57mfa6fbbSa5qIdrnEqzDRiT1__VFdGVyjO4fyoJL6NHkEMXRG3YINFZCVPxzaCAdSXo0hn_IhRT4Wv0llTSp-64vwwmck0Cl3jBPndAlkJ4W7WMZHZ9E8neYNGZRoe9OSSkYDPcEviIml3V3rHgn2Da63_L2jTXUeGJpvId7Ew-VA9nHSxiSUuBXZYYpO5AxC2l9_X2kCiUKll6zzG6M3WuPFyIDdPM-4kOiNMjVjVFZS6wu1H_oS35lKPB7KVBKq9vDF8FH_aqon5F4-R_-o1kNjzwD9nOf_ArKBDBh6HxGiXvqy3Q-K9yOf6X2ulhgA=w1432-h955-no)](https://goo.gl/photos/GVd2TtnfX1g47cRBA)
+
+Petit reportatge de la 23ena Trobada de Monococlistes celebrada aquest cap de setmana a l'Ateneu Popular de Nou Barris.

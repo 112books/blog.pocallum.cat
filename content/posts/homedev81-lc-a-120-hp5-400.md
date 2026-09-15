@@ -1,0 +1,15 @@
+---
+title: "HomeDev#81 - LC-A 120 - HP5 400"
+date: 2016-11-15
+slug: "homedev81-lc-a-120-hp5-400"
+categories: 
+  - "lc-a-120"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2016/11/HD81-LC-a120-HP5-HC110-001.jpg
+image: https://lh3.googleusercontent.com/joFLH6J-vZLeCg40Z10pdr7PDb-KuH4csQ74M-MKLFhkzOMaiggQkDlInNqi5YOzrudeGd8zYomKFJ1XG2e-zlg-4ZMmRG3xmvlRfCspPJm0dqBZQhlSzrGgzxSOtQb1SMsU-yivM4y81dGXnTXm1PM05rovEmKAz0EhyzSZcwiTXBTCpeOf_6_yC331cZd7QN1koSnMlnZi-gMt9JrlxXA1St4bmS-RvIrS7i4g8c8gIYVhZZWUIJsRw0no2fO-RMQmOQKoVRdGVDDA9y0ANqtd3kz5UZoSqMGCuw7hMXey7i8iBML61L-RszmhHqGzhM3xlVSI32tp4Hx4GPwp_lUsWq7Sb3tgVFVJNnGqjG6sx1rpLMQYMSU5VLJYwe9eupk6GAYowNmTNWOIUhNhTBQ5gB55pb97AyloMj8yKW6czjSSctRhiznGAfp7oP520XTs6I1oJ5xodu49GrpiALjP1ZslD7DhTV7lr8qIEPbuEjSjzKrylRBzR4rD2imZM4PgXpgBbQzyXerU5yR2jbFuvbbRQ-aU5x1QS1-Aley1f_solJxYwhzwS8g56jepyg86Cac0d3BXHCiG3h4KPRoIPa2hYln1WT0-4MQJRYnTbfYvQw=s1339-no
+---
+
+[![](https://lh3.googleusercontent.com/joFLH6J-vZLeCg40Z10pdr7PDb-KuH4csQ74M-MKLFhkzOMaiggQkDlInNqi5YOzrudeGd8zYomKFJ1XG2e-zlg-4ZMmRG3xmvlRfCspPJm0dqBZQhlSzrGgzxSOtQb1SMsU-yivM4y81dGXnTXm1PM05rovEmKAz0EhyzSZcwiTXBTCpeOf_6_yC331cZd7QN1koSnMlnZi-gMt9JrlxXA1St4bmS-RvIrS7i4g8c8gIYVhZZWUIJsRw0no2fO-RMQmOQKoVRdGVDDA9y0ANqtd3kz5UZoSqMGCuw7hMXey7i8iBML61L-RszmhHqGzhM3xlVSI32tp4Hx4GPwp_lUsWq7Sb3tgVFVJNnGqjG6sx1rpLMQYMSU5VLJYwe9eupk6GAYowNmTNWOIUhNhTBQ5gB55pb97AyloMj8yKW6czjSSctRhiznGAfp7oP520XTs6I1oJ5xodu49GrpiALjP1ZslD7DhTV7lr8qIEPbuEjSjzKrylRBzR4rD2imZM4PgXpgBbQzyXerU5yR2jbFuvbbRQ-aU5x1QS1-Aley1f_solJxYwhzwS8g56jepyg86Cac0d3BXHCiG3h4KPRoIPa2hYln1WT0-4MQJRYnTbfYvQw=s1339-no)](https://goo.gl/photos/Bv6GYCL31yq86yFo8)
+
+Resultats d'un HP5 de 400 disparats a 200 i revelat amb HC 110 a 7,5 minuts.

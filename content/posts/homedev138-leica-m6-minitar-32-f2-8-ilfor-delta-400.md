@@ -1,0 +1,14 @@
+---
+title: "HomeDev#138 - Leica M6 - Minitar 32 f/2.8 - Ilfor Delta 400"
+date: 2017-08-01
+slug: "homedev138-leica-m6-minitar-32-f2-8-ilfor-delta-400"
+categories: 
+  - "leica-m6"
+  - "lomography-lc-a-minitar-1-lens-2-8-32mm-leica-montura-m"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2017/08/HD138-036.jpg
+image: https://lh3.googleusercontent.com/8eSREXAQpgI5ednW2KkA9f0dK3R1lTwooNts9OgLmpUNlJybggkOdtH1NmzRTJO6ZQOmCouk4azgECtoM0lMHCtpstpKNhDd1bWN0zKZxR4fCVdSfGrntZlPExIBoffUohjdJeC_IvVx8Ut7xZ7f_ehbBcZISg5_s2FstCS_YzWOl_PL3ADvaMaAondFw-jvb7_1dXaUue9yZpaonPLoTvEksqz9oIvTr_LuSuZxcq-iC1eLOFZ3zfQsdIC2GBSdQ-fqcL_8T2DlLVmsf-g-nlqY27IAWmy9W-OwzCWvrMLxHlaUzYNBk85JnkLDW9X6C1FrLy_mcKinU7NARlJs9CZTEfQj_Lk3tLDKqSOco39mJPu36P4cwHV5YcyAp04N-5qLtxFNxRaQsXthdqPrJ51k5ADA-oBVeMo_bR19AKafC-9QJIRVhqiM4IxSA7VbMdlivsWYa1XHQGgYoHt0ITam_CQsYxLTTlZE_guYI3ef7hCfHgVQb5zxMGfxuKXlGlI2cqWwaBl_xltjDtZ6fGZyJHTOHDdE0DZVE-OohQN4r1-9E6gLT8iyBlAFTAvBqeoKvRqtyDVKNu3vb2gRdWxaPJiAt8or109syDd1HN6WsOhkbDu-bx9kRw=w1527-h1018-no
+---
+
+[![](https://lh3.googleusercontent.com/8eSREXAQpgI5ednW2KkA9f0dK3R1lTwooNts9OgLmpUNlJybggkOdtH1NmzRTJO6ZQOmCouk4azgECtoM0lMHCtpstpKNhDd1bWN0zKZxR4fCVdSfGrntZlPExIBoffUohjdJeC_IvVx8Ut7xZ7f_ehbBcZISg5_s2FstCS_YzWOl_PL3ADvaMaAondFw-jvb7_1dXaUue9yZpaonPLoTvEksqz9oIvTr_LuSuZxcq-iC1eLOFZ3zfQsdIC2GBSdQ-fqcL_8T2DlLVmsf-g-nlqY27IAWmy9W-OwzCWvrMLxHlaUzYNBk85JnkLDW9X6C1FrLy_mcKinU7NARlJs9CZTEfQj_Lk3tLDKqSOco39mJPu36P4cwHV5YcyAp04N-5qLtxFNxRaQsXthdqPrJ51k5ADA-oBVeMo_bR19AKafC-9QJIRVhqiM4IxSA7VbMdlivsWYa1XHQGgYoHt0ITam_CQsYxLTTlZE_guYI3ef7hCfHgVQb5zxMGfxuKXlGlI2cqWwaBl_xltjDtZ6fGZyJHTOHDdE0DZVE-OohQN4r1-9E6gLT8iyBlAFTAvBqeoKvRqtyDVKNu3vb2gRdWxaPJiAt8or109syDd1HN6WsOhkbDu-bx9kRw=w1527-h1018-no)](https://photos.app.goo.gl/IG40kjN4vswPwKGe2)

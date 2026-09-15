@@ -16,6 +16,7 @@ defaultContentLanguage = "ca"
 [outputs]
   home    = ["HTML", "RSS"]
   section = ["HTML", "RSS"]
+  taxonomy = ["HTML"]
 
 [outputFormats]
   [outputFormats.RSS]
@@ -24,6 +25,10 @@ defaultContentLanguage = "ca"
 [taxonomies]
   category = "categories"
   tag      = "tags"
+
+[services]
+  [services.rss]
+    limit = 10   # com el /feed/ del WordPress (10 últims posts)
 
 [permalinks]
   posts = "/:year/:month/:day/:slug/"
@@ -34,7 +39,18 @@ defaultContentLanguage = "ca"
   instagram   = "https://www.instagram.com/pocallum"
   facebook    = "https://www.facebook.com/pocallum"
   webPare     = "https://pocallum.cat"
-  goatcounterSite = "blog-pocallum"   # pendent de crear a goatcounter.com
+  defaultOgImage = "https://blog.pocallum.cat/wp-content/uploads/2014/04/7706-Bronica-CN400-014.jpg"
+  goatcounterSite = "pocallum-blog"
+
+  # giscus — comentaris via GitHub Discussions
+  # Activar: 1) habilitar Discussions al repo, 2) instal·lar app a giscus.app,
+  #          3) omplir giscusRepoId i giscusCategoryId amb els valors de giscus.app
+  # Formulari de contacte (Formspree — formspree.io/forms → New Form → copia l'ID)
+  formspreeId = ""   # ex: "xrgjabnk" — obtenir a formspree.io
+
+  giscusRepo       = "112books/blog.pocallum.cat"
+  giscusRepoId     = "R_kgDOUarUZA"
+  giscusCategoryId = "DIC_kwDOUarUZM4DFoz1"
 
 [markup]
   [markup.goldmark]
@@ -54,21 +70,22 @@ defaultContentLanguage = "ca"
   weight = 1
 
 [[menus.main]]
+  name   = "Arxiu"
+  url    = "/arxiu/"
+  weight = 2
+
+[[menus.main]]
   name   = "Pocallum.cat"
   url    = "https://pocallum.cat"
-  weight = 2
+  weight = 3
 
 [[menus.main]]
   name   = "About"
   url    = "/about/"
-  weight = 3
+  weight = 4
 
 [[menus.main]]
   name   = "Contact"
   url    = "/contact/"
-  weight = 4
-
-[[menus.main]]
-  name   = "Cerca"
-  url    = "/cerca/"
   weight = 5
+

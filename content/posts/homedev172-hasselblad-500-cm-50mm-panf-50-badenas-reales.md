@@ -1,0 +1,15 @@
+---
+title: "HomeDev#172 - Hasselblad 500 CM - 50mm - PanF+ 50 - Badenas Reales"
+date: 2017-12-16
+slug: "homedev172-hasselblad-500-cm-50mm-panf-50-badenas-reales"
+categories: 
+  - "hasselblad-500cm"
+author: "inuxbcn"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2017/12/HD172-004.jpg
+image: https://lh3.googleusercontent.com/4d7KwfHNoFZmmDRZIbvetJnWDXM12pyuerH4iq_f4RdZx1ZBZB9LzLbX8Kn7q7uPQ13axYuio3QKtWu-0MtcOMDnut7cGKH1SHhBQyFA7hSWhjrUDz4pURQEhwx6fwo7TRkWttr_1bEB_KS_s17FddFUSYZTueiqMs_zeQkaKMSazf3VO0Y-QUAeHHfMZfwgKIm2LOi7l6r_pZ28GeZrIMD9Dwzn9BqdHjSTNoLsEj_mmLephSQPk7lvPFkFBkOvbrmKRwj86r_nXjroxVh51CuFRlxfWLWhKd4TB5Y-OXxtt50W6LS9wxYMnARKIgeLbfA-8V_GfV-AMk21ZQKOFGGX7OpYjLxd6SLDjqRpNWLovCRChF7FyPQIxYBKwcHBtT48h80MZ6BAWq-YoGddIJPJ0dgBBpxLgIeySFfI1Dr_9PS4sYI2TeUsHh9dlpCA-tO-NBDlFrzBo77njDKnaTxdG5kolXUmrAeGJ6252NVXX-SqlxN64ZG7JQkjs7dOV2vUvQbbNESJCQ529msN_BixSwy9hzhu29_Wip84aVrLqh_QtxlsTe6yez8lqO7j1q68Pp9nnTm_4OudtRaHpXYMQ5KmJ8gYuw-nr8YXtHY=s1323-no
+---
+
+[![](https://lh3.googleusercontent.com/4d7KwfHNoFZmmDRZIbvetJnWDXM12pyuerH4iq_f4RdZx1ZBZB9LzLbX8Kn7q7uPQ13axYuio3QKtWu-0MtcOMDnut7cGKH1SHhBQyFA7hSWhjrUDz4pURQEhwx6fwo7TRkWttr_1bEB_KS_s17FddFUSYZTueiqMs_zeQkaKMSazf3VO0Y-QUAeHHfMZfwgKIm2LOi7l6r_pZ28GeZrIMD9Dwzn9BqdHjSTNoLsEj_mmLephSQPk7lvPFkFBkOvbrmKRwj86r_nXjroxVh51CuFRlxfWLWhKd4TB5Y-OXxtt50W6LS9wxYMnARKIgeLbfA-8V_GfV-AMk21ZQKOFGGX7OpYjLxd6SLDjqRpNWLovCRChF7FyPQIxYBKwcHBtT48h80MZ6BAWq-YoGddIJPJ0dgBBpxLgIeySFfI1Dr_9PS4sYI2TeUsHh9dlpCA-tO-NBDlFrzBo77njDKnaTxdG5kolXUmrAeGJ6252NVXX-SqlxN64ZG7JQkjs7dOV2vUvQbbNESJCQ529msN_BixSwy9hzhu29_Wip84aVrLqh_QtxlsTe6yez8lqO7j1q68Pp9nnTm_4OudtRaHpXYMQ5KmJ8gYuw-nr8YXtHY=s1323-no)](https://photos.app.goo.gl/cQkiV0ii7wTWQifY2)
+
+Més amb PanF+

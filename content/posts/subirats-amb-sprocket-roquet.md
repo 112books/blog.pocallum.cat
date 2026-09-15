@@ -1,0 +1,21 @@
+---
+title: "Subirats amb Sprocket Roquet"
+date: 2019-10-28
+slug: "subirats-amb-sprocket-roquet"
+categories: 
+  - "general"
+tags:
+  - "125"
+  - "el-pago"
+  - "pushed100"
+  - "rodinal"
+  - "rollei-rpx-25"
+  - "subirats"
+author: "inuxbcn"
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2019/10/HD449-015.jpg
+image: https://lh3.googleusercontent.com/TJu9UsAheCVWnG0Gl_amupG7hz2Q3uJ9Vzfi82CURHn1BkglG_vJOqBS2fOx6UclklWpHJuBkBQfX5q_6W_tP9hZLNviIQrkdk2AQ-2ne5tFsn11dJyDmbBI2iTIuyq6d9sZXOJx4cgyrLsNwfa6zppL4NAjzkEJZQzCwCIzFZEQKkWuk9AO6LUfMI79FvudLF9foYB8KqkImSCc82eONbBQmUSBtl2EUKZdAfsX8La-wMkFLnU6cVlJMp950dCVpelYI7t2FNULRAtpDEzjgLDGS7Jmzte9wTQYoJzgJfAhiMpQIu59SehBz16HPxxrOeLbWYQ_vI8mpRzbYciwr4M5kHUw4KmOJpBBtBrxre-swL9PG5XjR3ZOEGWyIYTmVHUYJ-N3THYu5rd2W5FLtT5V5XwKU8ehMf9oXFNnnmiZbui8D-T8xSZOdyiXrKTZHa8ui5CiFNiooRb3FR8lzN_nJVM54-Cy0RPppHq9ksychbD2wV3wjZcUxLYa98I7y02NDOPlNtUy-fby7mWfB_7bEY_RRsX772RiXhus3k2q-N4OmMJuB6B2dK-DiV_VpqaYiQ44nwT0479UVmKPAOvDiQlfVUbYXXlex5o5Kx-98nm6xJjovQzVoPihnF3yRbXfvZK5vS30BMFp1GSPAwWB60rinInmUGwZKHYL5CebALEoc5jXGkLB=w436-h1310-no
+---
+
+[![](https://lh3.googleusercontent.com/TJu9UsAheCVWnG0Gl_amupG7hz2Q3uJ9Vzfi82CURHn1BkglG_vJOqBS2fOx6UclklWpHJuBkBQfX5q_6W_tP9hZLNviIQrkdk2AQ-2ne5tFsn11dJyDmbBI2iTIuyq6d9sZXOJx4cgyrLsNwfa6zppL4NAjzkEJZQzCwCIzFZEQKkWuk9AO6LUfMI79FvudLF9foYB8KqkImSCc82eONbBQmUSBtl2EUKZdAfsX8La-wMkFLnU6cVlJMp950dCVpelYI7t2FNULRAtpDEzjgLDGS7Jmzte9wTQYoJzgJfAhiMpQIu59SehBz16HPxxrOeLbWYQ_vI8mpRzbYciwr4M5kHUw4KmOJpBBtBrxre-swL9PG5XjR3ZOEGWyIYTmVHUYJ-N3THYu5rd2W5FLtT5V5XwKU8ehMf9oXFNnnmiZbui8D-T8xSZOdyiXrKTZHa8ui5CiFNiooRb3FR8lzN_nJVM54-Cy0RPppHq9ksychbD2wV3wjZcUxLYa98I7y02NDOPlNtUy-fby7mWfB_7bEY_RRsX772RiXhus3k2q-N4OmMJuB6B2dK-DiV_VpqaYiQ44nwT0479UVmKPAOvDiQlfVUbYXXlex5o5Kx-98nm6xJjovQzVoPihnF3yRbXfvZK5vS30BMFp1GSPAwWB60rinInmUGwZKHYL5CebALEoc5jXGkLB=w436-h1310-no)](https://photos.app.goo.gl/68mbrroqczU5Ec8P8)
+
+HD#449 - Sprocket Roquet - RolleiRPX25 @100 Rodinal1+25

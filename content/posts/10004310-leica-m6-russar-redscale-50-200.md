@@ -1,0 +1,15 @@
+---
+title: "10004310 - Leica M6 - Russar+ - Redscale 50-200"
+date: 2016-11-29
+slug: "10004310-leica-m6-russar-redscale-50-200"
+categories: 
+  - "leica-m6"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2016/11/F1000004.jpg
+image: https://lh3.googleusercontent.com/vCMVFskVs9-_Qcrc4x7oI4L7CwnoxwoYyg6FuO6WuujCXnOGGJmA3I2tQxGVs_12vM3b1aKU-iYR1fldHIVaJATw8ZgHCKR4JCEHiltNCrQzghxmy91nQSwvAAMbCx84u89aePuvxkCQ1WjateLxaxNI0lBEIkuq3IJGssjtQoA55Snv38qcRTYn-uHh0yjXtDwQON-pNxSeOiFOgVNHKZ_KYB2NsFnBN3oe3LhS_VjiMxBuU6R10YA84ch6skGLVu0mFsHtoWftW58i9abfCf-oq2Ru7-JDqF2P8Un8DMak-02lnurhlTkMH2QHmx5r7od0Lnhm0zcWjqa7VwJM2Ict-Q9LRqk8vX4MecnJxdmheVlECw7AA4naGHIgtmiNHzNEN0p1MrN1r-Mi0KbDNrhwVtJQelqzqQPV_yXnIfaD1CI3NPDtiY3ckHAA_KIyTZLyZPT0GvzOh3Ep8ukyayTxUHHvPzQg3E5DTr-r7zz8ZYsyaGk4bUN7Pe7bKoZsJrQA95OHq5M0wmRPIoR6_HYPtvr-Oh7I_p2AgwwqHXUbBtQQJ6Vs5AB_-Y2m85oDu8jrYlOIH1WxpBj1h2-29FVu4gI95n2dlEiXoNr89tazUGFPNg=w1064-h712-no
+---
+
+[![](https://lh3.googleusercontent.com/vCMVFskVs9-_Qcrc4x7oI4L7CwnoxwoYyg6FuO6WuujCXnOGGJmA3I2tQxGVs_12vM3b1aKU-iYR1fldHIVaJATw8ZgHCKR4JCEHiltNCrQzghxmy91nQSwvAAMbCx84u89aePuvxkCQ1WjateLxaxNI0lBEIkuq3IJGssjtQoA55Snv38qcRTYn-uHh0yjXtDwQON-pNxSeOiFOgVNHKZ_KYB2NsFnBN3oe3LhS_VjiMxBuU6R10YA84ch6skGLVu0mFsHtoWftW58i9abfCf-oq2Ru7-JDqF2P8Un8DMak-02lnurhlTkMH2QHmx5r7od0Lnhm0zcWjqa7VwJM2Ict-Q9LRqk8vX4MecnJxdmheVlECw7AA4naGHIgtmiNHzNEN0p1MrN1r-Mi0KbDNrhwVtJQelqzqQPV_yXnIfaD1CI3NPDtiY3ckHAA_KIyTZLyZPT0GvzOh3Ep8ukyayTxUHHvPzQg3E5DTr-r7zz8ZYsyaGk4bUN7Pe7bKoZsJrQA95OHq5M0wmRPIoR6_HYPtvr-Oh7I_p2AgwwqHXUbBtQQJ6Vs5AB_-Y2m85oDu8jrYlOIH1WxpBj1h2-29FVu4gI95n2dlEiXoNr89tazUGFPNg=w1064-h712-no)](https://goo.gl/photos/kQaJsgyX3ZezVp2T8)
+
+Uns experiments imposibles amb Leica M6 i la òptica de Lomo Rissar+. La película la estimada i odiada Redscale 50-200

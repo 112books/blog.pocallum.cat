@@ -1,0 +1,23 @@
+---
+title: "2021-03-25 - Nau Bostik varis"
+date: 2021-03-23
+slug: "2021-03-25-nau-bostik-varis"
+categories: 
+  - "lc-a-original"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2021/03/2021-03-25-Nau-Bost-018.jpg
+image: https://lh3.googleusercontent.com/q7cxSURztXyIv5Z5U2TB3PYDLm6kVsYJeSGjhM3IkwgdICUca2aNsmVYe-HwpHH8r2LW0Q046wExwJTo3D3Ra8bx8Gs-tbIQT1EUkL1FJWl3LK894fa7sOgKuYxGuxKvrS01Esf6H7pDLfDScANF8XKqQmUxcp5QdEqarA1C7cINDdrTw6HzcEwmR60jmmRX-QWrX2zVGxyO_yz4f3QhXPH3iQVuRi-apuH84PGjmEUrJ5Jj6s_AlcPX7IbUK5GTcUoRGk-ebIPZrAPeqqu4rTLlOFjAMgCfUtdiCLYeOCIzAIQ5R6R0QV6nIqvidCSbEupl65mNfTonuvq_N8wOZa83A934yZZA1WxMJnklzzswO8AX0r7pBkF6FhMt1UndoiRLnMvoW8XkVciodYpiQZqakyvDFE2yaJj-iSYr9_BFJ7Z47wmW4dxUOorukhkUabnI6H8AKlmstHCLxcXIcDCnLxvXMCXbuwSCK5grXE4dEGeRNo92N-qxCgit-zlLu_dEZhCxW7lhM7tNyRf3b_49B0f6mGDFxzfwY8w2Na3bkNexm9q16pAMSWnHbc7-Q3C_FrA1B5UbexFbBWjFQ0XqYLuNyVKlm2AtpD9lY-D9TplVik8EOmfFj5xUo95lUOFdc2w3H8lSLjnDo__e5_CPl81Er8P1qETqh26AFir1r71lak0vaxgX2y1gNtO0E7YznIgix7O3E2bk3B58xZSy=w1809-h1117-no?authuser=0
+---
+
+<figure>
+
+[![](https://lh3.googleusercontent.com/q7cxSURztXyIv5Z5U2TB3PYDLm6kVsYJeSGjhM3IkwgdICUca2aNsmVYe-HwpHH8r2LW0Q046wExwJTo3D3Ra8bx8Gs-tbIQT1EUkL1FJWl3LK894fa7sOgKuYxGuxKvrS01Esf6H7pDLfDScANF8XKqQmUxcp5QdEqarA1C7cINDdrTw6HzcEwmR60jmmRX-QWrX2zVGxyO_yz4f3QhXPH3iQVuRi-apuH84PGjmEUrJ5Jj6s_AlcPX7IbUK5GTcUoRGk-ebIPZrAPeqqu4rTLlOFjAMgCfUtdiCLYeOCIzAIQ5R6R0QV6nIqvidCSbEupl65mNfTonuvq_N8wOZa83A934yZZA1WxMJnklzzswO8AX0r7pBkF6FhMt1UndoiRLnMvoW8XkVciodYpiQZqakyvDFE2yaJj-iSYr9_BFJ7Z47wmW4dxUOorukhkUabnI6H8AKlmstHCLxcXIcDCnLxvXMCXbuwSCK5grXE4dEGeRNo92N-qxCgit-zlLu_dEZhCxW7lhM7tNyRf3b_49B0f6mGDFxzfwY8w2Na3bkNexm9q16pAMSWnHbc7-Q3C_FrA1B5UbexFbBWjFQ0XqYLuNyVKlm2AtpD9lY-D9TplVik8EOmfFj5xUo95lUOFdc2w3H8lSLjnDo__e5_CPl81Er8P1qETqh26AFir1r71lak0vaxgX2y1gNtO0E7YznIgix7O3E2bk3B58xZSy=w1809-h1117-no?authuser=0)](https://photos.app.goo.gl/ybhnsiq2KCVq9iG67)
+
+<figcaption>
+
+LC-A (original) - Agfa APX 400 - Rodinal 1+25
+
+</figcaption>
+
+</figure>

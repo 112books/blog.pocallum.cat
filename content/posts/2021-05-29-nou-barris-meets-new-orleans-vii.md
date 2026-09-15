@@ -1,0 +1,23 @@
+---
+title: "2021-05-29 - Nou Barris meets New Orleans VII"
+date: 2021-06-01
+slug: "2021-05-29-nou-barris-meets-new-orleans-vii"
+categories: 
+  - "leica-m6"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2021/06/2021-05-29-9bNewOrle-055.jpg
+image: https://lh3.googleusercontent.com/UAPriTFVS6qdmyHrWutuV68Xo53G7L2EyaOHEYMVgI_YMDkgIoKSA1Yrewl19NJRfTGhAH9vQris9nOqRzcUKJIGnIWCjfHmOq8db80_ePPydS5I9fUNs7089041BrQISvQP3GzZ0zr_tmr1R4EiAnER5WV0EpaF7lgjUIqkOWr6k8THzCg7AsBIKMB80skXKLeqpF6tnANIbqDD13QfcAiCAQajVW1s9GGkU-S1cyugzuS6dIvJpZjAJ8Vw3sA2z-INgONcuJrLOB981kgkoE6hhuiW1wEJoQBYCLurQoxEldCpeHx_6xgnOYRkkRE9iX37rUmC364M3JUy_TD_0YIaozbQ2UxkuvZ_xrq8iEkANmTqda9WKdcMl5akWXKw0NN_9dTxUYf7JUYp8TipL11_74Yob14imL5mOBEgByvuKGWPo0rBdgHxdTl0MWPKF8b8q1qgOgy5SQuAQRUkcs5gb73ghTZrsY8eqwGIkgP5qCX6cIJjG2B6H6eg-oGlfLqMETlI8V9aaTzDvZrj43kjGNx71xWF-Pcjwa9lW4BeUHOWxmWpoVW3MOSXdlW4q79CV9_rTxu0NVwO4tOpshsjp70UScvSI_FS7sbtYIQnEXp-CbxxBMzd4VI9L9bKTexTTm1CSO7MH4rQ-i-V0AudnRntXdKf10CIbvJbt1DvfTr-DWAFBZpdbsybyQAG22iCQzNSOuoLVLQ3py_VCrgT=w1809-h1122-no?authuser=0
+---
+
+<figure>
+
+[![](https://lh3.googleusercontent.com/UAPriTFVS6qdmyHrWutuV68Xo53G7L2EyaOHEYMVgI_YMDkgIoKSA1Yrewl19NJRfTGhAH9vQris9nOqRzcUKJIGnIWCjfHmOq8db80_ePPydS5I9fUNs7089041BrQISvQP3GzZ0zr_tmr1R4EiAnER5WV0EpaF7lgjUIqkOWr6k8THzCg7AsBIKMB80skXKLeqpF6tnANIbqDD13QfcAiCAQajVW1s9GGkU-S1cyugzuS6dIvJpZjAJ8Vw3sA2z-INgONcuJrLOB981kgkoE6hhuiW1wEJoQBYCLurQoxEldCpeHx_6xgnOYRkkRE9iX37rUmC364M3JUy_TD_0YIaozbQ2UxkuvZ_xrq8iEkANmTqda9WKdcMl5akWXKw0NN_9dTxUYf7JUYp8TipL11_74Yob14imL5mOBEgByvuKGWPo0rBdgHxdTl0MWPKF8b8q1qgOgy5SQuAQRUkcs5gb73ghTZrsY8eqwGIkgP5qCX6cIJjG2B6H6eg-oGlfLqMETlI8V9aaTzDvZrj43kjGNx71xWF-Pcjwa9lW4BeUHOWxmWpoVW3MOSXdlW4q79CV9_rTxu0NVwO4tOpshsjp70UScvSI_FS7sbtYIQnEXp-CbxxBMzd4VI9L9bKTexTTm1CSO7MH4rQ-i-V0AudnRntXdKf10CIbvJbt1DvfTr-DWAFBZpdbsybyQAG22iCQzNSOuoLVLQ3py_VCrgT=w1809-h1122-no?authuser=0)](https://photos.app.goo.gl/YU8oE4jx2Te84QBo8)
+
+<figcaption>
+
+De nou Nou Barris meets New Orleans!! A l'Ateneu Popular de Nou Barris i per tot el districte també.
+
+</figcaption>
+
+</figure>

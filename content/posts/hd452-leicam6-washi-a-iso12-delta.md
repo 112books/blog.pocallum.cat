@@ -1,0 +1,18 @@
+---
+title: "HD#452 - LeicaM6  - Washi A ISO12 - Delta"
+date: 2019-11-04
+slug: "hd452-leicam6-washi-a-iso12-delta"
+categories: 
+  - "leica-m6"
+tags:
+  - "delta-del-ebre"
+  - "escapades"
+  - "summicron-40mmf-2"
+  - "vacances"
+  - "washi-a-iso12"
+author: "inuxbcn"
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2019/11/HC452-018.jpg
+image: https://lh3.googleusercontent.com/eaMzP3qdGefwxZUG9bfcHXNiXavXGDxJc88WbfqiH0DfGtUPkK9AU4O_doKx5hx7sJSXKDr8UTXWci2HgZoE9fHpVnoJielIfYXrq9jdpD1uNg3d5VcG5jZQjzBep4_XfwkdX2-wDCNpl-BCO7vW7orD0-jaVoEIxyit5cXyGJ5QX68O4mVSNcYuEGo_2V9BJ93ZMNjsWev1REftpKGRLIipqHUGu3GxIGpbreZzZEbx6Uftea7XShtzws4pVKcv2rEJ2cU8b6NdqxyoEK-vujS4sgV4jUE2ghJ22beNF7P6s3KelYt5z1vTProLDhDwAoWAHs_RH_POrVa5844KIgUgv4xOW7ryuPvEd1FarcKZrBZxoboYbzuSkmKUtDEky_KR5_pQOMs5EDH-CTj70q_6UsrwsMWhDHzOUATKvv5ObuNOEhovy3GHhHCmG1-a4hJoBZco0Ooxrk1qV063aG0w94BeaXY0owd_4a2Gp9WGriWi4_YNtCb8NYKxZF2TLgMf5LLIBwF7a2FZBkhI3XpnSwjjuv78IhZqLB-hENzvxPf9CKtnIlPwZ9_Ve_rdcvf6POH9VkPVPgvIy0dp2IMB-x3GWVH2Dofj4VO6gwiJzv08vtXE-5ZoHg0RedDM94UwgtIRfAR6KYsoE-uHow0vKD9fTXHFnLsJFLz1c3o_dMNnHGI7_8Qz=w1202-h783-no
+---
+
+[![](https://lh3.googleusercontent.com/eaMzP3qdGefwxZUG9bfcHXNiXavXGDxJc88WbfqiH0DfGtUPkK9AU4O_doKx5hx7sJSXKDr8UTXWci2HgZoE9fHpVnoJielIfYXrq9jdpD1uNg3d5VcG5jZQjzBep4_XfwkdX2-wDCNpl-BCO7vW7orD0-jaVoEIxyit5cXyGJ5QX68O4mVSNcYuEGo_2V9BJ93ZMNjsWev1REftpKGRLIipqHUGu3GxIGpbreZzZEbx6Uftea7XShtzws4pVKcv2rEJ2cU8b6NdqxyoEK-vujS4sgV4jUE2ghJ22beNF7P6s3KelYt5z1vTProLDhDwAoWAHs_RH_POrVa5844KIgUgv4xOW7ryuPvEd1FarcKZrBZxoboYbzuSkmKUtDEky_KR5_pQOMs5EDH-CTj70q_6UsrwsMWhDHzOUATKvv5ObuNOEhovy3GHhHCmG1-a4hJoBZco0Ooxrk1qV063aG0w94BeaXY0owd_4a2Gp9WGriWi4_YNtCb8NYKxZF2TLgMf5LLIBwF7a2FZBkhI3XpnSwjjuv78IhZqLB-hENzvxPf9CKtnIlPwZ9_Ve_rdcvf6POH9VkPVPgvIy0dp2IMB-x3GWVH2Dofj4VO6gwiJzv08vtXE-5ZoHg0RedDM94UwgtIRfAR6KYsoE-uHow0vKD9fTXHFnLsJFLz1c3o_dMNnHGI7_8Qz=w1202-h783-no)](https://photos.app.goo.gl/tWXRdygXSGkZRUq28)

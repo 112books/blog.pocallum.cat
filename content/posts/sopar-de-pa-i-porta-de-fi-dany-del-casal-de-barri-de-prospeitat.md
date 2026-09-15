@@ -1,0 +1,13 @@
+---
+title: "Sopar de pa i porta de fi d'any del Casal de barri de Prospeitat"
+date: 2018-01-19
+slug: "sopar-de-pa-i-porta-de-fi-dany-del-casal-de-barri-de-prospeitat"
+categories: 
+  - "leica-m6"
+author: "inuxbcn"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2018/01/HD190-027.jpg
+image: https://lh3.googleusercontent.com/ayiBWYKYUeYFx1wpE7JcmdM-Lt2qaLVCoDzxUpjQBhy59YKnPJYpe983Ol9KP-3WsIc2L_BYfYSgaHgFA18Evfzcsh550XD_3N0mZ6QShZPw0Nss80g3XRq3rVp7nk1XD1kYb0BXuxJ9WHfcRDztYUrzBFhZChYS-YEjBElkrjt-Gd180i5mvgV3LYCSISz_TCzXSBNQE-nWYFKzWgZu2qT1nkwgqNoEeRwwwpDiFPvlbI1U68zm4T4ES2i6awk1e2pKZDULBwiS2xakVICrH2IXv_KrOzJY02CMfiRPhSYZINrjs2TP6CQ79vbynvbMETb4Yv-vvSH0hIGYX4GeKfS2f1J0-2_sJ49fUTGE5ULYPTmhSX6QCd3fNk5kKneYCRtAJ_ZdVA5kSRXZAWZlVEFfYjpWU_VBsNe7xABZnKd8-msUI8u_2J1axuNv9KojtkDbmXL0TW7tE3sW3Z-coRXSZhHa2i9N5RauAvkqLageCTmVuDtu8Wkm2QDTnH2Q3jrYWrUyhXNfiv-zgfZqUMRsxRrkDscT1RjCYNa3CIA-54rUsqjLDnebsO-YZn64avr2Yv4ry_HDXOqFtHyAjHMG3HLDEHDp0h9dVYcF=w1252-h835-no
+---
+
+[![](https://lh3.googleusercontent.com/ayiBWYKYUeYFx1wpE7JcmdM-Lt2qaLVCoDzxUpjQBhy59YKnPJYpe983Ol9KP-3WsIc2L_BYfYSgaHgFA18Evfzcsh550XD_3N0mZ6QShZPw0Nss80g3XRq3rVp7nk1XD1kYb0BXuxJ9WHfcRDztYUrzBFhZChYS-YEjBElkrjt-Gd180i5mvgV3LYCSISz_TCzXSBNQE-nWYFKzWgZu2qT1nkwgqNoEeRwwwpDiFPvlbI1U68zm4T4ES2i6awk1e2pKZDULBwiS2xakVICrH2IXv_KrOzJY02CMfiRPhSYZINrjs2TP6CQ79vbynvbMETb4Yv-vvSH0hIGYX4GeKfS2f1J0-2_sJ49fUTGE5ULYPTmhSX6QCd3fNk5kKneYCRtAJ_ZdVA5kSRXZAWZlVEFfYjpWU_VBsNe7xABZnKd8-msUI8u_2J1axuNv9KojtkDbmXL0TW7tE3sW3Z-coRXSZhHa2i9N5RauAvkqLageCTmVuDtu8Wkm2QDTnH2Q3jrYWrUyhXNfiv-zgfZqUMRsxRrkDscT1RjCYNa3CIA-54rUsqjLDnebsO-YZn64avr2Yv4ry_HDXOqFtHyAjHMG3HLDEHDp0h9dVYcF=w1252-h835-no)](https://photos.app.goo.gl/kSUxQ4hrpTidRgS93)

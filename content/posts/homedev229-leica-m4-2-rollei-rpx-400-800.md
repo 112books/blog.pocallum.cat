@@ -1,0 +1,15 @@
+---
+title: "HomeDev#229 - Leica m4-2 - Rollei RPX 400 @800"
+date: 2018-05-10
+slug: "homedev229-leica-m4-2-rollei-rpx-400-800"
+categories: 
+  - "leica-m4-2"
+author: "inuxbcn"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2018/05/HD229-Lm42-035.jpg
+image: https://lh3.googleusercontent.com/FqlmtjnZuid6WSziJS3gt215lQqvH5t1yZJQYq27roo0nwt49uVAODYdXQL7boZJj5f7u2hK7kmX9epgX8aWZ0fW7SNhUqH7EJo0fcbgKW-vwg2tsTphPHpasJEHBj3m2HuFzDear7D6BaTwJjbea3vWW95sSMyJnNX3vwHSG50WoPYDN4EBL1zHiEPuiE-LSl7qdWMvcYI4BHuhPcpVmlr41ZK3YPQfZM6WnVQ30jiLyj9P4bsFeHWlZyBU53l23BwBJ8zd5ByI8MdOAJo_wrZxhyPWkIBWSepwefmgO_dsqoMJQpTGP1asXGB7bLArWwbJm1Xcsqi1O4OCThMUDWWdy4HSFtWBll4vzdSbausrMZiXBGMpr_LB0VtSqMPNspNLhVWCaywu_90ztQ4mEKAPiKBGT8QbdT4_P_o5KSkyPJve-qCZU4-eKOo8Jc67RciAaMg-GWiFNV83oeb6gPGj05xUsck35D-TP1QV2K7RC0q4dbQf1KcfGNzTh_fuVrA3BWhFeLd-1Poa2nKepprHP-I8lmbj54xbc_ihFaJlHBS_SjRHrzh9IEtZ8qpw1gGmt6xjlKpll7AwLGROfmCYpM3KUzIAVWr58ZeY=w1516-h1011-no
+---
+
+[![](https://lh3.googleusercontent.com/FqlmtjnZuid6WSziJS3gt215lQqvH5t1yZJQYq27roo0nwt49uVAODYdXQL7boZJj5f7u2hK7kmX9epgX8aWZ0fW7SNhUqH7EJo0fcbgKW-vwg2tsTphPHpasJEHBj3m2HuFzDear7D6BaTwJjbea3vWW95sSMyJnNX3vwHSG50WoPYDN4EBL1zHiEPuiE-LSl7qdWMvcYI4BHuhPcpVmlr41ZK3YPQfZM6WnVQ30jiLyj9P4bsFeHWlZyBU53l23BwBJ8zd5ByI8MdOAJo_wrZxhyPWkIBWSepwefmgO_dsqoMJQpTGP1asXGB7bLArWwbJm1Xcsqi1O4OCThMUDWWdy4HSFtWBll4vzdSbausrMZiXBGMpr_LB0VtSqMPNspNLhVWCaywu_90ztQ4mEKAPiKBGT8QbdT4_P_o5KSkyPJve-qCZU4-eKOo8Jc67RciAaMg-GWiFNV83oeb6gPGj05xUsck35D-TP1QV2K7RC0q4dbQf1KcfGNzTh_fuVrA3BWhFeLd-1Poa2nKepprHP-I8lmbj54xbc_ihFaJlHBS_SjRHrzh9IEtZ8qpw1gGmt6xjlKpll7AwLGROfmCYpM3KUzIAVWr58ZeY=w1516-h1011-no)](https://photos.app.goo.gl/Duu07ctA9ko1VDmX2)
+
+Visita al Casal de Joves de Prosperitat i al "Raconet" amb els amics futboleros.

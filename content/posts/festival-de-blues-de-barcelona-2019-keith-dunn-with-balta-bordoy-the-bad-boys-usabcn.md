@@ -1,0 +1,13 @@
+---
+title: "Festival de Blues de Barcelona 2019 - Keith Dunn with Balta Bordoy & The Bad Boys (USA&BCN)"
+date: 2019-07-14
+slug: "festival-de-blues-de-barcelona-2019-keith-dunn-with-balta-bordoy-the-bad-boys-usabcn"
+categories: 
+  - "leica-m6"
+author: "inuxbcn"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2019/07/HD399-024.jpg
+image: https://lh3.googleusercontent.com/TTzZeqbKDdW0fEa5vQKIWUsGr5ODvkKgagFGeTkTWlRKCXzoA-bQQm93PWE_uUx2UoY7axho5x4ElF3fCPkoj2FRkh9Pg4tIli12X-eWtzuzC7VEa8Eun50nRHRpCNNeU-g7GJuZyxnZEZqlJc2YHufv67qiPs58t2zlQFDNta3FWZ2q-sps86wLOVkskhTfMaNcg8vLTLxHO-mSiT4lDEYVg92ibwVy0vjs3bXNfo9VV-YdFZGN81pqDY9Vfss-u5V6RMQXP_3ABJFrlugiku7hGv-2NzNjP3ANmGTpMnlLYvqUjVhXLufdopHtjM1CjZ6hernH2R2Q_M1EckNk-_9stYpa-fleQycYz_E23EoPPZ-j-RR-38nwfI6pPT3RtKQJ7-fubv4bTj-gGT7r74tfRDgGsiCI6ZnrSj3T7EbGwXV4EBSm5Om1SM0mp_htmbAwWpaC0fPJHvcqMNowFVwoPFukfouzEGqEt2vO2Uryx_iRZZ2mxC0ATZV1lHkZu9DSMVaKdbdnfqlssMCF6iXYqvbZKLqnfVbX6o9uEsE0KufkeUIROfRQe9GinK97pE0s3BZSOvoPCSl_82w29iLUb45_gg7FI6fJLCfyEE0fZ-ZrGmejeMheiWXeeTvdSK-JTennfNmLz_dTnaps9Sul4A_1kTzC=w1549-h1033-no
+---
+
+[![](https://lh3.googleusercontent.com/TTzZeqbKDdW0fEa5vQKIWUsGr5ODvkKgagFGeTkTWlRKCXzoA-bQQm93PWE_uUx2UoY7axho5x4ElF3fCPkoj2FRkh9Pg4tIli12X-eWtzuzC7VEa8Eun50nRHRpCNNeU-g7GJuZyxnZEZqlJc2YHufv67qiPs58t2zlQFDNta3FWZ2q-sps86wLOVkskhTfMaNcg8vLTLxHO-mSiT4lDEYVg92ibwVy0vjs3bXNfo9VV-YdFZGN81pqDY9Vfss-u5V6RMQXP_3ABJFrlugiku7hGv-2NzNjP3ANmGTpMnlLYvqUjVhXLufdopHtjM1CjZ6hernH2R2Q_M1EckNk-_9stYpa-fleQycYz_E23EoPPZ-j-RR-38nwfI6pPT3RtKQJ7-fubv4bTj-gGT7r74tfRDgGsiCI6ZnrSj3T7EbGwXV4EBSm5Om1SM0mp_htmbAwWpaC0fPJHvcqMNowFVwoPFukfouzEGqEt2vO2Uryx_iRZZ2mxC0ATZV1lHkZu9DSMVaKdbdnfqlssMCF6iXYqvbZKLqnfVbX6o9uEsE0KufkeUIROfRQe9GinK97pE0s3BZSOvoPCSl_82w29iLUb45_gg7FI6fJLCfyEE0fZ-ZrGmejeMheiWXeeTvdSK-JTennfNmLz_dTnaps9Sul4A_1kTzC=w1549-h1033-no)](https://photos.app.goo.gl/2qhvNUqYjktwHqtK6)

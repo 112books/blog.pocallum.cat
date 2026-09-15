@@ -1,0 +1,15 @@
+---
+title: "30 Aniversari Casal de barri"
+date: 2018-05-14
+slug: "30-aniversari-casal-de-barri"
+categories: 
+  - "leica-m6"
+  - "summicron-40mm-f-2"
+author: "inuxbcn"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2018/05/HD230-018.jpg
+image: https://lh3.googleusercontent.com/H--uWg0krMbTm8F2LDLNasUA_JXNrLnCoHpbxbpyxYvGPoy-wMyUaFT6T6SSxNr0Qg6enBzs7GStfwamIy15XjNXCKyamxp5eXOGnmOuBKalOs0xatIJrZgJuUXRnp6jtCiAwg-qXB1QtZtCHS00Ac1UIx-cdU-o4RZCfHX7rXaAjfjbJD8SdUj6LhrCbknRO4rkJvuEoW3z6cTP5e4tjzsUFJ6ipijnlhMinZpdvbYufJNPamOpskji2mNny83CjFNmeh7IaQ7C3arBctRlYFfB55LdAzmzAQmnr2koBpQdsQv2w33zY-xDVVzx7yc60n8_JjKvsedbrrfImXan99JIPEPR4kr5fKYZ98RFIGfm9N3BECVt3rzeY7yU76zPyXJDcAp0Z1n-JJOQJvBrrbGkpxvlqJKn-v4fZfJmm4F4K7y3ebd08274NQMFCDEQsTywTfsv8qCDmcltDgCAeCkLXKy69myW_NdYNTkigw3uFzAo8wCRnqPMua5IH4nxGE0vQwfC_BIOte2MLg6yb05a_INY8184l5vUCvVZ2MBDgLAoNKTKEAbIiUOQ16EPGbf_6eiaJ-uzh5NwO_OBjYeEf1Kz2vp53R5wZfcm=w1247-h832-no
+---
+
+[![](https://lh3.googleusercontent.com/H--uWg0krMbTm8F2LDLNasUA_JXNrLnCoHpbxbpyxYvGPoy-wMyUaFT6T6SSxNr0Qg6enBzs7GStfwamIy15XjNXCKyamxp5eXOGnmOuBKalOs0xatIJrZgJuUXRnp6jtCiAwg-qXB1QtZtCHS00Ac1UIx-cdU-o4RZCfHX7rXaAjfjbJD8SdUj6LhrCbknRO4rkJvuEoW3z6cTP5e4tjzsUFJ6ipijnlhMinZpdvbYufJNPamOpskji2mNny83CjFNmeh7IaQ7C3arBctRlYFfB55LdAzmzAQmnr2koBpQdsQv2w33zY-xDVVzx7yc60n8_JjKvsedbrrfImXan99JIPEPR4kr5fKYZ98RFIGfm9N3BECVt3rzeY7yU76zPyXJDcAp0Z1n-JJOQJvBrrbGkpxvlqJKn-v4fZfJmm4F4K7y3ebd08274NQMFCDEQsTywTfsv8qCDmcltDgCAeCkLXKy69myW_NdYNTkigw3uFzAo8wCRnqPMua5IH4nxGE0vQwfC_BIOte2MLg6yb05a_INY8184l5vUCvVZ2MBDgLAoNKTKEAbIiUOQ16EPGbf_6eiaJ-uzh5NwO_OBjYeEf1Kz2vp53R5wZfcm=w1247-h832-no)](https://photos.app.goo.gl/vCBdHAQVuJJCQ7YI2)  
+Leica M6, Summicron 40 f/2, Ilford Pan F +

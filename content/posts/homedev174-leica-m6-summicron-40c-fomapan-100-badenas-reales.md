@@ -1,0 +1,16 @@
+---
+title: "HomeDev#174 - Leica M6 - Summicron 40c - Fomapan 100 - Badenas Reales"
+date: 2017-12-18
+slug: "homedev174-leica-m6-summicron-40c-fomapan-100-badenas-reales"
+categories: 
+  - "camara"
+  - "leica-m6"
+author: "inuxbcn"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2017/12/HD174-037.jpg
+image: https://lh3.googleusercontent.com/VNtDJ-hUurkXnX3uVp1fbLOukx8utDhmxotROTd-QWWmXZBbZflgimeTAiUhke_uAHMjbjHiQzGNkpwD7eX0wOmXaTRFvJXtdR73fthXlqw7kzVLwSRAr5UM9T61koWY_RC43VvJzxNMSgQdDo5eivBVz_6rIYpAjiyf5RdJdufL47_fgrtinyUpvO5sC2qaB6VSO6g6qG8UpqL_S79rBKt9TIVvw94I4DT8BLn9rAA-THDAlY-kIS20jxeZvPnKHAYWzeme_y1HRw5j0MwjQEQjW9P1K6h6fFekEJHm0KrzYN_VdL2t1-EnrmHvM0_r9QekupEqKmDcuYHDc9iVN5JwG0hX0lsT8qQEdYIluUsfleVgEnS067TOq9ZsN5pkFEJihQ8ljOv5kxWKnyq5xUIlhoBlFw0SXkhflVkFos3vcn9WpORZjsJ9IQ8N6gKiHMVbRKk1paPF77reh2u0kiyd2dqbfWVUH3ukJeyd-fHfTt42o4L6b9OA06xvpAMM5ArNKHqX--uYM6r3H7OI32MmPxs1KR8ifQC3yfK_NDROdtSgax4rIXGAhPqTo9j7eFFr9ad8VVY9cPhgNHsVJCWo66gKm1ZV1bejCAIl1-g=w1323-h883-no
+---
+
+[![](https://lh3.googleusercontent.com/VNtDJ-hUurkXnX3uVp1fbLOukx8utDhmxotROTd-QWWmXZBbZflgimeTAiUhke_uAHMjbjHiQzGNkpwD7eX0wOmXaTRFvJXtdR73fthXlqw7kzVLwSRAr5UM9T61koWY_RC43VvJzxNMSgQdDo5eivBVz_6rIYpAjiyf5RdJdufL47_fgrtinyUpvO5sC2qaB6VSO6g6qG8UpqL_S79rBKt9TIVvw94I4DT8BLn9rAA-THDAlY-kIS20jxeZvPnKHAYWzeme_y1HRw5j0MwjQEQjW9P1K6h6fFekEJHm0KrzYN_VdL2t1-EnrmHvM0_r9QekupEqKmDcuYHDc9iVN5JwG0hX0lsT8qQEdYIluUsfleVgEnS067TOq9ZsN5pkFEJihQ8ljOv5kxWKnyq5xUIlhoBlFw0SXkhflVkFos3vcn9WpORZjsJ9IQ8N6gKiHMVbRKk1paPF77reh2u0kiyd2dqbfWVUH3ukJeyd-fHfTt42o4L6b9OA06xvpAMM5ArNKHqX--uYM6r3H7OI32MmPxs1KR8ifQC3yfK_NDROdtSgax4rIXGAhPqTo9j7eFFr9ad8VVY9cPhgNHsVJCWo66gKm1ZV1bejCAIl1-g=w1323-h883-no)](https://photos.app.goo.gl/RRNvomL0nI9xNth42)
+
+Fomapan 100. Un clàssic que mai falla.

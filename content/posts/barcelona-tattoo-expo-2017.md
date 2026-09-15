@@ -1,0 +1,14 @@
+---
+title: "Barcelona Tattoo Expo 2017"
+date: 2017-10-02
+slug: "barcelona-tattoo-expo-2017"
+categories: 
+  - "fuji-x-a1"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2017/10/DSCF6459.jpg
+image: https://lh3.googleusercontent.com/OM-zpXDawnLliOUpmDI4IKGSPQg7iYoTFXSzyU9EyRzfK8vrY-89vEoO3qgOaBpYMynwgUY4yFZ1l7mEzowXRRg-rwxVFvnDYKqzPNKnCK3ng18JfljjDHuXs0vdTvTQHyFUOJJLus9pLg8kCfnwJuZayS6x_mUVi0iOzkKufS5F0lAdm7WVtrj-jtY6Cs-7EKBcXvV4PlFseprne2AZeEW9bGwA8IQ1VApl5X5ZWtiN6TxCk2mUZPynyMbdemtI6m9z1LelPoDuPg1EKU8bcskgoGxWBOqEGuHticCZ3gLlI0sQyQ3EKuNGQJiGmKH6ZrLeU4eGLSpnmvakCqfaRNFzo18NfoMFy6BY0yk7effHoiRbjF6dNEZUIaXEnnwMcw6L1mQ-Ox82NWVmwum6LCB8uM3Avng4Gx2lgSe6qdQgQ3eva3QzEer2lnKYTWchkpFAHWlq45BLL7FoM00mo6Ro0-WM0p6621bTVzlFDfJIbJ2qUznj93r31t723trR_yAgRsZ5OiD4XxZrMcuJnm-vw_4MrkifoIirQX31KIbVdpR9pVTTchkOCO19gifvds7mv6-vIxpYI-zLUKPa7UuM9qw3y3g2jqobDb5KJQQ=w1367-h912-no
+---
+
+[![](https://lh3.googleusercontent.com/OM-zpXDawnLliOUpmDI4IKGSPQg7iYoTFXSzyU9EyRzfK8vrY-89vEoO3qgOaBpYMynwgUY4yFZ1l7mEzowXRRg-rwxVFvnDYKqzPNKnCK3ng18JfljjDHuXs0vdTvTQHyFUOJJLus9pLg8kCfnwJuZayS6x_mUVi0iOzkKufS5F0lAdm7WVtrj-jtY6Cs-7EKBcXvV4PlFseprne2AZeEW9bGwA8IQ1VApl5X5ZWtiN6TxCk2mUZPynyMbdemtI6m9z1LelPoDuPg1EKU8bcskgoGxWBOqEGuHticCZ3gLlI0sQyQ3EKuNGQJiGmKH6ZrLeU4eGLSpnmvakCqfaRNFzo18NfoMFy6BY0yk7effHoiRbjF6dNEZUIaXEnnwMcw6L1mQ-Ox82NWVmwum6LCB8uM3Avng4Gx2lgSe6qdQgQ3eva3QzEer2lnKYTWchkpFAHWlq45BLL7FoM00mo6Ro0-WM0p6621bTVzlFDfJIbJ2qUznj93r31t723trR_yAgRsZ5OiD4XxZrMcuJnm-vw_4MrkifoIirQX31KIbVdpR9pVTTchkOCO19gifvds7mv6-vIxpYI-zLUKPa7UuM9qw3y3g2jqobDb5KJQQ=w1367-h912-no)](https://photos.app.goo.gl/uYPxC0tKb2358tYk1)  
+Aquest mogut cap de setmana vaig poder fer una petita visita ràpida per la Barcelona Tattoo Expo a la Fira de Barcelona. Aquí unes poquetes fotos.

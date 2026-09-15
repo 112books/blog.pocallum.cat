@@ -1,0 +1,16 @@
+---
+title: "Inauguració exposició \"La Harry Walker - lluita obrera i lluita veïnal\""
+date: 2020-03-03
+slug: "inauguracio-exposicio-la-harry-walker-lluita-obrera-i-lluita-vei%cc%88nal"
+categories: 
+  - "leica-d-lux-6"
+tags:
+  - "bcn"
+  - "exposicio"
+  - "via-julia"
+author: "inuxbcn"
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2020/03/L1230335.jpg
+image: https://lh3.googleusercontent.com/FpBQeQE_19hR8MSUFuOEn9ckU4jXDNg7OJzyx5Q2dzQ3qIM-ZgIx8lhVCHikDyrWfSbtSIHP92TR05Et94XICKDhoPMd-TqN_lEZvSLIkvm32g5LbA-mMhj0ZjgqA4wZZ0D-yt4shQR7Iw7FgKsv8HLWX4uhLqsteRJquD6iS6wOZdlhEyJRtzrIpZ8GP-tTsI8WATpjGkZpxkRAgMlDdy2FKFPgvmCi_m6ax3dTscnmv9BIlFK2QPrNI5ZycZfqu336HZgCcdGH70xMnifoWSCIUw3nvi413vj57U72oZHamR9c-ijcMqSHTO_M-hPiuCQsksk3z1q3SQRdtrESspCr6_Zp8f5yonG2RQeexxPgVpdcLBUWsUxil7_9wspXc4f8v51Kt5ITgJWsdK2o5Kj8b-ovwWOzzWk1LKpwxYKb_p9SF__PbxyiBZmhbyc17QGG0OF5PC6FttAC9mwG4cBP3u29Z1h-CRqyg3x4xk1T2-GFJJD3P8gJUojxQSOYsvzxWSI_osuFwp3pQXk-IiOO3yu_lB7NwRkKHYA3NNqhc0jOFwND6WMQMAfrogbG32770xnJBh08Rk76N6YhHrgLfTEteo_9StMnLbusKntKCZ_qM8eBUThQc_0KVIyvhxP2qHdSCPZasuWVUFIwm_Z1AYhNIPd7lC9jMVjFzX6nA4GoBSzuQ68=w1868-h1051-no
+---
+
+[![](https://lh3.googleusercontent.com/FpBQeQE_19hR8MSUFuOEn9ckU4jXDNg7OJzyx5Q2dzQ3qIM-ZgIx8lhVCHikDyrWfSbtSIHP92TR05Et94XICKDhoPMd-TqN_lEZvSLIkvm32g5LbA-mMhj0ZjgqA4wZZ0D-yt4shQR7Iw7FgKsv8HLWX4uhLqsteRJquD6iS6wOZdlhEyJRtzrIpZ8GP-tTsI8WATpjGkZpxkRAgMlDdy2FKFPgvmCi_m6ax3dTscnmv9BIlFK2QPrNI5ZycZfqu336HZgCcdGH70xMnifoWSCIUw3nvi413vj57U72oZHamR9c-ijcMqSHTO_M-hPiuCQsksk3z1q3SQRdtrESspCr6_Zp8f5yonG2RQeexxPgVpdcLBUWsUxil7_9wspXc4f8v51Kt5ITgJWsdK2o5Kj8b-ovwWOzzWk1LKpwxYKb_p9SF__PbxyiBZmhbyc17QGG0OF5PC6FttAC9mwG4cBP3u29Z1h-CRqyg3x4xk1T2-GFJJD3P8gJUojxQSOYsvzxWSI_osuFwp3pQXk-IiOO3yu_lB7NwRkKHYA3NNqhc0jOFwND6WMQMAfrogbG32770xnJBh08Rk76N6YhHrgLfTEteo_9StMnLbusKntKCZ_qM8eBUThQc_0KVIyvhxP2qHdSCPZasuWVUFIwm_Z1AYhNIPd7lC9jMVjFzX6nA4GoBSzuQ68=w1868-h1051-no)](https://photos.app.goo.gl/g6Xfj4pEJWc3sAZf8)

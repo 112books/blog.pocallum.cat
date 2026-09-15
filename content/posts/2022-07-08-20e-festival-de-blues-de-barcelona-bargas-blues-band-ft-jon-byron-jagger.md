@@ -1,0 +1,25 @@
+---
+title: "2022-07-08 - 20è Festival de Blues de Barcelona - Vargas Blues Band ft Jon Byron Jagger"
+date: 2022-07-12
+slug: "2022-07-08-20e-festival-de-blues-de-barcelona-bargas-blues-band-ft-jon-byron-jagger"
+categories: 
+  - "leica-m6"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2022/07/2022-07-09-Vargas-BB-0045.jpg
+image: https://lh3.googleusercontent.com/u5w1OI2NIO_83iGExH8f9y_R91vHvWznWFYXBkVE0F3674Y-zg0oKmmk33g31iAiohMPsIysBgE_C4mCgAYqnMgsGt8wDZm8oEWMz1B2A740v3kZYcGO94Rf0SOAtrGwnDV1LzRCYM71E8XpzGoxYgpbq7nUEhm7xAumZ-T-ukM6aVhnZjpodw0FBBDucwSWB8LdWf8s9_8kfR1g-s3LINbwsBJYxKKhwW7cfROpPIaJ08q8dp5BeMo4VtStnuf-21Vgz8LjOqiw-7n6p2ta-0nGIjmrCVbnJq3O_MlvYzvRwtPEcmtSoshY0s-l4rXxQ7jKcURQRmp7qpAcqJEM4TOc0nT6CWo_nDBlYSEd3C3WLvwQgDVQ9Y3g_M74qe_WzuYjLXYKeuBL7QBZvY2sf5PNTWX2m7yy7WOKVqVLwIY-KyO2GM7U7pksN0akteiQYXMozAZWkHsGWhiO_8uMu4RlLHNLmy9t4ROjMWK_jfhTlKWeOws_ti3RGax9ZAY88UpjWvk9y32NrbY-ei7laJpyU6Ttiby66a4UVllDf1NgBlIRaOtJ1yFErgiqaOMwJx7maCzXYLMu4k6aTGR4WxwppO7oD171FPa9SgsW851pq1n1c2XTqiDp0mlXfbaZu6YNXZ1Vs5Rbz2ThujTGrAOtYTaNDgxpnn0OBRo-FtYyvqxxv_z70JV78ZI6FqRuWkK5KvuA53cqzY_uI2j1bBARaLGoHENZMaCBxJ-WCrzpcx_qNz5UAiClZY7c=w1643-h1114-no?authuser=0
+---
+
+<figure>
+
+[![](https://lh3.googleusercontent.com/u5w1OI2NIO_83iGExH8f9y_R91vHvWznWFYXBkVE0F3674Y-zg0oKmmk33g31iAiohMPsIysBgE_C4mCgAYqnMgsGt8wDZm8oEWMz1B2A740v3kZYcGO94Rf0SOAtrGwnDV1LzRCYM71E8XpzGoxYgpbq7nUEhm7xAumZ-T-ukM6aVhnZjpodw0FBBDucwSWB8LdWf8s9_8kfR1g-s3LINbwsBJYxKKhwW7cfROpPIaJ08q8dp5BeMo4VtStnuf-21Vgz8LjOqiw-7n6p2ta-0nGIjmrCVbnJq3O_MlvYzvRwtPEcmtSoshY0s-l4rXxQ7jKcURQRmp7qpAcqJEM4TOc0nT6CWo_nDBlYSEd3C3WLvwQgDVQ9Y3g_M74qe_WzuYjLXYKeuBL7QBZvY2sf5PNTWX2m7yy7WOKVqVLwIY-KyO2GM7U7pksN0akteiQYXMozAZWkHsGWhiO_8uMu4RlLHNLmy9t4ROjMWK_jfhTlKWeOws_ti3RGax9ZAY88UpjWvk9y32NrbY-ei7laJpyU6Ttiby66a4UVllDf1NgBlIRaOtJ1yFErgiqaOMwJx7maCzXYLMu4k6aTGR4WxwppO7oD171FPa9SgsW851pq1n1c2XTqiDp0mlXfbaZu6YNXZ1Vs5Rbz2ThujTGrAOtYTaNDgxpnn0OBRo-FtYyvqxxv_z70JV78ZI6FqRuWkK5KvuA53cqzY_uI2j1bBARaLGoHENZMaCBxJ-WCrzpcx_qNz5UAiClZY7c=w1643-h1114-no?authuser=0)](https://photos.app.goo.gl/sbwTv3Hr1CGB9pQw5)
+
+<figcaption>
+
+Leica M6 - Voigtlander 35 f/1.7 - Affa APX 400 @1600 - Rodinal 1+25
+
+</figcaption>
+
+</figure>
+
+https://vimeo.com/729317275

@@ -1,0 +1,17 @@
+---
+title: "Nits de Capibola Blues - Johnny Big Stone & The Blues Workers"
+date: 2017-02-18
+slug: "nits-de-capibola-blues-johnny-big-stone-the-blues-workers"
+categories: 
+  - "fuji-x-a1"
+  - "jupiter-8-50-mm-f-2"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2017/02/DSCF0837.jpg
+image: https://lh3.googleusercontent.com/jZMJqpbbY9JmEgh01d_jWRsI_R5E8UBJv4ZAzqlCSGv4QhcgUHtMUdM9pZgp9I7BaHUAgpO3Z1VSwVoHsjeev4Gz2xVlVOPPeM7hV7JLVKboqnQIqPJyn1aVRiSqWYHN2SloospNOquQcEyMmmK9bKcAkxdtvCboflu9nlkVE4XD4KDu0OjmwGQ8A4RHzqdhMaoUfdoFFvaugcOotGIkJ44jCPu688SkOqsXcMRO6LOzzPOWMMuJV8HLde2QNL0uI7NwdahghxRfhXkHzKdDXlhV3dslDdP0_Teg5P2mg5AdnBufKqV4YRXe4h0yYFfoEWJHjc4ie6xQQWCqyFx_jUi0hVKz-b1Bk0adnBKMIJ53MUdtIilv9MGEk4J8qUqSPuZ0QvWV56xL4LlHiA5LQI53HawsId8T9PZZQK_pefl88laMiy7mR8I87eSVCpiBYTFwlDqf77sn7kb5qdyEqDg3-MqDl0_qyGHspCc1xKQ2ngHR_DQO2_HGpiU9B0PQjIFkPG9chNU9c2NaHZfsvWVniXBP1XaJfKIlD-kkDFB2aQt7S9uymhz3ypF58GvKGXgkRnI9gCZfKTE3ewMCmhsIZ3gbzJLGZknfvM2yz_LgJVa3F8wQnQ=w1442-h962-no
+---
+
+[![](https://lh3.googleusercontent.com/jZMJqpbbY9JmEgh01d_jWRsI_R5E8UBJv4ZAzqlCSGv4QhcgUHtMUdM9pZgp9I7BaHUAgpO3Z1VSwVoHsjeev4Gz2xVlVOPPeM7hV7JLVKboqnQIqPJyn1aVRiSqWYHN2SloospNOquQcEyMmmK9bKcAkxdtvCboflu9nlkVE4XD4KDu0OjmwGQ8A4RHzqdhMaoUfdoFFvaugcOotGIkJ44jCPu688SkOqsXcMRO6LOzzPOWMMuJV8HLde2QNL0uI7NwdahghxRfhXkHzKdDXlhV3dslDdP0_Teg5P2mg5AdnBufKqV4YRXe4h0yYFfoEWJHjc4ie6xQQWCqyFx_jUi0hVKz-b1Bk0adnBKMIJ53MUdtIilv9MGEk4J8qUqSPuZ0QvWV56xL4LlHiA5LQI53HawsId8T9PZZQK_pefl88laMiy7mR8I87eSVCpiBYTFwlDqf77sn7kb5qdyEqDg3-MqDl0_qyGHspCc1xKQ2ngHR_DQO2_HGpiU9B0PQjIFkPG9chNU9c2NaHZfsvWVniXBP1XaJfKIlD-kkDFB2aQt7S9uymhz3ypF58GvKGXgkRnI9gCZfKTE3ewMCmhsIZ3gbzJLGZknfvM2yz_LgJVa3F8wQnQ=w1442-h962-no)](https://goo.gl/photos/vhzei9rcnUdA5eqG8)
+
+Música d'alte qualitat un cop més al Casal de Barri de Prosperitat.  
+Fuji X-A1 amb Júpiter 50mm f/2 i Industar 61 2.8/55 55mm f/2.8 l39

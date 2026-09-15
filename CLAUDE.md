@@ -69,8 +69,16 @@ El tall a producció es fa **només quan el staging està complet i aprovat**, i
 - **Staging:** els posts hi mostren les imatges amb **URLs absolutes al servidor** (`https://blog.pocallum.cat/wp-content/uploads/...`).
 - **Local:** mode sense connexió mitjançant rsync a `static/uploads/` (gitignored).
 - Posts nous: imatges a `static/uploads/` o page bundles (publicades com a `/uploads/...`), a decidir en fase de tema.
+- **Model d'imatges del post (des de fase 3):**
+  - **Imatge miniatura** (`thumbnail:` al frontmatter): prové de `_thumbnail_id` al WP → adjunt → `guid` (URL). Sempre al servidor local: `/wp-content/uploads/...`. S'usa als llistats (home, arxiu, categories, cerques). **Si no hi ha miniatura, s'usa la principal.**
+  - **Imatge principal** (`image:` al frontmatter): primer `<img>` del contingut. Sovint `lh*.googleusercontent.com` (enllaços a àlbums de Picasa/Google Fotos que enllacen a la foto completa). S'usa a la capçalera del post.
+  - Les dues **no sempre coincideixen**; sovint la miniatura és una versió local i la principal és un hotlink a Google Fotos.
 
-### 5. Imatges: optimització mantingent qualitat
+### 5. Vimeo: posts i vídeos nous
+- **3 posts amb shortcode `[vimeo ID w=W h=H]`** al llegat. L'eina de conversió escapa l'shortcode; l'iframe renderitzat ja queda al contingut (l'WordPress l'havia emès abans de l'export).
+- **Estratègia per a vídeos nous:** usar un shortcode Hugo `{{< vimeo ID >}}` o un **render hook de links** (`_markup/render-link.html`) que detecti automàticament URLs `vimeo.com/XXXX` i les embedi — ambdues opcions per decidir en fase de tema. L'objectiu és poder posar la URL de Vimeo directament al contingut i que Hugo l'empotri sense edicions addicionals.
+
+### 6. Imatges: optimització mantingent qualitat
 - **Som fotògrafs: alta qualitat sempre.** Les originals mai es destrueixen ni es toquen.
 - **Llegat:** les imatges existents NO es processen (rutes i bytes tal qual).
 - **Nous posts:** optimitzar a WebP abans de pujar al servidor (qualitat ~85, llarg màxim ~2400px per a display; les originals es guarden com a arxiu). Equival al `scripts/convert-images.sh` del pare.
@@ -109,10 +117,44 @@ hugo --minify
 
 # Servidor local amb drafts
 hugo server -D
+
+# Post-processament conversió (afegeix thumbnail, image, tags)
+python3 migration/post-processa.py
 ```
 
 - Els posts nous porten **prefix de data al nom de fitxer i al títol** (`2026-09-14-titol.md` → URL `/2026/09/14/2026-09-14-titol/`), com al WordPress.
-- El repo GitHub és `112books/blog.pocallum.cat` (pendent de crear; afegir `origin` quan existeixi).
+- El repo GitHub és `112books/blog.pocallum.cat` (privat→public 2026-09-14, perquè el pla Free no suporta Pages en repos privats). Branques `main` (codi) i `develop` (desplega staging). Staging: `https://112books.github.io/blog.pocallum.cat/`.
+
+---
+
+## Resultats conversió (2026-09-14)
+
+### Eina: `wordpress-export-to-markdown` v3.0.5
+- Execució (segona, definitiva): `npx wordpress-export-to-markdown@3.0.5 --input migration/export.xml --output migration/wpfull --frontmatter-fields "title,date,slug,categories,tags,excerpt,author,draft" --save-images none --wizard false --post-folders false`
+- **2.353 posts** publicats (i **10 drafts** a `_drafts/`) a `migration/wpfull/posts/`
+- **6 pàgines fixes** migrades directament des de `migration/pages/*.xml` al post-processament
+- **Alerta:** el CLI per defecte del servidor (PHP 7.0) no executa l'export actual; fer servir `/opt/php-8.2/bin/php /usr/local/bin/wp ...`
+
+### Troballes importants
+1. **Tags**: la segona execució sí que els extreu (843 posts); el post-processament els reescriu des de l'XML igualment (font canònica).
+2. **`coverImage` buit**: l'eina no mapeja `_thumbnail_id` → imatge. El post-processament extreu la miniatura de `_thumbnail_id` → adjunt → `guid`.
+3. **Vimeo shortcodes escapats**: `\[vimeo ID w=W h=H\]` → convertits a `{{< vimeo ID >}}` (3 posts; es consumeix la barra inversa).
+4. **Frontmatter generat**: title, date, slug, categories, author, tags, thumbnail, image. Darrere: contingut Markdown amb imatges en format `![alt](url)`.
+5. **Slugs URL-encoded del WP (~18 posts)**: reescrits al valor original (`forc%cc%a7at`) per a paritat d'URLs; `excerpt` eliminat (corromput a la font).
+
+### Post-processament fet
+Script `migration/post-processa.py` (executat 2026-09-14, segona execució completa):
+- ✅ `tags:` afegit des de l'XML (font canònica) — **843 posts**
+- ✅ `thumbnail:` de `_thumbnail_id` → adjunt → `guid` — **2.349 posts** (2 recuperats per WP-CLI perquè l'adjunt no era a l'XML)
+- ✅ `image:` del primer `<img>` del contingut — **2.323 posts**
+- ✅ Shortcodes `\[vimeo ID w=W h=H\]` → `{{< vimeo ID >}}` (3 posts)
+- ✅ `excerpt` **eliminat** (196 posts corromputs a la font: accents → `??` al propi XML del WP)
+- ✅ **Slugs URL-encoded del WP (~18 posts):** el WP guarda `forc%cc%a7at` (= `forçat`); es reescriu el `slug:` del frontmatter al valor original per a paritat d'URLs. Verificat vs WP viu (200/404).
+- ✅ Pàgines fixes (6 publicades) migrades a `content/*.md`; **3 buides al WP** (aviso-legal, privacitat, cookies) esperen contingut legal.
+
+**Materials:** `migration/` (gitignored): XML posts (56 MB) + XML pàgines (24 KB) + `wpfull/posts/` (2.353 posts + 10 drafts a `_drafts/`). Els drafts no es copien a `content/posts/`.
+
+**Reexecució:** `python3 migration/post-processa.py` regenera `content/posts/` des de `migration/wpfull/posts/` (idempotent). Les 2 miniatures recuperades per WP-CLI s'apliquen amb un script manual (detalall a `INFORME-MIGRACIO.md`).
 
 ---
 
@@ -147,13 +189,15 @@ hugo server -D
 
 ## Pla de migració (fases)
 
-1. **Exportació** — XML complet de WordPress + còpia de `wp-content/uploads`. **Mesurar mida total d'imatges** (ja fet: 3,4 GB totals; 2,3 GB originals → decisió Dinahosting).
-2. **Scaffolding** — `hugo new site`, `hugo.toml` amb permalinks idèntics, taxonomies, RSS.
-3. **Conversió** — XML → Markdown (`wordpress-export-to-markdown`, `wp2hugo` o `exitwp`). Validar: 2.353 posts, dates, categories, tags, slugs.
-4. **Tema** — llistat cronològic, single, arxiu mensual, càmeres/taxonomies, cerca Pagefind, RSS, comentaris estàtics + giscus.
-5. **Pàgines fixes** — About, Avís Legal, Contacte, Cerca, legal.
-6. **QA** — comparativa d'URLs 1:1 WordPress vs Hugo.
-7. **Deploy** — pujar el `public/` del Hugo al docroot de Dinahosting (`~/www/blog/`), substituint el WordPress però **mantenint `wp-content/uploads`** (les imatges no es mouen). Staging via GitHub Pages (branca `develop`). **Ordre obligatori (lliçó apresa del pare):** pujar HTML + verificar el build *abans* de fer cap canvi de DNS o apagar el WordPress. Apagat en dues passes (freeze + backup).
+1. ✅ **Exportació** — XML complet de WordPress + còpia de `wp-content/uploads`. **Mesurar mida total d'imatges** (ja fet: 3,4 GB totals; 2,3 GB originals → decisió Dinahosting).
+2. ✅ **Scaffolding** — `hugo new site`, `hugo.toml` amb permalinks idèntics, taxonomies, RSS.
+3. ✅ **Conversió** — XML → Markdown (`wordpress-export-to-markdown` v3.0.5). **2.353 posts (i 10 drafts)** a `content/posts/` amb `tags`, `thumbnail`, `image` i Vimeo resos; pàgines fixes migrades. Materials i script a `migration/` (gitignored).
+4. ✅ **Tema** — llistat cronològic (portada hero + galeria 8 posts), single amb tira Netflix, arxiu mensual, taxonomies/categories, cerca Pagefind, pàgines fixes (about/contacte/cerca) amb fons hero. Stats animats portada. Lightbox, mosaic. RSS, comentaris estàtics.
+5. ✅ **Pàgines fixes** — About, Contacte, Cerca implementades. Avís Legal, Privacitat i Cookies: frontmatter creat, contingut legal pendent.
+6. ✅ **QA parcial** — `scripts/qa-urls.py` executat 2026-09-15: 2.360 URLs; 9 Hugo 404 per interpunt `·` (tots corregits amb `url:` explícit); 1.855 WP 503 per rate limiting (no errors reals). **Pendent: re-executar amb menys workers per confirmar WP 200 a tots els posts.**
+7. ⏳ **SEO** — partial SEO + meta descriptions + OG + JSON-LD. Vegeu § Pla SEO.
+8. ⏳ **CMS** — Sveltia CMS per publicació remota. Vegeu § Pla CMS.
+9. ⏳ **Deploy** — pujar el `public/` del Hugo al docroot de Dinahosting (`~/www/blog/`), substituint el WordPress però **mantenint `wp-content/uploads`** (les imatges no es mouen). Staging via GitHub Pages (branca `develop`). **Ordre obligatori (lliçó apresa del pare):** pujar HTML + verificar el build *abans* de fer cap canvi de DNS o apagar el WordPress. Apagat en dues passes (freeze + backup).
 
 ---
 
@@ -162,14 +206,82 @@ hugo server -D
 Replicar el dashboard del pare: `static/admin/index.html` autocontingut (estètica pocallum, protegit per contrasenya SHA-256) + `static/admin/analytics.json` generat cada hora per GitHub Actions des de l'API de GoatCounter.
 
 - **Referència:** repo `../goatcounter-dashboard` i implementació del pare (`../pocallum.cat/static/admin/`, `scripts/`, `.github/workflows/fetch-analytics.yml`)
-- **Secret requerit:** `GOATCOUNTER_TOKEN` al repo (cal site GoatCounter nou per al blog, p. ex. `blog-pocallum`)
+- **GoatCounter existent:** el blog ja té GoatCounter configurat al WordPress (`wp-admin → goatcounter-wp` → site code `blog-pocallum.cat`). Reaprofitarem el site ja creat (mateix codi) en lloc de crear-ne un de nou. Caldrà afegir el `GOATCOUNTER_TOKEN` al repo i indicar el site code correcte al `hugo.toml` (pendent de confirmar el codi exacte).
 - **Implementació:** fases 4–5, un cop el tema estigui en marxa
 
 ---
 
-## Segona fase (post-migració)
+## Pla SEO (pròxima sessió)
 
-- **CMS de publicació remota** — objectiu: poder publicar posts mentre es viatja, sense necessitat de l'ordinador amb el repo. Candidats: Decap CMS o Sveltia CMS (backend git sobre GitHub, compatible amb GitHub Pages). A decidir i implementar quan la migració estigui en producció.
+Substitueix Yoast Free. Tot implementat a Hugo, sense plugins ni serveis externs.
+
+### Què cal fer
+
+**Pas 1 — Partial SEO** (`themes/blog/layouts/partials/seo.html`):
+- `<meta name="description">` des del camp `description:` del frontmatter (o auto-truncat del contingut si buit)
+- `<meta name="robots">` (respecta `draft: true` i `noindex: true`)
+- Open Graph: `og:title`, `og:description`, `og:image` (usa `thumbnail:`), `og:type` (article/website)
+- Twitter Cards: `twitter:card`, `twitter:image`, `twitter:description`
+- Canonical URL (Hugo ja la genera, però centralitzar al partial)
+- Incluir a `baseof.html` en lloc dels `_internal/` de Hugo
+
+**Pas 2 — JSON-LD BlogPosting** (al `single.html`):
+- `@type: BlogPosting`, `headline`, `datePublished`, `dateModified`, `image`, `author`, `url`
+- Molt valorat per Google per a contingut fotogràfic/cultural
+
+**Pas 3 — Meta descriptions del llegat** (script `migration/extreu-yoast.py`):
+- Extreure `_yoast_wpseo_metadesc` i `_yoast_wpseo_title` del `migration/export.xml`
+- Injectar com a `description:` al frontmatter de cada post que en tingui
+- Estimació: X posts amb meta description de Yoast (a verificar al XML)
+
+**Pas 4 — Arquetip** (`archetypes/posts.md`):
+- Plantilla amb tots els camps: `title`, `date`, `description` (buit, amb comentari 155 car.), `categories`, `tags`, `thumbnail`
+
+### Camp `description:` als posts nous
+
+Format frontmatter:
+```yaml
+description: "Breu descripció per a Google, màx. 155 caràcters, en català."
+```
+Si buit, Hugo usarà el `.Summary` (primers 70 paraules). Funciona però no és òptim.
+
+---
+
+## Pla CMS — Sveltia CMS (pròxima sessió)
+
+Objectiu: publicar posts des de qualsevol dispositiu (mòbil inclòs) sense accedir al repositori local.
+
+### Arquitectura
+
+- **Backend:** GitHub (repo `112books/blog.pocallum.cat`, branca `develop`)
+- **Frontend admin:** `static/admin/index.html` + `static/admin/config.yml`
+- **URL admin:** `https://blog.pocallum.cat/admin/` (o staging: `https://112books.github.io/blog.pocallum.cat/admin/`)
+- **Autenticació:** GitHub OAuth (requereix compte GitHub — acceptable per a ús personal)
+- **Deploy automàtic:** el push de Sveltia dispara el workflow de GitHub Actions existent
+
+### Per implementar
+
+1. Crear `static/admin/index.html` (carrega Sveltia des de CDN)
+2. Crear `static/admin/config.yml` amb:
+   - Backend GitHub
+   - Media folder: `static/uploads/`
+   - Collections: `posts` amb tots els camps (title, date, slug, description, categories, tags, thumbnail, draft)
+   - Camps SEO amb ajuda: description amb `hint: "Màx. 155 caràcters"` i comptador
+3. Afegir OAuth App a GitHub (Settings → Developer settings → OAuth Apps)
+4. Testejar al staging
+
+### Acció GitHub per auto-generar meta descriptions
+
+Workflow `auto-seo.yml` (opcional, activable per `workflow_dispatch` o push):
+1. Detecta posts nous/modificats sense `description:` al frontmatter
+2. Crida Claude API (`claude-haiku-4-5`, el més econòmic) amb: títol + categories + tags + primers 300 caràcters
+3. Prompt: *"Genera una meta description en català de 130-155 caràcters per a aquest post d'un blog de fotografia. Estil directe, sense màrqueting."*
+4. Insereix la `description:` al frontmatter i fa commit
+- Cost estimat llegat complet (2.353 posts): ~0,20-0,30 €
+
+---
+
+## Segona fase (post-migració)
 
 ---
 
@@ -207,3 +319,14 @@ Skill actiu: `gestor-hores` — registra automàticament el temps de treball per
 - Logs a `.taques/blog.pocallum.cat/YYYY-MM-DD.md` (creat automàticament)
 - Comandes: `/time-log [tasca] [hores]`, `/time-report [periode]`, `/time-config [hores] [tarifa]`
 - No modificar manualment els fitxers `.taques/` — són append-only
+
+### ⚠️ Regla d'or del registre horari (obligatòria)
+
+El control horari és la base de la **facturació/comptabilitat del client**. Per tant:
+
+- **Només es registren hores reals i verificables.** Mai inventar ni estimar per defecte.
+- **Base de tot registre:** evidències objectives (timestamps de fitxers, commits de git, hores declarades per l'usuari). Si no hi ha evidència, es pregunta a l'usuari **abans** d'anotar res.
+- **No inventar tasques ni hores.** Si no saps una hora, un inici de sessió o una durada → **pregunta abans d'escriure**.
+- Cal anotar sempre **hora d'inici real** (confirmada per l'usuari si no hi ha evidència).
+- Els logs es revisen amb l'usuari abans de considerar-los vàlids per a facturació.
+- **Rigor sobre rapidesa:** val més deixar una tasca sense hora que anotar-ne una d'inventada.

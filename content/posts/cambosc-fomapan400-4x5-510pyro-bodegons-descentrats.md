@@ -1,0 +1,20 @@
+---
+title: "CamboSC - Fomapan400 4x5\" - 510Pyro - bodegons descentrats"
+date: 2019-09-04
+slug: "cambosc-fomapan400-4x5-510pyro-bodegons-descentrats"
+categories: 
+  - "cambo-sc"
+tags:
+  - "4x5"
+  - "510-pyro"
+  - "barcelona"
+  - "fomapan-400"
+  - "gran-format"
+  - "llumatics"
+  - "poble-sec"
+author: "inuxbcn"
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2019/09/4x5-Descentrats-002.jpg
+image: https://lh3.googleusercontent.com/wX3lqnH5HfJtO7f2fEOBR3bS_yhJryst7g0LVWIzdXz7VWgajUyAOCpkH2IJwUNQ2VJzg_g9NOQbeNlXrAnLoWNioUe9uMZ4xHA1G6paCr3ZDEz-CWGnWUIy-ItkIyLZ02by514xfCu9dzLZCJQg0Dt5VQS3vxiA7s0g_DptROft_Avbldtv81lwt-erFR2D4Ac3z6aD9kNnw8Bb0vRaW5E44fdUTFUFkoor8Wy-AZTxqPnkklxru9m9Hg3UBYqMUSCr-JYVcgFIcJwvSyBpp2bN3TenF__fdQoz1Jph3i2ujmI-ygxk36Ds9oYH9-FW9iiiyTIN4S-ULQ34JrhtiWahpYMLL2SX08oQi3dLk1B8n7Hj7TQl9Z_O2POtw270aQeQQFnBJmp14r9tUantwnwtrmm5cqZao1JrNvKqpncnpzfMpNCbupXSuDg4zTYQim0YGlMPdd5gmRt0Y9Bpi7fndmtwqvk4mejSbeAO9fqz53fkZH4U0LLJwMM3SU2bBayV2LgFK5yYaEUWWYKqmrEoA5traikiKpYy06WyUFnvuBkePsB-Oo6-p2_W0RQF_kqPxSavitdDsqKoqexNtZMYunSBNybd2l2JXQHfY-niSibuqn6UFvmH2pbVc2BRdLfLzgPWgszgrjzGNnTy8mwLBIruc5n3obGLMbs-Fw5YfyWw9T-yY9tE=w992-h1239-no
+---
+
+[![](https://lh3.googleusercontent.com/wX3lqnH5HfJtO7f2fEOBR3bS_yhJryst7g0LVWIzdXz7VWgajUyAOCpkH2IJwUNQ2VJzg_g9NOQbeNlXrAnLoWNioUe9uMZ4xHA1G6paCr3ZDEz-CWGnWUIy-ItkIyLZ02by514xfCu9dzLZCJQg0Dt5VQS3vxiA7s0g_DptROft_Avbldtv81lwt-erFR2D4Ac3z6aD9kNnw8Bb0vRaW5E44fdUTFUFkoor8Wy-AZTxqPnkklxru9m9Hg3UBYqMUSCr-JYVcgFIcJwvSyBpp2bN3TenF__fdQoz1Jph3i2ujmI-ygxk36Ds9oYH9-FW9iiiyTIN4S-ULQ34JrhtiWahpYMLL2SX08oQi3dLk1B8n7Hj7TQl9Z_O2POtw270aQeQQFnBJmp14r9tUantwnwtrmm5cqZao1JrNvKqpncnpzfMpNCbupXSuDg4zTYQim0YGlMPdd5gmRt0Y9Bpi7fndmtwqvk4mejSbeAO9fqz53fkZH4U0LLJwMM3SU2bBayV2LgFK5yYaEUWWYKqmrEoA5traikiKpYy06WyUFnvuBkePsB-Oo6-p2_W0RQF_kqPxSavitdDsqKoqexNtZMYunSBNybd2l2JXQHfY-niSibuqn6UFvmH2pbVc2BRdLfLzgPWgszgrjzGNnTy8mwLBIruc5n3obGLMbs-Fw5YfyWw9T-yY9tE=w992-h1239-no)](https://photos.app.goo.gl/t2H5MbhUZPzG5hTh6)

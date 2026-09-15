@@ -1,0 +1,14 @@
+---
+title: "La festa Iftar de la comunitat islàmica de 9barris"
+date: 2018-06-10
+slug: "la-festa-iftar-de-la-comunitat-islamica-de-9barris"
+categories: 
+  - "camara"
+  - "leica-m6"
+author: "inuxbcn"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2018/06/HD244-LM4-2-024.jpg
+image: https://lh3.googleusercontent.com/Q6LEOoxRAvGqa6Z46kbqFCsuqmLf9CUqSDJ6PBeSEiQQ-6AiIDmc8JqZu0laH4Y6CGoRK7Xr6O4_OBIruA-qwgvS5tWupPSdT4SmzrABlwJgmzjK-4zvd-CMecuHJgJqx_Jsyba0F-8glhvU6L99dIpKDfP_t_j8Q9voAh1_LAX_dhZ2pbI1SPdKQkPyksJLYG3GLfoNH72W3Fqy-HUBEe6Yp75k2qOcnY8BLUkZdrFhFA1vK2Yzlp0nNjcHKCvrtGilmIlgRMc3HLVdX8bh6ICVLFKloZmxTqKjCmUXUkb4Qz0sY8waqCHcirlNWikVOqrwJ0ZfLpv_rDyqneXQvVHdnYMWnUf1n2uhd7QCPyaB0TOqnmXQUwmfF3ZI8pbsETvFp9ghgGJpXUBif_-clK8AiPe1xP0pFGeB4Ccit5eGeEck7IeB0vrgDLm7rk1oold--LFjp8f4AQkmp5nHhOBTfc2zhqoyYzZ1ka97sW5NDD-9PgkVdtTsmhPAqEdRfF_nMcQ4FdE4Bu7TPaM0ohT4jE9_foAn-O7RU0OGb1uSqe0sAC1ay3BJGMuvgYTE1F6MG93Tfy7uIiBcFMNqpT__2U-l2rVe28edOry3=w1512-h1008-no
+---
+
+[![](https://lh3.googleusercontent.com/Q6LEOoxRAvGqa6Z46kbqFCsuqmLf9CUqSDJ6PBeSEiQQ-6AiIDmc8JqZu0laH4Y6CGoRK7Xr6O4_OBIruA-qwgvS5tWupPSdT4SmzrABlwJgmzjK-4zvd-CMecuHJgJqx_Jsyba0F-8glhvU6L99dIpKDfP_t_j8Q9voAh1_LAX_dhZ2pbI1SPdKQkPyksJLYG3GLfoNH72W3Fqy-HUBEe6Yp75k2qOcnY8BLUkZdrFhFA1vK2Yzlp0nNjcHKCvrtGilmIlgRMc3HLVdX8bh6ICVLFKloZmxTqKjCmUXUkb4Qz0sY8waqCHcirlNWikVOqrwJ0ZfLpv_rDyqneXQvVHdnYMWnUf1n2uhd7QCPyaB0TOqnmXQUwmfF3ZI8pbsETvFp9ghgGJpXUBif_-clK8AiPe1xP0pFGeB4Ccit5eGeEck7IeB0vrgDLm7rk1oold--LFjp8f4AQkmp5nHhOBTfc2zhqoyYzZ1ka97sW5NDD-9PgkVdtTsmhPAqEdRfF_nMcQ4FdE4Bu7TPaM0ohT4jE9_foAn-O7RU0OGb1uSqe0sAC1ay3BJGMuvgYTE1F6MG93Tfy7uIiBcFMNqpT__2U-l2rVe28edOry3=w1512-h1008-no)](https://photos.app.goo.gl/cv8LAUHdnfvt7QrL6)

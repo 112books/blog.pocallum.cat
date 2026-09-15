@@ -1,0 +1,15 @@
+---
+title: "Straperlo Band + Los eléctricos + Jam session al casal Som la Pera"
+date: 2021-05-22
+slug: "extraperlo-los-electricos-jam-session-al-casal-som-la-pera"
+categories: 
+  - "canon-eos-6d"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2021/05/IMG_5635.jpg
+image: https://lh3.googleusercontent.com/SiYB3A9GuVknS9iu_lDfnhHucTK05iJhW_sRskc8jFnFI6dmW1uU8ONbvIOpjjHU8z8FVhDyx6dUjfWz3axulbNMBSQmK51VgNiKHyrPbIL1IPATn9nXEt-bPhUUbEfzHNhU-y35mBNq_A673gtdktQmthvoHUL6BslBw5b-S_MBDBZ4jokBXeMqE9OcPCRVC1B5G_VPfDA-xuQ7sIAozRoevTZp9BUIwnzEvzFGkedJf0_g8wtwoy45pLk2z7BUyOSn7Xqx9ipvzeusG3IV1OpmsXC4T2KeSA9-2a5AnrUB2GhCOOIaR1rjWs1ywbO7Cuh1cdIXABbN2TvwMyLN4VU3HYARsG_ma-lvZ9rUZsw0GvA8rBdMeZBlknVY-vm_Oo9DR8tf7D_miF34FPd_v5YoAKjkIr4vRon31NJ_g0W7DWsp139rQTRYPLagWEzIyAxAgn5hR7O5mV7-nqotMqRW88EiW6nxM07WP5jFGjK0h-qv8cTZtyo1F-_tDfuZv6U8SkftI3kTxtzVLGZ-_MtNhLgOsR2tI8iblAFs9-myMNjjSIAl1ROqr-2VhI0XWfBP0mpAFVqChDvysvZPwTa8LDOQu9hSmgXiOLeZQiO7bHbBCdHJ_978VPv6R8zcwGQBeQ28gF2y7Y76zi12eMRbYdHHHQFZBLaJFPLcsPTJ2aMAHcdJXslpzWBmaAo-tpSz2_3-t6Qpc2sBTwF-DX7N=w1449-h967-no?authuser=0
+---
+
+[![](https://lh3.googleusercontent.com/SiYB3A9GuVknS9iu_lDfnhHucTK05iJhW_sRskc8jFnFI6dmW1uU8ONbvIOpjjHU8z8FVhDyx6dUjfWz3axulbNMBSQmK51VgNiKHyrPbIL1IPATn9nXEt-bPhUUbEfzHNhU-y35mBNq_A673gtdktQmthvoHUL6BslBw5b-S_MBDBZ4jokBXeMqE9OcPCRVC1B5G_VPfDA-xuQ7sIAozRoevTZp9BUIwnzEvzFGkedJf0_g8wtwoy45pLk2z7BUyOSn7Xqx9ipvzeusG3IV1OpmsXC4T2KeSA9-2a5AnrUB2GhCOOIaR1rjWs1ywbO7Cuh1cdIXABbN2TvwMyLN4VU3HYARsG_ma-lvZ9rUZsw0GvA8rBdMeZBlknVY-vm_Oo9DR8tf7D_miF34FPd_v5YoAKjkIr4vRon31NJ_g0W7DWsp139rQTRYPLagWEzIyAxAgn5hR7O5mV7-nqotMqRW88EiW6nxM07WP5jFGjK0h-qv8cTZtyo1F-_tDfuZv6U8SkftI3kTxtzVLGZ-_MtNhLgOsR2tI8iblAFs9-myMNjjSIAl1ROqr-2VhI0XWfBP0mpAFVqChDvysvZPwTa8LDOQu9hSmgXiOLeZQiO7bHbBCdHJ_978VPv6R8zcwGQBeQ28gF2y7Y76zi12eMRbYdHHHQFZBLaJFPLcsPTJ2aMAHcdJXslpzWBmaAo-tpSz2_3-t6Qpc2sBTwF-DX7N=w1449-h967-no?authuser=0)](https://photos.app.goo.gl/Hf7qs2q3rHGEzqRT7)
+
+Debut d'aquesta nova formació del barri, Extraperlo juntament amb els més veterans Los Eléctricos i tot acabat amb una petita Jam Session. Així es comença a sortir de la pandèmia al [casal Som la Pera](http://casalsomlapera.blogspot.com/?fbclid=IwAR3_FdomJ029yWTJIevL3mrUqJ4ashDuESGShZUQ13z32SQbonghDvPU804)

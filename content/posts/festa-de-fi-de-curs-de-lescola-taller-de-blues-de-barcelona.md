@@ -1,0 +1,17 @@
+---
+title: "Festa de fi de curs de l'Escola-Taller de Blues de Barcelona"
+date: 2019-06-09
+slug: "festa-de-fi-de-curs-de-lescola-taller-de-blues-de-barcelona"
+categories: 
+  - "leica-m6"
+author: "inuxbcn"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2019/06/HD379-050.jpg
+image: https://lh3.googleusercontent.com/VuBvqDu_YsvekDt5B-Wqd5Y24foU4_oSqCZuBw3tI_MtvHAvUyvT--BvaSM19Y_BbRVEGX1h_xyTKLwdpTH8Q9jhHWqVd34inF5M-jCR8hFkmVBWDwleo8SV5FdD1m3SPZmaFaLKdFj9tFlkweluZiHo13_0zwIE9_0FnF1D86dEetSTutG82766um0bmib5CW0VGxyJItdvH2AomzykHQsiRGutYx1AEPK2IMj0sC9-665cQNQmED58LPm7hgSEOrpXWhjZ4DvZFYZnEvnczyKjdb4a6COjTfu6tr0e0Jy_ldcmNyv12KqaQV0lqiSW56moT9VK_7LninLy1nE_jhFw3zCm1HUaW_OW8IJD1Y7iZv1mHVXvDG9o8rfK7cAhCg-8u46CZp75qT-G5JWOPDTfwP2KnIGyQX3_UZgjYBG-sMFN4RNn4dImrQ4c5L6rFpxXW3B2subUuJg66yqCZo9YfYeBr90CDoPP-2ZrSNOmkwEaprmnupv9r4-58TzzuAhPJAZAvFGUELN88MShrAUbR4xelO7DpYXt1xmhkKDUnH1ZdH9g3RTTyIEeT8c_R9ExTOy0zij5hNVRgSn88eTDtzxli6dybt5h9CRtyijjerIfIxgyJP1RzRoeVmzGNlZTAS7ZVbKbrwOBZYD_gGcH9burudlt=w1549-h1033-no
+---
+
+[![](https://lh3.googleusercontent.com/VuBvqDu_YsvekDt5B-Wqd5Y24foU4_oSqCZuBw3tI_MtvHAvUyvT--BvaSM19Y_BbRVEGX1h_xyTKLwdpTH8Q9jhHWqVd34inF5M-jCR8hFkmVBWDwleo8SV5FdD1m3SPZmaFaLKdFj9tFlkweluZiHo13_0zwIE9_0FnF1D86dEetSTutG82766um0bmib5CW0VGxyJItdvH2AomzykHQsiRGutYx1AEPK2IMj0sC9-665cQNQmED58LPm7hgSEOrpXWhjZ4DvZFYZnEvnczyKjdb4a6COjTfu6tr0e0Jy_ldcmNyv12KqaQV0lqiSW56moT9VK_7LninLy1nE_jhFw3zCm1HUaW_OW8IJD1Y7iZv1mHVXvDG9o8rfK7cAhCg-8u46CZp75qT-G5JWOPDTfwP2KnIGyQX3_UZgjYBG-sMFN4RNn4dImrQ4c5L6rFpxXW3B2subUuJg66yqCZo9YfYeBr90CDoPP-2ZrSNOmkwEaprmnupv9r4-58TzzuAhPJAZAvFGUELN88MShrAUbR4xelO7DpYXt1xmhkKDUnH1ZdH9g3RTTyIEeT8c_R9ExTOy0zij5hNVRgSn88eTDtzxli6dybt5h9CRtyijjerIfIxgyJP1RzRoeVmzGNlZTAS7ZVbKbrwOBZYD_gGcH9burudlt=w1549-h1033-no)](https://photos.app.goo.gl/SmRqAnaVxNt7pgeG8)
+
+Festa fi de curs de l'Escola-Taller de Blues de Barcelona a l'Ateneu Harmonia. Combos + Jam Session
+
+Leicam6 -Summaron 35mm f/3.5 - RPX400 @3200 <- Amb la pitjor il·luminació que he topat en anys ;(

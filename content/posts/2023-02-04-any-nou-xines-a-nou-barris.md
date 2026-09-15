@@ -1,0 +1,21 @@
+---
+title: "2023-02-04 - Any nou Xinès a Nou Barris"
+date: 2023-02-04
+slug: "2023-02-04-any-nou-xines-a-nou-barris"
+categories: 
+  - "fuji-x-pro1"
+tags:
+  - "9-barris"
+  - "any-nou-xines"
+  - "comunitat-xinesa"
+  - "nou-barris"
+  - "prosperitat"
+  - "via-julia-2"
+author: "fatmin"
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2023/02/DSF5464.jpg
+image: https://lh3.googleusercontent.com/f9auS7NAay0bco-5rAsL6jlDuWbyKVc0El3QpaVvFaPRUJ0Hjld2RYm_StX--9Odz1GeK-MVz_TFE2oGTkEQlZ0XZpc1DkMiqBQIvoj8MDFIe0pUsOIfwzwNk9rGGEpf5zxCbp0a6WopARPLhPAuhfDKDNmaZf5tUJtmILw0VxMjd8PZLbsT0wRa2sIrA1in0hvsuy8xvygNXu5Xu_BLjmleKgb6aK98EP8XplQErgmYQKVZyLtjA4REqFXBfhXwiGozuOJvgV96_IFbhhZrSu3APve1sOfGTQW-HuG5-O9yE6bQ8NZ1CWo6oH1ZA8jwKjaNYCiU0Ebs2oqrKU340O-Ms4it8RqluZDTPiHA0kKdPwLHk8YI1mEkfE9TAh4PUgs8PBthh-szqxo9rOxZ1R4p69CSirhLm0G5y3NtMdYQn0UngylQcNsSwV6Sww7QwDP8ypMbCrm6hFj6OXFy6ITs6zB3JpLfSTeh-UYOlN2xI-e0OmUK8xW6bOyZOVPDAyNh4hKW7Z4RtgD7hfaGrzX1DsM4OTX-2Xz8wvB3XrC6Mdx5r4z6cboVpvWwWbr__50H4fXjqocj_aCI_R-4gw5OBCtLIImjDdziKfbwEZN2ekr2hyPbR31bA41QgSmZyLHNIEduXuD5TJoeh0DaNUeq6I3XD1kui_jXRQMp5PcEHCBDRhhcI381pe36WPw2_LWWocaoiwGx-67JOgcTMdQ2a3NQEFzF33jsxNu85jtDO7KOkr-MXCQrQNsP9gTA02mRBP55jknvq3YJseeI5jl_9ylJUDd2cE-tw4s4fPoNaUaM0YCSdifeAHVaWjm5yNrWao4nZS4GOALYPPdFvvgmhND7k_mnnEfKMp0ri6dyKl4GuYStUlVcv3lvKTAOKLUwwe9BnM4YnsbmKHMB3royZPS49GNumihxvHyXnI7Gxw=w1617-h1079-no?authuser=0
+---
+
+[![](https://lh3.googleusercontent.com/f9auS7NAay0bco-5rAsL6jlDuWbyKVc0El3QpaVvFaPRUJ0Hjld2RYm_StX--9Odz1GeK-MVz_TFE2oGTkEQlZ0XZpc1DkMiqBQIvoj8MDFIe0pUsOIfwzwNk9rGGEpf5zxCbp0a6WopARPLhPAuhfDKDNmaZf5tUJtmILw0VxMjd8PZLbsT0wRa2sIrA1in0hvsuy8xvygNXu5Xu_BLjmleKgb6aK98EP8XplQErgmYQKVZyLtjA4REqFXBfhXwiGozuOJvgV96_IFbhhZrSu3APve1sOfGTQW-HuG5-O9yE6bQ8NZ1CWo6oH1ZA8jwKjaNYCiU0Ebs2oqrKU340O-Ms4it8RqluZDTPiHA0kKdPwLHk8YI1mEkfE9TAh4PUgs8PBthh-szqxo9rOxZ1R4p69CSirhLm0G5y3NtMdYQn0UngylQcNsSwV6Sww7QwDP8ypMbCrm6hFj6OXFy6ITs6zB3JpLfSTeh-UYOlN2xI-e0OmUK8xW6bOyZOVPDAyNh4hKW7Z4RtgD7hfaGrzX1DsM4OTX-2Xz8wvB3XrC6Mdx5r4z6cboVpvWwWbr__50H4fXjqocj_aCI_R-4gw5OBCtLIImjDdziKfbwEZN2ekr2hyPbR31bA41QgSmZyLHNIEduXuD5TJoeh0DaNUeq6I3XD1kui_jXRQMp5PcEHCBDRhhcI381pe36WPw2_LWWocaoiwGx-67JOgcTMdQ2a3NQEFzF33jsxNu85jtDO7KOkr-MXCQrQNsP9gTA02mRBP55jknvq3YJseeI5jl_9ylJUDd2cE-tw4s4fPoNaUaM0YCSdifeAHVaWjm5yNrWao4nZS4GOALYPPdFvvgmhND7k_mnnEfKMp0ri6dyKl4GuYStUlVcv3lvKTAOKLUwwe9BnM4YnsbmKHMB3royZPS49GNumihxvHyXnI7Gxw=w1617-h1079-no?authuser=0)](https://photos.app.goo.gl/WGNUGdo5jWD3Yqmu6)
+
+Un any més, els veïns i veïnes d'origen xinès dels nostres barris, han volgut celebrar l'any nou xinès compartint la seva cultura amb la resta de les que cohabiten al barri. Molt colorit i amb balls, dracs i moltes coses interessants.

@@ -1,11 +1,138 @@
 {{ define "main" }}
+{{ if eq .Type "posts" }}
+
+{{/* ── Variables de la tira ── */}}
+{{ $allPosts := (where .Site.RegularPages "Section" "posts").ByDate.Reverse }}
+{{ $curLink  := .RelPermalink }}
+{{ $curIdx   := 0 }}
+{{ range $i, $p := $allPosts }}
+  {{ if eq $p.RelPermalink $curLink }}{{ $curIdx = $i }}{{ end }}
+{{ end }}
+{{ $window := 15 }}
+{{ $start  := int (math.Max 0 (sub $curIdx $window)) }}
+{{ $end    := int (math.Min (len $allPosts) (add $curIdx (add $window 1))) }}
+{{ $strip  := $allPosts | after $start | first (sub $end $start) }}
+
 <article>
-  <h1>{{ .Title }}</h1>
-  <p>
-    <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 de January de 2006" }}</time>
-    {{ with .GetTerms "categories" }}· Categories: {{ range . }}<a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a> {{ end }}{{ end }}
-    {{ with .GetTerms "tags" }}· Etiquetes: {{ range . }}<a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a> {{ end }}{{ end }}
-  </p>
-  {{ .Content }}
+  {{ $hero := or .Params.image .Params.thumbnail }}
+  {{ if $hero }}
+  <div class="post-hero">
+    <img src="{{ $hero }}" alt="{{ .Title }}" loading="eager" decoding="async">
+  </div>
+  {{ end }}
+
+  <header class="page-header">
+    <div class="container--narrow">
+      {{ with .Params.categories }}
+      <p class="page-eyebrow">
+        {{ range first 1 . }}<a href="{{ "categories/" | relURL }}{{ . | urlize }}/">{{ . }}</a>{{ end }}
+      </p>
+      {{ end }}
+      <h1 class="page-title">{{ .Title }}</h1>
+      <div class="page-meta">
+        <span>{{ .Date.Format "2 de January de 2006" }}</span>
+        {{ if gt .WordCount 0 }}<span>{{ .ReadingTime }} min</span>{{ end }}
+        {{ with .Params.categories }}
+          <span>· {{ delimit . ", " ", " }}</span>
+        {{ end }}
+      </div>
+    </div>
+  </header>
+
+  <div class="single-body">
+    <div class="prose">
+      {{ $contingut := .Content }}
+      {{ $reAnchor := `<a[^>]*href="[^"]*vimeo\.com/(?:video/)?([0-9]+)[^"]*"[^>]*>.*?</a>` }}
+      {{ $reBare   := `([\s>([])(?:https?:)?//(?:www\.|player\.)?vimeo\.com/(?:video/)?([0-9]+)[^ <>"'()\\]*` }}
+      {{ $iframeAnchor := `<div class="video-wrap"><iframe src="https://player.vimeo.com/video/$1" title="Vídeo de Vimeo" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen loading="lazy" referrerpolicy="strict-origin-when-cross-origin" width="640" height="360"></iframe></div>` }}
+      {{ $iframeBare   := `$1<div class="video-wrap"><iframe src="https://player.vimeo.com/video/$2" title="Vídeo de Vimeo" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen loading="lazy" referrerpolicy="strict-origin-when-cross-origin" width="640" height="360"></iframe></div>` }}
+      {{ $contingut = replaceRE $reAnchor $iframeAnchor $contingut }}
+      {{ $contingut = replaceRE $reBare   $iframeBare   $contingut }}
+      {{ $contingut | safeHTML }}
+    </div>
+
+    {{ with .Params.tags }}
+    <nav class="tags" aria-label="Etiquetes">
+      {{ if . }}<span class="tags__label">Etiquetes</span>{{ end }}
+      {{ range . }}
+      <a class="tag" href="{{ "tags/" | relURL }}{{ . | urlize }}/">{{ . }}</a>
+      {{ end }}
+    </nav>
+    {{ end }}
+  </div>
+
+  {{/* ── Comentaris giscus ── */}}
+  {{ with .Site.Params.giscusRepoId }}
+  <section class="giscus-wrap" aria-label="Comentaris">
+    <div class="container--narrow">
+      <script src="https://giscus.app/client.js"
+        data-repo="{{ $.Site.Params.giscusRepo }}"
+        data-repo-id="{{ $.Site.Params.giscusRepoId }}"
+        data-category="Comentaris"
+        data-category-id="{{ $.Site.Params.giscusCategoryId }}"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="dark_dimmed"
+        data-lang="ca"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+      </script>
+    </div>
+  </section>
+  {{ end }}
+
+  {{/* ── Tira de navegació estil Netflix ── */}}
+  {{ if gt (len $strip) 1 }}
+  <nav class="post-strip-nav" aria-label="Posts del voltant">
+    <div class="post-strip-wrap">
+      <button class="post-strip-arrow" id="js-strip-prev" aria-label="Desplaça enrere" type="button">&#x2039;</button>
+      <div class="post-strip" id="js-strip">
+        {{ range $strip }}
+        {{ $isCur := eq .RelPermalink $curLink }}
+        <a href="{{ if not $isCur }}{{ .RelPermalink }}{{ else }}#{{ end }}"
+           class="post-thumb{{ if $isCur }} is-current{{ end }}"
+           {{ if $isCur }}aria-current="page"{{ end }}>
+          <div class="post-thumb__img">
+            {{ $img := or .Params.thumbnail .Params.image }}
+            {{ if $img }}<img src="{{ $img }}" alt="" loading="lazy" decoding="async">{{ end }}
+          </div>
+          <span class="post-thumb__title">{{ .Title }}</span>
+          <span class="post-thumb__date">{{ .Date.Format "02·01·06" }}</span>
+        </a>
+        {{ end }}
+      </div>
+      <button class="post-strip-arrow" id="js-strip-next" aria-label="Desplaça endavant" type="button">&#x203A;</button>
+    </div>
+  </nav>
+  <script>
+  (function(){
+    var strip = document.getElementById('js-strip');
+    if (!strip) return;
+    var cur = strip.querySelector('.is-current');
+    if (cur) strip.scrollLeft = cur.offsetLeft - (strip.offsetWidth / 2) + (cur.offsetWidth / 2);
+    document.getElementById('js-strip-prev').addEventListener('click', function(){ strip.scrollBy({left:-220,behavior:'smooth'}); });
+    document.getElementById('js-strip-next').addEventListener('click', function(){ strip.scrollBy({left:220,behavior:'smooth'}); });
+  })();
+  </script>
+  {{ end }}
+
 </article>
+
+{{ else }}
+<header class="page-header">
+  <div class="container--narrow">
+    <p class="page-eyebrow">{{ .Type | humanize }}</p>
+    <h1 class="page-title">{{ .Title }}</h1>
+  </div>
+</header>
+<div class="single-body">
+  <div class="prose">
+    {{ .Content }}
+  </div>
+</div>
+{{ end }}
 {{ end }}

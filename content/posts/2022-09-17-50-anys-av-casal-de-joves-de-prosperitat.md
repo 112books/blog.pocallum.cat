@@ -1,0 +1,17 @@
+---
+title: "2022-09-17 - 50 anys AV-Casal de Joves de Prosperitat"
+date: 2022-09-17
+slug: "2022-09-17-50-anys-av-casal-de-joves-de-prosperitat"
+categories: 
+  - "fuji-x-pro1"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2022/09/DSF0523.jpg
+image: https://lh3.googleusercontent.com/8TAMMM5iO3iz8pyAKd_c-53o7hesr_z3kTxQhMiJi2J0oE2jwmiYCOAslTv6mnT_1Xq1vaicxfda2lmSXH8uD4WuPhNqh7rRW4HQ3_pkiXs2jtfJpFVhhrx82iFS9NqpLo4PdQQ424shZjWlwsWNbRh2kT8NwfK2zo87Eoz2z5f2-WGzFS0MgqlYc8obnLQkDrRusQK1Sr-CMthQM_ngCcKqosOqvGlFLSMvquPzdPl1Samkvqmtrd7LpBCtDPN_2Mbi5wwplgOX_uovYevPKnTfne5P5jCimn69TPW_TaDVUWpYoaDwOW_7dJFmoyupgfMbHwi2ojpYFDmcGaVnrv2Dd2oiXFoTpoTQaD61_9eT_aW4C5rgw1HqhC0W-iCJIVXi57ZSDVRlbLKoXow2zr2q79lo5z6bibeT3UHFZ_oIpnpTxqJThz59sfax4zqjKDV5jF4MvZR-Mcp3A2hJHhK-gHo4s_kzooBH2-z6jaXzM2t38851NF02DRLGeBPJGseDqjGZuG1pA8qWmH0Ar6AAtAENnDUPcgdP3xamOVb2Jhm6aaynTJoCWLjyyG8o40TS8UzCh1MYwEQDcuRk9UOjh2QBhcBGMsY1DnreeQCz3nT_R1p4r2GFa1U4i5C-T8bwNM6pD5Hio-LhiELH7qFwTlANQ7C3knnDpKqpnAgh0VxJx6NX3gXqnw0Bokrv3emdgU2kJ70fLpWVdz1ubZWU1P9mwHSczWEiQrS9qUW6ldNxczd2AH_TFuxC=w1880-h1253-no?authuser=0
+---
+
+[![](https://lh3.googleusercontent.com/8TAMMM5iO3iz8pyAKd_c-53o7hesr_z3kTxQhMiJi2J0oE2jwmiYCOAslTv6mnT_1Xq1vaicxfda2lmSXH8uD4WuPhNqh7rRW4HQ3_pkiXs2jtfJpFVhhrx82iFS9NqpLo4PdQQ424shZjWlwsWNbRh2kT8NwfK2zo87Eoz2z5f2-WGzFS0MgqlYc8obnLQkDrRusQK1Sr-CMthQM_ngCcKqosOqvGlFLSMvquPzdPl1Samkvqmtrd7LpBCtDPN_2Mbi5wwplgOX_uovYevPKnTfne5P5jCimn69TPW_TaDVUWpYoaDwOW_7dJFmoyupgfMbHwi2ojpYFDmcGaVnrv2Dd2oiXFoTpoTQaD61_9eT_aW4C5rgw1HqhC0W-iCJIVXi57ZSDVRlbLKoXow2zr2q79lo5z6bibeT3UHFZ_oIpnpTxqJThz59sfax4zqjKDV5jF4MvZR-Mcp3A2hJHhK-gHo4s_kzooBH2-z6jaXzM2t38851NF02DRLGeBPJGseDqjGZuG1pA8qWmH0Ar6AAtAENnDUPcgdP3xamOVb2Jhm6aaynTJoCWLjyyG8o40TS8UzCh1MYwEQDcuRk9UOjh2QBhcBGMsY1DnreeQCz3nT_R1p4r2GFa1U4i5C-T8bwNM6pD5Hio-LhiELH7qFwTlANQ7C3knnDpKqpnAgh0VxJx6NX3gXqnw0Bokrv3emdgU2kJ70fLpWVdz1ubZWU1P9mwHSczWEiQrS9qUW6ldNxczd2AH_TFuxC=w1880-h1253-no?authuser=0)](https://photos.app.goo.gl/BBA67RaSLbfZkZFJ9)
+
+Matí a tot gas a la Zona Verda de Prosperitat festejant els 50 anys de l'AV i Casal de Joves de la Prosperitat.
+
+Grafitis, Paelles (una pels amics dels bròquils i l'altre pels amics de les bèsties) boníssimes, Xerrada dels savis del barri, mercadet artesà, Té i pastissos marroquins i Dj's. La festa continua!!

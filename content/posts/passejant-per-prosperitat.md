@@ -1,0 +1,23 @@
+---
+title: "Passejant per Prosperitat"
+date: 2020-11-18
+slug: "passejant-per-prosperitat"
+categories: 
+  - "leica-m6"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2020/11/2020-11-14-005.jpg
+image: https://lh3.googleusercontent.com/LFrxeXyqMc9cuhv51LXQ9FWrJYyqGZ-KpctNEsNGH9Ne37fuFwywj_fvKegh57MDuruFhng8D0mS10Wz2kPupndyai7aUHwYzgl7c-rhWVBmnUBAHhq404RvFsVbbl8UYOaD_QWBgrR1lRarxYZPalti9v016WmCSdALuo_DLnUNhewKN_Fup-sAdBfvGzhnP_LGyfjif6V-6lrzXS12C5sWuLcTiwDstbsXCeNWMfz0oaPmzAAOCH_aLLRc9dNupLEQQT1vqk0PszOSveRGc1CKfEj--ZW8IsKZb5Xf897oCEto9WJ0OBKjWF0VcOkgj5zvC5EM7SsZWJbWuuouCr0Gz2pO7pG-151WSGdZZByWmfOuHx4W7p_QTm9zgdCPEIcpLSv-vsPVVVwYe9goJEBvfIwYNhqkvrT7TDYMcj9YlxeOFEKPXGbH9WCi6kZgCNAsnQ5gU9bRQJBJ62wP2-TCkrzCaA-R5NSMRVyeoVVdYX2p2CYIxtpOW4ofkAi_qglioTiRO6e0Fz4wSaP4k9hHS6CyC2aonY_fEuuT1xNxhUq6w5xcie3mnQtYbUHwtFVg0zjeZGXjKVKi_ifENyUn0ECDvUPNebUbSbMtxgpFlbeRiyDsLxa_3rRAabetOaG3xmLMODa-PQeIL9lr-4d9H1avanCKqse0sM3Byp-htfnKn6xU8vA7Q9fuKg=w1735-h1080-no?authuser=0
+---
+
+<figure>
+
+[![](https://lh3.googleusercontent.com/LFrxeXyqMc9cuhv51LXQ9FWrJYyqGZ-KpctNEsNGH9Ne37fuFwywj_fvKegh57MDuruFhng8D0mS10Wz2kPupndyai7aUHwYzgl7c-rhWVBmnUBAHhq404RvFsVbbl8UYOaD_QWBgrR1lRarxYZPalti9v016WmCSdALuo_DLnUNhewKN_Fup-sAdBfvGzhnP_LGyfjif6V-6lrzXS12C5sWuLcTiwDstbsXCeNWMfz0oaPmzAAOCH_aLLRc9dNupLEQQT1vqk0PszOSveRGc1CKfEj--ZW8IsKZb5Xf897oCEto9WJ0OBKjWF0VcOkgj5zvC5EM7SsZWJbWuuouCr0Gz2pO7pG-151WSGdZZByWmfOuHx4W7p_QTm9zgdCPEIcpLSv-vsPVVVwYe9goJEBvfIwYNhqkvrT7TDYMcj9YlxeOFEKPXGbH9WCi6kZgCNAsnQ5gU9bRQJBJ62wP2-TCkrzCaA-R5NSMRVyeoVVdYX2p2CYIxtpOW4ofkAi_qglioTiRO6e0Fz4wSaP4k9hHS6CyC2aonY_fEuuT1xNxhUq6w5xcie3mnQtYbUHwtFVg0zjeZGXjKVKi_ifENyUn0ECDvUPNebUbSbMtxgpFlbeRiyDsLxa_3rRAabetOaG3xmLMODa-PQeIL9lr-4d9H1avanCKqse0sM3Byp-htfnKn6xU8vA7Q9fuKg=w1735-h1080-no?authuser=0)](https://photos.app.goo.gl/BcwdQbb4yrZiZYoCA)
+
+<figcaption>
+
+Leica M6 - Voigtlander 35f/1.7 - Agfa APX 100
+
+</figcaption>
+
+</figure>

@@ -1,0 +1,13 @@
+---
+title: "Cambo SC - Retrats en paper"
+date: 2017-04-20
+slug: "cambo-sc-retrats-en-paper"
+categories: 
+  - "cambo-sc"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2017/04/Cambo-griegos2017-003.jpg
+image: https://lh3.googleusercontent.com/BTokoK95gIU-g5gH-hxjfz6KLmNX7_ONWVgWgIKKXsqbCN4mwtCxx5IQpKtNqU-mUNz2eMy3HrclgzpHm2t8ZEjzqH6H3MGGhQWDP5750Fh2Q_28Wf8sGTUo8eFmHGCK_G_4_xlQI26Ac5-V6KhRTdG-3u2ZuJ6TXbysjYk-3D-jMgWYGzL9V6w16fL0RUckybTAD-K9G7hkrOeixcFD-L5Otl-LZZaBZwxv2UE_8ZOKrD6k3idY3hEq_KHbhP66ew9_HBnqiNcT-HyXk80T5GpNLBH62j3Fyzpz_u0X-Zb7ZpURxuTVPX1jFZO2ylj1lPB-5DRnpkny2ZZhrGueYi6GBq7HV0uA8v4oKmP2DSWXVpgKQMGUaERCw6cZkKOx4rNlYGLSv355tNyC-1k7c1ogHKtVFDhOd345IXbYqYgKX9N0Nn9INfWTukwaK_S84uu44oaAGLGrVLVwN59vc8-noUsLNUJNXOl0FxMZrMEnwRXODMSnD3A-gIKdREcp62nv9bUMD4GCKhVTSnF6hFZe_T_ALOkXk-pFWJ0GC87jsIZ1nrotSaI3UQKSOV537u93bZOHUpBLmPtMi7tD-0WBxk7OOxnNjSgYXGOQxmEZisnvvNvPzw=w851-h1147-no
+---
+
+[![](https://lh3.googleusercontent.com/BTokoK95gIU-g5gH-hxjfz6KLmNX7_ONWVgWgIKKXsqbCN4mwtCxx5IQpKtNqU-mUNz2eMy3HrclgzpHm2t8ZEjzqH6H3MGGhQWDP5750Fh2Q_28Wf8sGTUo8eFmHGCK_G_4_xlQI26Ac5-V6KhRTdG-3u2ZuJ6TXbysjYk-3D-jMgWYGzL9V6w16fL0RUckybTAD-K9G7hkrOeixcFD-L5Otl-LZZaBZwxv2UE_8ZOKrD6k3idY3hEq_KHbhP66ew9_HBnqiNcT-HyXk80T5GpNLBH62j3Fyzpz_u0X-Zb7ZpURxuTVPX1jFZO2ylj1lPB-5DRnpkny2ZZhrGueYi6GBq7HV0uA8v4oKmP2DSWXVpgKQMGUaERCw6cZkKOx4rNlYGLSv355tNyC-1k7c1ogHKtVFDhOd345IXbYqYgKX9N0Nn9INfWTukwaK_S84uu44oaAGLGrVLVwN59vc8-noUsLNUJNXOl0FxMZrMEnwRXODMSnD3A-gIKdREcp62nv9bUMD4GCKhVTSnF6hFZe_T_ALOkXk-pFWJ0GC87jsIZ1nrotSaI3UQKSOV537u93bZOHUpBLmPtMi7tD-0WBxk7OOxnNjSgYXGOQxmEZisnvvNvPzw=w851-h1147-no)](https://goo.gl/photos/bMW1XxarX84cDSLg6)

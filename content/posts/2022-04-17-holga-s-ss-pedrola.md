@@ -1,0 +1,23 @@
+---
+title: "2022-04-17 - Holga S - SS Pedrola"
+date: 2022-04-17
+slug: "2022-04-17-holga-s-ss-pedrola"
+categories: 
+  - "holga-120s"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2022/04/2022-04-17-HolgaS-SS-Pedrola-0001.jpg
+image: https://lh3.googleusercontent.com/EtXL_mvuVwKPq7eSybsFfdnwaq-U-a2nwM8kLy5jWrpPr1xNHAdTML5fdM4mxO4fwGWyfPozR9-478KBJmaCmskwoTeeiw559WaClU95xPI6nDqolVDHSo0w_9mulLL_FjtwHgo1larWJkosjPqABpheFgPvHVM5VeFQIcWd5FKEyfDxeDwvvJH0RmiI0O9GVqkNs69PG0mHqpJP5CAoXCAypf_yCtFtfPCTykbTPQEaEdVLXr5_QLcJMSYEJ8FIT8XfRh5IqhM6yrz4ijmLixNd2IrRhlpj91E_6xJvoJGWIH9xeRPsIfZ1xD8JkUXNet-m5XAei20EvcTzfJLkueM3aZDMkgFZ0hxHg_yyugGXkBkkfErQQL2k4owxMQU3jPW63ATl1zJNKOluqziwWGd4C3WR6IQ-FyWDcD4OWUbj8OoeI7XB4h7LrH1p8Y-sfEysczwMXPLzhNu40aBJPT15Xlgw3leGDzzRPeadoqddDC-oO1U4y2Qup2JVM9JteE64xOaie-g6zF1OcnC0feS9xfGTV-Xu4ntUNkOjjuW95Nl9_bV_pZMDUHXgBjwoYXCGoH34cnyq1G5JJf44Xe3VhPD4vru4PhG1dFV4XxKNq-mQShdyF7l_ELRgrGvZiH-7Y9nSccqPmWgA1eVJAmTc46kVnkMoLLFbXEw5tnq3NOyM5KuEd3uhVXew_Yk4zB79cVzXutNjtCCmovJ09oOwp1GxYvWbbaapGd6HeA22OtPhN2A0CfccFDcu=w1330-h1278-no?authuser=0
+---
+
+<figure>
+
+[![](https://lh3.googleusercontent.com/EtXL_mvuVwKPq7eSybsFfdnwaq-U-a2nwM8kLy5jWrpPr1xNHAdTML5fdM4mxO4fwGWyfPozR9-478KBJmaCmskwoTeeiw559WaClU95xPI6nDqolVDHSo0w_9mulLL_FjtwHgo1larWJkosjPqABpheFgPvHVM5VeFQIcWd5FKEyfDxeDwvvJH0RmiI0O9GVqkNs69PG0mHqpJP5CAoXCAypf_yCtFtfPCTykbTPQEaEdVLXr5_QLcJMSYEJ8FIT8XfRh5IqhM6yrz4ijmLixNd2IrRhlpj91E_6xJvoJGWIH9xeRPsIfZ1xD8JkUXNet-m5XAei20EvcTzfJLkueM3aZDMkgFZ0hxHg_yyugGXkBkkfErQQL2k4owxMQU3jPW63ATl1zJNKOluqziwWGd4C3WR6IQ-FyWDcD4OWUbj8OoeI7XB4h7LrH1p8Y-sfEysczwMXPLzhNu40aBJPT15Xlgw3leGDzzRPeadoqddDC-oO1U4y2Qup2JVM9JteE64xOaie-g6zF1OcnC0feS9xfGTV-Xu4ntUNkOjjuW95Nl9_bV_pZMDUHXgBjwoYXCGoH34cnyq1G5JJf44Xe3VhPD4vru4PhG1dFV4XxKNq-mQShdyF7l_ELRgrGvZiH-7Y9nSccqPmWgA1eVJAmTc46kVnkMoLLFbXEw5tnq3NOyM5KuEd3uhVXew_Yk4zB79cVzXutNjtCCmovJ09oOwp1GxYvWbbaapGd6HeA22OtPhN2A0CfccFDcu=w1330-h1278-no?authuser=0)](https://photos.app.goo.gl/ypQsD3GQAo7bf5eC8)
+
+<figcaption>
+
+Hola S - Ilford HP5 - HC-110
+
+</figcaption>
+
+</figure>

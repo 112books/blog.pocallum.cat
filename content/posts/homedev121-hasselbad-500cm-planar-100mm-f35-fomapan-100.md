@@ -1,0 +1,16 @@
+---
+title: "HomeDev#121 - Hasselbad 500CM - Planar 100mm f/3,5 - Fomapan 100"
+date: 2017-05-12
+slug: "homedev121-hasselbad-500cm-planar-100mm-f35-fomapan-100"
+categories: 
+  - "carl-zeis-planar-100mm-f-3-5"
+  - "hasselblad-500cm"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2017/05/HD121-HasselBlad500-010-1.jpg
+image: https://lh3.googleusercontent.com/YWi03EkX0GHrIyFn69Plu3Tam2sHthJzzbp_3Huo8vTJvP3mm0S4pzeGSGaQsQuF4cJ5ILSOJe81w_mdRiYtiyfys6xQ8H-04u0KtQjYiXyA33wYQ3ploHJMWlEUsN5wgiIvrr6R41olA9NGXGWK5VI91mDvDP4qxo4iA4lcbUncjhEi8d2B8i2Jq9nwBITyhTdg6sVHI0hvXgmxY8UzJfka7tyvGkgEYiZSZ2-pA2_-G1imJsydwLbKNIbG63cQRoHHkJd3mw-Gw1_AndCrl0WHrrr17U8MJWZUbXCBV-jfCNbd4REzzjv5WdZqxbOh4j-lIdNU2UoDXDaLB2lfO5FAdhhxd9Nz-dmyyKGpjA_lFItjIAEMUtnOngDiez2_gx_TkXZAAvrPrJG4KGBG9csMeG-s9eGqnfwTbAG82hTAO5sIyOuKmIN4TpzUBqU_V-nsyzXnGV8rWiq2GfxTTEYynEqHKM17k9mZBBShGfNz_8PNW__EAkZ5-EcSnQCd2eUSkHubu_vezJ5o42bjXyhCFJE-1QHeg5uhAAcTMGZPuoZFT7zCY2UB7sGgOB8tdy6EAZT4vrEVFuKfF7uE1Pg4AMdR_H6wScr8a4fNM974leY-vRP7dw=s1050-no
+---
+
+[![](https://lh3.googleusercontent.com/YWi03EkX0GHrIyFn69Plu3Tam2sHthJzzbp_3Huo8vTJvP3mm0S4pzeGSGaQsQuF4cJ5ILSOJe81w_mdRiYtiyfys6xQ8H-04u0KtQjYiXyA33wYQ3ploHJMWlEUsN5wgiIvrr6R41olA9NGXGWK5VI91mDvDP4qxo4iA4lcbUncjhEi8d2B8i2Jq9nwBITyhTdg6sVHI0hvXgmxY8UzJfka7tyvGkgEYiZSZ2-pA2_-G1imJsydwLbKNIbG63cQRoHHkJd3mw-Gw1_AndCrl0WHrrr17U8MJWZUbXCBV-jfCNbd4REzzjv5WdZqxbOh4j-lIdNU2UoDXDaLB2lfO5FAdhhxd9Nz-dmyyKGpjA_lFItjIAEMUtnOngDiez2_gx_TkXZAAvrPrJG4KGBG9csMeG-s9eGqnfwTbAG82hTAO5sIyOuKmIN4TpzUBqU_V-nsyzXnGV8rWiq2GfxTTEYynEqHKM17k9mZBBShGfNz_8PNW__EAkZ5-EcSnQCd2eUSkHubu_vezJ5o42bjXyhCFJE-1QHeg5uhAAcTMGZPuoZFT7zCY2UB7sGgOB8tdy6EAZT4vrEVFuKfF7uE1Pg4AMdR_H6wScr8a4fNM974leY-vRP7dw=s1050-no)](https://goo.gl/photos/yHN9re1xZM7MRvno7)
+
+Estrenant la nova Hasselblad 500 CM amb el corresponent Planar 100mm f/3.5 a casa. En ploure vaig optar per disparar a coses que hi ha per casa.

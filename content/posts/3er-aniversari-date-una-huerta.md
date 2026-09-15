@@ -1,0 +1,18 @@
+---
+title: "3er aniversari \"Date una Huerta\""
+date: 2019-10-20
+slug: "3er-aniversari-date-una-huerta"
+categories: 
+  - "fuji-x-pro1"
+tags:
+  - "barcelona"
+  - "date-una-huerta"
+  - "festa"
+  - "hort"
+  - "prosperitat"
+author: "inuxbcn"
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2019/10/DSF3492.jpg
+image: https://lh3.googleusercontent.com/N3Q7GwbfrSDPPEd83PCTC_LiiwETKf3Q9vgOdUoar4F7zYxCN4LILzNenFIMkIZvZtwyFUjQ8MB9xIuFmAHv2e8mPPmyWWQdn9b_WTD-shc8bwAMoyYKr0HHIP-6TIYTHyBuNVKIMuZGY5RAYR1eih9xmi0wj8dbp-wN02Lxg1plY85bmjzFUgLvZ7aupeCDl0NCIR5MMkJ4nIYbWQ9XbFg3E1so-neO_G4Q-MRPGPOzRoVR8S_2tWxIknn9H77k29tcdlrjccS1jRDdClfyXb8m3-oOURs4wfQnzD1xtTmm1WGui-q-w8vj1DzZMzifu8t4gyhvyMK1Wzwvt0Dztaa8ksa3qEJ9XkJT6xXk7LPobvWvdxd_fmdmg0XCthDcqxbdBpTLJgTYkqmScikKIgcsf-juipLU5TdrAzUuGs8JkrJX6TKWzWle2Lesy7Ud_K7n4nYQk3DYUPXw3S5vkAqy_uyT74_2Lr-cOanJtyejPYeH36PVodtQC9nnYP2NEOCYxN6XwPrwuyvT_9PIGMlxdxx8BQfAiqDGu4vvJDEELNU6Bvp0xvTXAVD06LLl8E11kEpk9sM1E3Prje5Kon67fJWpkDCrVzyueGRg5I7L6iMnFSX81yyigPxA28sO24g0qCmAr29YCUhs5EaEouhKZxrHY4zkA6bJGF11J6Ebe0RT6eyte1Zb=w1562-h1042-no
+---
+
+[![](https://lh3.googleusercontent.com/N3Q7GwbfrSDPPEd83PCTC_LiiwETKf3Q9vgOdUoar4F7zYxCN4LILzNenFIMkIZvZtwyFUjQ8MB9xIuFmAHv2e8mPPmyWWQdn9b_WTD-shc8bwAMoyYKr0HHIP-6TIYTHyBuNVKIMuZGY5RAYR1eih9xmi0wj8dbp-wN02Lxg1plY85bmjzFUgLvZ7aupeCDl0NCIR5MMkJ4nIYbWQ9XbFg3E1so-neO_G4Q-MRPGPOzRoVR8S_2tWxIknn9H77k29tcdlrjccS1jRDdClfyXb8m3-oOURs4wfQnzD1xtTmm1WGui-q-w8vj1DzZMzifu8t4gyhvyMK1Wzwvt0Dztaa8ksa3qEJ9XkJT6xXk7LPobvWvdxd_fmdmg0XCthDcqxbdBpTLJgTYkqmScikKIgcsf-juipLU5TdrAzUuGs8JkrJX6TKWzWle2Lesy7Ud_K7n4nYQk3DYUPXw3S5vkAqy_uyT74_2Lr-cOanJtyejPYeH36PVodtQC9nnYP2NEOCYxN6XwPrwuyvT_9PIGMlxdxx8BQfAiqDGu4vvJDEELNU6Bvp0xvTXAVD06LLl8E11kEpk9sM1E3Prje5Kon67fJWpkDCrVzyueGRg5I7L6iMnFSX81yyigPxA28sO24g0qCmAr29YCUhs5EaEouhKZxrHY4zkA6bJGF11J6Ebe0RT6eyte1Zb=w1562-h1042-no)](https://photos.app.goo.gl/jeCxcXG585VgU74N9)

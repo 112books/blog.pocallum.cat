@@ -1,0 +1,23 @@
+---
+title: "Pedrola amb 35mm"
+date: 2020-08-12
+slug: "pedrola-amb-35mm"
+categories: 
+  - "leica-m6"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2020/08/2020-87-05-I-007.jpg
+image: https://lh3.googleusercontent.com/0cqHts8hdqIk1SbmeNYH5QFP2k4g4x5Rtd24Zg3vN-rBgUenf4EHRPdHD_9cluSD1CQ74qwnXn40hbWxZ1yDe3jS9nUemF-J8Bc8tKRm92C-5UjJX81OlK8ptZ64yDkOcIQMr1R6SIpPrNn8O0IfkrJySXs_YVKF-OxYuyt2M65k87sP7-6pzHkYNFxE42ITI_lLr9Aa0hR3GBE1J6nEsVy4PKNI5oBlghcw5LJtU2dniqLRYPkQssAxmHxvKQs_eUOgAoTtLgVsoPkTv2J_5RmQ9uGVOZFHfSouwerZSJnp2qwJ8GtcwacIHAwkx_FFVF3xdBC60KmYXVM9fqDiHd0ewq40DuszT9LtOeAOK5cfGvv_8q5psKkAlnZqDzrdQQ-6gA85EpeZLhaLq_ATAH3oXMqtwkdB-m_MzohBHHwlyPqFFKnBL9cBrKTO5evv9AJfU20RoxM1Z6KZ7-eUhjnLSw2Vvzpb_J2Lp6ifassP_dhKsdFL8fFfcujmOoOccBfHrXUnEBDxoI1dDWZQdS17InZNxm4Dca85HvrfA7ULKEOFYeekUW3G1MiGK2FAlEEkeXd9oXHvwCedNxMdnV_qM0TcP6zx6vYGaPOCDGYGW_wufRAkf04BaObDZbVE0r2T31Wx9-jRSW1cGjDHbReaWJrETX5wG9Fa_txaloCRo74jjm12NUfcmtA2SQ=w589-h369-no?authuser=0
+---
+
+<figure>
+
+[![](https://lh3.googleusercontent.com/0cqHts8hdqIk1SbmeNYH5QFP2k4g4x5Rtd24Zg3vN-rBgUenf4EHRPdHD_9cluSD1CQ74qwnXn40hbWxZ1yDe3jS9nUemF-J8Bc8tKRm92C-5UjJX81OlK8ptZ64yDkOcIQMr1R6SIpPrNn8O0IfkrJySXs_YVKF-OxYuyt2M65k87sP7-6pzHkYNFxE42ITI_lLr9Aa0hR3GBE1J6nEsVy4PKNI5oBlghcw5LJtU2dniqLRYPkQssAxmHxvKQs_eUOgAoTtLgVsoPkTv2J_5RmQ9uGVOZFHfSouwerZSJnp2qwJ8GtcwacIHAwkx_FFVF3xdBC60KmYXVM9fqDiHd0ewq40DuszT9LtOeAOK5cfGvv_8q5psKkAlnZqDzrdQQ-6gA85EpeZLhaLq_ATAH3oXMqtwkdB-m_MzohBHHwlyPqFFKnBL9cBrKTO5evv9AJfU20RoxM1Z6KZ7-eUhjnLSw2Vvzpb_J2Lp6ifassP_dhKsdFL8fFfcujmOoOccBfHrXUnEBDxoI1dDWZQdS17InZNxm4Dca85HvrfA7ULKEOFYeekUW3G1MiGK2FAlEEkeXd9oXHvwCedNxMdnV_qM0TcP6zx6vYGaPOCDGYGW_wufRAkf04BaObDZbVE0r2T31Wx9-jRSW1cGjDHbReaWJrETX5wG9Fa_txaloCRo74jjm12NUfcmtA2SQ=w589-h369-no?authuser=0)](https://photos.app.goo.gl/oLjYohzRoAv9fdgN7)
+
+<figcaption>
+
+2020-08-05 - Leica M6 - Voigtlander 35f/1.7 - Agfa APX100
+
+</figcaption>
+
+</figure>

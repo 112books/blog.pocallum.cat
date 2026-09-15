@@ -1,0 +1,16 @@
+---
+title: "Carnestoltes 2018 a Prosperitat"
+date: 2018-02-11
+slug: "carnestoltes-2018-a-prosperitat"
+categories: 
+  - "canon-eos-6d"
+author: "inuxbcn"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2018/02/IMG_0221.jpg
+image: https://lh3.googleusercontent.com/HCH656RlRhPPhEJgb7HDw5Iem8LxB5fRvdVGHgyOrBUMdwgE9i32AVygRdW2aYJt3L4_Owj0ys5WdC2Ve4bJLiSvXAYwDI7zHlXwzHtCvGiiE90dthcd5rEfWW1qs10FksbwFdb69kygBhPBLnPe7InO_8tIddscz_DjMwK84-PKMi7MXeDw4LNa2dfbyc7IdCLdD46_-MWczM3fYVR_re-FTVTDsd1YgurQkuzYO7-fp_9W-7nNZOwRJLkexkbUdZ0I971RQTViaHB5VmQiLvS9p84QTSmhwSyC7nsKvgKCeOYTl1h4RlO3xkoYhfYAAsBdWqM7ALPujgGwsR49cGBrI4oSPvokEJlGl0aY2RbNXuIV3Gc0tqUcpXoEmmkU-z5wDPD_pKxxxoLZZEi4x3jGuJJyxip6Hln5vJ6ao9gt_C1YnzO_U3L91gajm66vIMG55tuBtJjiGJ3sJXnMUEWMzVSoqIDsXQTaKWHWKx4M1gXzxcoURDdmDyPRbLIVEnWIbGOxkHd7ojTKAljklypKQXfOMGSZc236EtmxEyu4zQQLyLCFg2gTIS04ckvdtG-HSLN9TiZlLgSpzqP_TU-3JKz4_jU8qAF1WSvX=w1427-h952-no
+---
+
+[![](https://lh3.googleusercontent.com/HCH656RlRhPPhEJgb7HDw5Iem8LxB5fRvdVGHgyOrBUMdwgE9i32AVygRdW2aYJt3L4_Owj0ys5WdC2Ve4bJLiSvXAYwDI7zHlXwzHtCvGiiE90dthcd5rEfWW1qs10FksbwFdb69kygBhPBLnPe7InO_8tIddscz_DjMwK84-PKMi7MXeDw4LNa2dfbyc7IdCLdD46_-MWczM3fYVR_re-FTVTDsd1YgurQkuzYO7-fp_9W-7nNZOwRJLkexkbUdZ0I971RQTViaHB5VmQiLvS9p84QTSmhwSyC7nsKvgKCeOYTl1h4RlO3xkoYhfYAAsBdWqM7ALPujgGwsR49cGBrI4oSPvokEJlGl0aY2RbNXuIV3Gc0tqUcpXoEmmkU-z5wDPD_pKxxxoLZZEi4x3jGuJJyxip6Hln5vJ6ao9gt_C1YnzO_U3L91gajm66vIMG55tuBtJjiGJ3sJXnMUEWMzVSoqIDsXQTaKWHWKx4M1gXzxcoURDdmDyPRbLIVEnWIbGOxkHd7ojTKAljklypKQXfOMGSZc236EtmxEyu4zQQLyLCFg2gTIS04ckvdtG-HSLN9TiZlLgSpzqP_TU-3JKz4_jU8qAF1WSvX=w1427-h952-no)](https://photos.app.goo.gl/hXlUmPo5uOui6WTg2)
+
+Així celebrem el Carnestoltes a Prosperitat!  
+Sortida de la rua des del Casal de barri de Properitat, Rua i final de festa a l'Ateneu Popular de Nou Barris.

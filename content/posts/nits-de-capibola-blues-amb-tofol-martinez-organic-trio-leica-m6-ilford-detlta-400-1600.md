@@ -1,0 +1,13 @@
+---
+title: "Nits de Capibola Blues amb Tòfol Martínez Organic trio -  Leica M6 - Ilford Detlta 400 @1600"
+date: 2018-03-06
+slug: "nits-de-capibola-blues-amb-tofol-martinez-organic-trio-leica-m6-ilford-detlta-400-1600"
+categories: 
+  - "leica-m6"
+author: "inuxbcn"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2018/03/HD201-017.jpg
+image: https://lh3.googleusercontent.com/PBwUcdmgau8GLjpQX-ljoxT-hfxo2QI26o4tM1-mvN_tELvJv7cVq7rzekDMB6mnPY9mmKUPcVqY15mKSv5qHpRttJNGsXwDsLkXH9Es7GpAIahRLvzXEuIg2O8uHrUVRYfVXpHcQppRDnVLxlFpIfU7OhV-0uBOxn6PNdTC0uVrnE9aSX2UjV08JvPNxZLTdZ16Z4yGQb_pJQg5BLrbuzTCyHlFYr7xC7Tzr3hPiUJo65bqpAHSonCF0bEx2TBLncLvPYHsKfl_ddAr-aw-BOcN5AhClxSbZ3JaIDJdZUgHetzPSsye9m6uCN--Qp8z2BG5H056BAz6qsIzuRxSpW20f_zsYV57ecy_X_FLQEp6_lL9qAPakWH3zn-o1DLfP44pBTLlJqQdP9GTH4r-pfFVlIJy9l-sgy50JCplUouMmhnmdnCXVL3y__QJ2s31CjJq3XG3Y3WXh4Cdph3CAUF8aZNdWOINugbfY5VreRPh0J6ZdY-DJzm2T5ySYffEMoHV1xO1AXMYuJSDvl_nqeHniRChYFPa8SUeLfLkXfOnA_FtL0eazeT_zsP6eZidUWXOHcSdAG1mPQplmhtyqnTqkhZ6PDBrFhIJhEIw=w1701-h1135-no
+---
+
+[![](https://lh3.googleusercontent.com/PBwUcdmgau8GLjpQX-ljoxT-hfxo2QI26o4tM1-mvN_tELvJv7cVq7rzekDMB6mnPY9mmKUPcVqY15mKSv5qHpRttJNGsXwDsLkXH9Es7GpAIahRLvzXEuIg2O8uHrUVRYfVXpHcQppRDnVLxlFpIfU7OhV-0uBOxn6PNdTC0uVrnE9aSX2UjV08JvPNxZLTdZ16Z4yGQb_pJQg5BLrbuzTCyHlFYr7xC7Tzr3hPiUJo65bqpAHSonCF0bEx2TBLncLvPYHsKfl_ddAr-aw-BOcN5AhClxSbZ3JaIDJdZUgHetzPSsye9m6uCN--Qp8z2BG5H056BAz6qsIzuRxSpW20f_zsYV57ecy_X_FLQEp6_lL9qAPakWH3zn-o1DLfP44pBTLlJqQdP9GTH4r-pfFVlIJy9l-sgy50JCplUouMmhnmdnCXVL3y__QJ2s31CjJq3XG3Y3WXh4Cdph3CAUF8aZNdWOINugbfY5VreRPh0J6ZdY-DJzm2T5ySYffEMoHV1xO1AXMYuJSDvl_nqeHniRChYFPa8SUeLfLkXfOnA_FtL0eazeT_zsP6eZidUWXOHcSdAG1mPQplmhtyqnTqkhZ6PDBrFhIJhEIw=w1701-h1135-no)](https://photos.app.goo.gl/mlA8DxgXsrJ2cVG73)

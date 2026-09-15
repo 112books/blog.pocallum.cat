@@ -1,0 +1,17 @@
+---
+title: "JamSession 10è aniversari Escola-Taller de Blues de Barcelona"
+date: 2019-03-23
+slug: "jamsession-10e-aniversari-escola-taller-de-blues-de-barcelona"
+categories: 
+  - "leica-m6"
+author: "inuxbcn"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2019/03/HD349-017.jpg
+image: https://lh3.googleusercontent.com/ZoAbpm1H0_DkmP8iEWEmmCo7iklL8niEIc1fEgVS3Zk5x9sZWRfKkRqPKc0XOBH_r8oql76rOLDqdf59-XRquT1QQRvZ6C8UHHDJa3V7LBzmb-0Fea15ly4iTNg7-8iB2v-flNp0otQqhhA_GQHl6GEZlqgDaIG0l6Fme7FdhExiGKgh6CK7KMaYdDZ78ZP_paGzwd0XuHqIZRcH1ua_14hWSSBjpXCnduP7w0rHoSZ4sAfSu72MCCFK-RKZw-fWwclapt83HKvktuQQxNrkBW8bKfB8F10dy8ksPYKn9KQ_wQcHbmQWF-ALfsnTKyugU71MBajwLHVHgozgPileMZuOE9zySbSJU160oSt9FIDo7-fMEQa0PoCMhm5-jkuY6iqzJySnQjpjpojxgEFmtIi4-Gsak4p5af6q_nx54XIHjIYzJ97OJjWK4LivwBWA6qBQAtApbG8Ma82qC7DJ2wdN-2gsOZ9d4kelCm3g3BIS2YoP7hC_IV1O56JFcA6O8LMyrxFcP9Z72LhHweJwzlfuD0VjvX4e8v7nYooxiBTqtZwStAb6HTpxlhWWAg06O3CmTEznUz8LbnRd_CSizZ63glD8j8BoZDeomk5yVgxDsga1vO772HmodFqhGfP7qxzj_pHq-DWXE8lXFZFjSAp8YShVrfSZ=w1549-h1033-no
+---
+
+[![](https://lh3.googleusercontent.com/ZoAbpm1H0_DkmP8iEWEmmCo7iklL8niEIc1fEgVS3Zk5x9sZWRfKkRqPKc0XOBH_r8oql76rOLDqdf59-XRquT1QQRvZ6C8UHHDJa3V7LBzmb-0Fea15ly4iTNg7-8iB2v-flNp0otQqhhA_GQHl6GEZlqgDaIG0l6Fme7FdhExiGKgh6CK7KMaYdDZ78ZP_paGzwd0XuHqIZRcH1ua_14hWSSBjpXCnduP7w0rHoSZ4sAfSu72MCCFK-RKZw-fWwclapt83HKvktuQQxNrkBW8bKfB8F10dy8ksPYKn9KQ_wQcHbmQWF-ALfsnTKyugU71MBajwLHVHgozgPileMZuOE9zySbSJU160oSt9FIDo7-fMEQa0PoCMhm5-jkuY6iqzJySnQjpjpojxgEFmtIi4-Gsak4p5af6q_nx54XIHjIYzJ97OJjWK4LivwBWA6qBQAtApbG8Ma82qC7DJ2wdN-2gsOZ9d4kelCm3g3BIS2YoP7hC_IV1O56JFcA6O8LMyrxFcP9Z72LhHweJwzlfuD0VjvX4e8v7nYooxiBTqtZwStAb6HTpxlhWWAg06O3CmTEznUz8LbnRd_CSizZ63glD8j8BoZDeomk5yVgxDsga1vO772HmodFqhGfP7qxzj_pHq-DWXE8lXFZFjSAp8YShVrfSZ=w1549-h1033-no)](https://photos.app.goo.gl/6jL6R8gjDBsQ7e8s9)
+
+10è aniversari de l'Escola-Taller de Blues de Barcelona al Casal de barri de Prosperitat from Joan Martínez i Serres on Vimeo.
+
+https://vimeo.com/326088339

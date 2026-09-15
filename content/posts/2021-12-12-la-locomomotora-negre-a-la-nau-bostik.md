@@ -1,0 +1,23 @@
+---
+title: "2021-12-12 - La Locomomotora Negre a la Nau Bostik"
+date: 2021-12-13
+slug: "2021-12-12-la-locomomotora-negre-a-la-nau-bostik"
+categories: 
+  - "leica-m6"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2021/12/2021-12-12-LocoN-036.jpg
+image: https://lh3.googleusercontent.com/93SlUeyJ0svfpcICASqWDM3-jpqmLnL0ZSrQUKQ4s3soEUiEQ5XUyQdwqpgqP8UwVb5i8UzeCzoxy0bAPPxhsBsh1rljIKDMj4phUqeI2zyVQZdxvsA8WMWjLUHC8h6bozMFc11gjnnpOv3eKTfCVqNXCjIHxXaiDhQxuppdAEVaGGy6R2mXBZ_kIOoPZBEyESgYBSNcz16C2rTvl1X0seVHxXXEu9OQiZYMR-HsOsbvpr9UfLyRHWxJj_GfQxLeoDwOjtb9ib_9zQIo7T44D5gtFrRcK3lbABL498UcyRYCyb74py_vyf6c0njP6OgVuC1B7_UbuUeEil2qcmXwVVeOZ7-xEZKAtEzQJE6dxZ_T_Bn-cDA8dt4a5U-qJDhmPJz8vSStbx5tieWrtx2bpv1rFgCFHCWtit8Q9UwX5_Uct0-sp8ndLgwL7P0J7fNZbZ5ZfwJqxZfQ-pRtDJBs6iSYUMnp85YJY6Va50qsBx1QN_XNyQL_70vSpZPhw719rUkR5KfiG92mli3UxGZbRnQdDYl9WpBORhdogXCJKGKVtINRwJI4beSBMEp2dkF9OBOabepNgYU7RsFsHvzL8oeusz4v3A1X9hNCjSPHaCdRWvm0HX6mfi75UHLK0kag9ijTJfY1zlN4S2J0gbgsgHi1sHVpraTMDMFm9dcsYV4iOf1kHoidaMYlJHDFblU20qFVNRpbSsdusUEucxdo93VD=w1406-h938-no?authuser=0
+---
+
+<figure>
+
+[![](https://lh3.googleusercontent.com/93SlUeyJ0svfpcICASqWDM3-jpqmLnL0ZSrQUKQ4s3soEUiEQ5XUyQdwqpgqP8UwVb5i8UzeCzoxy0bAPPxhsBsh1rljIKDMj4phUqeI2zyVQZdxvsA8WMWjLUHC8h6bozMFc11gjnnpOv3eKTfCVqNXCjIHxXaiDhQxuppdAEVaGGy6R2mXBZ_kIOoPZBEyESgYBSNcz16C2rTvl1X0seVHxXXEu9OQiZYMR-HsOsbvpr9UfLyRHWxJj_GfQxLeoDwOjtb9ib_9zQIo7T44D5gtFrRcK3lbABL498UcyRYCyb74py_vyf6c0njP6OgVuC1B7_UbuUeEil2qcmXwVVeOZ7-xEZKAtEzQJE6dxZ_T_Bn-cDA8dt4a5U-qJDhmPJz8vSStbx5tieWrtx2bpv1rFgCFHCWtit8Q9UwX5_Uct0-sp8ndLgwL7P0J7fNZbZ5ZfwJqxZfQ-pRtDJBs6iSYUMnp85YJY6Va50qsBx1QN_XNyQL_70vSpZPhw719rUkR5KfiG92mli3UxGZbRnQdDYl9WpBORhdogXCJKGKVtINRwJI4beSBMEp2dkF9OBOabepNgYU7RsFsHvzL8oeusz4v3A1X9hNCjSPHaCdRWvm0HX6mfi75UHLK0kag9ijTJfY1zlN4S2J0gbgsgHi1sHVpraTMDMFm9dcsYV4iOf1kHoidaMYlJHDFblU20qFVNRpbSsdusUEucxdo93VD=w1406-h938-no?authuser=0)](https://photos.app.goo.gl/LBFmMUEPGsPncaJ19)
+
+<figcaption>
+
+Leica M6 - Voigtlander 35f/1.7 - Rollei RPX400 @1600
+
+</figcaption>
+
+</figure>

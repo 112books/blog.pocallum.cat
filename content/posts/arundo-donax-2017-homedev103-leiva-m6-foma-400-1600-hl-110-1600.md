@@ -1,0 +1,13 @@
+---
+title: "Arundo Donax 2017 (HomeDev#103 - Leica M6 - Foma 400 @1600 -HL-110 @13)"
+date: 2017-03-13
+slug: "arundo-donax-2017-homedev103-leiva-m6-foma-400-1600-hl-110-1600"
+categories: 
+  - "leica-m6"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2017/03/HD103-LeicaM6-F4@1600-030.jpg
+image: https://lh3.googleusercontent.com/0d3jQWCEVe3SduQkyoIBfBc3CD7EPpRYKXw3NaEtWRGOR_OlRQszgxUQ4Tn98NvpqjIYb-7mcYzqAFjYwpzcKjY4qyD3zq5WQ-2f0N9klQcS8FoJa2qqDGxdsgBfbe26PDbTfvP7sxmphPp70_XJ11r9y7o6u4bc76bqE6r57cQ9Snrr7HbQMTca32me-V1vylXVvkBoKJVCyEUqImxCTwYajrg6IEH02RJCuKjiVwxDzQ4coqXVnGAsuXsJ_guUGMykSGsd0HB6coekhIKtfAH5N6xYOGtVqOsC2eaiPv1e1GMVEi-hbP37BvhlJWJvepJga15TMtOE1XGX4_298PgPkd86Uq4TQVxiH5-qERgRo_qPtW9U-TKideJBo_TxhYYsEOHSBWVqecEtkw5swrhu3ZnUzGqPqUaUOo2KbR9k5xBxQKSbVLIzcACLfqsu-coowzZf75PDbSjqlJYZWHj5f2ZXZaR-M1z85zG466VmR1qpJGdSE2M2jzZP_tLaeZkOfw27cHaQTFbcAl0vp1ha5tw0iJsBfdmQFCfPZoQL8U8wbwc5uy85IC9mQGD-M0Mj6MWaryIUGlaHt0EEJJOkZsXbVAU-Ihvd6ui1pK0XcR_t8GFDWg=w1078-h719-no
+---
+
+[![](https://lh3.googleusercontent.com/0d3jQWCEVe3SduQkyoIBfBc3CD7EPpRYKXw3NaEtWRGOR_OlRQszgxUQ4Tn98NvpqjIYb-7mcYzqAFjYwpzcKjY4qyD3zq5WQ-2f0N9klQcS8FoJa2qqDGxdsgBfbe26PDbTfvP7sxmphPp70_XJ11r9y7o6u4bc76bqE6r57cQ9Snrr7HbQMTca32me-V1vylXVvkBoKJVCyEUqImxCTwYajrg6IEH02RJCuKjiVwxDzQ4coqXVnGAsuXsJ_guUGMykSGsd0HB6coekhIKtfAH5N6xYOGtVqOsC2eaiPv1e1GMVEi-hbP37BvhlJWJvepJga15TMtOE1XGX4_298PgPkd86Uq4TQVxiH5-qERgRo_qPtW9U-TKideJBo_TxhYYsEOHSBWVqecEtkw5swrhu3ZnUzGqPqUaUOo2KbR9k5xBxQKSbVLIzcACLfqsu-coowzZf75PDbSjqlJYZWHj5f2ZXZaR-M1z85zG466VmR1qpJGdSE2M2jzZP_tLaeZkOfw27cHaQTFbcAl0vp1ha5tw0iJsBfdmQFCfPZoQL8U8wbwc5uy85IC9mQGD-M0Mj6MWaryIUGlaHt0EEJJOkZsXbVAU-Ihvd6ui1pK0XcR_t8GFDWg=w1078-h719-no)](https://goo.gl/photos/1wjLSswL3ZoCHnft9)

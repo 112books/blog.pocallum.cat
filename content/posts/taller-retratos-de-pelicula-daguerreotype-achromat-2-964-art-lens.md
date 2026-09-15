@@ -1,0 +1,15 @@
+---
+title: "Taller \"Retratos de película\" DAGUERREOTYPE ACHROMAT 2.9/64 ART LENS"
+date: 2016-12-03
+slug: "taller-retratos-de-pelicula-daguerreotype-achromat-2-964-art-lens"
+categories: 
+  - "nikon-fm"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2016/12/IMG_7624.jpg
+image: https://lh3.googleusercontent.com/wGzhieO6N2SOXB7L0JjY3An4fTU8OUNRDIoNjSSt84MJ2oqqWyphxEckoYJgGCfdKhIOxqgoAgFsQfJ7zd60JUWzljg7eedx2ElcB9JotW_fsKQifBHGAyuNVShPw7iO9P6h_XbQ_TXzFfITe6cxQ1oHT0Pc4lkhMO8IPqGDYzyy-iNFjvgGTw3XO679wGm8HfYWE6BC4wKyd5yiw8dRHwCLoArryb5uFwL2FNwm0Mgwkpuv16YgzZJN4mHYc_ONgjHo0GoXm8Jwzv1whCpJ2ULJeD4Zdwd-PfOsmLgIwleS5GTsRL2gW7t8T7XJwoGbCvmD1-TPbHAeJbMG4c6QMCJnRBenfjur-VDwOta5Vigbz-rqtmTsdDkDxK7FRo9aEOSCa40Nh4xmJBeQFfhnr5nVF8XmX1bA3YV04zbW2xI0MwLM5_M3V1-YPLElW-XI3C762kSxSk-760PTnMJwkKDjg_Vvy-CEZzuF4-JvnWKflezsU66somTAGz1hM69hsVcUA9iXgwSSK5ZXzcd7T3Fls3iUvkz7ed65bTrDW6tjwPmANoYMGvyDR_Dew68LS8Gmu5Nf2tbiY7t5ZGgYxnAiabXJrfIhJIL2bG6f3mwJX0EhFA=w1473-h983-no
+---
+
+[![](https://lh3.googleusercontent.com/wGzhieO6N2SOXB7L0JjY3An4fTU8OUNRDIoNjSSt84MJ2oqqWyphxEckoYJgGCfdKhIOxqgoAgFsQfJ7zd60JUWzljg7eedx2ElcB9JotW_fsKQifBHGAyuNVShPw7iO9P6h_XbQ_TXzFfITe6cxQ1oHT0Pc4lkhMO8IPqGDYzyy-iNFjvgGTw3XO679wGm8HfYWE6BC4wKyd5yiw8dRHwCLoArryb5uFwL2FNwm0Mgwkpuv16YgzZJN4mHYc_ONgjHo0GoXm8Jwzv1whCpJ2ULJeD4Zdwd-PfOsmLgIwleS5GTsRL2gW7t8T7XJwoGbCvmD1-TPbHAeJbMG4c6QMCJnRBenfjur-VDwOta5Vigbz-rqtmTsdDkDxK7FRo9aEOSCa40Nh4xmJBeQFfhnr5nVF8XmX1bA3YV04zbW2xI0MwLM5_M3V1-YPLElW-XI3C762kSxSk-760PTnMJwkKDjg_Vvy-CEZzuF4-JvnWKflezsU66somTAGz1hM69hsVcUA9iXgwSSK5ZXzcd7T3Fls3iUvkz7ed65bTrDW6tjwPmANoYMGvyDR_Dew68LS8Gmu5Nf2tbiY7t5ZGgYxnAiabXJrfIhJIL2bG6f3mwJX0EhFA=w1473-h983-no)](https://goo.gl/photos/i5Jq1VHXa32NUJrf8)
+
+Unes petites mostres fetes amb la nova lent de Lomography DAGUERREOTYPE ACHROMAT 2.9/64 ART LENS durant el taller "Retrats de película". Una bona opció per a fer retrats!

@@ -1,0 +1,15 @@
+---
+title: "6269 - Hasselblad 500 CM - Planar 50mm - Redscale 100"
+date: 2017-07-07
+slug: "6269-hasselblad-500-cm-planar-50mm-redscale-100"
+categories: 
+  - "carl-zeis-distagon-50mm-f-4"
+  - "hasselblad-500cm"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2017/07/6269-005.jpg
+image: https://lh3.googleusercontent.com/LmckGrXrEgcArA4Zl7OaqhnzcPXb2dfJDAkyLEytTkh-OTslyy567IDgnSoc5yOX7532CbD-vLS1WVAiHYfVtsSQ0VtcrVASmT3f7xBOmRJEUXAkTjquFrjLP3Q1FPiW1Dw8PwrY5ruplr7EySfIvcUYr8uLM4yTCTLJwpzkhvjY5DB5IxJKCKZfUjKvTgxOBkKZKjNVwDBylrIYxiGSevb10vqf-0X0R_HqG92DSd3YMXKe3nYnCxEsZ_-pW6H9BlxngL_8b7bGsirVncqiGj7Z6nSGO1FrZ35ooqb3ED1wnqPX47lBHaYA7wPl03G5gC3y1zFu9ihnDiENentQ2B0eAqMBGNBDeGzioBdpg9JmuPg25Q3MAEASD1JUvQlVhcrxpeYeK8t4XDI3T3iMOp2F8p2frLHePlHOuRmnaP_wlzbk06OoudnRZIKrJo4SY9gsbtb15Z3LvclXQktKogRae67J1Ss6o8TEmUNctzjArX4PiKKa2-LmzlHr6ndXDB-orctAgpT3KWhME9fF1Rvw4uZhAGg0-sRJdWZYDDBpBsXgtL2-SwsJP9KQz5nP0JvMu_DTyAyN9oOnK-KogJrrQq9HD41dtQs-JdS_JpOTzRrlXFHgzsRoUQ=s1050-no
+---
+
+[![](https://lh3.googleusercontent.com/LmckGrXrEgcArA4Zl7OaqhnzcPXb2dfJDAkyLEytTkh-OTslyy567IDgnSoc5yOX7532CbD-vLS1WVAiHYfVtsSQ0VtcrVASmT3f7xBOmRJEUXAkTjquFrjLP3Q1FPiW1Dw8PwrY5ruplr7EySfIvcUYr8uLM4yTCTLJwpzkhvjY5DB5IxJKCKZfUjKvTgxOBkKZKjNVwDBylrIYxiGSevb10vqf-0X0R_HqG92DSd3YMXKe3nYnCxEsZ_-pW6H9BlxngL_8b7bGsirVncqiGj7Z6nSGO1FrZ35ooqb3ED1wnqPX47lBHaYA7wPl03G5gC3y1zFu9ihnDiENentQ2B0eAqMBGNBDeGzioBdpg9JmuPg25Q3MAEASD1JUvQlVhcrxpeYeK8t4XDI3T3iMOp2F8p2frLHePlHOuRmnaP_wlzbk06OoudnRZIKrJo4SY9gsbtb15Z3LvclXQktKogRae67J1Ss6o8TEmUNctzjArX4PiKKa2-LmzlHr6ndXDB-orctAgpT3KWhME9fF1Rvw4uZhAGg0-sRJdWZYDDBpBsXgtL2-SwsJP9KQz5nP0JvMu_DTyAyN9oOnK-KogJrrQq9HD41dtQs-JdS_JpOTzRrlXFHgzsRoUQ=s1050-no)](https://goo.gl/photos/XC7wadN9W7BnQY2h6)  
+Tejtajant la película Lomography Redscale 100 com si fos 20 ISO. Els verds a saber.. ;)

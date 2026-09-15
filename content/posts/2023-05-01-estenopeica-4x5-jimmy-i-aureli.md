@@ -1,0 +1,15 @@
+---
+title: "2023-05-01 - Estenopeica 4x5\" - Jimmy i Aureli"
+date: 2023-05-01
+slug: "2023-05-01-estenopeica-4x5-jimmy-i-aureli"
+categories: 
+  - "wood-pinholes-4x5-camera"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2023/05/2023-04-30-PinholeDay2023-Fusta4x5-Foma400-0006.jpg
+image: https://lh3.googleusercontent.com/1erV2yzfU1REia5UDDSvyixcq3UBaH9pj_YKd9XCr21J0-ZHDtKyyqK_THFjrT9BSR9aXks-cOkeAWL7wFyKlA2DOGhMNe2oeyO6bj821443yKnQArkUaIsp6YJlvE70BponhxObRCqVY-bRp3S2js3K1QY3WyudARSYfbMXsNSjhcaYyaEnhgRWrHvM09Ka7kBPmsEKJbLttGTb7SiOoz_ars5gEZVHGJRO3ECrhPSMpPOpy61z2E4L85bODWzLKFTaqwPrdfSPUP-o99LjaMtzNiOSBdVxzISm6dkRT0Bgnu6H1AZE8PaA0b_j8V0quU7V76cRc3fq2cr3hXoIzhROUM_HpRHLXhfjRtOSvt03sUaPgcrol1XsQhr0Q6AvAfios_dVAd-7l2OkKQwn5idOx8cjfEwdgJhfSZKDo4UO6pXhtpyQl7r-uoxXaopXToikd01eBMStSaq3Aouio3opiKPclyeobfHT1hp6TBp8m1xRROeXmZEN1uq3CiqCkDKHdXymptKPJFk1gp0PeJRRc_zgk9nXdCEq0ULJog-2XtHrFfb3SB56DRfwC2_fZ3r2EIdAzb4LGi7e-fBMkZ7VRcT0mJS4hDPdE3fKeg2tROCyQRh5zi77rh11tf46FyHt9etK1itbu39RJ2FOR2XxCYvMOjplNMlFG4rcobbzvl7AwoXcHA3OTHq3DgEubhlgYMOTbbC_cpXduInpI19ysWRmZ0uBH7V0TttRhnM46GDjKVJG3FN-n8Qwt2L7q0-iArXTytgjKTUbDR-5OuMrURGiA2F5aypOoUU5_5W4HaGPokPcM-xZo5tRdhXK71uQ2BKeva1he0BFCFAMTcc1tcF7EIw6KtbkYDn9KU-xkUn6FmazxRTGd_ZXj321lB1aflwYMOCnbCDGFU5myIve6pa_ZJ5ohE-0Zp9ni4deCQ=w1004-h1255-s-no?authuser=0
+---
+
+[![](https://lh3.googleusercontent.com/1erV2yzfU1REia5UDDSvyixcq3UBaH9pj_YKd9XCr21J0-ZHDtKyyqK_THFjrT9BSR9aXks-cOkeAWL7wFyKlA2DOGhMNe2oeyO6bj821443yKnQArkUaIsp6YJlvE70BponhxObRCqVY-bRp3S2js3K1QY3WyudARSYfbMXsNSjhcaYyaEnhgRWrHvM09Ka7kBPmsEKJbLttGTb7SiOoz_ars5gEZVHGJRO3ECrhPSMpPOpy61z2E4L85bODWzLKFTaqwPrdfSPUP-o99LjaMtzNiOSBdVxzISm6dkRT0Bgnu6H1AZE8PaA0b_j8V0quU7V76cRc3fq2cr3hXoIzhROUM_HpRHLXhfjRtOSvt03sUaPgcrol1XsQhr0Q6AvAfios_dVAd-7l2OkKQwn5idOx8cjfEwdgJhfSZKDo4UO6pXhtpyQl7r-uoxXaopXToikd01eBMStSaq3Aouio3opiKPclyeobfHT1hp6TBp8m1xRROeXmZEN1uq3CiqCkDKHdXymptKPJFk1gp0PeJRRc_zgk9nXdCEq0ULJog-2XtHrFfb3SB56DRfwC2_fZ3r2EIdAzb4LGi7e-fBMkZ7VRcT0mJS4hDPdE3fKeg2tROCyQRh5zi77rh11tf46FyHt9etK1itbu39RJ2FOR2XxCYvMOjplNMlFG4rcobbzvl7AwoXcHA3OTHq3DgEubhlgYMOTbbC_cpXduInpI19ysWRmZ0uBH7V0TttRhnM46GDjKVJG3FN-n8Qwt2L7q0-iArXTytgjKTUbDR-5OuMrURGiA2F5aypOoUU5_5W4HaGPokPcM-xZo5tRdhXK71uQ2BKeva1he0BFCFAMTcc1tcF7EIw6KtbkYDn9KU-xkUn6FmazxRTGd_ZXj321lB1aflwYMOCnbCDGFU5myIve6pa_ZJ5ohE-0Zp9ni4deCQ=w1004-h1255-s-no?authuser=0)](https://photos.app.goo.gl/zVMQhCxwM4e6iUxn9)
+
+Avui he baixat a [Llumàtics](https://llumatics.com/es/), dins la Nau [Bostik](https://naubostik.com/), a cercar unes plaques que vaig deixar ahir secar al laboratori. La meva sorpresa ha estat molt gran quan l'Aureli (el millor!) m'ha presentat a aquest encantador personatge. Ell és en Jimmy i el podreu conèixer millor aquest divendres a la [Sala Basiana](https://naubostik.com/esdeveniment/jam-session/), dins la Nau Bostik.

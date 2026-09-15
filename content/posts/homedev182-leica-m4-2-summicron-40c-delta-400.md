@@ -1,0 +1,15 @@
+---
+title: "HomeDev#182 - Leica M4-2 - Summicron 40c - Delta 400"
+date: 2017-12-31
+slug: "homedev182-leica-m4-2-summicron-40c-delta-400"
+categories: 
+  - "leica-m4-2"
+author: "inuxbcn"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2017/12/HD182-017.jpg
+image: https://lh3.googleusercontent.com/jEHTYSbMSzUEE_8Ln6MTw8KUQ7h76128BRwr577K-11CJDnBzMnQMZpmpOd2fOUsAwDL7Us08CbUHNYx-cSQdUjW8uFZrMWUFPy445JvO4rHhfFkjvGgUl99OJwgF68UPN17A3IbihWbJin8B9zNu09jortsMKev_97UO2Z_E8n70l571OPDdH35-dNkOD2MPO2IWdIMwNrMPXCSLvq8lT7Vn7_feb-_yAZqLwTPzF0TlwAxKuvqS8ZMH0I9exzoWSdiMbDZx8-IUSjyS05GNZ-GMlqCEmC4Blrq6z4hQ313Luqy_YeH-l_6vtUIO-1JzjMSkJ-_qhp9qXdZscwN1wwXH1dRVrgnrY04Xm-nJgIBS1j7mIMVIAdjjBjCbwxDdygD9WeE9KDLzI7AIhigvEYpljqB6cxfGQWX1Q2ixQ514uBUplSUqYIvCbKVM1b1OAzaigSeCswFAmAOCWvXLhP4qAEJ6Qj7QRBMv4JiywCGAFB27SjVt9feWF_9wHmt6Y-bxkQhrvHna5WCb6mVIqh7ZPHAYJHIsJZb-4h3GWNbTcfJwYIKiLIYS0WemZWCZmB01yh91cOwF4RJTa4AzCihji9scK_5ZdvsYfW1=w1252-h835-no
+---
+
+[![](https://lh3.googleusercontent.com/jEHTYSbMSzUEE_8Ln6MTw8KUQ7h76128BRwr577K-11CJDnBzMnQMZpmpOd2fOUsAwDL7Us08CbUHNYx-cSQdUjW8uFZrMWUFPy445JvO4rHhfFkjvGgUl99OJwgF68UPN17A3IbihWbJin8B9zNu09jortsMKev_97UO2Z_E8n70l571OPDdH35-dNkOD2MPO2IWdIMwNrMPXCSLvq8lT7Vn7_feb-_yAZqLwTPzF0TlwAxKuvqS8ZMH0I9exzoWSdiMbDZx8-IUSjyS05GNZ-GMlqCEmC4Blrq6z4hQ313Luqy_YeH-l_6vtUIO-1JzjMSkJ-_qhp9qXdZscwN1wwXH1dRVrgnrY04Xm-nJgIBS1j7mIMVIAdjjBjCbwxDdygD9WeE9KDLzI7AIhigvEYpljqB6cxfGQWX1Q2ixQ514uBUplSUqYIvCbKVM1b1OAzaigSeCswFAmAOCWvXLhP4qAEJ6Qj7QRBMv4JiywCGAFB27SjVt9feWF_9wHmt6Y-bxkQhrvHna5WCb6mVIqh7ZPHAYJHIsJZb-4h3GWNbTcfJwYIKiLIYS0WemZWCZmB01yh91cOwF4RJTa4AzCihji9scK_5ZdvsYfW1=w1252-h835-no)](https://photos.app.goo.gl/rmEgn7KaTLXMxow13)
+
+Passejant per Subirats

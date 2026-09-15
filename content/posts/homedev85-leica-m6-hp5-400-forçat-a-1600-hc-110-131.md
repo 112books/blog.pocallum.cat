@@ -1,0 +1,13 @@
+---
+title: "HomeDev#85 - Leica M6 - HP5 400 forçat a 1600 (HC-110 1/31)"
+date: 2016-11-28
+slug: "homedev85-leica-m6-hp5-400-forc%cc%a7at-a-1600-hc-110-131"
+categories: 
+  - "leica-m6"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2016/11/HD85-LM6-HP51600-008.jpg
+image: https://lh3.googleusercontent.com/KaY1PoZlSDzYR57q-G0AFdhVcX-KPehEPqxMzWyW7Z-2pU8e0FOhT-sGeJYAILvtpFgP_kYB63MmGm26Gb0GKfGUlU_c3s7coOf2mwEI_IfczXrr-rAnFtKLOEmFwVJ_PvD_u7vH7dBEf0qHBH0d-m2gM-zVSQrkCk6JE2MX9cLz29NuCscHJmO_6qUBXdmQ27mz_FanskbuFFOzpieLr90KT-w8fybFc1r8Eqflsd_rk1wbQufBd4M0dxWyQjuA15BYmwUsJVkICbwjQk8SvvUSLIPVxpek8SNpmYg8kgxkQnjMoYvRvv_vK2u6p7bO9NcOW-hRqaGy7VrtY4_9xO4JOIGO_Si1abCyqoZBtTHANHPo088gOo2XEOG3JxS26NTVP89VeKfG4c2yi-nSehSse8q8eE7pYVw7U2DH4Ch34kTGW4ZHBvj3rbdt12nKcoMQxTQiCumb1J_dUV54X22eOUdkqlCpOFgrFhQhKqTYpcFXIP4HaFxFBivHDcmvDMcQeAG5dXx4ydIyLGkj-D0RY26PJep9MbT-wuVohR8CUc_jopZlwZvzozjx6MmvPJuUJ_OQdGy8UhS8y_c9GSljYqyzHZ8WL-vYiFW17cQ6hoqPYw=w1473-h983-no
+---
+
+[![](https://lh3.googleusercontent.com/KaY1PoZlSDzYR57q-G0AFdhVcX-KPehEPqxMzWyW7Z-2pU8e0FOhT-sGeJYAILvtpFgP_kYB63MmGm26Gb0GKfGUlU_c3s7coOf2mwEI_IfczXrr-rAnFtKLOEmFwVJ_PvD_u7vH7dBEf0qHBH0d-m2gM-zVSQrkCk6JE2MX9cLz29NuCscHJmO_6qUBXdmQ27mz_FanskbuFFOzpieLr90KT-w8fybFc1r8Eqflsd_rk1wbQufBd4M0dxWyQjuA15BYmwUsJVkICbwjQk8SvvUSLIPVxpek8SNpmYg8kgxkQnjMoYvRvv_vK2u6p7bO9NcOW-hRqaGy7VrtY4_9xO4JOIGO_Si1abCyqoZBtTHANHPo088gOo2XEOG3JxS26NTVP89VeKfG4c2yi-nSehSse8q8eE7pYVw7U2DH4Ch34kTGW4ZHBvj3rbdt12nKcoMQxTQiCumb1J_dUV54X22eOUdkqlCpOFgrFhQhKqTYpcFXIP4HaFxFBivHDcmvDMcQeAG5dXx4ydIyLGkj-D0RY26PJep9MbT-wuVohR8CUc_jopZlwZvzozjx6MmvPJuUJ_OQdGy8UhS8y_c9GSljYqyzHZ8WL-vYiFW17cQ6hoqPYw=w1473-h983-no)](https://goo.gl/photos/631TZUcjGRjQSa1K6)

@@ -1,5 +1,5 @@
 # Migració blog.pocallum.cat — de WordPress a Hugo
-**Data:** 2026-09-14 | **Estat:** Fase 1 completada (exportació). Hosting redefinit.
+**Data:** 2026-09-14 | **Estat:** Fase 3 completa. Posts convertits, post-processats i pàgines fixes migrades. Fase 4 (tema) pendent.
 
 > La font de veritat operativa del projecte és **[CLAUDE.md](CLAUDE.md)**.
 
@@ -66,9 +66,9 @@ Arguments de suport:
 
 ## Pla de migració (fases)
 
-1. **Exportació** — XML complet de WordPress + còpia de `wp-content/uploads`. Mesurar mida total d'imatges.
-2. **Scaffolding** — `hugo new site` a aquest directori, `hugo.toml` amb `permalinks` idèntics, taxonomies `categories` + `tags`, RSS activat.
-3. **Conversió** — WordPress XML → Markdown (eines: `wordpress-export-to-markdown`, `wp2hugo` o `exitwp`). Validar comptador de posts, dates, categories i tags.
+1. ✅ **Exportació** — XML complet de WordPress + còpia de `wp-content/uploads`. Mesurar mida total d'imatges.
+2. ✅ **Scaffolding** — `hugo new site` a aquest directori, `hugo.toml` amb `permalinks` idèntics, taxonomies `categories` + `tags`, RSS activat.
+3. ✅ **Conversió** — WordPress XML → Markdown (`wordpress-export-to-markdown` v3.0.5). **2.353 posts + 10 drafts** a `content/posts/` amb `tags`, `thumbnail` i `image` (post-processament fet); 6 pàgines fixes migrades.
 4. **Tema** — layout de llistat cronològic, single, arxiu mensual, càmeres/taxonomies, cerca (Pagefind), RSS idèntic a `/feed/`.
 5. **Comentaris i pàgines fixes** — renderitzar comentaris estàtics; migrar About/Avís/Contacte/legal.
 6. **QA** — comparativa d'URLs: crawlar el WordPress actual vs el Hugo local i verificar resposta 200 a 1:1.
@@ -78,12 +78,73 @@ Arguments de suport:
 
 ## Pròxim pas
 
-Anàlisi de l'XML exportat i **inici de la conversió a Markdown** (fase 3): triar eina (`wordpress-export-to-markdown`/`wp2hugo`), unir els 4 fitxers XML (59 MB ja a `migration/`), i validar els 2.353 posts amb dates, categories, etiquetes i slugs.
+Iniciar la **fase 4 — tema** (`themes/blog`): llistat cronològic, single, arxiu mensual, taxonomies de càmera/òptica, cerca Pagefind, RSS a `/feed/`, i la decisió del formulari de contacte i del contingut legal de les 3 pàgines buides. Posteriors: fase 5 (comentaris giscus + comentaris estàtics), fase 6 (QA 1:1 URLs), fase 7 (deploy + tall).
+
+## Estat de la fase 3 (conversió, 2026-09-14 — segona execució completa)
+
+> La primera execució (matí) va perdre els materials amb la neteja de `/tmp` i `migration/`. Es va repetir íntegrament: export al servidor → conversió local → post-processament.
+
+### Export (repetit al servidor)
+- **Alerta PHP:** el CLI per defecte del servidor és PHP 7.0 (massa vell per al WP/WP-CLI actuals). Cal executar wp-cli amb PHP 8.2:
+  `/opt/php-8.2/bin/php /usr/local/bin/wp ...`
+- `wp export --post_type=post` → 1 fitxer de **56 MB** (`blogdepocallumcameraampaction.wordpress.2026-09-14.000.xml`)
+- `wp export --post_type=page` → fitxer separat de **24 KB** per a les 6 pàgines fixes
+
+### Conversió (represa)
+- Eina: `wordpress-export-to-markdown` v3.0.5 — **flags reals del CLI**: `--input`, `--output`, `--frontmatter-fields`, `--save-images none`, `--wizard false`, `--post-folders false` (els flags `--export/--outdir/--postfields` documentats a la primera execució no existeixen en v3.0.5).
+- **2.353 posts publicats** + **10 drafts** (a `_drafts/`, `draft: true`) a `migration/wpfull/posts/`
+- **Resultat de post-processament (`migration/post-processa.py`)**:
+  - `tags:` afegits a **843 posts** (font canònica: XML, `category domain="post_tag"`)
+  - `thumbnail:` de `_thumbnail_id` → adjunt → `guid` a **2.349 posts** (els 2 adjunts amb `_thumbnail_id` sense guid a l'XML es van recuperar per WP-CLI directe)
+  - `image:` primer `<img>` del contingut a **2.323 posts**
+  - 3 shortcodes `\[vimeo ID w=W h=H\]` → `{{< vimeo ID >}}` (es consumia també la barra inversa de l'escape)
+  - Camp `excerpt` **eliminat**: 196 posts el tenien corromput a la font (accentuats → `??`, dins del propi XML del WP)
+
+### Problemes detectats i resolts
+1. **Slugs URL-encoded al WP (~18 posts).** El WP guarda alguns slugs percent-encoded (`forc%cc%a7at` = `forçat`); l'eina el decodifica. Es reescriu el `slug:` del frontmatter al valor original del WP. **Verificat:** la URL generada per Hugo (`...forc%CC%A7at...`) coincideix amb la canònica del WP viu (200 a `forc%cc%a7at`, 404 a la forma decodificada).
+2. **Tags**: a la segona execució l'eina SÍ extreu tags (843 posts) — el buit total de la primera execució no es reprodueix; el post-processament els reescriu des de l'XML com a font canònica igualment.
+3. **Pàgines fixes**: 6 publicades migrades a `content/*.md` (about, aviso-legal, contact, cerca, politica-de-privacidad, politica-de-cookies). **3 estaven buides al WP** (aviso-legal, privacitat, cookies) → plantelles pendents de contingut legal real. `contact` usa Contact Form 7 → marcador fins a decidir el formulari del Hugo. `cerca` → marcador per a Pagefind (fase 4).
+
+### Verificació
+- `hugo --minify --buildDrafts` → **8.598 pàgines** (2.353 posts + taxonomies + paginació), 0 errors.
+- Pitch de posts a `content/posts/`: **2.354** (2.353 + el post de prova permalinks).
+- URLs de posts (`/YYYY/MM/DD/slug/`) i pàgines (`/about/`, `/aviso-legal/`, ...) generades correctament. `/feed.xml` present (QA del `/feed/` a fase 6).
+
+---
 
 ## Estat de la fase 1 (exportació, 2026-09-14)
 
 - ✅ XML complet baixat a `migration/` (4 fitxers, 59 MB, via WP-CLI + PHP 8.2)
 - ✅ Recomptes verificats: 2.353 posts publicats (+10 no publicats), 96 categories, 3.177 etiquetes, 96 comentaris (71 aprovats + resta pendent/esborrall)
 - ✅ `uploads` analitzat: 3,4 GB totals; 1,2 GB miniatures + 69 MB `-scaled` (regenerables, no es migren); **2,3 GB d'originals (9.706 fitxers)** → romanen al servidor
+
+---
+
+## Estat de la fase 3 (conversió, 2026-09-14 — primera execució, materials perduts pel /tmp)
+
+### Eina utilitzada
+`wordpress-export-to-markdown` v3.0.5 — execució:
+```bash
+npx wordpress-export-to-markdown --export=export-complet.xml --outdir=/tmp/wpfull --postfields=title,date,slug,categories,tags,excerpt,author,draft
+```
+
+### Resultats
+- **2.354 posts** generats a `/tmp/wpfull/posts/` (2.363 al WP + 10 drafts)
+- 7 pàgines generades a `/tmp/wpfull/pages/`
+- Frontmatter: title, date, slug, categories, author
+- Contingut: Markdown amb imatges `![alt](url)`
+
+### Problemes detectats
+1. **Tags buits**: el camp `tags` surt buit a tots els fitxers. L'XML del WP té 843 posts amb tags (3.020 tags únics). L'eina no parseja correctament les etiquetes del XML.
+2. **`coverImage` buit**: l'eina no mapeja `_thumbnail_id` → imatge. Cal script per extreure thumbnail de `_thumbnail_id` → adjunt → `guid`.
+3. **Vimeo shortcodes escapats**: `\[vimeo ID w=W h=H\]` en lloc de renderitzar l'iframe (3 posts).
+
+### Post-processament
+Script `migration/post-processa.py` creat per:
+- Afegir `tags:` al frontmatter des de l'XML (843 posts amb tags)
+- Afegir `thumbnail:` de `_thumbnail_id` → adjunt → `guid` (2.349 posts amb thumbnail)
+- Afegir `image:` del primer `<img>` del contingut
+- Convertir shortcodes `[vimeo]` → shortcode Hugo `{{< vimeo ID >}}`
+- Copiar fitxers a `content/posts/`
 
 *Informe generat el 2026-09-14 · projecte blog.pocallum.cat → Hugo*

@@ -1,0 +1,19 @@
+---
+title: "Associació Alquimistes; Teatre inclusiu"
+date: 2019-07-21
+slug: "associacio-alquimistes-teatre-inclusiu"
+categories: 
+  - "canon-eos-6d"
+author: "inuxbcn"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2019/07/IMG_3148.jpg
+image: https://lh3.googleusercontent.com/C_Vl5gWqomW7cMbkdTnQEEGjLBwYXFy75YSe69bwBEwh4r2XTOdVV1xql3iOcP2XimBw-SrwcrOf00yyK2O2u9LvMZ_c7RB-cXB44jHSIQJATiZHFUMMulFkwRLprqv3SQADMuaPLTQMS-Z_KfFdtaxtnc2D6XwiJpTxVyN6zfEyrvNIB3SJqtXFiXoAv7jaSsO7GM00fUUmFG7SLpC3XWjjPJS1UlZGofxsiA1i1n3ryqo1s-C53BxZiRhrYnQ4bLCdl76aJHxpLa-rrChP4xiucALYrbU_H6dPHoWFJ9bKe1ZSOVq7YooXtRkm5DdYoqUolhsvYyCVGkAaOvYgj457oApEMVK7J3oQXjh66oygkJT5PbMA4YKVk_oMUe6AruonCcXBAipqInb_4wYKWG-pZplrkMD83enaY2sif5ubd-Plq6vYcq6bq98ADwnJKei64Eqpdku-WKAttgCmZhKJcP9pDz69frBE6EI1GEfprH4c01diFqly1DalwH6KJrhP429wSkMyrb946JrOkj9yQ4nU1f6RTWrgu9Duipcg2Q-BEAKzAO6a2Xb4EJ-pKKNNnYrsuKZ4oYDH07itGZ7Z44EF3UqbyqnwGwZPgw6vrdgyjN0HbTMwqGBZ3pxkduMtGetYjcOPbqBpT-ezjbrygCuuQWBw=w1549-h1033-no
+---
+
+[![](https://lh3.googleusercontent.com/C_Vl5gWqomW7cMbkdTnQEEGjLBwYXFy75YSe69bwBEwh4r2XTOdVV1xql3iOcP2XimBw-SrwcrOf00yyK2O2u9LvMZ_c7RB-cXB44jHSIQJATiZHFUMMulFkwRLprqv3SQADMuaPLTQMS-Z_KfFdtaxtnc2D6XwiJpTxVyN6zfEyrvNIB3SJqtXFiXoAv7jaSsO7GM00fUUmFG7SLpC3XWjjPJS1UlZGofxsiA1i1n3ryqo1s-C53BxZiRhrYnQ4bLCdl76aJHxpLa-rrChP4xiucALYrbU_H6dPHoWFJ9bKe1ZSOVq7YooXtRkm5DdYoqUolhsvYyCVGkAaOvYgj457oApEMVK7J3oQXjh66oygkJT5PbMA4YKVk_oMUe6AruonCcXBAipqInb_4wYKWG-pZplrkMD83enaY2sif5ubd-Plq6vYcq6bq98ADwnJKei64Eqpdku-WKAttgCmZhKJcP9pDz69frBE6EI1GEfprH4c01diFqly1DalwH6KJrhP429wSkMyrb946JrOkj9yQ4nU1f6RTWrgu9Duipcg2Q-BEAKzAO6a2Xb4EJ-pKKNNnYrsuKZ4oYDH07itGZ7Z44EF3UqbyqnwGwZPgw6vrdgyjN0HbTMwqGBZ3pxkduMtGetYjcOPbqBpT-ezjbrygCuuQWBw=w1549-h1033-no)](https://photos.app.goo.gl/Gigy16dGjfAfXfVBA)
+
+Ja fa uns quants anys que cobreixo les obres de teatre que dissenyen, assagen i executen magistralment aquesta colla de joves al Teatre Sagarra a Santa Coloma de Gramanet.
+
+Dono sempre les gràcies a deixar-me treballar amb projectes socials i més si son amb gent tan ferma i compromesa com l'Associació Alquimistes dins el [festival FITI](http://www.fiti.cat).
+
+Aquí unes quantes fotografies "entre bambolines" de la darrera obra representada al 2018.

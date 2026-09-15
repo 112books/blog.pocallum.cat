@@ -1,0 +1,15 @@
+---
+title: "Nou Barris Meets New Orleans"
+date: 2022-05-21
+slug: "nou-barris-meets-new-orleans"
+categories: 
+  - "fuji-x-pro1"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2022/05/DSF8088.jpg
+image: https://lh3.googleusercontent.com/Y_NXucclzZG3KjyFJyEGg5fnqWLKDdsRBd8gxJgy77Z50JBSmZy5hBPnTH0V03qQpXgJha2UhIt9kopuAui79w-NxdIHp0NsuMK7Qz8YPOck4HQClD76KmJwevfGqNQkad8tzK4qdZDX5J5mQs82H-uMB7WEgFMg-hEMeDKhAXnu8y1jqh4pd5O1sPIF_9KBBjGWJX7VOw3eC1QQyRHE3sCAVwVxkajwgnWsm_P4VgJB1wKyBQC5SfdbGyEta3xcqjZOCoeU5BhUC-FSDDT2CCu03xk6RzYjL--mx6NVxdpMdqHZbpU_X4O38utYvXnyY8qmSpFnma_PvKVfGCfyyqT-BF7aSuKdrfNZHwx9lR-LCwyligDQtYwMtqbonTvjBsnXtHWB072KfROiUoxUR4906FpJLD1RcSL0AHKsfqQibanUuq4nioZ70zL50tHvdUdmVp_CvUNbs17wjwyIn6wh63rJX35r1iEIycVDzswLbZ0vFUfSb_x_GCCCkXVDHIUzf1-wMGB3twyynip-fvBJvOUaNNaER_vlhc0OXkAorF2Ko9j5YjgQ16ChMWyIL8g6sglHlcpLdNVxJSRYPbPGOtQVBMvevoAjsxcwTC_DKqjkJRrpyC43Q0VTANPDJ5pcfz5EuqmMRUjvtzP4bRPvCUmunX0s_OTz6LDs2DKK4CjTGyKV5qYJmxluDN5SpxfAqvKTWWFO_kayP-WE2IXZeuu7KlYUM5J5tsCJYFQqxvksElj31tQaGtfI=w1321-h881-no?authuser=0
+---
+
+[![](https://lh3.googleusercontent.com/Y_NXucclzZG3KjyFJyEGg5fnqWLKDdsRBd8gxJgy77Z50JBSmZy5hBPnTH0V03qQpXgJha2UhIt9kopuAui79w-NxdIHp0NsuMK7Qz8YPOck4HQClD76KmJwevfGqNQkad8tzK4qdZDX5J5mQs82H-uMB7WEgFMg-hEMeDKhAXnu8y1jqh4pd5O1sPIF_9KBBjGWJX7VOw3eC1QQyRHE3sCAVwVxkajwgnWsm_P4VgJB1wKyBQC5SfdbGyEta3xcqjZOCoeU5BhUC-FSDDT2CCu03xk6RzYjL--mx6NVxdpMdqHZbpU_X4O38utYvXnyY8qmSpFnma_PvKVfGCfyyqT-BF7aSuKdrfNZHwx9lR-LCwyligDQtYwMtqbonTvjBsnXtHWB072KfROiUoxUR4906FpJLD1RcSL0AHKsfqQibanUuq4nioZ70zL50tHvdUdmVp_CvUNbs17wjwyIn6wh63rJX35r1iEIycVDzswLbZ0vFUfSb_x_GCCCkXVDHIUzf1-wMGB3twyynip-fvBJvOUaNNaER_vlhc0OXkAorF2Ko9j5YjgQ16ChMWyIL8g6sglHlcpLdNVxJSRYPbPGOtQVBMvevoAjsxcwTC_DKqjkJRrpyC43Q0VTANPDJ5pcfz5EuqmMRUjvtzP4bRPvCUmunX0s_OTz6LDs2DKK4CjTGyKV5qYJmxluDN5SpxfAqvKTWWFO_kayP-WE2IXZeuu7KlYUM5J5tsCJYFQqxvksElj31tQaGtfI=w1321-h881-no?authuser=0)](https://photos.app.goo.gl/XX6ZwfUsE19uopnX7)
+
+A les **18.30h** de la mà de la banda de **Broken Brothers Brass Band**, recorrerem els carrers de Nou Barris. En actiu des de 2006, amb membres de la pionera Amama Luisa Brass Band en les seves files, la música de la Broken Brothers es basa en el so de carrer i festiu de les Brass Bands contemporànies de Nova Orleans. El Funk, el Gospel, i el Jazz modern inunden les seves energètiques interpretacions, amb la improvisació col·lectiva com a característica central.

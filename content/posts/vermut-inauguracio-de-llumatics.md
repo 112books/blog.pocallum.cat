@@ -1,0 +1,18 @@
+---
+title: "Vermut-inauguració de Llumàtics"
+date: 2018-02-05
+slug: "vermut-inauguracio-de-llumatics"
+categories: 
+  - "leica-m6"
+author: "inuxbcn"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2018/02/HD193-024.jpg
+image: https://lh3.googleusercontent.com/67s219wZ7X-s1jkUHsBLJeQAuwTOC4bV20VXgN5XLGdW1O55hPjJHW839vNWqnbhBsLBCWu_bvPzBY4YVi7SA-BhMYSeLuHArGkHZVJEyG38jfS7t58g937w13dpcmLDKlITL40HgKGySy9FFE1iPZ0KmmU3B4O1frbL1aRvTdEihkG8Urf_VaSTFle5AcW-yoY48aJVfsvdrv-PKzWiAaBF4MZNU4wIYTcsuuTX1nWkbrUMQA0CNm4uSaUedA7QtMc55WRRtHh8LRwMISXZRSXR78seGiL81DX8yjN1A4oILCAgy9ecsSoUDZIloDs15hXzVRbB_vYvm07vjBWSgDCOkxr5mT0BZBjJuVsbLTruJ2LVRm5gp4eeFjtgnrsvyirQVl15l1GBxaQy3OHgMMCRAnOb-Xq5_k5ORJqcwkJeRMbiqbCzIqbc_HzF_HD5oo5mzuY6-TvzPLstgyL3B6dw3z03Zye1EhlxM_I0-AKdOnhbtPnmWBnFFDpkM7siv8Ud-i9_vMdFNBRPr_xPpGmRcdWYTI6GjtWt-McW6XDGe6P5k3bZoZGOnlkkSf_XuNY5fV6ELTdr4m96Sup0BBJi5WztGOlgEc0PLB8Y=w1612-h1075-no
+---
+
+[![](https://lh3.googleusercontent.com/67s219wZ7X-s1jkUHsBLJeQAuwTOC4bV20VXgN5XLGdW1O55hPjJHW839vNWqnbhBsLBCWu_bvPzBY4YVi7SA-BhMYSeLuHArGkHZVJEyG38jfS7t58g937w13dpcmLDKlITL40HgKGySy9FFE1iPZ0KmmU3B4O1frbL1aRvTdEihkG8Urf_VaSTFle5AcW-yoY48aJVfsvdrv-PKzWiAaBF4MZNU4wIYTcsuuTX1nWkbrUMQA0CNm4uSaUedA7QtMc55WRRtHh8LRwMISXZRSXR78seGiL81DX8yjN1A4oILCAgy9ecsSoUDZIloDs15hXzVRbB_vYvm07vjBWSgDCOkxr5mT0BZBjJuVsbLTruJ2LVRm5gp4eeFjtgnrsvyirQVl15l1GBxaQy3OHgMMCRAnOb-Xq5_k5ORJqcwkJeRMbiqbCzIqbc_HzF_HD5oo5mzuY6-TvzPLstgyL3B6dw3z03Zye1EhlxM_I0-AKdOnhbtPnmWBnFFDpkM7siv8Ud-i9_vMdFNBRPr_xPpGmRcdWYTI6GjtWt-McW6XDGe6P5k3bZoZGOnlkkSf_XuNY5fV6ELTdr4m96Sup0BBJi5WztGOlgEc0PLB8Y=w1612-h1075-no)](https://photos.app.goo.gl/KIIFjfZymd1LXSXi2)
+
+Finalment, hem inaugurat el fotoespai del Poble-sec anomenat Llumàtics!
+
+  
+Moltes gràcies a tots els assistents i esteu atents que ben aviat iniciarem cursos interessants.

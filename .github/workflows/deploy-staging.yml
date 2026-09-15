@@ -27,31 +27,14 @@ jobs:
           tar -xzf hugo_extended_0.164.0_linux-amd64.tar.gz
           sudo mv hugo /usr/local/bin/
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '20'
-
-      - name: Install staticrypt
-        run: npm install staticrypt
-
       - name: Build Hugo (staging, amb drafts, imatges apuntant al servidor)
         run: |
           hugo --minify \
                --baseURL "https://112books.github.io/blog.pocallum.cat/" \
                --buildDrafts
 
-      - name: Protect with staticrypt
-        run: |
-          shopt -s globstar
-          html_files=(public/**/*.html)
-          if [ ${#html_files[@]} -gt 0 ]; then
-            npx staticrypt "${html_files[@]}" \
-              --password "${{ secrets.SITE_PASSWORD }}" \
-              --config .staticrypt.json \
-              --directory public
-          fi
-        shell: bash
+      - name: Index with Pagefind
+        run: npx pagefind --site public
 
       - name: Deploy to GitHub Pages (branca gh-pages-staging)
         uses: peaceiris/actions-gh-pages@v4

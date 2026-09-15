@@ -1,0 +1,14 @@
+---
+title: "HomeDev#146 - Leica M6 - Summicron 50mm f/2 - Kodak Plus-X pan film 1985"
+date: 2017-08-21
+slug: "homedev146-leica-m6-summicron-50mm-f2-kodak-plus-x-pan-film-1985"
+categories: 
+  - "leica-m6"
+  - "leica-summicron-m-50mmf-2-0"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2017/08/HD146-025.jpg
+image: https://lh3.googleusercontent.com/OBb8ynteMGoM4u2RqMFgaIIns0ugnitZ_spyYvwc2xei_Ld06ueI7mlBrMwuYnZk6lGmeG1za12NJwVsOBjTFc_t0iAfzNhriEytJZcnoOUSDwbrxIzhHl2qZXDfpx9_UI6xOrRZ9PsTE9e6cR6StL95EoxE0x9bXBHjCK9cHJp9pEnrNRT4VAh7c9jWDSsOocFn2Sdx7Tbg8Eamx4ZsEuJUieJUI3J-9E1WtUY_VcsLKF-nCSC1QEfJzCESZVBThKoNNbHPMoBqFy0zoh4SJjfq4KD4h7hMavXiyHMv3N2oJeK081DXVEQK9mAgCeUQcjIbLKw0UZf8BY8bkPKN9PbvfKPclC_kl3jzTbf4OGhSEmdmt4_ZXzqi7lMb-rRVRrZaa8reQ-liqZsJcxfOhcFyyfzdAfAvD9OyCMykrazljLgEXA0__jEzW7jl--zNpJ92_pbafRmIMd2qLXdmYJ7hCCD9fp0KJ2zUleXfhheVAVnVFEQowlwVZsanIw68G6AjK_0PVFxNkaU3f-0vd76YEvuF6AevlxIxMUK6ftLBBvXMpNbj4UiBoINy0SjMfIWKUs3I5jYV8hweX6EIID87kEDVEsrX3tAkW27A12XbBWBS-9nhKg=w1624-h1083-no
+---
+
+[![](https://lh3.googleusercontent.com/OBb8ynteMGoM4u2RqMFgaIIns0ugnitZ_spyYvwc2xei_Ld06ueI7mlBrMwuYnZk6lGmeG1za12NJwVsOBjTFc_t0iAfzNhriEytJZcnoOUSDwbrxIzhHl2qZXDfpx9_UI6xOrRZ9PsTE9e6cR6StL95EoxE0x9bXBHjCK9cHJp9pEnrNRT4VAh7c9jWDSsOocFn2Sdx7Tbg8Eamx4ZsEuJUieJUI3J-9E1WtUY_VcsLKF-nCSC1QEfJzCESZVBThKoNNbHPMoBqFy0zoh4SJjfq4KD4h7hMavXiyHMv3N2oJeK081DXVEQK9mAgCeUQcjIbLKw0UZf8BY8bkPKN9PbvfKPclC_kl3jzTbf4OGhSEmdmt4_ZXzqi7lMb-rRVRrZaa8reQ-liqZsJcxfOhcFyyfzdAfAvD9OyCMykrazljLgEXA0__jEzW7jl--zNpJ92_pbafRmIMd2qLXdmYJ7hCCD9fp0KJ2zUleXfhheVAVnVFEQowlwVZsanIw68G6AjK_0PVFxNkaU3f-0vd76YEvuF6AevlxIxMUK6ftLBBvXMpNbj4UiBoINy0SjMfIWKUs3I5jYV8hweX6EIID87kEDVEsrX3tAkW27A12XbBWBS-9nhKg=w1624-h1083-no)](https://goo.gl/photos/wuUqbQ3JDWdMEjwa9)

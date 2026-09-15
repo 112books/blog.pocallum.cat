@@ -1,28 +1,21 @@
 <!DOCTYPE html>
 <html lang="ca">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} — {{ .Site.Title }}{{ end }}</title>
-  {{ with .OutputFormats.Get "RSS" -}}
-  <link rel="alternate" type="application/rss+xml" title="{{ $.Site.Title }}" href="{{ .RelPermalink }}">
-  {{- end }}
+  {{ partial "head.html" . }}
 </head>
-<body>
-  <!-- TEMA PROVISIONAL — la fase 4 el substitueix pel tema real derivat de pocallum.cat -->
-  <header>
-    <a href="{{ "/" | relURL }}"><strong>{{ .Site.Title }}</strong></a>
-    <nav>
-      {{ range .Site.Menus.main }}<a href="{{ .URL }}">{{ .Name }}</a> · {{ end }}
-    </nav>
-    <hr>
-  </header>
-  <main>
+<body{{ if .IsHome }} class="is-home"{{ end }}>
+  <a href="#main-content" class="skip-link">Salta al contingut</a>
+  {{ partial "header.html" . }}
+
+  <main id="main-content">
     {{ block "main" . }}{{ end }}
   </main>
-  <footer>
-    <hr>
-    <p>© {{ now.Format "2006" }} Pocallum · <a href="{{ .Site.Params.webPare }}">pocallum.cat</a></p>
-  </footer>
+
+  {{ partial "footer.html" . }}
+
+  <button id="js-back-top" class="back-top" aria-label="Tornar al principi" hidden>
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="18 15 12 9 6 15"/></svg>
+  </button>
+
 </body>
 </html>

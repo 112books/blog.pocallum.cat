@@ -1,0 +1,15 @@
+---
+title: "Final de lliga a el Raconet amb la penya"
+date: 2017-05-22
+slug: "final-de-lliga-a-el-raconet-amb-la-penya"
+categories: 
+  - "leica-m6"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2017/05/HD124-LeicaM6-D400-034.jpg
+image: https://lh3.googleusercontent.com/nxq_OqTJPI5QYQcDigp77B4rIp2rsFcwNNX9sJSXjnTxzwOLZJBvwaG0xb5IpWy8hp7gnzjImkxnYb81PkvTj-FGYOHW0ZztFAZ-LudwmRX01M8VR7BJGWV6TYTfilooc3A62xGtq5RfjvOOP8Le2Dj9XoWc3I2mFxQiCkJWAJTbauBBShYzhmzhbwzWXBqBrRAtjxPL_R-tUWkAzMJ-_BPkQq91U_AVwV9KAvaqwPi5AR86qsWIHWcMFboNit64-q9eKqCMOhzGkMV3S76rROjbMCpgFbj-vrj5O3umNF_VIWn50hr25vc15NXn3caKfDPWgUs_jOa0BoD9Y8alFEdASkNpIMxWZeiivIEPwzpBOyZUIMKhGOzGE_LC0elIr2nKfm0mfc2aVwXAAaPsyZJqMhtlCbOjwoi5qspBjWbsqPFRoNOuc2KRdGXCbOl9rCJNnVeZIANZDfntrjnTYwzyHcQEjuV43weV6UtixjhpAFA5DB3yurjC0Rzj0kygmGCZ3mCrIKzv16XF4Ov366zm35W_RrC_q6SXzOoCqDcX8yKBGyIrpQV-MdbrBh3ACvIWn6F45Xx-AH-yuPlCS0_dbcG4FQYox1dOfStkxuK873lqAZcj0A=w1285-h857-no
+---
+
+[![](https://lh3.googleusercontent.com/nxq_OqTJPI5QYQcDigp77B4rIp2rsFcwNNX9sJSXjnTxzwOLZJBvwaG0xb5IpWy8hp7gnzjImkxnYb81PkvTj-FGYOHW0ZztFAZ-LudwmRX01M8VR7BJGWV6TYTfilooc3A62xGtq5RfjvOOP8Le2Dj9XoWc3I2mFxQiCkJWAJTbauBBShYzhmzhbwzWXBqBrRAtjxPL_R-tUWkAzMJ-_BPkQq91U_AVwV9KAvaqwPi5AR86qsWIHWcMFboNit64-q9eKqCMOhzGkMV3S76rROjbMCpgFbj-vrj5O3umNF_VIWn50hr25vc15NXn3caKfDPWgUs_jOa0BoD9Y8alFEdASkNpIMxWZeiivIEPwzpBOyZUIMKhGOzGE_LC0elIr2nKfm0mfc2aVwXAAaPsyZJqMhtlCbOjwoi5qspBjWbsqPFRoNOuc2KRdGXCbOl9rCJNnVeZIANZDfntrjnTYwzyHcQEjuV43weV6UtixjhpAFA5DB3yurjC0Rzj0kygmGCZ3mCrIKzv16XF4Ov366zm35W_RrC_q6SXzOoCqDcX8yKBGyIrpQV-MdbrBh3ACvIWn6F45Xx-AH-yuPlCS0_dbcG4FQYox1dOfStkxuK873lqAZcj0A=w1285-h857-no)](https://goo.gl/photos/gz22EtNu58YASRk7A)
+
+HomeDev#124 - Leica M6 - New Jupiter 3+, 50mm f/1.5 - Ilford Delta 400

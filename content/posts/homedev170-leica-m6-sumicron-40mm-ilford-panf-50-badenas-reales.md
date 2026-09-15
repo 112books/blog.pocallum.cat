@@ -1,0 +1,16 @@
+---
+title: "HomeDev#170 - Leica M6 - Sumicron 40mm - Ilford PanF+ 50 - Badenas Reales"
+date: 2017-12-14
+slug: "homedev170-leica-m6-sumicron-40mm-ilford-panf-50-badenas-reales"
+categories: 
+  - "leica-m6"
+  - "summicron-40mm-f-2"
+author: "inuxbcn"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2017/12/HD170-032.jpg
+image: https://lh3.googleusercontent.com/hEhKJ7OLpbQPRCr8ZVI6VxGJf0xpavYnqQfNSACmq0awX_ILlD9ItOMr4YCZc65sh2_a7Zxcf0vngiP0_y_KDZwHySDhTWxsC76L0TPXtKm4OIzfHWcztpcI4HHyxDdfxVboUEg_ESiVXd4UBQIhj9usIjLVYyAajeUFo21-5PdAaH0J7PYuOwrP0rbq33wcZNVIxpin3cvXOODFzectG-lq_V0aqsmE7V61QQ8H6WRHnXAiBvkRlUBGPotNn5b3Ftu1a0eBcWe5c6ebDdhtktfIuV7pvrtGLW1UrMBFA4oMkSZI35dgxiMNGifK4Vajxri94VWbkFcgQuh1_avWoX9NngxKs4TXiDeY21c47U4zI-6YZgqaigoAsoA1qJ523Ek7l6PBb3LvuN__1ONrlfCE8Zfu0eduat8NPOJon7bJWtQnTBlFsm0QXwZ93OslvroS0oqCxrcH6SH_bWpq3Cipo6Bk3LcFJUiPcVFoHY15nWKxNUv79OLzB0QBcX1crq6KMIhCpG2cSjPPQGUGmiHyqWfw24ncRT27xWT_lhubsmRTyG-IIV6Eg8sUD1GabAPhlI7aki5fFGLDpVQgi8CcSfE8ks2nb2eJQa_d7IU=w1323-h883-no
+---
+
+[![](https://lh3.googleusercontent.com/hEhKJ7OLpbQPRCr8ZVI6VxGJf0xpavYnqQfNSACmq0awX_ILlD9ItOMr4YCZc65sh2_a7Zxcf0vngiP0_y_KDZwHySDhTWxsC76L0TPXtKm4OIzfHWcztpcI4HHyxDdfxVboUEg_ESiVXd4UBQIhj9usIjLVYyAajeUFo21-5PdAaH0J7PYuOwrP0rbq33wcZNVIxpin3cvXOODFzectG-lq_V0aqsmE7V61QQ8H6WRHnXAiBvkRlUBGPotNn5b3Ftu1a0eBcWe5c6ebDdhtktfIuV7pvrtGLW1UrMBFA4oMkSZI35dgxiMNGifK4Vajxri94VWbkFcgQuh1_avWoX9NngxKs4TXiDeY21c47U4zI-6YZgqaigoAsoA1qJ523Ek7l6PBb3LvuN__1ONrlfCE8Zfu0eduat8NPOJon7bJWtQnTBlFsm0QXwZ93OslvroS0oqCxrcH6SH_bWpq3Cipo6Bk3LcFJUiPcVFoHY15nWKxNUv79OLzB0QBcX1crq6KMIhCpG2cSjPPQGUGmiHyqWfw24ncRT27xWT_lhubsmRTyG-IIV6Eg8sUD1GabAPhlI7aki5fFGLDpVQgi8CcSfE8ks2nb2eJQa_d7IU=w1323-h883-no)](https://photos.app.goo.gl/Q50lKlLlWayzt4I73)
+
+Quina meravella de pel·lícula. Recomano molt i molt la Ilford PanF+ de 50 ISO. Sembla poca ISO, però només és un pas menys que 100 ;)

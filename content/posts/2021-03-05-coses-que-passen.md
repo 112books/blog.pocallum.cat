@@ -1,0 +1,25 @@
+---
+title: "2021-03-05- Coses que passen"
+date: 2021-03-06
+slug: "2021-03-05-coses-que-passen"
+categories: 
+  - "lc-a-original"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2021/03/2021-03-05-bostik-004.jpg
+image: https://lh3.googleusercontent.com/vs-1PeqQbLRa0iJPk1NCK-UXAMhIU663OflRF6EVa0o659gx85x8lH5Srri8rokJw88QnL1zcnrpF4lpc5PChom6jXw3Li13Qe9ALjHeCQsWeWX6cBiY-FdZVXzDTpiA10ao_HvbULZVb2wwODn-V10cn8vM9W8qoMxq_WjqaFYW3OZr9EdvaLbCf4aYRPY70-cnUMDxOOuOuK0ZmhsfB3E_Xc1gQUOzrMa5nItjx-9C8lc_2AHyHhgTKFj2YzYx7SOwjj9Dfu-yCwl3sol3a-EB0I6dBmhci_Dmzdfhb-PTmAgNKPz2atznbiArCYd4bLBzSxITAyugOHI92GnGFxHnGH5TTq9geu2POgMN08kXeSU9SvcS1ZNT59U5WwpFdVEPy6Fw21KYwu_eqA5B5-mHiU4AUbymzsuJQzlBog1vg7CFliTpCnCgBj2xKNGQcN2NnXk6Y0qQuSa65bFAiLtSjeJEnu0SRsoHhYJcf_TPjeiz6rur6zJmb8H2RYVKHgVtw5mmu94GlZ0lhM1lcN4LqDXi7TNFwBVY0xKbkaZir27Blc03XPfE0-g8xZT7GsJGU84rsZ7QykT_DNVtBtu1lVjdXyjPRsWtOC9N5TLjN1RothFEm0EltISa0Zio0SvoZ7Xh61_Roy3hbsw2YN_JRnBGLhyVV9jf8ZmbJ7-MYKvNrBTk28lD05qack8AW2eMzX0AWUMhwrYP_G6uoyni=w1735-h1097-no?authuser=0
+---
+
+<figure>
+
+[![](https://lh3.googleusercontent.com/vs-1PeqQbLRa0iJPk1NCK-UXAMhIU663OflRF6EVa0o659gx85x8lH5Srri8rokJw88QnL1zcnrpF4lpc5PChom6jXw3Li13Qe9ALjHeCQsWeWX6cBiY-FdZVXzDTpiA10ao_HvbULZVb2wwODn-V10cn8vM9W8qoMxq_WjqaFYW3OZr9EdvaLbCf4aYRPY70-cnUMDxOOuOuK0ZmhsfB3E_Xc1gQUOzrMa5nItjx-9C8lc_2AHyHhgTKFj2YzYx7SOwjj9Dfu-yCwl3sol3a-EB0I6dBmhci_Dmzdfhb-PTmAgNKPz2atznbiArCYd4bLBzSxITAyugOHI92GnGFxHnGH5TTq9geu2POgMN08kXeSU9SvcS1ZNT59U5WwpFdVEPy6Fw21KYwu_eqA5B5-mHiU4AUbymzsuJQzlBog1vg7CFliTpCnCgBj2xKNGQcN2NnXk6Y0qQuSa65bFAiLtSjeJEnu0SRsoHhYJcf_TPjeiz6rur6zJmb8H2RYVKHgVtw5mmu94GlZ0lhM1lcN4LqDXi7TNFwBVY0xKbkaZir27Blc03XPfE0-g8xZT7GsJGU84rsZ7QykT_DNVtBtu1lVjdXyjPRsWtOC9N5TLjN1RothFEm0EltISa0Zio0SvoZ7Xh61_Roy3hbsw2YN_JRnBGLhyVV9jf8ZmbJ7-MYKvNrBTk28lD05qack8AW2eMzX0AWUMhwrYP_G6uoyni=w1735-h1097-no?authuser=0)](https://photos.app.goo.gl/pYpqSkNKW3tuAxik7)
+
+<figcaption>
+
+LC-A (original) Agfa APX 400 @Rodinal
+
+</figcaption>
+
+</figure>
+
+_Recull de fotos soltes dels darrers dies_

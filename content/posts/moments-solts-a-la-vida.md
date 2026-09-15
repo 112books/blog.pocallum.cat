@@ -1,0 +1,23 @@
+---
+title: "Moments solts a la vida"
+date: 2021-01-25
+slug: "moments-solts-a-la-vida"
+categories: 
+  - "lc-a-original"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2021/01/2021-01-23-LC-A-036.jpg
+image: https://lh3.googleusercontent.com/dlaac04pqklwnSBi8ee7QiTZhQg0UpjIDS3DgD4xoK32csSc-t8ydgaPINfq3xE7uUf88DvyipiH6qLrnEB6JzvsZv3OzGUlJtpebYBVKYaQWbr0aHAIjETNfUR95N7jPqTQIJ_Ubbkd0czhoO2xhgxeeJyc8kPXXRp28J7dd9-Oi4U5M7kt-H90J5M09DKDv_2G-I-nR51_4pJ0e6Ai28VMDA_rOSN7hPz_RkSLNsoqc5sm1nyG3clpRCFFaguEEtDkc_nY3YsuKd6Ikjlted1sZ4cvAEqhfU06ezp364A6Nq8YZGzXTT5IDBqzvIdvDA3OU6Q-hF-wwUhNr941lltAXrY6gH5USqsM0CmBhOK_g8Pfk04PlwO_xrzYg8xedEYF-B2QGBddH60tFf8pOpc-YPcLTLZ7emaGM-j5nEuWEHSIPLPcZYJ_3Njpst3AziG88p5ek2xysyuf0xoG5oRpkscj0L6XHm1oWThSFYNKsKS3_XdviF94YGhxJK8-5ZZ56SgE3zCkopoosI4pf0izFbNJA7P4t29tXnmiAP6edlN6Or32pVWamFN_xa7ZYD3kCsQzicmmBWLKuSpu0rprksN0ge1VdCYfQycsQ6NT11X4bQCo7K4vxscbi4fm8BCfPhCiaHMImGVi3wk3DmOKzRmHeJf05TBiFjWECqFN3hom962EVgvG57GGmw=w1759-h1090-no?authuser=0
+---
+
+<figure>
+
+[![](https://lh3.googleusercontent.com/dlaac04pqklwnSBi8ee7QiTZhQg0UpjIDS3DgD4xoK32csSc-t8ydgaPINfq3xE7uUf88DvyipiH6qLrnEB6JzvsZv3OzGUlJtpebYBVKYaQWbr0aHAIjETNfUR95N7jPqTQIJ_Ubbkd0czhoO2xhgxeeJyc8kPXXRp28J7dd9-Oi4U5M7kt-H90J5M09DKDv_2G-I-nR51_4pJ0e6Ai28VMDA_rOSN7hPz_RkSLNsoqc5sm1nyG3clpRCFFaguEEtDkc_nY3YsuKd6Ikjlted1sZ4cvAEqhfU06ezp364A6Nq8YZGzXTT5IDBqzvIdvDA3OU6Q-hF-wwUhNr941lltAXrY6gH5USqsM0CmBhOK_g8Pfk04PlwO_xrzYg8xedEYF-B2QGBddH60tFf8pOpc-YPcLTLZ7emaGM-j5nEuWEHSIPLPcZYJ_3Njpst3AziG88p5ek2xysyuf0xoG5oRpkscj0L6XHm1oWThSFYNKsKS3_XdviF94YGhxJK8-5ZZ56SgE3zCkopoosI4pf0izFbNJA7P4t29tXnmiAP6edlN6Or32pVWamFN_xa7ZYD3kCsQzicmmBWLKuSpu0rprksN0ge1VdCYfQycsQ6NT11X4bQCo7K4vxscbi4fm8BCfPhCiaHMImGVi3wk3DmOKzRmHeJf05TBiFjWECqFN3hom962EVgvG57GGmw=w1759-h1090-no?authuser=0)](https://photos.app.goo.gl/gfEFt8DytDci5WxZA)
+
+<figcaption>
+
+2021-01-23 - LC-A Original - APX400 - Variats
+
+</figcaption>
+
+</figure>

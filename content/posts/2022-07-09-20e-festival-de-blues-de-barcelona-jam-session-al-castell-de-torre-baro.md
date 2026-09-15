@@ -1,0 +1,23 @@
+---
+title: "2022-07-09 – 20è Festival de Blues de Barcelona – Jam Session al Castell de Torre Baró"
+date: 2022-07-13
+slug: "2022-07-09-20e-festival-de-blues-de-barcelona-jam-session-al-castell-de-torre-baro"
+categories: 
+  - "leica-m6"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2022/07/2022-07-10-Jam-0014.jpg
+image: https://lh3.googleusercontent.com/pVtsD3cgyFYCE_x8qiKE5zURsDfaRo9UYa_is6x_5z9ZRCA3fpO32QR_r2sj5oYfA3C8pbUEbZq51-b0Cn0kuJRAQPYchm8yzsSg43ykPJzLp2wlj6xChFTAzzA8pcCag62DUbzf8mf7M_YfZNZiTCB69lFFZYgpXnFnR0N1zaSGkosItuCF3XwflmB0Isqijx73i0O9a3X_--z12__0UTGbCFAUXRAXWBlL3goagxfYZjxplQoA4L2C7AmkeFGlNecZqPGKP2t-AIPIKOABlpNw4AcadwQM-aF1xYtaXzqtHk5M8vvMBRK-5RpZAdqnAnmUuEp-MEuMYHxpw7NF7O58fC6pOyQ4BmllsCExhzplfbekH3OwSeqEhwbAK1voPq4Nl-V_-ZvaSywuK6IeOfJ71iLEZWIWpwe5VZmX8eyrMMGpNk3-CGIbmY5X0dZ6mUMkVq_sn2ybT-TN8ASL1h-O9G1b3iQuX3wvx_wE3RpHn2gq2HacuVRp1RGrQhYTcR4TYjJR5PS98-FHjJUFgqx_kcGTWi6e04PdEpHAZJbvsmsUF2R2QhW-CwO6S5PQD8XW5R51hX-wLTfnDCsj6-PY9N9CXPLEg1TdtnvVympqieppA3yxsY_YqYMb5g7HWwodjxOoLGs1EdUTfqvCG0kruE6vI2yq3ixmFKUwTms3Uyr1gfR2_h37i7HIiejtsG3XvYGLB9js0Zc9Zgh7watp691xjRY9PJ0-i4r0yUQ3vPOnUrr6Wiw9A4iP=w1643-h1084-no?authuser=0
+---
+
+<figure>
+
+[![](https://lh3.googleusercontent.com/pVtsD3cgyFYCE_x8qiKE5zURsDfaRo9UYa_is6x_5z9ZRCA3fpO32QR_r2sj5oYfA3C8pbUEbZq51-b0Cn0kuJRAQPYchm8yzsSg43ykPJzLp2wlj6xChFTAzzA8pcCag62DUbzf8mf7M_YfZNZiTCB69lFFZYgpXnFnR0N1zaSGkosItuCF3XwflmB0Isqijx73i0O9a3X_--z12__0UTGbCFAUXRAXWBlL3goagxfYZjxplQoA4L2C7AmkeFGlNecZqPGKP2t-AIPIKOABlpNw4AcadwQM-aF1xYtaXzqtHk5M8vvMBRK-5RpZAdqnAnmUuEp-MEuMYHxpw7NF7O58fC6pOyQ4BmllsCExhzplfbekH3OwSeqEhwbAK1voPq4Nl-V_-ZvaSywuK6IeOfJ71iLEZWIWpwe5VZmX8eyrMMGpNk3-CGIbmY5X0dZ6mUMkVq_sn2ybT-TN8ASL1h-O9G1b3iQuX3wvx_wE3RpHn2gq2HacuVRp1RGrQhYTcR4TYjJR5PS98-FHjJUFgqx_kcGTWi6e04PdEpHAZJbvsmsUF2R2QhW-CwO6S5PQD8XW5R51hX-wLTfnDCsj6-PY9N9CXPLEg1TdtnvVympqieppA3yxsY_YqYMb5g7HWwodjxOoLGs1EdUTfqvCG0kruE6vI2yq3ixmFKUwTms3Uyr1gfR2_h37i7HIiejtsG3XvYGLB9js0Zc9Zgh7watp691xjRY9PJ0-i4r0yUQ3vPOnUrr6Wiw9A4iP=w1643-h1084-no?authuser=0)](https://photos.app.goo.gl/STnDJ9Rogzy57gu97)
+
+<figcaption>
+
+Leica M6 - Voigtlander 35f1.7 - Agfa APX 400 @1600
+
+</figcaption>
+
+</figure>

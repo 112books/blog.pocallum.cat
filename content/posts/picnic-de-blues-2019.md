@@ -1,0 +1,15 @@
+---
+title: "Pícnic de Blues 2019"
+date: 2019-05-20
+slug: "picnic-de-blues-2019"
+categories: 
+  - "leica-m6"
+author: "inuxbcn"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2019/05/HD371-008.jpg
+image: https://lh3.googleusercontent.com/9-3n45g76mIq7lTeohMeGJZ1np9nnsrDDT2Vf_YwkJSxt1iyf36tPX3am-JaqfZPMfJoBnszyqE60cipynJ4UEBBGwO5tPX6TUJxmpWkPy_SbijtR2TlymkQsYa2stQgHIirzxQ2SGVS0IHV5w1lCqksRteVIgWg9eCmXnus_FqHvnsHoFKmH7FbkDzqrIQbOztmvyHz35Ezw2XD1YLsG1_G09q53UI3BvCRCg0JkkKjH5DIxE2TGJTxa7D7ajBlfYY_YsWV-enkGIYPx-4ziIHlH96BRK4lPrJmsGmMXVJvxzqFKZeGOlWZEc__ofQGmBu5khWnjS9Fg-eqQdtXM83yNU8lvceavWd22sdowFlz-3jW4bFASgDmoJXUdWt1_8ojGPr0pYV9tlgfXQuhxu7umSv3u40hGO-cjLf_i-W4r-ByouUW41I9kO_xGj-66S-lc0VFnCkFD82mCOdtpr5EbvAheM9GM1lmYi6RSLOAyNqnnMQ1g9QGLN7Pi-9JclunG3nzOPqCdd6Ix1Cvk-SP9ix8pHjjbf38jCpIch0boKE9YMWcUWn18f-wlhto0YfDvZSj_MZGVruHpZWcrDshk_PLDSHVkZGeOpnCTBAedLJC9yxPBJkveRWX9yQ2jsT6XvV4H78MkOguoKvRSRC52spC-xwT=w1549-h963-no
+---
+
+[![](https://lh3.googleusercontent.com/9-3n45g76mIq7lTeohMeGJZ1np9nnsrDDT2Vf_YwkJSxt1iyf36tPX3am-JaqfZPMfJoBnszyqE60cipynJ4UEBBGwO5tPX6TUJxmpWkPy_SbijtR2TlymkQsYa2stQgHIirzxQ2SGVS0IHV5w1lCqksRteVIgWg9eCmXnus_FqHvnsHoFKmH7FbkDzqrIQbOztmvyHz35Ezw2XD1YLsG1_G09q53UI3BvCRCg0JkkKjH5DIxE2TGJTxa7D7ajBlfYY_YsWV-enkGIYPx-4ziIHlH96BRK4lPrJmsGmMXVJvxzqFKZeGOlWZEc__ofQGmBu5khWnjS9Fg-eqQdtXM83yNU8lvceavWd22sdowFlz-3jW4bFASgDmoJXUdWt1_8ojGPr0pYV9tlgfXQuhxu7umSv3u40hGO-cjLf_i-W4r-ByouUW41I9kO_xGj-66S-lc0VFnCkFD82mCOdtpr5EbvAheM9GM1lmYi6RSLOAyNqnnMQ1g9QGLN7Pi-9JclunG3nzOPqCdd6Ix1Cvk-SP9ix8pHjjbf38jCpIch0boKE9YMWcUWn18f-wlhto0YfDvZSj_MZGVruHpZWcrDshk_PLDSHVkZGeOpnCTBAedLJC9yxPBJkveRWX9yQ2jsT6XvV4H78MkOguoKvRSRC52spC-xwT=w1549-h963-no)](https://photos.app.goo.gl/pBFnLeoT6DMww9pG9)
+
+Tot celebrant el 10è aniversari de la Escola-Taller de Blues de Barcelona enguany el Picnic de Blues, que es celebra al Parc Central de Nou Barris, ha comptat amb els Combos d'Alumnes, els amics de The Red 'n' The Rotten i The Traitors, bandes formades per antics alumnes de l'Escola!!

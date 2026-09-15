@@ -1,18 +1,80 @@
 {{ define "main" }}
-<h1>{{ .Site.Title }}</h1>
-<p>{{ .Site.Params.description }}</p>
-{{ $pag := .Paginate (where .Site.RegularPages "Section" "posts") }}
-{{ range $pag.Pages }}
-<article>
-  <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-  <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 de January de 2006" }}</time>
-  <p>{{ .Summary }}</p>
-</article>
-<hr>
+{{ $posts := where .Site.RegularPages "Section" "posts" }}
+{{ $pag   := .Paginate $posts 8 }}
+
+{{ if eq $pag.PageNumber 1 }}
+<div class="home-hero" style="background-image:url('https://blog.pocallum.cat/wp-content/uploads/2025/09/2025-09-16-LC-A-Foma400-Varies-0007-1536x942.jpg')" aria-hidden="false">
+  <div class="home-hero-overlay" aria-hidden="true"></div>
+  <div class="home-hero-content container">
+    <p class="home-hero-eyebrow">Crònica fotogràfica tal com raja · Barcelona des del 2010</p>
+    <h1 class="home-hero-title">blog<span class="home-hero-dot">.</span>pocallum<span class="home-hero-dot">.</span>cat<br><span class="home-hero-sub">Camera<span class="home-hero-amp">&amp;</span>action<span class="home-hero-bang">!</span></span></h1>
+  </div>
+</div>
 {{ end }}
-<nav>
-  {{ if $pag.HasPrev }}<a href="{{ $pag.Prev.URL | relURL }}">← Més nous</a>{{ end }}
-  Pàgina {{ $pag.PageNumber }} de {{ $pag.TotalPages }}
-  {{ if $pag.HasNext }}<a href="{{ $pag.Next.URL | relURL }}">Més antics →</a>{{ end }}
-</nav>
+
+<div class="blog-mosaic">
+  {{ range $pag.Pages }}
+  {{ $img := or .Params.thumbnail .Params.image }}
+  <a class="post-tile{{ if not $img }} is-text{{ end }}" href="{{ .RelPermalink }}" aria-label="{{ .Title }}">
+    {{ if $img }}<img src="{{ $img }}" alt="" loading="lazy" decoding="async">{{ end }}
+    <span class="post-tile__date">{{ .Date.Format "02 · 01 · 2006" }}</span>
+    <span class="post-tile__title">{{ .Title }}</span>
+  </a>
+  {{ end }}
+</div>
+
+{{ if eq $pag.PageNumber 1 }}
+{{ $words := 0 }}{{ range $posts }}{{ $words = add $words .WordCount }}{{ end }}
+<div class="home-stats">
+  <div class="home-stat">
+    <span class="home-stat__num js-count" data-count="{{ len $posts }}">0</span>
+    <span class="home-stat__label">posts</span>
+  </div>
+  <div class="home-stat">
+    <span class="home-stat__num js-count" data-count="{{ $words }}">0</span>
+    <span class="home-stat__label">paraules</span>
+  </div>
+  <div class="home-stat">
+    <span class="home-stat__num js-count" data-count="{{ len .Site.Taxonomies.categories }}">0</span>
+    <span class="home-stat__label">càmeres</span>
+  </div>
+  <div class="home-stat">
+    <span class="home-stat__num js-count" data-count="{{ len .Site.Taxonomies.tags }}">0</span>
+    <span class="home-stat__label">etiquetes</span>
+  </div>
+</div>
+{{ end }}
+
+{{ if gt $pag.TotalPages 1 }}
+<div class="pager-wrap">
+  <nav class="pager" aria-label="Paginació">
+    {{ if $pag.HasPrev }}<a class="pager__arrow" href="{{ $pag.Prev.URL | relURL }}" aria-label="Pàgina anterior">←</a>{{ else }}<span class="pager__arrow is-disabled">←</span>{{ end }}
+
+    <div class="pager__nums">
+      {{ $cur   := $pag.PageNumber }}
+      {{ $total := $pag.TotalPages }}
+      {{ $w     := 2 }}
+      {{ $s     := int (math.Max 1 (sub $cur $w)) }}
+      {{ $e     := int (math.Min $total (add $cur $w)) }}
+
+      {{ if gt $s 1 }}
+        <a class="pager__num" href="{{ (index $pag.Pagers 0).URL | relURL }}">1</a>
+        {{ if gt $s 2 }}<span class="pager__ellipsis">…</span>{{ end }}
+      {{ end }}
+
+      {{ range seq $s $e }}
+        {{ if eq . $cur }}<span class="pager__num is-current" aria-current="page">{{ . }}</span>
+        {{ else }}<a class="pager__num" href="{{ (index $pag.Pagers (sub . 1)).URL | relURL }}">{{ . }}</a>{{ end }}
+      {{ end }}
+
+      {{ if lt $e $total }}
+        {{ if lt $e (sub $total 1) }}<span class="pager__ellipsis">…</span>{{ end }}
+        <a class="pager__num" href="{{ (index $pag.Pagers (sub $total 1)).URL | relURL }}">{{ $total }}</a>
+      {{ end }}
+    </div>
+
+    {{ if $pag.HasNext }}<a class="pager__arrow" href="{{ $pag.Next.URL | relURL }}" aria-label="Pàgina següent">→</a>{{ else }}<span class="pager__arrow is-disabled">→</span>{{ end }}
+  </nav>
+</div>
+{{ end }}
 {{ end }}

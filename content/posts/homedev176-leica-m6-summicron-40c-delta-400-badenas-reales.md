@@ -1,0 +1,14 @@
+---
+title: "HomeDev#176 - Leica M6 - Summicron 40c - Delta 400 - Badenas Reales"
+date: 2017-12-20
+slug: "homedev176-leica-m6-summicron-40c-delta-400-badenas-reales"
+categories: 
+  - "leica-m6"
+  - "summicron-40mm-f-2"
+author: "inuxbcn"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2017/12/HD176-036.jpg
+image: https://lh3.googleusercontent.com/VSPs2B9JDhPOvLSD0IPt7ruHhSI_an_yuePnCQ2l933MubDljjvWkdVv3YRdLkCYIWhLlu2N-EA7T7_JLBgGaDkdXO1Y3s70xxnEAQW6LJZt-r0nDr6slDrobPDW2LBhe6ByHBuQA3xtLeOWm-lv7sArwQrtRf0dAGzWQNVCqEWtBCIkKgxFr3wRQxWrUjcrxqjogdTi3g8t_twrd-NXB6YVUxz3CRULH_H5ScqcCl3cgjX0KPJsHhjAwEFRiiHHCMDiC6ozwMY4fLJAE_DItE7aK-LtHpa9CNT7f9kUWEwvvgprL8lS1cLIarSSqoUAlE7VimkQW8_2yaAnKYm64qoCv0l16NHypIBEsDUtehrzsH2oxGuaNuKoFSfiyJYEDXPI5Ms6oSfKg2USlTvKKaAiqCiJMWLmf33X1CvsG_QhWuPHH0-80bYxYDQ2s_2DYMI-gVfhbbPVxxpPwbKE2-Gr2g5fvkSGBaUpsl5v_7G7CosGdVx67zwqyrp1UaKXy9bZcO2t5U0BdVI2RNCPlYUzODtlIkiHn9-0ND0GD25tIT41GX8kvK_kw2bP4lLOrk143Q0JzFOt8_E_bJBnjIDSpcZiZ5aI8c4JH10o=w963-h643-no
+---
+
+[![](https://lh3.googleusercontent.com/VSPs2B9JDhPOvLSD0IPt7ruHhSI_an_yuePnCQ2l933MubDljjvWkdVv3YRdLkCYIWhLlu2N-EA7T7_JLBgGaDkdXO1Y3s70xxnEAQW6LJZt-r0nDr6slDrobPDW2LBhe6ByHBuQA3xtLeOWm-lv7sArwQrtRf0dAGzWQNVCqEWtBCIkKgxFr3wRQxWrUjcrxqjogdTi3g8t_twrd-NXB6YVUxz3CRULH_H5ScqcCl3cgjX0KPJsHhjAwEFRiiHHCMDiC6ozwMY4fLJAE_DItE7aK-LtHpa9CNT7f9kUWEwvvgprL8lS1cLIarSSqoUAlE7VimkQW8_2yaAnKYm64qoCv0l16NHypIBEsDUtehrzsH2oxGuaNuKoFSfiyJYEDXPI5Ms6oSfKg2USlTvKKaAiqCiJMWLmf33X1CvsG_QhWuPHH0-80bYxYDQ2s_2DYMI-gVfhbbPVxxpPwbKE2-Gr2g5fvkSGBaUpsl5v_7G7CosGdVx67zwqyrp1UaKXy9bZcO2t5U0BdVI2RNCPlYUzODtlIkiHn9-0ND0GD25tIT41GX8kvK_kw2bP4lLOrk143Q0JzFOt8_E_bJBnjIDSpcZiZ5aI8c4JH10o=w963-h643-no)](https://photos.app.goo.gl/mpoVfwaMlX6ORats1)

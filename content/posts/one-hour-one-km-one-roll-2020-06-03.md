@@ -1,0 +1,23 @@
+---
+title: "One hour, one Km, one roll – 2020-06-03"
+date: 2020-06-04
+slug: "one-hour-one-km-one-roll-2020-06-03"
+categories: 
+  - "speed-graphic"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2020/06/2020-065-03-002.jpg
+image: https://lh3.googleusercontent.com/FlwD55odXiyHQ_WR11OVppfsmL5E1JDhjKpbbGOV1SdjJGaeMLJq3sF2RY0XMpv2jDDwAerTtURT8ycVtPXFhY4UvV2T1YN-Q2hzTSq7uaKImvS7vfsDKSSzUkjqLKfQ49lgscPydeNzVOdu8N5BbKD7VQW2NzvDUO_0ohFYWrsiJh6h0WFDNCkzAG6zR6vXaHOrWYFkpGgc4KVm9za9m8j_BFnKpsNtAmhGV2sA2_6EHcpwDGuqI3HS4BWx-YB37iSF6Qm0tsKFJKvRVA1jhNL0wtdtBFnqHSMW9B27KLMW8G4mbgz8W7q9ny95eDpzfBkm2Ta-I1atTyvOk4PpsFQaAKXmY46uRfp8RMfrOLRD5ZTefaGZr5td1FCKXVUW-RZAn4DSat3HaVcT3qV3nW-LOgci1YUTYHyv3mJl7FIlcpuKbtCz0zHBIyO_ULYm0tqYe01wSYfk6CyRxS8SvLzHbea23hRuBSMAh_vuzhGZENI6Mcq2NEQyS9N3qZHIOSHwR0-evYrIZXvJq7B947xa6e2nqDHXezY6lgj5Lx-_P27Z9CkVTgIUhG2-hobJHypTOkrvKCW726W_ZbvhYVUC3VjWRttJcDYEJli_EbKoxy0b7vHabzb7EuXFfnFLCjiJ5IxZ9CDXfsoJ6N4UwmL077BJm8KkXwhKa02zI-k2RaCiVHWvO5c_j9btvw=w1056-h1320-no?authuser=0
+---
+
+<figure>
+
+[![](https://lh3.googleusercontent.com/FlwD55odXiyHQ_WR11OVppfsmL5E1JDhjKpbbGOV1SdjJGaeMLJq3sF2RY0XMpv2jDDwAerTtURT8ycVtPXFhY4UvV2T1YN-Q2hzTSq7uaKImvS7vfsDKSSzUkjqLKfQ49lgscPydeNzVOdu8N5BbKD7VQW2NzvDUO_0ohFYWrsiJh6h0WFDNCkzAG6zR6vXaHOrWYFkpGgc4KVm9za9m8j_BFnKpsNtAmhGV2sA2_6EHcpwDGuqI3HS4BWx-YB37iSF6Qm0tsKFJKvRVA1jhNL0wtdtBFnqHSMW9B27KLMW8G4mbgz8W7q9ny95eDpzfBkm2Ta-I1atTyvOk4PpsFQaAKXmY46uRfp8RMfrOLRD5ZTefaGZr5td1FCKXVUW-RZAn4DSat3HaVcT3qV3nW-LOgci1YUTYHyv3mJl7FIlcpuKbtCz0zHBIyO_ULYm0tqYe01wSYfk6CyRxS8SvLzHbea23hRuBSMAh_vuzhGZENI6Mcq2NEQyS9N3qZHIOSHwR0-evYrIZXvJq7B947xa6e2nqDHXezY6lgj5Lx-_P27Z9CkVTgIUhG2-hobJHypTOkrvKCW726W_ZbvhYVUC3VjWRttJcDYEJli_EbKoxy0b7vHabzb7EuXFfnFLCjiJ5IxZ9CDXfsoJ6N4UwmL077BJm8KkXwhKa02zI-k2RaCiVHWvO5c_j9btvw=w1056-h1320-no?authuser=0)](https://photos.app.goo.gl/AHt7nWdJT5S963Pz5)
+
+<figcaption>
+
+2020-06-03 - SpeedGraphic - Fomapan100 - HC-110
+
+</figcaption>
+
+</figure>

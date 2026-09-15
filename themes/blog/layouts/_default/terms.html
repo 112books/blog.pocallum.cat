@@ -1,0 +1,19 @@
+{{ define "main" }}
+<header class="page-header">
+  <div class="container">
+    <p class="page-eyebrow">{{ if eq .Data.Singular "category" }}Taxonomia{{ else }}Etiquetes{{ end }}</p>
+    <h1 class="page-title">{{ if eq .Data.Singular "category" }}Càmeres i òptiques{{ else }}Etiquetes{{ end }}</h1>
+    <p class="page-intro">{{ if eq .Data.Singular "category" }}El cor d'aquest blog: cada càmera i cada òptica hi tenen la seva pàgina. Cliqueu per veure els posts amb què he treballat amb cada equip.{{ else }}Núvol d'etiquetes: temes, tècniques i conceptes dels 2.353 posts.{{ end }}</p>
+  </div>
+</header>
+<div class="blog-layout container">
+  <div class="terms-grid">
+    {{ range .Data.Terms.Alphabetical }}
+    <a class="term" href="{{ .Page.RelPermalink }}">
+      <span class="term__name">{{ .Page.Title }}</span>
+      <span class="term__count">{{ .Count }}</span>
+    </a>
+    {{ end }}
+  </div>
+</div>
+{{ end }}

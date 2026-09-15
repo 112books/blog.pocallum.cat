@@ -1,0 +1,19 @@
+---
+title: "2023-02-23 - Presentació Llibre \"50 anys fent barri\""
+date: 2023-02-23
+slug: "2023-02-23-presentcio-llibre-50-anys-fent-barri"
+categories: 
+  - "fuji-x-pro1"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2023/02/DSF6165.jpg
+image: https://lh3.googleusercontent.com/lg26lJDx-5F9uqb-Rt4Za4oEHmLb8ieanHEO77nJ5nslju6Am3N-1Fp0L9CQSs7Vbf0FA0f3RGpWup1xCmbSLp7GJK5SovEHRExCH0afmQ3VK-SAm2RthG1rBXgidlZSFtsXA_AhRjEEiKuZSkt8lOxlVasxrpQUav44-RqkTKMGmYTtW_aLriaUiCfN9vHB4OBpi3N0ud7-D8GFCBZvbgN1Sj6kIc910GUt-FfvAJin8xDgDFIXNVjFJEruQjrtR4DlNZYIYZsYL7Z07M3Kj-MeISnAxhMIJqtHmRlQUpUqgCMtJlw6OUAJU2g8CV7xcIcTVXwVZCF3Zd7LTbQI1ionAx7AsZ07m4149eEhcWXdw7giUaaIsqhbHnjNaz1_7n1FPqS9WDQ5wDaBOu_azSiVTBLTzlRCqr0-wOi68HPoW6qZnH9UxlRpqyQP-N-fyR5aYGB6-F7v4f_k70bq73zNDrGYvzgTZzp3keOi0bZB8_MjuT5lXsqjQlIzs_rFK8R5xZwPVpFzDpOkBR-oUEkiaH2DKGD8oTMOZDP5OEocBIl-WPEOQd0bQ70Cc2vTm1IB9KDRsVKNzzvp8CAB7QJ6IRlrp2HXCQHdydz5ns_iOr6aMAispM3gqRUuqhPv5xUEVmDhBbcz9VH3XXxGUTGlSA4O6QWZKiOPryuyrYrNW-8GDs2eGMrpiqv96mmHGrYPFerBcA3IkeGD7WZ7rnvTLIz3L-h5GvyyawT6_WIrkpELg9PwqRRzWBFdt1PovFLwCyK-qPmSnnX4ouvbt2SD7wIyWY-a_RnQ-xX5dOMscDZjZiDrCbITSWo2lDCiALdU7umhXm3o6vRVfb2M05cu432ylXEaxmfxF6LeAKMS9Yahvpc24q12ORZcK3WbAZZtHC2p0LCXOxBEec80rjiI7Op432ObYAk2Dj9jbzcwQg=w1760-h1174-s-no?authuser=0
+---
+
+[![](https://lh3.googleusercontent.com/lg26lJDx-5F9uqb-Rt4Za4oEHmLb8ieanHEO77nJ5nslju6Am3N-1Fp0L9CQSs7Vbf0FA0f3RGpWup1xCmbSLp7GJK5SovEHRExCH0afmQ3VK-SAm2RthG1rBXgidlZSFtsXA_AhRjEEiKuZSkt8lOxlVasxrpQUav44-RqkTKMGmYTtW_aLriaUiCfN9vHB4OBpi3N0ud7-D8GFCBZvbgN1Sj6kIc910GUt-FfvAJin8xDgDFIXNVjFJEruQjrtR4DlNZYIYZsYL7Z07M3Kj-MeISnAxhMIJqtHmRlQUpUqgCMtJlw6OUAJU2g8CV7xcIcTVXwVZCF3Zd7LTbQI1ionAx7AsZ07m4149eEhcWXdw7giUaaIsqhbHnjNaz1_7n1FPqS9WDQ5wDaBOu_azSiVTBLTzlRCqr0-wOi68HPoW6qZnH9UxlRpqyQP-N-fyR5aYGB6-F7v4f_k70bq73zNDrGYvzgTZzp3keOi0bZB8_MjuT5lXsqjQlIzs_rFK8R5xZwPVpFzDpOkBR-oUEkiaH2DKGD8oTMOZDP5OEocBIl-WPEOQd0bQ70Cc2vTm1IB9KDRsVKNzzvp8CAB7QJ6IRlrp2HXCQHdydz5ns_iOr6aMAispM3gqRUuqhPv5xUEVmDhBbcz9VH3XXxGUTGlSA4O6QWZKiOPryuyrYrNW-8GDs2eGMrpiqv96mmHGrYPFerBcA3IkeGD7WZ7rnvTLIz3L-h5GvyyawT6_WIrkpELg9PwqRRzWBFdt1PovFLwCyK-qPmSnnX4ouvbt2SD7wIyWY-a_RnQ-xX5dOMscDZjZiDrCbITSWo2lDCiALdU7umhXm3o6vRVfb2M05cu432ylXEaxmfxF6LeAKMS9Yahvpc24q12ORZcK3WbAZZtHC2p0LCXOxBEec80rjiI7Op432ObYAk2Dj9jbzcwQg=w1760-h1174-s-no?authuser=0)](https://photos.app.goo.gl/1Jh2w3gsb2VF6urXA)
+
+Presentació del llibre _50 anys fent barri. Cronologia de les lluites veïnals a la Prosperitat. 1972-2022_, d'**Andrés Naya Cabrero**.
+
+Amb la participació de l'autor, **Jaume Fabre** (periodista i historiador), **Albert Recio** (economista i activista veïnal), **Elia Herranz** (presidenta de l'Associació Veïnal de Prosperitat), i **Inma Ayora** (vicepresidenta de l'AV Prosperitat).
+
+Organitza: **comissió de memòria i patrimoni de l'AV Prosperitat**.

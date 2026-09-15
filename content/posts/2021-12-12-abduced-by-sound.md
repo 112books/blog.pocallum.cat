@@ -1,0 +1,23 @@
+---
+title: "2021-12-12 - Abduced by Sound"
+date: 2021-12-13
+slug: "2021-12-12-abduced-by-sound"
+categories: 
+  - "fuji-x-pro1"
+author: "fatmin"
+tags: []
+thumbnail: https://blog.pocallum.cat/wp-content/uploads/2021/12/DSF5700.jpg
+image: https://lh3.googleusercontent.com/vwqDRCdbh2sQ9IkFty-6L9lXmD19upPmCRlJeTXIaNeNSKSitohQhNMoVw6LxCCfg5MyK_78TIJo919FE1YddVusmPmoLfnVskLlGAoiGqS-x3JT-Sg5PmkbzqaOpk2LYj_Niir_2VvOxKq0HPmaqB73Q3YMYl-ycf2qCpH4el-DKqCS4xV55YTki2MuWUYT9XNjUGrpiy5YtPUgfmItWZlSuyAzd1IUTi3VhFyfA9fTdYYUVfYfWiQaa1OxDoQE0UYu6_L26Oyypu0Pu1FTkiqwkKc-j_9oCCSyB-ysiPZS0VcBra22yEPPC9A6MTNJJU62jtR_K-mUA0RkiIhNoyaAoQQ-_kIWSy6E9ZKrTGTQV0SQnEnlpwKCYrovg0_jkZ4TSXpHy7iRaEFMdnFSGadmqsXpNi05RiRg0lGi6cKeqw9PvomjEviKX6Ms74VtmRzwwRNYxDYZTU-zpBmYbvbYakKzdHRyihnjPSV7zRky4dG5UP2wEJorhpRjSAJL1pooWm1ZHxyxrNeEQP197J-zYj3dzLFIYLwVESwkBNAAof9E4geV1aPf0oAdgEWLEMMH4ZdmL9prnUNOvl1s9BnjuIix0xX6qsqqy28REUuitOGRXU8yhuTMkemw0wTmvybyGCybXf7XOUQ1lYpniMpnrwvcwPLv1dyYylFDp8x-aiEKfhV-Min6mJiaRr-aj0U_f3O_HruMKYBIh9GqSkcG=w1406-h938-no?authuser=0
+---
+
+<figure>
+
+[![](https://lh3.googleusercontent.com/vwqDRCdbh2sQ9IkFty-6L9lXmD19upPmCRlJeTXIaNeNSKSitohQhNMoVw6LxCCfg5MyK_78TIJo919FE1YddVusmPmoLfnVskLlGAoiGqS-x3JT-Sg5PmkbzqaOpk2LYj_Niir_2VvOxKq0HPmaqB73Q3YMYl-ycf2qCpH4el-DKqCS4xV55YTki2MuWUYT9XNjUGrpiy5YtPUgfmItWZlSuyAzd1IUTi3VhFyfA9fTdYYUVfYfWiQaa1OxDoQE0UYu6_L26Oyypu0Pu1FTkiqwkKc-j_9oCCSyB-ysiPZS0VcBra22yEPPC9A6MTNJJU62jtR_K-mUA0RkiIhNoyaAoQQ-_kIWSy6E9ZKrTGTQV0SQnEnlpwKCYrovg0_jkZ4TSXpHy7iRaEFMdnFSGadmqsXpNi05RiRg0lGi6cKeqw9PvomjEviKX6Ms74VtmRzwwRNYxDYZTU-zpBmYbvbYakKzdHRyihnjPSV7zRky4dG5UP2wEJorhpRjSAJL1pooWm1ZHxyxrNeEQP197J-zYj3dzLFIYLwVESwkBNAAof9E4geV1aPf0oAdgEWLEMMH4ZdmL9prnUNOvl1s9BnjuIix0xX6qsqqy28REUuitOGRXU8yhuTMkemw0wTmvybyGCybXf7XOUQ1lYpniMpnrwvcwPLv1dyYylFDp8x-aiEKfhV-Min6mJiaRr-aj0U_f3O_HruMKYBIh9GqSkcG=w1406-h938-no?authuser=0)](https://photos.app.goo.gl/Tnc3YiWVgCoKD8cq5)
+
+<figcaption>
+
+FUJIFILM X-Pro1
+
+</figcaption>
+
+</figure>
