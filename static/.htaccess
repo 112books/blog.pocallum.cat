@@ -1,1 +1,20 @@
 ErrorDocument 404 /404.html
+
+# ── HTTP → HTTPS (301 permanent) ────────────────────────────────────────────
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteCond %{HTTPS} off
+  RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
+</IfModule>
+
+# ── Headers de seguretat ────────────────────────────────────────────────────
+<IfModule mod_headers.c>
+  # HSTS: només quan la connexió ja és HTTPS (evita contingut sense xifrar)
+  Header always set Strict-Transport-Security "max-age=31536000" env=HTTPS
+  # Evita sniffing del tipus MIME
+  Header always set X-Content-Type-Options "nosniff"
+  # No enquadra el lloc en iframes d'altres dominis
+  Header always set X-Frame-Options "DENY"
+  # Referrer mínim a tercers
+  Header always set Referrer-Policy "strict-origin-when-cross-origin"
+</IfModule>
