@@ -1,15 +1,13 @@
 {{ define "main" }}
-<header class="page-header page-header--hero">
-  <div class="page-header-bg" aria-hidden="true" style="background-image:url('{{ "images/joan-blog.jpg" | relURL }}')"></div>
-  <div class="container--narrow page-header-inner">
-    <p class="page-eyebrow">Contacte</p>
-    <h1 class="page-title">{{ .Title }}</h1>
-    <p class="page-intro">Vols dir-me alguna cosa? Endavant.</p>
-  </div>
-</header>
+<div class="contact-fullpage" style="background-image:url('https://blog.pocallum.cat/wp-content/uploads/2025/09/2025-09-16-LC-A-Foma400-Varies-0007-1536x942.jpg')">
+  <div class="contact-fullpage-overlay" aria-hidden="true"></div>
 
-<div class="contact-page">
-  <div class="contact-wrap container--narrow">
+  <div class="contact-fullpage-content container--narrow">
+    <header class="contact-fullpage-header">
+      <p class="page-eyebrow">Contacte</p>
+      <h1 class="page-title">{{ .Title }}</h1>
+      <p class="page-intro">Vols dir-me alguna cosa? Endavant.</p>
+    </header>
 
     <div class="contact-options">
       <div class="contact-option">
@@ -33,7 +31,6 @@
         {{ with .Site.Params.facebook }}<a href="{{ . }}" target="_blank" rel="noopener noreferrer" class="contact-also-link">Facebook</a>{{ end }}
       </div>
     </div>
-
   </div>
 </div>
 {{ end }}

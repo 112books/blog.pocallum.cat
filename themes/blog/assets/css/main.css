@@ -263,31 +263,6 @@ h1, h2, h3, h4 {
   padding: var(--space-16) 0 var(--space-12);
   border-bottom: 1px solid var(--line);
 }
-.page-header--hero {
-  position: relative;
-  padding: var(--space-24) 0 var(--space-20);
-  border-bottom: none;
-  overflow: hidden;
-}
-.page-header-bg {
-  position: absolute;
-  inset: 0;
-  background-size: cover;
-  background-position: center 30%;
-  background-repeat: no-repeat;
-  opacity: 0.35;
-}
-.page-header--hero::after {
-  content: '';
-  position: absolute;
-  inset: 0;
-  background: linear-gradient(to bottom, rgba(8,8,8,0.5) 0%, rgba(8,8,8,0.85) 100%);
-  pointer-events: none;
-}
-.page-header-inner {
-  position: relative;
-  z-index: 1;
-}
 .page-eyebrow {
   font-family: var(--f-mono);
   font-size: 0.78rem;
@@ -1390,10 +1365,29 @@ h1, h2, h3, h4 {
 }
 
 /* ── Pàgina de contacte ─────────────────────────────────────────────────────── */
-.contact-page { padding-bottom: var(--space-24); }
-.contact-wrap {
-  padding-inline: var(--space-8);
-  padding-top: var(--space-12);
+.contact-fullpage {
+  position: relative;
+  min-height: calc(100vh - var(--nav-h));
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  display: flex;
+  align-items: center;
+}
+.contact-fullpage-overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(8,8,8,0.72);
+  pointer-events: none;
+}
+.contact-fullpage-content {
+  position: relative;
+  z-index: 1;
+  padding: var(--space-20) var(--space-8);
+  width: 100%;
+}
+.contact-fullpage-header {
+  margin-bottom: var(--space-14);
 }
 .contact-options {
   display: flex;
@@ -1424,7 +1418,7 @@ h1, h2, h3, h4 {
 .contact-also {
   margin-top: var(--space-12);
   padding-top: var(--space-8);
-  border-top: 1px solid var(--line);
+  border-top: 1px solid rgba(255,255,255,0.12);
   max-width: 42rem;
 }
 .contact-also-label {
