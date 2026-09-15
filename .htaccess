@@ -16,8 +16,10 @@ ErrorDocument 404 /404.html
   # Feed de comentaris del WP → feed principal
   RewriteRule ^comments/feed/?$ /feed.xml [R=301,L]
 
-  # Cas especial: horsman-8x10″ (nicename WP amb ″ U+2033) → Hugo l'aplana
-  RewriteRule ^category/camara/horsman-8x10(%E2%80%B3)?/?$ /category/horsman-8x10/ [R=301,L,NC]
+  # Cas especial: horsman-8x10″ (nicename WP amb ″ U+2033) → Hugo l'aplana.
+  # NOTA: mod_rewrite en context .htaccess contrasta el path DESCODIFICAT
+  # (caràcter ″ literal), no el percent-encoded — per això el patró porta el ″.
+  RewriteRule ^category/camara/horsman-8x10″/?$ /category/horsman-8x10/ [R=301,L]
 
   # Categories jeràrquiques del WP → aplanades (301)
   RewriteRule ^category/(camara|optioca|publicacions)/([^/]+)/?$ /category/$2/ [R=301,L]
