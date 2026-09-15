@@ -42,11 +42,12 @@ jobs:
           chmod 600 ~/.ssh/id_ed25519
           ssh-keyscan -H "$REMOTE_HOST" >> ~/.ssh/known_hosts 2>/dev/null
 
-          # Rsync: substitueix tot el contingut excepte wp-content/ (imatges WordPress)
-          # i .well-known/ (ACME/SSL). Evita avisos de permisos que causarien exit 23.
-          rsync -avz --delete \
+          # Rsync: substitueix tot el contingut excepte wp-content/ i .well-known/.
+          # --no-perms: no pot canviar permisos del docroot arrel (usuari SSH amb permisos restringits).
+          # Sense això, rsync surt amb exit 23 cada cop que intenta posar permisos al directori arrel.
+          rsync -rlzv --delete \
             --exclude='wp-content/' \
             --exclude='.well-known/' \
-            --omit-dir-times \
+            --no-perms \
             public/ \
             "${REMOTE_USER}@${REMOTE_HOST}:${REMOTE_PATH}/"
