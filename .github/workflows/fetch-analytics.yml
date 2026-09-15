@@ -2,7 +2,8 @@ name: Fetch GoatCounter Analytics
 
 on:
   schedule:
-    - cron: '0 * * * *'
+    # Fora de la punta d'hora: GitHub retarda o descarta els crons a ':00'
+    - cron: '17 * * * *'
   workflow_dispatch:
 
 jobs:
@@ -46,7 +47,40 @@ jobs:
             fi
           }
 
-          fetch_json "${BASE}/stats/hits?start=${START}&end=${END}&limit=100"     > /tmp/hits.json
+          # /stats/hits amb PAGINACIÓ (exclude_paths per path_id, comes).
+          # Sense això només arribem al top-100 paths del període i les
+          # visites de la cua (pex. un post vist un cop avui) queden fora
+          # de hits_by_day — el dashboard mostraria dies buits.
+          export GC_BASE="${BASE}" GC_TOKEN="${GC_TOKEN}" GC_START="${START}" GC_END="${END}"
+          python3 - << 'PYEOF' > /tmp/hits.json
+import json, os, time, urllib.request
+
+base  = os.environ["GC_BASE"]
+token = os.environ["GC_TOKEN"]
+
+def fetch(exclude):
+    url = "%s?start=%s&end=%s&limit=100" % (base, os.environ["GC_START"], os.environ["GC_END"])
+    if exclude:
+        url += "&exclude_paths=" + ",".join(str(i) for i in exclude)
+    req = urllib.request.Request(url, headers={"Authorization": "Bearer " + token})
+    with urllib.request.urlopen(req, timeout=20) as r:
+        return json.load(r)
+
+all_hits, exclude, pages = [], [], 0
+while True:
+    pages += 1
+    data   = fetch(exclude)
+    hits   = data.get("hits") or []
+    all_hits.extend(hits)
+    exclude.extend(h["path_id"] for h in hits if "path_id" in h)
+    if not data.get("more") or not hits or pages >= 20:
+        break
+    time.sleep(0.3)  # rate limit: 4 req/s
+
+print(json.dumps({"hits": all_hits, "more": False}))
+import sys
+print("paginacio: %d pagines, %d paths" % (pages, len(all_hits)), file=sys.stderr)
+PYEOF
           fetch_json "${BASE}/stats/total?start=${START}&end=${END}"              > /tmp/total.json
           fetch_json "${BASE}/stats/browsers?start=${START}&end=${END}&limit=10"  > /tmp/browsers.json
           fetch_json "${BASE}/stats/systems?start=${START}&end=${END}&limit=10"   > /tmp/systems.json
