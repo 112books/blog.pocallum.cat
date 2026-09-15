@@ -67,7 +67,19 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Commit a main
           git add static/stats/analytics.json
           git diff --staged --quiet || git commit -m "chore: update analytics [skip ci]"
           git pull --rebase
           git push
+
+          # Sincronitza analytics.json a develop perquè l'staging també tingui dades
+          cp static/stats/analytics.json /tmp/analytics_fresh.json
+          git fetch origin develop
+          git checkout -b _analytics-sync origin/develop
+          cp /tmp/analytics_fresh.json static/stats/analytics.json
+          git add static/stats/analytics.json
+          git diff --staged --quiet || git commit -m "chore: update analytics staging [skip ci]"
+          git push origin _analytics-sync:develop
+          git checkout main
