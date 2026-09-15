@@ -192,10 +192,12 @@ Script `migration/post-processa.py` (executat 2026-09-14, segona execució compl
 1. ✅ **Exportació** — XML complet de WordPress + còpia de `wp-content/uploads`. **Mesurar mida total d'imatges** (ja fet: 3,4 GB totals; 2,3 GB originals → decisió Dinahosting).
 2. ✅ **Scaffolding** — `hugo new site`, `hugo.toml` amb permalinks idèntics, taxonomies, RSS.
 3. ✅ **Conversió** — XML → Markdown (`wordpress-export-to-markdown` v3.0.5). **2.353 posts (i 10 drafts)** a `content/posts/` amb `tags`, `thumbnail`, `image` i Vimeo resos; pàgines fixes migrades. Materials i script a `migration/` (gitignored).
-4. ⏳ **Tema** — llistat cronològic, single, arxiu mensual, càmeres/taxonomies, cerca Pagefind, RSS, comentaris estàtics + giscus.
-5. ⏳ **Pàgines fixes** — About, Avís Legal, Contacte, Cerca, legal.
-6. ⏳ **QA** — comparativa d'URLs 1:1 WordPress vs Hugo.
-7. ⏳ **Deploy** — pujar el `public/` del Hugo al docroot de Dinahosting (`~/www/blog/`), substituint el WordPress però **mantenint `wp-content/uploads`** (les imatges no es mouen). Staging via GitHub Pages (branca `develop`). **Ordre obligatori (lliçó apresa del pare):** pujar HTML + verificar el build *abans* de fer cap canvi de DNS o apagar el WordPress. Apagat en dues passes (freeze + backup).
+4. ✅ **Tema** — llistat cronològic (portada hero + galeria 8 posts), single amb tira Netflix, arxiu mensual, taxonomies/categories, cerca Pagefind, pàgines fixes (about/contacte/cerca) amb fons hero. Stats animats portada. Lightbox, mosaic. RSS, comentaris estàtics.
+5. ✅ **Pàgines fixes** — About, Contacte, Cerca implementades. Avís Legal, Privacitat i Cookies: frontmatter creat, contingut legal pendent.
+6. ✅ **QA parcial** — `scripts/qa-urls.py` executat 2026-09-15: 2.360 URLs; 9 Hugo 404 per interpunt `·` (tots corregits amb `url:` explícit); 1.855 WP 503 per rate limiting (no errors reals). **Pendent: re-executar amb menys workers per confirmar WP 200 a tots els posts.**
+7. ⏳ **SEO** — partial SEO + meta descriptions + OG + JSON-LD. Vegeu § Pla SEO.
+8. ⏳ **CMS** — Sveltia CMS per publicació remota. Vegeu § Pla CMS.
+9. ⏳ **Deploy** — pujar el `public/` del Hugo al docroot de Dinahosting (`~/www/blog/`), substituint el WordPress però **mantenint `wp-content/uploads`** (les imatges no es mouen). Staging via GitHub Pages (branca `develop`). **Ordre obligatori (lliçó apresa del pare):** pujar HTML + verificar el build *abans* de fer cap canvi de DNS o apagar el WordPress. Apagat en dues passes (freeze + backup).
 
 ---
 
@@ -209,9 +211,77 @@ Replicar el dashboard del pare: `static/admin/index.html` autocontingut (estèti
 
 ---
 
-## Segona fase (post-migració)
+## Pla SEO (pròxima sessió)
 
-- **CMS de publicació remota** — objectiu: poder publicar posts mentre es viatja, sense necessitat de l'ordinador amb el repo. Candidats: Decap CMS o Sveltia CMS (backend git sobre GitHub, compatible amb GitHub Pages). A decidir i implementar quan la migració estigui en producció. **Nota del client:** com que es treballa en local, valorar CMS més flexible i segur que les opcions de GitHub — decidir després de completar la migració.
+Substitueix Yoast Free. Tot implementat a Hugo, sense plugins ni serveis externs.
+
+### Què cal fer
+
+**Pas 1 — Partial SEO** (`themes/blog/layouts/partials/seo.html`):
+- `<meta name="description">` des del camp `description:` del frontmatter (o auto-truncat del contingut si buit)
+- `<meta name="robots">` (respecta `draft: true` i `noindex: true`)
+- Open Graph: `og:title`, `og:description`, `og:image` (usa `thumbnail:`), `og:type` (article/website)
+- Twitter Cards: `twitter:card`, `twitter:image`, `twitter:description`
+- Canonical URL (Hugo ja la genera, però centralitzar al partial)
+- Incluir a `baseof.html` en lloc dels `_internal/` de Hugo
+
+**Pas 2 — JSON-LD BlogPosting** (al `single.html`):
+- `@type: BlogPosting`, `headline`, `datePublished`, `dateModified`, `image`, `author`, `url`
+- Molt valorat per Google per a contingut fotogràfic/cultural
+
+**Pas 3 — Meta descriptions del llegat** (script `migration/extreu-yoast.py`):
+- Extreure `_yoast_wpseo_metadesc` i `_yoast_wpseo_title` del `migration/export.xml`
+- Injectar com a `description:` al frontmatter de cada post que en tingui
+- Estimació: X posts amb meta description de Yoast (a verificar al XML)
+
+**Pas 4 — Arquetip** (`archetypes/posts.md`):
+- Plantilla amb tots els camps: `title`, `date`, `description` (buit, amb comentari 155 car.), `categories`, `tags`, `thumbnail`
+
+### Camp `description:` als posts nous
+
+Format frontmatter:
+```yaml
+description: "Breu descripció per a Google, màx. 155 caràcters, en català."
+```
+Si buit, Hugo usarà el `.Summary` (primers 70 paraules). Funciona però no és òptim.
+
+---
+
+## Pla CMS — Sveltia CMS (pròxima sessió)
+
+Objectiu: publicar posts des de qualsevol dispositiu (mòbil inclòs) sense accedir al repositori local.
+
+### Arquitectura
+
+- **Backend:** GitHub (repo `112books/blog.pocallum.cat`, branca `develop`)
+- **Frontend admin:** `static/admin/index.html` + `static/admin/config.yml`
+- **URL admin:** `https://blog.pocallum.cat/admin/` (o staging: `https://112books.github.io/blog.pocallum.cat/admin/`)
+- **Autenticació:** GitHub OAuth (requereix compte GitHub — acceptable per a ús personal)
+- **Deploy automàtic:** el push de Sveltia dispara el workflow de GitHub Actions existent
+
+### Per implementar
+
+1. Crear `static/admin/index.html` (carrega Sveltia des de CDN)
+2. Crear `static/admin/config.yml` amb:
+   - Backend GitHub
+   - Media folder: `static/uploads/`
+   - Collections: `posts` amb tots els camps (title, date, slug, description, categories, tags, thumbnail, draft)
+   - Camps SEO amb ajuda: description amb `hint: "Màx. 155 caràcters"` i comptador
+3. Afegir OAuth App a GitHub (Settings → Developer settings → OAuth Apps)
+4. Testejar al staging
+
+### Acció GitHub per auto-generar meta descriptions
+
+Workflow `auto-seo.yml` (opcional, activable per `workflow_dispatch` o push):
+1. Detecta posts nous/modificats sense `description:` al frontmatter
+2. Crida Claude API (`claude-haiku-4-5`, el més econòmic) amb: títol + categories + tags + primers 300 caràcters
+3. Prompt: *"Genera una meta description en català de 130-155 caràcters per a aquest post d'un blog de fotografia. Estil directe, sense màrqueting."*
+4. Insereix la `description:` al frontmatter i fa commit
+- Cost estimat llegat complet (2.353 posts): ~0,20-0,30 €
+
+---
+
+## Segona fase (post-migració)
 
 ---
 
