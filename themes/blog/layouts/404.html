@@ -1,8 +1,62 @@
-{{ define "main" }}
-<div class="e404-main">
-  <p class="e404-code">404</p>
-  <h1 class="e404-title">Aquesta foto no s'ha fet.</h1>
-  <p class="e404-desc">La pàgina que busques no existeix o s'ha mogut. Torna a l'inici o fes una cerca.</p>
-  <a class="btn" href="{{ .Site.Home.RelPermalink }}">Tornar a l'inici</a>
-</div>
-{{ end }}
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="referrer" content="strict-origin-when-cross-origin">
+  <meta name="robots" content="noindex">
+  <title>404 — {{ .Site.Title }}</title>
+  <link rel="icon" href="{{ "images/logo.svg" | relURL }}" type="image/svg+xml">
+  {{ $css := resources.Get "css/main.css" | minify | fingerprint }}
+  <link rel="stylesheet" href="{{ $css.RelPermalink }}">
+  {{ with .Site.Params.goatcounterSite }}
+  <script data-goatcounter="https://{{ . }}.goatcounter.com/count" async src="//gc.zgo.at/count.js" crossorigin="anonymous"></script>
+  {{ end }}
+</head>
+<body class="e404-body">
+
+  <div class="e404-bg" aria-hidden="true"
+       style="background-image: url('{{ "images/404.jpg" | relURL }}')"></div>
+  <div class="e404-overlay" aria-hidden="true"></div>
+
+  <main class="e404-main" id="main-content">
+    <a href="{{ .Site.Home.RelPermalink }}" class="e404-logo" aria-label="{{ .Site.Title }}">
+      blog<span class="e404-logo-dot">.</span>pocallum<span class="e404-logo-dot">.</span>cat
+    </a>
+
+    <div class="e404-content">
+      <p class="e404-code" aria-hidden="true">404</p>
+      <h1 class="e404-title">Aquesta foto no s'ha fet.</h1>
+      <p class="e404-desc">La pàgina que busques no existeix o s'ha mogut. El rodet s'ha cremat amb ella, però el blog encara és aquí.</p>
+      <a href="{{ .Site.Home.RelPermalink }}" class="e404-cta">Tornar a l'inici →</a>
+    </div>
+
+    {{/* Cròniques recents */}}
+    {{ $recent := where .Site.RegularPages "Type" "posts" | first 3 }}
+    {{ if $recent }}
+    <div class="e404-suggest">
+      <p class="e404-suggest__label">Potser t'interessa</p>
+      <div class="e404-suggest__grid">
+        {{ range $recent }}
+        <a href="{{ .RelPermalink }}" class="e404-fest">
+          {{ with .Params.thumbnail }}
+          <div class="e404-fest__img">
+            {{ partial "img.html" (dict "src" . "alt" (printf "%s" $.Site.Title) "class" "" "loading" "lazy" "variant" "thumb" "decoding" "async") }}
+          </div>
+          {{ end }}
+          <div class="e404-fest__body">
+            {{ with .Params.categories }}
+            <span class="e404-fest__disc">{{ index . 0 }}</span>
+            {{ end }}
+            <strong class="e404-fest__name">{{ .Title }}</strong>
+            <span class="e404-fest__lloc">{{ dateFormat "2.1.2006" .Date }}</span>
+          </div>
+        </a>
+        {{ end }}
+      </div>
+    </div>
+    {{ end }}
+  </main>
+
+</body>
+</html>

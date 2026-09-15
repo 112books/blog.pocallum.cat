@@ -43,7 +43,10 @@ jobs:
           ssh-keyscan -H "$REMOTE_HOST" >> ~/.ssh/known_hosts 2>/dev/null
 
           # Rsync: substitueix tot el contingut excepte wp-content/ (imatges WordPress)
+          # i .well-known/ (ACME/SSL). Evita avisos de permisos que causarien exit 23.
           rsync -avz --delete \
             --exclude='wp-content/' \
+            --exclude='.well-known/' \
+            --omit-dir-times \
             public/ \
             "${REMOTE_USER}@${REMOTE_HOST}:${REMOTE_PATH}/"
