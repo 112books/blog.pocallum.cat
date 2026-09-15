@@ -1,11 +1,11 @@
 ErrorDocument 404 /404.html
 
-# ── HTTP → HTTPS (301 permanent) ────────────────────────────────────────────
-<IfModule mod_rewrite.c>
-  RewriteEngine On
-  RewriteCond %{HTTPS} off
-  RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
-</IfModule>
+# ── HTTP → HTTPS ────────────────────────────────────────────────────────────
+# NOTA: el redirect s'ha de configurar al panell de Dinahosting
+# (o demanar a l'equip que activi "Forçar HTTPS"). Dinahosting usa proxy
+# frontal que no envia X-Forwarded-Proto a Apache, així que el
+# RewriteCond %{HTTPS} off bucle (proxy → Apache → redirect → proxy → ...).
+# El site ja funciona a HTTPS; això només falta la redirecció automàtica.
 
 # ── Headers de seguretat ────────────────────────────────────────────────────
 <IfModule mod_headers.c>
