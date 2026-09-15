@@ -4,7 +4,7 @@ date: 2011-02-19
 slug: "per-fi-la-tv-publica-es-recorda-dels-musics-d"
 tags:
   - "augusttharrats"
-  - "lluscoloma"
+  - "lluiscoloma"
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2011/02/jazz-scaled1000.png
 image: https://blog.pocallum.cat/wp-content/uploads/2013/02/jazz-scaled1000.png?w=300

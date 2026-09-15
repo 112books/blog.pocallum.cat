@@ -11,7 +11,7 @@ tags:
   - "chinoampthebigbet"
   - "coliseum"
   - "festivadejazzdebarcleona"
-  - "lluscoloma"
+  - "lluiscoloma"
   - "thesuitcasebrothers"
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2011/11/IMG_1258.jpg
