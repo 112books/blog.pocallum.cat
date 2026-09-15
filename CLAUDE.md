@@ -195,8 +195,8 @@ Script `migration/post-processa.py` (executat 2026-09-14, segona execució compl
 4. ✅ **Tema** — llistat cronològic (portada hero + galeria 8 posts), single amb tira Netflix, arxiu mensual, taxonomies/categories, cerca Pagefind, pàgines fixes (about/contacte/cerca) amb fons hero. Stats animats portada. Lightbox, mosaic. RSS, comentaris estàtics.
 5. ✅ **Pàgines fixes** — About, Contacte, Cerca implementades. Avís Legal, Privacitat i Cookies: frontmatter creat, contingut legal pendent.
 6. ✅ **QA parcial** — `scripts/qa-urls.py` executat 2026-09-15: 2.360 URLs; 9 Hugo 404 per interpunt `·` (tots corregits amb `url:` explícit); 1.855 WP 503 per rate limiting (no errors reals). **Pendent: re-executar amb menys workers per confirmar WP 200 a tots els posts.**
-7. ⏳ **SEO** — partial SEO + meta descriptions + OG + JSON-LD. Vegeu § Pla SEO.
-8. ⏳ **CMS** — Sveltia CMS per publicació remota. Vegeu § Pla CMS.
+7. ✅ **SEO** — partial `seo.html` centralitzat (robots, description truncada 155, OG, Twitter, JSON-LD dict+safeJS). Meta descriptions Yoast injectades (271 posts). Title-seo injectat (130 posts). Verificat amb json.loads a tots els posts. Commit `9ec8e8258`.
+8. ⏳ **CMS** — Sveltia CMS per publicació remota (single user). Vegeu § Pla CMS.
 9. ⏳ **Deploy** — pujar el `public/` del Hugo al docroot de Dinahosting (`~/www/blog/`), substituint el WordPress però **mantenint `wp-content/uploads`** (les imatges no es mouen). Staging via GitHub Pages (branca `develop`). **Ordre obligatori (lliçó apresa del pare):** pujar HTML + verificar el build *abans* de fer cap canvi de DNS o apagar el WordPress. Apagat en dues passes (freeze + backup).
 
 ---
@@ -247,37 +247,69 @@ Si buit, Hugo usarà el `.Summary` (primers 70 paraules). Funciona però no és 
 
 ---
 
-## Pla CMS — Sveltia CMS (pròxima sessió)
+## Pla CMS — Sveltia CMS (single user)
 
 Objectiu: publicar posts des de qualsevol dispositiu (mòbil inclòs) sense accedir al repositori local.
 
 ### Arquitectura
 
 - **Backend:** GitHub (repo `112books/blog.pocallum.cat`, branca `develop`)
-- **Frontend admin:** `static/admin/index.html` + `static/admin/config.yml`
-- **URL admin:** `https://blog.pocallum.cat/admin/` (o staging: `https://112books.github.io/blog.pocallum.cat/admin/`)
-- **Autenticació:** GitHub OAuth (requereix compte GitHub — acceptable per a ús personal)
-- **Deploy automàtic:** el push de Sveltia dispara el workflow de GitHub Actions existent
+- **Frontend admin:** `static/admin/index.html` + `static/admin/config.yml` (**ja creats**)
+- **URL admin (staging):** `https://112books.github.io/blog.pocallum.cat/admin/`
+- **URL admin (producció):** `https://blog.pocallum.cat/admin/` (un cop desplegat a Dinahosting)
+- **Autenticació:** GitHub OAuth (usuari únic — un sol compte GitHub)
+- **Deploy:** automàtic a staging (GitHub Pages) + automàtic a Dinahosting (rsync) en cada push a `develop`
+- **Media uploads:** `static/media/` (commitat al repo; NO confondre amb `static/uploads/` que és gitignored per al development local)
 
-### Per implementar
+### Flux d'usuari (single user)
 
-1. Crear `static/admin/index.html` (carrega Sveltia des de CDN)
-2. Crear `static/admin/config.yml` amb:
-   - Backend GitHub
-   - Media folder: `static/uploads/`
-   - Collections: `posts` amb tots els camps (title, date, slug, description, categories, tags, thumbnail, draft)
-   - Camps SEO amb ajuda: description amb `hint: "Màx. 155 caràcters"` i comptador
-3. Afegir OAuth App a GitHub (Settings → Developer settings → OAuth Apps)
-4. Testejar al staging
+1. Publica des del CMS (mòbil o desktop) → push a `develop`
+2. GitHub Actions build + deploy automàtic a **staging** (GitHub Pages) i **producció** (Dinahosting)
+3. El post és visible tant a staging com a producció de seguida
 
-### Acció GitHub per auto-generar meta descriptions
+### Secrets de GitHub Actions (pendent de configurar)
 
-Workflow `auto-seo.yml` (opcional, activable per `workflow_dispatch` o push):
-1. Detecta posts nous/modificats sense `description:` al frontmatter
-2. Crida Claude API (`claude-haiku-4-5`, el més econòmic) amb: títol + categories + tags + primers 300 caràcters
-3. Prompt: *"Genera una meta description en català de 130-155 caràcters per a aquest post d'un blog de fotografia. Estil directe, sense màrqueting."*
-4. Insereix la `description:` al frontmatter i fa commit
-- Cost estimat llegat complet (2.353 posts): ~0,20-0,30 €
+**Producció (Dinahosting) — 4 secrets:**
+- `SSH_PRIVATE_KEY_DINAHOSTING` — clau SSH privada (ed25519 recomanat)
+- `DINAHOSTING_HOST` — hostname o IP del servidor (`vl28359.dinaserver.com`)
+- `DINAHOSTING_USER` — usuari SSH de Dinahosting
+- `DINAHOSTING_PATH` — ruta del docroot (`~/www/blog` o absoluta)
+
+**GoatCounter — 1 secret (pendent):**
+- `GOATCOUNTER_TOKEN` — token d'API de GoatCounter (per al dashboard d'estadístiques)
+
+### GitHub OAuth App (pendent de crear)
+
+1. Anar a `github.com/settings/developers` → OAuth Apps → New OAuth App
+2. Application name: `blog.pocallum.cat`
+3. Homepage URL: `https://blog.pocallum.cat/`
+4. Authorization callback URL: `https://112books.github.io/blog.pocallum.cat/admin/` (staging) — actualitzar a `https://blog.pocallum.cat/admin/` un cop desplegat a producció
+5. Guardar el **Client ID** i generar un **Client Secret**
+6. Afegir-los al repo: Settings → Secrets → `OAUTH_CLIENT_ID` i `OAUTH_CLIENT_SECRET` (si Sveltia ho requereix; en cas contrari, Sveltia demana el client ID a l'login)
+
+### Configuració del CMS (config.yml)
+
+```yaml
+backend: { name: github, repo: 112books/blog.pocallum.cat, branch: develop }
+media_folder: "static/media"
+public_folder: "/media"
+collections:
+  - name: posts
+    folder: content/posts
+    path: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields: title, date, slug (auto), description, categories, tags,
+            thumbnail, image, draft, noindex, title-seo, body (markdown)
+```
+
+**Slug:** auto-generat des del títol amb neteja de caràcters especials. L'usuari pot sobreescriure'l.
+**Imatges:** pujar-les directament al CMS → van a `static/media/` → commitades automàticament al repo.
+
+### Workflow: deploy-produccio.yml (ja creat)
+
+- Trigger: push a `develop` o `workflow_dispatch`
+- Build Hugo + Pagefind + rsync a Dinahosting
+- **Exclou `wp-content/`** (imatges WordPress intactes)
+- Prem `cancel-in-progress: false` (no cancel·la un deploy en curs)
 
 ---
 

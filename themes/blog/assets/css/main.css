@@ -1386,6 +1386,11 @@ h1, h2, h3, h4 {
   .blog-mosaic { grid-template-columns: repeat(2, 1fr); gap: 2px; border-width: 2px; }
   .post-tile__date { font-size: 0.58rem; }
   .post-tile__title { font-size: 0.72rem; }
+
+  /* Stats amb totes les xifres en una sola línia: números compactats, escalen amb l'amplada */
+  .home-stats  { padding-inline: var(--space-4); gap: var(--space-3) var(--space-4); }
+  .home-stat__num   { font-size: clamp(0.72rem, 4vw, 1rem); letter-spacing: -0.03em; }
+  .home-stat__label { font-size: 0.45rem; letter-spacing: 0.1em; }
 }
 
 /* ── Responsive ────────────────────────────────────────────────────────────── */
