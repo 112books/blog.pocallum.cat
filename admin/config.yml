@@ -1,0 +1,37 @@
+backend:
+  name: github
+  repo: 112books/blog.pocallum.cat
+  branch: develop
+
+# Media folder per a uploads del CMS (NO static/uploads/, que és gitignored per al development local)
+media_folder: "static/media"
+public_folder: "/media"
+
+# Slug automàtic a partir del títol; l'usuari pot sobreescriure'l
+slug:
+  encoding: "unicode"
+  clean_replacements:
+    - /[^a-zA-Z0-9àèéíòóùüçñ·-]/g
+    - /--/g
+
+collections:
+  - name: "posts"
+    label: "Posts"
+    folder: "content/posts"
+    create: true
+    path: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    preview_path: "{{year}}/{{month}}/{{day}}/{{slug}}"
+    fields:
+      - { label: "Títol", name: "title", widget: "string" }
+      - { label: "Data", name: "date", widget: "datetime", format: "YYYY-MM-DDTH:mm:ssZ", date_format: true, time_format: false }
+      - { label: "Slug", name: "slug", widget: "string", required: false, hint: "Opcional — es genera automàticament des del títol" }
+      - { label: "Descripció SEO", name: "description", widget: "string", hint: "Màx. 155 caràcters per a Google", required: false }
+      - { label: "Categories", name: "categories", widget: "list", allow_add: true, hint: "Marca i model de càmera/òptica" }
+      - { label: "Tags", name: "tags", widget: "list", allow_add: true }
+      - { label: "Miniatura", name: "thumbnail", widget: "string", required: false, hint: "URL de la miniatura als llistats" }
+      - { label: "Imatge principal", name: "image", widget: "string", required: false, hint: "URL de la imatge de capçalera del post" }
+      - { label: "Draft", name: "draft", widget: "boolean", default: false }
+      - { label: "No indexar", name: "noindex", widget: "boolean", default: false }
+      - { label: "Títol SEO", name: "title-seo", widget: "string", required: false, hint: "Títol alternatiu per a Google (si diferent del visible)" }
+      - { label: "Autor", name: "author", widget: "hidden", default: "Pocallum" }
+      - { label: "Contingut", name: "body", widget: "markdown" }
