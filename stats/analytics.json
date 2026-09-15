@@ -1,1 +1,800 @@
-{}
+{
+  "generated": "2026-09-15T06:44:07.817413Z",
+  "period": {
+    "start": "2025-09-15",
+    "end": "2026-09-15"
+  },
+  "total": 719,
+  "total_unique": 0,
+  "hits_by_day": [
+    {
+      "date": "2026-07-07",
+      "count": 14
+    },
+    {
+      "date": "2026-07-08",
+      "count": 6
+    },
+    {
+      "date": "2026-07-09",
+      "count": 8
+    },
+    {
+      "date": "2026-07-10",
+      "count": 13
+    },
+    {
+      "date": "2026-07-11",
+      "count": 12
+    },
+    {
+      "date": "2026-07-12",
+      "count": 49
+    },
+    {
+      "date": "2026-07-13",
+      "count": 25
+    },
+    {
+      "date": "2026-07-14",
+      "count": 13
+    },
+    {
+      "date": "2026-07-15",
+      "count": 11
+    },
+    {
+      "date": "2026-07-16",
+      "count": 3
+    },
+    {
+      "date": "2026-07-17",
+      "count": 4
+    },
+    {
+      "date": "2026-07-18",
+      "count": 5
+    },
+    {
+      "date": "2026-07-19",
+      "count": 2
+    },
+    {
+      "date": "2026-07-20",
+      "count": 5
+    },
+    {
+      "date": "2026-07-21",
+      "count": 12
+    },
+    {
+      "date": "2026-07-22",
+      "count": 5
+    },
+    {
+      "date": "2026-07-23",
+      "count": 4
+    },
+    {
+      "date": "2026-07-24",
+      "count": 1
+    },
+    {
+      "date": "2026-07-25",
+      "count": 1
+    },
+    {
+      "date": "2026-07-26",
+      "count": 13
+    },
+    {
+      "date": "2026-07-27",
+      "count": 30
+    },
+    {
+      "date": "2026-07-28",
+      "count": 5
+    },
+    {
+      "date": "2026-07-29",
+      "count": 2
+    },
+    {
+      "date": "2026-07-30",
+      "count": 7
+    },
+    {
+      "date": "2026-07-31",
+      "count": 10
+    },
+    {
+      "date": "2026-08-01",
+      "count": 5
+    },
+    {
+      "date": "2026-08-02",
+      "count": 5
+    },
+    {
+      "date": "2026-08-03",
+      "count": 3
+    },
+    {
+      "date": "2026-08-04",
+      "count": 5
+    },
+    {
+      "date": "2026-08-05",
+      "count": 1
+    },
+    {
+      "date": "2026-08-06",
+      "count": 7
+    },
+    {
+      "date": "2026-08-07",
+      "count": 3
+    },
+    {
+      "date": "2026-08-08",
+      "count": 2
+    },
+    {
+      "date": "2026-08-09",
+      "count": 19
+    },
+    {
+      "date": "2026-08-10",
+      "count": 8
+    },
+    {
+      "date": "2026-08-11",
+      "count": 13
+    },
+    {
+      "date": "2026-08-12",
+      "count": 3
+    },
+    {
+      "date": "2026-08-13",
+      "count": 109
+    },
+    {
+      "date": "2026-08-14",
+      "count": 48
+    },
+    {
+      "date": "2026-08-15",
+      "count": 28
+    },
+    {
+      "date": "2026-08-16",
+      "count": 13
+    },
+    {
+      "date": "2026-08-17",
+      "count": 18
+    },
+    {
+      "date": "2026-08-18",
+      "count": 1
+    },
+    {
+      "date": "2026-08-19",
+      "count": 20
+    },
+    {
+      "date": "2026-08-20",
+      "count": 12
+    },
+    {
+      "date": "2026-08-21",
+      "count": 2
+    },
+    {
+      "date": "2026-08-22",
+      "count": 2
+    },
+    {
+      "date": "2026-08-23",
+      "count": 2
+    },
+    {
+      "date": "2026-08-24",
+      "count": 1
+    },
+    {
+      "date": "2026-08-25",
+      "count": 8
+    },
+    {
+      "date": "2026-08-27",
+      "count": 1
+    },
+    {
+      "date": "2026-08-28",
+      "count": 7
+    },
+    {
+      "date": "2026-08-30",
+      "count": 3
+    },
+    {
+      "date": "2026-08-31",
+      "count": 2
+    },
+    {
+      "date": "2026-09-01",
+      "count": 14
+    },
+    {
+      "date": "2026-09-02",
+      "count": 3
+    },
+    {
+      "date": "2026-09-03",
+      "count": 5
+    },
+    {
+      "date": "2026-09-04",
+      "count": 9
+    },
+    {
+      "date": "2026-09-05",
+      "count": 5
+    },
+    {
+      "date": "2026-09-06",
+      "count": 6
+    },
+    {
+      "date": "2026-09-07",
+      "count": 14
+    },
+    {
+      "date": "2026-09-08",
+      "count": 13
+    },
+    {
+      "date": "2026-09-09",
+      "count": 9
+    },
+    {
+      "date": "2026-09-10",
+      "count": 13
+    },
+    {
+      "date": "2026-09-11",
+      "count": 9
+    },
+    {
+      "date": "2026-09-12",
+      "count": 1
+    },
+    {
+      "date": "2026-09-13",
+      "count": 2
+    },
+    {
+      "date": "2026-09-14",
+      "count": 5
+    }
+  ],
+  "hits": [
+    {
+      "path": "/",
+      "count": 150
+    },
+    {
+      "path": "/2026/07/11/2026-07-11-prospe-beach-again",
+      "count": 79
+    },
+    {
+      "path": "/2026/07/26/2026-07-25-una-jornada-amb-els-barcelona-gipsy-balkan-orchestra",
+      "count": 39
+    },
+    {
+      "path": "/2026/08/19/2026-08-18-isadora-passos-suspensio-capilar",
+      "count": 27
+    },
+    {
+      "path": "/2026/07/06/2026-07-05-24e-festival-de-blues-de-barcelona-jam-session-de-clausura",
+      "count": 15
+    },
+    {
+      "path": "/cerca",
+      "count": 14
+    },
+    {
+      "path": "/2026/08/19/2026-08-18-despedida-anike-lamoso",
+      "count": 13
+    },
+    {
+      "path": "/2026/07/31/2026-07-30-primeres-proves-per-al-repte-retrats-lents-de-112-revelats",
+      "count": 13
+    },
+    {
+      "path": "/2026/09/07/2026-09-06-festival-masimas-2026-el-parallel-oblidat-recordant-a-merche-mar",
+      "count": 12
+    },
+    {
+      "path": "/aviso-legal",
+      "count": 12
+    },
+    {
+      "path": "/2026/07/06/2026-07-04-24e-festival-de-blues-de-barcelona",
+      "count": 12
+    },
+    {
+      "path": "/2026/09/06/visa-pour-limage-2026-una-jornada-de-fotoperiodisme-a-perpinya",
+      "count": 9
+    },
+    {
+      "path": "/2026/09/01/2026-08-26-aiguestortes-de-dellui-a-lestany-llong-fugint-de-la-calor-estival",
+      "count": 9
+    },
+    {
+      "path": "/contact",
+      "count": 9
+    },
+    {
+      "path": "/2026/07/06/2026-07-03a05-24-festival-de-blues-de-barcelona",
+      "count": 9
+    },
+    {
+      "path": "/?query-0-page=2",
+      "count": 9
+    },
+    {
+      "path": "/2026/08/15/2026-08-12-laura-a-32-oc",
+      "count": 8
+    },
+    {
+      "path": "/category/camara",
+      "count": 8
+    },
+    {
+      "path": "/2024/02/22/sessio-amb-la-ballarina-nahomi-itzel",
+      "count": 8
+    },
+    {
+      "path": "/2026/07/05/2026-07-03-05-24e-festival-de-blues-de-barcelona-organitzacio-colaboradors-amics-i-voluntaris",
+      "count": 8
+    },
+    {
+      "path": "/about",
+      "count": 7
+    },
+    {
+      "path": "/2026/09/04/2026-09-04-lanomala",
+      "count": 6
+    },
+    {
+      "path": "/category/camara/hasselblad-500cm/page/6",
+      "count": 6
+    },
+    {
+      "path": "/2026/08/10/2026-07-29-anike-volant",
+      "count": 6
+    },
+    {
+      "path": "/2026/06/28/2026-06-27-44a-la-cultura-va-de-festa",
+      "count": 6
+    },
+    {
+      "path": "/?query-0-page=10",
+      "count": 5
+    },
+    {
+      "path": "/?query-0-page=191",
+      "count": 5
+    },
+    {
+      "path": "/?query-0-page=188",
+      "count": 5
+    },
+    {
+      "path": "/?query-0-page=184",
+      "count": 5
+    },
+    {
+      "path": "/?query-0-page=190",
+      "count": 5
+    },
+    {
+      "path": "/?query-0-page=8",
+      "count": 5
+    },
+    {
+      "path": "/?query-0-page=186",
+      "count": 5
+    },
+    {
+      "path": "/?query-0-page=189",
+      "count": 5
+    },
+    {
+      "path": "/2017/12/15/homedev171-hasselblad-500-cm-50mm-panf-50-badenas-reales",
+      "count": 5
+    },
+    {
+      "path": "/2026/07/20/revivint-la-vella-woody-cam",
+      "count": 5
+    },
+    {
+      "path": "/2026/04/08/superheadz-digital-harinezumila-magia-low-fi",
+      "count": 5
+    },
+    {
+      "path": "/2012/01/28/prospe-beach-2010",
+      "count": 5
+    },
+    {
+      "path": "/2026/09/10/2026-08-24a28-escapada-a-taull",
+      "count": 4
+    },
+    {
+      "path": "/2025/09/17/2025-08-26-28-aiguestortes-amb-fotografia-analogica",
+      "count": 4
+    },
+    {
+      "path": "/?query-0-page=25",
+      "count": 4
+    },
+    {
+      "path": "/en-us",
+      "count": 4
+    },
+    {
+      "path": "/tag/les-puigdomenech",
+      "count": 4
+    },
+    {
+      "path": "/2026/02/13/2026-02-12-bar-moebius-amb-tarantula-friends",
+      "count": 4
+    },
+    {
+      "path": "/politica-de-cookies",
+      "count": 4
+    },
+    {
+      "path": "/2012/12/07/lomo-9765-pentax-k1000-lomography-color-800-i",
+      "count": 4
+    },
+    {
+      "path": "/2013/12/08/caffenol-35-pentaxk1000-kodak-tmax-100-can-peguera",
+      "count": 4
+    },
+    {
+      "path": "/2026/09/04/2026-08-22-te-v-1009",
+      "count": 3
+    },
+    {
+      "path": "/?query-0-page=3",
+      "count": 3
+    },
+    {
+      "path": "/?query-0-page=165",
+      "count": 3
+    },
+    {
+      "path": "/?query-0-page=171",
+      "count": 3
+    }
+  ],
+  "by_section": {
+    "inici": 150,
+    "posts": 340,
+    "cerca": 14,
+    "aviso-legal": 12,
+    "contact": 9,
+    "?query-0-page=2": 9,
+    "category": 41,
+    "about": 7,
+    "?query-0-page=10": 5,
+    "?query-0-page=191": 5,
+    "?query-0-page=188": 5,
+    "?query-0-page=184": 5,
+    "?query-0-page=190": 5,
+    "?query-0-page=8": 5,
+    "?query-0-page=186": 5,
+    "?query-0-page=189": 5,
+    "?query-0-page=25": 4,
+    "en-us": 4,
+    "tag": 10,
+    "politica-de-cookies": 4,
+    "?query-0-page=3": 3,
+    "?query-0-page=165": 3,
+    "?query-0-page=171": 3,
+    "?query-0-page=22": 3,
+    "?query-0-page=173": 3,
+    "?query-0-page=175": 3,
+    "?query-0-page=178": 3,
+    "?query-0-page=180": 3,
+    "?query-0-page=18": 3,
+    "?query-0-page=185": 3,
+    "?query-0-page=14": 3,
+    "?query-0-page=12": 3,
+    "?query-0-page=11": 3,
+    "?query-0-page=134": 2,
+    "?query-0-page=64": 2,
+    "?query-0-page=149": 2,
+    "?query-0-page=35": 2,
+    "?query-0-page=31": 2,
+    "?query-0-page=167": 2,
+    "?query-0-page=32": 2,
+    "?query-0-page=166": 2,
+    "?query-0-page=168": 2,
+    "?query-0-page=28": 2,
+    "?query-0-page=27": 2,
+    "?query-0-page=174": 2,
+    "?query-0-page=170": 2,
+    "?query-0-page=24": 2,
+    "?query-0-page=23": 2,
+    "?query-0-page=176": 2,
+    "?query-0-page=177": 2,
+    "?query-0-page=20": 2
+  },
+  "posts_top": [
+    {
+      "path": "/2026/07/11/2026-07-11-prospe-beach-again",
+      "count": 79
+    },
+    {
+      "path": "/2026/07/26/2026-07-25-una-jornada-amb-els-barcelona-gipsy-balkan-orchestra",
+      "count": 39
+    },
+    {
+      "path": "/2026/08/19/2026-08-18-isadora-passos-suspensio-capilar",
+      "count": 27
+    },
+    {
+      "path": "/2026/07/06/2026-07-05-24e-festival-de-blues-de-barcelona-jam-session-de-clausura",
+      "count": 15
+    },
+    {
+      "path": "/2026/08/19/2026-08-18-despedida-anike-lamoso",
+      "count": 13
+    },
+    {
+      "path": "/2026/07/31/2026-07-30-primeres-proves-per-al-repte-retrats-lents-de-112-revelats",
+      "count": 13
+    },
+    {
+      "path": "/2026/09/07/2026-09-06-festival-masimas-2026-el-parallel-oblidat-recordant-a-merche-mar",
+      "count": 12
+    },
+    {
+      "path": "/2026/07/06/2026-07-04-24e-festival-de-blues-de-barcelona",
+      "count": 12
+    },
+    {
+      "path": "/2026/09/06/visa-pour-limage-2026-una-jornada-de-fotoperiodisme-a-perpinya",
+      "count": 9
+    },
+    {
+      "path": "/2026/09/01/2026-08-26-aiguestortes-de-dellui-a-lestany-llong-fugint-de-la-calor-estival",
+      "count": 9
+    },
+    {
+      "path": "/2026/07/06/2026-07-03a05-24-festival-de-blues-de-barcelona",
+      "count": 9
+    },
+    {
+      "path": "/2026/08/15/2026-08-12-laura-a-32-oc",
+      "count": 8
+    },
+    {
+      "path": "/2024/02/22/sessio-amb-la-ballarina-nahomi-itzel",
+      "count": 8
+    },
+    {
+      "path": "/2026/07/05/2026-07-03-05-24e-festival-de-blues-de-barcelona-organitzacio-colaboradors-amics-i-voluntaris",
+      "count": 8
+    },
+    {
+      "path": "/2026/09/04/2026-09-04-lanomala",
+      "count": 6
+    }
+  ],
+  "browsers": [
+    {
+      "name": "Chrome",
+      "id": "Chrome",
+      "count": 957
+    },
+    {
+      "name": "Safari",
+      "id": "Safari",
+      "count": 165
+    },
+    {
+      "name": "Firefox",
+      "id": "Firefox",
+      "count": 85
+    },
+    {
+      "name": "Dalvik",
+      "id": "Dalvik",
+      "count": 2
+    }
+  ],
+  "systems": [
+    {
+      "name": "Linux",
+      "id": "Linux",
+      "count": 429
+    },
+    {
+      "name": "macOS",
+      "id": "macOS",
+      "count": 366
+    },
+    {
+      "name": "Android",
+      "id": "Android",
+      "count": 176
+    },
+    {
+      "name": "iOS",
+      "id": "iOS",
+      "count": 134
+    },
+    {
+      "name": "Windows",
+      "id": "Windows",
+      "count": 104
+    }
+  ],
+  "sizes": [
+    {
+      "name": "desktop",
+      "id": "desktop",
+      "count": 698
+    },
+    {
+      "name": "phone",
+      "id": "phone",
+      "count": 298
+    },
+    {
+      "name": "desktophd",
+      "id": "desktophd",
+      "count": 198
+    },
+    {
+      "name": "tablet",
+      "id": "tablet",
+      "count": 15
+    }
+  ],
+  "locations": [
+    {
+      "name": "Spain",
+      "id": "ES",
+      "count": 609
+    },
+    {
+      "name": "United States",
+      "id": "US",
+      "count": 370
+    },
+    {
+      "name": "Singapore",
+      "id": "SG",
+      "count": 115
+    },
+    {
+      "name": "United Kingdom",
+      "id": "GB",
+      "count": 35
+    },
+    {
+      "name": "Brazil",
+      "id": "BR",
+      "count": 13
+    },
+    {
+      "name": "Germany",
+      "id": "DE",
+      "count": 11
+    },
+    {
+      "name": "France",
+      "id": "FR",
+      "count": 10
+    },
+    {
+      "name": "Indonesia",
+      "id": "ID",
+      "count": 10
+    },
+    {
+      "name": "India",
+      "id": "IN",
+      "count": 6
+    },
+    {
+      "name": "Colombia",
+      "id": "CO",
+      "count": 4
+    },
+    {
+      "name": "Trinidad and Tobago",
+      "id": "TT",
+      "count": 3
+    },
+    {
+      "name": "Ukraine",
+      "id": "UA",
+      "count": 3
+    },
+    {
+      "name": "Ecuador",
+      "id": "EC",
+      "count": 2
+    },
+    {
+      "name": "Sweden",
+      "id": "SE",
+      "count": 2
+    },
+    {
+      "name": "United Arab Emirates",
+      "id": "AE",
+      "count": 1
+    }
+  ],
+  "refs": [
+    {
+      "name": "Desconegut",
+      "id": "Desconegut",
+      "count": 695
+    },
+    {
+      "name": "www.9barrisimatge.org",
+      "id": "www.9barrisimatge.org",
+      "count": 88
+    },
+    {
+      "name": "Google",
+      "id": "Google",
+      "count": 63
+    },
+    {
+      "name": "www.facebook.com",
+      "id": "www.facebook.com",
+      "count": 14
+    },
+    {
+      "name": "pocallum.cat",
+      "id": "pocallum.cat",
+      "count": 9
+    },
+    {
+      "name": "l.instagram.com",
+      "id": "l.instagram.com",
+      "count": 7
+    },
+    {
+      "name": "duckduckgo.com",
+      "id": "duckduckgo.com",
+      "count": 5
+    },
+    {
+      "name": "ig",
+      "id": "ig",
+      "count": 5
+    },
+    {
+      "name": "l.threads.com",
+      "id": "l.threads.com",
+      "count": 4
+    },
+    {
+      "name": "chatgpt.com",
+      "id": "chatgpt.com",
+      "count": 3
+    }
+  ]
+}
