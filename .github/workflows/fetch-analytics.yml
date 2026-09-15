@@ -10,8 +10,11 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      actions: write
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: develop
 
       - name: Fetch analytics data
         id: fetch
@@ -63,26 +66,27 @@ jobs:
             "$(date +%Y-%m-%d)"
 
       - name: Commit analytics
+        id: commit
         if: steps.fetch.outputs.token_ok == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-
-          # Commit a main: fetch l'estat actual del remot i posa el nostre
-          # analytics.json a sobre — evita conflictes de race entre execucions
-          cp static/stats/analytics.json /tmp/analytics_fresh.json
-          git fetch origin main
-          git reset --soft origin/main
-          cp /tmp/analytics_fresh.json static/stats/analytics.json
           git add static/stats/analytics.json
-          git diff --staged --quiet || git commit -m "chore: update analytics [skip ci]"
-          git push
+          if git diff --staged --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            git commit -m "chore: update analytics"
+            git pull --rebase origin develop
+            git push origin develop
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
 
-          # Sincronitza analytics.json a develop perquè l'staging també tingui dades
-          git fetch origin develop
-          git checkout -b _analytics-sync origin/develop
-          cp /tmp/analytics_fresh.json static/stats/analytics.json
-          git add static/stats/analytics.json
-          git diff --staged --quiet || git commit -m "chore: update analytics staging [skip ci]"
-          git push origin _analytics-sync:develop
-          git checkout main
+      - name: Trigger deploys
+        if: steps.commit.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          # Un push fet amb GITHUB_TOKEN no dispara altres workflows (protecció
+          # anti-bucle de GitHub), per això calem els deploys explícitament.
+          gh workflow run deploy-staging.yml --ref develop
+          gh workflow run deploy-produccio.yml --ref develop
