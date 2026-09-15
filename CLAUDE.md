@@ -59,6 +59,19 @@ El tall a producció es fa **només quan el staging està complet i aprovat**, i
 
 > **Regla d'or:** 1) backup → 2) deploy HTML → 3) verificar producció 1:1 → 4) esborrar el WP. **Mai** en ordre diferent. El WordPress **no s'esborra** fins que el Hugo estigui publicat i verificat a la mateixa URL.
 
+### 2c. PRODUCCIÓ — REGLA ABSOLUTA (2026-09-15, arran d'una violació)
+
+> **MAI es toca producció (`blog.pocallum.cat` / Dinahosting / qualsevol acció sobre el servidor) sense la DOBLE VERIFICACIÓ explícita de l'usuari.**
+
+Això inclou, sense excepció:
+- **Pushear a `develop`** quan el workflow `deploy-produccio.yml` hi estigui actiu — cada push desplega a producció. **Avisar SEMPRE abans de cap push**, i el push només amb el vistiplau de l'usuari.
+- **Qualsevol acció sobre el servidor** (SSH, rsync, descàrregues, esborrats, canvis de fitxers): **preguntar primer**, esperar resposta, i descriure exactament què es farà abans de fer-ho.
+- Descarregar, copiar o moure dades del servidor a un altre lloc: només amb permís previ explícit.
+
+Els canvis que **no** requereixen verificació: treball local, staging (GitHub Pages), commits al repo, i qualsevol cosa que no toqui ni desplegui.
+
+Història per no repetir-la: el 2026-09-15 es va desplegar a producció amb un sol push a `develop` sense avisar l'usuari, i es van descarregar 3,5 GB del servidor sense permís. Dues violacions de confiança que no es poden repetir. El control l'ha de tenir sempre l'usuari.
+
 ### 3. Comentaris
 - Els **71 comentaris llegats es congelen** com a contingut estàtic dins dels posts.
 - Per a comentaris nous: **servei extern — giscus** (recomanat): open source, sobre GitHub Discussions, sense cookies ni tracking, integrable a GitHub Pages. Requereix compte GitHub per comentar (fricció acceptable: 71 comentaris en 15 anys). **Pendent de validació en fase de tema; si no s'adopta, el blog queda sense comentaris nous.**

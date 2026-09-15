@@ -17,7 +17,7 @@
   {{ $hero := or .Params.image .Params.thumbnail }}
   {{ if $hero }}
   <div class="post-hero">
-    <img src="{{ $hero }}" alt="{{ .Title }}" loading="eager" decoding="async">
+    {{ partial "img.html" (dict "src" $hero "alt" .Title "class" "post-hero__img" "loading" "eager" "variant" "hero") }}
   </div>
   {{ end }}
 
@@ -98,7 +98,7 @@
            {{ if $isCur }}aria-current="page"{{ end }}>
           <div class="post-thumb__img">
             {{ $img := or .Params.thumbnail .Params.image }}
-            {{ if $img }}<img src="{{ $img }}" alt="" loading="lazy" decoding="async">{{ end }}
+            {{ if $img }}{{ partial "img.html" (dict "src" $img "alt" "" "loading" "lazy" "variant" "thumb") }}{{ end }}
           </div>
           <span class="post-thumb__title">{{ .Title }}</span>
           <span class="post-thumb__date">{{ .Date.Format "02·01·06" }}</span>

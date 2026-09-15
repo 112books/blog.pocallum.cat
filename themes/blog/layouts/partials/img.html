@@ -1,0 +1,33 @@
+{{/* ── Imatge responsiva
+     Ús: {{ partial "img.html" (dict "src" $url "alt" $alt "class" "post-hero__img" "loading" "eager") }}
+     variant = "" (cap webp) | "hero" (-2500.webp) | "thumb" (-800.webp)
+     Només s'activa el <picture> si la imatge viu al nostre servidor
+     (blog.pocallum.cat/wp-content/...) — les externes queden com <img> senzill.
+     ── */}}
+{{- $src     := .src | default "" -}}
+{{- $alt     := .alt | default "" -}}
+{{- $class   := .class | default "" -}}
+{{- $loading := .loading | default "lazy" -}}
+{{- $decoding := .decoding | default "async" -}}
+{{- $variant := .variant | default "" -}}
+{{- $webp    := "" -}}
+{{- $webpActivat := isset site.Params "imatgesWebp" | and site.Params.imatgesWebp -}}
+{{- if and $variant $src (strings.HasPrefix $src "https://blog.pocallum.cat/wp-content/") $webpActivat -}}
+  {{- $suffix := "" -}}
+  {{- if eq $variant "hero" }}{{ $suffix = "-2500.webp" }}{{ end -}}
+  {{- if eq $variant "thumb" }}{{ $suffix = "-800.webp" }}{{ end -}}
+  {{- $re := `\.(jpg|jpeg|png)(\?.*)?$` -}}
+  {{- if (findRE $re $src) -}}
+    {{- $webp = replaceRE $re (printf "%s%s" $suffix ".webp") $src -}}
+    {{- /* neteja doble extensió si ja acabava amb -2500.webp */ -}}
+  {{- end -}}
+{{- end -}}
+
+{{- if $webp -}}
+<picture>
+  <source srcset="{{ $webp }}" type="image/webp">
+  <img src="{{ $src }}" alt="{{ $alt }}"{{ with $class }} class="{{ . }}"{{ end }} loading="{{ $loading }}" decoding="{{ $decoding }}">
+</picture>
+{{- else -}}
+<img src="{{ $src }}" alt="{{ $alt }}"{{ with $class }} class="{{ . }}"{{ end }} loading="{{ $loading }}" decoding="{{ $decoding }}">
+{{- end -}}

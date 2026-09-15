@@ -16,7 +16,7 @@
   {{ range $pag.Pages }}
   {{ $img := or .Params.thumbnail .Params.image }}
   <a class="post-tile{{ if not $img }} is-text{{ end }}" href="{{ .RelPermalink }}" aria-label="{{ .Title }}">
-    {{ if $img }}<img src="{{ $img }}" alt="" loading="lazy" decoding="async">{{ end }}
+    {{ if $img }}{{ partial "img.html" (dict "src" $img "alt" "" "loading" "lazy" "variant" "thumb") }}{{ end }}
     <span class="post-tile__date">{{ .Date.Format "02 · 01 · 2006" }}</span>
     <span class="post-tile__title">{{ .Title }}</span>
   </a>

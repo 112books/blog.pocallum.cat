@@ -25,7 +25,7 @@
       <div class="tunel__cos">
         {{ if $primer.Params.thumbnail }}
         <a class="tunel__foto" href="{{ "arxiu/" | relURL }}{{ $year }}/" aria-label="Obrir l&#39;arxiu de {{ $year }}">
-          <img src="{{ $primer.Params.thumbnail }}" alt="" loading="lazy">
+          {{ partial "img.html" (dict "src" $primer.Params.thumbnail "alt" "" "loading" "lazy" "variant" "thumb") }}
         </a>
         {{ end }}
         <ul class="tunel__mesos">
