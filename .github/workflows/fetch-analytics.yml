@@ -68,14 +68,17 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          # Commit a main
+          # Commit a main: fetch l'estat actual del remot i posa el nostre
+          # analytics.json a sobre — evita conflictes de race entre execucions
+          cp static/stats/analytics.json /tmp/analytics_fresh.json
+          git fetch origin main
+          git reset --soft origin/main
+          cp /tmp/analytics_fresh.json static/stats/analytics.json
           git add static/stats/analytics.json
           git diff --staged --quiet || git commit -m "chore: update analytics [skip ci]"
-          git pull --rebase
           git push
 
           # Sincronitza analytics.json a develop perquè l'staging també tingui dades
-          cp static/stats/analytics.json /tmp/analytics_fresh.json
           git fetch origin develop
           git checkout -b _analytics-sync origin/develop
           cp /tmp/analytics_fresh.json static/stats/analytics.json
