@@ -1014,6 +1014,21 @@ h1, h2, h3, h4 {
 }
 .contact-fullpage .pagefind-ui__search-input::placeholder { color: rgba(255,255,255,0.45) !important; }
 .contact-fullpage .pagefind-ui__search-clear { color: rgba(255,255,255,0.5) !important; }
+.contact-fullpage .pagefind-ui__results {
+  background: rgba(8,8,8,0.82) !important;
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
+  border: 1px solid rgba(255,255,255,0.1);
+  padding: var(--space-4) !important;
+  margin-top: var(--space-2);
+}
+.contact-fullpage .pagefind-ui__result {
+  border-bottom-color: rgba(255,255,255,0.08) !important;
+}
+.contact-fullpage .pagefind-ui__result-title,
+.contact-fullpage .pagefind-ui__result-excerpt {
+  color: var(--fg) !important;
+}
 
 /* ── Comentaris (giscus) ───────────────────────────────────────────────────── */
 .giscus-wrap {
