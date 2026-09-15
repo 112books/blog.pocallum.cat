@@ -1,6 +1,7 @@
 ---
 title: "About"
 date: 2026-03-19
+layout: "about"
 ---
 
 ![Joan \"Linux\"](https://blog.pocallum.cat/wp-content/uploads/2020/04/joan-avatar-pedrola-1024x1024.jpg)

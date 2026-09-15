@@ -1459,6 +1459,15 @@ h1, h2, h3, h4 {
 .contact-fullpage-header {
   margin-bottom: var(--space-14);
 }
+.about-content.prose img {
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-bottom: var(--space-6);
+  border: 2px solid var(--accent);
+}
+.about-content.prose { max-width: 42rem; }
 .contact-options {
   display: flex;
   flex-direction: column;
