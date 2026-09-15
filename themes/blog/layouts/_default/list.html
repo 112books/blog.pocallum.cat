@@ -1,12 +1,78 @@
 {{ define "main" }}
-<h1>{{ .Title }}</h1>
-{{ .Content }}
-<ul>
-  {{ range .Pages }}
-  <li>
-    <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "02/01/2006" }}</time>
-    — <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-  </li>
-  {{ end }}
-</ul>
+{{ if .Data.Term }}
+{{/* ── Pàgina de taxonomia: /categories/xxx/ i /tags/xxx/ ─────────────── */}}
+<header class="page-header">
+  <div class="container">
+    <p class="page-eyebrow">{{ if eq .Data.Singular "category" }}Càmera i òptiques{{ else }}Etiqueta{{ end }}</p>
+    <h1 class="page-title">{{ .Title }}</h1>
+    <p class="page-intro">{{ len .Pages }} {{ if eq (len .Pages) 1 }}post{{ else }}posts{{ end }}</p>
+  </div>
+</header>
+<div class="blog-layout container">
+  <div class="posts-list">
+    {{ range .Pages }}
+    <article class="post-card">
+      {{ $img := or .Params.thumbnail .Params.image }}
+      <div class="post-card__thumb">
+        {{ if $img }}
+        <a href="{{ .RelPermalink }}" class="post-card__thumb-link" aria-hidden="true" tabindex="-1">
+          <img src="{{ $img }}" alt="" loading="lazy" decoding="async">
+        </a>
+        {{ end }}
+      </div>
+      <div class="post-card__body">
+        <div class="post-card__meta">
+          <span class="post-card__date"><a href="{{ .RelPermalink }}">{{ .Date.Format "2 · January · 2006" }}</a></span>
+          {{ with .Params.categories }}{{ range first 2 . }}<span class="post-card__cat"><a href="{{ "categories/" | relURL }}{{ . | urlize }}/">{{ . }}</a></span>{{ end }}{{ end }}
+        </div>
+        <h2 class="post-card__title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+        {{ with .Summary }}<p class="post-card__excerpt">{{ . | plainify | truncate 160 }}</p>{{ end }}
+      </div>
+    </article>
+    {{ end }}
+  </div>
+</div>
+
+{{ else }}
+{{/* ── Secció: /posts/ ────────────────────────────────────────────────────── */}}
+{{ $pag := .Paginate .RegularPages }}
+<header class="page-header">
+  <div class="container">
+    <p class="page-eyebrow">Arxiu complet</p>
+    <h1 class="page-title">{{ .Title | default "Posts" }}</h1>
+  </div>
+</header>
+<div class="blog-layout container">
+  <div class="posts-list">
+    {{ range $pag.Pages }}
+    <article class="post-card">
+      {{ $img := or .Params.thumbnail .Params.image }}
+      <div class="post-card__thumb">
+        {{ if $img }}
+        <a href="{{ .RelPermalink }}" class="post-card__thumb-link" aria-hidden="true" tabindex="-1">
+          <img src="{{ $img }}" alt="" loading="lazy" decoding="async">
+        </a>
+        {{ end }}
+      </div>
+      <div class="post-card__body">
+        <div class="post-card__meta">
+          <span class="post-card__date"><a href="{{ .RelPermalink }}">{{ .Date.Format "2 · January · 2006" }}</a></span>
+          {{ with .Params.categories }}{{ range first 2 . }}<span class="post-card__cat"><a href="{{ "categories/" | relURL }}{{ . | urlize }}/">{{ . }}</a></span>{{ end }}{{ end }}
+        </div>
+        <h2 class="post-card__title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+        {{ with .Summary }}<p class="post-card__excerpt">{{ . | plainify | truncate 160 }}</p>{{ end }}
+      </div>
+    </article>
+    {{ end }}
+
+    {{ if gt $pag.TotalPages 1 }}
+    <nav class="pager" aria-label="Paginació">
+      {{ if $pag.HasPrev }}<a href="{{ $pag.Prev.URL | relURL }}">← Més nous</a>{{ else }}<span></span>{{ end }}
+      <span class="pager__pages">{{ $pag.PageNumber }} / {{ $pag.TotalPages }}</span>
+      {{ if $pag.HasNext }}<a href="{{ $pag.Next.URL | relURL }}">Més antics →</a>{{ else }}<span></span>{{ end }}
+    </nav>
+    {{ end }}
+  </div>
+</div>
+{{ end }}
 {{ end }}

@@ -1,0 +1,94 @@
+{{- $desc := .Site.Params.description -}}
+{{- if .Description }}{{- $desc = .Description -}}
+{{- else if .Summary }}{{- $desc = .Summary | truncate 160 -}}
+{{- end -}}
+{{- $ogImage := or .Params.image .Params.thumbnail .Site.Params.defaultOgImage -}}
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<meta name="description" content="{{ $desc }}">
+
+<title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} — {{ .Site.Title }}{{ end }}</title>
+<link rel="canonical" href="{{ .Permalink }}">
+
+{{/* CSS via Hugo Pipes */}}
+{{ $css := resources.Get "css/main.css" | minify | fingerprint }}
+<link rel="stylesheet" href="{{ $css.RelPermalink }}">
+
+{{/* Font preloads — only 2 critical above-fold fonts */}}
+<link rel="preload" href="/fonts/syne-variable.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/inter-400.woff2" as="font" type="font/woff2" crossorigin>
+
+{{/* Favicon */}}
+<link rel="icon" href="{{ "images/logo.svg" | relURL }}" type="image/svg+xml">
+
+{{/* RSS autodiscovery */}}
+{{ range .AlternativeOutputFormats }}
+<link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" title="{{ $.Site.Title }}" href="{{ .Permalink }}">
+{{ end }}
+
+{{/* Open Graph */}}
+<meta property="og:site_name"   content="{{ .Site.Title }}">
+<meta property="og:locale"      content="ca_ES">
+<meta property="og:title"       content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} — {{ .Site.Title }}{{ end }}">
+<meta property="og:description" content="{{ $desc }}">
+<meta property="og:type"        content="{{ if .IsHome }}website{{ else }}article{{ end }}">
+<meta property="og:url"         content="{{ .Permalink }}">
+{{ with $ogImage }}<meta property="og:image" content="{{ . }}">{{ end }}
+
+{{/* Twitter / X Cards */}}
+<meta name="twitter:card"        content="{{ if $ogImage }}summary_large_image{{ else }}summary{{ end }}">
+<meta name="twitter:title"       content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} — {{ .Site.Title }}{{ end }}">
+<meta name="twitter:description" content="{{ $desc }}">
+{{ with $ogImage }}<meta name="twitter:image" content="{{ . }}">{{ end }}
+
+{{/* JSON-LD Structured Data */}}
+{{ if .IsHome }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "{{ .Site.Title }}",
+  "url": "{{ .Site.BaseURL }}",
+  "inLanguage": "ca",
+  "description": {{ .Site.Params.description | jsonify }},
+  "publisher": { "@type": "Organization", "name": "Pocallum", "url": "{{ .Site.Params.webPare }}" },
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "{{ .Site.BaseURL }}cerca/?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+{{ else if and (eq .Type "posts") (not .IsSection) }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": {{ .Title | jsonify }},
+  "description": {{ $desc | jsonify }},
+  "datePublished": "{{ .Date.Format "2006-01-02" }}",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ .Permalink }}"
+  },
+  "author": { "@type": "Person", "name": {{ .Site.Params.author | jsonify }} },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Pocallum",
+    "url": "{{ .Site.Params.webPare }}"
+  },
+  "url": "{{ .Permalink }}"{{ with .Params.image }},
+  "image": "{{ . }}"{{ end }}
+}
+</script>
+{{ end }}
+
+{{/* GoatCounter — sense cookies, GDPR */}}
+{{ with .Site.Params.goatcounterSite }}
+<script data-goatcounter="https://{{ . }}.goatcounter.com/count" async src="//gc.zgo.at/count.js" crossorigin="anonymous"></script>
+{{ end }}
+
+{{/* JS */}}
+{{ $js := resources.Get "js/main.js" | minify | fingerprint }}
+<script src="{{ $js.RelPermalink }}" defer></script>

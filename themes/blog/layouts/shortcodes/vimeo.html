@@ -1,0 +1,8 @@
+{{ $id := .Get 0 | default (.Get "id") }}
+{{ if $id }}
+<div class="video-wrap">
+  <iframe src="https://player.vimeo.com/video/{{ $id }}" title="Vídeo de Vimeo"
+          allow="autoplay; fullscreen; picture-in-picture"
+          allowfullscreen loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+</div>
+{{ end }}

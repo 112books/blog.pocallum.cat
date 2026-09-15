@@ -1,0 +1,6 @@
+---
+title: "gener 2014"
+date: 2014-01-01
+outputs: ["HTML"]
+---
+

@@ -1,6 +1,7 @@
 ---
 title: "Cerca"
 date: 2024-12-19
+layout: "cerca"
 ---
 
-Cerca per càmera (Pagefind): la interfície es munta a la fase de tema.
+Cercador del blog, indexat amb Pagefind.

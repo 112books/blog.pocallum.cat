@@ -33,6 +33,9 @@ jobs:
                --baseURL "https://112books.github.io/blog.pocallum.cat/" \
                --buildDrafts
 
+      - name: Index with Pagefind
+        run: npx pagefind --site public
+
       - name: Deploy to GitHub Pages (branca gh-pages-staging)
         uses: peaceiris/actions-gh-pages@v4
         with:

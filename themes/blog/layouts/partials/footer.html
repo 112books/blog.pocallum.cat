@@ -1,0 +1,60 @@
+<footer class="site-footer">
+  <div class="footer-inner">
+
+    <div class="footer-brand">
+      <p class="footer-logo">blog<span class="footer-logo-dot">.</span>pocallum<span class="footer-logo-dot">.</span>cat</p>
+      <p class="footer-tagline">Crònica fotogràfica des del 2010</p>
+    </div>
+
+    <nav class="footer-nav-row" aria-label="Navegació peu de pàgina">
+      {{ range .Site.Menus.main }}
+      <a href="{{ .URL | relLangURL }}" class="footer-nav-link">{{ .Name }}</a>
+      {{ end }}
+    </nav>
+
+    <div class="footer-social">
+      {{ with .Site.Params.instagram }}
+      <a href="{{ . }}" class="footer-social-link" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="0.5" fill="currentColor"/></svg>
+      </a>
+      {{ end }}
+      {{ with .Site.Params.facebook }}
+      <a href="{{ . }}" class="footer-social-link" target="_blank" rel="noopener noreferrer" aria-label="Facebook">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/></svg>
+      </a>
+      {{ end }}
+      {{ with .Site.Params.flickr }}
+      <a href="{{ . }}" class="footer-social-link" target="_blank" rel="noopener noreferrer" aria-label="Flickr">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><circle cx="8.5" cy="12" r="4"/><circle cx="15.5" cy="12" r="4"/></svg>
+      </a>
+      {{ end }}
+      {{ with .Site.Params.fiveHundredPx }}
+      <a href="{{ . }}" class="footer-social-link" target="_blank" rel="noopener noreferrer" aria-label="500px">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M5.5 12h6"/><path d="M13.8 8.4a3.2 3.2 0 1 1 0 7.2 2.6 2.6 0 0 1 0-5.2"/></svg>
+      </a>
+      {{ end }}
+      <a href="{{ "feed.xml" | relURL }}" class="footer-social-link" aria-label="RSS">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 11a9 9 0 0 1 9 9"/><path d="M4 4a16 16 0 0 1 16 16"/><circle cx="5" cy="19" r="1" fill="currentColor" stroke="none"/></svg>
+      </a>
+      <a href="{{ "cerca/" | relLangURL }}" class="footer-social-link" aria-label="Cercar">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+      </a>
+    </div>
+
+  </div>
+
+  <div class="footer-legal">
+    <div class="footer-legal-left">
+      <p>&copy; {{ now.Year }} Pocallum · {{ .Site.Params.author }}</p>
+      <nav class="footer-legal-links" aria-label="Pàgines legals">
+        <a href="{{ "aviso-legal/" | relURL }}">Avís legal</a>
+        <a href="{{ "politica-de-privacidad/" | relURL }}">Privacitat</a>
+        <a href="{{ "politica-de-cookies/" | relURL }}">Cookies</a>
+      </nav>
+    </div>
+    <div class="footer-powered">
+      <a href="{{ .Site.Params.webPare }}" class="footer-powered-link" target="_blank" rel="noopener noreferrer">Powered by <strong>Pocallum</strong></a>
+      <p class="footer-powered-services">Consultancy | Development | Hosting | Design</p>
+    </div>
+  </div>
+</footer>

@@ -1,0 +1,4 @@
+{{/* Parcial: rep una data (time) i retorna el nom del mes en català (minúscula) */}}
+{{- $mesos := dict "1" "gener" "2" "febrer" "3" "març" "4" "abril" "5" "maig" "6" "juny" "7" "juliol" "8" "agost" "9" "setembre" "10" "octubre" "11" "novembre" "12" "desembre" -}}
+{{- $num := . | time.Format "1" -}}
+{{- index $mesos $num -}}

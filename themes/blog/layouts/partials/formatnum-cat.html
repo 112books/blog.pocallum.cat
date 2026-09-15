@@ -1,0 +1,14 @@
+{{/* Parcial: format d'un enter amb separador de milers (punt), estil català */ -}}
+{{- $n := int . }}
+{{- $s := printf "%d" $n }}
+{{- if eq $s "0" }}{{ print "0" }}{{ else -}}
+{{- $len  := len $s -}}
+{{- $head := mod $len 3 -}}
+{{- $chunks := slice -}}
+{{- if gt $head 0 }}{{ $chunks = $chunks | append (substr $s 0 $head) }}{{ end -}}
+{{- $rest := substr $s $head -}}
+{{- range $i, $_ := seq (div (sub $len $head) 3) -}}
+  {{- $chunks = $chunks | append (substr $rest (mul $i 3) 3) -}}
+{{- end -}}
+{{- delimit $chunks "." -}}
+{{- end -}}

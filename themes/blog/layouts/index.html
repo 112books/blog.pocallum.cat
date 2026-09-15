@@ -1,18 +1,52 @@
 {{ define "main" }}
-<h1>{{ .Site.Title }}</h1>
-<p>{{ .Site.Params.description }}</p>
-{{ $pag := .Paginate (where .Site.RegularPages "Section" "posts") }}
-{{ range $pag.Pages }}
-<article>
-  <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-  <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 de January de 2006" }}</time>
-  <p>{{ .Summary }}</p>
-</article>
-<hr>
-{{ end }}
-<nav>
-  {{ if $pag.HasPrev }}<a href="{{ $pag.Prev.URL | relURL }}">← Més nous</a>{{ end }}
-  Pàgina {{ $pag.PageNumber }} de {{ $pag.TotalPages }}
-  {{ if $pag.HasNext }}<a href="{{ $pag.Next.URL | relURL }}">Més antics →</a>{{ end }}
-</nav>
+{{ $posts := where .Site.RegularPages "Section" "posts" }}
+{{ $pag := .Paginate $posts }}
+
+<header class="home-header">
+  <div class="container">
+    <p class="page-eyebrow">Crònica fotogràfica tal com raja — Barcelona des del 2010.</p>
+    <h1 class="home-title">camera<span class="dot">&amp;</span><br>action<span class="dot">!</span></h1>
+    {{ $words := 0 }}
+    {{ range $posts }}{{ $words = add $words .WordCount }}{{ end }}
+    <div class="home-stats">
+      <div class="home-stat">
+        <span class="home-stat__num js-count" data-count="{{ len $posts }}">0</span>
+        <span class="home-stat__label">posts</span>
+      </div>
+      <div class="home-stat">
+        <span class="home-stat__num js-count" data-count="{{ $words }}">0</span>
+        <span class="home-stat__label">paraules</span>
+      </div>
+      <div class="home-stat">
+        <span class="home-stat__num js-count" data-count="{{ len .Site.Taxonomies.categories }}">0</span>
+        <span class="home-stat__label">càmeres</span>
+      </div>
+      <div class="home-stat">
+        <span class="home-stat__num js-count" data-count="{{ len .Site.Taxonomies.tags }}">0</span>
+        <span class="home-stat__label">etiquetes</span>
+      </div>
+    </div>
+  </div>
+</header>
+
+<div class="blog-mosaic">
+    {{ range $pag.Pages }}
+    {{ $img := or .Params.thumbnail .Params.image }}
+    <a class="post-tile{{ if not $img }} is-text{{ end }}" href="{{ .RelPermalink }}" aria-label="{{ .Title }}">
+      {{ if $img }}<img src="{{ $img }}" alt="" loading="lazy" decoding="async">{{ end }}
+      <span class="post-tile__date">{{ .Date.Format "02 · 01 · 2006" }}</span>
+      <span class="post-tile__title">{{ .Title }}</span>
+    </a>
+    {{ end }}
+  </div>
+
+  {{ if gt $pag.TotalPages 1 }}
+  <div class="pager-wrap">
+    <nav class="pager" aria-label="Paginació">
+      {{ if $pag.HasPrev }}<a href="{{ $pag.Prev.URL | relURL }}">← Més nous</a>{{ else }}<span></span>{{ end }}
+      <span class="pager__pages">{{ $pag.PageNumber }} / {{ $pag.TotalPages }}</span>
+      {{ if $pag.HasNext }}<a href="{{ $pag.Next.URL | relURL }}">Més antics →</a>{{ else }}<span></span>{{ end }}
+    </nav>
+  </div>
+  {{ end }}
 {{ end }}
