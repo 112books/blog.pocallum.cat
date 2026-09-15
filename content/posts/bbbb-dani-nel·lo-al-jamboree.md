@@ -2,6 +2,7 @@
 title: "BBBB + Dani Nel·lo al Jamboree"
 date: 2015-05-25
 slug: "bbbb-dani-nel%c2%b7lo-al-jamboree"
+url: "/2015/05/25/bbbb-dani-nel%c2%b7lo-al-jamboree/"
 categories: 
   - "canon-eos-6d"
 author: "fatmin"

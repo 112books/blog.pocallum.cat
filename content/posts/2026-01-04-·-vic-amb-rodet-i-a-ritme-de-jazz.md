@@ -2,6 +2,7 @@
 title: "2026-01-04 · Vic amb rodet i a ritme de jazz"
 date: 2026-01-09
 slug: "2026-01-04-%c2%b7-vic-amb-rodet-i-a-ritme-de-jazz"
+url: "/2026/01/09/2026-01-04-%c2%b7-vic-amb-rodet-i-a-ritme-de-jazz/"
 categories: 
   - "brightin-star-28mmf-2-8"
   - "leica-m6"

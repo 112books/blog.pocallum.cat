@@ -2,6 +2,7 @@
 title: "Workshop Diana F+ amb pel·lícula experimental"
 date: 2014-07-10
 slug: "workshop-diana-f-amb-pel%c2%b7licula-experimental"
+url: "/2014/07/10/workshop-diana-f-amb-pel%c2%b7licula-experimental/"
 categories: 
   - "diana-f"
 author: "fatmin"

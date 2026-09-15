@@ -2,6 +2,7 @@
 title: "BBBB al Palau de la Música amb Mike Sanchez i Dani Nel·lo"
 date: 2014-08-27
 slug: "bbbb-al-palau-de-la-musica-amb-mike-sanchez-i-dani-nel%c2%b7lo"
+url: "/2014/08/27/bbbb-al-palau-de-la-musica-amb-mike-sanchez-i-dani-nel%c2%b7lo/"
 categories: 
   - "canon-eos-5"
 author: "fatmin"

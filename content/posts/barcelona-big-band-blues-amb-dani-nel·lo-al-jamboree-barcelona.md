@@ -2,6 +2,7 @@
 title: "Barcelona Big Band Blues amb Dani Nel·lo al Jamboree, Barcelona"
 date: 2013-03-27
 slug: "barcelona-big-band-blues-amb-dani-nel%c2%b7lo-al-jamboree-barcelona"
+url: "/2013/03/27/barcelona-big-band-blues-amb-dani-nel%c2%b7lo-al-jamboree-barcelona/"
 categories: 
   - "canon-eos-5"
 author: "fatmin"

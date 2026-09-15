@@ -2,6 +2,7 @@
 title: "11è Festival de Blues de Barcelona - Dani Nel·lo, Barcelona Big Blues Band & Barbara Clifford"
 date: 2013-07-21
 slug: "11e-festival-de-blues-de-barcelona-dani-nel%c2%b7lo-barcelona-big-blues-band-barbara-clifford"
+url: "/2013/07/21/11e-festival-de-blues-de-barcelona-dani-nel%c2%b7lo-barcelona-big-blues-band-barbara-clifford/"
 categories: 
   - "canon-eos-5"
 tags:
