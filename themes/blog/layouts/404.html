@@ -6,7 +6,7 @@
   <meta name="referrer" content="strict-origin-when-cross-origin">
   <meta name="robots" content="noindex">
   <title>404 — {{ .Site.Title }}</title>
-  <link rel="icon" href="{{ "favicon.ico" | relURL }}" sizes="48x48 32x32 16x16">
+  <link rel="icon" href="{{ "favicon.ico" | relURL }}?v=2" sizes="32x32 16x16">
   <link rel="icon" href="{{ "images/logo.svg" | relURL }}" type="image/svg+xml">
   {{ $css := resources.Get "css/main.css" | minify | fingerprint }}
   <link rel="stylesheet" href="{{ $css.RelPermalink }}">
