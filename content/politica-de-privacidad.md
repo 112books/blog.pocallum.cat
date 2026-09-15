@@ -6,7 +6,7 @@ date: 2020-04-21
 ## Responsable del tractament
 
 **Joan "Linux" Martínez i Serres**
-Correu electrònic: linuxbcn@gmail.com
+Correu electrònic: {{< email "hola@linuxbcn.com" >}}
 
 ## Quines dades es recullen
 
@@ -31,7 +31,7 @@ Els comentaris del blog funcionen a través de **giscus**, que utilitza GitHub D
 
 ## Drets de l'interessat
 
-Podeu exercir els drets d'accés, rectificació, supressió i oposició adreçant-vos a linuxbcn@gmail.com.
+Podeu exercir els drets d'accés, rectificació, supressió i oposició adreçant-vos a {{< email "hola@linuxbcn.com" >}}.
 
 ## Base legal
 

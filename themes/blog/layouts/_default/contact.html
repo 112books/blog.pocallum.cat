@@ -1,0 +1,52 @@
+{{ define "main" }}
+<header class="page-header">
+  <div class="container--narrow">
+    <p class="page-eyebrow">Contacte</p>
+    <h1 class="page-title">{{ .Title }}</h1>
+    <p class="page-intro">Escriu-me un missatge i te respondré tan aviat com pugui.</p>
+  </div>
+</header>
+
+<div class="contact-page">
+  <div class="contact-wrap container--narrow">
+
+    {{ if .Site.Params.formspreeId }}
+    <form class="contact-form" action="https://formspree.io/f/{{ .Site.Params.formspreeId }}" method="POST" novalidate>
+      <div class="contact-field">
+        <label class="contact-label" for="cf-name">Nom</label>
+        <input class="contact-input" type="text" id="cf-name" name="name" autocomplete="name" required>
+      </div>
+      <div class="contact-field">
+        <label class="contact-label" for="cf-email">Correu electrònic</label>
+        <input class="contact-input" type="email" id="cf-email" name="email" autocomplete="email" required>
+      </div>
+      <div class="contact-field">
+        <label class="contact-label" for="cf-msg">Missatge</label>
+        <textarea class="contact-input contact-textarea" id="cf-msg" name="message" rows="6" required></textarea>
+      </div>
+      <input type="text" name="_gotcha" style="display:none" tabindex="-1" autocomplete="off">
+      <input type="hidden" name="_subject" value="Missatge des de blog.pocallum.cat">
+      <div class="contact-actions">
+        <button class="contact-submit" type="submit">Enviar</button>
+      </div>
+    </form>
+    {{ else }}
+    <p class="contact-fallback">
+      Pots contactar directament per correu electrònic:
+      <a class="js-email" data-u="hola" data-d="linuxbcn.com" href="#">hola<span aria-hidden="true">&#64;</span>linuxbcn.com</a>
+    </p>
+    {{ end }}
+
+    <div class="contact-also">
+      <p class="contact-also-label">També em trobaràs a:</p>
+      <div class="contact-also-links">
+        {{ with .Site.Params.instagram }}<a href="{{ . }}" target="_blank" rel="noopener noreferrer" class="contact-also-link">Instagram</a>{{ end }}
+        {{ with .Site.Params.flickr }}<a href="{{ . }}" target="_blank" rel="noopener noreferrer" class="contact-also-link">Flickr</a>{{ end }}
+        {{ with .Site.Params.fiveHundredPx }}<a href="{{ . }}" target="_blank" rel="noopener noreferrer" class="contact-also-link">500px</a>{{ end }}
+        {{ with .Site.Params.facebook }}<a href="{{ . }}" target="_blank" rel="noopener noreferrer" class="contact-also-link">Facebook</a>{{ end }}
+      </div>
+    </div>
+
+  </div>
+</div>
+{{ end }}

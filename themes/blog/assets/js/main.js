@@ -27,6 +27,16 @@
   window.addEventListener('scroll', mark, { passive: true });
 })();
 
+/* ── Emails protegits anti-spam ─────────────────────────────────────────── */
+(function () {
+  document.querySelectorAll('.js-email').forEach(function (el) {
+    el.addEventListener('click', function (e) {
+      e.preventDefault();
+      window.location.href = 'mailto:' + el.dataset.u + '@' + el.dataset.d;
+    });
+  });
+})();
+
 /* ── Lightbox ───────────────────────────────────────────────────────────── */
 (function () {
   const imgs = Array.from(document.querySelectorAll('.prose img'));
@@ -148,6 +158,17 @@
   } else {
     els.forEach(el => { el.textContent = fmt(parseInt(el.dataset.count, 10)); });
   }
+})();
+
+/* ── Links externs al contingut → pestanya nova ─────────────────────────── */
+(function () {
+  document.querySelectorAll('.prose a[href]').forEach(function (a) {
+    const href = a.getAttribute('href');
+    if (href && (href.startsWith('http://') || href.startsWith('https://'))) {
+      a.setAttribute('target', '_blank');
+      a.setAttribute('rel', 'noopener noreferrer');
+    }
+  });
 })();
 
 /* ── Back to top ────────────────────────────────────────────────────────── */

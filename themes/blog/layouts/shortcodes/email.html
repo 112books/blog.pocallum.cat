@@ -1,0 +1,2 @@
+{{ $parts := split (.Get 0) "@" -}}
+<a class="js-email" data-u="{{ index $parts 0 }}" data-d="{{ index $parts 1 }}" href="#">{{ index $parts 0 }}<span aria-hidden="true">&#64;</span>{{ index $parts 1 }}</a>

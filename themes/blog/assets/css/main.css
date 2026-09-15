@@ -306,6 +306,7 @@ h1, h2, h3, h4 {
   letter-spacing: -0.03em;
   line-height: 1.0;
   font-weight: 800;
+  font-style: italic;
 }
 .home-title .dot { color: var(--accent); }
 .home-stats {
@@ -622,21 +623,57 @@ h1, h2, h3, h4 {
 
 /* ── Pager ─────────────────────────────────────────────────────────────────── */
 .pager {
-  margin-top: var(--space-16);
-  padding-top: var(--space-8);
-  border-top: 1px solid var(--line);
   display: flex;
   align-items: center;
-  justify-content: space-between;
-  gap: var(--space-8);
+  justify-content: center;
+  gap: var(--space-3);
   font-family: var(--f-mono);
-  font-size: 0.8rem;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
+  font-size: 0.78rem;
+  letter-spacing: 0.06em;
 }
-.pager a { color: var(--accent); }
-.pager a:hover { text-decoration: underline; }
-.pager__pages { color: var(--mid); }
+.pager__arrow {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  border: 1px solid var(--line);
+  color: var(--fg);
+  transition: border-color 0.15s, color 0.15s;
+  flex-shrink: 0;
+}
+.pager__arrow:hover { border-color: var(--accent); color: var(--accent); }
+.pager__arrow.is-disabled { color: var(--line); pointer-events: none; }
+.pager__nums {
+  display: flex;
+  align-items: center;
+  gap: var(--space-1);
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.pager__num {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 36px;
+  height: 36px;
+  padding-inline: var(--space-2);
+  border: 1px solid transparent;
+  color: var(--mid);
+  transition: border-color 0.15s, color 0.15s;
+}
+.pager__num:hover { color: var(--fg); border-color: var(--line); }
+.pager__num.is-current {
+  border-color: var(--accent);
+  color: var(--fg);
+  font-weight: 700;
+  pointer-events: none;
+}
+.pager__ellipsis {
+  color: var(--line);
+  padding-inline: var(--space-1);
+  pointer-events: none;
+}
 
 /* ── Prose ─────────────────────────────────────────────────────────────────── */
 .prose { max-width: 40rem; }
@@ -1326,6 +1363,127 @@ h1, h2, h3, h4 {
   .footer-legal { grid-template-columns: 1fr; gap: var(--space-4); text-align: center; }
   .footer-powered { grid-column: 1; }
 }
+
+/* ── Formulari de contacte ──────────────────────────────────────────────────── */
+.contact-page { padding-bottom: var(--space-24); }
+.contact-wrap {
+  padding-inline: var(--space-8);
+  padding-top: var(--space-12);
+}
+.contact-form {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-6);
+  max-width: 42rem;
+}
+.contact-field {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-2);
+}
+.contact-label {
+  font-family: var(--f-mono);
+  font-size: 0.78rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--mid);
+}
+.contact-input {
+  background: var(--bg2);
+  border: 1px solid var(--line);
+  color: var(--fg);
+  font-family: var(--f-body);
+  font-size: 0.95rem;
+  padding: var(--space-4) var(--space-5);
+  outline: none;
+  transition: border-color 0.2s;
+  width: 100%;
+  border-radius: 0;
+  -webkit-appearance: none;
+}
+.contact-input:focus { border-color: var(--accent); }
+.contact-textarea { resize: vertical; min-height: 9rem; }
+.contact-actions { margin-top: var(--space-2); }
+.contact-submit {
+  background: var(--accent);
+  color: #fff;
+  border: none;
+  font-family: var(--f-mono);
+  font-size: 0.85rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  padding: var(--space-4) var(--space-8);
+  cursor: pointer;
+  transition: opacity 0.2s, transform 0.15s;
+}
+.contact-submit:hover { opacity: 0.88; transform: translateY(-1px); }
+.contact-submit:active { opacity: 1; transform: none; }
+.contact-fallback {
+  padding: var(--space-8) 0;
+  color: var(--mid);
+  font-size: 0.95rem;
+}
+.contact-also {
+  margin-top: var(--space-12);
+  padding-top: var(--space-8);
+  border-top: 1px solid var(--line);
+  max-width: 42rem;
+}
+.contact-also-label {
+  font-family: var(--f-mono);
+  font-size: 0.78rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--mid);
+  margin-bottom: var(--space-4);
+}
+.contact-also-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-4) var(--space-6);
+}
+.contact-also-link {
+  font-family: var(--f-mono);
+  font-size: 0.85rem;
+  color: var(--mid);
+  text-decoration: none;
+  transition: color 0.15s;
+  letter-spacing: 0.06em;
+}
+.contact-also-link:hover { color: var(--accent); }
+
+/* ── Núvol d'etiquetes (pàgina de cerca) ────────────────────────────────────── */
+.tag-cloud-section {
+  padding-inline: var(--space-8);
+  padding-top: var(--space-12);
+  padding-bottom: var(--space-16);
+  border-top: 1px solid var(--line);
+  margin-top: var(--space-12);
+}
+.tag-cloud-label {
+  font-family: var(--f-mono);
+  font-size: 0.78rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--mid);
+  margin-bottom: var(--space-6);
+}
+.tag-cloud {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-2) var(--space-3);
+  align-items: baseline;
+  line-height: 1.4;
+}
+.tag-cloud-item {
+  color: var(--mid);
+  text-decoration: none;
+  font-family: var(--f-mono);
+  transition: color 0.15s;
+  white-space: nowrap;
+}
+.tag-cloud-item:hover { color: var(--accent); }
 
 /* ── Respectar preferències de moviment reduït ─────────────────────────────── */
 @media (prefers-reduced-motion: reduce) {

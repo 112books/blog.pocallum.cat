@@ -5,7 +5,7 @@
 <header class="home-header">
   <div class="container">
     <p class="page-eyebrow">Crònica fotogràfica tal com raja — Barcelona des del 2010.</p>
-    <h1 class="home-title">camera<span class="dot">&amp;</span><br>action<span class="dot">!</span></h1>
+    <h1 class="home-title">camera<span class="dot">&amp;</span>action<span class="dot">!</span></h1>
     {{ $words := 0 }}
     {{ range $posts }}{{ $words = add $words .WordCount }}{{ end }}
     <div class="home-stats">
@@ -43,9 +43,32 @@
   {{ if gt $pag.TotalPages 1 }}
   <div class="pager-wrap">
     <nav class="pager" aria-label="Paginació">
-      {{ if $pag.HasPrev }}<a href="{{ $pag.Prev.URL | relURL }}">← Més nous</a>{{ else }}<span></span>{{ end }}
-      <span class="pager__pages">{{ $pag.PageNumber }} / {{ $pag.TotalPages }}</span>
-      {{ if $pag.HasNext }}<a href="{{ $pag.Next.URL | relURL }}">Més antics →</a>{{ else }}<span></span>{{ end }}
+      {{ if $pag.HasPrev }}<a class="pager__arrow" href="{{ $pag.Prev.URL | relURL }}" aria-label="Pàgina anterior">←</a>{{ else }}<span class="pager__arrow is-disabled">←</span>{{ end }}
+
+      <div class="pager__nums">
+        {{ $cur   := $pag.PageNumber }}
+        {{ $total := $pag.TotalPages }}
+        {{ $w     := 2 }}
+        {{ $s     := int (math.Max 1 (sub $cur $w)) }}
+        {{ $e     := int (math.Min $total (add $cur $w)) }}
+
+        {{ if gt $s 1 }}
+          <a class="pager__num" href="{{ (index $pag.Pagers 0).URL | relURL }}">1</a>
+          {{ if gt $s 2 }}<span class="pager__ellipsis">…</span>{{ end }}
+        {{ end }}
+
+        {{ range seq $s $e }}
+          {{ if eq . $cur }}<span class="pager__num is-current" aria-current="page">{{ . }}</span>
+          {{ else }}<a class="pager__num" href="{{ (index $pag.Pagers (sub . 1)).URL | relURL }}">{{ . }}</a>{{ end }}
+        {{ end }}
+
+        {{ if lt $e $total }}
+          {{ if lt $e (sub $total 1) }}<span class="pager__ellipsis">…</span>{{ end }}
+          <a class="pager__num" href="{{ (index $pag.Pagers (sub $total 1)).URL | relURL }}">{{ $total }}</a>
+        {{ end }}
+      </div>
+
+      {{ if $pag.HasNext }}<a class="pager__arrow" href="{{ $pag.Next.URL | relURL }}" aria-label="Pàgina següent">→</a>{{ else }}<span class="pager__arrow is-disabled">→</span>{{ end }}
     </nav>
   </div>
   {{ end }}

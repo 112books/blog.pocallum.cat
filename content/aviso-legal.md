@@ -7,7 +7,7 @@ date: 2020-04-21
 
 **Joan "Linux" Martínez i Serres**
 Barcelona, Catalunya
-Correu electrònic: linuxbcn@gmail.com
+Correu electrònic: {{< email "hola@linuxbcn.com" >}}
 
 ## Objecte i àmbit d'aplicació
 
@@ -17,7 +17,7 @@ Aquest avís legal regula l'ús del lloc web **blog.pocallum.cat**, de titularit
 
 Tots els textos, fotografies i elements gràfics publicats en aquest blog, tret que s'indiqui el contrari, són obra de Joan "Linux" Martínez i Serres i estan protegits per la legislació vigent en matèria de propietat intel·lectual.
 
-Queda prohibida la reproducció total o parcial dels continguts sense autorització expressa i per escrit del titular. Les sol·licituds de llicència o reutilització es poden adreçar a linuxbcn@gmail.com.
+Queda prohibida la reproducció total o parcial dels continguts sense autorització expressa i per escrit del titular. Les sol·licituds de llicència o reutilització es poden adreçar a {{< email "hola@linuxbcn.com" >}}.
 
 ## Responsabilitat
 

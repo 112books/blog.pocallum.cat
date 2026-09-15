@@ -9,6 +9,42 @@
   <div class="cerca-wrap">
     <div id="js-cerca"></div>
   </div>
+
+  {{/* Categories (càmeres i òptiques) */}}
+  {{ $cats := .Site.Taxonomies.categories }}
+  {{ if $cats }}
+  {{ $allCats := $cats.ByCount }}
+  {{ $maxCount := (index $allCats 0).Count }}
+  <div class="tag-cloud-section container--narrow">
+    <p class="tag-cloud-label">Càmeres i òptiques</p>
+    <div class="tag-cloud">
+      {{ range $allCats }}
+      {{ $pct := div (mul .Count 100) $maxCount }}
+      {{ $size := add 75 (div (mul $pct 75) 100) }}
+      <a href="{{ .Page.RelPermalink }}" class="tag-cloud-item tag-cloud-item--cat" style="font-size: {{ $size }}%"
+         title="{{ .Count }} {{ if eq .Count 1 }}post{{ else }}posts{{ end }}">{{ .Page.Title }}</a>
+      {{ end }}
+    </div>
+  </div>
+  {{ end }}
+
+  {{/* Etiquetes */}}
+  {{ $tags := .Site.Taxonomies.tags }}
+  {{ if $tags }}
+  {{ $allTags := $tags.ByCount }}
+  {{ $maxCount := (index $allTags 0).Count }}
+  <div class="tag-cloud-section container--narrow">
+    <p class="tag-cloud-label">Etiquetes</p>
+    <div class="tag-cloud">
+      {{ range $allTags }}
+      {{ $pct := div (mul .Count 100) $maxCount }}
+      {{ $size := add 75 (div (mul $pct 75) 100) }}
+      <a href="{{ .Page.RelPermalink }}" class="tag-cloud-item" style="font-size: {{ $size }}%"
+         title="{{ .Count }} {{ if eq .Count 1 }}post{{ else }}posts{{ end }}">{{ .Page.Title }}</a>
+      {{ end }}
+    </div>
+  </div>
+  {{ end }}
 </div>
 
 {{ with .OutputFormats.Get "RSS" }}
