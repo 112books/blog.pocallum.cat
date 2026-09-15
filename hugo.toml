@@ -48,8 +48,8 @@ defaultContentLanguage = "ca"
   # Activar: 1) habilitar Discussions al repo, 2) instal·lar app a giscus.app,
   #          3) omplir giscusRepoId i giscusCategoryId amb els valors de giscus.app
   giscusRepo       = "112books/blog.pocallum.cat"
-  giscusRepoId     = ""   # R_... — obtenir a giscus.app
-  giscusCategoryId = ""   # DIC_... — obtenir a giscus.app
+  giscusRepoId     = "R_kgDOUarUZA"
+  giscusCategoryId = "DIC_kwDOUarUZM4DFoz1"
 
 [markup]
   [markup.goldmark]
