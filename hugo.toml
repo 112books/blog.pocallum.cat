@@ -41,7 +41,7 @@ defaultContentLanguage = "ca"
   flickr      = "https://www.flickr.com/photos/linuxbcn/"
   webPare     = "https://pocallum.cat"
   defaultOgImage = "https://blog.pocallum.cat/wp-content/uploads/2014/04/7706-Bronica-CN400-014.jpg"
-  goatcounterSite = "blog-pocallum"   # pendent de crear a goatcounter.com
+  goatcounterSite = "pocallum-blog"
 
   # giscus — comentaris via GitHub Discussions
   # Activar: 1) habilitar Discussions al repo, 2) instal·lar app a giscus.app,
