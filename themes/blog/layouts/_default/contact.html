@@ -3,39 +3,27 @@
   <div class="container--narrow">
     <p class="page-eyebrow">Contacte</p>
     <h1 class="page-title">{{ .Title }}</h1>
-    <p class="page-intro">Escriu-me un missatge i te respondré tan aviat com pugui.</p>
+    <p class="page-intro">Vols dir-me alguna cosa? Endavant.</p>
   </div>
 </header>
 
 <div class="contact-page">
   <div class="contact-wrap container--narrow">
 
-    {{ if .Site.Params.formspreeId }}
-    <form class="contact-form" action="https://formspree.io/f/{{ .Site.Params.formspreeId }}" method="POST" novalidate>
-      <div class="contact-field">
-        <label class="contact-label" for="cf-name">Nom</label>
-        <input class="contact-input" type="text" id="cf-name" name="name" autocomplete="name" required>
+    <div class="contact-options">
+      <div class="contact-option">
+        <p class="contact-option__label">Correu electrònic</p>
+        <p class="contact-option__value">
+          <a class="js-email contact-option__link" data-u="hola" data-d="pocallum.cat" href="#">hola<span aria-hidden="true">&#64;</span>pocallum.cat</a>
+        </p>
       </div>
-      <div class="contact-field">
-        <label class="contact-label" for="cf-email">Correu electrònic</label>
-        <input class="contact-input" type="email" id="cf-email" name="email" autocomplete="email" required>
+      <div class="contact-option">
+        <p class="contact-option__label">Formulari de contacte</p>
+        <p class="contact-option__value">
+          <a class="contact-option__link" href="https://pocallum.cat/contacte/" target="_blank" rel="noopener noreferrer">pocallum.cat/contacte/ ↗</a>
+        </p>
       </div>
-      <div class="contact-field">
-        <label class="contact-label" for="cf-msg">Missatge</label>
-        <textarea class="contact-input contact-textarea" id="cf-msg" name="message" rows="6" required></textarea>
-      </div>
-      <input type="text" name="_gotcha" style="display:none" tabindex="-1" autocomplete="off">
-      <input type="hidden" name="_subject" value="Missatge des de blog.pocallum.cat">
-      <div class="contact-actions">
-        <button class="contact-submit" type="submit">Enviar</button>
-      </div>
-    </form>
-    {{ else }}
-    <p class="contact-fallback">
-      Pots contactar directament per correu electrònic:
-      <a class="js-email" data-u="hola" data-d="linuxbcn.com" href="#">hola<span aria-hidden="true">&#64;</span>linuxbcn.com</a>
-    </p>
-    {{ end }}
+    </div>
 
     <div class="contact-also">
       <p class="contact-also-label">També em trobaràs a:</p>

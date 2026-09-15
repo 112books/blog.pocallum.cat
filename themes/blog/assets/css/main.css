@@ -1364,66 +1364,38 @@ h1, h2, h3, h4 {
   .footer-powered { grid-column: 1; }
 }
 
-/* ── Formulari de contacte ──────────────────────────────────────────────────── */
+/* ── Pàgina de contacte ─────────────────────────────────────────────────────── */
 .contact-page { padding-bottom: var(--space-24); }
 .contact-wrap {
   padding-inline: var(--space-8);
   padding-top: var(--space-12);
 }
-.contact-form {
+.contact-options {
   display: flex;
   flex-direction: column;
-  gap: var(--space-6);
+  gap: var(--space-8);
   max-width: 42rem;
 }
-.contact-field {
-  display: flex;
-  flex-direction: column;
-  gap: var(--space-2);
+.contact-option {
+  border-left: 2px solid var(--accent);
+  padding-left: var(--space-6);
 }
-.contact-label {
+.contact-option__label {
   font-family: var(--f-mono);
-  font-size: 0.78rem;
+  font-size: 0.75rem;
   letter-spacing: 0.12em;
   text-transform: uppercase;
   color: var(--mid);
+  margin-bottom: var(--space-2);
 }
-.contact-input {
-  background: var(--bg2);
-  border: 1px solid var(--line);
+.contact-option__value { margin: 0; }
+.contact-option__link {
+  font-size: 1.05rem;
   color: var(--fg);
-  font-family: var(--f-body);
-  font-size: 0.95rem;
-  padding: var(--space-4) var(--space-5);
-  outline: none;
-  transition: border-color 0.2s;
-  width: 100%;
-  border-radius: 0;
-  -webkit-appearance: none;
+  text-decoration: none;
+  transition: color 0.15s;
 }
-.contact-input:focus { border-color: var(--accent); }
-.contact-textarea { resize: vertical; min-height: 9rem; }
-.contact-actions { margin-top: var(--space-2); }
-.contact-submit {
-  background: var(--accent);
-  color: #fff;
-  border: none;
-  font-family: var(--f-mono);
-  font-size: 0.85rem;
-  font-weight: 700;
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
-  padding: var(--space-4) var(--space-8);
-  cursor: pointer;
-  transition: opacity 0.2s, transform 0.15s;
-}
-.contact-submit:hover { opacity: 0.88; transform: translateY(-1px); }
-.contact-submit:active { opacity: 1; transform: none; }
-.contact-fallback {
-  padding: var(--space-8) 0;
-  color: var(--mid);
-  font-size: 0.95rem;
-}
+.contact-option__link:hover { color: var(--accent); }
 .contact-also {
   margin-top: var(--space-12);
   padding-top: var(--space-8);

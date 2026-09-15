@@ -8,6 +8,7 @@
 <div class="cerca-page">
   <div class="cerca-wrap">
     <div id="js-cerca"></div>
+    <p class="cerca-nojs" id="js-cerca-nojs">La cerca requereix el build de staging. En local: <code>hugo -D &amp;&amp; npx pagefind --site public</code></p>
   </div>
 
   {{/* Categories (càmeres i òptiques) */}}
@@ -54,6 +55,7 @@
 <script src="/pagefind/pagefind-ui.js"></script>
 <script>
   window.addEventListener('DOMContentLoaded', () => {
+    document.getElementById('js-cerca-nojs').hidden = true;
     new PagefindUI({
       element: '#js-cerca',
       showSubResults: true,

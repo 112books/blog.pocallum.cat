@@ -1,8 +1,6 @@
 {{ define "main" }}
 {{ $posts := where .Site.RegularPages "Section" "posts" }}
-{{ $depth := sub (strings.Count .File.Path "/") 1 }}
-
-{{ if eq $depth 0 }}
+{{ if .Parent.IsHome }}
 {{/* ── /arxiu/ — túnel del temps ─────────────────────────────────────────── */}}
 {{ $abbrs := dict "1" "gen" "2" "feb" "3" "mar" "4" "abr" "5" "mai" "6" "jun" "7" "jul" "8" "ago" "9" "set" "10" "oct" "11" "nov" "12" "des" }}
 <header class="page-header">
@@ -49,7 +47,7 @@
   </div>
 </div>
 
-{{ else if eq $depth 1 }}
+{{ else if .Parent.Parent.IsHome }}
 {{/* ── /arxiu/YYYY/ — un any ──────────────────────────────────────────────── */}}
 {{ $yearStr := .Date.Format "2006" }}
 {{ $yearPages := slice }}
