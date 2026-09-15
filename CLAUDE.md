@@ -210,7 +210,14 @@ Script `migration/post-processa.py` (executat 2026-09-14, segona execució compl
 6. ✅ **QA parcial** — `scripts/qa-urls.py` executat 2026-09-15: 2.360 URLs; 9 Hugo 404 per interpunt `·` (tots corregits amb `url:` explícit); 1.855 WP 503 per rate limiting (no errors reals). **Pendent: re-executar amb menys workers per confirmar WP 200 a tots els posts.**
 7. ✅ **SEO** — partial `seo.html` centralitzat (robots, description truncada 155, OG, Twitter, JSON-LD dict+safeJS). Meta descriptions Yoast injectades (271 posts). Title-seo injectat (130 posts). Verificat amb json.loads a tots els posts. Commit `9ec8e8258`.
 8. ⏳ **CMS** — Sveltia CMS per publicació remota (single user). Vegeu § Pla CMS.
-9. ⏳ **Deploy** — pujar el `public/` del Hugo al docroot de Dinahosting (`~/www/blog/`), substituint el WordPress però **mantenint `wp-content/uploads`** (les imatges no es mouen). Staging via GitHub Pages (branca `develop`). **Ordre obligatori (lliçó apresa del pare):** pujar HTML + verificar el build *abans* de fer cap canvi de DNS o apagar el WordPress. Apagat en dues passes (freeze + backup).
+9. ✅ **Deploy** (2026-09-15) — pujar el `public/` del Hugo al docroot de Dinahosting (`~/www/blog/`), substituint el WordPress però **mantenint `wp-content/uploads`** (les imatges no es mouen). **FET: producció 100% verificat (25/25 URLs reals del sitemap → 200; 2.353 posts, 94 categories, 3.021 tags).** El WordPress queda congelat online fins a l'apagat acordat.
+
+**Sessió 2026-09-15 — afegits:**
+- **Pàgina 404** del blog adaptada de la del pare (`themes/blog/layouts/404.html` standalone): fons foto `static/images/404.jpg` + overlay, logo `blog.pocallum.cat`, títol "Aquesta foto no s'ha fet.", suggeriments = 3 últimes cròniques amb miniatura (thumbnail). CSS `e404-*` a `assets/css/main.css`. Imatge idèntica a la del pare.
+- **Fix rsync exit 23** a `.github/workflows/deploy-produccio.yml`: afegit `--exclude='.well-known/'` (no pot esborrar `.htaccess` per permisos) i `--omit-dir-times` + `--no-perms` (solució definitiva). Abans cada deploy acabava amb `exit code 23` encara que els fitxers es pugessin bé; ara surt net.
+- **`.htaccess` amb ErrorDocument 404** (`static/.htaccess`): cal perquè Dinahosting/Apache serveixi la 404.html de Hugo en lloc de la pàgina per defecte.
+- **CMS: els 2.027 posts (no 2.353)** que mostra Sveltia és límit de paginació de l'API de GitHub llistant una carpeta enorme — **no és pèrdua de dades**. Els 2.353 fitxers són tots al repo i es renderitzen bé. Impacte: només si volguessis editar un dels 326 "fantasma" caldria fer-ho per git.
+- **L'error "Broken pipe" del primer deploy** no era pèrdua: era connexió tallada en transferència; un rsync incremental en completà la resta.
 
 ---
 
