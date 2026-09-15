@@ -1,1 +1,5 @@
 User-agent: *
+# Cercadors i crawlers d'IA (GPTBot, ClaudeBot, PerplexityBot, Google-Extended…): benvinguts.
+Disallow:
+
+Sitemap: https://112books.github.io/blog.pocallum.cat/sitemap.xml

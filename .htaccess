@@ -1,5 +1,37 @@
 ErrorDocument 404 /404.html
 
+# ── Paritat d'URLs WordPress → Hugo ──────────────────────────────────────────
+# El WP (2010-2026) servia: tags a /tag/<slug>/ (flat) i categories a
+# /category/<pare>/<fill>/ (jeràrquic; pares: camara, optioca, publicacions).
+# Hugo genera /tag/<slug>/ i /category/<fill>/ (aplanat) + índexs a /tags/ i
+# /categories/, i el feed a /feed.xml. Aquestes regles mantenen la paritat:
+#   1) /feed/ del WP → serveix /feed.xml directament (subscriptors existents)
+#   2) categories jeràrquiques del WP → aplanades amb 301
+#   3) plurals provisionals dels primers dies de Hugo (set 2026) → singular
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+
+  # Feed del WP: servir el RSS a /feed/ sense redirect (compatibilitat subscriptors)
+  RewriteRule ^feed/?$ /feed.xml [L]
+  # Feed de comentaris del WP → feed principal
+  RewriteRule ^comments/feed/?$ /feed.xml [R=301,L]
+
+  # Cas especial: horsman-8x10″ (nicename WP amb ″ U+2033) → Hugo l'aplana
+  RewriteRule ^category/camara/horsman-8x10(%E2%80%B3)?/?$ /category/horsman-8x10/ [R=301,L,NC]
+
+  # Categories jeràrquiques del WP → aplanades (301)
+  RewriteRule ^category/(camara|optioca|publicacions)/([^/]+)/?$ /category/$2/ [R=301,L]
+  RewriteRule ^category/(camara|optioca|publicacions)/([^/]+)/page/([0-9]+)/?$ /category/$2/page/$3/ [R=301,L]
+  RewriteRule ^category/(camara|optioca|publicacions)/([^/]+)/feed/?$ /category/$2/ [R=301,L]
+
+  # El pare "publicacions" no existeix com a terme a Hugo → índex de categories
+  RewriteRule ^category/publicacions/?$ /categories/ [R=301,L]
+
+  # Plurals provisionals (Hugo, set 2026) → singular (paritat WP)
+  RewriteRule ^tags/(.+)$ /tag/$1 [R=301,L]
+  RewriteRule ^categories/(.+)$ /category/$1 [R=301,L]
+</IfModule>
+
 # ── HTTP → HTTPS ────────────────────────────────────────────────────────────
 # NOTA: el redirect s'ha de configurar al panell de Dinahosting
 # (o demanar a l'equip que activi "Forçar HTTPS"). Dinahosting usa proxy
