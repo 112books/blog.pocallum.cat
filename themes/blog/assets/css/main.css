@@ -346,6 +346,35 @@ h1, h2, h3, h4 {
 .home-hero-amp  { color: var(--accent); margin: 0 0.05em; }
 .home-hero-bang { color: var(--accent); }
 
+/* ── Home: estadístiques (sobre el footer, pàgina 1) ──────────────────────── */
+.home-stats {
+  border-top: 1px solid var(--line);
+  padding: var(--space-12) 0 var(--space-16);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  gap: var(--space-4) var(--space-10);
+  max-width: var(--container);
+  margin-inline: auto;
+  padding-inline: var(--space-8);
+}
+.home-stat { text-align: right; }
+.home-stat__num {
+  display: block;
+  font-family: var(--f-display);
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.1;
+  letter-spacing: -0.02em;
+}
+.home-stat__label {
+  font-family: var(--f-mono);
+  font-size: 0.6rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--mid);
+}
+
 /* ── Blog mosaic (portada) ─────────────────────────────────────────────────── */
 .blog-mosaic {
   display: grid;
@@ -1263,30 +1292,8 @@ h1, h2, h3, h4 {
 .footer-legal-links a:hover { color: var(--fg); }
 .footer-powered {
   grid-column: 2;
-  text-align: right;
-  justify-self: end;
-  display: flex;
-  flex-direction: column;
-  align-items: flex-end;
-  gap: var(--space-3);
-}
-.footer-stats {
-  display: flex;
-  gap: var(--space-5);
-  flex-wrap: wrap;
-  justify-content: flex-end;
-}
-.footer-stat {
-  font-family: var(--f-mono);
-  font-size: 0.68rem;
-  letter-spacing: 0.06em;
-  color: var(--mid);
-  white-space: nowrap;
-}
-.footer-stat strong {
-  color: var(--fg);
-  font-weight: 600;
-  font-variant-numeric: tabular-nums;
+  text-align: center;
+  justify-self: center;
 }
 .footer-powered-link {
   font-family: var(--f-mono);

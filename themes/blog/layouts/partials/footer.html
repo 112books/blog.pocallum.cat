@@ -46,15 +46,8 @@
       </nav>
     </div>
     <div class="footer-powered">
-      {{ $posts := where .Site.RegularPages "Section" "posts" }}
-      {{ $words := 0 }}{{ range $posts }}{{ $words = add $words .WordCount }}{{ end }}
-      <div class="footer-stats">
-        <span class="footer-stat"><strong class="js-count" data-count="{{ len $posts }}">{{ len $posts }}</strong> posts</span>
-        <span class="footer-stat"><strong class="js-count" data-count="{{ $words }}">{{ $words }}</strong> paraules</span>
-        <span class="footer-stat"><strong class="js-count" data-count="{{ len .Site.Taxonomies.categories }}">{{ len .Site.Taxonomies.categories }}</strong> càmeres</span>
-        <span class="footer-stat"><strong class="js-count" data-count="{{ len .Site.Taxonomies.tags }}">{{ len .Site.Taxonomies.tags }}</strong> etiquetes</span>
-      </div>
       <a href="{{ .Site.Params.webPare }}" class="footer-powered-link" target="_blank" rel="noopener noreferrer">Powered by <strong>Pocallum</strong></a>
+      <p class="footer-powered-services">Consultancy | Development | Hosting | Design</p>
     </div>
   </div>
 </footer>

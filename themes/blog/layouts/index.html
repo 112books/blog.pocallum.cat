@@ -23,6 +23,28 @@
   {{ end }}
 </div>
 
+{{ if eq $pag.PageNumber 1 }}
+{{ $words := 0 }}{{ range $posts }}{{ $words = add $words .WordCount }}{{ end }}
+<div class="home-stats">
+  <div class="home-stat">
+    <span class="home-stat__num js-count" data-count="{{ len $posts }}">0</span>
+    <span class="home-stat__label">posts</span>
+  </div>
+  <div class="home-stat">
+    <span class="home-stat__num js-count" data-count="{{ $words }}">0</span>
+    <span class="home-stat__label">paraules</span>
+  </div>
+  <div class="home-stat">
+    <span class="home-stat__num js-count" data-count="{{ len .Site.Taxonomies.categories }}">0</span>
+    <span class="home-stat__label">càmeres</span>
+  </div>
+  <div class="home-stat">
+    <span class="home-stat__num js-count" data-count="{{ len .Site.Taxonomies.tags }}">0</span>
+    <span class="home-stat__label">etiquetes</span>
+  </div>
+</div>
+{{ end }}
+
 {{ if gt $pag.TotalPages 1 }}
 <div class="pager-wrap">
   <nav class="pager" aria-label="Paginació">
