@@ -28,6 +28,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/10/IMG_1092.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/10/IMG_0979-1024x683.jpg
+description: "El bailaor Julio Ruiz presenta La Família dins el festival Ciutat Flamenco Barcelona, un espectacle intens i multidisciplinari que fusiona ball, música i emoció. Crònica i fotografies al blog.pocallum.cat."
+title-seo: "Julio Ruiz – La Família: flamenco, dansa i força animal al Ciutat Flamenco Barcelona"
 ---
 
 ![](https://blog.pocallum.cat/wp-content/uploads/2025/10/IMG_0979-1024x683.jpg)

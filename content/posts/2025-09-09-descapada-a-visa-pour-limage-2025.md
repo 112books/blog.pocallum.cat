@@ -26,6 +26,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/09/DSCF1636.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/09/DSCF1636-683x1024.jpg
+description: "Descobreix el 37è Festival Internacional de Fotoperiodisme de Perpinyà, Visa Pour l’Image 2025, amb recomanacions, reportatge personal i llistat d’exposicions destacades d’autors internacionals."
+title-seo: "Visa Pour l’image 2025 Perpinyà fotoperiodisme"
 ---
 
 [![Reportatge fotogràfic Visa Pour l’Image 2025 a Perpinyà](https://blog.pocallum.cat/wp-content/uploads/2025/09/DSCF1636-683x1024.jpg)](https://photos.app.goo.gl/XnkzHzpiGiVFkV5y6)

@@ -206,7 +206,7 @@ Script `migration/post-processa.py` (executat 2026-09-14, segona execució compl
 Replicar el dashboard del pare: `static/admin/index.html` autocontingut (estètica pocallum, protegit per contrasenya SHA-256) + `static/admin/analytics.json` generat cada hora per GitHub Actions des de l'API de GoatCounter.
 
 - **Referència:** repo `../goatcounter-dashboard` i implementació del pare (`../pocallum.cat/static/admin/`, `scripts/`, `.github/workflows/fetch-analytics.yml`)
-- **GoatCounter existent:** el blog ja té GoatCounter configurat al WordPress (`wp-admin → goatcounter-wp` → site code `blog-pocallum.cat`). Reaprofitarem el site ja creat (mateix codi) en lloc de crear-ne un de nou. Caldrà afegir el `GOATCOUNTER_TOKEN` al repo i indicar el site code correcte al `hugo.toml` (pendent de confirmar el codi exacte).
+- **GoatCounter existent:** el blog ja té GoatCounter configurat al WordPress (`wp-admin → goatcounter-wp` → site code `pocallum-blog`; verificat directament al HTML que emet el WP: `data-goatcounter="https://pocallum-blog.goatcounter.com/count"`). **Reaprofitarem el site ja creat** (mateix codi) en lloc de crear-ne un de nou. El `hugo.toml` ja té `goatcounterSite = "pocallum-blog"` — **no canviar-lo**. Falta afegir el `GOATCOUNTER_TOKEN` al repo (secret de GitHub Actions), pendent.
 - **Implementació:** fases 4–5, un cop el tema estigui en marxa
 
 ---

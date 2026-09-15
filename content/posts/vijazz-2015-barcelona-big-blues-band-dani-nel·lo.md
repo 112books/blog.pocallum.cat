@@ -12,6 +12,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2015/07/IMG_8613-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2015/07/IMG_8613-1024x682.jpg
+description: "Barcelona Big Blues Band i Dani Nel·lo al ViJazz 2015 a Rambla Vilafranca del Penedès. Concert memorable de blues en nit d'estiu"
+title-seo: "ViJazz 2015: Barcelona Big Blues Band + Dani Nel·lo | Vilafranca"
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2015/07/IMG_8613-1024x682.jpg)](https://photos.app.goo.gl/7SubrBqkqzdPGHEG7)

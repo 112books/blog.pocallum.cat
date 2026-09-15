@@ -11,6 +11,8 @@ author: "fatmin"
 tags: []
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2026/01/IMG_3982.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2026/01/IMG_3947-1024x683.jpg
+description: "Concert de la Sant Andreu Jazz Band celebrant el seu 20è aniversari a la Nau Bostik, tancant el cicle del 10è aniversari de l’espai. Crònica i fotografies del concert."
+title-seo: "20è aniversari de la Sant Andreu Jazz Band a la Nau Bostik"
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2026/01/IMG_3947-1024x683.jpg)](https://photos.app.goo.gl/veWMrEoaUHrhra697)

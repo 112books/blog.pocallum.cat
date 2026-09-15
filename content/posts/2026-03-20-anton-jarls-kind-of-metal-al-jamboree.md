@@ -34,6 +34,8 @@ tags:
   - "swing"
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2026/03/IMG_6949.jpg
+description: "Crònica del concert d’Anton Jarl amb Kind of Metal al Jamboree de Barcelona, una fusió explosiva de jazz, hard rock i metal amb una formació de luxe."
+title-seo: "Anton Jarl Kind of Metal al Jamboree de Barcelona | Crònica concert jazz"
 ---
 
 https://vimeo.com/1175801967?share=copy&fl=sv&fe=ci

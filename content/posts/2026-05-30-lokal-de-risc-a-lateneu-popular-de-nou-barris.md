@@ -26,6 +26,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2026/06/IMG_8028.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2026/06/IMG_8028-1024x683.jpg
+description: "Crònica fotogràfica del Lokal de Risc celebrat a l’Ateneu Popular de Nou Barris amb la participació d’artistes de La Cinètika dins la festa de final de curs."
+title-seo: "Lokal de Risc a l’Ateneu Popular de Nou Barris | Crònica i fotografies"
 ---
 
 <figure>

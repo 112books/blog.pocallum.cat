@@ -26,6 +26,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/11/2025-11-06-Zero2000-Portra400-NauBostik-0004.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/11/2025-11-06-Zero2000-Portra400-NauBostik-0004-1024x1024.jpg
+description: "Fotografia estenopeica en color amb la Zero2000 i un rodet Portra 400 per retratar el nou mural d’Emilio Cerezo a la Nau Bostik. Crònica del desè aniversari, el taller de cianotípia i una sessió improvisada plena de bona gent i millor llum."
+title-seo: "Zero2000 i Portra400 a la Nau Bostik — Fotografia estenopeica en color"
 ---
 
 [![Façana de la Nau Bostik decorada per Emilio Cerezo](https://blog.pocallum.cat/wp-content/uploads/2025/11/2025-11-06-Zero2000-Portra400-NauBostik-0004-1024x1024.jpg)](https://photos.app.goo.gl/GPpuv5nEtbTNj6c1A)

@@ -18,6 +18,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/10/IMG_3823.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2024/10/IMG_3823-1024x683.jpg
+description: "Concert de Raquel Lua, jove cantant i guitarrista de Nou Barris, al Casal de Barri de Prosperitat. Descobreix les imatges d'aquesta nit inoblidable i no et perdis les properes activitats culturals!"
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2024/10/IMG_3823-1024x683.jpg)](https://photos.app.goo.gl/Ltu19LjBGVwo7rQs7)

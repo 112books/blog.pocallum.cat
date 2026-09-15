@@ -19,6 +19,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/06/L1510323.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/06/L1510323-1024x576.jpg
+description: "Descobreix com el telèfon intel·ligent s’ha convertit en una eina imprescindible per al viatger i fotògraf: geolocalització, cronologia, panoràmiques, macro, fotometria i compartició d’imatges, tot en un mateix dispositiu."
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2025/06/L1510323-1024x576.jpg)](https://photos.app.goo.gl/Ns1SUgqBAMvaMz496)

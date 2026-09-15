@@ -18,6 +18,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/04/2025-04-04-Sproket-KodakXplus125-Varies-0000.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/04/2025-04-04-Sproket-KodakXplus125-Varies-0000-1024x443.jpg
+description: "Explora la fotografia analògica amb la Sprocket Rocket, una càmera-joguina panoràmica ideal per experimentar amb pel·lícules caducades, exposicions llargues i revelat casolà."
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2025/04/2025-04-04-Sproket-KodakXplus125-Varies-0000-1024x443.jpg)](https://photos.app.goo.gl/X2poY1uiXExswEg19)

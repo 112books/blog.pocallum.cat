@@ -30,6 +30,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2026/02/IMG_5034.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2026/02/IMG_4838-1024x683.jpg
+description: "Crònica i reportatge fotogràfic del Nou Barris Naits 2026 a l’Ateneu Popular de Nou Barris amb The Capaces i Elektra. Rock, autogestió i escena local."
+title-seo: "Nou Barris Naits 2026: The Capaces i Elektra a l’Ateneu Popular de Nou Barris"
 ---
 
 ## Ahir el rock’n’roll es va tornar a sentir a Nou Barris, i ja era hora.

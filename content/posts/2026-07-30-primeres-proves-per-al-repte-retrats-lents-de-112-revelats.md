@@ -19,6 +19,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2026/07/2026-29-ZeroCam2k-Foma400-PinholePortraitsAnike-0001.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2026/07/2026-29-ZeroCam2k-Foma400-PinholePortraitsAnike-0001-1024x1024.jpg
+description: "Primeres proves de retrats estenopeics amb la Zero 2000 per al repte Retrats Lents de 112 Revelats, amb Anike i Carolina."
+title-seo: "Retrats estenopeics amb la Zero 2000 | 112 Revelats"
 ---
 
 <figure>

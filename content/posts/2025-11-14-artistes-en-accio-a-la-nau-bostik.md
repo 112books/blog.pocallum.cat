@@ -20,6 +20,8 @@ tags:
   - "werens"
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/11/2025-11-14-Hassel-50mm-Foma400-Nau-Bostik-0015.jpg
+description: "Descobreix els nous murals de la Nau Bostik en el seu 10è aniversari. Artistes com Emilio Cerezo, Martí SAWE, Werens i molts més redecoren les parets d’aquest emblemàtic espai urbà amb B-Murals."
+title-seo: "Art urbà a la Nau Bostik: Celebrem el 10è aniversari amb 13 nous murals"
 ---
 
 https://vimeo.com/1136973002?share=copy&fl=sv&fe=ci

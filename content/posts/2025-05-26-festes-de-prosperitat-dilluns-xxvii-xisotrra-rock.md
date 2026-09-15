@@ -24,6 +24,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/05/DSCF1212.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/05/DSCF1212-1024x683.jpg
+description: "Crònica de la XXVII edició del Xistorra Rock durant les Festes de Prosperitat, amb música en directe, xistorra, cervesa i l’ambient inconfusible de barri. Descobreix com es va viure la festa i accedeix a la galeria de fotografies."
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2025/05/DSCF1212-1024x683.jpg)](https://photos.app.goo.gl/twwetx5NbxXHDeDn8)

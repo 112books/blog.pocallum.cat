@@ -29,6 +29,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2026/01/IMG_4392.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2026/01/IMG_4392-1024x683.jpg
+description: "Reviveix la màgia de Sax-o-Rama 2026 a La Paloma amb la Barcelona Big Blues Band i convidats especials com Dani Nel·lo i Megumi Mesaku."
+title-seo: "Inauguració Sax-o-Rama 2026 – Barcelona Big Blues Band i convidats"
 ---
 
 ![](https://blog.pocallum.cat/wp-content/uploads/2026/01/IMG_4392-1024x683.jpg)

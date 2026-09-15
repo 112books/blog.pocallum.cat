@@ -17,6 +17,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/03/2025-03-28-Lc-a-Foma100@50-R150-cumple-Mel0016.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/03/2025-03-28-Lc-a-Foma100@50-R150-cumple-Mel0016-1024x591.jpg
+description: "Celebració d’aniversaris a la Nau Bostik: un dia inesperat de felicitat i companyonia entre els Bostikians."
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2025/03/2025-03-28-Lc-a-Foma100@50-R150-cumple-Mel0016-1024x591.jpg)](https://photos.app.goo.gl/2f5Ppn4xyRZYX4rVA)

@@ -30,6 +30,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/09/2025-09-13-LM6-Foma400@1600-CalellaHarmonicaFest-A-0008.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/09/2025-09-13-LM6-Foma400@1600-CalellaHarmonicaFest-A-0008-1024x638.jpg
+description: "Viu el Calella Harmonica Festival 2025: concerts d’harmònica, Ariel Bart, Cece Giannotti, exposició de blues i una gran paella marinera."
+title-seo: "Calella Harmonica Festival 2025 – Música, exposicions i paella"
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2025/09/2025-09-13-LM6-Foma400@1600-CalellaHarmonicaFest-A-0008-1024x638.jpg)](https://photos.app.goo.gl/exYm6T73HjNUg1dH6)

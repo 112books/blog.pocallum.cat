@@ -18,6 +18,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2026/08/2026-29-NikonFM-Foma200-Anike-Test-nikon-0023.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2026/08/2026-29-LM6-Foma400@800-Anike-despedida-0026-1024x614.jpg
+description: "Una Nikon FM, pel·lícula Foma 200 forçada a 800 i una sessió de retrats amb l’Anike. Fotografia analògica, experiments i una mica de risc."
+title-seo: "Anike volant amb una Nikon FM | Pocallum"
 ---
 
 ![Anike, inconscient ella, oferint-me la seva preciosa Nikon FM.](https://blog.pocallum.cat/wp-content/uploads/2026/08/2026-29-LM6-Foma400@800-Anike-despedida-0026-1024x614.jpg)

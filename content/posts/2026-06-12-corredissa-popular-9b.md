@@ -28,6 +28,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2026/06/DSCF5284.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2026/06/DSCF5284-1024x683.jpg
+description: "Crònica de la primera Corredissa Popular 9B a Nou Barris: una jornada esportiva i antiracista que uneix barris en lluita i convivència."
+title-seo: "Corredissa Popular 9B a Nou Barris contra el racisme | Crònica"
 ---
 
 <figure>

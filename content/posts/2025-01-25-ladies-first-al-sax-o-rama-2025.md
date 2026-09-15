@@ -26,6 +26,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/01/DSCF7746.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/01/DSCF7746-1-1024x576.jpg
+description: "Descobreix com la música, des de la seva dimensió estètica fins al seu paper com a constructe social, ha evolucionat com a art i eina cultural al llarg de la història."
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2025/01/DSCF7746-1-1024x576.jpg)](https://photos.app.goo.gl/tpzpKE4DLJJbry1a9)

@@ -18,6 +18,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/02/IMG_0844-2.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/02/IMG_0844-2-819x1024.jpg
+description: "Descobreix el llibre 'Rockers' d'Olaf Pla Gracia, una recopilació d'instantànies clàssiques del Rock and Roll en blanc i negre"
 ---
 
 ![](https://blog.pocallum.cat/wp-content/uploads/2025/02/IMG_0844-2-819x1024.jpg)

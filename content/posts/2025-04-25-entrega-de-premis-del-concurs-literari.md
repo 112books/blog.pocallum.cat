@@ -18,6 +18,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/04/IMG_2444.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/04/IMG_2444-1024x768.jpg
+description: "Descobreix com va ser l’entrega de premis del Concurs de microrelats i poesia curta 2025, organitzat per Paraules Indòmites al Casal de Barri Prosperitat, amb participació rècord i actuació musical de LVDD. Mira els clips de la jornada!"
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2025/04/IMG_2444-1024x768.jpg)](https://photos.app.goo.gl/tWh6gW245xCkfVfS6)

@@ -24,6 +24,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/11/L1500082-Mejorado-NR.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2024/11/L1500082-Mejorado-NR-1024x576.jpg
+description: "Descobreix el futur de la música a Barcelona amb aquesta big band de joves talents peninsulars. Un concert espectacular a la Nau Bostik que demostra la qualitat i versatilitat d'aquests intèrprets formats a les escoles de música de la ciutat."
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2024/11/L1500082-Mejorado-NR-1024x576.jpg)](https://photos.app.goo.gl/bjBTgD4d72YGXbV86)

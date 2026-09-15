@@ -25,6 +25,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/02/DSCF8669.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/02/DSCF8669-1024x577.jpg
+description: "Celebrem 10 anys de cultura i comunitat a la Nau Bostik amb una calçotada especial. Descobreix les fotos i reviu aquesta jornada memorable al cor de La Sagrera."
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2025/02/DSCF8669-1024x577.jpg)](https://photos.app.goo.gl/r1GGy7Rt5wyT5LPB6)

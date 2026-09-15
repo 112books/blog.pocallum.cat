@@ -18,6 +18,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/03/2025-03-19-LM6-Brightin-Star-28mmf2.8-APX400-Test-0013.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/03/2025-03-19-LM6-Brightin-Star-28mmf2.8-APX400-Test-0013-1024x633.jpg
+description: "Descobreix les primeres impressions de la nova òptica Brightin Star 28mm f/2.8. Una opció econòmica i robusta per als amants de les òptiques angulars."
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2025/03/2025-03-19-LM6-Brightin-Star-28mmf2.8-APX400-Test-0013-1024x633.jpg)](https://photos.app.goo.gl/2oNKnob8yQsePmqu8)

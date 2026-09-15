@@ -21,6 +21,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/05/DSCF1521.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/05/DSCF1521-1024x683.jpg
+description: "Crònica de la nit de dijous a les Festes de Prosperitat 2025, amb el BizaRip Interpenas a la plaça Santa Engràcia, les actuacions originals de Nauta Loops i l’energia pop-yéyé de Las Bizaplayers, en un ambient festiu i intergeneracional."
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2025/05/DSCF1521-1024x683.jpg)](https://photos.app.goo.gl/9u5Az6yo4A4a95Ge9)

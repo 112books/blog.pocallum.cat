@@ -19,6 +19,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/09/2025-08-27-LM6-RPX100@200-Espot-0036.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/09/2025-08-27-LM6-RPX100@200-Espot-0036-615x1024.jpg
+description: "Experiència personal al Parc Natural d’Aigüestortes al mes d’agost de 2025, captant amb Leica M6 i pel·lícula analògica els paisatges de muntanya, boires i textures reals que el digital no pot oferir."
+title-seo: "Aigüestortes amb Fotografia Analògica: Un viatge a l’Alta Muntanya"
 ---
 
 ![Les agudes al Parc Nacional d'Aigüestortes](https://blog.pocallum.cat/wp-content/uploads/2025/09/2025-08-27-LM6-RPX100@200-Espot-0036-615x1024.jpg)

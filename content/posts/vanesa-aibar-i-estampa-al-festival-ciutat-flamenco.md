@@ -26,6 +26,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/10/IMG_1464.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/10/IMG_1464-1024x683.jpg
+description: "Crònica de l’espectacle “Cristalización IV” de Vanesa Aibar amb Estampa, una fusió de dansa, llum i flamenc al Festival Ciutat Flamenco."
 ---
 
 ![](https://blog.pocallum.cat/wp-content/uploads/2025/10/IMG_1464-1024x683.jpg)

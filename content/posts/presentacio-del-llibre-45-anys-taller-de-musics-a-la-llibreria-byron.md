@@ -23,6 +23,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/12/L1530887.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/12/L1530887-1024x576.jpg
+description: "Assistència a la presentació del llibre 45 anys Taller de Músics a la Llibreria Byron, obra de Lluís Cabrera i Joan Tomás. Una trobada plena d’història, música i emoció, amb novetats sobre el Patronat i un final musical inoblidable."
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2025/12/L1530887-1024x576.jpg)](https://photos.app.goo.gl/unZHWJWXcsu3ecUFA)

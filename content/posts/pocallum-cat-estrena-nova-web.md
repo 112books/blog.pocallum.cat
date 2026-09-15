@@ -22,6 +22,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2026/05/pocallum-home-04.png
 image: https://blog.pocallum.cat/wp-content/uploads/2026/05/pocallum-home-04-1024x774.png
+description: "Pocallum.cat estrena una nova web desenvolupada per LinuxBCN.cat: més ràpida, visual, segura i respectuosa amb la privacitat. Fotografia cultural sense artificis."
+title-seo: "Nova web de Pocallum.cat — fotografia cultural més ràpida, neta i independent"
 ---
 
 ![](https://blog.pocallum.cat/wp-content/uploads/2026/05/pocallum-home-04-1024x774.png)

@@ -27,6 +27,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/04/2025-04-19-LCa-Foma100@200-Varies-0034.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/04/2025-04-19-LM6-Foma100@400-Tavertet-2-0024-1024x613.jpg
+description: "Una ruta espectacular pels Cingles de Tavertet i Sot de Balà, una travessa per la natura feréstega del Collsacabra amb vistes impressionants i fotografies analògiques."
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2025/04/2025-04-19-LM6-Foma100@400-Tavertet-2-0024-1024x613.jpg)](https://photos.app.goo.gl/PeN3CwLSuQzvACjB6)

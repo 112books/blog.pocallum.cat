@@ -26,6 +26,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/11/2024-11-08-APX400@1600-Paula-Dominguez-0029.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2024/11/2024-11-08-APX400@1600-Paula-Dominguez-0029-1024x682.jpg
+description: "Gaudeix del recital flamenc 'Un paseo por Morente' al Casal de Barri de Prosperitat, amb Paula Domínguez, Marc López i artistes convidats. Un viatge musical que explora la fusió de la poesia de Lorca amb gèneres com el rock i el jazz, tot en un ambient íntim i acollidor."
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2024/11/2024-11-08-APX400@1600-Paula-Dominguez-0029-1024x682.jpg)](https://photos.app.goo.gl/7zonUQwmXrjjv2sz5)

@@ -36,6 +36,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2026/06/IMG_8902.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2026/06/IMG_8902-1024x683.jpg
+description: "Crònica del concert homenatge a Elvis Presley amb la Barcelona Big Blues Band a Luz de Gas (Barcelona). Energia Rock’n’Roll, grans veus i fotografia de directe."
+title-seo: "Elvis amb Barcelona Big Blues Band a Luz de Gas | Crònica concert Barcelona"
 ---
 
 ![Un moment del show amb Noa VD a la veu](https://blog.pocallum.cat/wp-content/uploads/2026/06/IMG_8902-1024x683.jpg)

@@ -21,6 +21,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/12/2024-09-LM6-Foma100@200-Rodinal150-Menorca-B-0014.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2024/12/2024-09-LM6-Foma100@200-Rodinal150-Menorca-B-0014-1-1024x594.jpg
+description: "La meva escapada a l'illa preferida, on vaig compartir moments amb amics apassionats de la fotografia, vaig capturar racons únics i vaig planificar un futur taller de fotografia i gastronomia."
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2024/12/2024-09-LM6-Foma100@200-Rodinal150-Menorca-B-0014-1-1024x594.jpg)](https://photos.app.goo.gl/JQNkuW5DqnkNPW4Y8)

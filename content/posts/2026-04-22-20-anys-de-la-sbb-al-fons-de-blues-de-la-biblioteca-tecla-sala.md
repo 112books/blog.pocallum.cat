@@ -35,6 +35,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2026/04/L1540933.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2026/04/L1540933-1024x683.jpg
+description: "Celebració dels 20 anys de la Societat de Blues de Barcelona a la Biblioteca Tecla Sala: exposició fotogràfica, documental i concert amb figures del blues."
+title-seo: "20 anys de la Societat de Blues de Barcelona a la Tecla Sala"
 ---
 
 <figure>

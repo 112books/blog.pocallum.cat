@@ -21,6 +21,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/02/IMG_0808.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/02/IMG_0808-576x1024.jpg
+description: "Descobreix com les exposicions del KBr transformen el gris en color. Fotografia, art i contrast visual. Clica per veure imatges i detalls"
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2025/02/IMG_0808-576x1024.jpg)](https://photos.app.goo.gl/pbfmGgQ8z4K8E2P67)

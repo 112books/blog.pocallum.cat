@@ -24,6 +24,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/06/2025-06-05-LM6-Foma100@200-Salines-i-Ciutadella-0045.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/06/2025-06-05-LM6-Foma100@200-Salines-i-Ciutadella-0045-1024x630.jpg
+description: "Descobreix Ciutadella de Menorca: història mil·lenària, arquitectura amb influències angleses i mediterrànies, festes de Sant Joan, mercat del peix i racons plens d’encant. Un destí imprescindible per als amants de la cultura, la fotografia i la bona cuina."
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2025/06/2025-06-05-LM6-Foma100@200-Salines-i-Ciutadella-0045-1024x630.jpg)](https://photos.app.goo.gl/PbMQYAvhxyiz51KN6)

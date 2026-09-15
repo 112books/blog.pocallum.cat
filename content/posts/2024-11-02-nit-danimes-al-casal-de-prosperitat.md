@@ -19,6 +19,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/11/DSCF6113.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2024/11/DSCF6113-1024x683.jpg
+description: "Nit d'Animes 2024 al Casal Prosperitat: Passatge del Terror èxit total! Dedicació, qualitat i rècord d'afluència. Fotos 9BarrisImatge amb Fuji X-A1. Terror comunitàri!"
+title-seo: "Nit d'Animes 2024 Casal Prosperitat | Passatge Terror"
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2024/11/DSCF6113-1024x683.jpg)](https://photos.app.goo.gl/BHw4yyDkC8vNRWJ66)

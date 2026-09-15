@@ -29,6 +29,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2026/04/positivitzador.png
 image: https://blog.pocallum.cat/wp-content/uploads/2026/04/photo_2026-04-29-09.13.37-473x1024.jpeg
+description: "Eina gratuïta per positivitzar negatius fotogràfics amb el mòbil. Descobreix Positivador WebApp, desenvolupada per Llumàtics i LinuxBCN per al treball al laboratori."
+title-seo: "Positivador WebApp: com veure negatius en positiu amb el mòbil"
 ---
 
 ![](https://blog.pocallum.cat/wp-content/uploads/2026/04/photo_2026-04-29-09.13.37-473x1024.jpeg)

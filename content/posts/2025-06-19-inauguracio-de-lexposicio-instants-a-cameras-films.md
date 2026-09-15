@@ -22,6 +22,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/06/2025-06-19-LM6-28mm-RPX400@1600-INSTANTS-0015.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/06/2025-06-19-LM6-28mm-RPX400@1600-INSTANTS-0015-1024x620.jpg
+description: "Descobreix “Instants”, l’exposició de 50 polaroids originals realitzades per 5 dones fotògrafes a Cameras & Films Barcelona. Retrats íntims i rebels en una aposta per la fotografia analògica més contemporània."
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2025/06/2025-06-19-LM6-28mm-RPX400@1600-INSTANTS-0015-1024x620.jpg)](https://photos.app.goo.gl/RXiq7KmcXHDAzUBF9)

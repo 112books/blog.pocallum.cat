@@ -26,6 +26,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/04/2025-04-19-LM6-RPX400@200-Visita-Guilli-Capibola-0012.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/04/2025-04-19-LM6-RPX400@200-Visita-Guilli-Capibola-0012-1024x606.jpg
+description: "Descobreix Capibola Blues Experience, un espai únic a la vessant de Montserrat dedicat a la residència, creació i difusió musical, amb activitats per a músics, escoles i col·lectius locals."
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2025/04/2025-04-19-LM6-RPX400@200-Visita-Guilli-Capibola-0012-1024x606.jpg)](https://photos.app.goo.gl/omEecyWgeYzvcDnJ6)

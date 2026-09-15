@@ -20,6 +20,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/11/2025-10-27-LM6-28mm-RPX100@200-Tavertet-0032.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/11/2025-10-27-LM6-28mm-RPX100@200-Tavertet-0032-1024x641.jpg
+description: "Escapada fotogràfica de tardor per Les Guilleries amb Manel Sala “Ulls”. Dos rodets en blanc i negre, Fomapan i Rollei RPX 100 revelats en Rodinal."
+title-seo: "Les Guilleries – Escapada de tardor amb càmera analògica"
 ---
 
 ![](https://blog.pocallum.cat/wp-content/uploads/2025/11/2025-10-27-LM6-28mm-RPX100@200-Tavertet-0032-1024x641.jpg)

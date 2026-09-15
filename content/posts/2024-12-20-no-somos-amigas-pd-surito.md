@@ -22,6 +22,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/12/DSCF7291.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2024/12/DSCF7291-1024x683.jpg
+description: "Ja estan disponibles les fotografies del concert de ‘No Somos Amigas’, un homenatge a la trajectòria d’Akelarre. Reviveix els moments màgics d’una nit plena d’activisme feminista, queer i anticapitalista al Casal de Barri de Prosperitat."
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2024/12/DSCF7291-1024x683.jpg)](https://photos.app.goo.gl/sKKNecQYHhxjyt1s5)

@@ -23,6 +23,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/05/IMG_7085-copia.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/05/IMG_6965-683x1024.jpg
+description: "Sessió digital en color amb la Petzval Art Lens 85mm f/2.2 de Lomography, inspirada en la llegendària òptica de 1840. Descobreix els retrats de Mabe amb el vestit xinès i l’efecte de remolí únic d’aquesta lent artística."
 ---
 
 ![](https://blog.pocallum.cat/wp-content/uploads/2025/05/IMG_6965-683x1024.jpg)

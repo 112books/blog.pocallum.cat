@@ -20,6 +20,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/03/DSCF0134.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/03/DSCF0134-1024x577.jpg
+description: "L’obra “Tirititrans Trans Trans” al Casal de Prosperitat explora la realitat de quatre dones trans en situació de prostitució, interpel·lant el públic a reflexionar sobre prejudicis i a impulsar el canvi social."
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2025/03/DSCF0134-1024x577.jpg)](https://photos.app.goo.gl/4NoQuCyz2yBQKXVw9)

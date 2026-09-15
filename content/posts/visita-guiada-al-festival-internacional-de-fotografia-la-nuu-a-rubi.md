@@ -23,6 +23,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/10/2025-10-13-LCa-Foma400@800-Varies-0013.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/10/2025-10-13-LCa-Foma400@800-Varies-0013-1024x616.jpg
+description: "Descobreix La Nuu, el festival internacional de fotografia de Rubí, amb aquesta crònica d’una visita guiada plena d’art i bona companyia."
+title-seo: "Visita guiada al Festival Internacional de Fotografia La Nuu a Rubí"
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2025/10/2025-10-13-LCa-Foma400@800-Varies-0013-1024x616.jpg)](https://photos.app.goo.gl/CsEtzkryVnfmwugj7)

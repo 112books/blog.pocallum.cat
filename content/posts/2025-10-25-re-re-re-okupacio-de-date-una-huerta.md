@@ -9,6 +9,8 @@ author: "fatmin"
 tags: []
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/11/DSCF2105.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/11/DSCF2105-1024x683.jpg
+description: "Crònica de la re-re-re-okupació de l’hort comunitari Date una Huerta, al barri de la Prosperitat. Història, funció social i resistència veïnal davant l’especulació al solar del carrer Joaquim Valls 79."
+title-seo: "Re-re-re-okupació de Date una Huerta | Hort comunitari de la Prosperitat"
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2025/11/DSCF2105-1024x683.jpg)](https://photos.app.goo.gl/N9RParU6XWstkacn6)

@@ -29,6 +29,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2026/05/DSCF4583.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2026/05/DSCF4583-1024x683.jpg
+description: "La tradicional cercavila de les Festes de la Prosperitat 2026: aigua, batucada, diables, sardines a la brasa i molta vida de barri."
+title-seo: "Cercavila de les Festes de la Prosperitat 2026 | Pocallum"
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2026/05/DSCF4583-1024x683.jpg)](https://photos.app.goo.gl/rfG5FP859F4QS4uT9)

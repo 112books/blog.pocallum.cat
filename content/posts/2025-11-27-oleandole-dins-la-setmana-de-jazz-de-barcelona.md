@@ -30,6 +30,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/11/2025-11-27-LM6-Foma400@1600-Oleandole-A-0014.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/11/2025-11-27-LM6-Foma400@1600-Oleandole-A-0015-1024x681.jpg
+description: "Crònica de la vetllada d’Oleandole a la Setmana de Jazz de Barcelona: flamencojazz, energia i fotografies en vídeo. Una nit curta però brillant."
+title-seo: "‘Oleandole’ a la Setmana de Jazz de Barcelona – Crònica i fotos"
 ---
 
 ![](https://blog.pocallum.cat/wp-content/uploads/2025/11/2025-11-27-LM6-Foma400@1600-Oleandole-A-0015-1024x681.jpg)

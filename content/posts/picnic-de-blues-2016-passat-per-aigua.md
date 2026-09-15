@@ -16,6 +16,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2016/05/DSCF0503-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2016/05/DSCF0503-1024x683.jpg
+description: "Reviu el Pícnic de Blues de Nou Barris, un festival on la música, la improvisació i l'esperit blues van superar l'obstacle de la pluja."
 ---
 
 ![](https://blog.pocallum.cat/wp-content/uploads/2016/05/DSCF0503-1024x683.jpg)

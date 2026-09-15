@@ -24,6 +24,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/04/IMG_2179.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/04/IMG_2179-1024x576.jpg
+description: "Descobreix la història i el misteri del Balneari de La Puda, un emblemàtic balneari abandonat a la vora de Montserrat, amb aigües sulfuroses i un passat ple d’esplendor i llegendes."
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2025/04/IMG_2179-1024x576.jpg)](https://photos.app.goo.gl/wG8xWAHBwFcaWytk7)

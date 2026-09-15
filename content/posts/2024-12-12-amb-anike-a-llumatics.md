@@ -28,6 +28,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/05/2024-12-04-Anike-LM4-2-ADOX-HR-50-C-0095.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/05/2024-12-04-Anike-Horsman-8x10-Fomapan400-0002-827x1024.jpg
+description: "Descobreix la sessió fotogràfica amb Anike a Llumàtics, una tarda plena d’experimentació i complicitat artística amb diferents formats analògics. Coneix l’Anike, la seva passió per l’art i gaudeix de la selecció d’imatges d’aquest encontre especial."
 ---
 
 ![](https://blog.pocallum.cat/wp-content/uploads/2025/05/2024-12-04-Anike-Horsman-8x10-Fomapan400-0002-827x1024.jpg)

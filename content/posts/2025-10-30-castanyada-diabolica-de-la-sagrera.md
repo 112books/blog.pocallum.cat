@@ -17,6 +17,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/10/IMG_2002.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/10/IMG_2002-1024x683.jpg
+description: "Castanyada diabòlica a la Nau Bostik de La Sagrera: túnel del terror, actors monstruosos, maquillatge i castanyes en el 10è aniversari."
+title-seo: "Castanyada diabòlica a La Sagrera – Nau Bostik"
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2025/10/IMG_2002-1024x683.jpg)](https://photos.app.goo.gl/cg3XNKuaR3mwtyPy7)

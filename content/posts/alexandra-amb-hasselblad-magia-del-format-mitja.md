@@ -19,6 +19,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/11/2024-11-14-Hassel-PanF@50-R150-Alexandra-0003-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2024/11/2024-11-14-Hassel-PanF@50-R150-Alexandra-0003-1024x1024.jpg
+description: "Descobreix la màgia del format mitjà amb un retrat d'Alexandra fet amb la llegendària Hasselblad 500 CM a Llumatics, utilitzant pel·lícula Ilford Pan F+ i revelat Rodinal."
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2024/11/2024-11-14-Hassel-PanF@50-R150-Alexandra-0003-1024x1024.jpg)](https://photos.app.goo.gl/y2Jo2Mo8wLSgMUFd7)

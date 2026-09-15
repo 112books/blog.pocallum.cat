@@ -20,6 +20,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/12/DSCF6866-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2024/12/DSCF6866-1024x683.jpg
+description: "La comunitat de Nou Barris es mobilitza per transformar l’antic Casal de Joves de Prosperitat en un espai verd, després de 14 anys d’espera. Uneix-te a la lluita per un futur millor!"
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2024/12/DSCF6866-1024x683.jpg)](https://photos.app.goo.gl/R1fBF3hQS57A5zqg9)

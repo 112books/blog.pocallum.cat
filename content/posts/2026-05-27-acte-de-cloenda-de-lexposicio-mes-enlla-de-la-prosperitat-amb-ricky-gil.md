@@ -24,6 +24,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2026/05/DSCF4492.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2026/05/DSCF4492-1024x683.jpg
+description: "Ricky Gil va posar música a la cloenda de “Més enllà de la Prosperitat” en una vetllada íntima al barri de Prosperitat."
+title-seo: "Ricky Gil tanca “Més enllà de la Prosperitat”"
 ---
 
 <figure>

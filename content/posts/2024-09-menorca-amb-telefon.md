@@ -20,6 +20,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/12/IMG_8802.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2024/12/IMG_8802-1-1024x768.jpg
+description: "Descobreix una selecció de fotografies preses amb un iPhone 11 durant el meu viatge a Menorca, on la geolocalització em permet documentar amb precisió cada ubicació i enriquir la meva experiència de viatge."
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2024/12/IMG_8802-1-1024x768.jpg)](https://photos.app.goo.gl/jLF5S4NenVGyMAir8)

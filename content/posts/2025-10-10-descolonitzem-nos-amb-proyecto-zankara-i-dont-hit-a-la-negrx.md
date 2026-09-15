@@ -26,6 +26,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/10/IMG_1208.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/10/IMG_1208-1024x683.jpg
+description: "Vetllada al Casal de Barri de Prosperitat amb Proyecto Zankara i Don’t Hit a la Negrx. Art, resistència i celebració com a formes de descolonitzar-nos."
+title-seo: "Descolonitzem-nos! amb Proyecto Zankara i Don’t Hit a la Negrx"
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2025/10/IMG_1208-1024x683.jpg)](https://photos.app.goo.gl/8tJsjXjd32qKvuTc6)

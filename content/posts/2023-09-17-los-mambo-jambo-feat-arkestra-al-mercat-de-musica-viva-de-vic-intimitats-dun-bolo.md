@@ -16,6 +16,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2023/09/L1350134-1024x576-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2023/09/L1350134-1024x576.jpg
+description: "Los Mambo Jambo Arkestra: Intimitats d'un concert al Mercat de Música Viva de Vic."
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2023/09/L1350134-1024x576.jpg)](https://photos.app.goo.gl/kKpSGhcuPN9QAm2Y6)

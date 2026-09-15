@@ -24,6 +24,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2026/02/arrencant_dia.webp
 image: https://blog.pocallum.cat/wp-content/uploads/2026/02/arrencant_dia.webp
+description: "L’autor del projecte de ball El naixement d’una bèstia: Antropoformologies I comparteix la notícia de Cultura B sobre tres llibres que mostren una Barcelona desconeguda, incloent també Arrencant el dia, un altre projecte en què participa."
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2026/02/arrencant_dia.webp)](https://culturab.cat/noticies/tres-llibres-retraten-barcelona-no-timagines/)

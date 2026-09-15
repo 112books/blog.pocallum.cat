@@ -21,6 +21,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/12/2025-12-17-LM6-Foma400@800-Varies-0028.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/12/2025-12-17-LM6-Foma400@800-Varies-0028-1024x610.jpg
+description: "Passeig fotogràfic per Les Roquetes, el barri més alt de Nou Barris. Fotografia analògica amb Leica M6 i vistes privilegiades de Barcelona des de la zona alta."
+title-seo: "Les Roquetes, la zona alta de Nou Barris | Fotografia analògica a Barcelona"
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2025/12/2025-12-17-LM6-Foma400@800-Varies-0028-1024x610.jpg)](https://photos.app.goo.gl/w1NXmr5xbj2uBxEHA)

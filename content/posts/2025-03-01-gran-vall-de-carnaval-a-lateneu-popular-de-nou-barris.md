@@ -26,6 +26,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/03/DSCF9880-Mejorado-NR.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/03/DSCF9880-Mejorado-NR-1024x577.jpg
+description: "El Gran Ball de Carnaval a l’Ateneu Popular de Nou Barris, amb disfresses originals, música incombustible i l’ambient festiu que segueix la Rua de Carnestoltes"
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2025/03/DSCF9880-Mejorado-NR-1024x577.jpg)](https://photos.app.goo.gl/bqBAQr2B42TkdSSq8)

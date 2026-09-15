@@ -22,6 +22,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/11/2024-11-07-Lca-APX400@1600-510Pyro1100-Camera-and-films-043.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2024/11/2024-11-07-Lca-APX400@1600-510Pyro1100-Camera-and-films-043-1024x598.jpg
+description: "Descobreix la renovada Cameras and Films, abans Lomography Embassy Barcelona. Exposició de l'artista xinesa @wjwjw.jijiwei, venda de llibres, càmeres analògiques, pel·lícules i tallers de fotografia experimental. Visita'ns al Carrer d'en Rosic 3, Barcelona."
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2024/11/2024-11-07-Lca-APX400@1600-510Pyro1100-Camera-and-films-043-1024x598.jpg)](https://photos.app.goo.gl/1etCfvtWiahzMRvJ6)

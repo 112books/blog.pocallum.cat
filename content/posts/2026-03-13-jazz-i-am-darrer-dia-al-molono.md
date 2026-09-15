@@ -32,6 +32,8 @@ tags:
   - "tumbando-a-monk"
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2026/03/IMG_6551.jpg
+description: "Descobreix el darrer dia del festival Jazz I Am 2026 a El Molino, Barcelona. Una selecció d’imatges i impressions dels concerts de Showlabels, Gràcia x de la Cruz, Magnificat, Andrew Moreno i Tumbando a Monk."
+title-seo: "Jazz I Am 2026 a El Molino, Barcelona – crònica del darrer dia"
 ---
 
 https://vimeo.com/1173720312?share=copy&fl=sv&fe=ci

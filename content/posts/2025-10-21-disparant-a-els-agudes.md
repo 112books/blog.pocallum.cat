@@ -31,6 +31,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/10/2025-10-21-LM6-Foma100@200-Susqueda-0034.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/10/2025-10-21-Non6x12-Foma100@200-Les-Agudes-0003-1024x515.jpg
+description: "Excursió al Montseny amb càmeres estenopeiques i Leica M6. Vent, natura i reflexions des del cim de les Agudes a 1.706 metres d’altitud."
+title-seo: "Disparant a les Agudes amb càmeres estenopeiques"
 ---
 
 ![Una fotografia de la excursió feta amb la Noon Punhole 6x12.

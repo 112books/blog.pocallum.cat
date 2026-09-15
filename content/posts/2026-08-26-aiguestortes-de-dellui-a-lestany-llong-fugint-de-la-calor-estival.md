@@ -25,6 +25,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2026/09/IMG_3850.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2026/09/IMG_3850-1024x576.jpg
+description: "Ruta circular per Aigüestortes de Dellui a l’Estany Llong, passant pels estanyets de Dellui, Corticelles i grans blocs de granit."
+title-seo: "Aigüestortes: ruta de Dellui a l’Estany Llong"
 ---
 
 [![Estany de Dellui durant la ruta cap a l’Estany Llong](https://blog.pocallum.cat/wp-content/uploads/2026/09/IMG_3850-1024x576.jpg)](https://photos.app.goo.gl/q4oFye5qmwDsQkQA9)

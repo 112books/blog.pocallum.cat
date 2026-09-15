@@ -22,6 +22,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/05/DSCF0935.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/05/DSCF0935-1024x683.jpg
+description: "La sisena edició de “Nou Barris meets Nova Orleans” omple el barri de música, color i tradició amb la BKT Brass Band, tallers familiars i una rua inspirada en la cultura musical de Nova Orleans. Descobreix com es viu aquesta festa imprescindible a Nou Barris!"
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2025/05/DSCF0935-1024x683.jpg)](https://photos.app.goo.gl/kVfR1qypybHMMDcA7)

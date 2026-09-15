@@ -29,6 +29,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/10/IMG_7030.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/10/IMG_7030-576x1024.jpg
+description: "Descobreix la màgica càmera estenopeica Zero 2000, la seva història, funcionament i primers resultats amb film de 120 en format 6×6."
 ---
 
 ![La mítica càmera Zero Image 2000 en plana acció a O](https://blog.pocallum.cat/wp-content/uploads/2025/10/IMG_7030-576x1024.jpg)

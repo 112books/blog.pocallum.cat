@@ -18,6 +18,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/02/2025-02-14-NikonFM-Foma100@800-r1100-Varies-0008.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/02/2025-02-14-NikonFM-Foma100@800-r1100-Varies-0008-1024x631.jpg
+description: "Cada dijous, els membres de 9BarrisImatge es reuneixen al Casal de barri de la Prospe per gaudir de patates braves, salses picants i experimentació fotogràfica. Uneix-te a nosaltres!"
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2025/02/2025-02-14-NikonFM-Foma100@800-r1100-Varies-0008-1024x631.jpg)](https://photos.app.goo.gl/xV64aw8Qsj3FPLV96)

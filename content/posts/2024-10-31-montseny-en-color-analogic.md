@@ -18,6 +18,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/12/2024-10-31-LM6-Fuji-CN200-0034.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2024/12/2024-10-31-LM6-Fuji-CN200-0034-1-1024x592.jpg
+description: "Acompanyat per l’amic Manel, vaig fer una escapada al Montseny per fotografiar la tardor amb un rodet de Fuji color negatiu. Descobreix com la boira va donar pas a unes vistes espectaculars des del Turó de l’Home."
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2024/12/2024-10-31-LM6-Fuji-CN200-0034-1-1024x592.jpg)](https://photos.app.goo.gl/HcbaLcYr2xVX68sM6)

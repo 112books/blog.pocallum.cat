@@ -25,6 +25,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/09/2024-09-26-LM6-Foma100@200-R150-Cementiri-del-Poblenou-0020.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2024/09/2024-09-26-LM6-Foma100@200-R150-Cementiri-del-Poblenou-0025-654x1024.jpg
+description: "Descobreix l'escultura 'El petó de la mort' al Cementiri del Poblenou, una obra mestra que combina l'erotisme i la mort de manera romàntica i terrorífica. Gaudeix de les fotografies en blanc i negre captades amb pel·lícula Fomapan 100."
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2024/09/2024-09-26-LM6-Foma100@200-R150-Cementiri-del-Poblenou-0025-654x1024.jpg)](https://blog.pocallum.cat/wp-content/uploads/2024/09/2024-09-26-LM6-Foma100@200-R150-Cementiri-del-Poblenou-0025.jpg)

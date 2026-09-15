@@ -22,6 +22,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/11/DSCF6166-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2024/11/DSCF6166-1024x683.jpg
+description: "Viu la festa de Sant Xibeco al barri de Prosperitat, amb tradicions, música en viu d'El Persianas & Los influencers muertos i un ambient festiu que marca l'arribada del fred."
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2024/11/DSCF6166-1024x683.jpg)](https://photos.app.goo.gl/h9KAGDtnL7hEjUVy9)

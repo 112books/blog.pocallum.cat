@@ -27,6 +27,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2026/04/Harinezumi.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2026/04/PICT0249-1024x768.jpg
+description: "Descobreix la Superheadz Digital Harinezumi: una càmera low-fi japonesa amb esperit experimental, defectes encantadors i resultats inesperats."
+title-seo: "Superheadz Digital Harinezumi: la màgia low-fi en fotografia"
 ---
 
 <figure>

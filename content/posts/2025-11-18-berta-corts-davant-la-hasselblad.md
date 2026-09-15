@@ -23,6 +23,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/11/2025-11-18-Hassel-50mm-PanF50-Berta-Corts-0002.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/11/2025-11-18-Hassel-50mm-PanF50-Berta-Corts-0002-1024x1024.jpg
+description: "Aquest matí he fet una sessió inesperada amb la model i actriu Berta Corts, que ha descobert la màgia de treballar amb la Hasselblad 500CM i pel·lícula Ilford PanF+. Dotze fotogrames, bona música i un matí rodó a l’estudi."
+title-seo: "Berta Corts davant la Hasselblad 500CM – Sessió inesperada a l’estudi"
 ---
 
 [![Berta Corts](https://blog.pocallum.cat/wp-content/uploads/2025/11/2025-11-18-Hassel-50mm-PanF50-Berta-Corts-0002-1024x1024.jpg)](https://photos.app.goo.gl/cuHtd9KGt6NYKd5w5)

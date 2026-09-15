@@ -16,6 +16,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_9359-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_9359-1024x453.jpg
+description: "Nits de Capibola Blues amb Big Dani Pérez Organic Trio: master class de swing/blues (Swingmaniacs), concert saxo-Hammond i ball participatiu."
+title-seo: "Nits Capibola Blues: Big Dani Pérez Organic Trio | Swing"
 ---
 
 ![](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_9359-1024x453.jpg)

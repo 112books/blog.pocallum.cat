@@ -14,6 +14,7 @@ tags:
   - "transformacio-internacional"
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/01/babia-.jpg
+description: "Reflexió sobre la transformació de Barcelona en una ciutat marca, amb l’encariment de la vida i la pèrdua de la seva identitat cultural i bohemia, exemplificada per la desaparició del restaurant Babia."
 ---
 
 Definitivament, el món se’n va a la merda!

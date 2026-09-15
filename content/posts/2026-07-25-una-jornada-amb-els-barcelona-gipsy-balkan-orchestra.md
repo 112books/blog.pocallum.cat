@@ -26,6 +26,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2026/07/IMG_1796.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2026/07/IMG_1796-1024x683.jpg
+description: "Vaig acompanyar els Barcelona Gipsy balKan Orchestra durant tota una jornada: assajos, backstage i concert al Palau de la Música Catalana."
+title-seo: "Barcelona Gipsy balKan Orchestra al Palau de la Música | Backstage i concert"
 ---
 
 <figure>

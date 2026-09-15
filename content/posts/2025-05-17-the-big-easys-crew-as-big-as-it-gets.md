@@ -33,6 +33,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/05/IMG_8140.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/05/IMG_8140-1024x683.jpg
+description: "Descobreix com va ser el gran concert de cloenda del 6è Nou Barris meets Nova Orleans amb The Big Easy’s Crew – As big as it gets, una superbanda formada per destacats músics de l’escena barcelonina. Mira les fotos i reviu una nit plena d’energia i ritme de Nova Orleans!"
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2025/05/IMG_8140-1024x683.jpg)](https://photos.app.goo.gl/ogrqxyD3PPzBh59s7)

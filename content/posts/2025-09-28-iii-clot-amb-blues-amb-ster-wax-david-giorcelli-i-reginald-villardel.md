@@ -27,6 +27,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/09/IMG_1005.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/09/IMG_1005-1024x683.jpg
+description: "El concert central del III Clot amb Blues va portar Ster Wax, David Giorcelli i Reginald Villardel a l’Ateneu del Clot. Una nit de bona música, blues i complicitat que consolida el festival com a cita imprescindible."
+title-seo: "III Clot amb Blues a l’Ateneu del Clot"
 ---
 
 [![III Clot amb Blues amb Ster Wax, David Giorcelli i Reginald Villardel a l'Ateneu del Clot](https://blog.pocallum.cat/wp-content/uploads/2025/09/IMG_1005-1024x683.jpg)](<2025-09-28 - III Clot amb Blues amb Ster Wax, David Giorcelli i Reginald Villardel>)

@@ -22,6 +22,8 @@ tags:
   - "taller-de-musics-2"
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2026/03/IMG_5559.jpg
+description: "Crònica fotogràfica del primer dia del Jazz I’m 2026 al Molino de Barcelona. Concerts, músics i ambient del festival organitzat pel Taller de Músics."
+title-seo: "Jazz I’m 2026 al Molino – Crònica fotogràfica del primer dia"
 ---
 
 https://vimeo.com/1172877215?share=copy&fl=sv&fe=ci

@@ -19,6 +19,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2026/04/IMG_7003.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2026/04/IMG_7003-1024x683.jpg
+description: "Crònica d’una jam session de blues a la Casa de l’Aigua de Trinitat Nova. Música en viu, comunitat i cultura a Nou Barris."
+title-seo: "Jam Session de Blues a la Casa de l’Aigua (Nou Barris, Barcelona)"
 ---
 
 [![Un moment de la Jam Session a la Casa de l'Aigua de Trinitat Nova.](https://blog.pocallum.cat/wp-content/uploads/2026/04/IMG_7003-1024x683.jpg)](https://photos.app.goo.gl/R2WghmvtM9BCeyUPA)

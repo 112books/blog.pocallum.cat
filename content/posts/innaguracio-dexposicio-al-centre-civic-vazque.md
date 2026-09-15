@@ -19,6 +19,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2011/03/IMG_3309-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2011/03/IMG_3309.jpg
+description: "Inauguració d'exposició al Centre Cívic Vázquez Montalbán (Vallvidrera, Barcelona) amb pica-pica i concert de Dani Pérez Organic. Visita-la mentre dura!"
+title-seo: "Inauguració Exposició Vallvidrera | Centre Vázquez Montalbán 2025"
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2011/03/IMG_3309.jpg)](https://photos.app.goo.gl/LEbHwaKeTStks24k7)

@@ -18,6 +18,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/08/IMG_5239.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/08/IMG_5239-1024x576.jpg
+description: "Refresca’t culturalment a Barcelona: visita la Fundació Joan Miró aquest estiu i descobreix l’obra de Miró en un espai climatitzat i tranquil."
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2025/08/IMG_5239-1024x576.jpg)](https://photos.app.goo.gl/qJQ53cK5X2kg6aTh9)

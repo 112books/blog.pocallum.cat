@@ -20,6 +20,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2026/06/L1550304.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2026/06/L1550304-1024x683.jpg
+description: "Crònica fotogràfica del Vermutsical amb la Peña Flamenca del Poble-sec al Casal de Barri de Prosperitat. Fotografies i vídeos de l’actuació"
+title-seo: "Vermutsical flamenc a Prosperitat amb la Peña Flamenca del Poble-sec"
 ---
 
 <figure>

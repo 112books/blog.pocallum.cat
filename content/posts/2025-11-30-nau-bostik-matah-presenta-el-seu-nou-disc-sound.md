@@ -22,6 +22,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/11/IMG_3636.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/11/IMG_3636-1024x683.jpg
+description: "Crònica de la presentació de Sound, el nou disc de Matah, a la Nau Bostik. Música, comunitat i una convidada sorpresa vinguda de Galícia."
+title-seo: "Matah presenta Sound a la Nau Bostik | Crònica i fotos"
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2025/11/IMG_3636-1024x683.jpg)](https://photos.app.goo.gl/yF29Ft4GfzzsUajD8)

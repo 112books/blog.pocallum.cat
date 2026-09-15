@@ -25,6 +25,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/04/2025-04-27-Wood-Pinhole-4x5-Foma100@50-wwpd25-0022.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/04/2025-04-27-Wood-Pinhole-4x5-Foma100@50-wwpd25-0022-812x1024.jpg
+description: "Celebrem el Dia internacional de la fotografia estenopeica 2025 a la Nau Bostik amb 29 retrats únics en gran format, realitzats amb càmera casolana i tècnica analògica tradicional."
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2025/04/2025-04-27-Wood-Pinhole-4x5-Foma100@50-wwpd25-0022-812x1024.jpg)](https://photos.app.goo.gl/FwUrYgubxs5MmhnJ7)

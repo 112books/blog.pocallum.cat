@@ -20,6 +20,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/11/2024-11-17-APX400@1600-Kenny-Washington-Ignasi-Terraza-Tr-0021-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2024/11/2024-11-17-APX400@1600-Kenny-Washington-Ignasi-Terraza-Tr-0021-1024x669.jpg
+description: "Descobreix la meravellosa vetllada de jazz amb Kenny Washington i Ignasi Terraza Trio, un concert ple de talent, passió i connexió musical."
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2024/11/2024-11-17-APX400@1600-Kenny-Washington-Ignasi-Terraza-Tr-0021-1024x669.jpg)](https://photos.app.goo.gl/rei8dWfvb79QH4jy5)

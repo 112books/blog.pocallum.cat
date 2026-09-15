@@ -54,6 +54,8 @@ tags:
   - "vida-de-barri"
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2026/05/IMG_7903.jpg
+description: "Cercavila del Nou Barris Meets New Orleans a l’Ateneu Popular 9 Barris amb Hip Horns Brass Collective i Ster Wax. Crònica fotogràfica del final de temporada."
+title-seo: "Nou Barris Meets New Orleans a l’Ateneu 9 Barris | Crònica i fotos"
 ---
 
 https://vimeo.com/1197095362?share=copy&fl=sv&fe=ci

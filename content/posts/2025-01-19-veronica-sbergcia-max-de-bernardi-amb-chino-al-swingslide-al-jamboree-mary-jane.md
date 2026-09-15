@@ -20,6 +20,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/01/2025-01-19-LM6-APX400@1600-Chino-Swingslide-al-Jamboree-0022.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/01/2025-01-19-LM6-APX400@1600-Chino-Swingslide-al-Jamboree-0022-1024x606.jpg
+description: "Descobreix l’espectacle únic de Veronica Sbergia, Max de Bernardi i Chino Swingslide al Jamboree, un viatge a les arrels de la música americana amb swing, blues i diversió."
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2025/01/2025-01-19-LM6-APX400@1600-Chino-Swingslide-al-Jamboree-0022-1024x606.jpg)](https://photos.app.goo.gl/hhwUpnRm1C3fRNyX9)

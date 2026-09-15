@@ -24,6 +24,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/06/2025-06-01-HolgaWPC-AGFA-Copix-Rapid-50-BB-0006.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/06/2025-06-01-HolgaWPC-AGFA-Copix-Rapid-50-BB-0006-1024x643.jpg
+description: "Descobreix una visió personal de Menorca a través de la fotografia estenopeica: càmeres analògiques, rutes a peu i consells per captar l’essència de l’illa amb tècniques lentes i formats alternatius."
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2025/06/2025-06-01-HolgaWPC-AGFA-Copix-Rapid-50-BB-0006-1024x643.jpg)](https://photos.app.goo.gl/YPqMmKSzYycyp594A)

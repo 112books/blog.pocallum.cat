@@ -23,6 +23,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/11/2024-11-01-LM6-APX400-R150-Lomo-Montseny-0023.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2024/11/2024-11-01-LM6-APX400-R150-Lomo-Montseny-0023-607x1024.jpg
+description: "En aquest article, comparteixo les meves fotografies de tardor capturades durant una escapada amb el meu amic Manel 'Ulls' a les muntanyes del Montseny. Utilitzo pel·lícula en blanc i negre, una càmera clàssica Sumaron de 35mm i revelo les imatges amb Rodinal per obtenir resultats autèntics. Descobreix la meva feina i els moments viscuts en aquesta jornada."
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2024/11/2024-11-01-LM6-APX400-R150-Lomo-Montseny-0023-607x1024.jpg)](https://photos.app.goo.gl/YAjDMyZBLvqpiKo36)

@@ -21,6 +21,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/09/DSF5018.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2024/09/DSF5018.jpg
+description: "Descobreix el meu viatge a Menorca, el meu paradís particular, on he carregat piles i creat material visual per a nous projectes. Estigueu atents per veure imatges espectaculars i notícies emocionants!"
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2024/09/DSF5018.jpg)](https://blog.pocallum.cat/wp-content/uploads/2024/09/DSF5018.jpg)

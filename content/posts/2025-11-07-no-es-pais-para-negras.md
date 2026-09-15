@@ -25,6 +25,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/11/IMG_2388.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/11/IMG_2388-1024x683.jpg
+description: "L’obra No es país para negras, escrita i interpretada per Sílvia Albert, torna una dècada després per denunciar el racisme quotidià i convidar a la reflexió col·lectiva des de la cultura i el teatre."
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2025/11/IMG_2388-1024x683.jpg)](https://photos.app.goo.gl/wr6Q3wKmRAFYKM5b8)

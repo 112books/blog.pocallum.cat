@@ -20,6 +20,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/08/2025-02-13-LC-A-APX400@100-510Pyro-10-minuts-Varies-0020-1.png
 image: https://blog.pocallum.cat/wp-content/uploads/2025/08/2025-02-13-LC-A-APX400@100-510Pyro-10-minuts-Varies-0020-2-1024x609.png
+description: "Ja és oberta la convocatòria “Arrencant el dia”, el primer repte del projecte 112 Revelats. Dona visibilitat a la teva mirada fotogràfica i participa en una obra col·lectiva que vol transformar-se en llibre. Consulta condicions a 112books.eu i ajuda’ns a fer-lo realitat en paper."
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2025/08/2025-02-13-LC-A-APX400@100-510Pyro-10-minuts-Varies-0020-2-1024x609.png)](https://www.112books.eu/112_revelats/112-revelats-resolent-emergencies-culturals/)

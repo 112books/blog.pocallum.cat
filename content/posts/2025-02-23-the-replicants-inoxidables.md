@@ -19,6 +19,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/02/DSCF9096.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/02/DSCF9096-1024x577.jpg
+description: "Descobreix les imatges de la nit de rock amb The Replicants i Inoxidables al Casal de barri de Prosperitat. Versions de clàssics dels 70 i 80 en un ambient comunitari. Feu clic per veure l’àlbum fotogràfic!"
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2025/02/DSCF9096-1024x577.jpg)](https://photos.app.goo.gl/KqKuEgsNuu1nyUGZ9)

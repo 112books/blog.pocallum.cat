@@ -18,6 +18,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/10/IMG_4019.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2024/10/IMG_4019-1024x683.jpg
+description: "Descobreix l'experiència d'un concert al nou Casal de Joves de Prosperitat, amb les actuacions de La Risa de Pepe i Afri k ft Alexch & Figo. Un espai llargament esperat que acull esdeveniments musicals amb molta actitud."
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2024/10/IMG_4019-1024x683.jpg)](https://photos.app.goo.gl/v8hcq6aP4H7toBeo9)

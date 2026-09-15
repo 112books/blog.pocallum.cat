@@ -24,6 +24,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/11/L1520947.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/11/L1520947-1024x576.jpg
+description: "El festival Meet Your Coffee Awards 2025 omple la Nau Bostik d’aromes, tastos i maquinària per als amants del cafè. Una cita imprescindible per descobrir varietats i formes de preparar aquesta beguda universal."
+title-seo: "Meet Your Coffee Awards 2025 a la Nau Bostik – Aromes, tastos i passió pel cafè"
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2025/11/L1520947-1024x576.jpg)](https://photos.app.goo.gl/rSB1hxyAycUpyEqE6)

@@ -21,6 +21,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/11/2024-11-01-LM6-APX400-R150-Lomo-Montseny-0009.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2024/11/2024-11-01-LM6-APX400-R150-Lomo-Montseny-0009-1024x607.jpg
+description: "Descobreix les imatges captades durant el taller de revelat en blanc i negre a la Lomography Embassy Store de Barcelona. Viu l'experiència d'alumnes apassionats fotografiant sota la pluja al barri del Born amb un rodet Agfa APX400."
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2024/11/2024-11-01-LM6-APX400-R150-Lomo-Montseny-0009-1024x607.jpg)](https://photos.app.goo.gl/ATrCcn9BA2q3kdmW6)

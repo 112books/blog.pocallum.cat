@@ -26,6 +26,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/05/2025-05-14-Hasselblad500CM-PanF@50-Laura-B-0003.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/05/2025-05-14-LM42-ADOXHR-50-Laura-Cira-A-0002-768x1024.jpg
+description: "Descobreix com va ser la sessió de fotografia analògica amb la Laura, nou membre de l’equip de gestió de la Nau Bostik, experimentant amb càmeres clàssiques i diferents estils en un ambient creatiu i autèntic."
 ---
 
 Darrerament, a més dels tallers de fotografia química que imparteixo i la meva activitat habitual en el món de la música en viu i la vida cultural de Barcelona, els astres s’alineen i fan que algunes persones boniques passin per l’estudi per ser immortalitzades. Com sempre, amb tota la màgia de la fotografia analògica i sense que el temps —o la seva manca— sigui un factor determinant en els resultats.

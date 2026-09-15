@@ -19,6 +19,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/09/DSF6026.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2024/09/DSF6026-1024x683.jpg
+description: "Concert STA (dub, Sun Ra, free jazz, punk) i Pastanaga Bros al Casal de Prosperitat (20/09/2024). Música experimental única!"
+title-seo: "Concert STA + Pastanaga Bros Prosperitat 2024 | Dub"
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2024/09/DSF6026-1024x683.jpg)](https://photos.app.goo.gl/NoHXFqFJ6b4L3SUm7)

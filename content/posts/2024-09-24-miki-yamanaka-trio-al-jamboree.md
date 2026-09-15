@@ -22,6 +22,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/09/L1480032-Mejorado-NR.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2024/09/L1480032-Mejorado-NR-1024x683.jpg
+description: "Reviu el concert de Miki Yamanaka Trio al Jamboree de Barcelona, on van presentar el seu nou àlbum 'Chance' amb temes propis i versions, i gaudeix de les fotografies de l'esdeveniment."
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2024/09/L1480032-Mejorado-NR-1024x683.jpg)](https://photos.app.goo.gl/ZFE2dZonpkwezhxZ9)

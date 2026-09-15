@@ -19,6 +19,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/10/IMG_3707.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2024/10/IMG_3707-1024x683.jpg
+description: "Descobreix l'impacte de 9 Barris Acull, una entitat que ha donat suport a la comunitat de Nou Barris durant gairebé 20 anys. Reflexionem sobre el seu llegat i les activitats realitzades abans del seu tancament per motius administratius."
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2024/10/IMG_3707-1024x683.jpg)](https://photos.app.goo.gl/AEoQDmC7gNgCCuVP8)

@@ -22,6 +22,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/03/DSCF9619-Mejorado-NR-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/03/DSCF9619-Mejorado-NR-1024x577.jpg
+description: "La unitat veïnal ha fet possible el Carnaval de Nou Barris amb una desfilada multitudinària i sense incidents, gràcies a l’esforç col·lectiu."
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2025/03/DSCF9619-Mejorado-NR-1024x577.jpg)](https://photos.app.goo.gl/fsDhk8ihwuB4HbWE6)

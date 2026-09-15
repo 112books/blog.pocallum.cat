@@ -29,6 +29,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2026/09/IMG_2355.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2026/09/IMG_2355-1024x683.jpg
+description: "Fotografies del Festival MASiMAS 2026 al Paral·lel 62, amb la Barcelona Big Blues Band, Rhythm & Boobs i un homenatge a Merche Mar."
+title-seo: "Festival MASiMAS 2026: Barcelona Big Blues Band al Paral·lel"
 ---
 
 ![Barcelona Big Blues Band durant el Festival MASiMAS 2026 al Paral·lel 62](https://blog.pocallum.cat/wp-content/uploads/2026/09/IMG_2355-1024x683.jpg)

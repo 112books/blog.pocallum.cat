@@ -25,6 +25,8 @@ tags:
   - "video-2"
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2026/08/DSCF6505.jpg
+description: "Isadora Passos ofereix una intensa performance de suspensió capil·lar, acompanyada per la guitarra d’Anna Tréa, a la festa Baú de Prata."
+title-seo: "Isadora Passos – Suspensió capil·lar | Pocallum"
 ---
 
 https://vimeo.com/1219465535?share=copy&fl=sv&fe=ci

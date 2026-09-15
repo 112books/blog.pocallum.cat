@@ -28,6 +28,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/09/IMG_0678.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/09/IMG_0678-1024x683.jpg
+description: "Comencem temporada al Casal de barri de Prosperitat amb Axilirpunk (rumba-punk transfeminista) i The Cangrejos (spaghetti rock instrumental): vetllada musical divertida, comunitat i fotos de l’esdeveniment, descobreix el vídeo i la crònica!"
+title-seo: "2025-09-21 - Concert Axirripunk i The Cangrejos al Casal Prosperitat · Música local a Nou Barris"
 ---
 
 [![The Cangrejos en plena actuació al Casal de barri de Prosperitat](https://blog.pocallum.cat/wp-content/uploads/2025/09/IMG_0678-1024x683.jpg)](https://photos.app.goo.gl/MQzpsLv2UUzeRCHt5)

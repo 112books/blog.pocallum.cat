@@ -19,6 +19,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/10/L1480454.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2024/10/L1480454-1024x683.jpg
+description: "BCN Coffee Awards 2024 a Nau Bostik: fira de cafè especialitat amb 50+ torradors, tastets gratuïts i màquines. Experiència única per amants del cafè!"
+title-seo: "BCN Coffee Awards 2024 Nau Bostik | Cafè Especialitat"
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2024/10/L1480454-1024x683.jpg)](https://photos.app.goo.gl/viSivZr8rmXCeQhr8)

@@ -22,6 +22,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/03/DSCF0272.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/03/DSCF0272-1024x683.jpg
+description: "Prospehell Metal Fest 2025 al Casal Joves Prosperitat: Homicidal Funeral, Razers, Vlad Black Speed, Crytical. Joves metalers fan tremolar Nou Barris!"
+title-seo: "Prospehell Metal Fest 2025 Casal Joves Prosperitat'"
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2025/03/DSCF0272-1024x683.jpg)](https://photos.app.goo.gl/DYkXzwXFGRoUeG9u7)

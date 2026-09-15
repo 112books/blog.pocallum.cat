@@ -16,6 +16,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2014/10/IMG_0168-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2014/10/IMG_0168-1024x431.jpg
+description: "Descobreix la presentació de 'El Paseo Infinito' de Daniel Higiénico a la llibreria En Su Tinta, un esdeveniment que combina música i literatura."
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2014/10/IMG_0168-1024x431.jpg)](https://photos.app.goo.gl/CyQMuBEasKG4hbog9)

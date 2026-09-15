@@ -19,6 +19,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/02/2025-02-26-LM6-PanF-@80-R150-Test-bibina-0003.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/02/2025-02-26-LM6-PanF-@80-R150-Test-bibina-0003-1024x607.jpg
+description: "Descobreix com es va rescatar una antiga bobina de Ilford PanF+ dels anys 60 i el seu revelat amb Rodinal"
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2025/02/2025-02-26-LM6-PanF-@80-R150-Test-bibina-0003-1024x607.jpg)](https://photos.app.goo.gl/vUNcon4RuwnUHHR4A)

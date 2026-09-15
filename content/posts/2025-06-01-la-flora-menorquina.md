@@ -19,6 +19,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/06/IMG_3389.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/06/IMG_3389-768x1024.jpg
+description: "Explora la biodiversitat de Menorca caminant pels seus camins i descobrint la seva rica flora i fauna, des de tortugues autòctones fins a orquídies silvestres i plantes endèmiques."
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2025/06/IMG_3389-768x1024.jpg)](https://photos.app.goo.gl/DSqXXZJ8vdKDP2Sp9)

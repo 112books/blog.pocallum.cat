@@ -27,6 +27,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/09/2025-09-11-SproketRocket-Foma100@400-varies-0005.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/09/2025-09-11-SproketRocket-Foma100@400-varies-0005-1024x473.jpg
+description: "Alternativa a la Diada: excursió des de Barcelona per barris i municipis propers, passant per Santa Coloma i Badalona, amb fotografia analògica, descoberta gastronòmica i bany de mar, tot explorant l’autenticitat metropolitana."
+title-seo: "Explorant l’àrea metropolitana: Diada alternativa entre Santa Coloma i Badalona"
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2025/09/2025-09-11-SproketRocket-Foma100@400-varies-0005-1024x473.jpg)](https://photos.app.goo.gl/CPoWLwEmh2NtGcieA)

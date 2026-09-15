@@ -19,6 +19,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/10/L1480741.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2024/10/L1480741-1024x683.jpg
+description: "Descobreix com el 'Clot amb Blues' omple els carrers del barri amb música de Nova Orleans. Una cercavila vibrant que no només celebra el jazz i el blues, sinó que també promociona i cerca recolzament per al festival de Blues del Clot. Uneix-te a la festa!"
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2024/10/L1480741-1024x683.jpg)](https://photos.app.goo.gl/wmPRrAoThrR59mMU8)

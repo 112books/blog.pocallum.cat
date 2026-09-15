@@ -29,6 +29,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2026/06/L1560008.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2026/06/L1560008-1024x683.jpg
+description: "Fotodocumentació de la Barcelona Big Blues Band durant l’enregistrament de nous temes al BeatGarden Studios. Música, procés i moments del “mentrestant”."
+title-seo: "Barcelona Big Blues Band: fotos d’un enregistrament al BeatGarden Studios"
 ---
 
 [![Barcelona Big Blues Band enregistrant nous temes al BeatGarden Studios](https://blog.pocallum.cat/wp-content/uploads/2026/06/L1560008-1024x683.jpg)](https://photos.app.goo.gl/4h4Z5uuT7ARr1aRL9)

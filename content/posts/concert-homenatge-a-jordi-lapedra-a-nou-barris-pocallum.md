@@ -23,6 +23,7 @@ tags:
   - "video-2"
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/11/IMG_3175.jpg
+description: "Crònica del concert homenatge a Jordi Lapedra celebrat a Nou Barris, amb música, retrobaments i un vídeo amb imatges de la jornada. Organitzat per amics, familiars i el Casal de barri de la Prosperitat."
 ---
 
 https://vimeo.com/1141846570?share=copy&fl=sv&fe=ci

@@ -22,6 +22,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2026/02/L1540299.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2026/02/L1540563-1024x683.jpg
+description: "Descobreix el Tablao de Carmen al Poble Espanyol a través de la mirada de Joan Linux: flamenc, improvisació, duende i fotografia d’autor en un vespre inoblidable."
+title-seo: "Tablao de Carmen: un vespre amb el duende | Joan Linux"
 ---
 
 ![](https://blog.pocallum.cat/wp-content/uploads/2026/02/L1540563-1024x683.jpg)

@@ -25,6 +25,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/11/IMG_2872.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/11/IMG_3145-1024x683.jpg
+description: "Els Komando Lunares van portar al Nou Barris un espectacle flamenc de quilòmetre zero amb artistes del districte. Una nit màgica, plena de duende, música i passió al flamenc més autèntic de Barcelona."
+title-seo: "Flamencxs del barrio — El flamenc de Nou Barris amb Komando Lunares"
 ---
 
 ![](https://blog.pocallum.cat/wp-content/uploads/2025/11/IMG_3145-1024x683.jpg)

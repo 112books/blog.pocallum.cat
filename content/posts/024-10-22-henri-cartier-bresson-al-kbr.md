@@ -19,6 +19,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/10/L1480961.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2024/10/L1480961-1024x683.jpg
+description: "Descobreix l'exposició 'Watch!, Watch!, Watch!' de Henri Cartier-Bresson al KBr de Barcelona, un recorregut complet per la vida i obra del prestigiós fotògraf francès. No et perdis aquesta oportunitat única fins al 26 de gener del 2025!"
 ---
 
 Una de les coses que més m'agrada de viure a la ciutat de Barcelona no és precisament la $%&&·$ Copa Amèrica dels maga-rics que venen a fer negocis especulatius, no pas. És la sort de poder gaudir de bones exposicions, sobretot de fotografia, que es programen periòdicament a diversos espais ([On veure exposicions de fotografia a Barcelona](https://pocallum.cat/on-veure-exposicions-de-fotografia-a-barcelona/)).

@@ -22,6 +22,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/05/DSF5917.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/05/DSF5917-1024x683.jpg
+description: "Visita les fotografies de la meva escapada fotogràfica a Menorca: racons secrets, experiències personals i una selecció d’imatges digitals capturades amb la Fuji X-Pro1. Menorca, vista a través de l’objectiu d’un apassionat de la fotografia."
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2025/05/DSF5917-1024x683.jpg)](https://photos.app.goo.gl/uaMswsD6d5waJsas8)
