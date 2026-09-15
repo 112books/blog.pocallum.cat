@@ -71,8 +71,9 @@ def check_url(url, timeout=10):
 
 def check_pair(path, wp_base, hugo_base):
     """Comprova WP i Hugo per al mateix path. Retorna dict amb resultat."""
-    wp_url = wp_base.rstrip("/") + path
-    hugo_url = hugo_base.rstrip("/") + path
+    encoded = quote(path, safe="/%")
+    wp_url = wp_base.rstrip("/") + encoded
+    hugo_url = hugo_base.rstrip("/") + encoded
 
     wp_status, wp_err = check_url(wp_url)
     hugo_status, hugo_err = check_url(hugo_url)

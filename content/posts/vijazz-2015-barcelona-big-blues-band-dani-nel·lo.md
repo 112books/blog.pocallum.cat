@@ -1,8 +1,8 @@
 ---
 title: "Vijazz 2015 - Barcelona Big Blues Band + Dani Nel·lo"
 date: 2015-07-05
-slug: "vijazz-2015-barcelona-big-blues-band-dani-nel%c2%b7lo"
-url: "/2015/07/05/vijazz-2015-barcelona-big-blues-band-dani-nel%c2%b7lo/"
+slug: "vijazz-2015-barcelona-big-blues-band-dani-nel·lo"
+url: "/2015/07/05/vijazz-2015-barcelona-big-blues-band-dani-nel·lo/"
 categories: 
   - "canon-eos-6d"
 tags:

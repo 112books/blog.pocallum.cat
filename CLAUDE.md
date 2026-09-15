@@ -218,6 +218,33 @@ Script `migration/post-processa.py` (executat 2026-09-14, segona execució compl
 - **`.htaccess` amb ErrorDocument 404** (`static/.htaccess`): cal perquè Dinahosting/Apache serveixi la 404.html de Hugo en lloc de la pàgina per defecte.
 - **CMS: els 2.027 posts (no 2.353)** que mostra Sveltia és límit de paginació de l'API de GitHub llistant una carpeta enorme — **no és pèrdua de dades**. Els 2.353 fitxers són tots al repo i es renderitzen bé. Impacte: només si volguessis editar un dels 326 "fantasma" caldria fer-ho per git.
 - **L'error "Broken pipe" del primer deploy** no era pèrdua: era connexió tallada en transferència; un rsync incremental en completà la resta.
+- **Auditoria 2026-09-15 (accessibilitat + responsive + seguretat)**: fixes aplicats (skip-link contrast AA, focus trap lightbox, nav hidden, fletxes mòbil, tancament lightbox amb reduced-motion) + headers de seguretat (HSTS, X-Content-Type-Options, X-Frame-Options, Referrer-Policy). **⚠ Treure del .htaccess el redirect HTTP→HTTPS: causa loop infinit.** Motiu: Dinahosting té proxy frontal que envia HTTP intern a Apache; `%{HTTPS} off` és sempre cert → redirect 301 infinit. El redirect s'ha de fer al panell/proxy de Dinahosting, NO via `.htaccess`.
+
+### ⏳ PENDENT — SSL/HTTPS redirect (documentat 2026-09-15, per fer abans del 22/09/2026)
+
+**Situació:** el certificat Let's Encrypt de `blog.pocallum.cat` va emès des del juny i funciona correctament (subject CN=blog.pocallum.cat, issuer Let's Encrypt YE1). Caduca **2026-09-22**. Des del juny juga al panell de Dinahosting com a "no activat" perquè la validació de Dinahosting requereix que la zona `@` i `www` de `pocallum.cat` apunti als seus servidors, i ara mateix `pocallum.cat` apunta a GitHub Pages.
+
+**Estat verificat (15/09/2026):**
+- `https://blog.pocallum.cat` → HTTP/2 200, headers seguretat OK (HSTS, nosniff, X-Frame-Options, Referrer-Policy)
+- Certificat vàlid fins 22/09/2026
+- `http://blog.pocallum.cat` → 200 (no redirigeix a HTTPS — falta redirect al proxy)
+- DNS: `blog.pocallum.cat` → 82.98.166.123 (Dinahosting) · `pocallum.cat` → 185.199.108-111.153 (GitHub Pages)
+
+**Pla acordat per executar quan toqui (una sola sessió, abans del 22/09):**
+1. **BACKUP/nota:** `pocallum.cat` quedarà fora de servei durant la finestra DNS (~15-30 min, propagació).
+2. **Canvi temporal de DNS:** apuntar la zona `@` i `www` de `pocallum.cat` a la IP de Dinahosting (`82.98.166.123` o el domini del servidor `vl28359.dinaserver.com`). (A Records + AAAA a 0 per comprovar email en algun moment? Decidir al moment; mínim A.)
+3. **Activar Let's Encrypt al panell de Dinahosting** per a `blog.pocallum.cat` (ara la validació funcionarà perquè `@`/`www` apunten a Dinahosting).
+4. **Configurar la redirecció HTTP→HTTPS** al panell de Dinahosting (Forçar HTTPS) o demanar a suport que l'activin al proxy.
+5. **Tornar a apuntar `@` i `www`** de `pocallum.cat` a GitHub Pages (185.199.108.153, .109.153, .110.153, .111.153).
+6. **Verificar:**
+   - `https://blog.pocallum.cat` → 200 + certificat renovat
+   - `http://blog.pocallum.cat` → 301 → `https://`
+   - `http://pocallum.cat` → serveix GitHub Pages (200)
+   - `https://www.pocallum.cat` → GitHub Pages amb cert OK
+   - QA 1:1 del sitemap del blog
+7. **Feina de l'usuari:** tenir accés al panell DNS del registrador de `pocallum.cat` (on es gestionen els registres) i al panell de Dinahosting abans de començar.
+
+**Notes:** No cal ball de DNS per a `blog.pocallum.cat` a part (ja apunta a Dinahosting). L'ordre dins del mateix dia: fer-ho de matí per tenir marge a la propagació. Si el suport de Dinahosting pot activar el redirect del proxy sense la validació de `@`/`www`, fer això primer estalvia el canvi de DNS.
 
 ---
 

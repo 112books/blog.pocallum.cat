@@ -1,8 +1,8 @@
 ---
 title: "Agfa Clack; nova càmera per la col·lecció"
 date: 2013-03-26
-slug: "agfa-clack-nova-camera-per-la-col%c2%b7leccio"
-url: "/2013/03/26/agfa-clack-nova-camera-per-la-col%c2%b7leccio/"
+slug: "agfa-clack-nova-camera-per-la-col·leccio"
+url: "/2013/03/26/agfa-clack-nova-camera-per-la-col·leccio/"
 categories: 
   - "camara"
 author: "fatmin"

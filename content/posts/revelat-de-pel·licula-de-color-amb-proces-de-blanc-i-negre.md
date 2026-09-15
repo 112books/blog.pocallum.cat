@@ -1,8 +1,8 @@
 ---
 title: "Revelat de pel·lícula de color amb procés de blanc i negre"
 date: 2016-08-31
-slug: "revelat-de-pel%c2%b7licula-de-color-amb-proces-de-blanc-i-negre"
-url: "/2016/08/31/revelat-de-pel%c2%b7licula-de-color-amb-proces-de-blanc-i-negre/"
+slug: "revelat-de-pel·licula-de-color-amb-proces-de-blanc-i-negre"
+url: "/2016/08/31/revelat-de-pel·licula-de-color-amb-proces-de-blanc-i-negre/"
 categories: 
   - "general"
 author: "fatmin"
