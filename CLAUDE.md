@@ -307,15 +307,16 @@ backend: { name: github, repo: 112books/blog.pocallum.cat, branch: develop }
 media_folder: "static/media"
 public_folder: "/media"
 collections:
-  - name: posts
-    folder: content/posts
-    path: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    fields: title, date, slug (auto), description, categories, tags,
-            thumbnail, image, draft, noindex, title-seo, body (markdown)
+  - Categories: folder content/categories, value_field: valor (slug), display_fields: title
+  - Pàgines fixes: files collection (about, contact, cerca, aviso-legal, polítiques)
+  - Posts: folder content/posts, categories → relation a Categories,
+           thumbnail/image → widget image (drag&drop a static/media)
 ```
 
 **Slug:** auto-generat des del títol amb neteja de caràcters especials. L'usuari pot sobreescriure'l.
-**Imatges:** pujar-les directament al CMS → van a `static/media/` → commitades automàticament al repo.
+**Imatges:** widget `image` → drag&drop → van a `static/media/` → commitades automàticament al repo.
+**Categories:** 92 termes gestionats com a col·lecció separada (content/categories/*/\_index.md).
+**Fons pàgines:** camp `imatgeFons` al frontmatter (widgets image a les pàgines fixes + \_index.md per al home).
 
 ### Workflow: deploy-produccio.yml (ja creat)
 

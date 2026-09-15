@@ -2,6 +2,7 @@
 title: "About"
 date: 2026-03-19
 layout: "about"
+imatgeFons: "https://blog.pocallum.cat/wp-content/uploads/2025/09/2025-09-16-LC-A-Foma400-Varies-0007-1536x942.jpg"
 ---
 
 ![Joan \"Linux\"](https://blog.pocallum.cat/wp-content/uploads/2020/04/joan-avatar-pedrola-1024x1024.jpg)

@@ -38,8 +38,14 @@ optimitza() {
 
   [[ -f "$src" ]] || { echo "  ✗ no trobat: $src"; return; }
 
+  # Guard anti-upscale: cwebp -resize AMPLIA les imatges més petites que el target.
+  # Nota: magick -format no emet newline final → read retorna 1 per EOF tot i llegir.
+  local W H
+  read -r W H < <(magick identify -format "%w %h" "$src" 2>/dev/null) 2>/dev/null || true
+  [[ "$W" =~ ^[0-9]+$ && "$H" =~ ^[0-9]+$ ]] || { echo "  ✗ dimensions invàlides: $src"; return; }
+
   if [[ $FORCE -eq 1 || ! -f "$webp" || "$src" -nt "$webp" ]]; then
-    if cwebp_disponible; then
+    if cwebp_disponible && (( W > MAX_WIDTH || H > MAX_WIDTH )); then
       cwebp -quiet -q "$QUALITY" -resize "$MAX_WIDTH" 0 "$src" -o "$webp"
     else
       magick "$src" -resize "${MAX_WIDTH}x>" -quality "$QUALITY" "$webp"
@@ -51,7 +57,7 @@ optimitza() {
 
   if [[ $THUMB -eq 1 ]]; then
     if [[ $FORCE -eq 1 || ! -f "$thumb" || "$src" -nt "$thumb" ]]; then
-      if cwebp_disponible; then
+      if cwebp_disponible && (( W > THUMB_WIDTH || H > THUMB_WIDTH )); then
         cwebp -quiet -q "$QUALITY" -resize "$THUMB_WIDTH" 0 "$src" -o "$thumb"
       else
         magick "$src" -resize "${THUMB_WIDTH}x>" -quality "$QUALITY" "$thumb"
