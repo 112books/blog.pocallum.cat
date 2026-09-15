@@ -27,7 +27,9 @@
     }
   </style>
 
-  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js" defer></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"
+          integrity="sha384-e6nUZLBkQ86NJ6TVVKAeSaK8jWa3NhkYWZFomE39AvDbQWeie9PlQqM3pmYW5d1g"
+          crossorigin="anonymous" defer></script>
 
   <script>
   const CFG = {
@@ -315,17 +317,19 @@
     @media (max-width: 480px) {
       .tabs { overflow-x: auto; }
       .tab-btn { padding: .6rem .9rem; white-space: nowrap; }
-      .device-grid { gap: 0; }
+      .device-grid { gap: 0; grid-template-columns: repeat(3, 1fr); }
+      .device-count { font-size: 1.4rem; }
       .kpis { grid-template-columns: repeat(2, 1fr); }
+      .kpi-value { font-size: 1.9rem; }
     }
   </style>
 </head>
 <body>
 
 <!-- ══ TOKEN MODAL ═══════════════════════════════════════════ -->
-<div id="token-modal">
+<div id="token-modal" role="dialog" aria-modal="true" aria-labelledby="token-modal-title">
   <form id="token-form" class="token-box" novalidate>
-    <h3>Token de GoatCounter</h3>
+    <h3 id="token-modal-title">Token de GoatCounter</h3>
     <p>
       Ves a <a href="https://pocallum-blog.goatcounter.com/settings/api" target="_blank" rel="noopener">GoatCounter → Settings → API</a>,
       crea un token amb permís <em>Read stats</em> i enganxa'l aquí.<br>
@@ -356,7 +360,7 @@
   </div>
 
   <main class="dash-body">
-    <div id="banner"></div>
+    <div id="banner" aria-live="polite" aria-atomic="true"></div>
 
     <!-- KPIs -->
     <dl class="kpis">
@@ -387,7 +391,7 @@
         <button class="group-btn" data-group="week">setm.</button>
         <button class="group-btn" data-group="month">mes</button>
       </div>
-      <div class="chart-wrap"><canvas id="chart-canvas"></canvas></div>
+      <div class="chart-wrap"><canvas id="chart-canvas" role="img" aria-label="Gràfic de visites per període"></canvas></div>
       <div class="chart-summary" id="chart-summary"></div>
       <div id="insight-temporal" class="insight" style="display:none">
         <span class="label">// observació</span>
@@ -425,9 +429,9 @@
     <div id="tab-dispositius" class="tab-panel">
       <h2 class="section-title">Tipus de dispositiu</h2>
       <div class="device-grid">
-        <div class="device-card"><div class="device-icon">📱</div><div class="device-label">Mòbil</div><div class="device-count" id="dev-mobile">—</div><div class="device-pct" id="dev-mobile-pct"></div></div>
-        <div class="device-card"><div class="device-icon">⬜</div><div class="device-label">Tauleta</div><div class="device-count" id="dev-tablet">—</div><div class="device-pct" id="dev-tablet-pct"></div></div>
-        <div class="device-card"><div class="device-icon">🖥</div><div class="device-label">Escriptori</div><div class="device-count" id="dev-desktop">—</div><div class="device-pct" id="dev-desktop-pct"></div></div>
+        <div class="device-card"><div class="device-icon" aria-hidden="true">📱</div><div class="device-label">Mòbil</div><div class="device-count" id="dev-mobile">—</div><div class="device-pct" id="dev-mobile-pct"></div></div>
+        <div class="device-card"><div class="device-icon" aria-hidden="true">⬜</div><div class="device-label">Tauleta</div><div class="device-count" id="dev-tablet">—</div><div class="device-pct" id="dev-tablet-pct"></div></div>
+        <div class="device-card"><div class="device-icon" aria-hidden="true">🖥</div><div class="device-label">Escriptori</div><div class="device-count" id="dev-desktop">—</div><div class="device-pct" id="dev-desktop-pct"></div></div>
       </div>
       <div class="grid-2">
         <div>
