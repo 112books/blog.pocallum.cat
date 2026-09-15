@@ -198,6 +198,20 @@ Script `migration/post-processa.py` (executat 2026-09-14, segona execució compl
 - **Cerca per càmera/òptica:** requisit destacat per l'usuari. Durant la conversió es valorarà si convé separar la taxonomia `camera` de `category` (les categories actuals són majoritàriament marques i models), però **mai abans de tenir l'exportació analitzada**. Canvi de taxonomia = canvi d'URLs d'arxiu; documentar-ho si es fa.
 - Arxiu mensual: índex per any/mes (l'actual sidebar de WordPress va de desembre 2010 a avui).
 
+### Canvi d'URLs d'arxiu executat (2026-09-15, auditoria SEO) — DOCUMENTAT
+
+**Context:** el WP servia els tags a `/tag/<slug>/` (flat) i les categories a `/category/<pare>/<fill>/` (jeràrquic: 85 fills sota 3 pares — `camara`, `optioca`, `publicacions`; cap top-level). El Hugo inicial els va generar als plural (`/tags/`, `/categories/`) i aplanats → **3.114 URLs amb 15 anys d'indexació trencaven** (Wayback: 2.908 tags + 259 categories històriques).
+
+**Solució (paritat màxima + 301):**
+- `hugo.toml [permalinks.term]`: `tags = "/tag/:slug"`, `categories = "/category/:slug"` (paritat exacta per als 3.020 tags) + `[permalinks.taxonomy]` manté els índexs a `/tags/` i `/categories/` (el browser de càmeres no es mou).
+- `.htaccess` (mod_rewrite): 301 de les jeràrquiques WP → aplanades (`/category/<pare>/<fill>/` → `/category/<fill>/`, + `/page/N/` i `/feed/`), cas especial `horsman-8x10″` (nicename WP amb U+2033 → Hugo `horsman-8x10`), `/category/publicacions/` → `/categories/`, i 301 dels plurals provisionals (`/tags/<x>/` → `/tag/<x>/`, `/categories/<x>/` → `/category/<x>/`).
+- `/feed/` del WP es serveix via rewrite intern a `/feed.xml` (subscriptors existents) + 301 `/comments/feed/`.
+- **Tag no coberts:** ~12 tags Wayback que el WP final ja no tenia en cap post publicat → 404 honest (Google els poda).
+- **`llms.txt`** (conveni per a cercadors d'IA): output format `llms` a la home → `layouts/home.llms.txt` amb mapa del lloc + 15 darreres cròniques.
+- **robots.txt:** template propi (`themes/blog/layouts/robots.txt`) amb `Disallow:` buit (allow all, cercadors i crawlers d'IA explícitament benvinguts) + línia `Sitemap:`.
+- **seo.html:** og:image ara prioritza `thumbnail:` (local, fiable) sobre `image:` (sovint hotlink Google); descriptions amb `plainify | trim` (text net, sense `\n` inicial); og:type `website` a totes les pàgines no-post; **self-canonical a `/page/N/`** (abans canonicalitzava a l'arrel → Google desindexava la paginació).
+- **Pendent de l'usuari:** token de verificació de Google Search Console (cap meta `google-site-verification` al HTML actual; si el GSC del WP era via meta tag de Yoast, s'ha perdut amb el WP — cal re-verificar el domini, via meta tag o DNS TXT).
+
 ---
 
 ## Pla de migració (fases)
@@ -257,6 +271,7 @@ Replicar el dashboard del pare: `static/admin/index.html` autocontingut (estèti
 - **Referència:** repo `../goatcounter-dashboard` i implementació del pare (`../pocallum.cat/static/admin/`, `scripts/`, `.github/workflows/fetch-analytics.yml`)
 - **GoatCounter existent:** el blog ja té GoatCounter configurat al WordPress (`wp-admin → goatcounter-wp` → site code `pocallum-blog`; verificat directament al HTML que emet el WP: `data-goatcounter="https://pocallum-blog.goatcounter.com/count"`). **Reaprofitarem el site ja creat** (mateix codi) en lloc de crear-ne un de nou. El `hugo.toml` ja té `goatcounterSite = "pocallum-blog"` — **no canviar-lo**. Falta afegir el `GOATCOUNTER_TOKEN` al repo (secret de GitHub Actions), pendent.
 - **Implementació:** fases 4–5, un cop el tema estigui en marxa
+- **⏳ Pendent (demanat per l'usuari, 2026-09-15):** afegir al dashboard el **gràfic de visites per dia de la setmana** (i per hora del dia) — important per decidir **quin dia/hora publicar**. Cal agregar la dimensió temporal dels hits (camp `Time` del `/stats/hits` de GoatCounter) al `process-analytics.py` i pintar el gràfic a la primera pàgina del dashboard.
 
 ---
 

@@ -13,3 +13,4 @@ migration/
 # Imatges baixades del servidor per al desenvolupament local
 # (al staging/aprovació les imatges venen del mateix servidor, en absolut)
 static/uploads/
+__pycache__/

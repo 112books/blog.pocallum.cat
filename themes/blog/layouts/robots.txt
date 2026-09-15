@@ -1,0 +1,5 @@
+User-agent: *
+# Cercadors i crawlers d'IA (GPTBot, ClaudeBot, PerplexityBot, Google-Extended…): benvinguts.
+Disallow:
+
+Sitemap: {{ .Site.BaseURL }}sitemap.xml

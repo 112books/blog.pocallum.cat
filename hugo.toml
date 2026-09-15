@@ -14,13 +14,17 @@ defaultContentLanguage = "ca"
   pagerSize = 12   # com el WordPress actual (2.353 posts / 197 pàgines)
 
 [outputs]
-  home    = ["HTML", "RSS"]
+  home    = ["HTML", "RSS", "llms"]
   section = ["HTML", "RSS"]
   taxonomy = ["HTML"]
 
 [outputFormats]
   [outputFormats.RSS]
-    baseName = "feed"   # genera /feed.xml — compatibilitat amb el /feed/ del WordPress pendent a QA (fase 6)
+    baseName = "feed"   # genera /feed.xml; el /feed/ del WP es serveix via rewrite al .htaccess
+  [outputFormats.llms]
+    baseName   = "llms"     # genera /llms.txt — guia per a cercadors d'IA (conveni llms.txt)
+    mediaType  = "text/plain"
+    isPlainText = true
 
 [taxonomies]
   category = "categories"
@@ -33,13 +37,25 @@ defaultContentLanguage = "ca"
 [permalinks]
   posts = "/:year/:month/:day/:slug/"
 
+  # Paritat d'URLs d'arxius amb el WordPress (15 anys d'indexació):
+  # el WP servia /tag/<slug>/ (flat) i /category/<pare>/<fill>/ (jeràrquic).
+  # Hugo genera /tag/<slug>/ i /category/<fill>/ (aplanat). Les URLs jeràrquiques
+  # del WP i les plurals provisionals es cobreixen amb 301 al .htaccess.
+  # Pares WP: camara, optiaca, publicacions (85 fills, cap top-level).
+  [permalinks.term]
+    tags       = "/tag/:slug"
+    categories = "/category/:slug"
+  [permalinks.taxonomy]
+    tags       = "/tags"        # índex de totes les etiquetes
+    categories = "/categories"  # índex de càmeres i òptiques (browser)
+
 [params]
   author      = "Joan Linux Martínez"
   description = "Crònica fotogràfica tal com raja. Des del 2010."
   instagram   = "https://www.instagram.com/pocallum"
   facebook    = "https://www.facebook.com/pocallum"
   webPare     = "https://pocallum.cat"
-  defaultOgImage = "https://blog.pocallum.cat/wp-content/uploads/2014/04/7706-Bronica-CN400-014.jpg"
+  defaultOgImage = "https://blog.pocallum.cat/wp-content/uploads/2025/09/2025-09-16-LC-A-Foma400-Varies-0007-1536x942.jpg"  # = imatgeFons de la portada (últim recurs; seo.html ja prioritza imatgeFons)
   goatcounterSite = "pocallum-blog"
   imatgesWebp = false  # true: serveix WebP adjacent (-2500.webp / -800.webp) quan estiguin pujats al servidor
 

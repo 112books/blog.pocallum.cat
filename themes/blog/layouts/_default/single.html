@@ -23,9 +23,9 @@
 
   <header class="page-header">
     <div class="container--narrow">
-      {{ with .Params.categories }}
+      {{ with .GetTerms "categories" }}
       <p class="page-eyebrow">
-        {{ range first 1 . }}<a href="{{ "categories/" | relURL }}{{ . | urlize }}/">{{ . }}</a>{{ end }}
+        {{ range first 1 . }}<a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>{{ end }}
       </p>
       {{ end }}
       <h1 class="page-title">{{ .Title }}</h1>
@@ -51,11 +51,11 @@
       {{ $contingut | safeHTML }}
     </div>
 
-    {{ with .Params.tags }}
+    {{ with .GetTerms "tags" }}
     <nav class="tags" aria-label="Etiquetes">
       {{ if . }}<span class="tags__label">Etiquetes</span>{{ end }}
       {{ range . }}
-      <a class="tag" href="{{ "tags/" | relURL }}{{ . | urlize }}/">{{ . }}</a>
+      <a class="tag" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
       {{ end }}
     </nav>
     {{ end }}

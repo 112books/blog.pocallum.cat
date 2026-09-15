@@ -23,7 +23,7 @@
       <div class="post-card__body">
         <div class="post-card__meta">
           <span class="post-card__date"><a href="{{ .RelPermalink }}">{{ .Date.Format "2 · January · 2006" }}</a></span>
-          {{ with .Params.categories }}{{ range first 2 . }}<span class="post-card__cat"><a href="{{ "categories/" | relURL }}{{ . | urlize }}/">{{ . }}</a></span>{{ end }}{{ end }}
+          {{ with .GetTerms "categories" }}{{ range first 2 . }}<span class="post-card__cat"><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></span>{{ end }}{{ end }}
         </div>
         <h2 class="post-card__title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
         {{ with .Summary }}<p class="post-card__excerpt">{{ . | plainify | truncate 160 }}</p>{{ end }}
@@ -57,7 +57,7 @@
       <div class="post-card__body">
         <div class="post-card__meta">
           <span class="post-card__date"><a href="{{ .RelPermalink }}">{{ .Date.Format "2 · January · 2006" }}</a></span>
-          {{ with .Params.categories }}{{ range first 2 . }}<span class="post-card__cat"><a href="{{ "categories/" | relURL }}{{ . | urlize }}/">{{ . }}</a></span>{{ end }}{{ end }}
+          {{ with .GetTerms "categories" }}{{ range first 2 . }}<span class="post-card__cat"><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></span>{{ end }}{{ end }}
         </div>
         <h2 class="post-card__title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
         {{ with .Summary }}<p class="post-card__excerpt">{{ . | plainify | truncate 160 }}</p>{{ end }}

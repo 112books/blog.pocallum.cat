@@ -1,10 +1,10 @@
-{{- $desc := .Site.Params.description | truncate 155 -}}
-{{- if .Description }}{{- $desc = .Description | truncate 155 -}}
-{{- else if .Summary }}{{- $desc = .Summary | truncate 155 -}}
+{{- $desc := .Site.Params.description | plainify | strings.TrimSpace | truncate 155 -}}
+{{- if .Description }}{{- $desc = .Description | plainify | strings.TrimSpace | truncate 155 -}}
+{{- else if .Summary }}{{- $desc = .Summary | plainify | strings.TrimSpace | truncate 155 -}}
 {{- end -}}
 
-{{/* Imatge OG: `image:` del post → `thumbnail:` → default del site */}}
-{{- $ogImage := or .Params.image .Params.thumbnail .Site.Params.defaultOgImage -}}
+{{/* Imatge OG: `thumbnail:` (local, fiable) → `image:` (sovint hotlink Google) → fons de la portada → default del site */}}
+{{- $ogImage := or .Params.thumbnail .Params.image (site.Home.Params.imatgeFons) .Site.Params.defaultOgImage -}}
 {{- if and $ogImage (not (strings.HasPrefix $ogImage "http")) }}{{- $ogImage = $ogImage | absURL -}}{{- end -}}
 
 {{/* Robots: blocked per drafts, noindex manual, index (default) */}}
@@ -17,14 +17,20 @@
 <meta name="description" content="{{ $desc }}">
 
 <title>{{ if .IsHome }}{{ .Site.Title }}{{ else if index .Params "title-seo" }}{{ index .Params "title-seo" }}{{ else }}{{ .Title }} — {{ .Site.Title }}{{ end }}</title>
-<link rel="canonical" href="{{ .Permalink }}">
+{{/* Canonical: self-canonical a pàgines paginades (/page/2/…) — no a l'arrel */}}
+{{- $canonical := .Permalink -}}
+{{- if ne .Kind "page" }}
+  {{- with .Paginator }}{{- if gt .PageNumber 1 }}{{- $canonical = $.Paginator.URL | absURL -}}{{- end }}{{- end }}
+{{- end }}
+<link rel="canonical" href="{{ $canonical }}">
 
 {{/* Open Graph */}}
 <meta property="og:site_name"   content="{{ .Site.Title }}">
 <meta property="og:locale"      content="ca_ES">
 <meta property="og:title"       content="{{ if .IsHome }}{{ .Site.Title }}{{ else if index .Params "title-seo" }}{{ index .Params "title-seo" }}{{ else }}{{ .Title }} — {{ .Site.Title }}{{ end }}">
 <meta property="og:description" content="{{ $desc }}">
-<meta property="og:type"        content="{{ if .IsHome }}website{{ else }}article{{ end }}">
+{{- $ogType := "website" }}{{- if and (eq .Type "posts") (not .IsSection) }}{{- $ogType = "article" -}}{{- end }}
+<meta property="og:type"        content="{{ $ogType }}">
 <meta property="og:url"         content="{{ .Permalink }}">
 <meta property="og:image"       content="{{ $ogImage }}">
 {{ with .Site.Params.ogImageAlt }}<meta property="og:image:alt" content="{{ . }}">{{ end }}
