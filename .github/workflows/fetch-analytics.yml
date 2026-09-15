@@ -50,7 +50,7 @@ jobs:
           # /stats/hits amb PAGINACIÓ (scripts/fetch-hits.py): sense això
           # només arribem al top-100 paths del període i les visites de la
           # cua (pex. un post vist un cop avui) quedarien fora de hits_by_day.
-          GC_BASE="${BASE}" GC_TOKEN="${GC_TOKEN}" GC_START="${START}" GC_END="${END}" \
+          GC_BASE="${BASE}/stats/hits" GC_TOKEN="${GC_TOKEN}" GC_START="${START}" GC_END="${END}" \
             python3 scripts/fetch-hits.py
           fetch_json "${BASE}/stats/total?start=${START}&end=${END}"              > /tmp/total.json
           fetch_json "${BASE}/stats/browsers?start=${START}&end=${END}&limit=10"  > /tmp/browsers.json
