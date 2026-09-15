@@ -990,6 +990,11 @@ h1, h2, h3, h4 {
   margin: 0 auto;
   padding-inline: var(--space-8);
 }
+/* Camp de cerca dins del hero de la pàgina de cerca */
+.cerca-search-wrap {
+  max-width: 640px;
+  margin-top: var(--space-8);
+}
 :root {
   --pagefind-ui-scale: 1;
   --pagefind-ui-primary: var(--accent);
@@ -1001,6 +1006,14 @@ h1, h2, h3, h4 {
   --pagefind-ui-border-radius: 0;
   --pagefind-ui-font: var(--f-body);
 }
+/* Dins del hero fosc, adaptem els colors de Pagefind */
+.contact-fullpage .pagefind-ui__search-input {
+  background: rgba(255,255,255,0.08) !important;
+  color: #fff !important;
+  border-color: rgba(255,255,255,0.25) !important;
+}
+.contact-fullpage .pagefind-ui__search-input::placeholder { color: rgba(255,255,255,0.45) !important; }
+.contact-fullpage .pagefind-ui__search-clear { color: rgba(255,255,255,0.5) !important; }
 
 /* ── Comentaris (giscus) ───────────────────────────────────────────────────── */
 .giscus-wrap {
