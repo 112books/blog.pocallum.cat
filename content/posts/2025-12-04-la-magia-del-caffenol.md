@@ -19,6 +19,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/12/2025-12-04-Holga-CFN-Foma400-Caffenol-0003.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/12/photo_2025-12-04-16.15.25-604x1024.jpeg
+description: "Revelat amb caffenol: proves, fórmula i resultats amb Fomapan 400 en una Holga CFN. Tons càlids, trucs d’escaneig i un taller per descobrir-ne els secrets."
+title-seo: "La màgia del caffenol: proves, fórmula i resultats amb Fomapan 400"
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2025/12/photo_2025-12-04-16.15.25-604x1024.jpeg)](https://photos.app.goo.gl/CMXSJjLaeYDbyPQt5)

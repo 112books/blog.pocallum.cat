@@ -24,6 +24,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2026/05/IMG_1546.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2026/05/IMG_1546-1024x576.jpg
+description: "Viatge a Menorca amb mirada fotogràfica i analògica. Reflexions sobre una illa cada vegada més massificada, camins, cales i records d’infantesa."
+title-seo: "Menorca 2026 · viatge analògic i reflexions d’illa massificada"
 ---
 
 [![En Toni, un cavall amic que intento saludar a cada viatge a l’illa.](https://blog.pocallum.cat/wp-content/uploads/2026/05/IMG_1546-1024x576.jpg)](https://photos.app.goo.gl/T8AZv95ge9iuKrPAA)

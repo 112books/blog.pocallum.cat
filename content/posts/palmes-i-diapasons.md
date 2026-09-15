@@ -21,6 +21,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/01/2024-12-29-LeicaM6-Foma100@200-R150-ParcCentralNB-0053.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/01/2024-12-29-LeicaM6-Foma100@200-R150-ParcCentralNB-0053-1024x665.jpg
+description: "Descobreix les icòniques Palmes i Diapasons del Parc Central de Nou Barris a través d’un recull fotogràfic amb pel·lícula analògica Fomapan 100, capturant la seva bellesa i denunciant-ne el mal estat actual."
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2025/01/2024-12-29-LeicaM6-Foma100@200-R150-ParcCentralNB-0053-1024x665.jpg)](https://photos.app.goo.gl/3aTf1gAJFg5DZLpr6)

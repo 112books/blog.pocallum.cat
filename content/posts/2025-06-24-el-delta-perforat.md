@@ -25,6 +25,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/07/2025-06-23-Sproket-HR-50-Delta-Ebre-A-0001.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/07/2025-06-23-Sproket-Foma100@200-Delta-Ebre-B-0005-1024x473.jpg
+description: "Explora el Delta de l’Ebre en plena canícula amb aquesta crònica visual: panoràmiques analògiques, experiències entre arrossars i platges, i la màgia de fotografiar el paisatge més canviant de Catalunya durant l’estiu."
 ---
 
 ![](https://blog.pocallum.cat/wp-content/uploads/2025/07/2025-06-23-Sproket-Foma100@200-Delta-Ebre-B-0005-1024x473.jpg)

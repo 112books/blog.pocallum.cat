@@ -32,6 +32,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2026/06/DSCF4951.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2026/06/DSCF4951-1024x683.jpg
+description: "Crònica del divendres a les Festes de la Prosperitat 2026 amb Me Pirra la Birra Fest, Mocebares, Banda Bones i Prospe Oases. Música i barri en festa."
+title-seo: "Festes de la Prosperitat 2026: Me Pirra la Birra Fest, Mocebares i Prospe Oases"
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2026/06/DSCF4951-1024x683.jpg)](https://photos.app.goo.gl/htoYEUSEJR5ES1uQ9)

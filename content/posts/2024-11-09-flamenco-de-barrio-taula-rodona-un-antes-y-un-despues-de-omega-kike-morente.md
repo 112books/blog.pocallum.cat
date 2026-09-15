@@ -22,6 +22,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/11/IMG_4844-Mejorado-NR.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2024/11/IMG_4844-Mejorado-NR-1024x683.jpg
+description: "Explora l'impacte del XIII Festival Alternatiu de Flamenco de 9 Barris, que inclou una taula rodona sobre l'herència d'Omega i un concert de Kiki Morente. Descobreix com Comando Lunares i altres entitats col·laboradores treballen per portar el millor del flamenc al barri de Nou Barris."
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2024/11/IMG_4844-Mejorado-NR-1024x683.jpg)](https://photos.app.goo.gl/icCcw7jDzSutrWb17)

@@ -25,6 +25,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/05/L1500866.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/05/L1500866-1024x576.jpg
+description: "Descobreix el tardeo amb La otra rumba al Casal de Prosperitat (30/04/2025): DJ Celia Crew, Re-Sister i Patxekito amb vinils analògics. Oci cultural sense futbol a Barcelona!"
+title-seo: "Tardeo La otra Rumba a Prosperitat 2025 | Música Vinil Casal"
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2025/05/L1500866-1024x576.jpg)](https://photos.app.goo.gl/zVE9J1gH6mkgDjPR6)

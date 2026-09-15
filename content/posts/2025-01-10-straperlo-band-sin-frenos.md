@@ -20,6 +20,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/01/DSCF7570.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/01/DSCF7570-1024x683.jpg
+description: "Inicia la temporada de concerts 2025 al Casal de Barri Prosperitat amb Straperlo Band i Sin Frenos, dues bandes locals amb temes propis i energia desbordant. Rock’n’Roll en estat pur!"
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2025/01/DSCF7570-1024x683.jpg)](https://photos.app.goo.gl/tj56gCRnSGJSaaF89)

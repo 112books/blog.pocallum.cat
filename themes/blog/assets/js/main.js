@@ -4,15 +4,19 @@
   const menu   = document.getElementById('js-nav-menu');
   if (!toggle || !menu) return;
 
-  toggle.addEventListener('click', () => {
-    const open = menu.classList.toggle('is-open');
+  function setOpen(open) {
+    menu.classList.toggle('is-open', open);
+    menu.hidden = !open;
     toggle.setAttribute('aria-expanded', String(open));
+  }
+
+  toggle.addEventListener('click', () => {
+    setOpen(!menu.classList.contains('is-open'));
   });
 
   document.addEventListener('keydown', (e) => {
     if (e.key === 'Escape' && menu.classList.contains('is-open')) {
-      menu.classList.remove('is-open');
-      toggle.setAttribute('aria-expanded', 'false');
+      setOpen(false);
       toggle.focus();
     }
   });
@@ -75,8 +79,18 @@
     lbImg.src = img.src;
     lbImg.alt = img.alt || '';
     lbCaption.textContent = img.alt || '';
-    btnPrev.classList.toggle('is-hidden', imgs.length <= 1);
-    btnNext.classList.toggle('is-hidden', imgs.length <= 1);
+    const single = imgs.length <= 1;
+    btnPrev.classList.toggle('is-hidden', single);
+    btnNext.classList.toggle('is-hidden', single);
+    btnPrev.setAttribute('aria-hidden', String(single));
+    btnNext.setAttribute('aria-hidden', String(single));
+    if (single) {
+      btnPrev.setAttribute('tabindex', '-1');
+      btnNext.setAttribute('tabindex', '-1');
+    } else {
+      btnPrev.removeAttribute('tabindex');
+      btnNext.removeAttribute('tabindex');
+    }
   }
 
   function open(i) {
@@ -90,11 +104,20 @@
 
   function close() {
     lb.classList.remove('is-open');
-    lb.addEventListener('transitionend', () => {
+    /* Doble via de finalització: transitionend si hi ha transició, i un timeout
+       de seguretat per si prefers-reduced-motion l'ha anul·lada. */
+    let done = false;
+    const final = () => {
+      if (done) return;
+      done = true;
       lb.hidden = true;
       document.body.style.overflow = '';
       if (prevFocus) prevFocus.focus();
-    }, { once: true });
+    };
+    lb.addEventListener('transitionend', final, { once: true });
+    if (window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+      final();
+    }
   }
 
   /* Marcar imatges i afegir click */
@@ -116,6 +139,22 @@
     if (e.key === 'Escape')     { e.preventDefault(); close(); }
     if (e.key === 'ArrowLeft')  { e.preventDefault(); show(current - 1); }
     if (e.key === 'ArrowRight') { e.preventDefault(); show(current + 1); }
+    if (e.key === 'Tab') {
+      /* Focus trap: mantenir el focus dins del lightbox */
+      const focusables = Array.from(
+        lb.querySelectorAll('button, [href], [tabindex]:not([tabindex="-1"])')
+      ).filter((el) => !el.hasAttribute('hidden') && el.getAttribute('aria-hidden') !== 'true');
+      if (!focusables.length) return;
+      const first = focusables[0];
+      const last  = focusables[focusables.length - 1];
+      if (e.shiftKey && document.activeElement === first) {
+        e.preventDefault();
+        last.focus();
+      } else if (!e.shiftKey && document.activeElement === last) {
+        e.preventDefault();
+        first.focus();
+      }
+    }
   });
 
   /* Swipe tàctil */

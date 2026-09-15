@@ -15,6 +15,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/03/2025-03-14-Xavier-Tafunell-0009-neta-neteja-digital-Edicio.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/03/2025-03-14-Xavier-Tafunell-0009-neta-neteja-digital-Edicio-665x1024.jpg
+description: "Descobreix el procés de restauració de diapositives antigues a través d’un article a pocallum.cat. Aprengui com preservar el seu patrimoni fotogràfic."
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2025/03/2025-03-14-Xavier-Tafunell-0009-neta-neteja-digital-Edicio-665x1024.jpg)](https://pocallum.cat/restaurant-diapositives-dels-anys-50/)

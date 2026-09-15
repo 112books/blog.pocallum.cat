@@ -24,6 +24,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/12/DSCF2385.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/12/DSCF2385-1024x683.jpg
+description: "Passeig fotogràfic per Torre Baró i les Roquetes per acomiadar el dia. Miradors, camins i llum d’hivern a la zona alta de Barcelona."
+title-seo: "Acomiadant el sol a Torre Baró · Passeig fotogràfic a la Barcelona alta"
 ---
 
 [![Edificis graffitejats per Torre Baró](https://blog.pocallum.cat/wp-content/uploads/2025/12/DSCF2385-1024x683.jpg)](https://photos.app.goo.gl/zw1EDSNYQ8h1kcwL7)

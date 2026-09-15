@@ -18,6 +18,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/08/2024-08-12-LM6-Minitar-Fomapan100@400-Bera-B-0017.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2024/08/2024-08-12-LM6-Minitar-Fomapan100@400-Bera-B-0017-1024x588.jpg
+description: "Pasai Donibane, un pintoresc poblet de pescadors amb una rica tradició marinera i un encant inigualable, amenaçat per la turistificació."
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2024/08/2024-08-12-LM6-Minitar-Fomapan100@400-Bera-B-0017-1024x588.jpg)](https://photos.app.goo.gl/D74A8wGHiEmyTqDd7)

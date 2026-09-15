@@ -28,6 +28,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/07/IMG_8638.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/07/IMG_8638-1024x682.jpg
+description: "Robben Ford, acompanyat de Chris Minh Doky, Ricky Peterson i Keith Carlock, ofereix una actuació inoblidable al Vijazz de Vilafranca del Penedès, combinant jazz, blues i rock-fusió en una nit màgica."
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2025/07/IMG_8638-1024x682.jpg)](https://photos.app.goo.gl/MRsw62vcKN8es8Tv5)

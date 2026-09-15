@@ -8,6 +8,7 @@ author: "fatmin"
 tags: []
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/07/IMG_9373.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/07/IMG_9373-1024x682.jpg
+description: "Descobreix la crònica d’una nit màgica al Vijazz 2025, amb la Jam Session al Casino de Vilafranca: jazz, improvisació, retrobaments i noves amistats en un ambient únic que manté viva l’essència del festival."
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2025/07/IMG_9373-1024x682.jpg)](https://photos.app.goo.gl/2xArzoJxU1QJn5JU7)

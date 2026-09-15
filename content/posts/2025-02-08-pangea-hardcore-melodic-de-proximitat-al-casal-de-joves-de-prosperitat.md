@@ -22,6 +22,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/02/DSCF8277-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/02/DSCF8277-1024x577.jpg
+description: "Crònica del concert de Pangea al Casal de Joves de Prosperitat: Hardcore melòdic de proximitat i ambientazo al barri. Descobreix les fotos!"
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2025/02/DSCF8277-1024x577.jpg)](https://photos.app.goo.gl/E4JNQifkgjwajYth6)

@@ -17,6 +17,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/04/cartell-pinhole-day-2025_1.png
 image: https://blog.pocallum.cat/wp-content/uploads/2025/04/cartell-pinhole-day-2025_1-887x1024.png
+description: "Celebra el Dia Mundial de la Fotografia Estenopeica 2025 a Nau Bostik (Sala Basiana) amb retrats 4x5, càmeres fetes a mà de Llumàtics i activitats anàrquiques. Uneix-t'hi l'11 d'abril!"
+title-seo: "Dia Mundial Fotografia Estenopeica 2025 a Nau Bostik | Retrats 4x5"
 ---
 
 ![](https://blog.pocallum.cat/wp-content/uploads/2025/04/cartell-pinhole-day-2025_1-887x1024.png)

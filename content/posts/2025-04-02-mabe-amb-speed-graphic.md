@@ -19,6 +19,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/04/2025-04-02-GraflexSpeedGraphic-Foma100@200-Mabe-0002.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/04/2025-04-02-GraflexSpeedGraphic-Foma100@200-Mabe-0002-819x1024.jpg
+description: "Captura la bellesa del Gran Format amb la càmera Graflex Speed Graphic i la model Mabe. Resultats únics i emotius en un entorn analògic."
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2025/04/2025-04-02-GraflexSpeedGraphic-Foma100@200-Mabe-0002-819x1024.jpg)](https://photos.app.goo.gl/tLZvPRFHyvBmocYX6)

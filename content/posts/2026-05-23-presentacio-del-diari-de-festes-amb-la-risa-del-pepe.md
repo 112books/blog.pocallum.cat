@@ -30,6 +30,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2026/05/DSCF4429.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2026/05/DSCF4429-1024x683.jpg
+description: "Crònica fotogràfica de la presentació del Diari de la Festa Major de la Prosperitat 2026 amb l’actuació de La Risa del Pepe al Casal de Barri."
+title-seo: "Diari Festa Major Prosperitat 2026 i La Risa del Pepe"
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2026/05/DSCF4429-1024x683.jpg)](https://photos.app.goo.gl/rgCBekNvCXp5vSi4A)

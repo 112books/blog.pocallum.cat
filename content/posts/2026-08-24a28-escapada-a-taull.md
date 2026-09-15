@@ -29,6 +29,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2026/09/2026-09-04-Zerocam2k-Foma100-Taull-0001.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2026/09/2026-09-04-Zerocam2k-Foma100-Taull-0001.jpg
+description: "Uns dies a Taüll per explorar Aigüestortes, caminar per la Vall de Boí i descobrir la Nit de la Llum d’Erill la Vall, amb fotografia analògica."
+title-seo: "Escapada a Taüll: Aigüestortes, fotografia i Nit de la Llum"
 ---
 
 <figure>

@@ -23,6 +23,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/07/IMG_9133.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/07/IMG_9133-1024x683.jpg
+description: "Crònica i el resum fotogràfic del concert de Corto.Alto al Vijazz 2025, una proposta de jazz contemporani liderada per Liam Shortall que combina tradició, innovació i improvisació en directe a Vilafranca del Penedès."
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2025/07/IMG_9133-1024x683.jpg)](https://photos.app.goo.gl/tXT9fPis3n5bp5Py7)

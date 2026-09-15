@@ -18,6 +18,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/03/IMG_6641.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/03/IMG_6641-1024x683.jpg
+description: "Descobreix el nou projecte musical de Jo Solana, amb el single 'Tan de bo tornin els bons temps' del disc 'Memòria', acompanyat de Raül Bruna i Òscar Estanyol."
 ---
 
 ![](https://blog.pocallum.cat/wp-content/uploads/2025/03/IMG_6641-1024x683.jpg)

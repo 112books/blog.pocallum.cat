@@ -16,6 +16,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/03/00.png
 image: https://blog.pocallum.cat/wp-content/uploads/2025/03/00-1024x1024.png
+description: "Descobreix el nou llibre 'Anónimos, más allá de las apariencias', una col·laboració entre Mario Ortiz i Joan Linux que explora la complexitat del rostro humà a través de la fotografia i la narrativa."
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2025/03/00-1024x1024.png)](https://www.112books.eu/2025/03/16/ya-disponible-anonimos-mas-alla-de-las-apariencias/)

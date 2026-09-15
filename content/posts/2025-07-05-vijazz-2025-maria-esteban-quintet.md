@@ -25,6 +25,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/07/IMG_8854.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/07/IMG_8854-1024x683.jpg
+description: "Descobreix la crònica i una selecció de fotografies del concert de María Esteban i el seu quintet al Vijazz 2025, celebrat al Claustre de Sant Francesc, on el jazz vocal femení va ser protagonista en un ambient íntim i acollidor."
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2025/07/IMG_8854-1024x683.jpg)](https://photos.app.goo.gl/ktFLcw9CxiyNa4rd7)

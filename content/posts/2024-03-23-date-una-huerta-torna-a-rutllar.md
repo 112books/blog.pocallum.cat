@@ -14,6 +14,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/03/DSCF0405.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/03/DSCF0405-1024x683.jpg
+description: "El projecte Date una Huerta torna a la Prosperitat! Després d’un temps d’abandonament, veïns reocupen l’espai per seguir oferint natura, cultura i autoajuda al barri."
 ---
 
 ![](https://blog.pocallum.cat/wp-content/uploads/2025/03/DSCF0405-1024x683.jpg)

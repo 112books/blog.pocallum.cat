@@ -1,0 +1,68 @@
+{{- $desc := .Site.Params.description | truncate 155 -}}
+{{- if .Description }}{{- $desc = .Description | truncate 155 -}}
+{{- else if .Summary }}{{- $desc = .Summary | truncate 155 -}}
+{{- end -}}
+
+{{/* Imatge OG: `image:` del post → `thumbnail:` → default del site */}}
+{{- $ogImage := or .Params.image .Params.thumbnail .Site.Params.defaultOgImage -}}
+{{- if and $ogImage (not (strings.HasPrefix $ogImage "http")) }}{{- $ogImage = $ogImage | absURL -}}{{- end -}}
+
+{{/* Robots: blocked per drafts, noindex manual, index (default) */}}
+{{- $robots := "index, follow" -}}
+{{- if .Params.noindex }}{{- $robots = "noindex, nofollow" -}}
+{{- else if .Draft }}{{- $robots = "noindex, nofollow" -}}
+{{- end -}}
+<meta name="robots" content="{{ $robots }}">
+
+<meta name="description" content="{{ $desc }}">
+
+<title>{{ if .IsHome }}{{ .Site.Title }}{{ else if index .Params "title-seo" }}{{ index .Params "title-seo" }}{{ else }}{{ .Title }} — {{ .Site.Title }}{{ end }}</title>
+<link rel="canonical" href="{{ .Permalink }}">
+
+{{/* Open Graph */}}
+<meta property="og:site_name"   content="{{ .Site.Title }}">
+<meta property="og:locale"      content="ca_ES">
+<meta property="og:title"       content="{{ if .IsHome }}{{ .Site.Title }}{{ else if index .Params "title-seo" }}{{ index .Params "title-seo" }}{{ else }}{{ .Title }} — {{ .Site.Title }}{{ end }}">
+<meta property="og:description" content="{{ $desc }}">
+<meta property="og:type"        content="{{ if .IsHome }}website{{ else }}article{{ end }}">
+<meta property="og:url"         content="{{ .Permalink }}">
+<meta property="og:image"       content="{{ $ogImage }}">
+{{ with .Site.Params.ogImageAlt }}<meta property="og:image:alt" content="{{ . }}">{{ end }}
+
+{{/* Twitter / X Cards */}}
+<meta name="twitter:card"        content="{{ if $ogImage }}summary_large_image{{ else }}summary{{ end }}">
+<meta name="twitter:title"       content="{{ if .IsHome }}{{ .Site.Title }}{{ else if index .Params "title-seo" }}{{ index .Params "title-seo" }}{{ else }}{{ .Title }} — {{ .Site.Title }}{{ end }}">
+<meta name="twitter:description" content="{{ $desc }}">
+{{ if $ogImage }}<meta name="twitter:image" content="{{ $ogImage }}">{{ end }}
+
+{{/* JSON-LD Structured Data — generat amb dict|jsonify|safeJS per evitar doble escapament dins <script> */}}
+{{ if .IsHome }}
+<script type="application/ld+json">
+{{- dict "@context" "https://schema.org"
+           "@type" "WebSite"
+           "name" .Site.Title
+           "url" .Site.BaseURL
+           "inLanguage" "ca"
+           "description" .Site.Params.description
+           "publisher" (dict "@type" "Organization" "name" "Pocallum" "url" .Site.Params.webPare)
+           "potentialAction" (dict "@type" "SearchAction"
+                                   "target" (printf "%scerca/?q={search_term_string}" .Site.BaseURL)
+                                   "query-input" "required name=search_term_string")
+     | jsonify | safeJS }}
+</script>
+{{ else if and (eq .Type "posts") (not .IsSection) }}
+<script type="application/ld+json">
+{{- dict "@context" "https://schema.org"
+           "@type" "BlogPosting"
+           "headline" (index .Params "title-seo" | default .Title)
+           "description" $desc
+           "datePublished" (.Date.Format "2006-01-02")
+           "dateModified" (.Lastmod | default .Date | time.Format "2006-01-02")
+           "mainEntityOfPage" (dict "@type" "WebPage" "@id" .Permalink)
+           "author" (dict "@type" "Person" "name" .Site.Params.author)
+           "publisher" (dict "@type" "Organization" "name" "Pocallum" "url" .Site.Params.webPare)
+           "url" .Permalink
+           "image" $ogImage
+     | jsonify | safeJS }}
+</script>
+{{ end }}

@@ -20,6 +20,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2026/01/Captura-de-pantalla-2025-12-27-a-les-10.50.42.png
 image: https://blog.pocallum.cat/wp-content/uploads/2026/01/Captura-de-pantalla-2025-12-27-a-les-10.50.42.png
+description: "Descobreix Antroporfomologia #01: El naixement d’una bèstia. Petit fotollibre sobre dansa i moviment corporal (Nahomi Itzel & Joan Linux). Edició limitada 25 ex. a 112Books.eu"
+title-seo: "Antroporfomologia #01 — El naixement d’una bèstia | 112 Books"
 ---
 
 <figure>

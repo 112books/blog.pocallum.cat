@@ -21,6 +21,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/09/IMG_0894.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/09/IMG_0894-1024x683.jpg
+description: "El grup Improviciados va omplir de música i bon ambient el Vermutsical del Casal de Barri de Prosperitat, organitzat per la cooperativa Las Rudas."
+title-seo: "Improviciados al Vermutsical de Prosperitat – Música i bon ambient"
 ---
 
 [![Improviciados en un moment de la seva actuació al Casal de barri de Prosperitat](https://blog.pocallum.cat/wp-content/uploads/2025/09/IMG_0894-1024x683.jpg)](https://photos.app.goo.gl/Z2EJ94jd1PfpmZU88)

@@ -9,6 +9,8 @@ author: "fatmin"
 tags: []
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2026/02/DSCF3125.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2026/02/DSCF3125-1024x683.jpg
+description: "Nit de fotos al Bar Moebius del Raval de Barcelona amb l’espectacle Tarantula + Friends, ambient petardo, còctels creatius i un vermut sense alcohol sorprenent."
+title-seo: "Bar Moebius al Raval amb Tarantula + Friends – fotografia de nit i còctels"
 ---
 
 ![](https://blog.pocallum.cat/wp-content/uploads/2026/02/DSCF3125-1024x683.jpg)

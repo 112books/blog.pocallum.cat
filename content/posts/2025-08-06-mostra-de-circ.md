@@ -20,6 +20,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/08/IMG_0325.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/08/IMG_0325-1024x683.jpg
+description: "El 6 d’agost, la plaça Ángel Pestanya es va omplir de talent jove amb una mostra de circ protagonitzada pels participants de l’intercanvi entre Circus Circuli Stuttgart i l’Ateneu Popular de 9 Barris. Mira les imatges i descobreix el futur del circ al barri!"
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2025/08/IMG_0325-1024x683.jpg)](https://photos.app.goo.gl/9ue1cY2t9tQ6acCt8)

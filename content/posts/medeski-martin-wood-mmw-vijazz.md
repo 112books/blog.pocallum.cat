@@ -20,6 +20,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/07/IMG_1031.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2013/07/IMG_1031-1.jpg
+description: "Descobreix la màgia del concert de Medeski Martin & Wood al festival ViJazz de Vilafranca del Penedès. Gaudeix d'un ambient acollidor, excel·lents vins i música de qualitat, tot i les decepcions en la comunicació del festival."
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2013/07/IMG_1031-1.jpg)](https://photos.app.goo.gl/DoKYG7J4CpnXWFXk9)

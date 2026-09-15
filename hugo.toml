@@ -41,6 +41,7 @@ defaultContentLanguage = "ca"
   webPare     = "https://pocallum.cat"
   defaultOgImage = "https://blog.pocallum.cat/wp-content/uploads/2014/04/7706-Bronica-CN400-014.jpg"
   goatcounterSite = "pocallum-blog"
+  imatgesWebp = false  # true: serveix WebP adjacent (-2500.webp / -800.webp) quan estiguin pujats al servidor
 
   # giscus — comentaris via GitHub Discussions
   # Activar: 1) habilitar Discussions al repo, 2) instal·lar app a giscus.app,

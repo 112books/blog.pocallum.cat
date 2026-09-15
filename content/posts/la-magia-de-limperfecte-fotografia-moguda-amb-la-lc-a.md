@@ -21,6 +21,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/09/2024-09-22-LCa-Kodak-x-Plus125-510Pyro-Varis-0024-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2024/09/2024-09-22-LCa-Kodak-x-Plus125-510Pyro-Varis-0024-1024x630.jpg
+description: "Descobreix la màgia de la fotografia moguda amb la Lomography LC-A+. Aprèn tècniques creatives com els 'barridos' i l'ús de pel·lícula de 100 ISO al capvespre per capturar imatges úniques i plenes d'energia. Explora l'art de l'imperfecte en la fotografia de carrer."
 ---
 
 <figure>

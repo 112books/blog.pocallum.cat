@@ -19,6 +19,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/07/IMG_4715.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/07/IMG_4715-1024x576.jpg
+description: "Prospe Beach 2025, la festa popular de la Prosperitat amb jocs, esport, música i gastronomia durant tot el juliol a la plaça Ángel Pestaña."
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2025/07/IMG_4715-1024x576.jpg)](https://photos.app.goo.gl/1fXTU5GtfCjDSxu76)

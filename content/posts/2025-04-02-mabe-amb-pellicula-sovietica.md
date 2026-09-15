@@ -19,6 +19,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/04/2025-04-02-Leica-M4-2-Tacma-CPH64-Mabe-05-2.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/04/2025-04-02-Leica-M4-2-Tacma-CPH64-Mabe-05-2-1024x683.jpg
+description: "Descobreix com vaig experimentar amb una pel·lícula soviètica Tacma CPH 64 en un taller de revelat, amb resultats únics i emotius."
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2025/04/2025-04-02-Leica-M4-2-Tacma-CPH64-Mabe-05-2-1024x683.jpg)](https://photos.app.goo.gl/p6Kf6Za2KnjDc7AL6)

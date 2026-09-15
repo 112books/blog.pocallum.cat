@@ -3,7 +3,8 @@
 {{ $pag   := .Paginate $posts 8 }}
 
 {{ if eq $pag.PageNumber 1 }}
-<div class="home-hero" style="background-image:url('https://blog.pocallum.cat/wp-content/uploads/2025/09/2025-09-16-LC-A-Foma400-Varies-0007-1536x942.jpg')" aria-hidden="false">
+{{ $bg := site.Home.Params.imatgeFons | default "https://blog.pocallum.cat/wp-content/uploads/2025/09/2025-09-16-LC-A-Foma400-Varies-0007-1536x942.jpg" }}
+<div class="home-hero" style="background-image:url('{{ $bg }}')" aria-hidden="false">
   <div class="home-hero-overlay" aria-hidden="true"></div>
   <div class="home-hero-content container">
     <p class="home-hero-eyebrow">Crònica fotogràfica tal com raja · Barcelona des del 2010</p>
@@ -16,7 +17,7 @@
   {{ range $pag.Pages }}
   {{ $img := or .Params.thumbnail .Params.image }}
   <a class="post-tile{{ if not $img }} is-text{{ end }}" href="{{ .RelPermalink }}" aria-label="{{ .Title }}">
-    {{ if $img }}<img src="{{ $img }}" alt="" loading="lazy" decoding="async">{{ end }}
+    {{ if $img }}{{ partial "img.html" (dict "src" $img "alt" "" "loading" "lazy" "variant" "thumb") }}{{ end }}
     <span class="post-tile__date">{{ .Date.Format "02 · 01 · 2006" }}</span>
     <span class="post-tile__title">{{ .Title }}</span>
   </a>

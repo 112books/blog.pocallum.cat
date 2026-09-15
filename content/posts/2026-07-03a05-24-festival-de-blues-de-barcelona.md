@@ -28,6 +28,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2026/07/IMG_9690.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2026/07/IMG_9690-1024x683.jpg
+description: "Crònica de la primera jornada del 24è Festival de Blues de Barcelona a Nou Barris, amb Balta Bordoy & SirJo Cocchi, The Soulful Trio amb Ster Wax i Ubangi Stomp."
+title-seo: "24è Festival de Blues de Barcelona 2026 | Primera jornada a Nou Barris"
 ---
 
 ![](https://blog.pocallum.cat/wp-content/uploads/2026/07/IMG_9690-1024x683.jpg)

@@ -15,6 +15,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/08/IMG_6004.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/08/IMG_6004-1024x576.jpg
+description: "Excursió circular als Pirineus de Lleida des d’Espot fins al refugi d’Amitges, passant pel llac de Sant Maurici, torrent de la Ratera, estanys d’Obagues de Ratera i Gran d’Amitges. Ruta, consells d’equipament i reportatge fotogràfic per viure l’experiència d’alta muntanya."
+title-seo: "Tocant el cel: la ruta als llacs del Pirineu des d’Espot fins Amitges"
 ---
 
 [![Llac de Sant Maurici i paisatge de muntanya](https://blog.pocallum.cat/wp-content/uploads/2025/08/IMG_6004-1024x576.jpg)](https://photos.app.goo.gl/VAobEwqmWrtPNenW8)

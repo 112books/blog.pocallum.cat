@@ -19,6 +19,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/05/IMG_7132-copia.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/05/IMG_7127-683x1024.jpg
+description: "Petita selecció de la sessió digital amb la Lomography Petzval Art Lens 85mm f/2.2 Brass i la model Mabe amb kimono autèntic. Mira totes les fotos fent clic a la imatge principal."
 ---
 
 ![](https://blog.pocallum.cat/wp-content/uploads/2025/05/IMG_7127-683x1024.jpg)

@@ -16,6 +16,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2015/07/IMG_8071-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2015/07/IMG_8071-1024x682.jpg
+description: "Reviu el concert llegendari de Stanley Clarke Band al ViJazz Penedès 2015, un moment únic de música jazz amb un dels millors baixistes de la historia."
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2015/07/IMG_8071-1024x682.jpg)](https://photos.app.goo.gl/umi5SeXbTaQY4uqf8)

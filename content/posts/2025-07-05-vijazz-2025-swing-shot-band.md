@@ -21,6 +21,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/07/IMG_9066.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/07/IMG_9066-1024x683.jpg
+description: "Descobreix la Swing Shot Band, un sextet liderat pel saxofonista Nil Mujal que ofereix un swing clàssic i vibrant al festival Vijazz del Penedès."
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2025/07/IMG_9066-1024x683.jpg)](https://photos.app.goo.gl/QUYJxAjnKkyA7J7R9)

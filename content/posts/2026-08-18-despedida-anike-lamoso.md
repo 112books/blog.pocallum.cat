@@ -30,6 +30,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2026/08/DSCF6572.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2026/08/DSCF6572-1024x683.jpg
+description: "Festa de despedida d’Anike Lamoso a Barcelona, amb música, poesia, ball i artistes amics. Fotografies de la vetllada a càrrec de Pocallum."
+title-seo: "Festa de despedida d’Anike Lamoso | Pocallum"
 ---
 
 <figure>

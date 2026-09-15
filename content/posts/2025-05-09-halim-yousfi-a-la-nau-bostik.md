@@ -27,6 +27,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/05/IMG_7505.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/05/IMG_7505-1024x683.jpg
+description: "Resum del Túnez Fest celebrat a la Nau Bostik amb l’actuació de Halim Yousfi i Gultrah Sound System, una vetllada d’intercanvi cultural entre Tunísia i Catalunya amb música, gastronomia i artistes convidats. Totes les fotografies disponibles fent clic a la imatge principal."
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2025/05/IMG_7505-1024x683.jpg)](https://photos.app.goo.gl/gqcUxffPfPJRUmbf9)

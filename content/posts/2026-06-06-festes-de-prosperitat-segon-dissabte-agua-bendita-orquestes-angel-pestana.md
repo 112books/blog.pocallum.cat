@@ -29,6 +29,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2026/06/DSCF5080.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2026/06/DSCF5080-1024x683.jpg
+description: "Crònica fotogràfica del segon dissabte de les Festes de Prosperitat 2026, amb el concert multitudinari d’Agua Bendita i les actuacions de Juego de Damas i Femme Versions."
+title-seo: "Festes de Prosperitat 2026: Agua Bendita i les orquestres de l’Àngel Pestaña"
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2026/06/DSCF5080-1024x683.jpg)](https://photos.app.goo.gl/iRwwhR8MzHSsVq3x7)

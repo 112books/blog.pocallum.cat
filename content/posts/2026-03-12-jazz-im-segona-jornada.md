@@ -31,6 +31,8 @@ tags:
   - "xavi-torres"
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2026/03/IMG_6042.jpg
+description: "Crònica i fotografies de la segona jornada del Jazz I'm 2026 al Molino de Barcelona: Magalí Sare, Xavi Torres, Daniel García i Marc Ayza Social Base."
+title-seo: "Jazz I'm 2026 – Segona jornada al Molino | pocallum"
 ---
 
 https://vimeo.com/1173229148?share=copy&fl=sv&fe=ci

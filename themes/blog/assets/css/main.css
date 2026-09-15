@@ -119,8 +119,8 @@ button { cursor: pointer; border: none; background: none; font: inherit; color: 
   top: 0;
   left: var(--space-4);
   z-index: 9999;
-  background: var(--accent);
-  color: #fff;
+  background: var(--fg);
+  color: var(--bg);
   font-family: var(--f-mono);
   font-size: 0.8rem;
   letter-spacing: 0.05em;
@@ -130,7 +130,7 @@ button { cursor: pointer; border: none; background: none; font: inherit; color: 
   transform: translateY(-100%);
   transition: transform 0.15s;
 }
-.skip-link:focus { transform: translateY(0); outline: 2px solid #fff; outline-offset: 2px; }
+.skip-link:focus { transform: translateY(0); outline: 2px solid var(--accent); outline-offset: 2px; }
 
 :focus-visible {
   outline: 2px solid var(--accent);
@@ -1149,7 +1149,7 @@ h1, h2, h3, h4 {
 .post-thumb:hover .post-thumb__date { color: var(--accent); }
 
 @media (max-width: 600px) {
-  .post-strip-arrow { display: none; }
+  .post-strip-arrow { width: 2rem; font-size: 1.4rem; }
   .post-thumb { flex: 0 0 110px; }
   .post-thumb__title { font-size: 0.58rem; }
 }
@@ -1386,6 +1386,11 @@ h1, h2, h3, h4 {
   .blog-mosaic { grid-template-columns: repeat(2, 1fr); gap: 2px; border-width: 2px; }
   .post-tile__date { font-size: 0.58rem; }
   .post-tile__title { font-size: 0.72rem; }
+
+  /* Stats amb totes les xifres en una sola línia: números compactats, escalen amb l'amplada */
+  .home-stats  { padding-inline: var(--space-4); gap: var(--space-3) var(--space-4); }
+  .home-stat__num   { font-size: clamp(0.72rem, 4vw, 1rem); letter-spacing: -0.03em; }
+  .home-stat__label { font-size: 0.45rem; letter-spacing: 0.1em; }
 }
 
 /* ── Responsive ────────────────────────────────────────────────────────────── */
@@ -1554,6 +1559,148 @@ h1, h2, h3, h4 {
   white-space: nowrap;
 }
 .tag-cloud-item:hover { color: var(--accent); }
+
+/* ── Pàgina 404 · fons a pantalla completa ─────────────────────────────────── */
+.e404-body {
+  margin: 0;
+  padding: 0;
+  background: #000;
+  min-height: 100svh;
+}
+.e404-bg {
+  position: fixed;
+  inset: 0;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  filter: grayscale(20%);
+  transform: scale(1.04);
+}
+.e404-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.72);
+}
+.e404-main {
+  position: relative;
+  z-index: 10;
+  min-height: 100svh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: var(--space-12) var(--space-8) var(--space-24);
+  text-align: center;
+}
+.e404-logo {
+  position: fixed;
+  top: var(--space-8);
+  left: var(--space-8);
+  font-family: var(--f-logo);
+  font-size: 1.2rem;
+  color: rgba(255,255,255,0.5);
+  text-decoration: none;
+  letter-spacing: -0.01em;
+  transition: color 0.2s;
+}
+.e404-logo-dot { color: var(--accent); }
+.e404-logo:hover { color: var(--fg); }
+
+.e404-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--space-6);
+  max-width: 560px;
+}
+.e404-code {
+  font-family: var(--f-display);
+  font-size: clamp(7rem, 20vw, 16rem);
+  font-weight: 800;
+  line-height: 0.9;
+  color: var(--accent);
+  letter-spacing: -0.05em;
+}
+.e404-title {
+  font-family: var(--f-display);
+  font-size: clamp(1.4rem, 3vw, 2.2rem);
+  font-weight: 700;
+  color: #fff;
+  line-height: 1.2;
+}
+.e404-desc {
+  color: rgba(255,255,255,0.55);
+  font-size: 0.95rem;
+  line-height: 1.7;
+  max-width: 38ch;
+}
+.e404-cta {
+  display: inline-block;
+  font-family: var(--f-mono);
+  font-size: 0.82rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--accent);
+  border: 1px solid var(--accent);
+  padding: 0.65rem 1.6rem;
+  text-decoration: none;
+  transition: background 0.15s, color 0.15s;
+  margin-top: var(--space-4);
+}
+.e404-cta:hover { background: var(--accent); color: #000; }
+
+.e404-suggest {
+  margin-top: var(--space-16);
+  text-align: center;
+}
+.e404-suggest__label {
+  font-family: var(--f-mono);
+  font-size: 0.7rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: rgba(255,255,255,0.35);
+  margin-bottom: var(--space-6);
+}
+.e404-suggest__grid {
+  display: flex;
+  gap: var(--space-4);
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.e404-fest {
+  display: flex;
+  flex-direction: column;
+  width: 160px;
+  text-decoration: none;
+  color: rgba(255,255,255,0.7);
+  transition: color 0.2s;
+}
+.e404-fest:hover { color: #fff; }
+.e404-fest__img {
+  width: 100%;
+  aspect-ratio: 3/2;
+  overflow: hidden;
+  margin-bottom: var(--space-3);
+  filter: grayscale(30%);
+  transition: filter 0.3s;
+}
+.e404-fest:hover .e404-fest__img { filter: grayscale(0%); }
+.e404-fest__img img { width: 100%; height: 100%; object-fit: cover; }
+.e404-fest__body { display: flex; flex-direction: column; gap: 2px; text-align: left; }
+.e404-fest__disc {
+  font-family: var(--f-mono);
+  font-size: 0.62rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--accent);
+}
+.e404-fest__name { font-size: 0.85rem; font-weight: 600; line-height: 1.2; }
+.e404-fest__lloc { font-size: 0.72rem; color: rgba(255,255,255,0.4); }
+
+@media (max-width: 768px) {
+  .e404-code { font-size: clamp(6rem, 28vw, 10rem); }
+  .e404-fest { width: 130px; }
+}
 
 /* ── Respectar preferències de moviment reduït ─────────────────────────────── */
 @media (prefers-reduced-motion: reduce) {

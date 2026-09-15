@@ -19,6 +19,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2026/06/DSCF6180.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2026/06/DSCF6180-1-1024x683.jpg
+description: "La 44a edició de La Cultura va de festa a Nou Barris combina música, correfoc i cultura popular en una nit d’estiu marcada per la calor i el veïnat."
+title-seo: "44a La Cultura va de festa a Nou Barris | Cultura popular i música local"
 ---
 
 [![Mateolica en plana actuació a la 44a La Cultura va de festa.](https://blog.pocallum.cat/wp-content/uploads/2026/06/DSCF6180-1-1024x683.jpg)](https://photos.app.goo.gl/dUwofJvzdgRMnmf88)

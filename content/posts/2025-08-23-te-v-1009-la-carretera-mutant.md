@@ -26,6 +26,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/08/IMG_5495.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/08/IMG_5495-1024x576.jpg
+description: "Descobreix la carretera TE-V-1009, una ruta rural captivant entre Alfambra i Santa Eulàlia. Paisatges canviants, fauna local i experiències fotogràfiques. Viatge i natura a Terol."
+title-seo: "TE-V-1009, la carretera mutant — paisatges rurals a Terol"
 ---
 
 ![paisatge rural TE-V-1009 Terol](https://blog.pocallum.cat/wp-content/uploads/2025/08/IMG_5495-1024x576.jpg)

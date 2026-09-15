@@ -22,6 +22,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/07/IMG_9604.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/07/IMG_9717-1024x682.jpg
+description: "Crònica del concert de Makaya McCraven al Vijazz de Vilafranca: una experiència vibrant de jazz contemporani amb ritmes experimentals i un grup de músics excepcionals."
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2025/07/IMG_9717-1024x682.jpg)](https://photos.app.goo.gl/SEQwAMARoJsKGsxd8)

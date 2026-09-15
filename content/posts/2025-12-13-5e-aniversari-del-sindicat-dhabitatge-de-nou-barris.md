@@ -22,6 +22,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/12/L1530982.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/12/L1530982-1024x576.jpg
+description: "Crònica visual del 5è aniversari del Sindicat d’Habitatge de Nou Barris, celebrat al Casal de Barri de la Prosperitat, amb música, col·lectius i vida de barri."
+title-seo: "5è aniversari del Sindicat d’Habitatge de Nou Barris | Fotografia i barri"
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2025/12/L1530982-1024x576.jpg)](https://photos.app.goo.gl/9929sCijFThVLfNq5)

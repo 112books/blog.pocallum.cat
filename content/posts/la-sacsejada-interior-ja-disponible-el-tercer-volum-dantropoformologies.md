@@ -24,6 +24,8 @@ tags:
   - "serie-ballarina"
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2026/03/La-sacsejada-interior-Antropoformologies-III-01.png
+description: "Descobreix “La sacsejada interior”, el tercer volum d’Antropoformologies, que tanca la sèrie de la ballarina Nahomi Itzel amb diàlegs poètics entre cos i fotografia."
+title-seo: "La sacsejada interior: tancament de la sèrie de Nahomi Itzel"
 ---
 
 ##   

@@ -22,6 +22,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2022/01/Captura-de-pantalla-2024-11-14-a-les-10.22.54.png
 image: https://lh3.googleusercontent.com/pw/AM-JKLVLc_9K3blWlv4zW8zCedd4ZseKMMdfHn3MYX5FixmTsMujz2JA1uc2RA8l7lJD8cwL-ZBPyZ4OAfLsNXqP21lLCT3igpcSTSD-SMnGKDrPMSGo8EeIf1KMNxbXcnxCKcwlIJnhPIaNPfifEqqT-B1FPA=w1070-h1255-no?authuser=0
+description: "Taller de gran format a Lomography Embassy Barcelona (15/01/2022): càmera Woody del 1890, revelat in situ i retrats analògics"
+title-seo: "Taller Gran Format Lomography Barcelona 2022 | Woody Cam"
 ---
 
 [![](https://lh3.googleusercontent.com/pw/AM-JKLVLc_9K3blWlv4zW8zCedd4ZseKMMdfHn3MYX5FixmTsMujz2JA1uc2RA8l7lJD8cwL-ZBPyZ4OAfLsNXqP21lLCT3igpcSTSD-SMnGKDrPMSGo8EeIf1KMNxbXcnxCKcwlIJnhPIaNPfifEqqT-B1FPA=w1070-h1255-no?authuser=0)](https://photos.app.goo.gl/TF2sk4UkboVbBSMS7)

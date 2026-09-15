@@ -18,6 +18,8 @@ tags:
   - "relats-breus"
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/09/festedelletres.jpg
+description: "El dissabte 4 d’octubre, Joan Linux i Mario Ortiz presenten Anónimos: Más allá de las apariencias a la Festa de la Literatura de Nou Barris. Un llibre de fotografia analògica i relats, editat per 112Books."
+title-seo: "Presentació del llibre Anónimos: Más allá de las apariencias a la Festa de la Literatura de Nou Barris"
 ---
 
 Aquest dissabte **4 d’octubre**, dins la programació de la **[Festa de la Literatura de Nou Barris](https://noubarris.info/turo-de-la-peira/2025/09/fes-te-de-lletres-la-festa-de-la-literatura-a-nou-barris/)**, es presentarà el llibre _“[Anónimos: Más allá de las apariencias”](https://www.112books.eu/2025/03/16/ya-disponible-anonimos-mas-alla-de-las-apariencias/)_, creat conjuntament per **Joan Linux** i **Mario Ortiz**.

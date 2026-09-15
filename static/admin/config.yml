@@ -1,0 +1,134 @@
+backend:
+  name: github
+  repo: 112books/blog.pocallum.cat
+  branch: develop
+
+# Media folder per a uploads del CMS (NO static/uploads/, que és gitignored per al development local)
+media_folder: "static/media"
+public_folder: "/media"
+
+# Slug automàtic a partir del títol; l'usuari pot sobreescriure'l
+slug:
+  encoding: "unicode"
+  clean_replacements:
+    - /[^a-zA-Z0-9àèéíòóùüçñ·-]/g
+    - /--/g
+
+collections:
+  # ──────────────────────────────────────────────
+  # Categories (càmeres i òptiques) — llista central
+  # ──────────────────────────────────────────────
+  - name: "categories"
+    label: "Categories"
+    folder: "content/categories"
+    create: true
+    delete: true
+    slug: "{{slug}}"
+    path: "{{slug}}/_index"
+    extension: "md"
+    format: "frontmatter"
+    preview_path: "categories/{{slug}}/"
+    summary: "{{title}}"
+    sortable_fields: ["title"]
+    fields:
+      - { label: "Nom visible", name: "title", widget: "string", hint: "Com es mostra a la pàgina de categoria (ex. Leica-M6)" }
+      - { label: "Identificador als posts", name: "valor", widget: "string", hint: "String que apareix al frontmatter dels posts — no canviar-lo un cop creat", pattern: ["^[a-z0-9àèéíòóùüçñ·\\-]+$", "Minúscules, números i guions"] }
+
+  # ──────────────────────────────────────────────
+  # Pàgines fixes (editables al CMS)
+  # ──────────────────────────────────────────────
+  - name: "pagines"
+    label: "Pàgines fixes"
+    files:
+      - file: "content/about.md"
+        name: "about"
+        label: "About"
+        fields:
+          - { label: "Títol", name: "title", widget: "string" }
+          - { label: "Data", name: "date", widget: "datetime" }
+          - { label: "Layout", name: "layout", widget: "hidden", default: "about" }
+          - { label: "Imatge de fons", name: "imatgeFons", widget: "image", required: false, hint: "Arrossega o selecciona (deixa buit per l'actual per defecte)" }
+          - { label: "Descripció SEO", name: "description", widget: "string", required: false }
+          - { label: "Títol SEO", name: "title-seo", widget: "string", required: false }
+          - { label: "No indexar", name: "noindex", widget: "boolean", default: false }
+          - { label: "Contingut", name: "body", widget: "markdown" }
+      - file: "content/contact.md"
+        name: "contact"
+        label: "Contacte"
+        fields:
+          - { label: "Títol", name: "title", widget: "string" }
+          - { label: "Data", name: "date", widget: "datetime" }
+          - { label: "Layout", name: "layout", widget: "hidden", default: "contact" }
+          - { label: "Imatge de fons", name: "imatgeFons", widget: "image", required: false, hint: "Arrossega o selecciona (deixa buit per l'actual per defecte)" }
+          - { label: "Descripció SEO", name: "description", widget: "string", required: false }
+          - { label: "Títol SEO", name: "title-seo", widget: "string", required: false }
+          - { label: "No indexar", name: "noindex", widget: "boolean", default: false }
+          - { label: "Contingut", name: "body", widget: "markdown" }
+      - file: "content/cerca.md"
+        name: "cerca"
+        label: "Cerca"
+        fields:
+          - { label: "Títol", name: "title", widget: "string" }
+          - { label: "Data", name: "date", widget: "datetime" }
+          - { label: "Layout", name: "layout", widget: "hidden", default: "cerca" }
+          - { label: "Imatge de fons", name: "imatgeFons", widget: "image", required: false, hint: "Arrossega o selecciona (deixa buit per l'actual per defecte)" }
+          - { label: "Descripció SEO", name: "description", widget: "string", required: false }
+          - { label: "Títol SEO", name: "title-seo", widget: "string", required: false }
+          - { label: "No indexar", name: "noindex", widget: "boolean", default: false }
+          - { label: "Contingut", name: "body", widget: "markdown" }
+      - file: "content/aviso-legal.md"
+        name: "aviso-legal"
+        label: "Avís Legal"
+        fields:
+          - { label: "Títol", name: "title", widget: "string" }
+          - { label: "Data", name: "date", widget: "datetime" }
+          - { label: "Descripció SEO", name: "description", widget: "string", required: false }
+          - { label: "Títol SEO", name: "title-seo", widget: "string", required: false }
+          - { label: "No indexar", name: "noindex", widget: "boolean", default: false }
+          - { label: "Contingut", name: "body", widget: "markdown" }
+      - file: "content/politica-de-cookies.md"
+        name: "politica-de-cookies"
+        label: "Política de Cookies"
+        fields:
+          - { label: "Títol", name: "title", widget: "string" }
+          - { label: "Data", name: "date", widget: "datetime" }
+          - { label: "Descripció SEO", name: "description", widget: "string", required: false }
+          - { label: "Títol SEO", name: "title-seo", widget: "string", required: false }
+          - { label: "No indexar", name: "noindex", widget: "boolean", default: false }
+          - { label: "Contingut", name: "body", widget: "markdown" }
+      - file: "content/politica-de-privacidad.md"
+        name: "politica-de-privacidad"
+        label: "Política de Privacitat"
+        fields:
+          - { label: "Títol", name: "title", widget: "string" }
+          - { label: "Data", name: "date", widget: "datetime" }
+          - { label: "Descripció SEO", name: "description", widget: "string", required: false }
+          - { label: "Títol SEO", name: "title-seo", widget: "string", required: false }
+          - { label: "No indexar", name: "noindex", widget: "boolean", default: false }
+          - { label: "Contingut", name: "body", widget: "markdown" }
+
+  # ──────────────────────────────────────────────
+  # Posts
+  # ──────────────────────────────────────────────
+  - name: "posts"
+    label: "Posts"
+    folder: "content/posts"
+    create: true
+    sortable_fields: ["date", "title"]
+    sortable_field: "date"
+    path: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    preview_path: "{{year}}/{{month}}/{{day}}/{{slug}}"
+    fields:
+      - { label: "Títol", name: "title", widget: "string" }
+      - { label: "Data", name: "date", widget: "datetime", format: "YYYY-MM-DDTH:mm:ssZ", date_format: true, time_format: false }
+      - { label: "Slug", name: "slug", widget: "string", required: false, hint: "Opcional — es genera automàticament des del títol" }
+      - { label: "Descripció SEO", name: "description", widget: "string", hint: "Màx. 155 caràcters per a Google", required: false }
+      - { label: "Categories", name: "categories", widget: "relation", collection: "categories", value_field: "valor", search_fields: ["title", "valor"], display_fields: ["title"], multiple: true, required: false, hint: "Selecciona de la llista o crea una de nova a l'apartat Categories" }
+      - { label: "Tags", name: "tags", widget: "list", allow_add: true, required: false }
+      - { label: "Miniatura", name: "thumbnail", widget: "image", required: false, hint: "Arrossega o selecciona — per als llistats (portada, cerques)" }
+      - { label: "Imatge principal", name: "image", widget: "image", required: false, hint: "Arrossega o selecciona — imatge de capçalera del post" }
+      - { label: "Draft", name: "draft", widget: "boolean", default: false }
+      - { label: "No indexar", name: "noindex", widget: "boolean", default: false }
+      - { label: "Títol SEO", name: "title-seo", widget: "string", required: false, hint: "Títol alternatiu per a Google (si diferent del visible)" }
+      - { label: "Autor", name: "author", widget: "hidden", default: "Pocallum" }
+      - { label: "Contingut", name: "body", widget: "markdown" }

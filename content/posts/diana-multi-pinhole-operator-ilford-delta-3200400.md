@@ -14,6 +14,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2020/04/2020-04-22b-004-1024x1024-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2020/04/2020-04-22b-004-1024x1024.jpg
+description: "Vaig trobar per casa aquesta pel·licula de fa no sé quant de temps. No és precisament de les meves preferides per la quantitat de gra que te a 3200ISO, però bé, volia provar fent un 'pull' a 800 i aquests son els resultats; no sé si aquesta textura es por ser massa vella la pel·licula però no m'agrada massa massa el resultat. Bé, per jugar amb la Multi Pinhole bé."
 ---
 
 <figure>

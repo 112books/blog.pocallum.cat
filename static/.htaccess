@@ -1,0 +1,20 @@
+ErrorDocument 404 /404.html
+
+# ── HTTP → HTTPS ────────────────────────────────────────────────────────────
+# NOTA: el redirect s'ha de configurar al panell de Dinahosting
+# (o demanar a l'equip que activi "Forçar HTTPS"). Dinahosting usa proxy
+# frontal que no envia X-Forwarded-Proto a Apache, així que el
+# RewriteCond %{HTTPS} off bucle (proxy → Apache → redirect → proxy → ...).
+# El site ja funciona a HTTPS; això només falta la redirecció automàtica.
+
+# ── Headers de seguretat ────────────────────────────────────────────────────
+<IfModule mod_headers.c>
+  # HSTS: només quan la connexió ja és HTTPS (evita contingut sense xifrar)
+  Header always set Strict-Transport-Security "max-age=31536000" env=HTTPS
+  # Evita sniffing del tipus MIME
+  Header always set X-Content-Type-Options "nosniff"
+  # No enquadra el lloc en iframes d'altres dominis
+  Header always set X-Frame-Options "DENY"
+  # Referrer mínim a tercers
+  Header always set Referrer-Policy "strict-origin-when-cross-origin"
+</IfModule>

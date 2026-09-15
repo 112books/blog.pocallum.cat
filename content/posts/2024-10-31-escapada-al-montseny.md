@@ -19,6 +19,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/11/L1490524.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2024/11/L1490524-1024x576.jpg
+description: "Ahir, amb l'amic Manel Sala, vam fer una escapada al Montseny per admirar la paleta de colors d'aquesta tardor. Des de Santa Fe de Montseny fins al Turó de l'Home, vam gaudir de vistes espectaculars i vam capturar moments amb una lent Summicron de Leica. Descobreix les impressions d'una jornada a la natura i les fotografies que vam fer."
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2024/11/L1490524-1024x576.jpg)](https://photos.app.goo.gl/NC5TSkH9wt9BnmtC9)

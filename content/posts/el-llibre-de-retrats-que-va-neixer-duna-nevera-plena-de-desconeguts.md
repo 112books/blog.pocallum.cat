@@ -22,6 +22,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/10/joan_linux.webp
 image: https://blog.pocallum.cat/wp-content/uploads/2025/10/joan_linux.webp
+description: "Joan Linux i Mario presenten Anónimós, el llibre de retrats nascut d’una nevera plena de desconeguts. L’article de Joana Justícia a CulturaB n’explica els detalls. Presentació el 14 d’octubre al Centre Cívic Pati Llimona, al barri Gòtic de Barcelona."
+title-seo: "Presentació d’Anónimós al Pati Llimona – El llibre de retrats que va néixer d’una nevera"
 ---
 
 ![](https://blog.pocallum.cat/wp-content/uploads/2025/10/joan_linux.webp)

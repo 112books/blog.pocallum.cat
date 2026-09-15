@@ -22,6 +22,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/12/2024-11-30-Clot-en-Blues-Tori-Sparks-0035.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2024/12/2024-11-30-Clot-en-Blues-Tori-Sparks-0035-1-1024x638.jpg
+description: "Descobreix l'experiència única del festival Clot amb Blues, amb actuacions de Tori Sparks i Alegria Africana, i reflexiona sobre la importància de preservar els espais culturals del barri."
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2024/12/2024-11-30-Clot-en-Blues-Tori-Sparks-0035-1-1024x638.jpg)](https://photos.app.goo.gl/s1RmuydBbE77mUjC8)

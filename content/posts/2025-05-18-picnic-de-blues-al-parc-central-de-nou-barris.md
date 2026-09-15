@@ -25,6 +25,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/05/2025-05-18-LM6-Foma100@299-Picnic-de-Blues-B-0012.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/05/2025-05-18-LM6-Foma100@299-Picnic-de-Blues-B-0012-624x1024.jpg
+description: "Crònica del Pícnic de Blues al Parc Central de Nou Barris amb Capibola Blues, The Soul Connectors, The Heeks i Escuela de Blues Social Club. Música en viu, bon ambient i ritme a Barcelona, amb la vista posada al proper Festival de Blues de Barcelona al juliol."
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2025/05/2025-05-18-LM6-Foma100@299-Picnic-de-Blues-B-0012-624x1024.jpg)](https://photos.app.goo.gl/WqoqPhBwKGpuKmEf7)

@@ -31,6 +31,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2026/07/IMG_9161.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2026/07/IMG_9161-1024x683.jpg
+description: "Un homenatge a l’organització, els voluntaris, els col·laboradors i totes les persones que han fet possible el 24è Festival de Blues de Barcelona."
+title-seo: "Organització i voluntaris | 24è Festival de Blues de Barcelona"
 ---
 
 [![Accediu a l'àlbum sencer fent clic sobre aquest afotografia

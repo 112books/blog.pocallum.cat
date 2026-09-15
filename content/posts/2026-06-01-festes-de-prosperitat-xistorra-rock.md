@@ -20,6 +20,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2026/06/DSCF4686.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2026/06/DSCF4686-1024x683.jpg
+description: "Crònica fotogràfica del Xistorra Rock 2026 a les Festes de la Prosperitat. Elektra, The Replicants, DJ Magnamara i l’ambient únic d’una cita imprescindible de Nou Barris."
+title-seo: "Xistorra Rock 2026 a la Prosperitat | Crònica i fotografies"
 ---
 
 <figure>

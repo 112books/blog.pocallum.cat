@@ -23,6 +23,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2026/02/DSCF3349.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2026/02/DSCF3349-1024x683.jpg
+description: "Celebració del 11è aniversari de la Nau Bostik amb calçotada popular, bingo musical i guateque bostikero en ambient carnavalenc."
+title-seo: "11è aniversari Nau Bostik 2026 – Calçotada i festa"
 ---
 
 [![Accediu a les fotografies de la festa d'aniversari fenc clic a la imatge](https://blog.pocallum.cat/wp-content/uploads/2026/02/DSCF3349-1024x683.jpg)](https://photos.app.goo.gl/5d8vAunPHHDXPxZi8)

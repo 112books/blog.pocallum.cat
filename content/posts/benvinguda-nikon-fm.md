@@ -22,6 +22,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/02/2025-02-07-NikonFM-Foma100@800-R150-Varies-0031.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/02/2025-02-07-NikonFM-Foma100@800-R150-Varies-0001-1024x619.jpg
+description: "Descobreix l’experiència de treballar amb una Nikon FM i un objectiu Nikkor 28 mm f/2.8 al Casal de Barri de Prosperitat. Fotografia analògica amb estil, contrast i gra en condicions de poca llum."
 ---
 
 Doncs sí, sempre que una nova andròmina arriba a les meves mans és motiu de joia. Bé, normalment. Si, a més, es tracta d’un clàssic i prestigiós model d’una de les grans marques japoneses com Nikon, la satisfacció és encara més gran.

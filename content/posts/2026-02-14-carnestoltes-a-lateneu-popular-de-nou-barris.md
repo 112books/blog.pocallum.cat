@@ -24,6 +24,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2026/02/IMG_4578.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2026/02/IMG_4578-1024x683.jpg
+description: "Crònica fotogràfica del Carnestoltes 2026 a l’Ateneu Popular de Nou Barris, amb concurs de disfresses, música i ambient festiu al barri."
+title-seo: "Carnestoltes 2026 a l’Ateneu Popular de Nou Barris"
 ---
 
 <figure>

@@ -32,6 +32,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/07/IMG_8237.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/07/IMG_8237-1024x682.jpg
+description: "Crònica personal i fotogràfica del concert de Marta Duran Quartet al Vijazz 2025, celebrat al Claustre de Sant Francesc, amb impressions sobre la seva proposta de jazz actual i la complicitat dels joves músics en directe."
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2025/07/IMG_8237-1024x682.jpg)](https://photos.app.goo.gl/WwggTQfbod5GdZtb6)

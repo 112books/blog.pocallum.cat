@@ -22,6 +22,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2026/02/DSCF3816.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2026/02/DSCF3738-683x1024.jpg
+description: "Crònica de la inauguració de l’exposició de Cristian Bravo a Cameras and Films (Barcelona), amb presentació del llibre i ambient de fotografia analògica."
+title-seo: "Expo Cristian Bravo a Cameras and Films Barcelona (2026)"
 ---
 
 [![Vristian Bravo signant un dels exemplars del seu llibre!](https://blog.pocallum.cat/wp-content/uploads/2026/02/DSCF3738-683x1024.jpg)](https://photos.app.goo.gl/q5QvSaMo7N8outrY6)

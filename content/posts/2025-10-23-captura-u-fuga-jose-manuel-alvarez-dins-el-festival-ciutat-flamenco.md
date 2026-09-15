@@ -28,6 +28,8 @@ tags:
   - "teatre-sat"
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/10/IMG_1803.jpg
+description: "Crònica fotogràfica de Captura y Fuga, l’espectacle de dansa flamenca de José Manuel Álvarez dins el Festival Ciutat Flamenco Barcelona. Un homenatge al fotògraf René Robert on llum, duende i imatge dialoguen amb sensibilitat contemporània."
+title-seo: "Captura y Fuga – José Manuel Álvarez | Blog Pocallum"
 ---
 
 Ahir vaig fotografiar, dins el Festival **'[Ciutat Flamenco Barcelona](https://ciutatflamenco.com/ca/edicio-2025/jose-manuel-alvarez/)'** , el ballador **José Manuel Álvarez**.

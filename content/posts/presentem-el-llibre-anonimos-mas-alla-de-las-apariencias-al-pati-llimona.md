@@ -23,6 +23,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/09/Entrada-web-2-1920x960-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/09/Entrada-web-2-1920x960-1-1024x512.jpg
+description: "Reprenem la gira el 14 d’octubre a les 18 h al Centre Cívic Pati Llimona. Descobreix “Anónimos, más allá de las aparencias” amb Joan Linux i Mario Ortiz. Una experiència única entre fotografia i literatura."
+title-seo: "Presentem “Anónimos, más allá de las apariencias” al Pati Llimona – Joan Linux"
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2025/09/Entrada-web-2-1920x960-1-1024x512.jpg)](https://patillimona.net/14-10-19h-anonimos-mas-alla-de-las-apariencias-presentacio-fotollibre-activitat/)

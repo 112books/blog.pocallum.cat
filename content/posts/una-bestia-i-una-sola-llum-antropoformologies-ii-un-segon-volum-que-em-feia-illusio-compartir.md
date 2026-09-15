@@ -22,6 +22,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2026/02/Captura-de-pantalla-2026-02-07-a-les-19.07.54.png
 image: https://blog.pocallum.cat/wp-content/uploads/2026/02/Antropomorfologies-II-Nahoemi-amb-focus-Maqueta-1584x2346cm-mare-covertes-682x1024.png
+description: "Descobreix Antropoformologies II, un fotollibre de Joan Linux on fotografia i dansa converteixen el cos en matèria visual."
+title-seo: "Antropoformologies II – Nou volum de fotografia i dansa per Joan Linux"
 ---
 
 [![Portada Antropoformologies II – Fotollibre de fotografia i dansa de Joan Linux amb Nahomi Itzel](https://blog.pocallum.cat/wp-content/uploads/2026/02/Antropomorfologies-II-Nahoemi-amb-focus-Maqueta-1584x2346cm-mare-covertes-682x1024.png)](https://www.112books.eu/producte/una-bestia-i-una-sola-llum-antropoformologies-ii/)

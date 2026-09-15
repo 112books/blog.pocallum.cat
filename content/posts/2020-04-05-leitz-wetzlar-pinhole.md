@@ -11,6 +11,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2020/04/2020-04-05-004-1024x647-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2020/04/2020-04-05-004-1024x647.jpg
+description: "Primer test amb l'andròmina Pinhole (o estenopèica) que m'he fet adaptant un duplicador de película de Leitz Wetzlar amb un estenop excel·lent de ø0.2 d'Analogueworks.Aquí les primeres fotografies fetes per veure cóm anava. Definitivament per algún lloc li entra llum. A la propera intentaré que surtin perfectes. 2020-04-05 - Leitz Wetzlar Pinhole Homemade - ø0.2 - f/150 - 30mm"
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2020/04/2020-04-05-004-1024x647.jpg)](https://photos.app.goo.gl/ysK5qcsqkfKi8E796)

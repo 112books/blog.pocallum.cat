@@ -24,6 +24,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/09/2025-08-23-LM6-RolleiRPX100@200-Alfambra-Perales-0022.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/09/2025-08-23-LM6-RolleiRPX100@200-Alfambra-Perales-0022-1024x620.jpg
+description: "Imatges i experiències a la carretera TE-V-1009, entre Alfambra i Santa Eulalia (Terol), paisatges agrícoles, llum i accident laboratori. Relat personal, tècnica analògica i inspiració Provoke."
+title-seo: "TE-V-1009 Terol 2025: paisatges i fotografia analògica inspirada en Provoke"
 ---
 
 [![Tractor llaurant en un dels molts camps que hi ha a la carretera TE-V-1009 que uneix Alfambra amb Santa Eulalia a la província de Terol.](https://blog.pocallum.cat/wp-content/uploads/2025/09/2025-08-23-LM6-RolleiRPX100@200-Alfambra-Perales-0022-1024x620.jpg)](https://photos.app.goo.gl/QDcaLR78Ltxwq8Pn7)

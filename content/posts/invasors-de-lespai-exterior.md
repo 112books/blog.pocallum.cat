@@ -19,6 +19,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/01/2025-01-07-LCa-Foma100@200-R150-varies-0020.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/01/2025-01-07-LCa-Foma100@200-R150-varies-0020-1-1024x623.jpg
+description: "Relat de ciència-ficció humorístic sobre una suposada invasió extraterrestre a Barcelona, explicada amb ironia i detalls absurds sobre els alienígenes camuflats a la ciutat."
 ---
 
 No vull semblar un poca-solta ni una persona que abusa de substàncies al·lucinògenes, però no puc deixar de compartir els fenòmens inquietants que he viscut aquests darrers dies a la meva ciutat, Barcelona. No m’agrada ser portador de males notícies, però tot apunta que estem patint una invasió alienígena lenta, discreta i, el que és pitjor, imparable.

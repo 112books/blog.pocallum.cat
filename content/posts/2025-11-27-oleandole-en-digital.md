@@ -17,6 +17,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/12/L1530672.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/12/L1530672-1024x576.jpg
+description: "Petit reportatge del concert d’Oleandole durant la Setmana de Jazz de Barcelona, fotografiat amb la Leica D-Lux 6. Algunes imatges digitals i un clip amb àudio enregistrat en directe per capturar el moviment i l’energia del grup."
+title-seo: "‘Oleandole’ en digital a la Setmana de Jazz de Barcelona"
 ---
 
 ![](https://blog.pocallum.cat/wp-content/uploads/2025/12/L1530672-1024x576.jpg)

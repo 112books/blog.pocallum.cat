@@ -26,6 +26,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/01/DSCF7979.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/01/DSCF7979-1024x577.jpg
+description: "Descobreix com Tiznao i Fleuves Noirs van omplir el Casal de Prosperitat amb una vetllada de rock alternatiu, energia i tralla organitzada pel col·lectiu DIY @ojalaestemibisi."
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2025/01/DSCF7979-1024x577.jpg)](https://photos.app.goo.gl/u2i1mRoFz8y19bXJ9)

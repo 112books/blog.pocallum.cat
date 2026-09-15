@@ -20,6 +20,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/11/2024-03-07-Hasselblad500CM-RolleiRPX100-Eli-Flamenca-B-011.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/11/2024-03-07-Hasselblad500CM-RolleiRPX100-Eli-Flamenca-B-011.jpg
+description: "Fins a finals d’any, sessions de retrat professionals per músics, actors, poetes i creadors visuals. Descobreix totes les opcions a"
+title-seo: "Sessions de retrat per artistes – Oferta fins a final d’any | Pocallum.cat"
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2025/11/2024-03-07-Hasselblad500CM-RolleiRPX100-Eli-Flamenca-B-011.jpg)](https://pocallum.cat/retrats-per-comencar-lany-amb-bona-cara-i-millor-portfolio/)

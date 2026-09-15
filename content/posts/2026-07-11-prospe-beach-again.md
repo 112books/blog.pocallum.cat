@@ -24,6 +24,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2026/07/IMG_3007.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2026/07/IMG_3007-1024x576.jpg
+description: "Crònica i fotografies del Prospe Beach 2026 a la plaça Ángel Pestaña. Un dia de vòlei, calor, amistat, sorra i vida de barri al cor de la Prosperitat."
+title-seo: "Prospe Beach 2026: sorra, vòlei i estiu a la Prosperitat"
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2026/07/IMG_3007-1024x576.jpg)](https://photos.app.goo.gl/p4BGHFNRHoe4nQsLA)

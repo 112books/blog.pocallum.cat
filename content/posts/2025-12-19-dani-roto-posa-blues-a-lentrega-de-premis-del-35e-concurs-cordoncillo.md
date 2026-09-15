@@ -20,6 +20,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/12/DSCF2247.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/12/DSCF2247-1024x683.jpg
+description: "Dani Roto posa banda sonora blues a l’entrega de premis del 35è Concurs de Fotografia Josep Antón Cordoncillo, una cita consolidada de Nou Barris Imatge."
+title-seo: "Dani Roto posa blues als Premis del 35è Concurs Cordoncillo | Pocallum"
 ---
 
 [![Dani Roto actuant als Premis del Concurs de Fotografia Cordoncillo](https://blog.pocallum.cat/wp-content/uploads/2025/12/DSCF2247-1024x683.jpg)](https://photos.app.goo.gl/2Syt9E1ifrc5q4uD8)

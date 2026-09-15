@@ -40,6 +40,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2026/01/IMG_8915.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2026/01/IMG_8915-1024x768.jpg
+description: "Crònica d’una escapada a Vic en ple fred d’hivern: viatge en transport públic, passejades pel centre, jazz a la Jazz Cava, bona cuina i ambient nadalenc a la capital d’Osona."
+title-seo: "Escapada a Vic a l’hivern · Fred, jazz i bona cuina | Poc a Llum"
 ---
 
 [![Pont de Quart, a Vic](https://blog.pocallum.cat/wp-content/uploads/2026/01/IMG_8915-1024x768.jpg)](https://photos.app.goo.gl/4t2T1m6FdLWtLdCS8)

@@ -25,6 +25,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2026/02/DSCF2671.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2026/02/DSCF2794-1024x683.jpg
+description: "Crònica fotogràfica de la celebració de l’Any Nou Xinès 2026 a Barcelona, dedicat al Cavall de Foc. Cultura, desfilades, dracs i ambient al centre de la ciutat."
+title-seo: "Any Nou Xinès 2026 a Barcelona · Celebrant l’Any del Cavall de Foc"
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2026/02/DSCF2794-1024x683.jpg)](https://photos.app.goo.gl/JRBSkQXPSBParXjy7)

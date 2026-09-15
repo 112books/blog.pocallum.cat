@@ -18,6 +18,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2026/05/IMG_1972.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2026/05/IMG_1972-1024x576.jpg
+description: "Crònica fotogràfica i reflexions sobre la presentació del llibre “La moguda juvenil a la Prosperitat. 1980-2000” al Casal de Joves de Prosperitat."
+title-seo: "Presentació del llibre “La moguda juvenil a la Prosperitat” | Pocallum"
 ---
 
 ## **La Prosperitat, memòria juvenil i relleus generacionals**

@@ -18,6 +18,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/07/Captura-de-pantalla-2025-03-16-a-les-19.39.27.png
 image: https://blog.pocallum.cat/wp-content/uploads/2025/07/Captura-de-pantalla-2025-03-16-a-les-19.39.27.png
+description: "Explora la presentació amb exposició fotogràfica de Anónimos, más allá de las apariencias: retrats originals, relats breus i una experiència cultural única amb Mario Ortiz i Joan Linux. Disponible per programar en espais, bars i entorns culturals. ￼"
 ---
 
 ![](https://blog.pocallum.cat/wp-content/uploads/2025/07/Captura-de-pantalla-2025-03-16-a-les-19.39.27.png)

@@ -23,6 +23,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2026/07/DSCF6335.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2026/07/DSCF6335-1024x683.jpg
+description: "La Jam Session de clausura del 24è Festival de Blues de Barcelona va reunir músics i públic a l’Anfiteatre de Roquetes per acomiadar una nova edició del festival."
+title-seo: "Jam Session del 24è Festival de Blues de Barcelona | Clausura 2026"
 ---
 
 <figure>

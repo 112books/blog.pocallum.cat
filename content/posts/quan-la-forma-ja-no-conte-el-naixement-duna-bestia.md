@@ -29,6 +29,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2026/03/El-naixement-duna-bestia-03.png
 image: https://blog.pocallum.cat/wp-content/uploads/2026/03/El-naixement-duna-bestia-03-1024x719.png
+description: "Reflexió sobre “El naixement d’una bèstia”, un fotollibre que explora la transformació del cos i la forma fins al límit de la identitat i la representació visual."
+title-seo: "El naixement d’una bèstia — fotollibre i projecte visual"
 ---
 
 ![](https://blog.pocallum.cat/wp-content/uploads/2026/03/El-naixement-duna-bestia-03-1024x719.png)

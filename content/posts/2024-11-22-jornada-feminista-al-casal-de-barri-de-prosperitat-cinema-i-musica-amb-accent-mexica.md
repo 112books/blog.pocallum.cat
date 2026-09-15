@@ -23,6 +23,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/11/DSCF6456-Mejorado-NR.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2024/11/DSCF6456-Mejorado-NR-1024x683.jpg
+description: "Descobreix la jornada feminista al Casal de barri de Prosperitat, amb la projecció del documental 'Negra' sobre el racisme a Mèxic i les actuacions de Masta Quba & P. Jaguar, que van abordar les violències de gènere a través del hip-hop."
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2024/11/DSCF6456-Mejorado-NR-1024x683.jpg)](https://photos.app.goo.gl/vCZWGZEBuhb2aMk89)

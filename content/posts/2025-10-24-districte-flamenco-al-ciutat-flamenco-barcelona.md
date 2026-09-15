@@ -37,6 +37,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/10/IMG_0476.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/10/IMG_0422-1024x683.jpg
+description: "Crònica fotogràfica del Districte Flamenco 2025 al festival Ciutat Flamenco Barcelona: quatre creadores, energia, dansa i emoció a Fabra i Coats."
+title-seo: "Districte Flamenco al Ciutat Flamenco Barcelona 2025"
 ---
 
 ## **Balleu maleïts, balleu i no pareu!**  

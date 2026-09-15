@@ -18,6 +18,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/03/2025-03-24-LM6-28mm-Foma100@800-R150-Santa-Barbara0008.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/03/2025-03-24-LM6-28mm-Foma100@800-R150-Santa-Barbara0008-1024x609.jpg
+description: "Descobreix les proves amb l’òptica Brightin Star 28mm f/2.8 al Casal de Prosperitat: fotografia analògica, salses picants i xerrades creatives"
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2025/03/2025-03-24-LM6-28mm-Foma100@800-R150-Santa-Barbara0008-1024x609.jpg)](https://photos.app.goo.gl/hdnj3jhg2zNTX2v67)

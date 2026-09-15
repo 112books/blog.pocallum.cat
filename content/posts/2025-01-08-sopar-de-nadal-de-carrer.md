@@ -28,6 +28,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2026/01/DSCF2534.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2026/01/DSCF2534-1024x683.jpg
+description: "Crònica del sopar de Nadal de la revista Carrer: precarietat, retrobament, ironia i fotografies d’una trobada honesta al Restaurant Guixot."
+title-seo: "Sopar de Nadal de Carrer — crònica d’una trobada"
 ---
 
 <figure>

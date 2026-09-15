@@ -20,6 +20,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/07/IMG_4027.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/07/IMG_4027-1024x383.jpg
+description: "Crònica d’una escapada al Delta de l’Ebre durant el pont de Sant Joan: paisatges únics, gastronomia local, platges verges, pobles amb encant i la màgia de les festes tradicionals d’estiu."
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2025/07/IMG_4027-1024x383.jpg)](https://photos.app.goo.gl/4wV7z1KGmi8ULySHA)

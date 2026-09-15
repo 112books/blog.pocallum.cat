@@ -24,6 +24,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2026/01/DSCF2572.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2026/01/DSCF2572-1024x683.jpg
+description: "El primer Vermutsical del 2026 porta Pura Bidasoa al Casal de la Prosperitat, amb ritmes llatinoamericans i les menges de Las Rudas."
+title-seo: "Vermutsical amb Pura Bidasoa al Casal Prosperitat"
 ---
 
 ![](https://blog.pocallum.cat/wp-content/uploads/2026/01/DSCF2572-1024x683.jpg)

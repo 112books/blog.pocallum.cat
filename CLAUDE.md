@@ -59,6 +59,19 @@ El tall a producció es fa **només quan el staging està complet i aprovat**, i
 
 > **Regla d'or:** 1) backup → 2) deploy HTML → 3) verificar producció 1:1 → 4) esborrar el WP. **Mai** en ordre diferent. El WordPress **no s'esborra** fins que el Hugo estigui publicat i verificat a la mateixa URL.
 
+### 2c. PRODUCCIÓ — REGLA ABSOLUTA (2026-09-15, arran d'una violació)
+
+> **MAI es toca producció (`blog.pocallum.cat` / Dinahosting / qualsevol acció sobre el servidor) sense la DOBLE VERIFICACIÓ explícita de l'usuari.**
+
+Això inclou, sense excepció:
+- **Pushear a `develop`** quan el workflow `deploy-produccio.yml` hi estigui actiu — cada push desplega a producció. **Avisar SEMPRE abans de cap push**, i el push només amb el vistiplau de l'usuari.
+- **Qualsevol acció sobre el servidor** (SSH, rsync, descàrregues, esborrats, canvis de fitxers): **preguntar primer**, esperar resposta, i descriure exactament què es farà abans de fer-ho.
+- Descarregar, copiar o moure dades del servidor a un altre lloc: només amb permís previ explícit.
+
+Els canvis que **no** requereixen verificació: treball local, staging (GitHub Pages), commits al repo, i qualsevol cosa que no toqui ni desplegui.
+
+Història per no repetir-la: el 2026-09-15 es va desplegar a producció amb un sol push a `develop` sense avisar l'usuari, i es van descarregar 3,5 GB del servidor sense permís. Dues violacions de confiança que no es poden repetir. El control l'ha de tenir sempre l'usuari.
+
 ### 3. Comentaris
 - Els **71 comentaris llegats es congelen** com a contingut estàtic dins dels posts.
 - Per a comentaris nous: **servei extern — giscus** (recomanat): open source, sobre GitHub Discussions, sense cookies ni tracking, integrable a GitHub Pages. Requereix compte GitHub per comentar (fricció acceptable: 71 comentaris en 15 anys). **Pendent de validació en fase de tema; si no s'adopta, el blog queda sense comentaris nous.**
@@ -195,9 +208,43 @@ Script `migration/post-processa.py` (executat 2026-09-14, segona execució compl
 4. ✅ **Tema** — llistat cronològic (portada hero + galeria 8 posts), single amb tira Netflix, arxiu mensual, taxonomies/categories, cerca Pagefind, pàgines fixes (about/contacte/cerca) amb fons hero. Stats animats portada. Lightbox, mosaic. RSS, comentaris estàtics.
 5. ✅ **Pàgines fixes** — About, Contacte, Cerca implementades. Avís Legal, Privacitat i Cookies: frontmatter creat, contingut legal pendent.
 6. ✅ **QA parcial** — `scripts/qa-urls.py` executat 2026-09-15: 2.360 URLs; 9 Hugo 404 per interpunt `·` (tots corregits amb `url:` explícit); 1.855 WP 503 per rate limiting (no errors reals). **Pendent: re-executar amb menys workers per confirmar WP 200 a tots els posts.**
-7. ⏳ **SEO** — partial SEO + meta descriptions + OG + JSON-LD. Vegeu § Pla SEO.
-8. ⏳ **CMS** — Sveltia CMS per publicació remota. Vegeu § Pla CMS.
-9. ⏳ **Deploy** — pujar el `public/` del Hugo al docroot de Dinahosting (`~/www/blog/`), substituint el WordPress però **mantenint `wp-content/uploads`** (les imatges no es mouen). Staging via GitHub Pages (branca `develop`). **Ordre obligatori (lliçó apresa del pare):** pujar HTML + verificar el build *abans* de fer cap canvi de DNS o apagar el WordPress. Apagat en dues passes (freeze + backup).
+7. ✅ **SEO** — partial `seo.html` centralitzat (robots, description truncada 155, OG, Twitter, JSON-LD dict+safeJS). Meta descriptions Yoast injectades (271 posts). Title-seo injectat (130 posts). Verificat amb json.loads a tots els posts. Commit `9ec8e8258`.
+8. ⏳ **CMS** — Sveltia CMS per publicació remota (single user). Vegeu § Pla CMS.
+9. ✅ **Deploy** (2026-09-15) — pujar el `public/` del Hugo al docroot de Dinahosting (`~/www/blog/`), substituint el WordPress però **mantenint `wp-content/uploads`** (les imatges no es mouen). **FET: producció 100% verificat (25/25 URLs reals del sitemap → 200; 2.353 posts, 94 categories, 3.021 tags).** El WordPress queda congelat online fins a l'apagat acordat.
+
+**Sessió 2026-09-15 — afegits:**
+- **Pàgina 404** del blog adaptada de la del pare (`themes/blog/layouts/404.html` standalone): fons foto `static/images/404.jpg` + overlay, logo `blog.pocallum.cat`, títol "Aquesta foto no s'ha fet.", suggeriments = 3 últimes cròniques amb miniatura (thumbnail). CSS `e404-*` a `assets/css/main.css`. Imatge idèntica a la del pare.
+- **Fix rsync exit 23** a `.github/workflows/deploy-produccio.yml`: afegit `--exclude='.well-known/'` (no pot esborrar `.htaccess` per permisos) i `--omit-dir-times` + `--no-perms` (solució definitiva). Abans cada deploy acabava amb `exit code 23` encara que els fitxers es pugessin bé; ara surt net.
+- **`.htaccess` amb ErrorDocument 404** (`static/.htaccess`): cal perquè Dinahosting/Apache serveixi la 404.html de Hugo en lloc de la pàgina per defecte.
+- **CMS: els 2.027 posts (no 2.353)** que mostra Sveltia és límit de paginació de l'API de GitHub llistant una carpeta enorme — **no és pèrdua de dades**. Els 2.353 fitxers són tots al repo i es renderitzen bé. Impacte: només si volguessis editar un dels 326 "fantasma" caldria fer-ho per git.
+- **L'error "Broken pipe" del primer deploy** no era pèrdua: era connexió tallada en transferència; un rsync incremental en completà la resta.
+- **Auditoria 2026-09-15 (accessibilitat + responsive + seguretat)**: fixes aplicats (skip-link contrast AA, focus trap lightbox, nav hidden, fletxes mòbil, tancament lightbox amb reduced-motion) + headers de seguretat (HSTS, X-Content-Type-Options, X-Frame-Options, Referrer-Policy). **⚠ Treure del .htaccess el redirect HTTP→HTTPS: causa loop infinit.** Motiu: Dinahosting té proxy frontal que envia HTTP intern a Apache; `%{HTTPS} off` és sempre cert → redirect 301 infinit. El redirect s'ha de fer al panell/proxy de Dinahosting, NO via `.htaccess`.
+
+### ⏳ PENDENT — SSL/HTTPS redirect (documentat 2026-09-15, per fer abans del 22/09/2026)
+
+**Situació:** el certificat Let's Encrypt de `blog.pocallum.cat` va emès des del juny i funciona correctament (subject CN=blog.pocallum.cat, issuer Let's Encrypt YE1). Caduca **2026-09-22**. Des del juny juga al panell de Dinahosting com a "no activat" perquè la validació de Dinahosting requereix que la zona `@` i `www` de `pocallum.cat` apunti als seus servidors, i ara mateix `pocallum.cat` apunta a GitHub Pages.
+
+**Estat verificat (15/09/2026):**
+- `https://blog.pocallum.cat` → HTTP/2 200, headers seguretat OK (HSTS, nosniff, X-Frame-Options, Referrer-Policy)
+- Certificat vàlid fins 22/09/2026
+- `http://blog.pocallum.cat` → 200 (no redirigeix a HTTPS — falta redirect al proxy)
+- DNS: `blog.pocallum.cat` → 82.98.166.123 (Dinahosting) · `pocallum.cat` → 185.199.108-111.153 (GitHub Pages)
+
+**Pla acordat per executar quan toqui (una sola sessió, abans del 22/09):**
+1. **BACKUP/nota:** `pocallum.cat` quedarà fora de servei durant la finestra DNS (~15-30 min, propagació).
+2. **Canvi temporal de DNS:** apuntar la zona `@` i `www` de `pocallum.cat` a la IP de Dinahosting (`82.98.166.123` o el domini del servidor `vl28359.dinaserver.com`). (A Records + AAAA a 0 per comprovar email en algun moment? Decidir al moment; mínim A.)
+3. **Activar Let's Encrypt al panell de Dinahosting** per a `blog.pocallum.cat` (ara la validació funcionarà perquè `@`/`www` apunten a Dinahosting).
+4. **Configurar la redirecció HTTP→HTTPS** al panell de Dinahosting (Forçar HTTPS) o demanar a suport que l'activin al proxy.
+5. **Tornar a apuntar `@` i `www`** de `pocallum.cat` a GitHub Pages (185.199.108.153, .109.153, .110.153, .111.153).
+6. **Verificar:**
+   - `https://blog.pocallum.cat` → 200 + certificat renovat
+   - `http://blog.pocallum.cat` → 301 → `https://`
+   - `http://pocallum.cat` → serveix GitHub Pages (200)
+   - `https://www.pocallum.cat` → GitHub Pages amb cert OK
+   - QA 1:1 del sitemap del blog
+7. **Feina de l'usuari:** tenir accés al panell DNS del registrador de `pocallum.cat` (on es gestionen els registres) i al panell de Dinahosting abans de començar.
+
+**Notes:** No cal ball de DNS per a `blog.pocallum.cat` a part (ja apunta a Dinahosting). L'ordre dins del mateix dia: fer-ho de matí per tenir marge a la propagació. Si el suport de Dinahosting pot activar el redirect del proxy sense la validació de `@`/`www`, fer això primer estalvia el canvi de DNS.
 
 ---
 
@@ -206,7 +253,7 @@ Script `migration/post-processa.py` (executat 2026-09-14, segona execució compl
 Replicar el dashboard del pare: `static/admin/index.html` autocontingut (estètica pocallum, protegit per contrasenya SHA-256) + `static/admin/analytics.json` generat cada hora per GitHub Actions des de l'API de GoatCounter.
 
 - **Referència:** repo `../goatcounter-dashboard` i implementació del pare (`../pocallum.cat/static/admin/`, `scripts/`, `.github/workflows/fetch-analytics.yml`)
-- **GoatCounter existent:** el blog ja té GoatCounter configurat al WordPress (`wp-admin → goatcounter-wp` → site code `blog-pocallum.cat`). Reaprofitarem el site ja creat (mateix codi) en lloc de crear-ne un de nou. Caldrà afegir el `GOATCOUNTER_TOKEN` al repo i indicar el site code correcte al `hugo.toml` (pendent de confirmar el codi exacte).
+- **GoatCounter existent:** el blog ja té GoatCounter configurat al WordPress (`wp-admin → goatcounter-wp` → site code `pocallum-blog`; verificat directament al HTML que emet el WP: `data-goatcounter="https://pocallum-blog.goatcounter.com/count"`). **Reaprofitarem el site ja creat** (mateix codi) en lloc de crear-ne un de nou. El `hugo.toml` ja té `goatcounterSite = "pocallum-blog"` — **no canviar-lo**. Falta afegir el `GOATCOUNTER_TOKEN` al repo (secret de GitHub Actions), pendent.
 - **Implementació:** fases 4–5, un cop el tema estigui en marxa
 
 ---
@@ -247,37 +294,70 @@ Si buit, Hugo usarà el `.Summary` (primers 70 paraules). Funciona però no és 
 
 ---
 
-## Pla CMS — Sveltia CMS (pròxima sessió)
+## Pla CMS — Sveltia CMS (single user)
 
 Objectiu: publicar posts des de qualsevol dispositiu (mòbil inclòs) sense accedir al repositori local.
 
 ### Arquitectura
 
 - **Backend:** GitHub (repo `112books/blog.pocallum.cat`, branca `develop`)
-- **Frontend admin:** `static/admin/index.html` + `static/admin/config.yml`
-- **URL admin:** `https://blog.pocallum.cat/admin/` (o staging: `https://112books.github.io/blog.pocallum.cat/admin/`)
-- **Autenticació:** GitHub OAuth (requereix compte GitHub — acceptable per a ús personal)
-- **Deploy automàtic:** el push de Sveltia dispara el workflow de GitHub Actions existent
+- **Frontend admin:** `static/admin/index.html` + `static/admin/config.yml` (**ja creats**)
+- **URL admin (staging):** `https://112books.github.io/blog.pocallum.cat/admin/`
+- **URL admin (producció):** `https://blog.pocallum.cat/admin/` (un cop desplegat a Dinahosting)
+- **Autenticació:** GitHub OAuth (usuari únic — un sol compte GitHub)
+- **Deploy:** automàtic a staging (GitHub Pages) + automàtic a Dinahosting (rsync) en cada push a `develop`
+- **Media uploads:** `static/media/` (commitat al repo; NO confondre amb `static/uploads/` que és gitignored per al development local)
 
-### Per implementar
+### Flux d'usuari (single user)
 
-1. Crear `static/admin/index.html` (carrega Sveltia des de CDN)
-2. Crear `static/admin/config.yml` amb:
-   - Backend GitHub
-   - Media folder: `static/uploads/`
-   - Collections: `posts` amb tots els camps (title, date, slug, description, categories, tags, thumbnail, draft)
-   - Camps SEO amb ajuda: description amb `hint: "Màx. 155 caràcters"` i comptador
-3. Afegir OAuth App a GitHub (Settings → Developer settings → OAuth Apps)
-4. Testejar al staging
+1. Publica des del CMS (mòbil o desktop) → push a `develop`
+2. GitHub Actions build + deploy automàtic a **staging** (GitHub Pages) i **producció** (Dinahosting)
+3. El post és visible tant a staging com a producció de seguida
 
-### Acció GitHub per auto-generar meta descriptions
+### Secrets de GitHub Actions (pendent de configurar)
 
-Workflow `auto-seo.yml` (opcional, activable per `workflow_dispatch` o push):
-1. Detecta posts nous/modificats sense `description:` al frontmatter
-2. Crida Claude API (`claude-haiku-4-5`, el més econòmic) amb: títol + categories + tags + primers 300 caràcters
-3. Prompt: *"Genera una meta description en català de 130-155 caràcters per a aquest post d'un blog de fotografia. Estil directe, sense màrqueting."*
-4. Insereix la `description:` al frontmatter i fa commit
-- Cost estimat llegat complet (2.353 posts): ~0,20-0,30 €
+**Producció (Dinahosting) — 4 secrets:**
+- `SSH_PRIVATE_KEY_DINAHOSTING` — clau SSH privada (ed25519 recomanat)
+- `DINAHOSTING_HOST` — hostname o IP del servidor (`vl28359.dinaserver.com`)
+- `DINAHOSTING_USER` — usuari SSH de Dinahosting
+- `DINAHOSTING_PATH` — ruta del docroot (`~/www/blog` o absoluta)
+
+**GoatCounter — 1 secret (pendent):**
+- `GOATCOUNTER_TOKEN` — token d'API de GoatCounter (per al dashboard d'estadístiques)
+
+### GitHub OAuth App (pendent de crear)
+
+1. Anar a `github.com/settings/developers` → OAuth Apps → New OAuth App
+2. Application name: `blog.pocallum.cat`
+3. Homepage URL: `https://blog.pocallum.cat/`
+4. Authorization callback URL: `https://112books.github.io/blog.pocallum.cat/admin/` (staging) — actualitzar a `https://blog.pocallum.cat/admin/` un cop desplegat a producció
+5. Guardar el **Client ID** i generar un **Client Secret**
+6. Afegir-los al repo: Settings → Secrets → `OAUTH_CLIENT_ID` i `OAUTH_CLIENT_SECRET` (si Sveltia ho requereix; en cas contrari, Sveltia demana el client ID a l'login)
+
+### Configuració del CMS (config.yml)
+
+```yaml
+backend: { name: github, repo: 112books/blog.pocallum.cat, branch: develop }
+media_folder: "static/media"
+public_folder: "/media"
+collections:
+  - Categories: folder content/categories, value_field: valor (slug), display_fields: title
+  - Pàgines fixes: files collection (about, contact, cerca, aviso-legal, polítiques)
+  - Posts: folder content/posts, categories → relation a Categories,
+           thumbnail/image → widget image (drag&drop a static/media)
+```
+
+**Slug:** auto-generat des del títol amb neteja de caràcters especials. L'usuari pot sobreescriure'l.
+**Imatges:** widget `image` → drag&drop → van a `static/media/` → commitades automàticament al repo.
+**Categories:** 92 termes gestionats com a col·lecció separada (content/categories/*/\_index.md).
+**Fons pàgines:** camp `imatgeFons` al frontmatter (widgets image a les pàgines fixes + \_index.md per al home).
+
+### Workflow: deploy-produccio.yml (ja creat)
+
+- Trigger: push a `develop` o `workflow_dispatch`
+- Build Hugo + Pagefind + rsync a Dinahosting
+- **Exclou `wp-content/`** (imatges WordPress intactes)
+- Prem `cancel-in-progress: false` (no cancel·la un deploy en curs)
 
 ---
 

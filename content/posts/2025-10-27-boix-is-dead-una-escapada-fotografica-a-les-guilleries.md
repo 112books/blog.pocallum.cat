@@ -31,6 +31,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/10/photo_2025-10-29-01.27.25.jpeg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/10/L1520650-1024x576.jpg
+description: "Un viatge fotogràfic per les Guilleries amb Manel Sala “Ulls”. Natura, llum, boix malmès i paisatges espectaculars des de Tavertet fins a Rupit."
+title-seo: "‘Boix is dead’: escapada fotogràfica a les Guilleries"
 ---
 
 ![](https://blog.pocallum.cat/wp-content/uploads/2025/10/L1520650-1024x576.jpg)

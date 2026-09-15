@@ -22,6 +22,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/07/IMG_0146.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/07/IMG_0146-1-1024x683.jpg
+description: "Resum del final de curs 2025 al Casal de barri de la Prosperitat amb l’espectacle de percussió i ball de Sol Homar Ensamble, una nit de música, bon ambient i denúncia social."
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2025/07/IMG_0146-1-1024x683.jpg)](https://photos.app.goo.gl/2uBg9nq22QYYY4ZY7)

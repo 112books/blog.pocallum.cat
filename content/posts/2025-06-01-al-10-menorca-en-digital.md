@@ -23,6 +23,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/06/L1510467.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/06/L1510467-1024x576.jpg
+description: "Explora Menorca a través d’una escapada fotogràfica de 10 dies, descobreix racons sorprenents i prepara’t per a una nova aventura fotogràfica en grup reduït al setembre, amb allotjament en masia i gastronomia menorquina."
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2025/06/L1510467-1024x576.jpg)](https://photos.app.goo.gl/3BfmTbcVwJsWnz7c9)

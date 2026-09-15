@@ -1,0 +1,53 @@
+name: Deploy → Producció (Dinahosting)
+
+on:
+  push:
+    branches: [develop]
+  workflow_dispatch:
+
+concurrency:
+  group: "pages-produccio"
+  cancel-in-progress: false  # no cancel·lis un deploy en curs
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Install Hugo
+        run: |
+          wget -q https://github.com/gohugoio/hugo/releases/download/v0.164.0/hugo_extended_0.164.0_linux-amd64.tar.gz
+          tar -xzf hugo_extended_0.164.0_linux-amd64.tar.gz
+          sudo mv hugo /usr/local/bin/
+
+      - name: Build Hugo (producció)
+        run: hugo --minify
+
+      - name: Index with Pagefind
+        run: npx pagefind --site public
+
+      - name: Deploy a Dinahosting via rsync
+        env:
+          SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY_DINAHOSTING }}
+          REMOTE_HOST: ${{ secrets.DINAHOSTING_HOST }}
+          REMOTE_USER: ${{ secrets.DINAHOSTING_USER }}
+          REMOTE_PATH: ${{ secrets.DINAHOSTING_PATH }}   # ex: ~/www/blog
+        run: |
+          mkdir -p ~/.ssh
+          echo "$SSH_PRIVATE_KEY" > ~/.ssh/id_ed25519
+          chmod 600 ~/.ssh/id_ed25519
+          ssh-keyscan -H "$REMOTE_HOST" >> ~/.ssh/known_hosts 2>/dev/null
+
+          # Rsync: substitueix tot el contingut excepte wp-content/ i .well-known/.
+          # --no-perms: no pot canviar permisos del docroot arrel (usuari SSH amb permisos restringits).
+          # Sense això, rsync surt amb exit 23 cada cop que intenta posar permisos al directori arrel.
+          rsync -rlzv --delete \
+            --exclude='wp-content/' \
+            --exclude='.well-known/' \
+            --no-perms \
+            public/ \
+            "${REMOTE_USER}@${REMOTE_HOST}:${REMOTE_PATH}/"

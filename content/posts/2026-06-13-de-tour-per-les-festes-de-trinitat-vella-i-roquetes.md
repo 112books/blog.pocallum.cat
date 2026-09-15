@@ -26,6 +26,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2026/06/DSCF5681.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2026/06/DSCF5681-1024x683.jpg
+description: "Crònica fotogràfica de les festes de Trinitat Vella i Roquetes 2026 amb Morosito i Tribade en directe. Fotos i ambient de la nit a Nou Barris."
+title-seo: "Festes de Nou Barris 2026 | Morosito i Tribade en directe"
 ---
 
 <figure>

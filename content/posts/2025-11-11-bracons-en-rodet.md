@@ -26,6 +26,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/11/2025-11-11-LM6-28mm-Adox-HR@50-Bracons-0031.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/11/2025-11-11-LM6-28mm-Adox-HR@50-Bracons-0031-1024x651.jpg
+description: "Explora el coll de Bracons en aquesta escapada analògica de tardor amb Leica M6 i pel·lícula Adox HR-50. Paisatges i tons naturals amb tota la sensibilitat."
+title-seo: "El coll de Bracons en blanc i negre amb Adox HR-50 i Leica M6"
 ---
 
 [![La fageda de la Grevolosa fisparada amb ADOX HR-50.](https://blog.pocallum.cat/wp-content/uploads/2025/11/2025-11-11-LM6-28mm-Adox-HR@50-Bracons-0031-1024x651.jpg)](https://photos.app.goo.gl/PRyU723R2CweRnD87)

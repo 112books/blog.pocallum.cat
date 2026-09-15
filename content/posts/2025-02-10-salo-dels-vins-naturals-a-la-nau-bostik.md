@@ -20,6 +20,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/02/DSCF8429.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/02/DSCF8429-1024x577.jpg
+description: "Descobreix com va ser el Saló dels Vins Naturals 2025 a la Nau Bostik. Una trobada única amb petits productors, vins sense químics i etiquetes creatives. Mira les fotos!"
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2025/02/DSCF8429-1024x577.jpg)](https://photos.app.goo.gl/rybyWqmarKzw91bcA)

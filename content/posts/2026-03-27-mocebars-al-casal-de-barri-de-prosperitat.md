@@ -22,6 +22,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2026/03/DSCF4131.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2026/03/DSCF4131-1-1024x683.jpg
+description: "Crònica i fotografies del concert de Mocebares al Casal de Barri de Prosperitat. Festa, sàtira i energia des del cor de la Prospe."
+title-seo: "Mocebares al Casal de Barri de Prosperitat – Concert i fotos"
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2026/03/DSCF4131-1-1024x683.jpg)](https://photos.app.goo.gl/xHwupmNYBBjzszbD7)

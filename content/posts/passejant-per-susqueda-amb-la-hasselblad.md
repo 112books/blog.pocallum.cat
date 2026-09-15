@@ -24,6 +24,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/10/2025-10-15-Hasselblad500CM-RolleiRPX100@200-Susqueda-B-0019.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/10/2025-10-15-Hasselblad500CM-RolleiRPX100@200-Susqueda-B-0019-1-1017x1024.jpg
+description: "Escapada fotogràfica a Susqueda amb la Hasselblad 500CM. Descobreix la tardor a les Guilleries i gaudeix de les imatges i la natura a Catalunya."
+title-seo: "Susqueda amb la Hasselblad – escapada fotogràfica a la natura"
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2025/10/2025-10-15-Hasselblad500CM-RolleiRPX100@200-Susqueda-B-0019-1-1017x1024.jpg)](https://photos.app.goo.gl/BrjGbdFWhdSi5WwM9)

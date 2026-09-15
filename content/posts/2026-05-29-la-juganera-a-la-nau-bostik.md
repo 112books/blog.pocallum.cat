@@ -38,6 +38,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2026/05/IMG_7512.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2026/05/IMG_7512-1024x683.jpg
+description: "Crònica de la sisena edició de La Juganera a la Nau Bostik. Música reggae, ritmes afro i cultura comunitària al barri de la Sagrera."
+title-seo: "La Juganera 2026 a la Nau Bostik | Concerts comunitaris a la Sagrera"
 ---
 
 [![Un instant del divendres a La Juganera!](https://blog.pocallum.cat/wp-content/uploads/2026/05/IMG_7512-1024x683.jpg)](https://photos.app.goo.gl/1USDtFa9HtXqdVXc6)

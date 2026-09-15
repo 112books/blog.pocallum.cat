@@ -13,6 +13,7 @@ tags:
   - "leica-m6"
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/03/2025-03-15-LM6-Arundo-Donax-B-Foma100-0005.jpg
+description: "Descobreix la IX edició del festival Arundo Donax a La Puebla de Híjar, on la canya musical és la protagonista."
 ---
 
 https://vimeo.com/1069653423?share=copy

@@ -19,6 +19,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/04/2025-04-06-LM6-APX400@3200-BBBB-Noa-A-0033.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/04/2025-04-06-LM6-APX400@3200-BBBB-Noa-A-0033-1024x676.jpg
+description: "Un concert espectacular de la Barcelona Big Blues Band amb Noa VD com a convidada especial al Jamboree, ple de música en viu, energia i emocions."
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2025/04/2025-04-06-LM6-APX400@3200-BBBB-Noa-A-0033-1024x676.jpg)](https://photos.app.goo.gl/EPrQaEjBhp1wFAtBA)

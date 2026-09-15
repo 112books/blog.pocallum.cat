@@ -20,6 +20,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/06/2025-06-04-LM6-Foma100@200-Salines-0028.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/06/2025-06-04-LM6-Foma100@200-Salines-0028-1024x610.jpg
+description: "Descobreix les salines de la Reserva La Concepció a Menorca, on es produeix artesanalment la flor de sal. Visita guiada, procés tradicional, fotografia analògica i vistes espectaculars a la badia de Fornells."
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2025/06/2025-06-04-LM6-Foma100@200-Salines-0028-1024x610.jpg)](https://photos.app.goo.gl/HY164uZh35KVKLXF6)

@@ -1,8 +1,8 @@
 ---
 title: "2026-01-04 · Vic amb rodet i a ritme de jazz"
 date: 2026-01-09
-slug: "2026-01-04-%c2%b7-vic-amb-rodet-i-a-ritme-de-jazz"
-url: "/2026/01/09/2026-01-04-%c2%b7-vic-amb-rodet-i-a-ritme-de-jazz/"
+slug: "2026-01-04-·-vic-amb-rodet-i-a-ritme-de-jazz"
+url: "/2026/01/09/2026-01-04-·-vic-amb-rodet-i-a-ritme-de-jazz/"
 categories: 
   - "brightin-star-28mmf-2-8"
   - "leica-m6"
@@ -27,6 +27,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2026/01/2026-01-04-Leica-M6-Foma400@1600-Vic-Jazz-POrtada.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2026/01/2026-01-04-Leica-M6-Foma400@1600-Vic-Jazz-POrtada-1024x712.jpg
+description: "Crònica fotogràfica i musical a la plana de Vic: Leica M6, Foma 400 i jazz en directe a la Jazz Cava amb ambient i músics de primera."
+title-seo: "Vic amb rodet i a ritme de jazz | Leica M6 i Foma 400 a la Jazz Cava"
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2026/01/2026-01-04-Leica-M6-Foma400@1600-Vic-Jazz-POrtada-1024x712.jpg)](https://photos.app.goo.gl/z33BiK9HYXgQ23Qk8)

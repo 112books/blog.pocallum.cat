@@ -26,6 +26,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/10/IMG_1967.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/10/IMG_1822-1024x683.jpg
+description: "La primera Ciutat Batalla del Festival Ciutat Flamenco Barcelona omple l’Ateneu Popular de Nou Barris d’energia, improvisació i dansa flamenca. Una nit de força i talent femení amb fotografies i vídeo al blog de PocaLlum.cat."
+title-seo: "Ciutat Flamenco Barcelona – La primera Ciutat Batalla a l’Ateneu Popular de Nou Barris"
 ---
 
 ![](https://blog.pocallum.cat/wp-content/uploads/2025/10/IMG_1822-1024x683.jpg)

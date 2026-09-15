@@ -16,6 +16,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2022/12/DSF3123-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2022/12/DSF3123-1024x683.jpg
+description: "Descobreix l'actuació memorable de Daniel Higiénico al Casal de Barri de Prosperitat, juntament amb l'entrega dels Premis Josep Antón Cordoncillo."
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2022/12/DSF3123-1024x683.jpg)](https://photos.app.goo.gl/CMpoQtePpry6RvSE6)

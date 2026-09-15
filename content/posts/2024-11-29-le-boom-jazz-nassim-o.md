@@ -19,6 +19,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/12/2024-11-29-Le-Boom-Jazz-Nassim-O-0035.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2024/12/2024-11-29-Le-Boom-Jazz-Nassim-O-0035-1024x683.jpg
+description: "El passat divendres, el casal de la Prosperitat va acollir un concert memorable amb Nassim O i Le Boom Jazz, una nit plena de música dels 70, jazz funk i improvisació. Descobreix els detalls d’aquesta vetllada única!"
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2024/12/2024-11-29-Le-Boom-Jazz-Nassim-O-0035-1024x683.jpg)](https://photos.app.goo.gl/ytcgU2KqgSnDH41DA)

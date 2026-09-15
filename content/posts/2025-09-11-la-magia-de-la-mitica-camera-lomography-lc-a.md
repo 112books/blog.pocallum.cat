@@ -8,6 +8,8 @@ author: "fatmin"
 tags: []
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/09/2025-09-16-LC-A-Foma400-Varies-0011.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/09/2025-09-16-LC-A-Foma400-Varies-0005-1024x621.jpg
+description: "Descobreix la càmera Lomography LC-A+, una compacta analògica mítica perfecta per a fotos creatives i espontànies."
+title-seo: "La màgia de la càmera Lomography LC-A+: compacta analògica mítica"
 ---
 
 ![Vistes de Sant Andreu des de Santa Coloma de Gramanet.](https://blog.pocallum.cat/wp-content/uploads/2025/09/2025-09-16-LC-A-Foma400-Varies-0005-1024x621.jpg)

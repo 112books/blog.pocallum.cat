@@ -25,6 +25,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2026/02/Arrencant-el-dia-01.png
 image: https://blog.pocallum.cat/wp-content/uploads/2026/02/Arrencant-el-dia-01-1024x769.png
+description: "Descobreix *Arrencant el dia*, el primer fotollibre digital gratuït del projecte 112Revelats. Sis fotògrafs — Jordi Mallol i Comas, Miyuki Kurosaki, Tommy Lanceley, Xavier Sisternas, Pedro 'Clic' Garcia Fernandez i Joan 'Linux' — capturen l’albada amb fotografies poètiques i relats breus. Descarrega’l ara a 112Books!"
+title-seo: "Arrencant el dia – Fotollibre digital col·lectiu de 112Revelats"
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2026/02/Arrencant-el-dia-01-1024x769.png)](https://112revelats.112books.eu/)

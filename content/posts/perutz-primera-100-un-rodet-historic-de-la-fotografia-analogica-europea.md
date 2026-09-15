@@ -23,6 +23,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/05/2025-04-17-LM6-PerutzPrimera100-varies-0007.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/05/2025-04-17-LM6-PerutzPrimera100-varies-0002-1024x612.jpg
+description: "Experiència personal amb un rodet Perutz Primera 100, una pel·lícula analògica històrica d’origen alemany, popular als anys 80 i 90, i avui redescoberta per a experiments fotogràfics únics."
 ---
 
 ![](https://blog.pocallum.cat/wp-content/uploads/2025/05/2025-04-17-LM6-PerutzPrimera100-varies-0002-1024x612.jpg)

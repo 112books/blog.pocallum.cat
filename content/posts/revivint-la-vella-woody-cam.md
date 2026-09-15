@@ -21,6 +21,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2026/07/IMG_3916.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2026/07/IMG_3907-819x1024.jpg
+description: "La Woody Cam, una càmera de fusta fabricada cap al 1890, torna a la vida gràcies a un nou xassís artesanal i una jornada de retrats al carrer."
+title-seo: "Revivint la Woody Cam: una càmera de fusta de 1890 torna a retratar"
 ---
 
 ![](https://blog.pocallum.cat/wp-content/uploads/2026/07/IMG_3907-819x1024.jpg)

@@ -28,6 +28,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2026/02/2026-02-04-Leica-M6-Foma100@1600-Tablao-de-Carmen-C-0014.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2026/02/2026-02-04-Leica-M6-Foma100@1600-Tablao-de-Carmen-C-0014-1024x729.jpg
+description: "Fotografies amb rodet Fomapan 400/100@1600ISO + Rodinal al Tablao de Carmen. Forçar la foscor, extreure gra terrible del flamenc. Resultats analògics brutals."
+title-seo: "Flamenc amb química al Tablao de Carmen | Pocallum"
 ---
 
 ![Un moment on la bailaora Jennifer Garcia demostra el seu art.](https://blog.pocallum.cat/wp-content/uploads/2026/02/2026-02-04-Leica-M6-Foma100@1600-Tablao-de-Carmen-C-0014-1024x729.jpg)

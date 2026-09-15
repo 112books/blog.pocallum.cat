@@ -23,6 +23,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/10/Samuel-Arana.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/10/Samuel-Arana-1024x576.jpg
+description: "Crònica de Joan Linux sobre la conferència Perdre’s hauria de ser obligatori del fotoperiodista Samuel Aranda al Centre Cívic Riu de Santa Coloma."
+title-seo: "Samuel Aranda a Santa Coloma – Conferència"
 ---
 
 ![](https://blog.pocallum.cat/wp-content/uploads/2025/10/Samuel-Arana-1024x576.jpg)

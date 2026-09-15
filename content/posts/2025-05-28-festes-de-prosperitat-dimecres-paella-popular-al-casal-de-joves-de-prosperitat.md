@@ -22,6 +22,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/05/DSCF1377.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/05/DSCF1377-1024x683.jpg
+description: "El Casal de Joves de la Prosperitat celebra una paella popular durant les festes del barri, reunint veïnat de totes les edats en un ambient intergeneracional i festiu, amb una deliciosa paella vegana i bona companyia."
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2025/05/DSCF1377-1024x683.jpg)](https://photos.app.goo.gl/LKrpbzERGCzR7kX46)

@@ -25,6 +25,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/07/2025-07-15-Horsman8x10-Foma100-Nadia-Otshudi-0001.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/07/2025-07-15-Horsman8x10-Foma100-Nadia-Otshudi-0001-806x1024.jpg
+description: "Descobreix la importància del procés i l’artesania darrere la fotografia en gran format amb la càmera Horsman 8x10, a través d’un retrat únic a la fotògrafa Nadia Otshudi, i el projecte “40 anys de Blues a Barcelona”."
 ---
 
 ![](https://blog.pocallum.cat/wp-content/uploads/2025/07/2025-07-15-Horsman8x10-Foma100-Nadia-Otshudi-0001-806x1024.jpg)

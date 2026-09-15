@@ -20,6 +20,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/09/IMG_9357.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2024/09/IMG_9357-scaled.jpg
+description: "Descobreix la màgia de Menorca a través d'una galeria fotogràfica que presenta els cavalls típics de l'illa i els seus elegants genets, en un moment inesperat fora de les festes estivals."
 ---
 
 ![](https://blog.pocallum.cat/wp-content/uploads/2024/09/IMG_9357-scaled.jpg)

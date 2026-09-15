@@ -17,6 +17,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/12/DSCF6892.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2024/12/DSCF6892-1-1024x683.jpg
+description: "Ahir es va celebrar la trenta-quatrena edició del Concurs Fotogràfic Josep Antón Cordoncillo al Casal de Prosperitat, amb un recital de Jo Solana Trio i una exposició de les millors fotografies presentades. Encara podeu visitar l’exposició fins al 30 de desembre!"
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2024/12/DSCF6892-1-1024x683.jpg)](https://photos.app.goo.gl/CK8foCZ9aQ2nT8dCA)

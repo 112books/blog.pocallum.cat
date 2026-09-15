@@ -19,6 +19,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/10/I-wanna-be-your-Dog-portada.png
 image: https://blog.pocallum.cat/wp-content/uploads/2024/10/I-wanna-be-your-Dog-001-1024x640.png
+description: "Descobreix 'I wanna be your dog', el nou llibre digital de Joan 'Linux' que explora la relació entre humans i gossos a Barcelona a través de 83 fotografies úniques i provocadores, inspirades en The Stooges i l'estètica 'are, bure, boke'."
 ---
 
 Atenció amants de la fotografia i la cultura urbana! Estem emocionats d’anunciar el llançament imminent del nou llibre digital “[_I wanna be your dog_](https://www.112books.eu/producte/i-wanna-be-your-dog/)” del fotògraf Joan “Linux”, publicat per [112Books](https://www.112books.eu/).

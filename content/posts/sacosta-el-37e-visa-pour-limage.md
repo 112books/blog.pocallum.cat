@@ -25,6 +25,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/07/2023-09-18-Soltes-Visa-pour.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/07/2023-09-18-Soltes-Visa-pour-1024x675.jpg
+description: "Crònica personal de l’experiència al festival Visa pour l’Image de Perpinyà: el viatge, el ritual, l’impacte emocional de les exposicions de fotoperiodisme, la importància de recolzar la professió i recomanacions pràctiques per a la visita."
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2025/07/2023-09-18-Soltes-Visa-pour-1024x675.jpg)](https://photos.app.goo.gl/EKt3Tb3zPvhYhAhE9)

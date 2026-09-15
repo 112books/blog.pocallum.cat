@@ -22,6 +22,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/04/2025-04-12-LC-A-RPX400@1600-Ilegales-0014.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/04/2025-04-12-LC-A-RPX400@1600-Ilegales-0014-1024x680.jpg
+description: "Crònica personal d’un retrobament amb Ilegales quaranta anys després del primer concert: una reflexió sobre l’actitud, l’energia i la vigència del rock i el punk, amb Jorge Martínez al capdavant, i la importància de la música en l’experiència vital."
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2025/04/2025-04-12-LC-A-RPX400@1600-Ilegales-0014-1024x680.jpg)](https://photos.app.goo.gl/HfVXX1PT3g5J8Q8G9)

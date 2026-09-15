@@ -25,6 +25,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/10/IMG_2315.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/10/IMG_2136-1024x683.jpg
+description: "Germán J. López Galván presenta “Empaque”, un espectacle total on el circ, el flamenc i l’humor es donen la mà al Festival Ciutat Flamenco Barcelona."
+title-seo: "Chicharrón Circo Flamenco al Ciutat Flamenco Barcelona"
 ---
 
 ![](https://blog.pocallum.cat/wp-content/uploads/2025/10/IMG_2136-1024x683.jpg)

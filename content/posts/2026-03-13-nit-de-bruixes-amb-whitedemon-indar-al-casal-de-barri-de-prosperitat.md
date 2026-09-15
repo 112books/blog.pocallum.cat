@@ -24,6 +24,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2026/03/DSCF3851.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2026/03/DSCF4026-1024x683.jpg
+description: "Crònica fotogràfica del concert de Whitedemon i Indar al Casal de Barri de Prosperitat. Una nit de metal jove i intens al cor de Nou Barris."
+title-seo: "Nit de bruixes amb Whitedemon i Indar al Casal de Prosperita"
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2026/03/DSCF4026-1024x683.jpg)](https://photos.app.goo.gl/ojeZtSi5cMjwzGRa6)

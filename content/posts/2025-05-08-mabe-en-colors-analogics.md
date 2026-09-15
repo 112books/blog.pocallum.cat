@@ -20,6 +20,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/05/2025-05-08-Hassel-Portra400@200-Mabe-0007.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/05/2025-05-08-Hassel-Portra400@200-Mabe-0007-1024x1024.jpg
+description: "Experiència personal revelant una sessió amb la Mabe en color analògic utilitzant Kodak Portra 400, amb reflexions sobre els avantatges i inconvenients d’aquesta pel·lícula i consells per evitar problemes de sobreimpressió."
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2025/05/2025-05-08-Hassel-Portra400@200-Mabe-0007-1024x1024.jpg)](https://photos.app.goo.gl/8be1EwDgXRnK2Ldi7)

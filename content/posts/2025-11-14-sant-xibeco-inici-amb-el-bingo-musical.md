@@ -27,6 +27,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/11/DSCF2143.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/11/DSCF2143-1024x683.jpg
+description: "Inici de les festes d’hivern de la Prosperitat amb el tradicional Bingo musical de Sant Xibeco. Crònica irònica, fotos i ambient de barri per començar el cap de setmana."
+title-seo: "Sant Xibeco i les festes d’hivern de Prosperitat – Crònica del Bingo musical"
 ---
 
 [![Bingo musical de Sant Xibeco al Casal de barri de Prosperitat!](https://blog.pocallum.cat/wp-content/uploads/2025/11/DSCF2143-1024x683.jpg)](https://photos.app.goo.gl/JBDHsYxNrYf2Kx4t8)

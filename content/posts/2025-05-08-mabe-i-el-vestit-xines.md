@@ -24,6 +24,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/05/2025-05-08-Hasselblad-500CM-IlfordPanF50-MABE-0006.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/05/2025-05-08-Hasselblad-500CM-IlfordPanF50-MABE-0006-1019x1024.jpg
+description: "Sessió fotogràfica amb la Mabe i el vestit xinès utilitzant Hasselblad 500 C/M, Zeiss 100 mm i pel·lícula Ilford PanF+ 50. Mira totes les imatges fent clic a la foto principal."
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2025/05/2025-05-08-Hasselblad-500CM-IlfordPanF50-MABE-0006-1019x1024.jpg)](https://photos.app.goo.gl/KjCfJemzHUthT4BSA)

@@ -29,6 +29,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2026/07/IMG_0899.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2026/07/IMG_0899-1024x683.jpg
+description: "Crònica de la segona jornada del 24è Festival de Blues de Barcelona amb Quique Gómez & His Vipers, Lluís Coloma Musical Troupe 5 i Kirk Fletcher."
+title-seo: "24è Festival de Blues de Barcelona 2026 | Segona jornada"
 ---
 
 ![Kirk Fletcher en un moment del seu impressionant concert!](https://blog.pocallum.cat/wp-content/uploads/2026/07/IMG_0899-1024x683.jpg)

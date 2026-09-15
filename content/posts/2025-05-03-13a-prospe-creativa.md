@@ -20,6 +20,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/05/DSCF0598.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/05/DSCF0598-1024x683.jpg
+description: "Resum de la 13a edició de ProspeCreativa, l’esdeveniment de música emergent i artistes locals al barri de la Prosperitat, Barcelona. Galeria de fotos i moments destacats."
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2025/05/DSCF0598-1024x683.jpg)](https://photos.app.goo.gl/XqSycVYtXQc8e5hH6)

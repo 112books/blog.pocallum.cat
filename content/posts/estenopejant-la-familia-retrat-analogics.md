@@ -17,6 +17,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/09/2025-09-07-HolgaWPC-RPX25-El-Pago-0001.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/09/2025-09-07-HolgaWPC-RPX25-El-Pago-0001-628x1024.jpg
+description: "Celebrem el 80è aniversari de l’Avi Joan amb retrats familiars únics fets amb la tècnica estenopeica analògica, capturant el pas del temps entre vinyes i presseguers a Subirats."
 ---
 
 ![Retrat familiar analògic amb tècnica estenopeica (pinhole), fet amb càmera Holga WPC Pinhole 6x12 i pel·lícula Rollei RPX 25, celebrant el 80è aniversari de l’Avi Joan entre vinyes i presseguers a Subirats.](https://blog.pocallum.cat/wp-content/uploads/2025/09/2025-09-07-HolgaWPC-RPX25-El-Pago-0001-628x1024.jpg)

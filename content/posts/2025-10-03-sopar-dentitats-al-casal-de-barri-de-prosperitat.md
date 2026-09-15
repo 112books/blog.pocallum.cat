@@ -23,6 +23,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/10/DSCF1958.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/10/DSCF1958.jpg
+description: "Crònica del sopar d’entitats al Casal de Barri de Prosperitat: retrobaments, solidaritat amb Palestina, propostes culturals i humor LGTBIQ+."
+title-seo: "Sopar d’entitats al Casal de Barri de Prosperitat (2025)"
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2025/10/DSCF1958.jpg)](https://photos.app.goo.gl/tz5ufjmeVAR1YC6v9)

@@ -23,6 +23,7 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/12/IMG_2703.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/12/IMG_2703-1024x683.jpg
+description: "A l’estudi treballo en analògic sempre que puc, però hi ha sessions —com aquesta amb la Berta Cots— que exigeixen digital. Reflexions, procés i vídeo final."
 ---
 
 ![](https://blog.pocallum.cat/wp-content/uploads/2025/12/IMG_2703-1024x683.jpg)

@@ -18,6 +18,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/11/L1530105.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/11/L1530105-1024x576.jpg
+description: "Sortida de tardor amb Manel Sala a la fageda de la Grevolosa, un dels boscos més antics i majestuosos de Catalunya. Colors, boira i silenci."
+title-seo: "Escapada fotogràfica a la fageda de la Grevolosa | Pocallum.cat"
 ---
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2025/11/L1530105-1024x576.jpg)](https://photos.app.goo.gl/HoAmZZ2gL1i2hTMNA)

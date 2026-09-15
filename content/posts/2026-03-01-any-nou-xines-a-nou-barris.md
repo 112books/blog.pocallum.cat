@@ -30,6 +30,8 @@ tags:
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2026/03/IMG_5179.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2026/03/IMG_5179-1024x683.jpg
+description: "Celebrem l’Any Nou Xinès 2026 a Nou Barris amb dracs, cercavila per la Via Júlia, gastronomia xinesa i una galeria completa de fotografies."
+title-seo: "Any Nou Xinès 2026 a Nou Barris: dracs, festa i fotografies"
 ---
 
 [![Un dels dracs màgics que van desfilar en aquest any del cavall de foc.](https://blog.pocallum.cat/wp-content/uploads/2026/03/IMG_5179-1024x683.jpg)](https://photos.app.goo.gl/8wkVpZXvgKGteFNp7)
