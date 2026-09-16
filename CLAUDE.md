@@ -198,6 +198,20 @@ Script `migration/post-processa.py` (executat 2026-09-14, segona execució compl
 - **Cerca per càmera/òptica:** requisit destacat per l'usuari. Durant la conversió es valorarà si convé separar la taxonomia `camera` de `category` (les categories actuals són majoritàriament marques i models), però **mai abans de tenir l'exportació analitzada**. Canvi de taxonomia = canvi d'URLs d'arxiu; documentar-ho si es fa.
 - Arxiu mensual: índex per any/mes (l'actual sidebar de WordPress va de desembre 2010 a avui).
 
+### Canvi d'URLs d'arxiu executat (2026-09-15, auditoria SEO) — DOCUMENTAT
+
+**Context:** el WP servia els tags a `/tag/<slug>/` (flat) i les categories a `/category/<pare>/<fill>/` (jeràrquic: 85 fills sota 3 pares — `camara`, `optioca`, `publicacions`; cap top-level). El Hugo inicial els va generar als plural (`/tags/`, `/categories/`) i aplanats → **3.114 URLs amb 15 anys d'indexació trencaven** (Wayback: 2.908 tags + 259 categories històriques).
+
+**Solució (paritat màxima + 301):**
+- `hugo.toml [permalinks.term]`: `tags = "/tag/:slug"`, `categories = "/category/:slug"` (paritat exacta per als 3.020 tags) + `[permalinks.taxonomy]` manté els índexs a `/tags/` i `/categories/` (el browser de càmeres no es mou).
+- `.htaccess` (mod_rewrite): 301 de les jeràrquiques WP → aplanades (`/category/<pare>/<fill>/` → `/category/<fill>/`, + `/page/N/` i `/feed/`), cas especial `horsman-8x10″` (nicename WP amb U+2033 → Hugo `horsman-8x10`), `/category/publicacions/` → `/categories/`, i 301 dels plurals provisionals (`/tags/<x>/` → `/tag/<x>/`, `/categories/<x>/` → `/category/<x>/`).
+- `/feed/` del WP es serveix via rewrite intern a `/feed.xml` (subscriptors existents) + 301 `/comments/feed/`.
+- **Tag no coberts:** ~12 tags Wayback que el WP final ja no tenia en cap post publicat → 404 honest (Google els poda).
+- **`llms.txt`** (conveni per a cercadors d'IA): output format `llms` a la home → `layouts/home.llms.txt` amb mapa del lloc + 15 darreres cròniques.
+- **robots.txt:** template propi (`themes/blog/layouts/robots.txt`) amb `Disallow:` buit (allow all, cercadors i crawlers d'IA explícitament benvinguts) + línia `Sitemap:`.
+- **seo.html:** og:image ara prioritza `thumbnail:` (local, fiable) sobre `image:` (sovint hotlink Google); descriptions amb `plainify | trim` (text net, sense `\n` inicial); og:type `website` a totes les pàgines no-post; **self-canonical a `/page/N/`** (abans canonicalitzava a l'arrel → Google desindexava la paginació).
+- **Pendent de l'usuari:** token de verificació de Google Search Console (cap meta `google-site-verification` al HTML actual; si el GSC del WP era via meta tag de Yoast, s'ha perdut amb el WP — cal re-verificar el domini, via meta tag o DNS TXT).
+
 ---
 
 ## Pla de migració (fases)
@@ -207,7 +221,7 @@ Script `migration/post-processa.py` (executat 2026-09-14, segona execució compl
 3. ✅ **Conversió** — XML → Markdown (`wordpress-export-to-markdown` v3.0.5). **2.353 posts (i 10 drafts)** a `content/posts/` amb `tags`, `thumbnail`, `image` i Vimeo resos; pàgines fixes migrades. Materials i script a `migration/` (gitignored).
 4. ✅ **Tema** — llistat cronològic (portada hero + galeria 8 posts), single amb tira Netflix, arxiu mensual, taxonomies/categories, cerca Pagefind, pàgines fixes (about/contacte/cerca) amb fons hero. Stats animats portada. Lightbox, mosaic. RSS, comentaris estàtics.
 5. ✅ **Pàgines fixes** — About, Contacte, Cerca implementades. Avís Legal, Privacitat i Cookies: frontmatter creat, contingut legal pendent.
-6. ✅ **QA parcial** — `scripts/qa-urls.py` executat 2026-09-15: 2.360 URLs; 9 Hugo 404 per interpunt `·` (tots corregits amb `url:` explícit); 1.855 WP 503 per rate limiting (no errors reals). **Pendent: re-executar amb menys workers per confirmar WP 200 a tots els posts.**
+6. ✅ **QA** — `scripts/qa-urls.py` (2026-09-15): primera passada 2.360 URLs, 9 Hugo 404 per interpunt `·` (slugs percent-encoded `%c2%b7` al frontmatter — desxifrats al caràcter real, commit `bce1b88bd`; l'script ara percent-encoda els paths). **Passada final: 2.360/2.360 = 100%** local vs producció.
 7. ✅ **SEO** — partial `seo.html` centralitzat (robots, description truncada 155, OG, Twitter, JSON-LD dict+safeJS). Meta descriptions Yoast injectades (271 posts). Title-seo injectat (130 posts). Verificat amb json.loads a tots els posts. Commit `9ec8e8258`.
 8. ⏳ **CMS** — Sveltia CMS per publicació remota (single user). Vegeu § Pla CMS.
 9. ✅ **Deploy** (2026-09-15) — pujar el `public/` del Hugo al docroot de Dinahosting (`~/www/blog/`), substituint el WordPress però **mantenint `wp-content/uploads`** (les imatges no es mouen). **FET: producció 100% verificat (25/25 URLs reals del sitemap → 200; 2.353 posts, 94 categories, 3.021 tags).** El WordPress queda congelat online fins a l'apagat acordat.
@@ -217,8 +231,20 @@ Script `migration/post-processa.py` (executat 2026-09-14, segona execució compl
 - **Fix rsync exit 23** a `.github/workflows/deploy-produccio.yml`: afegit `--exclude='.well-known/'` (no pot esborrar `.htaccess` per permisos) i `--omit-dir-times` + `--no-perms` (solució definitiva). Abans cada deploy acabava amb `exit code 23` encara que els fitxers es pugessin bé; ara surt net.
 - **`.htaccess` amb ErrorDocument 404** (`static/.htaccess`): cal perquè Dinahosting/Apache serveixi la 404.html de Hugo en lloc de la pàgina per defecte.
 - **CMS: els 2.027 posts (no 2.353)** que mostra Sveltia és límit de paginació de l'API de GitHub llistant una carpeta enorme — **no és pèrdua de dades**. Els 2.353 fitxers són tots al repo i es renderitzen bé. Impacte: només si volguessis editar un dels 326 "fantasma" caldria fer-ho per git.
+- **Favicon (2026-09-15):** `static/favicon.ico` = **el del pare, marca LinuxBCN** (l'entitat que desenvolupa el web, amb crèdit al footer del pare) — copiat byte a byte de `../pocallum.cat/static/favicon.ico` (16+32, PNG-in-ICO). Enllaçat amb `?v=2` (bust de caché) al `head.html` i al `404.html` juntament amb el SVG propi (`/images/logo.svg`) pels navegadors moderns. Abans Safari no mostrava res (no suporta favicons SVG).
+- **Analytics (2026-09-15):** tres bugs arreglats al pipeline GoatCounter → dashboard `/stats/`: (1) el workflow antic commiteja amb `[skip ci]` i push via GITHUB_TOKEN que **no dispara workflows** (protecció anti-bucle GitHub) — ara commiteja a `develop` i cala `deploy-staging.yml` + `deploy-produccio.yml` explícitament; (2) `/stats/hits?limit=100` només tornava el top-100 paths de l'any — ara `scripts/fetch-hits.py` pagina amb `exclude_paths` (path_id) fins `more=false`: **525 paths / 1.206 visites** vs 100/719 d'abans; (3) cron fora punta (`17 * * * *`, GitHub descarta runs a `:00`). Nota: el pare té el mateix bug del top-100 pendent. Recordatori: **mai posar `[skip ci]` (ni al cos!) en commits que han de disparar workflows**.
 - **L'error "Broken pipe" del primer deploy** no era pèrdua: era connexió tallada en transferència; un rsync incremental en completà la resta.
 - **Auditoria 2026-09-15 (accessibilitat + responsive + seguretat)**: fixes aplicats (skip-link contrast AA, focus trap lightbox, nav hidden, fletxes mòbil, tancament lightbox amb reduced-motion) + headers de seguretat (HSTS, X-Content-Type-Options, X-Frame-Options, Referrer-Policy). **⚠ Treure del .htaccess el redirect HTTP→HTTPS: causa loop infinit.** Motiu: Dinahosting té proxy frontal que envia HTTP intern a Apache; `%{HTTPS} off` és sempre cert → redirect 301 infinit. El redirect s'ha de fer al panell/proxy de Dinahosting, NO via `.htaccess`.
+
+**Sessió 2026-09-15 (tarda) — QA final + auditoria SEO/GEO/AEO:**
+- **QA 1:1 completada: 2.360/2.360 = 100%** (detall a la fase 6).
+- **`[skip ci]` al cos del commit = salt de workflows**: el commit `14c4b9a34` portava el text literal al cos i GitHub va saltar TOTS els workflows del push. Regla: mai posar `[skip ci]` enlloc del missatge si has de disparar workflows.
+- **fetch-analytics.yml reescrit**: checkout `ref: develop`, commit d'`analytics.json` a develop + triggers explícits `gh workflow run` dels dos deploys (push via GITHUB_TOKEN no engega workflows), cron `17 * * * *` fora punta; merge develop→main perquè els scheduled corrin des de la branca per defecte.
+- **`scripts/fetch-hits.py` nou**: `/stats/hits?limit=100` només torna el top-100 paths de l'any → pagina amb `exclude_paths` (path_id CSV) fins `more=false`: **525 paths / 1.206 visites**. El pare té el mateix bug pendent.
+- **Footer: "Powered by LinuxBCN.com"** amb enllaç, com al pare (atribució al desenvolupador).
+- **Auditoria SEO/GEO/AEO + paquet de fixes (commit `942f30f8f`)** — detall complet a la secció "Canvi d'URLs d'arxiu executat". Troballes crítiques: 3.114 URLs d'arxiu trencades (tags/categories), `/feed/` 404, robots.txt sense Sitemap, descriptions amb `\n` inicial, `/page/N/` canonicalitzant a l'arrel. Fixes: paritat exacta `/tag/:slug` + `/category/:slug`, 301s al `.htaccess` (jeràrquiques WP, plurals provisionals, `/feed/` via rewrite intern), robots.txt propi, **llms.txt** (conveni IA), og:image = `thumbnail` → `image` → **fons de portada** (imatgeFons, LC-A 2025) → default, self-canonical a paginació, og:type `website` a llistes, enllaços de termes via `.GetTerms`.
+- **Bug Hugo detectat**: `X | trim C` executa `strings.Trim(C, X)` (ordre invertit amb el pipe) en aquesta versió → usar `strings.TrimSpace` (pipe-safe).
+- **Pendent de l'usuari (SEO):** token de verificació GSC (cap meta `google-site-verification`; cal re-verificar domini via meta tag o DNS TXT).
 
 ### ⏳ PENDENT — SSL/HTTPS redirect (documentat 2026-09-15, per fer abans del 22/09/2026)
 
@@ -255,6 +281,7 @@ Replicar el dashboard del pare: `static/admin/index.html` autocontingut (estèti
 - **Referència:** repo `../goatcounter-dashboard` i implementació del pare (`../pocallum.cat/static/admin/`, `scripts/`, `.github/workflows/fetch-analytics.yml`)
 - **GoatCounter existent:** el blog ja té GoatCounter configurat al WordPress (`wp-admin → goatcounter-wp` → site code `pocallum-blog`; verificat directament al HTML que emet el WP: `data-goatcounter="https://pocallum-blog.goatcounter.com/count"`). **Reaprofitarem el site ja creat** (mateix codi) en lloc de crear-ne un de nou. El `hugo.toml` ja té `goatcounterSite = "pocallum-blog"` — **no canviar-lo**. Falta afegir el `GOATCOUNTER_TOKEN` al repo (secret de GitHub Actions), pendent.
 - **Implementació:** fases 4–5, un cop el tema estigui en marxa
+- **⏳ Pendent (demanat per l'usuari, 2026-09-15):** afegir al dashboard el **gràfic de visites per dia de la setmana** (i per hora del dia) — important per decidir **quin dia/hora publicar**. Cal agregar la dimensió temporal dels hits (camp `Time` del `/stats/hits` de GoatCounter) al `process-analytics.py` i pintar el gràfic a la primera pàgina del dashboard.
 
 ---
 
