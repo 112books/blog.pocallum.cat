@@ -51,4 +51,12 @@ ErrorDocument 404 /404.html
   Header always set X-Frame-Options "DENY"
   # Referrer mínim a tercers
   Header always set Referrer-Policy "strict-origin-when-cross-origin"
+  # CSP: 'unsafe-inline' a script/style perquè el JSON-LD i els scripts
+  # d'Hugo són inline sense nonce (site estàtic, sense build per petició).
+  # 'wasm-unsafe-eval' + worker-src: Pagefind (cerca) usa WebAssembly + worker.
+  # img-src ample: 15 anys de posts amb imatges hotlinkejades a wordpress.com,
+  # ggpht.com, wikimedia, etc. a més de lh*.googleusercontent.com (Google Fotos).
+  Header always set Content-Security-Policy "default-src 'self'; script-src 'self' 'unsafe-inline' 'wasm-unsafe-eval' https://gc.zgo.at https://giscus.app; style-src 'self' 'unsafe-inline'; img-src 'self' https: data:; font-src 'self' data:; connect-src 'self' https://*.goatcounter.com; frame-src https://player.vimeo.com https://giscus.app; worker-src 'self'; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'; upgrade-insecure-requests"
+  # Cap ús de càmera/micro/geolocalització/pagaments al lloc
+  Header always set Permissions-Policy "geolocation=(), microphone=(), camera=(), payment=(), usb=(), magnetometer=(), gyroscope=(), accelerometer=(), interest-cohort=()"
 </IfModule>
