@@ -269,6 +269,15 @@
     .bar-pct { font-size: 10px; color: #fff; position: absolute; right: 5px; }
     .bar-count { font-size: 12px; color: var(--fg); text-align: right; font-weight: 700; }
 
+    /* ── Dies de la setmana ──────────────────────────────────── */
+    .weekday-stack { display: flex; height: 26px; overflow: hidden; border: 1px solid var(--line); background: var(--bg2); margin-bottom: 1rem; }
+    .weekday-seg { height: 100%; min-width: 2px; transition: width .9s cubic-bezier(.4,0,.2,1); }
+    .weekday-row { display: grid; grid-template-columns: 10px 1fr 70px 52px; align-items: center; gap: .6rem; padding: .3rem 0; }
+    .weekday-dot { width: 8px; height: 8px; border-radius: 50%; }
+    .weekday-name { font-size: 12px; color: var(--mid); }
+    .weekday-count { font-size: 12px; color: var(--fg); font-weight: 700; text-align: right; }
+    .weekday-pct { font-size: 12px; color: var(--fg); text-align: right; font-weight: 700; }
+
     /* ── Device cards ───────────────────────────────────────── */
     .device-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1px; margin-bottom: 1.5rem; background: var(--line); border: 1px solid var(--line); }
     .device-card { background: var(--bg2); padding: 1.2rem 1.5rem; display: flex; flex-direction: column; align-items: center; gap: .3rem; }
@@ -743,20 +752,52 @@ function renderInsightTemporal(data) {
 /* ══ DIES DE LA SETMANA ═══════════════════════════════════════ */
 function renderWeekdays(data) {
   const NAMES  = ['Diumenge','Dilluns','Dimarts','Dimecres','Dijous','Divendres','Dissabte'];
+  const COLORS = ['#FF5500','#FF7733','#cc4400','#ffb366','#E0481F','#ff9933','#B23B14'];
   const buckets = [0,0,0,0,0,0,0];
   (data.hits_by_day || []).forEach(d => {
-    if (!d || !d.date) return;
-    const wd = new Date(d.date + 'T12:00:00').getDay();
-    buckets[wd] += d.count || 0;
+    if (d && d.date) buckets[new Date(d.date + 'T12:00:00').getDay()] += d.count || 0;
   });
   const order = [1,2,3,4,5,6,0];           // Dilluns → Diumenge
-  const items = order.map(wd => ({ name: NAMES[wd], count: buckets[wd] }));
-  renderBars('weekdays-wrap', items);
+  const items = order.map(wd => ({ name: NAMES[wd], count: buckets[wd], color: COLORS[wd] }));
   const total = items.reduce((s,i) => s + i.count, 0);
+
+  const el = document.getElementById('weekdays-wrap');
+  el.className = '';
+  el.innerHTML = '';
+
+  if (!total) {
+    el.innerHTML = '<span class="empty">Encara no hi ha prou dades.</span>';
+    document.getElementById('weekdays-summary').innerHTML = '';
+    return;
+  }
+
+  // Barra de pila: cada dia ocupa el seu % del total → suma 100%
+  const stack = document.createElement('div'); stack.className = 'weekday-stack';
+  stack.setAttribute('role', 'img');
+  stack.setAttribute('aria-label', items.map(i => i.name + ' ' + Math.round(i.count/total*100) + '%').join(', '));
+  items.forEach(it => {
+    const seg = document.createElement('div'); seg.className = 'weekday-seg';
+    seg.style.width = (it.count/total*100) + '%';
+    seg.style.background = it.color;
+    seg.title = it.name + ': ' + fmt(it.count) + ' visites · ' + Math.round(it.count/total*100) + '%';
+    stack.appendChild(seg);
+  });
+  el.appendChild(stack);
+
+  // Llista: dot de color + dia + % sempre visible + total del dia
+  items.forEach(it => {
+    const pct = Math.round(it.count/total*100);
+    const row = document.createElement('div'); row.className = 'weekday-row';
+    const dot = document.createElement('span'); dot.className = 'weekday-dot'; dot.style.background = it.color;
+    const name = document.createElement('span'); name.className = 'weekday-name'; name.textContent = it.name;
+    const pctEl = document.createElement('span'); pctEl.className = 'weekday-pct'; pctEl.textContent = pct + '%';
+    const cnt = document.createElement('span'); cnt.className = 'weekday-count'; cnt.textContent = fmt(it.count);
+    row.appendChild(dot); row.appendChild(name); row.appendChild(cnt); row.appendChild(pctEl);
+    el.appendChild(row);
+  });
+
   document.getElementById('weekdays-summary').innerHTML =
-    total > 0
-      ? 'Total: <strong>' + fmt(total) + '</strong> · Mitjana/dia: <strong>' + fmt(Math.round(total/7)) + '</strong>'
-      : 'Encara no hi ha prou dades.';
+    'Total: <strong>' + fmt(total) + '</strong> · <span class="hl">els percentatges sumen 100%</span>';
 }
 
 function renderInsightPagines(data) {
