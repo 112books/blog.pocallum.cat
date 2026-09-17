@@ -234,7 +234,7 @@ Script `migration/post-processa.py` (executat 2026-09-14, segona execució compl
 - **Favicon (2026-09-15):** `static/favicon.ico` = **el del pare, marca LinuxBCN** (l'entitat que desenvolupa el web, amb crèdit al footer del pare) — copiat byte a byte de `../pocallum.cat/static/favicon.ico` (16+32, PNG-in-ICO). Enllaçat amb `?v=2` (bust de caché) al `head.html` i al `404.html` juntament amb el SVG propi (`/images/logo.svg`) pels navegadors moderns. Abans Safari no mostrava res (no suporta favicons SVG).
 - **Analytics (2026-09-15):** tres bugs arreglats al pipeline GoatCounter → dashboard `/stats/`: (1) el workflow antic commiteja amb `[skip ci]` i push via GITHUB_TOKEN que **no dispara workflows** (protecció anti-bucle GitHub) — ara commiteja a `develop` i cala `deploy-staging.yml` + `deploy-produccio.yml` explícitament; (2) `/stats/hits?limit=100` només tornava el top-100 paths de l'any — ara `scripts/fetch-hits.py` pagina amb `exclude_paths` (path_id) fins `more=false`: **525 paths / 1.206 visites** vs 100/719 d'abans; (3) cron fora punta (`17 * * * *`, GitHub descarta runs a `:00`). Nota: el pare té el mateix bug del top-100 pendent. Recordatori: **mai posar `[skip ci]` (ni al cos!) en commits que han de disparar workflows**.
 - **L'error "Broken pipe" del primer deploy** no era pèrdua: era connexió tallada en transferència; un rsync incremental en completà la resta.
-- **Auditoria 2026-09-15 (accessibilitat + responsive + seguretat)**: fixes aplicats (skip-link contrast AA, focus trap lightbox, nav hidden, fletxes mòbil, tancament lightbox amb reduced-motion) + headers de seguretat (HSTS, X-Content-Type-Options, X-Frame-Options, Referrer-Policy). **⚠ Treure del .htaccess el redirect HTTP→HTTPS: causa loop infinit.** Motiu: Dinahosting té proxy frontal que envia HTTP intern a Apache; `%{HTTPS} off` és sempre cert → redirect 301 infinit. El redirect s'ha de fer al panell/proxy de Dinahosting, NO via `.htaccess`.
+- **Auditoria 2026-09-15 (accessibilitat + responsive + seguretat)**: fixes aplicats (skip-link contrast AA, focus trap lightbox, nav hidden, fletxes mòbil, tancament lightbox amb reduced-motion) + headers de seguretat (HSTS, X-Content-Type-Options, X-Frame-Options, Referrer-Policy). **Redirect HTTP→HTTPS (fix 2026-09-17):** el primer intent amb `%{HTTPS} off` buclava perquè Apache rep HTTP intern del proxy. **Però el proxy SÍ envia `X-Forwarded-Proto`** (verificat empíricament amb un `check-headers.php`): `http` vs `https`. Solució a `static/.htaccess`: `RewriteCond %{HTTP:X-Forwarded-Proto} ^http$` → `301` a HTTPS amb `E=NO_CACHE:1` + `Header Cache-Control no-store` (evita que Varnish cachegi el 301 i el serveixi a clients HTTPS → bucle). No cal el panell de Dinahosting.
 
 **Sessió 2026-09-15 (tarda) — QA final + auditoria SEO/GEO/AEO:**
 - **QA 1:1 completada: 2.360/2.360 = 100%** (detall a la fase 6).
@@ -246,31 +246,19 @@ Script `migration/post-processa.py` (executat 2026-09-14, segona execució compl
 - **Bug Hugo detectat**: `X | trim C` executa `strings.Trim(C, X)` (ordre invertit amb el pipe) en aquesta versió → usar `strings.TrimSpace` (pipe-safe).
 - **Pendent de l'usuari (SEO):** token de verificació GSC (cap meta `google-site-verification`; cal re-verificar domini via meta tag o DNS TXT).
 
-### ⏳ PENDENT — SSL/HTTPS redirect (documentat 2026-09-15, per fer abans del 22/09/2026)
+### ✅ RESOLT — HTTP→HTTPS redirect (fix aplicat i verificat 2026-09-17)
 
-**Situació:** el certificat Let's Encrypt de `blog.pocallum.cat` va emès des del juny i funciona correctament (subject CN=blog.pocallum.cat, issuer Let's Encrypt YE1). Caduca **2026-09-22**. Des del juny juga al panell de Dinahosting com a "no activat" perquè la validació de Dinahosting requereix que la zona `@` i `www` de `pocallum.cat` apunti als seus servidors, i ara mateix `pocallum.cat` apunta a GitHub Pages.
+**Actualització 2026-09-16 (canvi d'arquitectura, confirmat per l'usuari):** `pocallum.cat` (el pare) **ja no és a GitHub Pages — migració permanent a Dinahosting**, mateix servidor que `blog.pocallum.cat`. `@`/`www` de `pocallum.cat` apunten ara a Dinahosting de forma definitiva (no és el ball temporal de DNS que preveia el pla original). Let's Encrypt acabat d'activar per a `pocallum.cat` al panell; per a `blog.pocallum.cat` ja es renovava automàticament (confirmat abans). **Cap pas de revert de DNS pendent** — els punts 1-3 i 5-7 del pla original ja no apliquen.
 
-**Estat verificat (15/09/2026):**
-- `https://blog.pocallum.cat` → HTTP/2 200, headers seguretat OK (HSTS, nosniff, X-Frame-Options, Referrer-Policy)
-- Certificat vàlid fins 22/09/2026
-- `http://blog.pocallum.cat` → 200 (no redirigeix a HTTPS — falta redirect al proxy)
-- DNS: `blog.pocallum.cat` → 82.98.166.123 (Dinahosting) · `pocallum.cat` → 185.199.108-111.153 (GitHub Pages)
+**Fix (2026-09-17):** el redirect ja està resolt via `.htaccess` usant `X-Forwarded-Proto` (verificat que el proxy de Dinahosting SÍ l'envia, amb un `check-headers.php` → HTTP: `http` / HTTPS: `https`). Regla: `RewriteCond %{HTTP:X-Forwarded-Proto} ^http$` → 301 a HTTPS, amb `E=NO_CACHE:1` + `Header Cache-Control no-store` perquè Varnish no cachegi el 301 i el serveixi a clients HTTPS (bucle). **Comprovat en producció:** `http://...` → 301 → `https://...` 200, sense bucle, i totes les cadenes de paritat (tags/categories/feed) acaben a HTTPS. **No cal activar res al panell de Dinahosting** per a aquest redirect.
 
-**Pla acordat per executar quan toqui (una sola sessió, abans del 22/09):**
-1. **BACKUP/nota:** `pocallum.cat` quedarà fora de servei durant la finestra DNS (~15-30 min, propagació).
-2. **Canvi temporal de DNS:** apuntar la zona `@` i `www` de `pocallum.cat` a la IP de Dinahosting (`82.98.166.123` o el domini del servidor `vl28359.dinaserver.com`). (A Records + AAAA a 0 per comprovar email en algun moment? Decidir al moment; mínim A.)
-3. **Activar Let's Encrypt al panell de Dinahosting** per a `blog.pocallum.cat` (ara la validació funcionarà perquè `@`/`www` apunten a Dinahosting).
-4. **Configurar la redirecció HTTP→HTTPS** al panell de Dinahosting (Forçar HTTPS) o demanar a suport que l'activin al proxy.
-5. **Tornar a apuntar `@` i `www`** de `pocallum.cat` a GitHub Pages (185.199.108.153, .109.153, .110.153, .111.153).
-6. **Verificar:**
-   - `https://blog.pocallum.cat` → 200 + certificat renovat
-   - `http://blog.pocallum.cat` → 301 → `https://`
-   - `http://pocallum.cat` → serveix GitHub Pages (200)
-   - `https://www.pocallum.cat` → GitHub Pages amb cert OK
-   - QA 1:1 del sitemap del blog
-7. **Feina de l'usuari:** tenir accés al panell DNS del registrador de `pocallum.cat` (on es gestionen els registres) i al panell de Dinahosting abans de començar.
+**Nota important:** aquest canvi és al domini/DNS del **projecte pare** (`pocallum.cat`), no d'aquest repo — es documenta aquí només perquè afecta l'estat compartit del servidor Dinahosting. Si cal actualitzar l'arquitectura descrita a `../pocallum.cat/CLAUDE.md` (que fins ara assumia GitHub Pages com a producció del pare), és feina d'una sessió al repo pare, no d'aquí.
 
-**Notes:** No cal ball de DNS per a `blog.pocallum.cat` a part (ja apunta a Dinahosting). L'ordre dins del mateix dia: fer-ho de matí per tenir marge a la propagació. Si el suport de Dinahosting pot activar el redirect del proxy sense la validació de `@`/`www`, fer això primer estalvia el canvi de DNS.
+**Estat verificat (17/09/2026):**
+- `https://blog.pocallum.cat` → HTTP/2 200, cert Let's Encrypt renovant-se automàticament
+- `https://pocallum.cat` → servit des de Dinahosting, Let's Encrypt acabat d'activar
+- `http://blog.pocallum.cat` → **301 → HTTPS (RESOLT)**
+- `http://pocallum.cat` → a verificar (probablement mateix cas pendent al pare, que comparteix proxy)
 
 ---
 
@@ -282,6 +270,7 @@ Replicar el dashboard del pare: `static/admin/index.html` autocontingut (estèti
 - **GoatCounter existent:** el blog ja té GoatCounter configurat al WordPress (`wp-admin → goatcounter-wp` → site code `pocallum-blog`; verificat directament al HTML que emet el WP: `data-goatcounter="https://pocallum-blog.goatcounter.com/count"`). **Reaprofitarem el site ja creat** (mateix codi) en lloc de crear-ne un de nou. El `hugo.toml` ja té `goatcounterSite = "pocallum-blog"` — **no canviar-lo**. Falta afegir el `GOATCOUNTER_TOKEN` al repo (secret de GitHub Actions), pendent.
 - **Implementació:** fases 4–5, un cop el tema estigui en marxa
 - **⏳ Pendent (demanat per l'usuari, 2026-09-15):** afegir al dashboard el **gràfic de visites per dia de la setmana** (i per hora del dia) — important per decidir **quin dia/hora publicar**. Cal agregar la dimensió temporal dels hits (camp `Time` del `/stats/hits` de GoatCounter) al `process-analytics.py` i pintar el gràfic a la primera pàgina del dashboard.
+- **Chart.js autonallotjat (fix 2026-09-17):** el dashboard carregava Chart.js des de `cdn.jsdelivr.net`, que el CSP (`script-src 'self' ...`, sense jsdelivr) bloquejava → els gràfics no es pintaven. Fix: `static/stats/vendor/chart.umd.min.js` (v4.4.0, SRI verificat `sha384-e6nUZLBkQ86NJ6TVVKAeSaK8jWa3NhkYWZFomE39AvDbQWeie9PlQqM3pmYW5d1g`) referenciat com a `vendor/chart.umd.min.js`. Deploy via push a `develop` (commit `1890f7dbac`). Si mai es puja el dashboard, **no tornar a apuntar a cap CDN**. El pare té el mateix problema pendent (`../pocallum.cat`).
 
 ---
 

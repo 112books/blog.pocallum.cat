@@ -11,6 +11,20 @@ ErrorDocument 404 /404.html
 <IfModule mod_rewrite.c>
   RewriteEngine On
 
+  # ── HTTP → HTTPS ──────────────────────────────────────────────────────────
+  # El proxy frontal (Varnish) envia el protocol original del client a Apache
+  # via X-Forwarded-Proto ("http" o "https"). Apache rep HTTP internament, així
+  # que %{HTTPS} no és fiable aquí. Es redirigeix quan el client ha vingut per
+  # HTTP en clar. Cache-Control: no-store (via E=NO_CACHE) evita que Varnish
+  # guardi el 301 i el serveixi a clients HTTPS → bucle infinit.
+  # (Verificat 2026-09-17: el proxy SÍ envia X-Forwarded-Proto.)
+  RewriteCond %{HTTP:X-Forwarded-Proto} ^http$
+  RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301,E=NO_CACHE:1]
+
+  <IfModule mod_headers.c>
+    Header always set Cache-Control "no-store" env=NO_CACHE
+  </IfModule>
+
   # Feed del WP: servir el RSS a /feed/ sense redirect (compatibilitat subscriptors)
   RewriteRule ^feed/?$ /feed.xml [L]
   # Feed de comentaris del WP → feed principal
@@ -34,12 +48,7 @@ ErrorDocument 404 /404.html
   RewriteRule ^categories/(.+)$ /category/$1 [R=301,L]
 </IfModule>
 
-# ── HTTP → HTTPS ────────────────────────────────────────────────────────────
-# NOTA: el redirect s'ha de configurar al panell de Dinahosting
-# (o demanar a l'equip que activi "Forçar HTTPS"). Dinahosting usa proxy
-# frontal que no envia X-Forwarded-Proto a Apache, així que el
-# RewriteCond %{HTTPS} off bucle (proxy → Apache → redirect → proxy → ...).
-# El site ja funciona a HTTPS; això només falta la redirecció automàtica.
+
 
 # ── Headers de seguretat ────────────────────────────────────────────────────
 <IfModule mod_headers.c>
@@ -51,4 +60,12 @@ ErrorDocument 404 /404.html
   Header always set X-Frame-Options "DENY"
   # Referrer mínim a tercers
   Header always set Referrer-Policy "strict-origin-when-cross-origin"
+  # CSP: 'unsafe-inline' a script/style perquè el JSON-LD i els scripts
+  # d'Hugo són inline sense nonce (site estàtic, sense build per petició).
+  # 'wasm-unsafe-eval' + worker-src: Pagefind (cerca) usa WebAssembly + worker.
+  # img-src ample: 15 anys de posts amb imatges hotlinkejades a wordpress.com,
+  # ggpht.com, wikimedia, etc. a més de lh*.googleusercontent.com (Google Fotos).
+  Header always set Content-Security-Policy "default-src 'self'; script-src 'self' 'unsafe-inline' 'wasm-unsafe-eval' https://gc.zgo.at https://giscus.app; style-src 'self' 'unsafe-inline'; img-src 'self' https: data:; font-src 'self' data:; connect-src 'self' https://*.goatcounter.com; frame-src https://player.vimeo.com https://giscus.app; worker-src 'self'; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'; upgrade-insecure-requests"
+  # Cap ús de càmera/micro/geolocalització/pagaments al lloc
+  Header always set Permissions-Policy "geolocation=(), microphone=(), camera=(), payment=(), usb=(), magnetometer=(), gyroscope=(), accelerometer=(), interest-cohort=()"
 </IfModule>

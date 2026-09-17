@@ -1,10 +1,10 @@
 {
-  "generated": "2026-09-16T13:30:57.810371Z",
+  "generated": "2026-09-17T20:21:14.801671Z",
   "period": {
-    "start": "2025-09-16",
-    "end": "2026-09-16"
+    "start": "2025-09-17",
+    "end": "2026-09-17"
   },
-  "total": 1247,
+  "total": 1273,
   "total_unique": 0,
   "hits_by_day": [
     {
@@ -286,12 +286,16 @@
     {
       "date": "2026-09-15",
       "count": 42
+    },
+    {
+      "date": "2026-09-16",
+      "count": 26
     }
   ],
   "hits": [
     {
       "path": "/",
-      "count": 155
+      "count": 162
     },
     {
       "path": "/2026/07/11/2026-07-11-prospe-beach-again",
@@ -299,31 +303,35 @@
     },
     {
       "path": "/2026/07/26/2026-07-25-una-jornada-amb-els-barcelona-gipsy-balkan-orchestra",
-      "count": 39
+      "count": 41
     },
     {
       "path": "/2026/08/19/2026-08-18-isadora-passos-suspensio-capilar",
       "count": 28
     },
     {
+      "path": "/cerca",
+      "count": 17
+    },
+    {
+      "path": "/2026/09/07/2026-09-06-festival-masimas-2026-el-parallel-oblidat-recordant-a-merche-mar",
+      "count": 15
+    },
+    {
       "path": "/2026/07/06/2026-07-05-24e-festival-de-blues-de-barcelona-jam-session-de-clausura",
       "count": 15
     },
     {
-      "path": "/cerca",
+      "path": "/2026/07/31/2026-07-30-primeres-proves-per-al-repte-retrats-lents-de-112-revelats",
       "count": 14
-    },
-    {
-      "path": "/2026/09/07/2026-09-06-festival-masimas-2026-el-parallel-oblidat-recordant-a-merche-mar",
-      "count": 13
     },
     {
       "path": "/2026/08/19/2026-08-18-despedida-anike-lamoso",
       "count": 13
     },
     {
-      "path": "/2026/07/31/2026-07-30-primeres-proves-per-al-repte-retrats-lents-de-112-revelats",
-      "count": 13
+      "path": "/2026/09/01/2026-08-26-aiguestortes-de-dellui-a-lestany-llong-fugint-de-la-calor-estival",
+      "count": 12
     },
     {
       "path": "/aviso-legal",
@@ -334,15 +342,11 @@
       "count": 12
     },
     {
-      "path": "/2026/09/01/2026-08-26-aiguestortes-de-dellui-a-lestany-llong-fugint-de-la-calor-estival",
-      "count": 11
+      "path": "/contact",
+      "count": 10
     },
     {
       "path": "/2026/09/06/visa-pour-limage-2026-una-jornada-de-fotoperiodisme-a-perpinya",
-      "count": 9
-    },
-    {
-      "path": "/contact",
       "count": 9
     },
     {
@@ -358,6 +362,10 @@
       "count": 9
     },
     {
+      "path": "/blog.pocallum.cat",
+      "count": 8
+    },
+    {
       "path": "/2026/08/15/2026-08-12-laura-a-32-oc",
       "count": 8
     },
@@ -370,12 +378,8 @@
       "count": 8
     },
     {
-      "path": "/blog.pocallum.cat",
-      "count": 7
-    },
-    {
       "path": "/about",
-      "count": 7
+      "count": 8
     },
     {
       "path": "/2026/06/28/2026-06-27-44a-la-cultura-va-de-festa",
@@ -470,6 +474,10 @@
       "count": 4
     },
     {
+      "path": "/2026/05/30/2026-05-29-la-juganera-a-la-nau-bostik",
+      "count": 4
+    },
+    {
       "path": "/2012/12/07/lomo-9765-pentax-k1000-lomography-color-800-i",
       "count": 4
     },
@@ -478,28 +486,24 @@
       "count": 4
     },
     {
+      "path": "/tag/festa-major-prosperitat-2026",
+      "count": 3
+    },
+    {
       "path": "/2026/09/04/2026-08-22-te-v-1009",
-      "count": 3
-    },
-    {
-      "path": "/?query-0-page=3",
-      "count": 3
-    },
-    {
-      "path": "/?query-0-page=165",
       "count": 3
     }
   ],
   "by_section": {
-    "inici": 155,
-    "posts": 530,
-    "cerca": 14,
+    "inici": 162,
+    "posts": 538,
+    "cerca": 17,
     "aviso-legal": 12,
-    "contact": 9,
+    "contact": 10,
     "?query-0-page=2": 9,
+    "blog.pocallum.cat": 23,
     "category": 169,
-    "blog.pocallum.cat": 22,
-    "about": 7,
+    "about": 8,
     "?query-0-page=10": 5,
     "?query-0-page=191": 5,
     "?query-0-page=188": 5,
@@ -510,7 +514,7 @@
     "?query-0-page=189": 5,
     "?query-0-page=25": 4,
     "en-us": 4,
-    "tag": 61,
+    "tag": 64,
     "politica-de-cookies": 4,
     "?query-0-page=3": 3,
     "?query-0-page=165": 3,
@@ -552,9 +556,10 @@
     "?query-0-page=13": 2,
     "?query-0-page=16": 2,
     "?query-0-page=9": 2,
+    "page": 18,
+    "blog": 1,
     "test-diagnostic-claude": 1,
     "arxiu": 2,
-    "page": 17,
     "?s=Boi": 1,
     "?s=Taull": 1,
     "?s=Barcelona+Blues+Festival": 1,
@@ -656,35 +661,35 @@
     },
     {
       "path": "/2026/07/26/2026-07-25-una-jornada-amb-els-barcelona-gipsy-balkan-orchestra",
-      "count": 39
+      "count": 41
     },
     {
       "path": "/2026/08/19/2026-08-18-isadora-passos-suspensio-capilar",
       "count": 28
     },
     {
+      "path": "/2026/09/07/2026-09-06-festival-masimas-2026-el-parallel-oblidat-recordant-a-merche-mar",
+      "count": 15
+    },
+    {
       "path": "/2026/07/06/2026-07-05-24e-festival-de-blues-de-barcelona-jam-session-de-clausura",
       "count": 15
     },
     {
-      "path": "/2026/09/07/2026-09-06-festival-masimas-2026-el-parallel-oblidat-recordant-a-merche-mar",
-      "count": 13
+      "path": "/2026/07/31/2026-07-30-primeres-proves-per-al-repte-retrats-lents-de-112-revelats",
+      "count": 14
     },
     {
       "path": "/2026/08/19/2026-08-18-despedida-anike-lamoso",
       "count": 13
     },
     {
-      "path": "/2026/07/31/2026-07-30-primeres-proves-per-al-repte-retrats-lents-de-112-revelats",
-      "count": 13
+      "path": "/2026/09/01/2026-08-26-aiguestortes-de-dellui-a-lestany-llong-fugint-de-la-calor-estival",
+      "count": 12
     },
     {
       "path": "/2026/07/06/2026-07-04-24e-festival-de-blues-de-barcelona",
       "count": 12
-    },
-    {
-      "path": "/2026/09/01/2026-08-26-aiguestortes-de-dellui-a-lestany-llong-fugint-de-la-calor-estival",
-      "count": 11
     },
     {
       "path": "/2026/09/06/visa-pour-limage-2026-una-jornada-de-fotoperiodisme-a-perpinya",
@@ -715,12 +720,12 @@
     {
       "name": "Chrome",
       "id": "Chrome",
-      "count": 977
+      "count": 986
     },
     {
       "name": "Safari",
       "id": "Safari",
-      "count": 198
+      "count": 208
     },
     {
       "name": "Firefox",
@@ -742,39 +747,39 @@
     {
       "name": "macOS",
       "id": "macOS",
-      "count": 393
+      "count": 406
     },
     {
       "name": "Android",
       "id": "Android",
-      "count": 179
+      "count": 181
     },
     {
       "name": "iOS",
       "id": "iOS",
-      "count": 156
+      "count": 159
     },
     {
       "name": "Windows",
       "id": "Windows",
-      "count": 106
+      "count": 107
     }
   ],
   "sizes": [
     {
       "name": "desktop",
       "id": "desktop",
-      "count": 722
+      "count": 734
     },
     {
       "name": "phone",
       "id": "phone",
-      "count": 323
+      "count": 328
     },
     {
       "name": "desktophd",
       "id": "desktophd",
-      "count": 202
+      "count": 204
     },
     {
       "name": "tablet",
@@ -791,7 +796,7 @@
     {
       "name": "Spain",
       "id": "ES",
-      "count": 662
+      "count": 678
     },
     {
       "name": "United States",
@@ -811,7 +816,7 @@
     {
       "name": "Brazil",
       "id": "BR",
-      "count": 13
+      "count": 15
     },
     {
       "name": "Germany",
@@ -821,7 +826,7 @@
     {
       "name": "France",
       "id": "FR",
-      "count": 10
+      "count": 11
     },
     {
       "name": "Indonesia",
@@ -868,7 +873,7 @@
     {
       "name": "Desconegut",
       "id": "Desconegut",
-      "count": 708
+      "count": 715
     },
     {
       "name": "www.9barrisimatge.org",
@@ -878,7 +883,7 @@
     {
       "name": "Google",
       "id": "Google",
-      "count": 63
+      "count": 64
     },
     {
       "name": "www.facebook.com",
@@ -888,7 +893,7 @@
     {
       "name": "pocallum.cat",
       "id": "pocallum.cat",
-      "count": 9
+      "count": 10
     },
     {
       "name": "l.instagram.com",
