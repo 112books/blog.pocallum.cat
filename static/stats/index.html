@@ -393,6 +393,11 @@
       </div>
       <div class="chart-wrap"><canvas id="chart-canvas" role="img" aria-label="Gràfic de visites per període"></canvas></div>
       <div class="chart-summary" id="chart-summary"></div>
+
+      <h2 class="section-title">Visites per dia de la setmana</h2>
+      <div id="weekdays-wrap" class="bars"></div>
+      <div class="chart-summary" id="weekdays-summary"></div>
+
       <div id="insight-temporal" class="insight" style="display:none">
         <span class="label">// observació</span>
         <div id="insight-temporal-body"></div>
@@ -535,6 +540,7 @@ function renderAll(data) {
   renderDevices(data);
   renderBrowsersSystems(data);
   renderInsightTemporal(data);
+  renderWeekdays(data);
   renderInsightPagines(data);
   renderInsightDispositius(data);
 
@@ -732,6 +738,25 @@ function renderInsightTemporal(data) {
     total30 > 0 ? 'Aquest mes: <em>' + fmt(total30) + ' visites</em> en 30 dies.' : '',
   ].filter(Boolean);
   showInsight('temporal', lines);
+}
+
+/* ══ DIES DE LA SETMANA ═══════════════════════════════════════ */
+function renderWeekdays(data) {
+  const NAMES  = ['Diumenge','Dilluns','Dimarts','Dimecres','Dijous','Divendres','Dissabte'];
+  const buckets = [0,0,0,0,0,0,0];
+  (data.hits_by_day || []).forEach(d => {
+    if (!d || !d.date) return;
+    const wd = new Date(d.date + 'T12:00:00').getDay();
+    buckets[wd] += d.count || 0;
+  });
+  const order = [1,2,3,4,5,6,0];           // Dilluns → Diumenge
+  const items = order.map(wd => ({ name: NAMES[wd], count: buckets[wd] }));
+  renderBars('weekdays-wrap', items);
+  const total = items.reduce((s,i) => s + i.count, 0);
+  document.getElementById('weekdays-summary').innerHTML =
+    total > 0
+      ? 'Total: <strong>' + fmt(total) + '</strong> · Mitjana/dia: <strong>' + fmt(Math.round(total/7)) + '</strong>'
+      : 'Encara no hi ha prou dades.';
 }
 
 function renderInsightPagines(data) {
