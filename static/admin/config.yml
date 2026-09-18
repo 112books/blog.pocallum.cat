@@ -119,6 +119,8 @@ collections:
     create: true
     sortable_fields: ["date", "title"]
     sortable_field: "date"
+    thumbnail_field: thumbnail
+    summary: "{{thumbnail}} {{title}}"
     path: "{{year}}-{{month}}-{{day}}-{{slug}}"
     preview_path: "{{year}}/{{month}}/{{day}}/{{slug}}"
     fields:
