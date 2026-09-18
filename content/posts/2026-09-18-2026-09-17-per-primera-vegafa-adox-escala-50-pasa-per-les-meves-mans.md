@@ -5,6 +5,7 @@ slug: ''
 description: 'Provo l’ADOX SCALA 50 com a negatiu: ISO 50, revelat manual durant 11 minuts i propera prova amb Rodinal. Experiments de fotografia analògica.'
 categories:
   - leica-m4-2
+  - leica-summicron-m-50mmf-2-0
 tags:
   - Test
   - ADOX
