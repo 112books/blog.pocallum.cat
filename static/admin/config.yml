@@ -2,6 +2,7 @@ backend:
   name: github
   repo: 112books/blog.pocallum.cat
   branch: develop
+  app_id: Ov23litV55M1TEQIQJk1
 
 # Media folder per a uploads del CMS (NO static/uploads/, que és gitignored per al development local)
 media_folder: "static/media"
