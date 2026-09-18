@@ -19,13 +19,14 @@
     {{ range .Pages.GroupByDate "1" }}{{ $mesos = merge $mesos (dict .Key (printf "%d" (len .Pages))) }}{{ end }}
     <section class="tunel__capa" aria-label="Arxiu de {{ $year }}">
       <div class="tunel__cap">
-        <span class="{{ if $primer.Params.thumbnail }}tunel__any{{ else }}tunel__placeholder{{ end }}">{{ $year }}</span>
+        <span class="{{ if or $primer.Params.thumbnail $primer.Params.image }}tunel__any{{ else }}tunel__placeholder{{ end }}">{{ $year }}</span>
         <span class="tunel__count">{{ len .Pages }} posts</span>
       </div>
       <div class="tunel__cos">
-        {{ if $primer.Params.thumbnail }}
+        {{ $arxiuImg := or $primer.Params.thumbnail $primer.Params.image }}
+        {{ if $arxiuImg }}
         <a class="tunel__foto" href="{{ "arxiu/" | relURL }}{{ $year }}/" aria-label="Obrir l&#39;arxiu de {{ $year }}">
-          {{ partial "img.html" (dict "src" $primer.Params.thumbnail "alt" "" "loading" "lazy" "variant" "thumb") }}
+          {{ partial "img.html" (dict "src" $arxiuImg "alt" "" "loading" "lazy" "variant" "thumb") }}
         </a>
         {{ end }}
         <ul class="tunel__mesos">

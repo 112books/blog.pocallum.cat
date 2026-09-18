@@ -114,6 +114,8 @@ collections:
   - name: "posts"
     label: "Posts"
     folder: "content/posts"
+    media_folder: "/static/media"
+    public_folder: "/media"
     create: true
     sortable_fields: ["date", "title"]
     sortable_field: "date"
@@ -126,7 +128,7 @@ collections:
       - { label: "Descripció SEO", name: "description", widget: "string", hint: "Màx. 155 caràcters per a Google", required: false }
       - { label: "Categories", name: "categories", widget: "relation", collection: "categories", value_field: "valor", search_fields: ["title", "valor"], display_fields: ["title"], multiple: true, required: false, hint: "Selecciona de la llista o crea una de nova a l'apartat Categories" }
       - { label: "Tags", name: "tags", widget: "list", allow_add: true, required: false }
-      - { label: "Miniatura", name: "thumbnail", widget: "image", required: false, hint: "Arrossega o selecciona — per als llistats (portada, cerques)" }
+      - { label: "Miniatura", name: "thumbnail", widget: "image", required: false, hint: "Opcional — si es deixa buit s'usa la imatge principal als llistats" }
       - { label: "Imatge principal", name: "image", widget: "image", required: false, hint: "Arrossega o selecciona — imatge de capçalera del post" }
       - { label: "URL àlbum (Google Fotos, etc.)", name: "album_url", widget: "string", required: false, hint: "Opcional — enllaç a l'àlbum complet de fotos" }
       - { label: "Draft", name: "draft", widget: "boolean", default: false }

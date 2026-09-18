@@ -1035,8 +1035,8 @@ h1, h2, h3, h4 {
   border-top: 1px solid var(--line);
   padding: var(--space-16) 0;
 }
-.giscus-wrap .container--narrow {
-  padding-inline: var(--space-8);
+.giscus-wrap iframe {
+  border: none;
 }
 
 /* ── Tira de navegació entre posts (estil Netflix) ─────────────────────────── */

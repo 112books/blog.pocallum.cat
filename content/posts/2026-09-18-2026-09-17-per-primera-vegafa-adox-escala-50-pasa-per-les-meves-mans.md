@@ -11,8 +11,8 @@ tags:
   - ADOX-SCALA-50
   - blanc i negre
   - lab
-thumbnail: ''
-image: 2026-09-17 - LM4-2 - ADOX-SCALA50 - BAsket beat + Mabe - 0018.jpg
+thumbnail: /media/2026-09-17-LM4-2-ADOX-SCALA50-0018.jpg
+image: /media/2026-09-17-LM4-2-ADOX-SCALA50-0018.jpg
 album_url: https://photos.app.goo.gl/bwY9XbNu3CpPcbRy6
 draft: false
 noindex: false
