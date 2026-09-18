@@ -2,7 +2,7 @@
 title: 2026-09-17 - Provant l’ADOX SCALA 50
 date: 2026-09-18T0:00:00+02:00
 slug: ''
-description: ''
+description: 'Provo l’ADOX SCALA 50 com a negatiu: ISO 50, revelat manual durant 11 minuts i propera prova amb Rodinal. Experiments de fotografia analògica.'
 categories:
   - leica-m4-2
 tags:
@@ -16,7 +16,7 @@ image: 2026-09-17 - LM4-2 - ADOX-SCALA50 - BAsket beat + Mabe - 0018.jpg
 album_url: https://photos.app.goo.gl/bwY9XbNu3CpPcbRy6
 draft: false
 noindex: false
-title-seo: ''
+title-seo: 'ADOX SCALA 50: prova i revelat com a pel·lícula negativa'
 author: Pocallum
 ---
 
