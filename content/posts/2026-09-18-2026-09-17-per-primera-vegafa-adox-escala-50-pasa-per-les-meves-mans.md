@@ -5,6 +5,7 @@ slug: ''
 description: 'Provo l’ADOX SCALA 50 com a negatiu: ISO 50, revelat manual durant 11 minuts i propera prova amb Rodinal. Experiments de fotografia analògica.'
 categories:
   - leica-m4-2
+  - leica-summicron-m-50mmf-2-0
 tags:
   - Test
   - ADOX
@@ -19,6 +20,8 @@ noindex: false
 title-seo: 'ADOX SCALA 50: prova i revelat com a pel·lícula negativa'
 author: Pocallum
 ---
+
+[![Mabe posant per la prova amb la pel·licula ADOX SCALA 50](/media/2026-09-17-LM4-2-ADOX-SCALA50-0018.jpg "Mabe posant per la prova amb la pel·licula ADOX SCALA 50")](https://photos.app.goo.gl/bwY9XbNu3CpPcbRy6)
 
 Aquesta setmana m’ha arribat una comanda de material fotogràfic del meu proveïdor habitual. Hi havia incloses unes poques pel·lícules ADOX SCALA 50, per veure què tal. Volia provar-la, però no pas per utilitzar-la amb la seva peculiaritat de _reversal_, que permet obtenir-ne un positiu directament, sinó perquè ADOX és una marca que m’agrada i, normalment, les seves pel·lícules donen un gra que trobo fantàstic. També m’agraden especialment el contrast i els negres profunds que ofereixen.
 
