@@ -1,10 +1,10 @@
 {
-  "generated": "2026-09-17T23:34:05.565724Z",
+  "generated": "2026-09-18T04:44:43.134624Z",
   "period": {
-    "start": "2025-09-17",
-    "end": "2026-09-17"
+    "start": "2025-09-18",
+    "end": "2026-09-18"
   },
-  "total": 1273,
+  "total": 1291,
   "total_unique": 0,
   "hits_by_day": [
     {
@@ -290,12 +290,20 @@
     {
       "date": "2026-09-16",
       "count": 26
+    },
+    {
+      "date": "2026-09-17",
+      "count": 11
+    },
+    {
+      "date": "2026-09-18",
+      "count": 7
     }
   ],
   "hits": [
     {
       "path": "/",
-      "count": 162
+      "count": 167
     },
     {
       "path": "/2026/07/11/2026-07-11-prospe-beach-again",
@@ -311,10 +319,14 @@
     },
     {
       "path": "/cerca",
-      "count": 17
+      "count": 18
     },
     {
       "path": "/2026/09/07/2026-09-06-festival-masimas-2026-el-parallel-oblidat-recordant-a-merche-mar",
+      "count": 15
+    },
+    {
+      "path": "/2026/08/19/2026-08-18-despedida-anike-lamoso",
       "count": 15
     },
     {
@@ -324,10 +336,6 @@
     {
       "path": "/2026/07/31/2026-07-30-primeres-proves-per-al-repte-retrats-lents-de-112-revelats",
       "count": 14
-    },
-    {
-      "path": "/2026/08/19/2026-08-18-despedida-anike-lamoso",
-      "count": 13
     },
     {
       "path": "/2026/09/01/2026-08-26-aiguestortes-de-dellui-a-lestany-llong-fugint-de-la-calor-estival",
@@ -343,7 +351,7 @@
     },
     {
       "path": "/contact",
-      "count": 10
+      "count": 11
     },
     {
       "path": "/2026/09/06/visa-pour-limage-2026-una-jornada-de-fotoperiodisme-a-perpinya",
@@ -384,6 +392,10 @@
     {
       "path": "/2026/06/28/2026-06-27-44a-la-cultura-va-de-festa",
       "count": 7
+    },
+    {
+      "path": "/2026/09/10/2026-08-24a28-escapada-a-taull",
+      "count": 6
     },
     {
       "path": "/2026/09/04/2026-09-04-lanomala",
@@ -446,10 +458,6 @@
       "count": 5
     },
     {
-      "path": "/2026/09/10/2026-08-24a28-escapada-a-taull",
-      "count": 4
-    },
-    {
       "path": "/2025/09/17/2025-08-26-28-aiguestortes-amb-fotografia-analogica",
       "count": 4
     },
@@ -495,14 +503,14 @@
     }
   ],
   "by_section": {
-    "inici": 162,
-    "posts": 538,
-    "cerca": 17,
+    "inici": 167,
+    "posts": 548,
+    "cerca": 18,
     "aviso-legal": 12,
-    "contact": 10,
+    "contact": 11,
     "?query-0-page=2": 9,
     "blog.pocallum.cat": 23,
-    "category": 169,
+    "category": 170,
     "about": 8,
     "?query-0-page=10": 5,
     "?query-0-page=191": 5,
@@ -672,16 +680,16 @@
       "count": 15
     },
     {
+      "path": "/2026/08/19/2026-08-18-despedida-anike-lamoso",
+      "count": 15
+    },
+    {
       "path": "/2026/07/06/2026-07-05-24e-festival-de-blues-de-barcelona-jam-session-de-clausura",
       "count": 15
     },
     {
       "path": "/2026/07/31/2026-07-30-primeres-proves-per-al-repte-retrats-lents-de-112-revelats",
       "count": 14
-    },
-    {
-      "path": "/2026/08/19/2026-08-18-despedida-anike-lamoso",
-      "count": 13
     },
     {
       "path": "/2026/09/01/2026-08-26-aiguestortes-de-dellui-a-lestany-llong-fugint-de-la-calor-estival",
@@ -873,7 +881,7 @@
     {
       "name": "Desconegut",
       "id": "Desconegut",
-      "count": 715
+      "count": 720
     },
     {
       "name": "www.9barrisimatge.org",
@@ -883,7 +891,7 @@
     {
       "name": "Google",
       "id": "Google",
-      "count": 64
+      "count": 66
     },
     {
       "name": "www.facebook.com",
