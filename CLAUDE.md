@@ -223,7 +223,7 @@ Script `migration/post-processa.py` (executat 2026-09-14, segona execució compl
 5. ✅ **Pàgines fixes** — About, Contacte, Cerca implementades. Avís Legal, Privacitat i Cookies: frontmatter creat, contingut legal pendent.
 6. ✅ **QA** — `scripts/qa-urls.py` (2026-09-15): primera passada 2.360 URLs, 9 Hugo 404 per interpunt `·` (slugs percent-encoded `%c2%b7` al frontmatter — desxifrats al caràcter real, commit `bce1b88bd`; l'script ara percent-encoda els paths). **Passada final: 2.360/2.360 = 100%** local vs producció.
 7. ✅ **SEO** — partial `seo.html` centralitzat (robots, description truncada 155, OG, Twitter, JSON-LD dict+safeJS). Meta descriptions Yoast injectades (271 posts). Title-seo injectat (130 posts). Verificat amb json.loads a tots els posts. Commit `9ec8e8258`.
-8. ⏳ **CMS** — Sveltia CMS per publicació remota (single user). Vegeu § Pla CMS.
+8. ✅ **CMS** (2026-09-18) — Sveltia CMS operatiu a staging i producció (login GitHub via GitHub App, `app_id` configurat). Vegeu § Pla CMS.
 9. ✅ **Deploy** (2026-09-15) — pujar el `public/` del Hugo al docroot de Dinahosting (`~/www/blog/`), substituint el WordPress però **mantenint `wp-content/uploads`** (les imatges no es mouen). **FET: producció 100% verificat (25/25 URLs reals del sitemap → 200; 2.353 posts, 94 categories, 3.021 tags).** El WordPress queda congelat online fins a l'apagat acordat.
 
 **Sessió 2026-09-15 — afegits:**
@@ -341,14 +341,26 @@ Objectiu: publicar posts des de qualsevol dispositiu (mòbil inclòs) sense acce
 **GoatCounter — 1 secret (pendent):**
 - `GOATCOUNTER_TOKEN` — token d'API de GoatCounter (per al dashboard d'estadístiques)
 
-### GitHub OAuth App (pendent de crear)
+### GitHub App per l'OAuth (creada — 2026-09-18)
 
-1. Anar a `github.com/settings/developers` → OAuth Apps → New OAuth App
-2. Application name: `blog.pocallum.cat`
-3. Homepage URL: `https://blog.pocallum.cat/`
-4. Authorization callback URL: `https://112books.github.io/blog.pocallum.cat/admin/` (staging) — actualitzar a `https://blog.pocallum.cat/admin/` un cop desplegat a producció
-5. Guardar el **Client ID** i generar un **Client Secret**
-6. Afegir-los al repo: Settings → Secrets → `OAUTH_CLIENT_ID` i `OAUTH_CLIENT_SECRET` (si Sveltia ho requereix; en cas contrari, Sveltia demana el client ID a l'login)
+És una **GitHub App** (no OAuth App clàssica) — Client ID `Ov23litV55M1TEQIQJk1`, admet **múltiples Redirect URLs** alhora (avantatge sobre OAuth App clàssica, que només n'admet una). Redirect URLs configurades: staging (`https://112books.github.io/blog.pocallum.cat/admin/`) i producció (`https://blog.pocallum.cat/admin/`), totes dues actives simultàniament.
+
+Secrets `OAUTH_CLIENT_ID`/`OAUTH_CLIENT_SECRET` existeixen al repo (creats 15/09) però **no s'usen** — Sveltia amb backend `github` + auth PKCE no necessita servidor d'intercanvi de token (GitHub suporta PKCE per apps client-side). El Client ID va directament al `config.yml` (públic, no secret).
+
+**Fix aplicat (2026-09-18) — `/admin/` no funcionava, 2 causes:**
+1. **CSP de producció** (`static/.htaccess`, afegit a l'auditoria de seguretat del 16/09) bloquejava `script-src` cap a `unpkg.com` → pàgina en blanc a Dinahosting. Staging (GitHub Pages) no té `.htaccess`, no li afectava.
+2. **`config.yml` sense `app_id`** → Sveltia no mostrava el botó de login GitHub, només l'opció de token manual.
+
+Solució: `sveltia-cms.js` autoallotjat a `static/admin/vendor/` (2 MB, mateix criteri que Chart.js — mai apuntar a CDN, veure nota SSL/stats més amunt) + CSP propi per `/admin/` a `static/admin/.htaccess` (permet `api.github.com`, `github.com` per OAuth, fonts `cdn.jsdelivr.net` del CMS, sense afluixar el CSP del lloc principal) + `app_id: Ov23litV55M1TEQIQJk1` a `config.yml`. Commit `b0d2c7be85`, desplegat i verificat a staging i producció (curl: script 200, `app_id` present, CSP escopejat correcte a `/admin/`).
+
+**Fix aplicat (2026-09-18, sessió tarda) — primer post real des del CMS, 3 problemes:**
+1. **Camp URL d'àlbum absent.** Afegit `album_url` (opcional) al collection `posts` de `config.yml` + render a `themes/blog/layouts/_default/single.html` (link "Veure l'àlbum complet →" sota la data, només si s'omple).
+2. **Error "Couldn't load the catalan translation. Please try again later."** Causa: la interfície de Sveltia carrega els strings d'idioma dinàmicament via `fetch` a `https://unpkg.com/@sveltia/cms@versió/locales/<idioma>.json`; `unpkg.com` no era a `connect-src` del CSP de `static/admin/.htaccess` → bloquejat. Afegit `https://unpkg.com` al `connect-src`. El català (`ca`) ja és una de les llengües suportades pel bundle — no calia cap altre canvi, ni camp d'idioma als posts (el blog és mono-idioma i aquest error és de la UI del CMS, no del contingut).
+3. **404 al preview de producció.** El post tenia `draft: true` — ni `deploy-staging.yml` ni `deploy-produccio.yml` fan `hugo -D`, així que els drafts no es publiquen enlloc (comportament correcte). Cal desmarcar "Draft" al CMS per publicar de veritat.
+
+Efecte secundari detectat (no arreglat automàticament, informat a l'usuari): si s'escriu la data manualment dins el `title` (hàbit del WordPress) mentre el camp `date` queda a la data de creació, el `slug` acaba amb data duplicada al nom de fitxer. No cal escriure la data al títol — Hugo ja la genera a la URL des del camp `date` (`[permalinks] posts = "/:year/:month/:day/:slug/"`).
+
+Commit `1206143a59`, rebase sobre commits del bot CMS (`d845aa18cc`, `ae0932a465`), push `ae0932a465..6c526bda03` a `develop` (desplegament automàtic staging + producció, confirmat per l'usuari abans del push).
 
 ### Configuració del CMS (config.yml)
 

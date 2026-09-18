@@ -2,6 +2,7 @@ backend:
   name: github
   repo: 112books/blog.pocallum.cat
   branch: develop
+  app_id: Ov23litV55M1TEQIQJk1
 
 # Media folder per a uploads del CMS (NO static/uploads/, que és gitignored per al development local)
 media_folder: "static/media"
@@ -127,6 +128,7 @@ collections:
       - { label: "Tags", name: "tags", widget: "list", allow_add: true, required: false }
       - { label: "Miniatura", name: "thumbnail", widget: "image", required: false, hint: "Arrossega o selecciona — per als llistats (portada, cerques)" }
       - { label: "Imatge principal", name: "image", widget: "image", required: false, hint: "Arrossega o selecciona — imatge de capçalera del post" }
+      - { label: "URL àlbum (Google Fotos, etc.)", name: "album_url", widget: "string", required: false, hint: "Opcional — enllaç a l'àlbum complet de fotos" }
       - { label: "Draft", name: "draft", widget: "boolean", default: false }
       - { label: "No indexar", name: "noindex", widget: "boolean", default: false }
       - { label: "Títol SEO", name: "title-seo", widget: "string", required: false, hint: "Títol alternatiu per a Google (si diferent del visible)" }

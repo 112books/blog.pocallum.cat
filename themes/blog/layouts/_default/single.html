@@ -36,6 +36,9 @@
           <span>· {{ delimit . ", " ", " }}</span>
         {{ end }}
       </div>
+      {{ with .Params.album_url }}
+      <p class="page-album"><a href="{{ . }}" target="_blank" rel="noopener">Veure l'àlbum complet →</a></p>
+      {{ end }}
     </div>
   </header>
 
