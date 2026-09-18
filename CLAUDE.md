@@ -353,6 +353,15 @@ Secrets `OAUTH_CLIENT_ID`/`OAUTH_CLIENT_SECRET` existeixen al repo (creats 15/09
 
 Solució: `sveltia-cms.js` autoallotjat a `static/admin/vendor/` (2 MB, mateix criteri que Chart.js — mai apuntar a CDN, veure nota SSL/stats més amunt) + CSP propi per `/admin/` a `static/admin/.htaccess` (permet `api.github.com`, `github.com` per OAuth, fonts `cdn.jsdelivr.net` del CMS, sense afluixar el CSP del lloc principal) + `app_id: Ov23litV55M1TEQIQJk1` a `config.yml`. Commit `b0d2c7be85`, desplegat i verificat a staging i producció (curl: script 200, `app_id` present, CSP escopejat correcte a `/admin/`).
 
+**Fix aplicat (2026-09-18, sessió tarda) — primer post real des del CMS, 3 problemes:**
+1. **Camp URL d'àlbum absent.** Afegit `album_url` (opcional) al collection `posts` de `config.yml` + render a `themes/blog/layouts/_default/single.html` (link "Veure l'àlbum complet →" sota la data, només si s'omple).
+2. **Error "Couldn't load the catalan translation. Please try again later."** Causa: la interfície de Sveltia carrega els strings d'idioma dinàmicament via `fetch` a `https://unpkg.com/@sveltia/cms@versió/locales/<idioma>.json`; `unpkg.com` no era a `connect-src` del CSP de `static/admin/.htaccess` → bloquejat. Afegit `https://unpkg.com` al `connect-src`. El català (`ca`) ja és una de les llengües suportades pel bundle — no calia cap altre canvi, ni camp d'idioma als posts (el blog és mono-idioma i aquest error és de la UI del CMS, no del contingut).
+3. **404 al preview de producció.** El post tenia `draft: true` — ni `deploy-staging.yml` ni `deploy-produccio.yml` fan `hugo -D`, així que els drafts no es publiquen enlloc (comportament correcte). Cal desmarcar "Draft" al CMS per publicar de veritat.
+
+Efecte secundari detectat (no arreglat automàticament, informat a l'usuari): si s'escriu la data manualment dins el `title` (hàbit del WordPress) mentre el camp `date` queda a la data de creació, el `slug` acaba amb data duplicada al nom de fitxer. No cal escriure la data al títol — Hugo ja la genera a la URL des del camp `date` (`[permalinks] posts = "/:year/:month/:day/:slug/"`).
+
+Commit `1206143a59`, rebase sobre commits del bot CMS (`d845aa18cc`, `ae0932a465`), push `ae0932a465..6c526bda03` a `develop` (desplegament automàtic staging + producció, confirmat per l'usuari abans del push).
+
 ### Configuració del CMS (config.yml)
 
 ```yaml
