@@ -13,7 +13,7 @@ tags:
   - lab
 thumbnail: ''
 image: 2026-09-17 - LM4-2 - ADOX-SCALA50 - BAsket beat + Mabe - 0018.jpg
-draft: true
+draft: false
 noindex: false
 title-seo: ''
 author: Pocallum
