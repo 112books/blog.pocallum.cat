@@ -20,6 +20,8 @@ title-seo: 'ADOX SCALA 50: prova i revelat com a pel·lícula negativa'
 author: Pocallum
 ---
 
+[![Mabe posant per la prova amb la pel·licula ADOX SCALA 50](/media/2026-09-17-LM4-2-ADOX-SCALA50-0018.jpg "Mabe posant per la prova amb la pel·licula ADOX SCALA 50")](https://photos.app.goo.gl/bwY9XbNu3CpPcbRy6)
+
 Aquesta setmana m’ha arribat una comanda de material fotogràfic del meu proveïdor habitual. Hi havia incloses unes poques pel·lícules ADOX SCALA 50, per veure què tal. Volia provar-la, però no pas per utilitzar-la amb la seva peculiaritat de _reversal_, que permet obtenir-ne un positiu directament, sinó perquè ADOX és una marca que m’agrada i, normalment, les seves pel·lícules donen un gra que trobo fantàstic. També m’agraden especialment el contrast i els negres profunds que ofereixen.
 
 Una de les meves pel·lícules preferides per disparar a l’estudi en 35 mm és la HR-50, també d’ADOX. Però no sempre en tenen en estoc i, de vegades, cal buscar alternatives. També m’agrada anar provant materials nous i no estancar-me, encara que alhora soc partidari d’«especialitzar-se» en poques pel·lícules i arribar a conèixer al màxim les seves prestacions.
