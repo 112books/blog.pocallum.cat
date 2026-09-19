@@ -37,7 +37,7 @@
         {{ end }}
       </div>
       {{ with .Params.album_url }}
-      <p class="page-album"><a href="{{ . }}" target="_blank" rel="noopener">Veure l'àlbum complet →</a></p>
+      <p class="page-album"><a href="{{ . }}" target="_blank" rel="noopener noreferrer">Veure l'àlbum complet →</a></p>
       {{ end }}
     </div>
   </header>
@@ -69,6 +69,7 @@
   <section class="giscus-wrap" aria-label="Comentaris">
     <div class="container">
       <script src="https://giscus.app/client.js"
+        integrity="sha384-UwLZGbJGvkTzz0719+xEzUm/idqwzs0yZN8aB9Se5vUXHbyRyDWw9yqZTIsOsJ7x"
         data-repo="{{ $.Site.Params.giscusRepo }}"
         data-repo-id="{{ $.Site.Params.giscusRepoId }}"
         data-category="Comentaris"
@@ -101,7 +102,7 @@
            {{ if $isCur }}aria-current="page"{{ end }}>
           <div class="post-thumb__img">
             {{ $img := or .Params.thumbnail .Params.image }}
-            {{ if $img }}{{ partial "img.html" (dict "src" $img "alt" "" "loading" "lazy" "variant" "thumb") }}{{ end }}
+            {{ if $img }}{{ partial "img.html" (dict "src" $img "alt" .Title "loading" "lazy" "variant" "thumb") }}{{ end }}
           </div>
           <span class="post-thumb__title">{{ .Title }}</span>
           <span class="post-thumb__date">{{ .Date.Format "02·01·06" }}</span>
@@ -111,16 +112,6 @@
       <button class="post-strip-arrow" id="js-strip-next" aria-label="Desplaça endavant" type="button">&#x203A;</button>
     </div>
   </nav>
-  <script>
-  (function(){
-    var strip = document.getElementById('js-strip');
-    if (!strip) return;
-    var cur = strip.querySelector('.is-current');
-    if (cur) strip.scrollLeft = cur.offsetLeft - (strip.offsetWidth / 2) + (cur.offsetWidth / 2);
-    document.getElementById('js-strip-prev').addEventListener('click', function(){ strip.scrollBy({left:-220,behavior:'smooth'}); });
-    document.getElementById('js-strip-next').addEventListener('click', function(){ strip.scrollBy({left:220,behavior:'smooth'}); });
-  })();
-  </script>
   {{ end }}
 
 </article>

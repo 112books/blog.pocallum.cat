@@ -574,7 +574,7 @@ h1, h2, h3, h4 {
 }
 .arxiu__month:hover { color: var(--accent); }
 .arxiu__month.is-active { color: var(--accent); }
-.arxiu__month-count { color: var(--mid); opacity: 0.6; padding-left: 0.25em; }
+.arxiu__month-count { color: #a0a0a0; padding-left: 0.25em; }
 
 /* ── Arxiu "túnel del temps" (/arxiu/) ────────────────────────────────────── */
 .tunel {
@@ -1658,7 +1658,7 @@ h1, h2, h3, h4 {
   font-size: 0.7rem;
   letter-spacing: 0.12em;
   text-transform: uppercase;
-  color: rgba(255,255,255,0.35);
+  color: rgba(255,255,255,0.65);
   margin-bottom: var(--space-6);
 }
 .e404-suggest__grid {

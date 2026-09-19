@@ -228,3 +228,13 @@
     window.scrollTo({ top: 0, behavior: 'smooth' });
   });
 })();
+
+/* ── Tira de navegació entre posts ─────────────────────────────────────── */
+(function () {
+  var strip = document.getElementById('js-strip');
+  if (!strip) return;
+  var cur = strip.querySelector('.is-current');
+  if (cur) strip.scrollLeft = cur.offsetLeft - (strip.offsetWidth / 2) + (cur.offsetWidth / 2);
+  document.getElementById('js-strip-prev').addEventListener('click', function () { strip.scrollBy({ left: -220, behavior: 'smooth' }); });
+  document.getElementById('js-strip-next').addEventListener('click', function () { strip.scrollBy({ left: 220, behavior: 'smooth' }); });
+})();
