@@ -39,10 +39,11 @@
       <p class="e404-suggest__label">Potser t'interessa</p>
       <div class="e404-suggest__grid">
         {{ range $recent }}
+        {{ $p := . }}
         <a href="{{ .RelPermalink }}" class="e404-fest">
           {{ with .Params.thumbnail }}
           <div class="e404-fest__img">
-            {{ partial "img.html" (dict "src" . "alt" (printf "%s" $.Site.Title) "class" "" "loading" "lazy" "variant" "thumb" "decoding" "async") }}
+            {{ partial "img.html" (dict "src" . "alt" $p.Title "class" "" "loading" "lazy" "variant" "thumb" "decoding" "async") }}
           </div>
           {{ end }}
           <div class="e404-fest__body">
