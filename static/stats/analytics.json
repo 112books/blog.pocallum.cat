@@ -1,10 +1,10 @@
 {
-  "generated": "2026-09-18T21:42:06.329645Z",
+  "generated": "2026-09-19T00:21:59.748976Z",
   "period": {
-    "start": "2025-09-18",
-    "end": "2026-09-18"
+    "start": "2025-09-19",
+    "end": "2026-09-19"
   },
-  "total": 1291,
+  "total": 1323,
   "total_unique": 0,
   "hits_by_day": [
     {
@@ -297,13 +297,13 @@
     },
     {
       "date": "2026-09-18",
-      "count": 7
+      "count": 39
     }
   ],
   "hits": [
     {
       "path": "/",
-      "count": 167
+      "count": 171
     },
     {
       "path": "/2026/07/11/2026-07-11-prospe-beach-again",
@@ -319,7 +319,7 @@
     },
     {
       "path": "/cerca",
-      "count": 18
+      "count": 19
     },
     {
       "path": "/2026/09/07/2026-09-06-festival-masimas-2026-el-parallel-oblidat-recordant-a-merche-mar",
@@ -410,6 +410,10 @@
       "count": 6
     },
     {
+      "path": "/2026/07/20/revivint-la-vella-woody-cam",
+      "count": 6
+    },
+    {
       "path": "/?query-0-page=10",
       "count": 5
     },
@@ -443,10 +447,6 @@
     },
     {
       "path": "/2017/12/15/homedev171-hasselblad-500-cm-50mm-panf-50-badenas-reales",
-      "count": 5
-    },
-    {
-      "path": "/2026/07/20/revivint-la-vella-woody-cam",
       "count": 5
     },
     {
@@ -494,23 +494,23 @@
       "count": 4
     },
     {
-      "path": "/tag/festa-major-prosperitat-2026",
+      "path": "/arxiu",
       "count": 3
     },
     {
-      "path": "/2026/09/04/2026-08-22-te-v-1009",
+      "path": "/tag/festa-major-prosperitat-2026",
       "count": 3
     }
   ],
   "by_section": {
-    "inici": 167,
-    "posts": 548,
-    "cerca": 18,
+    "inici": 171,
+    "posts": 566,
+    "cerca": 19,
     "aviso-legal": 12,
     "contact": 11,
     "?query-0-page=2": 9,
     "blog.pocallum.cat": 23,
-    "category": 170,
+    "category": 171,
     "about": 8,
     "?query-0-page=10": 5,
     "?query-0-page=191": 5,
@@ -522,8 +522,9 @@
     "?query-0-page=189": 5,
     "?query-0-page=25": 4,
     "en-us": 4,
-    "tag": 64,
+    "tag": 68,
     "politica-de-cookies": 4,
+    "arxiu": 4,
     "?query-0-page=3": 3,
     "?query-0-page=165": 3,
     "?query-0-page=171": 3,
@@ -564,10 +565,10 @@
     "?query-0-page=13": 2,
     "?query-0-page=16": 2,
     "?query-0-page=9": 2,
-    "page": 18,
+    "page": 19,
+    "Admin": 1,
     "blog": 1,
     "test-diagnostic-claude": 1,
-    "arxiu": 2,
     "?s=Boi": 1,
     "?s=Taull": 1,
     "?s=Barcelona+Blues+Festival": 1,
@@ -881,7 +882,7 @@
     {
       "name": "Desconegut",
       "id": "Desconegut",
-      "count": 720
+      "count": 729
     },
     {
       "name": "www.9barrisimatge.org",
@@ -891,7 +892,7 @@
     {
       "name": "Google",
       "id": "Google",
-      "count": 66
+      "count": 67
     },
     {
       "name": "www.facebook.com",
