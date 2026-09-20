@@ -1,10 +1,10 @@
 {
-  "generated": "2026-09-19T23:06:29.378712Z",
+  "generated": "2026-09-20T01:10:32.765883Z",
   "period": {
-    "start": "2025-09-19",
-    "end": "2026-09-19"
+    "start": "2025-09-20",
+    "end": "2026-09-20"
   },
-  "total": 1323,
+  "total": 1328,
   "total_unique": 0,
   "hits_by_day": [
     {
@@ -298,12 +298,20 @@
     {
       "date": "2026-09-18",
       "count": 39
+    },
+    {
+      "date": "2026-09-19",
+      "count": 4
+    },
+    {
+      "date": "2026-09-20",
+      "count": 1
     }
   ],
   "hits": [
     {
       "path": "/",
-      "count": 171
+      "count": 174
     },
     {
       "path": "/2026/07/11/2026-07-11-prospe-beach-again",
@@ -503,8 +511,8 @@
     }
   ],
   "by_section": {
-    "inici": 171,
-    "posts": 566,
+    "inici": 174,
+    "posts": 568,
     "cerca": 19,
     "aviso-legal": 12,
     "contact": 11,
@@ -892,7 +900,7 @@
     {
       "name": "Google",
       "id": "Google",
-      "count": 67
+      "count": 68
     },
     {
       "name": "www.facebook.com",
