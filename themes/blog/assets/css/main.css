@@ -333,7 +333,7 @@ h1, h2, h3, h4 {
   margin-bottom: var(--space-4);
 }
 .home-hero-title {
-  font-size: clamp(1.6rem, 7vw, 5rem);
+  font-size: clamp(1rem, calc((100vw - 4rem) / 14), 5rem);
   letter-spacing: -0.03em;
   line-height: 1.05;
   font-weight: 800;
