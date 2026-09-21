@@ -21,19 +21,13 @@ Ahir tocava baixar al centre, al mític Jamboree, per gaudir de bona música. La
 
 Ella sap el que es fa i sempre es rodeja del bo i millor de l’escena. Per a l’ocasió, amb els músics que des de fa uns tres anys l’acompanyen en aquesta formació:
 
-Marian Barahona, veu
-
-Marc Ferrer, piano
-
-Pep Rius, contrabaix
-
-Olivier Rocque, bateria
-
-Jordi Blanch, saxo
-
-Paul Evans, trompeta
-
-Agustí Mas, guitarra
+- [Marian Barahona](https://marianbarahona.com), veu
+- [Marc Ferrer](https://marcferrermusic.com/ca/), piano
+- [Pep Rius,](https://www.instagram.com/pepriusmusic/) contrabaix
+- [Olivier Rocque](https://www.instagram.com/olivierrocque/), bateria
+- [Jordi Blanch](https://www.jazzpretenders.com/e), saxo
+- [Paul Evans](https://www.instagram.com/paulevans_swingcadets/), trompeta
+- [Agustí Mas](https://www.instagram.com/agustimasblues/), guitarra
 
 No els cal massa presentació, penso. Però, bé, als que ja coneixia de fa temps m’ha encantat retrobar-los i veure que, dia a dia, bolo a bolo, creixen i cada vegada ho fan millor.
 
