@@ -47,4 +47,4 @@ Ara toca tenir un xic d’enveja —sana, això sí— per als que no vau poder 
 
 Petit clip de l'actuació, en riguròs directe
 
-{{< vimeo 1228903340 >}}
+{{< [vimeo 1228903340](https://vimeo.com/1228903340?share=copy&fl=sv&fe=ci) >}}
