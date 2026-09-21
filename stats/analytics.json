@@ -1,10 +1,10 @@
 {
-  "generated": "2026-09-20T22:27:16.151163Z",
+  "generated": "2026-09-21T01:06:19.160950Z",
   "period": {
-    "start": "2025-09-20",
-    "end": "2026-09-20"
+    "start": "2025-09-21",
+    "end": "2026-09-21"
   },
-  "total": 1328,
+  "total": 1363,
   "total_unique": 0,
   "hits_by_day": [
     {
@@ -305,21 +305,25 @@
     },
     {
       "date": "2026-09-20",
-      "count": 1
+      "count": 34
+    },
+    {
+      "date": "2026-09-21",
+      "count": 2
     }
   ],
   "hits": [
     {
       "path": "/",
-      "count": 174
+      "count": 185
     },
     {
       "path": "/2026/07/11/2026-07-11-prospe-beach-again",
-      "count": 81
+      "count": 83
     },
     {
       "path": "/2026/07/26/2026-07-25-una-jornada-amb-els-barcelona-gipsy-balkan-orchestra",
-      "count": 41
+      "count": 42
     },
     {
       "path": "/2026/08/19/2026-08-18-isadora-passos-suspensio-capilar",
@@ -330,11 +334,11 @@
       "count": 19
     },
     {
-      "path": "/2026/09/07/2026-09-06-festival-masimas-2026-el-parallel-oblidat-recordant-a-merche-mar",
-      "count": 15
+      "path": "/2026/08/19/2026-08-18-despedida-anike-lamoso",
+      "count": 16
     },
     {
-      "path": "/2026/08/19/2026-08-18-despedida-anike-lamoso",
+      "path": "/2026/09/07/2026-09-06-festival-masimas-2026-el-parallel-oblidat-recordant-a-merche-mar",
       "count": 15
     },
     {
@@ -362,11 +366,15 @@
       "count": 11
     },
     {
-      "path": "/2026/09/06/visa-pour-limage-2026-una-jornada-de-fotoperiodisme-a-perpinya",
+      "path": "/2026/07/06/2026-07-03a05-24-festival-de-blues-de-barcelona",
+      "count": 10
+    },
+    {
+      "path": "/blog.pocallum.cat",
       "count": 9
     },
     {
-      "path": "/2026/07/06/2026-07-03a05-24-festival-de-blues-de-barcelona",
+      "path": "/2026/09/06/visa-pour-limage-2026-una-jornada-de-fotoperiodisme-a-perpinya",
       "count": 9
     },
     {
@@ -376,10 +384,6 @@
     {
       "path": "/2026/07/05/2026-07-03-05-24e-festival-de-blues-de-barcelona-organitzacio-colaboradors-amics-i-voluntaris",
       "count": 9
-    },
-    {
-      "path": "/blog.pocallum.cat",
-      "count": 8
     },
     {
       "path": "/2026/08/15/2026-08-12-laura-a-32-oc",
@@ -398,11 +402,15 @@
       "count": 8
     },
     {
+      "path": "/2026/09/10/2026-08-24a28-escapada-a-taull",
+      "count": 7
+    },
+    {
       "path": "/2026/06/28/2026-06-27-44a-la-cultura-va-de-festa",
       "count": 7
     },
     {
-      "path": "/2026/09/10/2026-08-24a28-escapada-a-taull",
+      "path": "/2026/09/20/2026-09-19-festa-major-de-verdum-verdum-punkfest",
       "count": 6
     },
     {
@@ -466,6 +474,10 @@
       "count": 5
     },
     {
+      "path": "/2026/09/20/2026-09-19-casal-de-barri-de-prosperitat-tributo-a-amaral",
+      "count": 4
+    },
+    {
       "path": "/2025/09/17/2025-08-26-28-aiguestortes-amb-fotografia-analogica",
       "count": 4
     },
@@ -500,24 +512,16 @@
     {
       "path": "/2013/12/08/caffenol-35-pentaxk1000-kodak-tmax-100-can-peguera",
       "count": 4
-    },
-    {
-      "path": "/arxiu",
-      "count": 3
-    },
-    {
-      "path": "/tag/festa-major-prosperitat-2026",
-      "count": 3
     }
   ],
   "by_section": {
-    "inici": 174,
-    "posts": 568,
+    "inici": 185,
+    "posts": 586,
     "cerca": 19,
     "aviso-legal": 12,
     "contact": 11,
+    "blog.pocallum.cat": 24,
     "?query-0-page=2": 9,
-    "blog.pocallum.cat": 23,
     "category": 171,
     "about": 8,
     "?query-0-page=10": 5,
@@ -532,6 +536,7 @@
     "en-us": 4,
     "tag": 68,
     "politica-de-cookies": 4,
+    "page": 24,
     "arxiu": 4,
     "?query-0-page=3": 3,
     "?query-0-page=165": 3,
@@ -573,7 +578,6 @@
     "?query-0-page=13": 2,
     "?query-0-page=16": 2,
     "?query-0-page=9": 2,
-    "page": 19,
     "Admin": 1,
     "blog": 1,
     "test-diagnostic-claude": 1,
@@ -674,22 +678,22 @@
   "posts_top": [
     {
       "path": "/2026/07/11/2026-07-11-prospe-beach-again",
-      "count": 81
+      "count": 83
     },
     {
       "path": "/2026/07/26/2026-07-25-una-jornada-amb-els-barcelona-gipsy-balkan-orchestra",
-      "count": 41
+      "count": 42
     },
     {
       "path": "/2026/08/19/2026-08-18-isadora-passos-suspensio-capilar",
       "count": 28
     },
     {
-      "path": "/2026/09/07/2026-09-06-festival-masimas-2026-el-parallel-oblidat-recordant-a-merche-mar",
-      "count": 15
+      "path": "/2026/08/19/2026-08-18-despedida-anike-lamoso",
+      "count": 16
     },
     {
-      "path": "/2026/08/19/2026-08-18-despedida-anike-lamoso",
+      "path": "/2026/09/07/2026-09-06-festival-masimas-2026-el-parallel-oblidat-recordant-a-merche-mar",
       "count": 15
     },
     {
@@ -709,11 +713,11 @@
       "count": 12
     },
     {
-      "path": "/2026/09/06/visa-pour-limage-2026-una-jornada-de-fotoperiodisme-a-perpinya",
-      "count": 9
+      "path": "/2026/07/06/2026-07-03a05-24-festival-de-blues-de-barcelona",
+      "count": 10
     },
     {
-      "path": "/2026/07/06/2026-07-03a05-24-festival-de-blues-de-barcelona",
+      "path": "/2026/09/06/visa-pour-limage-2026-una-jornada-de-fotoperiodisme-a-perpinya",
       "count": 9
     },
     {
@@ -729,7 +733,7 @@
       "count": 8
     },
     {
-      "path": "/2026/06/28/2026-06-27-44a-la-cultura-va-de-festa",
+      "path": "/2026/09/10/2026-08-24a28-escapada-a-taull",
       "count": 7
     }
   ],
@@ -737,7 +741,7 @@
     {
       "name": "Chrome",
       "id": "Chrome",
-      "count": 1028
+      "count": 1030
     },
     {
       "name": "Safari",
@@ -769,7 +773,7 @@
     {
       "name": "Android",
       "id": "Android",
-      "count": 194
+      "count": 196
     },
     {
       "name": "iOS",
@@ -791,7 +795,7 @@
     {
       "name": "phone",
       "id": "phone",
-      "count": 352
+      "count": 354
     },
     {
       "name": "desktophd",
@@ -813,7 +817,7 @@
     {
       "name": "Spain",
       "id": "ES",
-      "count": 756
+      "count": 758
     },
     {
       "name": "United States",
@@ -890,17 +894,17 @@
     {
       "name": "Desconegut",
       "id": "Desconegut",
-      "count": 729
+      "count": 738
     },
     {
       "name": "www.9barrisimatge.org",
       "id": "www.9barrisimatge.org",
-      "count": 90
+      "count": 91
     },
     {
       "name": "Google",
       "id": "Google",
-      "count": 68
+      "count": 71
     },
     {
       "name": "www.facebook.com",
