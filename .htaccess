@@ -50,6 +50,13 @@ ErrorDocument 404 /404.html
 
 
 
+# ── Feeds RSS: no indexar ───────────────────────────────────────────────────
+<IfModule mod_headers.c>
+  <FilesMatch "\.xml$">
+    Header set X-Robots-Tag "noindex"
+  </FilesMatch>
+</IfModule>
+
 # ── Headers de seguretat ────────────────────────────────────────────────────
 <IfModule mod_headers.c>
   # HSTS: només quan la connexió ja és HTTPS (evita contingut sense xifrar)
