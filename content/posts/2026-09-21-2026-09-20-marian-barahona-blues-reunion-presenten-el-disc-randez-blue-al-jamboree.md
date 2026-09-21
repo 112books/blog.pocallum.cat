@@ -39,4 +39,4 @@ Tots dos intensos, però alhora amb les seves diferències. Blues, jazz, rhythm�
 
 Ara toca tenir un xic d’enveja —sana, això sí— per als que no vau poder gaudir-ho com jo, i una bona excusa per cercar el disc a la vostra plataforma preferida:
 
-<iframe allow="autoplay \*; encrypted-media \*;" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/es/album/rendez-blue-vol-1-with-marc-ferrer-marian-barahona/6809455929?l=ca"></iframe>
+[https://music.apple.com/es/album/rendez-blue-vol-1-with-marc-ferrer-marian-barahona/6809455929?l=ca](https://music.apple.com/es/album/rendez-blue-vol-1-with-marc-ferrer-marian-barahona/6809455929?l=ca)
