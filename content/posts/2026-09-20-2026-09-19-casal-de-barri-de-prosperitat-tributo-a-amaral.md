@@ -17,7 +17,7 @@ tags:
   - concert
   - Barcelona
   - fotografia de concerts
-thumbnail: ''
+thumbnail: /media/DSCF6892.jpg
 image: /media/DSCF6892.jpg
 album_url: https://photos.app.goo.gl/YV94CFM6xMT3oQGn8
 draft: false

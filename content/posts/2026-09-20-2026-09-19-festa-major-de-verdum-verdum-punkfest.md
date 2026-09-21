@@ -15,7 +15,7 @@ tags:
   - Fotografia de concerts
   - Plaça Francesc Layret
   - Vía Júlia
-thumbnail: ''
+thumbnail: /media/DSCF6763.jpg
 image: /media/DSCF6763.jpg
 album_url: https://photos.app.goo.gl/UA5hQpicHmfbU1NW9
 draft: false
