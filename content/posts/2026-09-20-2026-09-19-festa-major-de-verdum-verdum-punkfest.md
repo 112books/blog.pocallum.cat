@@ -26,11 +26,13 @@ author: Pocallum
 
 Aquests dies les veïnes del barri de Verdum, a tocar de Prosperitat, estan a tope celebrant la seva Festa Major. Només vaig poder passar per una mena de batucada que feien a la plaça Francesc Layret, amb un ambient molt brasiler, per la fira —que és la de tota la vida, no canvia res— i, a la nit, per la marquesina de la Via Júlia, on el Verdum PunkFest prometia una nit ben alternativa. Un contrapunt perfecte per combinar amb la banda homenatge a Amaral. ;)
 
-### **Una pena**
+### **Les bandes**
+
+![Cartell oficial del Verum PunkFest 2026](/media/Verdum-punk.jpg "Cartell oficial del Verum PunkFest 2026")
 
 Per molt punk que sigui el festival, estaria genial tenir a la programació una mica d’informació sobre les bandes. De ben segur que existeix, però jo he estat incapaç de trobar els noms dels protagonistes.
 
-Si algú coneix el nom de les bandes que apareixen a l’àlbum, **agraït jo**. Els nombraré encantat.
+Al final la simpàtica Puri Geller m'ha enviat el cartell oficial i podem identificar les bandes que vàren participar al PunkFest: Mundo Muerto (versions de rock radical d'euskadi), Eskupe (punk), Bruc (punk-rock) i Algo tòxico (porno Punk)
 
 Punk de la vella escola, contundent i sense gaires concessions, que va fer les delícies del públic de tot Nou Barris i de la resta de Barcelona.
 
