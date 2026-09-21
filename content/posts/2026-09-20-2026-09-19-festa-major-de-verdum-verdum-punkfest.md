@@ -32,7 +32,7 @@ Aquests dies les veïnes del barri de Verdum, a tocar de Prosperitat, estan a to
 
 Per molt punk que sigui el festival, estaria genial tenir a la programació una mica d’informació sobre les bandes. De ben segur que existeix, però jo he estat incapaç de trobar els noms dels protagonistes.
 
-Al final la simpàtica Puri Geller m'ha enviat el cartell oficial i podem identificar les bandes que vàren participar al PunkFest: Mundo Muerto (versions de rock radical d'euskadi), Eskupe (punk), Bruc (punk-rock) i Algo tòxico (porno Punk)
+Al final, la simpàtica Puri Geller m’ha enviat el cartell oficial i podem identificar les bandes que van participar al PunkFest: Mundo Muerto (versions de rock radical d’Euskadi), Eskupe (punk), Bruc (punk-rock) i Algo Tóxico (porno punk).
 
 Punk de la vella escola, contundent i sense gaires concessions, que va fer les delícies del públic de tot Nou Barris i de la resta de Barcelona.
 
