@@ -3,7 +3,11 @@ title: 2026-09-20 - Marian Barahona Blues Reunion presenten el disc Randez-Blue 
 date: 2026-09-21T0:00:00+02:00
 slug: ''
 description: Marian Barahona Blues Reunion presenta Rendez-Blue al Jamboree, amb blues, jazz i rhythm’n’blues en directe i una banda de músics extraordinaris.
-categories: []
+categories:
+  - canon-28-mm-f-2-8
+  - canon-50-mm-f-1-8
+  - sigma-70-200-mm-f-2-8-ii
+  - canon-eos-5d-mark-ii
 tags:
   - Marian Barahona
   - Marian Barahona Blues Reunion
@@ -39,4 +43,4 @@ Tots dos intensos, però alhora amb les seves diferències. Blues, jazz, rhythm�
 
 Ara toca tenir un xic d’enveja —sana, això sí— per als que no vau poder gaudir-ho com jo, i una bona excusa per cercar el disc a la vostra plataforma preferida:
 
-[https://music.apple.com/es/album/rendez-blue-vol-1-with-marc-ferrer-marian-barahona/6809455929?l=ca](https://music.apple.com/es/album/rendez-blue-vol-1-with-marc-ferrer-marian-barahona/6809455929?l=ca)
+[music.apple.com](https://music.apple.com/es/album/rendez-blue-vol-1-with-marc-ferrer-marian-barahona/6809455929?l=ca)
