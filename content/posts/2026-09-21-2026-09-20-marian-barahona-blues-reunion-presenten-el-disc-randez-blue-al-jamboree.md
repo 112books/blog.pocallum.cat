@@ -3,10 +3,10 @@ title: 2026-09-20 - Marian Barahona Blues Reunion presenten el disc Randez-Blue 
 date: 2026-09-21T0:00:00+02:00
 slug: ''
 categories:
-  - canon-28-mm-f-2-8
-  - canon-50-mm-f-1-8
-  - sigma-70-200-mm-f-2-8-ii
   - canon-eos-5d-mark-ii
+  - canon-28-mm-f-2-8
+  - sigma-70-200-mm-f-2-8-ii
+  - canon-50-mm-f-1-8
 tags:
   - Marian Barahona
   - Marian Barahona Blues Reunion
