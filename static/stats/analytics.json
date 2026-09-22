@@ -1,10 +1,10 @@
 {
-  "generated": "2026-09-21T23:17:15.672365Z",
+  "generated": "2026-09-22T01:38:35.617570Z",
   "period": {
-    "start": "2025-09-21",
-    "end": "2026-09-21"
+    "start": "2025-09-22",
+    "end": "2026-09-22"
   },
-  "total": 1363,
+  "total": 1403,
   "total_unique": 0,
   "hits_by_day": [
     {
@@ -309,17 +309,17 @@
     },
     {
       "date": "2026-09-21",
-      "count": 2
+      "count": 42
     }
   ],
   "hits": [
     {
       "path": "/",
-      "count": 185
+      "count": 197
     },
     {
       "path": "/2026/07/11/2026-07-11-prospe-beach-again",
-      "count": 83
+      "count": 84
     },
     {
       "path": "/2026/07/26/2026-07-25-una-jornada-amb-els-barcelona-gipsy-balkan-orchestra",
@@ -331,15 +331,15 @@
     },
     {
       "path": "/cerca",
-      "count": 19
+      "count": 20
+    },
+    {
+      "path": "/2026/09/07/2026-09-06-festival-masimas-2026-el-parallel-oblidat-recordant-a-merche-mar",
+      "count": 16
     },
     {
       "path": "/2026/08/19/2026-08-18-despedida-anike-lamoso",
       "count": 16
-    },
-    {
-      "path": "/2026/09/07/2026-09-06-festival-masimas-2026-el-parallel-oblidat-recordant-a-merche-mar",
-      "count": 15
     },
     {
       "path": "/2026/07/06/2026-07-05-24e-festival-de-blues-de-barcelona-jam-session-de-clausura",
@@ -358,12 +358,16 @@
       "count": 12
     },
     {
+      "path": "/contact",
+      "count": 12
+    },
+    {
       "path": "/2026/07/06/2026-07-04-24e-festival-de-blues-de-barcelona",
       "count": 12
     },
     {
-      "path": "/contact",
-      "count": 11
+      "path": "/2026/09/20/2026-09-19-festa-major-de-verdum-verdum-punkfest",
+      "count": 10
     },
     {
       "path": "/2026/07/06/2026-07-03a05-24-festival-de-blues-de-barcelona",
@@ -402,6 +406,10 @@
       "count": 8
     },
     {
+      "path": "/2026/09/20/2026-09-19-casal-de-barri-de-prosperitat-tributo-a-amaral",
+      "count": 7
+    },
+    {
       "path": "/2026/09/10/2026-08-24a28-escapada-a-taull",
       "count": 7
     },
@@ -410,7 +418,7 @@
       "count": 7
     },
     {
-      "path": "/2026/09/20/2026-09-19-festa-major-de-verdum-verdum-punkfest",
+      "path": "/arxiu",
       "count": 6
     },
     {
@@ -427,6 +435,10 @@
     },
     {
       "path": "/2026/07/20/revivint-la-vella-woody-cam",
+      "count": 6
+    },
+    {
+      "path": "/2026/04/08/superheadz-digital-harinezumila-magia-low-fi",
       "count": 6
     },
     {
@@ -466,15 +478,19 @@
       "count": 5
     },
     {
-      "path": "/2026/04/08/superheadz-digital-harinezumila-magia-low-fi",
-      "count": 5
-    },
-    {
       "path": "/2012/01/28/prospe-beach-2010",
       "count": 5
     },
     {
-      "path": "/2026/09/20/2026-09-19-casal-de-barri-de-prosperitat-tributo-a-amaral",
+      "path": "/2026/09/21/2026-09-20-marian-barahona-blues-reunion-presenten-el-disc-randez-blue-al-jamboree",
+      "count": 4
+    },
+    {
+      "path": "/page/2",
+      "count": 4
+    },
+    {
+      "path": "/2026/09/18/2026-09-17-provant-ladox-scala-50",
       "count": 4
     },
     {
@@ -496,34 +512,19 @@
     {
       "path": "/2026/02/13/2026-02-12-bar-moebius-amb-tarantula-friends",
       "count": 4
-    },
-    {
-      "path": "/politica-de-cookies",
-      "count": 4
-    },
-    {
-      "path": "/2026/05/30/2026-05-29-la-juganera-a-la-nau-bostik",
-      "count": 4
-    },
-    {
-      "path": "/2012/12/07/lomo-9765-pentax-k1000-lomography-color-800-i",
-      "count": 4
-    },
-    {
-      "path": "/2013/12/08/caffenol-35-pentaxk1000-kodak-tmax-100-can-peguera",
-      "count": 4
     }
   ],
   "by_section": {
-    "inici": 185,
-    "posts": 586,
-    "cerca": 19,
+    "inici": 197,
+    "posts": 606,
+    "cerca": 20,
     "aviso-legal": 12,
-    "contact": 11,
+    "contact": 12,
     "blog.pocallum.cat": 24,
     "?query-0-page=2": 9,
-    "category": 171,
+    "category": 172,
     "about": 8,
+    "arxiu": 8,
     "?query-0-page=10": 5,
     "?query-0-page=191": 5,
     "?query-0-page=188": 5,
@@ -532,12 +533,11 @@
     "?query-0-page=8": 5,
     "?query-0-page=186": 5,
     "?query-0-page=189": 5,
+    "page": 25,
     "?query-0-page=25": 4,
     "en-us": 4,
     "tag": 68,
     "politica-de-cookies": 4,
-    "page": 24,
-    "arxiu": 4,
     "?query-0-page=3": 3,
     "?query-0-page=165": 3,
     "?query-0-page=171": 3,
@@ -678,7 +678,7 @@
   "posts_top": [
     {
       "path": "/2026/07/11/2026-07-11-prospe-beach-again",
-      "count": 83
+      "count": 84
     },
     {
       "path": "/2026/07/26/2026-07-25-una-jornada-amb-els-barcelona-gipsy-balkan-orchestra",
@@ -689,12 +689,12 @@
       "count": 28
     },
     {
-      "path": "/2026/08/19/2026-08-18-despedida-anike-lamoso",
+      "path": "/2026/09/07/2026-09-06-festival-masimas-2026-el-parallel-oblidat-recordant-a-merche-mar",
       "count": 16
     },
     {
-      "path": "/2026/09/07/2026-09-06-festival-masimas-2026-el-parallel-oblidat-recordant-a-merche-mar",
-      "count": 15
+      "path": "/2026/08/19/2026-08-18-despedida-anike-lamoso",
+      "count": 16
     },
     {
       "path": "/2026/07/06/2026-07-05-24e-festival-de-blues-de-barcelona-jam-session-de-clausura",
@@ -711,6 +711,10 @@
     {
       "path": "/2026/07/06/2026-07-04-24e-festival-de-blues-de-barcelona",
       "count": 12
+    },
+    {
+      "path": "/2026/09/20/2026-09-19-festa-major-de-verdum-verdum-punkfest",
+      "count": 10
     },
     {
       "path": "/2026/07/06/2026-07-03a05-24-festival-de-blues-de-barcelona",
@@ -731,10 +735,6 @@
     {
       "path": "/2024/02/22/sessio-amb-la-ballarina-nahomi-itzel",
       "count": 8
-    },
-    {
-      "path": "/2026/09/10/2026-08-24a28-escapada-a-taull",
-      "count": 7
     }
   ],
   "browsers": [
@@ -894,17 +894,17 @@
     {
       "name": "Desconegut",
       "id": "Desconegut",
-      "count": 738
+      "count": 748
     },
     {
       "name": "www.9barrisimatge.org",
       "id": "www.9barrisimatge.org",
-      "count": 91
+      "count": 92
     },
     {
       "name": "Google",
       "id": "Google",
-      "count": 71
+      "count": 76
     },
     {
       "name": "www.facebook.com",
