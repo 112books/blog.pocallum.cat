@@ -13,9 +13,6 @@ public_folder: "/media"
 # Slug automàtic a partir del títol; l'usuari pot sobreescriure'l
 slug:
   encoding: "unicode"
-  clean_replacements:
-    - /[^a-zA-Z0-9àèéíòóùüçñ·-]/g
-    - /--/g
 
 collections:
   # ──────────────────────────────────────────────
@@ -28,7 +25,6 @@ collections:
     public_folder: "/media"
     create: true
     sortable_fields: ["date", "title"]
-    sortable_field: "date"
     thumbnail: thumbnail
     summary: "{{title}}"
     path: "{{year}}-{{month}}-{{day}}-{{slug}}"

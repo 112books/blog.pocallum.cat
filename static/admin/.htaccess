@@ -2,5 +2,5 @@
 # el bundle JS autoallotjat carrega igual (script-src 'self' n'hi ha prou), però
 # calen orígens extra per a l'API de GitHub, l'OAuth i les fonts del CMS.
 <IfModule mod_headers.c>
-  Header always set Content-Security-Policy "default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net; font-src 'self' data: https://cdn.jsdelivr.net; img-src 'self' https: data:; connect-src 'self' https://api.github.com https://api.netlify.com https://github.com https://unpkg.com; frame-src https://github.com; worker-src 'self'; object-src 'none'; base-uri 'self'; form-action 'self' https://github.com"
+  Header always set Content-Security-Policy "default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net; font-src 'self' data: https://cdn.jsdelivr.net; img-src 'self' https: data:; connect-src 'self' data: https://api.github.com https://api.netlify.com https://github.com https://unpkg.com https://www.githubstatus.com; frame-src https://github.com; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self' https://github.com"
 </IfModule>
