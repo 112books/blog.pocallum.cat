@@ -11,7 +11,7 @@ tags:
   - Marian Barahona
   - Marian Barahona Blues Reunion
   - Rendez-Blue
-thumbnail: ''
+thumbnail: /media/IMG_3210.jpg
 image: /media/IMG_3210.jpg
 album_url: https://photos.app.goo.gl/sxBFcbJwcqBxQwEe9
 draft: false
