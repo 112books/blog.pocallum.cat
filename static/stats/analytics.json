@@ -1,10 +1,10 @@
 {
-  "generated": "2026-09-23T20:22:56.938620Z",
+  "generated": "2026-09-24T04:52:06.586269Z",
   "period": {
-    "start": "2025-09-23",
-    "end": "2026-09-23"
+    "start": "2025-09-24",
+    "end": "2026-09-24"
   },
-  "total": 1428,
+  "total": 1446,
   "total_unique": 0,
   "hits_by_day": [
     {
@@ -314,12 +314,16 @@
     {
       "date": "2026-09-22",
       "count": 25
+    },
+    {
+      "date": "2026-09-23",
+      "count": 18
     }
   ],
   "hits": [
     {
       "path": "/",
-      "count": 207
+      "count": 216
     },
     {
       "path": "/2026/07/11/2026-07-11-prospe-beach-again",
@@ -338,6 +342,10 @@
       "count": 21
     },
     {
+      "path": "/2026/09/20/2026-09-19-casal-de-barri-de-prosperitat-tributo-a-amaral",
+      "count": 18
+    },
+    {
       "path": "/2026/09/07/2026-09-06-festival-masimas-2026-el-parallel-oblidat-recordant-a-merche-mar",
       "count": 17
     },
@@ -350,16 +358,16 @@
       "count": 16
     },
     {
-      "path": "/2026/09/20/2026-09-19-casal-de-barri-de-prosperitat-tributo-a-amaral",
-      "count": 14
-    },
-    {
       "path": "/2026/07/31/2026-07-30-primeres-proves-per-al-repte-retrats-lents-de-112-revelats",
       "count": 14
     },
     {
       "path": "/contact",
       "count": 13
+    },
+    {
+      "path": "/2026/09/20/2026-09-19-festa-major-de-verdum-verdum-punkfest",
+      "count": 12
     },
     {
       "path": "/2026/09/01/2026-08-26-aiguestortes-de-dellui-a-lestany-llong-fugint-de-la-calor-estival",
@@ -374,8 +382,8 @@
       "count": 12
     },
     {
-      "path": "/2026/09/20/2026-09-19-festa-major-de-verdum-verdum-punkfest",
-      "count": 11
+      "path": "/about",
+      "count": 10
     },
     {
       "path": "/2026/07/06/2026-07-03a05-24-festival-de-blues-de-barcelona",
@@ -387,10 +395,6 @@
     },
     {
       "path": "/2026/09/06/visa-pour-limage-2026-una-jornada-de-fotoperiodisme-a-perpinya",
-      "count": 9
-    },
-    {
-      "path": "/about",
       "count": 9
     },
     {
@@ -414,16 +418,16 @@
       "count": 8
     },
     {
+      "path": "/arxiu",
+      "count": 7
+    },
+    {
       "path": "/2026/09/10/2026-08-24a28-escapada-a-taull",
       "count": 7
     },
     {
       "path": "/2026/06/28/2026-06-27-44a-la-cultura-va-de-festa",
       "count": 7
-    },
-    {
-      "path": "/arxiu",
-      "count": 6
     },
     {
       "path": "/2026/09/04/2026-09-04-lanomala",
@@ -519,16 +523,16 @@
     }
   ],
   "by_section": {
-    "inici": 207,
-    "posts": 618,
+    "inici": 216,
+    "posts": 624,
     "cerca": 21,
     "contact": 13,
     "aviso-legal": 12,
+    "about": 10,
     "blog.pocallum.cat": 24,
-    "about": 9,
     "?query-0-page=2": 9,
     "category": 172,
-    "arxiu": 8,
+    "arxiu": 9,
     "?query-0-page=10": 5,
     "?query-0-page=191": 5,
     "?query-0-page=188": 5,
@@ -540,7 +544,7 @@
     "page": 25,
     "?query-0-page=25": 4,
     "en-us": 4,
-    "tag": 68,
+    "tag": 69,
     "politica-de-cookies": 4,
     "?query-0-page=3": 3,
     "?query-0-page=165": 3,
@@ -693,6 +697,10 @@
       "count": 28
     },
     {
+      "path": "/2026/09/20/2026-09-19-casal-de-barri-de-prosperitat-tributo-a-amaral",
+      "count": 18
+    },
+    {
       "path": "/2026/09/07/2026-09-06-festival-masimas-2026-el-parallel-oblidat-recordant-a-merche-mar",
       "count": 17
     },
@@ -705,12 +713,12 @@
       "count": 16
     },
     {
-      "path": "/2026/09/20/2026-09-19-casal-de-barri-de-prosperitat-tributo-a-amaral",
+      "path": "/2026/07/31/2026-07-30-primeres-proves-per-al-repte-retrats-lents-de-112-revelats",
       "count": 14
     },
     {
-      "path": "/2026/07/31/2026-07-30-primeres-proves-per-al-repte-retrats-lents-de-112-revelats",
-      "count": 14
+      "path": "/2026/09/20/2026-09-19-festa-major-de-verdum-verdum-punkfest",
+      "count": 12
     },
     {
       "path": "/2026/09/01/2026-08-26-aiguestortes-de-dellui-a-lestany-llong-fugint-de-la-calor-estival",
@@ -719,10 +727,6 @@
     {
       "path": "/2026/07/06/2026-07-04-24e-festival-de-blues-de-barcelona",
       "count": 12
-    },
-    {
-      "path": "/2026/09/20/2026-09-19-festa-major-de-verdum-verdum-punkfest",
-      "count": 11
     },
     {
       "path": "/2026/07/06/2026-07-03a05-24-festival-de-blues-de-barcelona",
@@ -898,7 +902,7 @@
     {
       "name": "Desconegut",
       "id": "Desconegut",
-      "count": 759
+      "count": 767
     },
     {
       "name": "www.9barrisimatge.org",
@@ -908,7 +912,7 @@
     {
       "name": "Google",
       "id": "Google",
-      "count": 76
+      "count": 77
     },
     {
       "name": "www.facebook.com",
