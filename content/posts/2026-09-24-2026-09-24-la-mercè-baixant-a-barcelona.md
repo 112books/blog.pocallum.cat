@@ -38,6 +38,6 @@ L’esperança no sempre és l’última cosa que es perd. Ja no hi veuria l’a
 
 He seguit pels punts del Gòtic i la Ribera que més m’agraden, una altra dosi de cafè, moltes cues arreu; allò que més m’interessava o era tancat o hi havia una cua per desesperar.
 
-Per sort, havia fet una reserva a [Can Machirocu](https://machiroku.com/ca/inici/), on, ja ho sabia jo, podria desestressar-me tot gaudint d’un bon àpat i aprofitant per visitar bons amics.
+Per sort, havia fet una reserva a [Can Machiroku](https://machiroku.com/ca/inici/), on, ja ho sabia jo, podria desestressar-me tot gaudint d’un bon àpat i aprofitant per visitar bons amics.
 
 Ja tenim el dia de **la Mercè** al sarró i [unes poquetes fotografies resultants](https://photos.app.goo.gl/fvLFrNf6iNRbrGof9).
