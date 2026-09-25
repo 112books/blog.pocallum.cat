@@ -1,10 +1,10 @@
 {
-  "generated": "2026-09-24T22:25:33.002150Z",
+  "generated": "2026-09-25T07:49:44.536773Z",
   "period": {
-    "start": "2025-09-24",
-    "end": "2026-09-24"
+    "start": "2025-09-25",
+    "end": "2026-09-25"
   },
-  "total": 1446,
+  "total": 1466,
   "total_unique": 0,
   "hits_by_day": [
     {
@@ -318,12 +318,20 @@
     {
       "date": "2026-09-23",
       "count": 18
+    },
+    {
+      "date": "2026-09-24",
+      "count": 18
+    },
+    {
+      "date": "2026-09-25",
+      "count": 2
     }
   ],
   "hits": [
     {
       "path": "/",
-      "count": 216
+      "count": 221
     },
     {
       "path": "/2026/07/11/2026-07-11-prospe-beach-again",
@@ -343,11 +351,11 @@
     },
     {
       "path": "/2026/09/20/2026-09-19-casal-de-barri-de-prosperitat-tributo-a-amaral",
-      "count": 18
+      "count": 19
     },
     {
       "path": "/2026/09/07/2026-09-06-festival-masimas-2026-el-parallel-oblidat-recordant-a-merche-mar",
-      "count": 17
+      "count": 18
     },
     {
       "path": "/2026/08/19/2026-08-18-despedida-anike-lamoso",
@@ -358,16 +366,16 @@
       "count": 16
     },
     {
+      "path": "/2026/09/20/2026-09-19-festa-major-de-verdum-verdum-punkfest",
+      "count": 14
+    },
+    {
       "path": "/2026/07/31/2026-07-30-primeres-proves-per-al-repte-retrats-lents-de-112-revelats",
       "count": 14
     },
     {
       "path": "/contact",
       "count": 13
-    },
-    {
-      "path": "/2026/09/20/2026-09-19-festa-major-de-verdum-verdum-punkfest",
-      "count": 12
     },
     {
       "path": "/2026/09/01/2026-08-26-aiguestortes-de-dellui-a-lestany-llong-fugint-de-la-calor-estival",
@@ -382,6 +390,10 @@
       "count": 12
     },
     {
+      "path": "/2026/09/06/visa-pour-limage-2026-una-jornada-de-fotoperiodisme-a-perpinya",
+      "count": 10
+    },
+    {
       "path": "/about",
       "count": 10
     },
@@ -394,16 +406,20 @@
       "count": 9
     },
     {
-      "path": "/2026/09/06/visa-pour-limage-2026-una-jornada-de-fotoperiodisme-a-perpinya",
-      "count": 9
-    },
-    {
       "path": "/?query-0-page=2",
       "count": 9
     },
     {
       "path": "/2026/07/05/2026-07-03-05-24e-festival-de-blues-de-barcelona-organitzacio-colaboradors-amics-i-voluntaris",
       "count": 9
+    },
+    {
+      "path": "/arxiu",
+      "count": 8
+    },
+    {
+      "path": "/2026/09/04/2026-09-04-lanomala",
+      "count": 8
     },
     {
       "path": "/2026/08/15/2026-08-12-laura-a-32-oc",
@@ -418,20 +434,12 @@
       "count": 8
     },
     {
-      "path": "/arxiu",
-      "count": 7
-    },
-    {
       "path": "/2026/09/10/2026-08-24a28-escapada-a-taull",
       "count": 7
     },
     {
       "path": "/2026/06/28/2026-06-27-44a-la-cultura-va-de-festa",
       "count": 7
-    },
-    {
-      "path": "/2026/09/04/2026-09-04-lanomala",
-      "count": 6
     },
     {
       "path": "/category/camara/hasselblad-500cm/page/6",
@@ -523,16 +531,16 @@
     }
   ],
   "by_section": {
-    "inici": 216,
-    "posts": 624,
+    "inici": 221,
+    "posts": 638,
     "cerca": 21,
     "contact": 13,
     "aviso-legal": 12,
     "about": 10,
     "blog.pocallum.cat": 24,
     "?query-0-page=2": 9,
+    "arxiu": 10,
     "category": 172,
-    "arxiu": 9,
     "?query-0-page=10": 5,
     "?query-0-page=191": 5,
     "?query-0-page=188": 5,
@@ -698,11 +706,11 @@
     },
     {
       "path": "/2026/09/20/2026-09-19-casal-de-barri-de-prosperitat-tributo-a-amaral",
-      "count": 18
+      "count": 19
     },
     {
       "path": "/2026/09/07/2026-09-06-festival-masimas-2026-el-parallel-oblidat-recordant-a-merche-mar",
-      "count": 17
+      "count": 18
     },
     {
       "path": "/2026/08/19/2026-08-18-despedida-anike-lamoso",
@@ -713,12 +721,12 @@
       "count": 16
     },
     {
-      "path": "/2026/07/31/2026-07-30-primeres-proves-per-al-repte-retrats-lents-de-112-revelats",
+      "path": "/2026/09/20/2026-09-19-festa-major-de-verdum-verdum-punkfest",
       "count": 14
     },
     {
-      "path": "/2026/09/20/2026-09-19-festa-major-de-verdum-verdum-punkfest",
-      "count": 12
+      "path": "/2026/07/31/2026-07-30-primeres-proves-per-al-repte-retrats-lents-de-112-revelats",
+      "count": 14
     },
     {
       "path": "/2026/09/01/2026-08-26-aiguestortes-de-dellui-a-lestany-llong-fugint-de-la-calor-estival",
@@ -729,19 +737,19 @@
       "count": 12
     },
     {
-      "path": "/2026/07/06/2026-07-03a05-24-festival-de-blues-de-barcelona",
+      "path": "/2026/09/06/visa-pour-limage-2026-una-jornada-de-fotoperiodisme-a-perpinya",
       "count": 10
     },
     {
-      "path": "/2026/09/06/visa-pour-limage-2026-una-jornada-de-fotoperiodisme-a-perpinya",
-      "count": 9
+      "path": "/2026/07/06/2026-07-03a05-24-festival-de-blues-de-barcelona",
+      "count": 10
     },
     {
       "path": "/2026/07/05/2026-07-03-05-24e-festival-de-blues-de-barcelona-organitzacio-colaboradors-amics-i-voluntaris",
       "count": 9
     },
     {
-      "path": "/2026/08/15/2026-08-12-laura-a-32-oc",
+      "path": "/2026/09/04/2026-09-04-lanomala",
       "count": 8
     }
   ],
@@ -749,12 +757,12 @@
     {
       "name": "Chrome",
       "id": "Chrome",
-      "count": 1087
+      "count": 1090
     },
     {
       "name": "Safari",
       "id": "Safari",
-      "count": 280
+      "count": 281
     },
     {
       "name": "Firefox",
@@ -771,7 +779,7 @@
     {
       "name": "macOS",
       "id": "macOS",
-      "count": 478
+      "count": 480
     },
     {
       "name": "Linux",
@@ -786,12 +794,12 @@
     {
       "name": "iOS",
       "id": "iOS",
-      "count": 197
+      "count": 198
     },
     {
       "name": "Windows",
       "id": "Windows",
-      "count": 144
+      "count": 145
     }
   ],
   "sizes": [
@@ -803,17 +811,17 @@
     {
       "name": "phone",
       "id": "phone",
-      "count": 398
+      "count": 399
     },
     {
       "name": "desktophd",
       "id": "desktophd",
-      "count": 246
+      "count": 248
     },
     {
       "name": "tablet",
       "id": "tablet",
-      "count": 17
+      "count": 18
     },
     {
       "name": "unknown",
@@ -825,7 +833,7 @@
     {
       "name": "Spain",
       "id": "ES",
-      "count": 854
+      "count": 857
     },
     {
       "name": "United States",
@@ -902,7 +910,7 @@
     {
       "name": "Desconegut",
       "id": "Desconegut",
-      "count": 767
+      "count": 770
     },
     {
       "name": "www.9barrisimatge.org",
@@ -912,7 +920,7 @@
     {
       "name": "Google",
       "id": "Google",
-      "count": 77
+      "count": 81
     },
     {
       "name": "www.facebook.com",
@@ -927,7 +935,7 @@
     {
       "name": "l.instagram.com",
       "id": "l.instagram.com",
-      "count": 7
+      "count": 8
     },
     {
       "name": "ig",
