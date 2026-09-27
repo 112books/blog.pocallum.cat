@@ -3,6 +3,7 @@ title: "007721 - Diana MultiPinhole"
 date: 2014-01-31
 slug: "007721-diana-multipinhole"
 categories: 
+  - "fotografia-estenopeica"
   - "diana-multipinhole-operator"
 author: "fatmin"
 tags: []

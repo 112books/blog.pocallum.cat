@@ -3,6 +3,7 @@ title: "WorldPinholeDay - Taller amb Diana F+"
 date: 2017-05-01
 slug: "worldpinholeday-taller-amb-diana-f"
 categories: 
+  - "fotografia-estenopeica"
   - "diana-f"
 author: "fatmin"
 tags: []

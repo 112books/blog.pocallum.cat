@@ -3,6 +3,7 @@ title: "5985 - HolgaWPC - FujiChrome T64"
 date: 2014-11-28
 slug: "5985-holgawpc-fujichrome-t64"
 categories: 
+  - "fotografia-estenopeica"
   - "holga-wpc"
 author: "fatmin"
 tags: []

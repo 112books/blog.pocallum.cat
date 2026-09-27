@@ -3,6 +3,7 @@ title: "8727 - Holga WPC - Fujichrome 120/T64"
 date: 2014-06-16
 slug: "8727-holga-wpc-fujichrome-120t64"
 categories: 
+  - "fotografia-estenopeica"
   - "holga-wpc"
 author: "fatmin"
 tags: []

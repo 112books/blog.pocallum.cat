@@ -3,6 +3,7 @@ title: "8327 - Holga WPC - Fujichrome T64"
 date: 2015-03-13
 slug: "8327-holga-wpc-fujichrome-t64"
 categories: 
+  - "fotografia-estenopeica"
   - "holga-wpc"
 author: "fatmin"
 tags: []

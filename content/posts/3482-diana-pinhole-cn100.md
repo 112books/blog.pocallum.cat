@@ -3,6 +3,7 @@ title: "3482 - Diana Pinhole - CN100"
 date: 2014-08-28
 slug: "3482-diana-pinhole-cn100"
 categories: 
+  - "fotografia-estenopeica"
   - "diana-multipinhole-operator"
 author: "fatmin"
 tags: []

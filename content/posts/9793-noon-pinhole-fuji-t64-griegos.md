@@ -3,6 +3,7 @@ title: "9793 - Noon Pinhole - Fuji T64 - Griegos"
 date: 2016-04-01
 slug: "9793-noon-pinhole-fuji-t64-griegos"
 categories: 
+  - "fotografia-estenopeica"
   - "noon-pinhole-612"
   - "noonpinhole6x12-f-207"
 author: "fatmin"

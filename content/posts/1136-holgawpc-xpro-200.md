@@ -3,6 +3,7 @@ title: "1136 - HolgaWPC- Xpro 200"
 date: 2015-04-01
 slug: "1136-holgawpc-xpro-200"
 categories: 
+  - "fotografia-estenopeica"
   - "holga-wpc"
 author: "fatmin"
 tags: []

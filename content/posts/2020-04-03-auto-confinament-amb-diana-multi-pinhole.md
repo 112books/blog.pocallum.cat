@@ -3,6 +3,7 @@ title: "2020-04-03 - Auto-confinament amb Diana Multi Pinhole"
 date: 2020-04-04
 slug: "2020-04-03-auto-confinament-amb-diana-multi-pinhole"
 categories: 
+  - "fotografia-estenopeica"
   - "diana-multipinhole-operator"
 tags:
   - "autoconfinament"

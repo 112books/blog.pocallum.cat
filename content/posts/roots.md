@@ -3,6 +3,7 @@ title: "Roots"
 date: 2013-01-03
 slug: "roots"
 categories: 
+  - "fotografia-estenopeica"
   - "diana-multipinhole-operator"
 tags:
   - "arrels"

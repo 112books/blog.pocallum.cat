@@ -3,6 +3,7 @@ title: "3480 - Holga WPC - Fujichrome T64 Tungsten"
 date: 2014-08-28
 slug: "3480-holga-wpc-fujichrome-t64-tungsten"
 categories: 
+  - "fotografia-estenopeica"
   - "holga-wpc"
 author: "fatmin"
 tags: []

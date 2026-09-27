@@ -3,6 +3,7 @@ title: "Pinholejant al montseny"
 date: 2012-10-24
 slug: "pinholejant-al-montseny"
 categories: 
+  - "fotografia-estenopeica"
   - "general"
 tags:
   - "canon5d"

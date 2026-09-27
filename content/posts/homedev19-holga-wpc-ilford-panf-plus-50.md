@@ -3,6 +3,7 @@ title: "HomeDev#19 - Holga WPC -  Ilford PanF Plus 50"
 date: 2014-08-25
 slug: "homedev19-holga-wpc-ilford-panf-plus-50"
 categories: 
+  - "fotografia-estenopeica"
   - "holga-wpc"
 author: "fatmin"
 tags: []

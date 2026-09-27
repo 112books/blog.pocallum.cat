@@ -3,6 +3,7 @@ title: "Menorca estenopèica"
 date: 2021-08-11
 slug: "menorca-estenopeica"
 categories: 
+  - "fotografia-estenopeica"
   - "holga-wpc"
 author: "fatmin"
 tags: []

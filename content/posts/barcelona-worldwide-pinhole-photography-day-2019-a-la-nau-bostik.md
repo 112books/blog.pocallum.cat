@@ -3,6 +3,7 @@ title: "Barcelona Worldwide Pinhole Photography Day 2019 a la Nau Bostik"
 date: 2019-05-11
 slug: "barcelona-worldwide-pinhole-photography-day-2019-a-la-nau-bostik"
 categories: 
+  - "fotografia-estenopeica"
   - "leica-m6"
 author: "inuxbcn"
 tags: []

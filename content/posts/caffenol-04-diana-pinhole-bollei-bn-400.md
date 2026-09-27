@@ -3,6 +3,7 @@ title: "Caffenol #04 - Diana Pinhole - Rollei BN 400"
 date: 2013-05-15
 slug: "caffenol-04-diana-pinhole-bollei-bn-400"
 categories: 
+  - "fotografia-estenopeica"
   - "diana-f"
 tags:
   - "bn-rollei"

@@ -3,6 +3,7 @@ title: "1138 - Holga WPC - Fujichrome T64"
 date: 2015-04-01
 slug: "1138-holga-wpc-fujichrome-t64"
 categories: 
+  - "fotografia-estenopeica"
   - "holga-wpc"
 author: "fatmin"
 tags: []

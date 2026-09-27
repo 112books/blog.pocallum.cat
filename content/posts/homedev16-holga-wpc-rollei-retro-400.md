@@ -3,6 +3,7 @@ title: "HomeDev#16 - Holga WPC -  Rollei Retro 400"
 date: 2014-08-10
 slug: "homedev16-holga-wpc-rollei-retro-400"
 categories: 
+  - "fotografia-estenopeica"
   - "holga-wpc"
 author: "fatmin"
 tags: []

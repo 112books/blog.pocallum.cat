@@ -3,6 +3,7 @@ title: "Probes amb el nou estenop i la Canon 5D"
 date: 2013-04-25
 slug: "probes-amb-el-nou-estenop-i-la-canon-5d"
 categories: 
+  - "fotografia-estenopeica"
   - "camara"
   - "canon-eos-5"
 tags:

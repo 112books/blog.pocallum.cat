@@ -3,6 +3,7 @@ title: "HoleDev#62- Noon Pinhole 612 - Fomapan 100"
 date: 2016-01-10
 slug: "holedev62-noon-pinhole-612-fomapan-100"
 categories: 
+  - "fotografia-estenopeica"
   - "noon-pinhole-612"
   - "noonpinhole6x12-f-207"
 author: "fatmin"

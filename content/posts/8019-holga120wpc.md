@@ -3,6 +3,7 @@ title: "8019 - Holga120WPC"
 date: 2014-05-13
 slug: "8019-holga120wpc"
 categories: 
+  - "fotografia-estenopeica"
   - "holga-wpc"
 author: "fatmin"
 tags: []

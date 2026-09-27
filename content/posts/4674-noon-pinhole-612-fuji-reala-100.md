@@ -3,6 +3,7 @@ title: "4674 - Noon Pinhole 612 - Fuji Reala 100"
 date: 2016-01-14
 slug: "4674-noon-pinhole-612-fuji-reala-100"
 categories: 
+  - "fotografia-estenopeica"
   - "noon-pinhole-612"
   - "noonpinhole6x12-f-207"
 author: "fatmin"

@@ -3,6 +3,7 @@ title: "LomoTaller de Caffenol a Lompgraphy Embassy Store Barcelona"
 date: 2015-05-26
 slug: "lomotaller-de-caffenol-a-lompgraphy-embassy-store-barcelona"
 categories: 
+  - "fotografia-estenopeica"
   - "diana-f"
 author: "fatmin"
 tags: []

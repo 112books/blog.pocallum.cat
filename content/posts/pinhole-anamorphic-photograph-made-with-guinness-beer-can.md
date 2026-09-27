@@ -3,6 +3,7 @@ title: "Pinhole anamorphic photograph made with Guinness beer can"
 date: 2020-04-25
 slug: "pinhole-anamorphic-photograph-made-with-guinness-beer-can"
 categories: 
+  - "fotografia-estenopeica"
   - "guinness-44cl-pinhole-cam"
 tags:
   - "anamorphic"
@@ -10,12 +11,12 @@ tags:
   - "pinhole"
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2020/04/2020-04-25-002-1024x819-1.jpg
-image: https://linuxbcn.org/wp-content/uploads/2020/04/2020-04-25-002-1024x819.jpg
+image: /linuxbcn-org/2020/04/2020-04-25-002-1024x819.webp
 ---
 
 <figure>
 
-[![Guinness beer pinhole](https://linuxbcn.org/wp-content/uploads/2020/04/2020-04-25-002-1024x819.jpg)](https://photos.app.goo.gl/KKSMYA59TcpfWiUy8)
+[![Guinness beer pinhole](/linuxbcn-org/2020/04/2020-04-25-002-1024x819.webp)](https://photos.app.goo.gl/KKSMYA59TcpfWiUy8)
 
 <figcaption>
 
@@ -29,7 +30,7 @@ Guinness beer pinhole
 
 <figure>
 
-![Guinness 44cl Pinhole Cam](https://linuxbcn.org/wp-content/uploads/2020/04/photo_2020-04-23-05.51.18.jpeg)
+![Guinness 44cl Pinhole Cam](/linuxbcn-org/2020/04/photo_2020-04-23-05.51.18.webp)
 
 <figcaption>
 

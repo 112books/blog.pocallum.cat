@@ -3,6 +3,7 @@ title: "9331 - Diana F+ Pinhole - CN100"
 date: 2015-04-30
 slug: "9331-diana-f-pinhole-cn100"
 categories: 
+  - "fotografia-estenopeica"
   - "lc-a-120"
 author: "fatmin"
 tags: []

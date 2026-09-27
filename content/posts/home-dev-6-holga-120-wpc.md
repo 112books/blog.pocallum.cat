@@ -3,6 +3,7 @@ title: "Home Dev #6 - Holga 120 WPC"
 date: 2014-05-02
 slug: "home-dev-6-holga-120-wpc"
 categories: 
+  - "fotografia-estenopeica"
   - "holga-wpc"
 author: "fatmin"
 tags: []

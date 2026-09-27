@@ -3,6 +3,7 @@ title: "Fotografies del Pinhole day 2012"
 date: 2012-04-30
 slug: "fotografies-del-pinhole-day-2012"
 categories: 
+  - "fotografia-estenopeica"
   - "general"
 tags:
   - "alfonsodecastro"

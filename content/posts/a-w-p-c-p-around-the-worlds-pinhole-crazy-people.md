@@ -3,6 +3,7 @@ title: "A.W.P.C.P. - Around the World’s Pinhole Crazy People"
 date: 2020-04-19
 slug: "a-w-p-c-p-around-the-worlds-pinhole-crazy-people"
 categories: 
+  - "fotografia-estenopeica"
   - "camara"
 tags:
   - "awpcpc-org"

@@ -3,6 +3,7 @@ title: "Elia's pinhole portrait"
 date: 2012-07-13
 slug: "elias-pinhole-portrait"
 categories: 
+  - "fotografia-estenopeica"
   - "camara"
   - "diana-multipinhole-operator"
 tags:

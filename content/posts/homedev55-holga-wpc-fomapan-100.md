@@ -3,6 +3,7 @@ title: "Homedev#55 - Holga WPC - Fomapan 100"
 date: 2015-08-25
 slug: "homedev55-holga-wpc-fomapan-100"
 categories: 
+  - "fotografia-estenopeica"
   - "holga-wpc"
 author: "fatmin"
 tags: []

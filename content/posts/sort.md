@@ -3,6 +3,7 @@ title: "Sort"
 date: 2020-09-01
 slug: "sort"
 categories: 
+  - "fotografia-estenopeica"
   - "holga-wpc"
 author: "fatmin"
 tags: []

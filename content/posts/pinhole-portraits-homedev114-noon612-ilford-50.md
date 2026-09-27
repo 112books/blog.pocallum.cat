@@ -3,6 +3,7 @@ title: "Pinhole Portraits - HomeDev#114 - Noon612 - Ilford 50"
 date: 2017-05-01
 slug: "pinhole-portraits-homedev114-noon612-ilford-50"
 categories: 
+  - "fotografia-estenopeica"
   - "noon-pinhole-612"
   - "noonpinhole6x12-f-207"
 author: "fatmin"

@@ -3,6 +3,7 @@ title: "Diana F+ PinholeWordDay a Can Basté"
 date: 2015-04-26
 slug: "diana-f-pinholewordday-a-can-baste"
 categories: 
+  - "fotografia-estenopeica"
   - "diana-f"
 author: "fatmin"
 tags: []

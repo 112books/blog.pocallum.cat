@@ -3,6 +3,7 @@ title: "15 minuts d'autoretrat pinhole ;)"
 date: 2012-07-13
 slug: "15-minuts-dautoretrat-pinhole"
 categories: 
+  - "fotografia-estenopeica"
   - "diana-multipinhole-operator"
 tags:
   - "dianamultipinhole"

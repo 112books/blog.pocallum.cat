@@ -3,6 +3,7 @@ title: "Homedev#61 - Holga WPC - Earl Grey 100"
 date: 2015-12-27
 slug: "homedev61-holga-wpc-earl-grey-100"
 categories: 
+  - "fotografia-estenopeica"
   - "holga-wpc"
 author: "fatmin"
 tags: []

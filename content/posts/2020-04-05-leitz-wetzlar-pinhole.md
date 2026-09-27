@@ -3,6 +3,7 @@ title: "2020-04-05 - Leitz-Wetzlar Pinhole"
 date: 2020-04-05
 slug: "2020-04-05-leitz-wetzlar-pinhole"
 categories: 
+  - "fotografia-estenopeica"
   - "leitz-wetzlar-pinhole"
 tags:
   - "hanmade"

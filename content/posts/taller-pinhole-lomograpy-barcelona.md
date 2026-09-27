@@ -3,6 +3,7 @@ title: "Taller Pinhole Lomograpy Barcelona"
 date: 2012-05-16
 slug: "taller-pinhole-lomograpy-barcelona"
 categories: 
+  - "fotografia-estenopeica"
   - "diana-multipinhole-operator"
 tags:
   - "lomography"

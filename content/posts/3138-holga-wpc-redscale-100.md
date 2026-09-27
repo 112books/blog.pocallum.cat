@@ -3,6 +3,7 @@ title: "3138 - Holga WPC - Redscale 100"
 date: 2014-08-13
 slug: "3138-holga-wpc-redscale-100"
 categories: 
+  - "fotografia-estenopeica"
   - "holga-wpc"
 author: "fatmin"
 tags: []

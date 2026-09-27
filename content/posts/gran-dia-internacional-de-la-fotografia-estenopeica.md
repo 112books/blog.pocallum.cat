@@ -20,11 +20,11 @@ Bé, ja ha finalitzat el dia de la fotografia estenopeica al que m'encanta parti
 
 Si us pica la curiositat del que es pot fer amb càmeras molt mot snezilles us deixo un parell d'àlbums disparats, revelats, escanejats i pujats avui a un dels meus webs:
 
-https://linuxbcn.org/world-pinhole-day-2020-holga120wpc/
+https://blog.pocallum.cat/2020/04/26/world-pinhole-day-2020-holga120wpc/
 
 Aquest més experimental i molt locu:
 
-https://linuxbcn.org/world-pinhole-day-2020-anamorphic-camera/
+https://blog.pocallum.cat/2020/04/26/world-pinhole-day-2020-anamorphic-camera/
 
 I bé, també recomanar-vos tota la gent d'arreu del món que ha col·laborat al projecte creat entre uns amics sobre aquest tipus de fotografia:
 

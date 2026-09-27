@@ -3,6 +3,7 @@ title: "5166 - Diana Pinhole -Redscale 100"
 date: 2014-10-23
 slug: "5166-diana-pinhole-redscale-100"
 categories: 
+  - "fotografia-estenopeica"
   - "diana-multipinhole-operator"
 author: "fatmin"
 tags: []

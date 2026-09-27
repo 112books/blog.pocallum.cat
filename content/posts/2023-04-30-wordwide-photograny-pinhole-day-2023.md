@@ -3,6 +3,7 @@ title: "2023-04-30- Wordwide Photograny Pinhole Day 2023"
 date: 2023-04-30
 slug: "2023-04-30-wordwide-photograny-pinhole-day-2023"
 categories: 
+  - "fotografia-estenopeica"
   - "holga-wpc"
   - "wood-pinholes-4x5-camera"
 author: "fatmin"

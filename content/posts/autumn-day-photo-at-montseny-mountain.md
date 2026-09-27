@@ -3,6 +3,7 @@ title: "Autumn day photo at Montseny mountain"
 date: 2012-10-30
 slug: "autumn-day-photo-at-montseny-mountain"
 categories: 
+  - "fotografia-estenopeica"
   - "diana-multipinhole-operator"
 tags:
   - "autumn"

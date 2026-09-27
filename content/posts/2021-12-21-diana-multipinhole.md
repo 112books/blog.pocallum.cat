@@ -3,6 +3,7 @@ title: "2021-12-21 - Diana MultiPinhole"
 date: 2021-12-21
 slug: "2021-12-21-diana-multipinhole"
 categories: 
+  - "fotografia-estenopeica"
   - "diana-multipinhole-operator"
 author: "fatmin"
 tags: []

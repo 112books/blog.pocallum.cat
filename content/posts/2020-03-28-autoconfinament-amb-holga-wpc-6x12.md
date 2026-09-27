@@ -3,6 +3,7 @@ title: "Autoconfinament amb Holga WPC 6×12"
 date: 2020-03-28
 slug: "2020-03-28-autoconfinament-amb-holga-wpc-6x12"
 categories: 
+  - "fotografia-estenopeica"
   - "holga-wpc"
 tags:
   - "1100"

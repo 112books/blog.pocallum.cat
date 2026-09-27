@@ -3,6 +3,7 @@ title: "Homedev#42 - Holga WPC - Ilford Panf + 50"
 date: 2015-04-03
 slug: "homedev42-holga-wpc-ilford-panf-50"
 categories: 
+  - "fotografia-estenopeica"
   - "holga-wpc"
 author: "fatmin"
 tags: []

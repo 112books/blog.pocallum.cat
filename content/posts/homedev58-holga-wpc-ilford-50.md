@@ -3,6 +3,7 @@ title: "Homedev#58 - Holga WPC - Ilford 50"
 date: 2015-12-08
 slug: "homedev58-holga-wpc-ilford-50"
 categories: 
+  - "fotografia-estenopeica"
   - "holga-wpc"
 author: "fatmin"
 tags: []

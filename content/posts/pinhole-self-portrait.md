@@ -3,6 +3,7 @@ title: "Pinhole self-portrait"
 date: 2014-08-24
 slug: "pinhole-self-portrait"
 categories: 
+  - "fotografia-estenopeica"
   - "holga-wpc"
 author: "fatmin"
 tags: []

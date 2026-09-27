@@ -3,6 +3,7 @@ title: "Vacances 2012 amb Diana multi Pinhole"
 date: 2012-08-29
 slug: "vacances-2012-amb-diana-multi-pinhole"
 categories: 
+  - "fotografia-estenopeica"
   - "diana-multipinhole-operator"
 tags:
   - "120"

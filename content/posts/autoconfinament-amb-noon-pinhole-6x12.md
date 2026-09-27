@@ -3,6 +3,7 @@ title: "Autoconfinament amb Noon Pinhole 6x12"
 date: 2020-03-24
 slug: "autoconfinament-amb-noon-pinhole-6x12"
 categories: 
+  - "fotografia-estenopeica"
   - "noonpinhole6x12-f-207"
 tags:
   - "autoconfinament"

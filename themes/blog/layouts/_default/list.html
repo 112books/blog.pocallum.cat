@@ -3,8 +3,9 @@
 {{/* ── Pàgina de taxonomia: /categories/xxx/ i /tags/xxx/ ─────────────── */}}
 <header class="page-header">
   <div class="container">
-    <p class="page-eyebrow">{{ if eq .Data.Singular "category" }}Càmera i òptiques{{ else }}Etiqueta{{ end }}</p>
+    <p class="page-eyebrow">{{ with .Params.eyebrow }}{{ . }}{{ else }}{{ if eq .Data.Singular "category" }}Càmera i òptiques{{ else }}Etiqueta{{ end }}{{ end }}</p>
     <h1 class="page-title">{{ .Title }}</h1>
+    {{ with .Params.intro }}<p class="page-intro">{{ . }}</p>{{ end }}
     <p class="page-intro">{{ len .Pages }} {{ if eq (len .Pages) 1 }}post{{ else }}posts{{ end }}</p>
   </div>
 </header>

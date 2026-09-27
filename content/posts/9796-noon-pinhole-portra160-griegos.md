@@ -3,6 +3,7 @@ title: "9796 - Noon Pinhole - Portra160 - Griegos"
 date: 2016-03-31
 slug: "9796-noon-pinhole-portra160-griegos"
 categories: 
+  - "fotografia-estenopeica"
   - "noon-pinhole-612"
   - "noonpinhole6x12-f-207"
 author: "fatmin"

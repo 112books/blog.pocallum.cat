@@ -3,6 +3,7 @@ title: "Pinhole amb Diana Pinhole + Diana InstantBack"
 date: 2015-04-27
 slug: "pinhole-amb-diana-pinhole-diana-instantback"
 categories: 
+  - "fotografia-estenopeica"
   - "diana-multipinhole-operator"
 author: "fatmin"
 tags: []

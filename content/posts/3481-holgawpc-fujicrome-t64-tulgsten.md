@@ -3,6 +3,7 @@ title: "3481 - HolgaWPC - Fujicrome T64 Tulgsten"
 date: 2014-08-27
 slug: "3481-holgawpc-fujicrome-t64-tulgsten"
 categories: 
+  - "fotografia-estenopeica"
   - "holga-wpc"
 author: "fatmin"
 tags: []

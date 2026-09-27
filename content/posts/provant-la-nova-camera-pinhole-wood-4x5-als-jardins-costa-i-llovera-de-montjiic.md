@@ -1,0 +1,19 @@
+---
+title: "Provant la nova càmera Pinhole wood 4×5 als Jardins Costa i Llovera de Montjïic"
+date: 2019-02-15
+slug: "provant-la-nova-camera-pinhole-wood-4x5-als-jardins-costa-i-llovera-de-montjiic"
+categories: 
+  - "fotografia-estenopeica"
+  - "wood-pinholes-4x5-camera"
+author: "fatmin"
+tags: []
+thumbnail: https://lh3.googleusercontent.com/6bfuQKWZdHQdYVE6Xk5I30LnBJYwmETW-tr5s-HacOKTYGiV-NUrrbMoHX3Fb7xStfpzZfpmw9Py1HMksCA6ScOWLZqhULjbKZktDE8eGo7FAKM7whSsuW4gnYEUfbdNrXNiB-cMXWYYLdMu_uPJSFD2u_LMbUGJSIYrjvekqWCmABkkk5QZocNZsvFcd1sCDs9EQ1raptNGu40mX9Msqyvm8cQrJnqswDhW6Tanqym31ehYK3OkktkWu47WnU86XVuPjQp0Kli8_gIeBT7bw5jK6i2yF6Y2ktQJnMQBWHAvwD3z58z42ZZyz2ANzcKk0MPzcr0ChqRxy4ZCmm0IjvRoF9GNZsv-tYU0LEXoP__-5Eh3SKOwSBZMMwTbZy7bBxKwA6gV4mHrhqwTjoqk_jt5HjOhpN-OyNa_Z17sjIVwjG3FY_tzkjTqFWflS69O3sTx2ViOEoRKhewwwtwk4WqkJ4dmcPGUIaEAPK3c8U3VfoKCVjoS_8_mKZ0qmFO8FSnsUoCLa_DZy4oyNMS6Syra5cKHXS_JvbuVSRS99CkuWb_0jUlv8XFlJKBR4V-Xc2dfpgs03q5nJe6XZwV6l1Lr12pLJ5FdKCyn4wtmdTFoRpPdHf_CZbiWuZe4WP-jO0_DihECiX-AS_Qj42zzJy8_ofRo3XrR=w992-h1239-no
+image: https://lh3.googleusercontent.com/6bfuQKWZdHQdYVE6Xk5I30LnBJYwmETW-tr5s-HacOKTYGiV-NUrrbMoHX3Fb7xStfpzZfpmw9Py1HMksCA6ScOWLZqhULjbKZktDE8eGo7FAKM7whSsuW4gnYEUfbdNrXNiB-cMXWYYLdMu_uPJSFD2u_LMbUGJSIYrjvekqWCmABkkk5QZocNZsvFcd1sCDs9EQ1raptNGu40mX9Msqyvm8cQrJnqswDhW6Tanqym31ehYK3OkktkWu47WnU86XVuPjQp0Kli8_gIeBT7bw5jK6i2yF6Y2ktQJnMQBWHAvwD3z58z42ZZyz2ANzcKk0MPzcr0ChqRxy4ZCmm0IjvRoF9GNZsv-tYU0LEXoP__-5Eh3SKOwSBZMMwTbZy7bBxKwA6gV4mHrhqwTjoqk_jt5HjOhpN-OyNa_Z17sjIVwjG3FY_tzkjTqFWflS69O3sTx2ViOEoRKhewwwtwk4WqkJ4dmcPGUIaEAPK3c8U3VfoKCVjoS_8_mKZ0qmFO8FSnsUoCLa_DZy4oyNMS6Syra5cKHXS_JvbuVSRS99CkuWb_0jUlv8XFlJKBR4V-Xc2dfpgs03q5nJe6XZwV6l1Lr12pLJ5FdKCyn4wtmdTFoRpPdHf_CZbiWuZe4WP-jO0_DihECiX-AS_Qj42zzJy8_ofRo3XrR=w992-h1239-no
+# Migrat de https://linuxbcn.org/provant-la-nova-camera-pinhole-wood-4x5-als-jardins-costa-i-llovera-de-montjiic/
+---
+
+Avui he pogut ja fet les primeres proves de la càmera que ahir va regalar-me en [Kevin](https://www.instagram.com/chaomhin/) de [Franken Camera Project](https://www.lomography.com/magazine/337657-the-franken-camera-project-by-kevin-strandberg) 😉 És una delícia, ara que també tinc molts xassís de 4×5, fer fotografia estenopeica a 4×5 polzades. Te un «diafragma» de 256 i és prou angular.
+
+Aquí les primeres fotos fetes amb aquesta càmera. N’hi ha 4 fetes amb [la](https://www.instagram.com/explore/tags/ids/) película ortocromàtica ids independent darkroom suplies i 4 més amb la clàssica Fomapan ISO 100.
+
+[![](https://lh3.googleusercontent.com/6bfuQKWZdHQdYVE6Xk5I30LnBJYwmETW-tr5s-HacOKTYGiV-NUrrbMoHX3Fb7xStfpzZfpmw9Py1HMksCA6ScOWLZqhULjbKZktDE8eGo7FAKM7whSsuW4gnYEUfbdNrXNiB-cMXWYYLdMu_uPJSFD2u_LMbUGJSIYrjvekqWCmABkkk5QZocNZsvFcd1sCDs9EQ1raptNGu40mX9Msqyvm8cQrJnqswDhW6Tanqym31ehYK3OkktkWu47WnU86XVuPjQp0Kli8_gIeBT7bw5jK6i2yF6Y2ktQJnMQBWHAvwD3z58z42ZZyz2ANzcKk0MPzcr0ChqRxy4ZCmm0IjvRoF9GNZsv-tYU0LEXoP__-5Eh3SKOwSBZMMwTbZy7bBxKwA6gV4mHrhqwTjoqk_jt5HjOhpN-OyNa_Z17sjIVwjG3FY_tzkjTqFWflS69O3sTx2ViOEoRKhewwwtwk4WqkJ4dmcPGUIaEAPK3c8U3VfoKCVjoS_8_mKZ0qmFO8FSnsUoCLa_DZy4oyNMS6Syra5cKHXS_JvbuVSRS99CkuWb_0jUlv8XFlJKBR4V-Xc2dfpgs03q5nJe6XZwV6l1Lr12pLJ5FdKCyn4wtmdTFoRpPdHf_CZbiWuZe4WP-jO0_DihECiX-AS_Qj42zzJy8_ofRo3XrR=w992-h1239-no)](https://photos.app.goo.gl/eonCR1M39yHzpyvG6)

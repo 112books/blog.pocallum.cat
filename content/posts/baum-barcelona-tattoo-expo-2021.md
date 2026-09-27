@@ -3,6 +3,7 @@ title: "BAUM - Barcelona Tattoo Expo 2021"
 date: 2021-10-04
 slug: "baum-barcelona-tattoo-expo-2021"
 categories: 
+  - "fotografia-estenopeica"
   - "leica-m6"
 author: "fatmin"
 tags: []

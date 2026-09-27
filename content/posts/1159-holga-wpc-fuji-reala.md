@@ -3,6 +3,7 @@ title: "1159 - Holga WPC - Fuji Reala"
 date: 2015-04-08
 slug: "1159-holga-wpc-fuji-reala"
 categories: 
+  - "fotografia-estenopeica"
   - "holga-wpc"
 author: "fatmin"
 tags: []

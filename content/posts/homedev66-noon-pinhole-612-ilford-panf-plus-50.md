@@ -3,6 +3,7 @@ title: "Homedev#66 - Noon Pinhole 612 - Ilford PANF Plus 50"
 date: 2016-01-10
 slug: "homedev66-noon-pinhole-612-ilford-panf-plus-50"
 categories: 
+  - "fotografia-estenopeica"
   - "noon-pinhole-612"
   - "noonpinhole6x12-f-207"
 author: "fatmin"

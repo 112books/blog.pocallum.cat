@@ -3,6 +3,7 @@ title: "Guinness 44cl Pinhole Cam"
 date: 2020-04-23
 slug: "guinness-44cl-pinhole-cam"
 categories: 
+  - "fotografia-estenopeica"
   - "camara"
   - "guinness-44cl-pinhole-cam"
 tags:

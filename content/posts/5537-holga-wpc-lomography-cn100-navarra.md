@@ -3,6 +3,7 @@ title: "5537 - Holga WPC - Lomography CN100 - Navarra"
 date: 2015-09-01
 slug: "5537-holga-wpc-lomography-cn100-navarra"
 categories: 
+  - "fotografia-estenopeica"
   - "holga-wpc"
 author: "fatmin"
 tags: []

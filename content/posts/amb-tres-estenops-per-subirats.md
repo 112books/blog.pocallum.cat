@@ -3,6 +3,7 @@ title: "Amb tres estenops per Subirats"
 date: 2021-12-28
 slug: "amb-tres-estenops-per-subirats"
 categories: 
+  - "fotografia-estenopeica"
   - "diana-multipinhole-operator"
 author: "fatmin"
 tags: []

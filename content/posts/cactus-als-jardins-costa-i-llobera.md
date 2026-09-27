@@ -3,6 +3,7 @@ title: "Cactus als jardins Costa i Llobera"
 date: 2016-08-07
 slug: "cactus-als-jardins-costa-i-llobera"
 categories: 
+  - "fotografia-estenopeica"
   - "fuji-x-a1"
 author: "fatmin"
 tags: []

@@ -3,6 +3,7 @@ title: "4673 - Noon Pinhole 612 - FUJICHROME PROVIA 100F"
 date: 2016-01-13
 slug: "4673-noon-pinhole-612-fujichrome-provia-100f"
 categories: 
+  - "fotografia-estenopeica"
   - "noon-pinhole-612"
   - "noonpinhole6x12-f-207"
 author: "fatmin"

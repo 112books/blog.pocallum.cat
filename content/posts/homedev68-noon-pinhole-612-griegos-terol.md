@@ -3,6 +3,7 @@ title: "Homedev#68 – Noon Pinhole 612 –Griegos, Terol"
 date: 2016-03-29
 slug: "homedev68-noon-pinhole-612-griegos-terol"
 categories: 
+  - "fotografia-estenopeica"
   - "noon-pinhole-612"
   - "noonpinhole6x12-f-207"
 author: "fatmin"

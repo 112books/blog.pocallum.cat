@@ -3,6 +3,7 @@ title: "5158 - Diana Pinhole - RedScale 100"
 date: 2013-10-30
 slug: "5158-diana-pinhole-redscale-100"
 categories: 
+  - "fotografia-estenopeica"
   - "diana-multipinhole-operator"
 tags:
   - "diana-pinhole"
