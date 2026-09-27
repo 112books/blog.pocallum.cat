@@ -1,10 +1,10 @@
 {
-  "generated": "2026-09-26T22:52:05.389004Z",
+  "generated": "2026-09-27T01:28:04.435072Z",
   "period": {
-    "start": "2025-09-26",
-    "end": "2026-09-26"
+    "start": "2025-09-27",
+    "end": "2026-09-27"
   },
-  "total": 1499,
+  "total": 1506,
   "total_unique": 0,
   "hits_by_day": [
     {
@@ -329,13 +329,13 @@
     },
     {
       "date": "2026-09-26",
-      "count": 3
+      "count": 10
     }
   ],
   "hits": [
     {
       "path": "/",
-      "count": 224
+      "count": 226
     },
     {
       "path": "/2026/07/11/2026-07-11-prospe-beach-again",
@@ -355,11 +355,15 @@
     },
     {
       "path": "/2026/09/20/2026-09-19-casal-de-barri-de-prosperitat-tributo-a-amaral",
-      "count": 19
+      "count": 20
     },
     {
       "path": "/2026/09/07/2026-09-06-festival-masimas-2026-el-parallel-oblidat-recordant-a-merche-mar",
       "count": 18
+    },
+    {
+      "path": "/2026/09/20/2026-09-19-festa-major-de-verdum-verdum-punkfest",
+      "count": 16
     },
     {
       "path": "/2026/08/19/2026-08-18-despedida-anike-lamoso",
@@ -368,10 +372,6 @@
     {
       "path": "/2026/07/06/2026-07-05-24e-festival-de-blues-de-barcelona-jam-session-de-clausura",
       "count": 16
-    },
-    {
-      "path": "/2026/09/20/2026-09-19-festa-major-de-verdum-verdum-punkfest",
-      "count": 14
     },
     {
       "path": "/2026/07/31/2026-07-30-primeres-proves-per-al-repte-retrats-lents-de-112-revelats",
@@ -414,6 +414,10 @@
       "count": 9
     },
     {
+      "path": "/2024/02/22/sessio-amb-la-ballarina-nahomi-itzel",
+      "count": 9
+    },
+    {
       "path": "/?query-0-page=2",
       "count": 9
     },
@@ -431,10 +435,6 @@
     },
     {
       "path": "/category/camara",
-      "count": 8
-    },
-    {
-      "path": "/2024/02/22/sessio-amb-la-ballarina-nahomi-itzel",
       "count": 8
     },
     {
@@ -535,8 +535,8 @@
     }
   ],
   "by_section": {
-    "inici": 224,
-    "posts": 666,
+    "inici": 226,
+    "posts": 671,
     "cerca": 22,
     "contact": 13,
     "aviso-legal": 12,
@@ -710,11 +710,15 @@
     },
     {
       "path": "/2026/09/20/2026-09-19-casal-de-barri-de-prosperitat-tributo-a-amaral",
-      "count": 19
+      "count": 20
     },
     {
       "path": "/2026/09/07/2026-09-06-festival-masimas-2026-el-parallel-oblidat-recordant-a-merche-mar",
       "count": 18
+    },
+    {
+      "path": "/2026/09/20/2026-09-19-festa-major-de-verdum-verdum-punkfest",
+      "count": 16
     },
     {
       "path": "/2026/08/19/2026-08-18-despedida-anike-lamoso",
@@ -723,10 +727,6 @@
     {
       "path": "/2026/07/06/2026-07-05-24e-festival-de-blues-de-barcelona-jam-session-de-clausura",
       "count": 16
-    },
-    {
-      "path": "/2026/09/20/2026-09-19-festa-major-de-verdum-verdum-punkfest",
-      "count": 14
     },
     {
       "path": "/2026/07/31/2026-07-30-primeres-proves-per-al-repte-retrats-lents-de-112-revelats",
@@ -749,12 +749,12 @@
       "count": 10
     },
     {
-      "path": "/2026/07/05/2026-07-03-05-24e-festival-de-blues-de-barcelona-organitzacio-colaboradors-amics-i-voluntaris",
+      "path": "/2024/02/22/sessio-amb-la-ballarina-nahomi-itzel",
       "count": 9
     },
     {
-      "path": "/2026/09/04/2026-09-04-lanomala",
-      "count": 8
+      "path": "/2026/07/05/2026-07-03-05-24e-festival-de-blues-de-barcelona-organitzacio-colaboradors-amics-i-voluntaris",
+      "count": 9
     }
   ],
   "browsers": [
@@ -914,7 +914,7 @@
     {
       "name": "Desconegut",
       "id": "Desconegut",
-      "count": 797
+      "count": 798
     },
     {
       "name": "www.9barrisimatge.org",
@@ -924,12 +924,12 @@
     {
       "name": "Google",
       "id": "Google",
-      "count": 82
+      "count": 83
     },
     {
       "name": "www.facebook.com",
       "id": "www.facebook.com",
-      "count": 14
+      "count": 15
     },
     {
       "name": "pocallum.cat",
@@ -957,9 +957,9 @@
       "count": 5
     },
     {
-      "name": "l.threads.com",
-      "id": "l.threads.com",
-      "count": 4
+      "name": "9barrisimatge.org",
+      "id": "9barrisimatge.org",
+      "count": 5
     }
   ]
 }
