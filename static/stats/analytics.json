@@ -1,10 +1,10 @@
 {
-  "generated": "2026-09-27T22:12:33.937868Z",
+  "generated": "2026-09-28T00:47:47.097801Z",
   "period": {
-    "start": "2025-09-27",
-    "end": "2026-09-27"
+    "start": "2025-09-28",
+    "end": "2026-09-28"
   },
-  "total": 1506,
+  "total": 1520,
   "total_unique": 0,
   "hits_by_day": [
     {
@@ -330,16 +330,20 @@
     {
       "date": "2026-09-26",
       "count": 10
+    },
+    {
+      "date": "2026-09-27",
+      "count": 14
     }
   ],
   "hits": [
     {
       "path": "/",
-      "count": 226
+      "count": 231
     },
     {
       "path": "/2026/07/11/2026-07-11-prospe-beach-again",
-      "count": 85
+      "count": 86
     },
     {
       "path": "/2026/07/26/2026-07-25-una-jornada-amb-els-barcelona-gipsy-balkan-orchestra",
@@ -351,11 +355,11 @@
     },
     {
       "path": "/cerca",
-      "count": 22
+      "count": 23
     },
     {
       "path": "/2026/09/20/2026-09-19-casal-de-barri-de-prosperitat-tributo-a-amaral",
-      "count": 20
+      "count": 21
     },
     {
       "path": "/2026/09/07/2026-09-06-festival-masimas-2026-el-parallel-oblidat-recordant-a-merche-mar",
@@ -363,7 +367,7 @@
     },
     {
       "path": "/2026/09/20/2026-09-19-festa-major-de-verdum-verdum-punkfest",
-      "count": 16
+      "count": 17
     },
     {
       "path": "/2026/08/19/2026-08-18-despedida-anike-lamoso",
@@ -394,6 +398,10 @@
       "count": 12
     },
     {
+      "path": "/arxiu",
+      "count": 11
+    },
+    {
       "path": "/2026/09/06/visa-pour-limage-2026-una-jornada-de-fotoperiodisme-a-perpinya",
       "count": 10
     },
@@ -406,11 +414,11 @@
       "count": 10
     },
     {
-      "path": "/arxiu",
+      "path": "/blog.pocallum.cat",
       "count": 9
     },
     {
-      "path": "/blog.pocallum.cat",
+      "path": "/2026/09/04/2026-09-04-lanomala",
       "count": 9
     },
     {
@@ -424,10 +432,6 @@
     {
       "path": "/2026/07/05/2026-07-03-05-24e-festival-de-blues-de-barcelona-organitzacio-colaboradors-amics-i-voluntaris",
       "count": 9
-    },
-    {
-      "path": "/2026/09/04/2026-09-04-lanomala",
-      "count": 8
     },
     {
       "path": "/2026/08/15/2026-08-12-laura-a-32-oc",
@@ -535,13 +539,13 @@
     }
   ],
   "by_section": {
-    "inici": 226,
-    "posts": 671,
-    "cerca": 22,
+    "inici": 231,
+    "posts": 677,
+    "cerca": 23,
     "contact": 13,
     "aviso-legal": 12,
+    "arxiu": 13,
     "about": 10,
-    "arxiu": 11,
     "blog.pocallum.cat": 24,
     "?query-0-page=2": 9,
     "category": 172,
@@ -698,7 +702,7 @@
   "posts_top": [
     {
       "path": "/2026/07/11/2026-07-11-prospe-beach-again",
-      "count": 85
+      "count": 86
     },
     {
       "path": "/2026/07/26/2026-07-25-una-jornada-amb-els-barcelona-gipsy-balkan-orchestra",
@@ -710,7 +714,7 @@
     },
     {
       "path": "/2026/09/20/2026-09-19-casal-de-barri-de-prosperitat-tributo-a-amaral",
-      "count": 20
+      "count": 21
     },
     {
       "path": "/2026/09/07/2026-09-06-festival-masimas-2026-el-parallel-oblidat-recordant-a-merche-mar",
@@ -718,7 +722,7 @@
     },
     {
       "path": "/2026/09/20/2026-09-19-festa-major-de-verdum-verdum-punkfest",
-      "count": 16
+      "count": 17
     },
     {
       "path": "/2026/08/19/2026-08-18-despedida-anike-lamoso",
@@ -749,11 +753,11 @@
       "count": 10
     },
     {
-      "path": "/2024/02/22/sessio-amb-la-ballarina-nahomi-itzel",
+      "path": "/2026/09/04/2026-09-04-lanomala",
       "count": 9
     },
     {
-      "path": "/2026/07/05/2026-07-03-05-24e-festival-de-blues-de-barcelona-organitzacio-colaboradors-amics-i-voluntaris",
+      "path": "/2024/02/22/sessio-amb-la-ballarina-nahomi-itzel",
       "count": 9
     }
   ],
@@ -914,7 +918,7 @@
     {
       "name": "Desconegut",
       "id": "Desconegut",
-      "count": 798
+      "count": 800
     },
     {
       "name": "www.9barrisimatge.org",
@@ -942,6 +946,11 @@
       "count": 8
     },
     {
+      "name": "9barrisimatge.org",
+      "id": "9barrisimatge.org",
+      "count": 8
+    },
+    {
       "name": "ig",
       "id": "ig",
       "count": 6
@@ -952,13 +961,8 @@
       "count": 5
     },
     {
-      "name": "112books.github.io/blog.pocallum.cat",
-      "id": "112books.github.io/blog.pocallum.cat",
-      "count": 5
-    },
-    {
-      "name": "9barrisimatge.org",
-      "id": "9barrisimatge.org",
+      "name": "l.threads.com",
+      "id": "l.threads.com",
       "count": 5
     }
   ]
