@@ -1,8 +1,7 @@
 {{/* ── Imatge responsiva
-     Ús: {{ partial "img.html" (dict "src" $url "alt" $alt "class" "post-hero__img" "loading" "eager") }}
-     variant = "" (cap webp) | "hero" (-2500.webp) | "thumb" (-800.webp)
-     Només s'activa el <picture> si la imatge viu al nostre servidor
-     (blog.pocallum.cat/wp-content/...) — les externes queden com <img> senzill.
+     variant = "" (cap webp) | "hero" (-2500) | "thumb" (-800)
+     Genera <picture> amb srcset -800/-2500 (amb descriptors w) quan la imatge
+     és del nostre servidor. Les externes queden com <img> senzill.
      ── */}}
 {{- $src     := .src | default "" -}}
 {{- $alt     := .alt | default "" -}}
@@ -10,26 +9,38 @@
 {{- $loading := .loading | default "lazy" -}}
 {{- $decoding := .decoding | default "async" -}}
 {{- $variant := .variant | default "" -}}
-{{- $webp    := "" -}}
-{{- $dim     := index site.Data.imatges_dim $src -}}
 {{- $webpActivat := site.Params.imatgeswebp | default false -}}
-{{- /* Imatges del repo (/media/): WebP garantit. Llegat (/wp-content/): només si imatgesWebp = true. */ -}}
+{{- $dim     := index site.Data.imatges_dim $src -}}
 {{- $esRepo := or (strings.HasPrefix $src "/media/") (strings.HasPrefix $src "https://blog.pocallum.cat/media/") -}}
 {{- $esWp   := strings.HasPrefix $src "https://blog.pocallum.cat/wp-content/" -}}
-{{- if and $variant $src (or $esRepo (and $esWp $webpActivat)) -}}
-  {{- $suffix := "" -}}
-  {{- if eq $variant "hero" }}{{ $suffix = "-2500" }}{{ end -}}
-  {{- if eq $variant "thumb" }}{{ $suffix = "-800" }}{{ end -}}
+{{- $doWebp := and $variant $src (or $esRepo (and $esWp $webpActivat)) -}}
+{{- $w800 := "" -}}
+{{- $w2500 := "" -}}
+{{- if $doWebp -}}
   {{- $re := `\.(jpg|jpeg|png)(\?.*)?$` -}}
   {{- if (findRE $re $src) -}}
-    {{- $webp = replaceRE $re (printf "%s%s" $suffix ".webp") $src -}}
-    {{- /* neteja doble extensió si ja acabava amb -2500.webp */ -}}
+    {{- $w800 = replaceRE $re "-800.webp" $src -}}
+    {{- $w2500 = replaceRE $re "-2500.webp" $src -}}
   {{- end -}}
 {{- end -}}
-
-{{- if $webp -}}
+{{- $w800w := 800 -}}
+{{- $w2500w := 2500 -}}
+{{- with $dim -}}
+  {{- $ow := index . 0 -}}
+  {{- $w800w = cond (gt $ow 800) 800 $ow -}}
+  {{- $w2500w = cond (gt $ow 2500) 2500 $ow -}}
+{{- end -}}
+{{- $sizes := .sizes | default "" -}}
+{{- if not $sizes -}}
+  {{- if eq $variant "hero" -}}{{- $sizes = "100vw" -}}{{- else -}}{{- $sizes = "(max-width: 540px) 50vw, (max-width: 900px) 33vw, 220px" -}}{{- end -}}
+{{- end -}}
+{{- if $w800 -}}
 <picture>
-  <source srcset="{{ $webp }}" type="image/webp">
+  {{- if and $dim (gt $w2500w $w800w) }}
+  <source srcset="{{ $w800 }} {{ $w800w }}w, {{ $w2500 }} {{ $w2500w }}w" sizes="{{ $sizes }}" type="image/webp">
+  {{- else }}
+  <source srcset="{{ $w800 }} {{ $w800w }}w" sizes="{{ $sizes }}" type="image/webp">
+  {{- end }}
   <img src="{{ $src }}" alt="{{ $alt }}"{{ with $class }} class="{{ . }}"{{ end }}{{ with $dim }} width="{{ index . 0 }}" height="{{ index . 1 }}"{{ end }} loading="{{ $loading }}" decoding="{{ $decoding }}">
 </picture>
 {{- else -}}

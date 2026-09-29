@@ -1,0 +1,2 @@
+{{- $label := .PlainText | plainify -}}
+<a href="{{ .Destination | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }}{{ if not $label }} aria-label="Veure l'àlbum complet"{{ end }}>{{ .Text | safeHTML }}</a>
