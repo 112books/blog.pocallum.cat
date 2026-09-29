@@ -53,7 +53,7 @@ jobs:
                   val = line.split(":", 1)[1].strip().strip('"').strip("'")
                   if not val.startswith("https://blog.pocallum.cat/wp-content/uploads/"):
                       continue
-                  rel = unquote(val.split("/wp-content/uploads/", 1)[1])
+                  rel = unquote(val.split("/wp-content/uploads/", 1)[1]).split("?")[0].split("#")[0]
                   if rel not in seen:
                       seen.add(rel)
                       urls.append(rel)
