@@ -28,6 +28,31 @@ jobs:
           tar -xzf hugo_extended_0.164.0_linux-amd64.tar.gz
           sudo mv hugo /usr/local/bin/
 
+      - name: Genera WebP de static/media (si cal)
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq webp imagemagick
+          python3 - <<'PY'
+          import glob, os, subprocess
+          for src in sorted(glob.glob("static/media/*")):
+              if not src.lower().endswith((".jpg", ".jpeg", ".png")):
+                  continue
+              base = os.path.splitext(src)[0]
+              try:
+                  w = int(subprocess.check_output(["identify", "-format", "%w", src]).decode().strip())
+              except Exception:
+                  continue
+              for suf, cap in (("-800", 800), ("-2500", 2500)):
+                  out = base + suf + ".webp"
+                  if os.path.isfile(out):
+                      continue
+                  cmd = ["cwebp", "-quiet", "-q", "85"]
+                  if w > cap:
+                      cmd += ["-resize", str(cap), "0"]
+                  cmd += [src, "-o", out]
+                  subprocess.run(cmd, check=False)
+          print("WebP de static/media a punt")
+          PY
+
       - name: Build Hugo (staging, amb drafts, imatges apuntant al servidor)
         run: |
           hugo --minify \

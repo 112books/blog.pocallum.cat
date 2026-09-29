@@ -1,7 +1,8 @@
 {{/* ── Imatge responsiva
      variant = "" (cap webp) | "hero" (-2500) | "thumb" (-800)
-     Genera <picture> amb srcset -800/-2500 (amb descriptors w) quan la imatge
-     és del nostre servidor. Les externes queden com <img> senzill.
+     Per a imatges del repo (/media/): <picture> només si el WebP existeix a
+     static/ (les pujades noves del CMS poden no tenir-lo — fallback a <img>).
+     Per a imatges del llegat (/wp-content/): si imatgesWebp = true.
      ── */}}
 {{- $src     := .src | default "" -}}
 {{- $alt     := .alt | default "" -}}
@@ -13,14 +14,19 @@
 {{- $dim     := index site.Data.imatges_dim $src -}}
 {{- $esRepo := or (strings.HasPrefix $src "/media/") (strings.HasPrefix $src "https://blog.pocallum.cat/media/") -}}
 {{- $esWp   := strings.HasPrefix $src "https://blog.pocallum.cat/wp-content/" -}}
-{{- $doWebp := and $variant $src (or $esRepo (and $esWp $webpActivat)) -}}
 {{- $w800 := "" -}}
 {{- $w2500 := "" -}}
-{{- if $doWebp -}}
-  {{- $re := `\.(jpg|jpeg|png)(\?.*)?$` -}}
-  {{- if (findRE $re $src) -}}
-    {{- $w800 = replaceRE $re "-800.webp" $src -}}
-    {{- $w2500 = replaceRE $re "-2500.webp" $src -}}
+{{- $re := `\.(jpg|jpeg|png)(\?.*)?$` -}}
+{{- if and $variant $src (findRE $re $src) -}}
+  {{- $w800 = replaceRE $re "-800.webp" $src -}}
+  {{- $w2500 = replaceRE $re "-2500.webp" $src -}}
+{{- end -}}
+{{- $doWebp := false -}}
+{{- if $w800 -}}
+  {{- if $esRepo -}}
+    {{- $doWebp = os.FileExists (printf "static%s" $w800) -}}
+  {{- else if and $esWp $webpActivat -}}
+    {{- $doWebp = true -}}
   {{- end -}}
 {{- end -}}
 {{- $w800w := 800 -}}
@@ -34,7 +40,7 @@
 {{- if not $sizes -}}
   {{- if eq $variant "hero" -}}{{- $sizes = "100vw" -}}{{- else -}}{{- $sizes = "(max-width: 540px) 50vw, (max-width: 900px) 33vw, 220px" -}}{{- end -}}
 {{- end -}}
-{{- if $w800 -}}
+{{- if $doWebp -}}
 <picture>
   {{- if and $dim (gt $w2500w $w800w) }}
   <source srcset="{{ $w800 }} {{ $w800w }}w, {{ $w2500 }} {{ $w2500w }}w" sizes="{{ $sizes }}" type="image/webp">
