@@ -1,5 +1,10 @@
 ErrorDocument 404 /404.html
 
+# ── Tipus MIME: els .webp es servien sense Content-Type (els .jpg sí) ───────
+<IfModule mod_mime.c>
+  AddType image/webp .webp
+</IfModule>
+
 # ── Paritat d'URLs WordPress → Hugo ──────────────────────────────────────────
 # El WP (2010-2026) servia: tags a /tag/<slug>/ (flat) i categories a
 # /category/<pare>/<fill>/ (jeràrquic; pares: camara, optioca, publicacions).
