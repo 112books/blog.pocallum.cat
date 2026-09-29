@@ -1,10 +1,10 @@
 {
-  "generated": "2026-09-28T22:01:38.401147Z",
+  "generated": "2026-09-29T01:58:12.622271Z",
   "period": {
-    "start": "2025-09-28",
-    "end": "2026-09-28"
+    "start": "2025-09-29",
+    "end": "2026-09-29"
   },
-  "total": 1520,
+  "total": 1529,
   "total_unique": 0,
   "hits_by_day": [
     {
@@ -334,12 +334,16 @@
     {
       "date": "2026-09-27",
       "count": 14
+    },
+    {
+      "date": "2026-09-28",
+      "count": 9
     }
   ],
   "hits": [
     {
       "path": "/",
-      "count": 231
+      "count": 233
     },
     {
       "path": "/2026/07/11/2026-07-11-prospe-beach-again",
@@ -355,19 +359,19 @@
     },
     {
       "path": "/cerca",
-      "count": 23
+      "count": 24
     },
     {
       "path": "/2026/09/20/2026-09-19-casal-de-barri-de-prosperitat-tributo-a-amaral",
-      "count": 21
+      "count": 22
+    },
+    {
+      "path": "/2026/09/20/2026-09-19-festa-major-de-verdum-verdum-punkfest",
+      "count": 18
     },
     {
       "path": "/2026/09/07/2026-09-06-festival-masimas-2026-el-parallel-oblidat-recordant-a-merche-mar",
       "count": 18
-    },
-    {
-      "path": "/2026/09/20/2026-09-19-festa-major-de-verdum-verdum-punkfest",
-      "count": 17
     },
     {
       "path": "/2026/08/19/2026-08-18-despedida-anike-lamoso",
@@ -406,6 +410,10 @@
       "count": 10
     },
     {
+      "path": "/2026/09/04/2026-09-04-lanomala",
+      "count": 10
+    },
+    {
       "path": "/about",
       "count": 10
     },
@@ -415,10 +423,6 @@
     },
     {
       "path": "/blog.pocallum.cat",
-      "count": 9
-    },
-    {
-      "path": "/2026/09/04/2026-09-04-lanomala",
       "count": 9
     },
     {
@@ -539,9 +543,9 @@
     }
   ],
   "by_section": {
-    "inici": 231,
-    "posts": 677,
-    "cerca": 23,
+    "inici": 233,
+    "posts": 682,
+    "cerca": 24,
     "contact": 13,
     "aviso-legal": 12,
     "arxiu": 13,
@@ -560,7 +564,7 @@
     "page": 25,
     "?query-0-page=25": 4,
     "en-us": 4,
-    "tag": 69,
+    "tag": 70,
     "politica-de-cookies": 4,
     "?query-0-page=3": 3,
     "?query-0-page=165": 3,
@@ -714,15 +718,15 @@
     },
     {
       "path": "/2026/09/20/2026-09-19-casal-de-barri-de-prosperitat-tributo-a-amaral",
-      "count": 21
+      "count": 22
+    },
+    {
+      "path": "/2026/09/20/2026-09-19-festa-major-de-verdum-verdum-punkfest",
+      "count": 18
     },
     {
       "path": "/2026/09/07/2026-09-06-festival-masimas-2026-el-parallel-oblidat-recordant-a-merche-mar",
       "count": 18
-    },
-    {
-      "path": "/2026/09/20/2026-09-19-festa-major-de-verdum-verdum-punkfest",
-      "count": 17
     },
     {
       "path": "/2026/08/19/2026-08-18-despedida-anike-lamoso",
@@ -749,12 +753,12 @@
       "count": 10
     },
     {
-      "path": "/2026/07/06/2026-07-03a05-24-festival-de-blues-de-barcelona",
+      "path": "/2026/09/04/2026-09-04-lanomala",
       "count": 10
     },
     {
-      "path": "/2026/09/04/2026-09-04-lanomala",
-      "count": 9
+      "path": "/2026/07/06/2026-07-03a05-24-festival-de-blues-de-barcelona",
+      "count": 10
     },
     {
       "path": "/2024/02/22/sessio-amb-la-ballarina-nahomi-itzel",
@@ -918,7 +922,7 @@
     {
       "name": "Desconegut",
       "id": "Desconegut",
-      "count": 800
+      "count": 801
     },
     {
       "name": "www.9barrisimatge.org",
@@ -928,7 +932,7 @@
     {
       "name": "Google",
       "id": "Google",
-      "count": 83
+      "count": 84
     },
     {
       "name": "www.facebook.com",
@@ -941,13 +945,13 @@
       "count": 10
     },
     {
-      "name": "l.instagram.com",
-      "id": "l.instagram.com",
-      "count": 8
-    },
-    {
       "name": "9barrisimatge.org",
       "id": "9barrisimatge.org",
+      "count": 10
+    },
+    {
+      "name": "l.instagram.com",
+      "id": "l.instagram.com",
       "count": 8
     },
     {
