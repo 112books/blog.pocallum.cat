@@ -6,15 +6,15 @@ description: Fotografies de la Festa Major de Verdum 2026 i del Verdum PunkFest,
 categories: []
 tags:
   - Festa Major de Verdum
-  - Verdum
+  - verdum
   - Verdum PunkFest
-  - Música en directe
-  - Punk
-  - Barcelona
-  - Nou Barris
-  - Fotografia de concerts
+  - musica-en-directe
+  - punk
+  - barcelona
+  - nou-barris
+  - fotografia-de-concerts
   - Plaça Francesc Layret
-  - Vía Júlia
+  - via-julia
 thumbnail: /media/DSCF6763.jpg
 image: /media/DSCF6763.jpg
 album_url: https://photos.app.goo.gl/UA5hQpicHmfbU1NW9

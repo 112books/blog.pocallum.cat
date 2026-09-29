@@ -1,6 +1,7 @@
 {{ define "main" }}
 {{ if .Data.Term }}
-{{/* ── Pàgina de taxonomia: /categories/xxx/ i /tags/xxx/ ─────────────── */}}
+{{/* ── Pàgina de taxonomia: /category/xxx/ i /tag/xxx/ (amb paginació) ── */}}
+{{ $pag := .Paginate .Pages }}
 <header class="page-header">
   <div class="container">
     <p class="page-eyebrow">{{ with .Params.eyebrow }}{{ . }}{{ else }}{{ if eq .Data.Singular "category" }}Càmera i òptiques{{ else }}Etiqueta{{ end }}{{ end }}</p>
@@ -11,13 +12,13 @@
 </header>
 <div class="blog-layout container">
   <div class="posts-list">
-    {{ range .Pages }}
+    {{ range $pag.Pages }}
     <article class="post-card">
       {{ $img := or .Params.thumbnail .Params.image }}
       <div class="post-card__thumb">
         {{ if $img }}
         <a href="{{ .RelPermalink }}" class="post-card__thumb-link" aria-hidden="true" tabindex="-1">
-          {{ partial "img.html" (dict "src" $img "alt" "" "loading" "lazy" "variant" "thumb") }}
+          {{ partial "img.html" (dict "src" $img "alt" .Title "loading" "lazy" "variant" "thumb") }}
         </a>
         {{ end }}
       </div>
@@ -30,6 +31,14 @@
         {{ with .Summary }}<p class="post-card__excerpt">{{ . | plainify | truncate 160 }}</p>{{ end }}
       </div>
     </article>
+    {{ end }}
+
+    {{ if gt $pag.TotalPages 1 }}
+    <nav class="pager" aria-label="Paginació">
+      {{ if $pag.HasPrev }}<a href="{{ $pag.Prev.URL | relURL }}">← Més nous</a>{{ else }}<span></span>{{ end }}
+      <span class="pager__pages">{{ $pag.PageNumber }} / {{ $pag.TotalPages }}</span>
+      {{ if $pag.HasNext }}<a href="{{ $pag.Next.URL | relURL }}">Més antics →</a>{{ else }}<span></span>{{ end }}
+    </nav>
     {{ end }}
   </div>
 </div>
@@ -51,7 +60,7 @@
       <div class="post-card__thumb">
         {{ if $img }}
         <a href="{{ .RelPermalink }}" class="post-card__thumb-link" aria-hidden="true" tabindex="-1">
-          {{ partial "img.html" (dict "src" $img "alt" "" "loading" "lazy" "variant" "thumb") }}
+          {{ partial "img.html" (dict "src" $img "alt" .Title "loading" "lazy" "variant" "thumb") }}
         </a>
         {{ end }}
       </div>

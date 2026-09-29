@@ -11,13 +11,20 @@
     <h1 class="home-hero-title">blog<span class="home-hero-dot">.</span>pocallum<span class="home-hero-dot">.</span>cat<br><span class="home-hero-sub">Camera<span class="home-hero-amp">&amp;</span>action<span class="home-hero-bang">!</span></span></h1>
   </div>
 </div>
+{{ else }}
+<header class="page-header">
+  <div class="container">
+    <p class="page-eyebrow">Portada</p>
+    <h1 class="page-title">Pàgina {{ $pag.PageNumber }}</h1>
+  </div>
+</header>
 {{ end }}
 
 <div class="blog-mosaic">
   {{ range $pag.Pages }}
   {{ $img := or .Params.thumbnail .Params.image }}
   <a class="post-tile{{ if not $img }} is-text{{ end }}" href="{{ .RelPermalink }}" aria-label="{{ .Title }}">
-    {{ if $img }}{{ partial "img.html" (dict "src" $img "alt" "" "loading" "lazy" "variant" "thumb") }}{{ end }}
+    {{ if $img }}{{ partial "img.html" (dict "src" $img "alt" .Title "loading" "lazy" "variant" "thumb") }}{{ end }}
     <span class="post-tile__date">{{ .Date.Format "02 · 01 · 2006" }}</span>
     <span class="post-tile__title">{{ .Title }}</span>
   </a>

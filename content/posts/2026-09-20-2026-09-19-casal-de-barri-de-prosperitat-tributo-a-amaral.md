@@ -9,14 +9,14 @@ categories:
 tags:
   - Tributo a Amaral
   - Amaral
-  - Casal de barri de Prosperitat
-  - Prosperitat
-  - Nou Barris
-  - música en viu
+  - casal-de-barri-de-prosperitat
+  - prosperitat
+  - nou-barris
+  - musica-en-viu
   - música pop
   - concert
-  - Barcelona
-  - fotografia de concerts
+  - barcelona
+  - fotografia-de-concerts
 thumbnail: /media/DSCF6892.jpg
 image: /media/DSCF6892.jpg
 album_url: https://photos.app.goo.gl/YV94CFM6xMT3oQGn8

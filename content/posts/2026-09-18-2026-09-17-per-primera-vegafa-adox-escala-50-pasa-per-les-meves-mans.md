@@ -7,10 +7,10 @@ categories:
   - leica-m4-2
   - leica-summicron-m-50mmf-2-0
 tags:
-  - Test
+  - test
   - ADOX
   - ADOX-SCALA-50
-  - blanc i negre
+  - blanc-i-negre
   - lab
 thumbnail: /media/2026-09-17-LM4-2-ADOX-SCALA50-0018.jpg
 image: /media/2026-09-17-LM4-2-ADOX-SCALA50-0018.jpg

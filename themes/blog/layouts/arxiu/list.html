@@ -26,7 +26,7 @@
         {{ $arxiuImg := or $primer.Params.thumbnail $primer.Params.image }}
         {{ if $arxiuImg }}
         <a class="tunel__foto" href="{{ "arxiu/" | relURL }}{{ $year }}/" aria-label="Obrir l&#39;arxiu de {{ $year }}">
-          {{ partial "img.html" (dict "src" $arxiuImg "alt" "" "loading" "lazy" "variant" "thumb") }}
+          {{ partial "img.html" (dict "src" $arxiuImg "alt" $primer.Title "loading" "lazy" "variant" "thumb") }}
         </a>
         {{ end }}
         <ul class="tunel__mesos">
