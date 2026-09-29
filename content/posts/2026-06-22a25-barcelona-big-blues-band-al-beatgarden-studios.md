@@ -35,7 +35,7 @@ title-seo: "Barcelona Big Blues Band: fotos d’un enregistrament al BeatGarden 
 
 [![Barcelona Big Blues Band enregistrant nous temes al BeatGarden Studios](https://blog.pocallum.cat/wp-content/uploads/2026/06/L1560008-1024x683.jpg)](https://photos.app.goo.gl/4h4Z5uuT7ARr1aRL9)
 
-# ****La Barcelona Big Blues Band i el “mentrestant”****
+## ****La Barcelona Big Blues Band i el “mentrestant”****
 
 Aquesta passada setmana de solsticis estiuencs, amb Barcelona sota una nova onada de calor (una més!), vaig tenir una doble sort.
 

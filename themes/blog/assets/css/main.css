@@ -1721,3 +1721,18 @@ h1, h2, h3, h4 {
     transition-duration: 0.01ms !important;
   }
 }
+/* ── P2 accessibilitat/responsive (2026-09-29) ─────────────────────────────── */
+.prose img,
+.prose pre,
+.arxiu-item__title,
+.term__name { overflow-wrap: anywhere; }
+.prose pre { overflow-x: auto; }
+
+@media (max-width: 480px) {
+  .container { padding-inline: 1rem; }
+  .post-card { grid-template-columns: 1fr; }
+}
+@media (max-width: 380px) {
+  .nav { padding-inline: 1rem; gap: 1rem; }
+  .nav-logo { font-size: 1.1rem; }
+}

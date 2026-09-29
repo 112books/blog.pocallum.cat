@@ -24,7 +24,6 @@ description: "Descobreix l'impacte de 9 Barris Acull, una entitat que ha donat s
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2024/10/IMG_3707-1024x683.jpg)](https://photos.app.goo.gl/AEoQDmC7gNgCCuVP8)
 
-##   
 Dues dècades de solidaritat i acció comunitària
 
 Amb gran pesar, anunciem el tancament de 9 Barris Acull, una entitat que ha estat un pilar fonamental per a la comunitat de Nou Barris durant gairebé dues dècades.

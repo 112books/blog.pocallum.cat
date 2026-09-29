@@ -29,7 +29,7 @@
           {{ partial "img.html" (dict "src" $arxiuImg "alt" $primer.Title "loading" "lazy" "variant" "thumb") }}
         </a>
         {{ end }}
-        <ul class="tunel__mesos">
+        <ul class="tunel__mesos" role="list">
           {{ range $i := seq 1 12 }}
           {{ $num := printf "%d" $i }}
           {{ $n := index $mesos $num }}
@@ -69,7 +69,7 @@
     {{ $monthNum := (index .Pages 0).Date.Format "01" }}
     <div class="arxiu-group">
       <a class="arxiu-month-title" href="{{ "arxiu/" | relURL }}{{ $yearStr }}/{{ $monthNum }}/">{{ partial "mes-cat.html" (index .Pages 0).Date }} · {{ len .Pages }}</a>
-      <ul class="arxiu-list">
+      <ul class="arxiu-list" role="list">
         {{ range .Pages }}
         <li class="arxiu-item">
           <time class="arxiu-item__date" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "02/01" }}</time>

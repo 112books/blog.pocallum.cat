@@ -26,7 +26,6 @@ title-seo: "Art urbà a la Nau Bostik: Celebrem el 10è aniversari amb 13 nous m
 
 https://vimeo.com/1136973002?share=copy&fl=sv&fe=ci
 
-##   
 **Art urbà a la Nau Bostik**  
 **en el seu 10è aniversari**
 

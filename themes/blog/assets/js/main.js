@@ -8,6 +8,7 @@
     menu.classList.toggle('is-open', open);
     menu.hidden = !open;
     toggle.setAttribute('aria-expanded', String(open));
+    toggle.setAttribute('aria-label', open ? 'Tanca el menú' : 'Obre el menú');
   }
 
   toggle.addEventListener('click', () => {
@@ -185,6 +186,10 @@
   }
 
   function animate(el, target, duration) {
+    if (window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+      el.textContent = fmt(target);
+      return;
+    }
     const start = performance.now();
     (function step(now) {
       const p = Math.min((now - start) / duration, 1);
@@ -234,7 +239,7 @@
   window.addEventListener('resize', show, { passive: true });
 
   btn.addEventListener('click', () => {
-    window.scrollTo({ top: 0, behavior: 'smooth' });
+    window.scrollTo({ top: 0, behavior: (window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches) ? 'auto' : 'smooth' });
   });
 })();
 
@@ -244,6 +249,7 @@
   if (!strip) return;
   var cur = strip.querySelector('.is-current');
   if (cur) strip.scrollLeft = cur.offsetLeft - (strip.offsetWidth / 2) + (cur.offsetWidth / 2);
-  document.getElementById('js-strip-prev').addEventListener('click', function () { strip.scrollBy({ left: -220, behavior: 'smooth' }); });
-  document.getElementById('js-strip-next').addEventListener('click', function () { strip.scrollBy({ left: 220, behavior: 'smooth' }); });
+  const stripBehavior = (window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches) ? 'auto' : 'smooth';
+  document.getElementById('js-strip-prev').addEventListener('click', function () { strip.scrollBy({ left: -220, behavior: stripBehavior }); });
+  document.getElementById('js-strip-next').addEventListener('click', function () { strip.scrollBy({ left: 220, behavior: stripBehavior }); });
 })();

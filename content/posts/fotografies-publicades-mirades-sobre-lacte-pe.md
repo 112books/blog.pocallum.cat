@@ -10,7 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/01/20110207230003_0
 image: http://pocallum.files.wordpress.com/2012/01/20110207230003_08-scaled1000.png?w=300
 ---
 
-## 
 
 [![20110207230003\_08](http://pocallum.files.wordpress.com/2012/01/20110207230003_08-scaled1000.png?w=300)](http://pocallum.files.wordpress.com/2012/01/20110207230003_08-scaled1000.png)
 

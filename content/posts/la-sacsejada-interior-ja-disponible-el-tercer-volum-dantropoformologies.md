@@ -28,7 +28,6 @@ description: "Descobreix “La sacsejada interior”, el tercer volum d’Antrop
 title-seo: "La sacsejada interior: tancament de la sèrie de Nahomi Itzel"
 ---
 
-##   
 **La sacsejada interior:**  
 **tancament de la sèrie de la ballarina Nahomi Itzel**
 
