@@ -1,0 +1,4 @@
+{{- $src := .Destination -}}
+{{- $alt := .Text | plainify -}}
+{{- $dim := index site.Data.imatges_dim $src -}}
+<img src="{{ $src | safeURL }}" alt="{{ $alt }}"{{ with .Title }} title="{{ . }}"{{ end }}{{ with $dim }} width="{{ index . 0 }}" height="{{ index . 1 }}"{{ end }} loading="lazy" decoding="async">

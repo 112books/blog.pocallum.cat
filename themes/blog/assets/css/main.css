@@ -461,7 +461,6 @@ h1, h2, h3, h4 {
 /* Tile sense imatge — text sempre visible */
 .post-tile.is-text { background: var(--bg2); }
 .post-tile.is-text .post-tile__date {
-  opacity: 0.55;
   color: var(--mid);
 }
 .post-tile.is-text .post-tile__title {
@@ -612,7 +611,7 @@ h1, h2, h3, h4 {
   font-weight: 800;
   letter-spacing: -0.03em;
   line-height: 1;
-  color: var(--line);
+  color: var(--mid);
 }
 .tunel__count {
   font-family: var(--f-mono);
@@ -659,8 +658,8 @@ h1, h2, h3, h4 {
   transition: color 0.15s, border-color 0.15s;
 }
 .tunel__mes:hover { color: var(--accent); border-color: var(--accent); }
-.tunel__mes.is-buit { color: var(--line); pointer-events: none; }
-.tunel__mes.is-buit .tunel__mes-n { color: var(--line); }
+.tunel__mes.is-buit { color: var(--mid); pointer-events: none; }
+.tunel__mes.is-buit .tunel__mes-n { color: var(--mid); }
 .tunel__mes-n { color: var(--mid); font-size: 0.7rem; }
 
 /* ── Pager ─────────────────────────────────────────────────────────────────── */
@@ -712,7 +711,7 @@ h1, h2, h3, h4 {
   pointer-events: none;
 }
 .pager__ellipsis {
-  color: var(--line);
+  color: var(--mid);
   padding-inline: var(--space-1);
   pointer-events: none;
 }
@@ -1012,7 +1011,7 @@ h1, h2, h3, h4 {
   color: #fff !important;
   border-color: rgba(255,255,255,0.25) !important;
 }
-.contact-fullpage .pagefind-ui__search-input::placeholder { color: rgba(255,255,255,0.45) !important; }
+.contact-fullpage .pagefind-ui__search-input::placeholder { color: rgba(255,255,255,0.6) !important; }
 .contact-fullpage .pagefind-ui__search-clear { color: rgba(255,255,255,0.5) !important; }
 .contact-fullpage .pagefind-ui__results {
   background: rgba(8,8,8,0.82) !important;
@@ -1142,7 +1141,7 @@ h1, h2, h3, h4 {
   font-family: var(--f-mono);
   font-size: 0.55rem;
   letter-spacing: 0.08em;
-  color: var(--line);
+  color: var(--mid);
   background: var(--bg2);
   transition: color 0.2s;
 }
@@ -1695,7 +1694,7 @@ h1, h2, h3, h4 {
   color: var(--accent);
 }
 .e404-fest__name { font-size: 0.85rem; font-weight: 600; line-height: 1.2; }
-.e404-fest__lloc { font-size: 0.72rem; color: rgba(255,255,255,0.4); }
+.e404-fest__lloc { font-size: 0.72rem; color: rgba(255,255,255,0.72); }
 
 @media (max-width: 768px) {
   .e404-code { font-size: clamp(6rem, 28vw, 10rem); }

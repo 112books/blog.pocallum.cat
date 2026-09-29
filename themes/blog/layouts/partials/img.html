@@ -11,6 +11,7 @@
 {{- $decoding := .decoding | default "async" -}}
 {{- $variant := .variant | default "" -}}
 {{- $webp    := "" -}}
+{{- $dim     := index site.Data.imatges_dim $src -}}
 {{- $webpActivat := site.Params.imatgeswebp | default false -}}
 {{- /* Imatges del repo (/media/): WebP garantit. Llegat (/wp-content/): només si imatgesWebp = true. */ -}}
 {{- $esRepo := or (strings.HasPrefix $src "/media/") (strings.HasPrefix $src "https://blog.pocallum.cat/media/") -}}
@@ -29,8 +30,8 @@
 {{- if $webp -}}
 <picture>
   <source srcset="{{ $webp }}" type="image/webp">
-  <img src="{{ $src }}" alt="{{ $alt }}"{{ with $class }} class="{{ . }}"{{ end }} loading="{{ $loading }}" decoding="{{ $decoding }}">
+  <img src="{{ $src }}" alt="{{ $alt }}"{{ with $class }} class="{{ . }}"{{ end }}{{ with $dim }} width="{{ index . 0 }}" height="{{ index . 1 }}"{{ end }} loading="{{ $loading }}" decoding="{{ $decoding }}">
 </picture>
 {{- else -}}
-<img src="{{ $src }}" alt="{{ $alt }}"{{ with $class }} class="{{ . }}"{{ end }} loading="{{ $loading }}" decoding="{{ $decoding }}">
+<img src="{{ $src }}" alt="{{ $alt }}"{{ with $class }} class="{{ . }}"{{ end }}{{ with $dim }} width="{{ index . 0 }}" height="{{ index . 1 }}"{{ end }} loading="{{ $loading }}" decoding="{{ $decoding }}">
 {{- end -}}

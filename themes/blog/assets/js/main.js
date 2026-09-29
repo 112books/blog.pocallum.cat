@@ -123,7 +123,16 @@
   /* Marcar imatges i afegir click */
   imgs.forEach((img, i) => {
     img.classList.add('is-lightbox');
+    img.setAttribute('tabindex', '0');
+    img.setAttribute('role', 'button');
+    img.setAttribute('aria-label', 'Ampliar imatge');
     img.addEventListener('click', () => open(i));
+    img.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter' || e.key === ' ' || e.key === 'Spacebar') {
+        e.preventDefault();
+        open(i);
+      }
+    });
   });
 
   btnClose.addEventListener('click', close);
