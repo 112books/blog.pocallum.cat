@@ -81,13 +81,16 @@ ErrorDocument 404 /404.html
 # ── Headers de seguretat ────────────────────────────────────────────────────
 <IfModule mod_headers.c>
   # HSTS: només quan la connexió ja és HTTPS (evita contingut sense xifrar)
-  Header always set Strict-Transport-Security "max-age=31536000" env=HTTPS
+  Header always set Strict-Transport-Security "max-age=31536000; includeSubDomains; preload" env=HTTPS
   # Evita sniffing del tipus MIME
   Header always set X-Content-Type-Options "nosniff"
   # No enquadra el lloc en iframes d'altres dominis
   Header always set X-Frame-Options "DENY"
   # Referrer mínim a tercers
   Header always set Referrer-Policy "strict-origin-when-cross-origin"
+  # Aïllament de finestra i recursos (XS-Leaks / incrustació)
+  Header always set Cross-Origin-Opener-Policy "same-origin"
+  Header always set Cross-Origin-Resource-Policy "same-site"
   # CSP: 'unsafe-inline' a script/style perquè el JSON-LD i els scripts
   # d'Hugo són inline sense nonce (site estàtic, sense build per petició).
   # 'wasm-unsafe-eval' + worker-src: Pagefind (cerca) usa WebAssembly + worker.
