@@ -11,7 +11,7 @@
 {{- $decoding := .decoding | default "async" -}}
 {{- $variant := .variant | default "" -}}
 {{- $webp    := "" -}}
-{{- $webpActivat := isset site.Params "imatgesWebp" | and site.Params.imatgesWebp -}}
+{{- $webpActivat := site.Params.imatgeswebp | default false -}}
 {{- /* Imatges del repo (/media/): WebP garantit. Llegat (/wp-content/): només si imatgesWebp = true. */ -}}
 {{- $esRepo := or (strings.HasPrefix $src "/media/") (strings.HasPrefix $src "https://blog.pocallum.cat/media/") -}}
 {{- $esWp   := strings.HasPrefix $src "https://blog.pocallum.cat/wp-content/" -}}
