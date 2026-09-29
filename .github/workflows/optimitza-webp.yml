@@ -12,11 +12,14 @@ on:
         type: boolean
         default: false
 
+permissions:
+  contents: read
+
 jobs:
   webp:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.2.2
 
       - name: Instal·lar eines
         run: sudo apt-get update -qq && sudo apt-get install -y -qq webp imagemagick
@@ -24,12 +27,13 @@ jobs:
       - name: Preparar SSH
         env:
           SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY_DINAHOSTING }}
-          REMOTE_HOST: ${{ secrets.DINAHOSTING_HOST }}
+          KNOWN_HOSTS: ${{ secrets.DINAHOSTING_KNOWN_HOSTS }}
         run: |
           mkdir -p ~/.ssh
           echo "$SSH_PRIVATE_KEY" > ~/.ssh/id_ed25519
           chmod 600 ~/.ssh/id_ed25519
-          ssh-keyscan -H "$REMOTE_HOST" >> ~/.ssh/known_hosts 2>/dev/null || true
+          echo "$KNOWN_HOSTS" > ~/.ssh/known_hosts
+          chmod 600 ~/.ssh/known_hosts
 
       - name: Llista d'imatges referenciades
         env:
@@ -71,7 +75,7 @@ jobs:
           REMOTE_PATH: ${{ secrets.DINAHOSTING_PATH }}
         run: |
           mkdir -p originals
-          rsync -az --ignore-missing-args --files-from=images.txt -e "ssh -o StrictHostKeyChecking=accept-new" "$REMOTE_USER@$REMOTE_HOST:$REMOTE_PATH/wp-content/uploads/" originals/
+          rsync -az --ignore-missing-args --files-from=images.txt -e "ssh -o StrictHostKeyChecking=yes -o UserKnownHostsFile=~/.ssh/known_hosts" "$REMOTE_USER@$REMOTE_HOST:$REMOTE_PATH/wp-content/uploads/" originals/
           echo "Baixats: $(find originals -type f | wc -l)"
 
       - name: Generar WebP 800 i 2500
@@ -138,4 +142,4 @@ jobs:
                           out.write(os.path.relpath(os.path.join(root, fn), "originals") + chr(10))
           print("A pujar:", sum(1 for _ in open("webp.txt")))
           PY
-          rsync -az --files-from=webp.txt -e "ssh -o StrictHostKeyChecking=accept-new" originals/ "$REMOTE_USER@$REMOTE_HOST:$REMOTE_PATH/wp-content/uploads/"
+          rsync -az --files-from=webp.txt -e "ssh -o StrictHostKeyChecking=yes -o UserKnownHostsFile=~/.ssh/known_hosts" originals/ "$REMOTE_USER@$REMOTE_HOST:$REMOTE_PATH/wp-content/uploads/"

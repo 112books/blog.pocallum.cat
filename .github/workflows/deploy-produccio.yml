@@ -5,6 +5,9 @@ on:
     branches: [develop]
   workflow_dispatch:
 
+permissions:
+  contents: read
+
 concurrency:
   group: "pages-produccio"
   cancel-in-progress: false  # no cancel·lis un deploy en curs
@@ -14,13 +17,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.2.2
         with:
           fetch-depth: 0
 
       - name: Install Hugo
         run: |
           wget -q https://github.com/gohugoio/hugo/releases/download/v0.164.0/hugo_extended_0.164.0_linux-amd64.tar.gz
+          echo "fea17b8c076f950bb2e9f9486667bdaa29422883888d509d63931c73e8a9b3a4  hugo_extended_0.164.0_linux-amd64.tar.gz" | sha256sum -c -
           tar -xzf hugo_extended_0.164.0_linux-amd64.tar.gz
           sudo mv hugo /usr/local/bin/
 
@@ -28,11 +32,12 @@ jobs:
         run: hugo --minify
 
       - name: Index with Pagefind
-        run: npx pagefind --site public
+        run: npx --yes pagefind@1.5.2 --site public
 
       - name: Deploy a Dinahosting via rsync
         env:
           SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY_DINAHOSTING }}
+          KNOWN_HOSTS: ${{ secrets.DINAHOSTING_KNOWN_HOSTS }}
           REMOTE_HOST: ${{ secrets.DINAHOSTING_HOST }}
           REMOTE_USER: ${{ secrets.DINAHOSTING_USER }}
           REMOTE_PATH: ${{ secrets.DINAHOSTING_PATH }}   # ex: ~/www/blog
@@ -40,17 +45,17 @@ jobs:
           mkdir -p ~/.ssh
           echo "$SSH_PRIVATE_KEY" > ~/.ssh/id_ed25519
           chmod 600 ~/.ssh/id_ed25519
-          ssh-keyscan -H "$REMOTE_HOST" >> ~/.ssh/known_hosts
-          echo "--- known_hosts lines: $(wc -l < ~/.ssh/known_hosts) ---"
+          echo "$KNOWN_HOSTS" > ~/.ssh/known_hosts
+          chmod 600 ~/.ssh/known_hosts
 
           # Rsync: substitueix tot el contingut excepte wp-content/ i .well-known/.
           # --no-perms --omit-dir-times: no pot canviar permisos ni timestamps del docroot arrel.
-          # -e ssh StrictHostKeyChecking=no: fallback si ssh-keyscan no ha afegit la clau host.
+          # StrictHostKeyChecking=yes + known_hosts fix (secret): identitat del servidor verificada.
           rsync -rlzv --delete \
             --exclude='wp-content/' \
             --exclude='.well-known/' \
             --no-perms \
             --omit-dir-times \
-            -e "ssh -o StrictHostKeyChecking=no -o UserKnownHostsFile=~/.ssh/known_hosts" \
+            -e "ssh -o StrictHostKeyChecking=yes -o UserKnownHostsFile=~/.ssh/known_hosts" \
             public/ \
             "${REMOTE_USER}@${REMOTE_HOST}:${REMOTE_PATH}/"

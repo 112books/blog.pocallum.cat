@@ -17,13 +17,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.2.2
         with:
           fetch-depth: 0
 
       - name: Install Hugo
         run: |
           wget -q https://github.com/gohugoio/hugo/releases/download/v0.164.0/hugo_extended_0.164.0_linux-amd64.tar.gz
+          echo "fea17b8c076f950bb2e9f9486667bdaa29422883888d509d63931c73e8a9b3a4  hugo_extended_0.164.0_linux-amd64.tar.gz" | sha256sum -c -
           tar -xzf hugo_extended_0.164.0_linux-amd64.tar.gz
           sudo mv hugo /usr/local/bin/
 
@@ -34,10 +35,10 @@ jobs:
                --buildDrafts
 
       - name: Index with Pagefind
-        run: npx pagefind --site public
+        run: npx --yes pagefind@1.5.2 --site public
 
       - name: Deploy to GitHub Pages (branca gh-pages-staging)
-        uses: peaceiris/actions-gh-pages@v4
+        uses: peaceiris/actions-gh-pages@84c30a85c19949d7eee79c4ff27748b70285e453 # v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
