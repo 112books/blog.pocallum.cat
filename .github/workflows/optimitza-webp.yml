@@ -1,0 +1,141 @@
+name: Optimitzar imatges WebP (servidor)
+
+on:
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: "Nombre d'imatges a processar (0 = totes)"
+        required: true
+        default: "3"
+      upload:
+        description: "Pujar els WebP al servidor (desmarcat = només prova)"
+        type: boolean
+        default: false
+
+jobs:
+  webp:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Instal·lar eines
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq webp imagemagick
+
+      - name: Preparar SSH
+        env:
+          SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY_DINAHOSTING }}
+          REMOTE_HOST: ${{ secrets.DINAHOSTING_HOST }}
+        run: |
+          mkdir -p ~/.ssh
+          echo "$SSH_PRIVATE_KEY" > ~/.ssh/id_ed25519
+          chmod 600 ~/.ssh/id_ed25519
+          ssh-keyscan -H "$REMOTE_HOST" >> ~/.ssh/known_hosts 2>/dev/null || true
+
+      - name: Llista d'imatges referenciades
+        env:
+          LIMIT: ${{ github.event.inputs.limit }}
+        run: |
+          python3 - <<'PY'
+          import glob, os
+          from urllib.parse import unquote
+          seen, urls = set(), []
+          for f in sorted(glob.glob("content/posts/**/*.md", recursive=True), reverse=True):
+              txt = open(f, encoding="utf-8", errors="replace").read()
+              if not txt.startswith("---"):
+                  continue
+              parts = txt.split("---", 2)
+              if len(parts) < 3:
+                  continue
+              for line in parts[1].splitlines():
+                  line = line.strip()
+                  if not (line.startswith("thumbnail:") or line.startswith("image:")):
+                      continue
+                  val = line.split(":", 1)[1].strip().strip('"').strip("'")
+                  if not val.startswith("https://blog.pocallum.cat/wp-content/uploads/"):
+                      continue
+                  rel = unquote(val.split("/wp-content/uploads/", 1)[1])
+                  if rel not in seen:
+                      seen.add(rel)
+                      urls.append(rel)
+          limit = int(os.environ.get("LIMIT", "0"))
+          if limit > 0:
+              urls = urls[:limit]
+          open("images.txt", "w", encoding="utf-8").write(chr(10).join(urls) + (chr(10) if urls else ""))
+          print("A processar:", len(urls))
+          PY
+
+      - name: Baixar originals
+        env:
+          REMOTE_USER: ${{ secrets.DINAHOSTING_USER }}
+          REMOTE_HOST: ${{ secrets.DINAHOSTING_HOST }}
+          REMOTE_PATH: ${{ secrets.DINAHOSTING_PATH }}
+        run: |
+          mkdir -p originals
+          rsync -az --ignore-missing-args --files-from=images.txt -e "ssh -o StrictHostKeyChecking=accept-new" "$REMOTE_USER@$REMOTE_HOST:$REMOTE_PATH/wp-content/uploads/" originals/
+          echo "Baixats: $(find originals -type f | wc -l)"
+
+      - name: Generar WebP 800 i 2500
+        run: |
+          python3 - <<'PY'
+          import os, subprocess
+          ok = miss = 0
+          for rel in open("images.txt"):
+              rel = rel.strip()
+              if not rel:
+                  continue
+              src = os.path.join("originals", rel)
+              if not os.path.isfile(src):
+                  miss += 1
+                  continue
+              base = os.path.splitext(src)[0]
+              try:
+                  w = int(subprocess.check_output(["identify", "-format", "%w", src]).decode().strip())
+              except Exception:
+                  w = 0
+              for suf, cap in (("-800", 800), ("-2500", 2500)):
+                  out = base + suf + ".webp"
+                  if os.path.isfile(out):
+                      continue
+                  cmd = ["cwebp", "-quiet", "-q", "85"]
+                  if w > cap:
+                      cmd += ["-resize", str(cap), "0"]
+                  cmd += [src, "-o", out]
+                  subprocess.run(cmd, check=False)
+              ok += 1
+          print("Processades:", ok, "| sense original:", miss)
+          PY
+          echo "WebP generats: $(find originals -name '*.webp' | wc -l)"
+
+      - name: Verificar cobertura
+        run: |
+          python3 - <<'PY'
+          import os
+          falta = 0
+          for rel in open("images.txt"):
+              rel = rel.strip()
+              if not rel:
+                  continue
+              base = os.path.splitext(os.path.join("originals", rel))[0]
+              for suf in ("-800.webp", "-2500.webp"):
+                  if not os.path.isfile(base + suf):
+                      falta += 1
+          print("Variants que falten:", falta)
+          PY
+
+      - name: Pujar WebP al servidor
+        if: ${{ github.event.inputs.upload == 'true' }}
+        env:
+          REMOTE_USER: ${{ secrets.DINAHOSTING_USER }}
+          REMOTE_HOST: ${{ secrets.DINAHOSTING_HOST }}
+          REMOTE_PATH: ${{ secrets.DINAHOSTING_PATH }}
+        run: |
+          python3 - <<'PY'
+          import os
+          with open("webp.txt", "w") as out:
+              for root, dirs, files in os.walk("originals"):
+                  for fn in files:
+                      if fn.endswith("-800.webp") or fn.endswith("-2500.webp"):
+                          out.write(os.path.relpath(os.path.join(root, fn), "originals") + chr(10))
+          print("A pujar:", sum(1 for _ in open("webp.txt")))
+          PY
+          rsync -az --files-from=webp.txt -e "ssh -o StrictHostKeyChecking=accept-new" originals/ "$REMOTE_USER@$REMOTE_HOST:$REMOTE_PATH/wp-content/uploads/"

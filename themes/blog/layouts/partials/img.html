@@ -12,10 +12,13 @@
 {{- $variant := .variant | default "" -}}
 {{- $webp    := "" -}}
 {{- $webpActivat := isset site.Params "imatgesWebp" | and site.Params.imatgesWebp -}}
-{{- if and $variant $src (strings.HasPrefix $src "https://blog.pocallum.cat/wp-content/") $webpActivat -}}
+{{- /* Imatges del repo (/media/): WebP garantit. Llegat (/wp-content/): només si imatgesWebp = true. */ -}}
+{{- $esRepo := or (strings.HasPrefix $src "/media/") (strings.HasPrefix $src "https://blog.pocallum.cat/media/") -}}
+{{- $esWp   := strings.HasPrefix $src "https://blog.pocallum.cat/wp-content/" -}}
+{{- if and $variant $src (or $esRepo (and $esWp $webpActivat)) -}}
   {{- $suffix := "" -}}
-  {{- if eq $variant "hero" }}{{ $suffix = "-2500.webp" }}{{ end -}}
-  {{- if eq $variant "thumb" }}{{ $suffix = "-800.webp" }}{{ end -}}
+  {{- if eq $variant "hero" }}{{ $suffix = "-2500" }}{{ end -}}
+  {{- if eq $variant "thumb" }}{{ $suffix = "-800" }}{{ end -}}
   {{- $re := `\.(jpg|jpeg|png)(\?.*)?$` -}}
   {{- if (findRE $re $src) -}}
     {{- $webp = replaceRE $re (printf "%s%s" $suffix ".webp") $src -}}
