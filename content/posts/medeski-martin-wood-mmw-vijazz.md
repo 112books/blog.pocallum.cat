@@ -34,6 +34,6 @@ Tanmateix, no puc evitar expressar la meva decepció amb la gestió de la comuni
 
 Malgrat tot, em quedo amb el millor: dos concerts memorables de bona música fora de Barcelona. La qualitat artística del festival és innegable, i espero que en futures edicions es pugui millorar la comunicació i la gestió per tal d'assegurar una experiència encara més gratificant per a tots els assistents. He millorat la claredat, l'estructura i el to general del text, mantenint el teu missatge original però presentant-lo d'una manera més fluida i professional. Si necessites més ajustos o un enfocament diferent, no dubtis a dir-ho!  
 
-http://www.vimeo.com/69833100
+https://www.vimeo.com/69833100
 
-http://vimeo.com/69841412
+https://vimeo.com/69841412

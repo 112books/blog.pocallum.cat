@@ -18,4 +18,4 @@ image: https://lh5.googleusercontent.com/-egOchCSm0nA/T5211zgs1gI/AAAAAAAC5_s/Jb
 | --- |
 | De [Pinhole day a Can Basté](https://photos.app.goo.gl/EE7r5nanlyChJ7p92) |
 
-Per segon any consecutiu assisteixo als tallers de Can Basté dedicats al dia internacional de la [Fotografia estenopeica](http://ca.wikipedia.org/wiki/Fotografia_estenopeica), dit [Pinhole](http://www.pinholeday.org/) en alglés. Molt i molt recomanable. Ja amb ganes de repetir.
+Per segon any consecutiu assisteixo als tallers de Can Basté dedicats al dia internacional de la [Fotografia estenopeica](https://ca.wikipedia.org/wiki/Fotografia_estenopeica), dit [Pinhole](https://www.pinholeday.org/) en alglés. Molt i molt recomanable. Ja amb ganes de repetir.

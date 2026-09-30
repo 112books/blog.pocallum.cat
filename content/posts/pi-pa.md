@@ -10,7 +10,7 @@ tags:
   - "streetpictures"
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/12/pipa-scaled1000.webp
-image: http://pocallum.files.wordpress.com/2012/12/pipa-scaled1000.jpg?w=300
+image: https://pocallum.files.wordpress.com/2012/12/pipa-scaled1000.jpg?w=300
 ---
 
-[![Pipa](http://pocallum.files.wordpress.com/2012/12/pipa-scaled1000.jpg?w=300)](http://pocallum.files.wordpress.com/2012/12/pipa-scaled1000.jpg)
+[![Pipa](https://pocallum.files.wordpress.com/2012/12/pipa-scaled1000.jpg?w=300)](https://pocallum.files.wordpress.com/2012/12/pipa-scaled1000.jpg)

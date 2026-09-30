@@ -10,10 +10,10 @@ tags:
   - "publiquem"
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2011/03/anuari2010portadaweb-scaled500.webp
-image: http://pocallum.files.wordpress.com/2011/03/anuari2010portadaweb-scaled500.jpg?w=217
+image: https://pocallum.files.wordpress.com/2011/03/anuari2010portadaweb-scaled500.jpg?w=217
 ---
 
-![Anuari2010portadaweb](http://pocallum.files.wordpress.com/2011/03/anuari2010portadaweb-scaled500.jpg?w=217)
+![Anuari2010portadaweb](https://pocallum.files.wordpress.com/2011/03/anuari2010portadaweb-scaled500.jpg?w=217)
 
 Ja ha sortit al carrer l'Anuari de Blues 2010, publicació editada per Bad Music Blues amb la col·laboració del Centre Cultural de Collblanc La Torrassa i la Societat de Blues de Barcelona. 
 

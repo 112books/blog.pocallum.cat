@@ -16,4 +16,4 @@ image: https://lh3.googleusercontent.com/-vFXh7Z1kahY/Vy7xfo8gscI/AAAAAAAFE1s/PX
 
 Presentació (i signatura) del nou llibre de l'amiga [Mamen Gargallo](https://www.facebook.com/mamen.gargalloguil) al Club de Bridge Turó, Barcelona.
 
-Podeu saber-ne més de l'autora (i el llibre) al seu [Blog](http://1personafemeninosingular.blogspot.com.es/) o fins i tot comprar el seu llibre en versió electrònica a [Amazon.es](https://www.amazon.es/ENCRUCIJADAS-Mamen-Gargallo-Guil-ebook/dp/B009991H5A?ie=UTF8&*Version*=1&*entries*=0)
+Podeu saber-ne més de l'autora (i el llibre) al seu [Blog](https://1personafemeninosingular.blogspot.com.es/) o fins i tot comprar el seu llibre en versió electrònica a [Amazon.es](https://www.amazon.es/ENCRUCIJADAS-Mamen-Gargallo-Guil-ebook/dp/B009991H5A?ie=UTF8&*Version*=1&*entries*=0)

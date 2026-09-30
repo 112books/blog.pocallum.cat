@@ -8,7 +8,7 @@ tags:
   - "barcelonatattooexpo"
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/10/img_9354-scaled1000.webp
-image: http://pocallum.files.wordpress.com/2012/10/img_9354-scaled1000.jpg?w=300
+image: https://pocallum.files.wordpress.com/2012/10/img_9354-scaled1000.jpg?w=300
 ---
 
-[![Img\_9354](http://pocallum.files.wordpress.com/2012/10/img_9354-scaled1000.jpg?w=300)](http://pocallum.files.wordpress.com/2012/10/img_9354-scaled1000.jpg)
+[![Img\_9354](https://pocallum.files.wordpress.com/2012/10/img_9354-scaled1000.jpg?w=300)](https://pocallum.files.wordpress.com/2012/10/img_9354-scaled1000.jpg)

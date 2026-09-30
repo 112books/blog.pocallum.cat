@@ -9,9 +9,9 @@ tags:
   - "summer"
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2011/08/prenyada-scaled1000.webp
-image: http://pocallum.files.wordpress.com/2011/08/prenyada-scaled1000.jpg?w=300
+image: https://pocallum.files.wordpress.com/2011/08/prenyada-scaled1000.jpg?w=300
 ---
 
-[![Prenyada](http://pocallum.files.wordpress.com/2011/08/prenyada-scaled1000.jpg?w=300)](http://pocallum.files.wordpress.com/2011/08/prenyada-scaled1000.jpg)
+[![Prenyada](https://pocallum.files.wordpress.com/2011/08/prenyada-scaled1000.jpg?w=300)](https://pocallum.files.wordpress.com/2011/08/prenyada-scaled1000.jpg)
 
 Segona sessió de prenyada aquest estiu. Tant de temps darrere de fotografies així i finalment ho he aconseguit! ;)

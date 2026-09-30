@@ -12,10 +12,10 @@ tags:
   - "revela"
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/02/revela-scaled500.webp
-image: http://pocallum.files.wordpress.com/2012/02/revela-scaled500.png?w=190
+image: https://pocallum.files.wordpress.com/2012/02/revela-scaled500.png?w=190
 ---
 
-![Revela](http://pocallum.files.wordpress.com/2012/02/revela-scaled500.png?w=190)
+![Revela](https://pocallum.files.wordpress.com/2012/02/revela-scaled500.png?w=190)
 
 Demà es fa la roda de premsa per presentar els premis Revela 2012!
 

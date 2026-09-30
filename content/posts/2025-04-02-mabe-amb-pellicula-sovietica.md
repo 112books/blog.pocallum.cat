@@ -42,7 +42,7 @@ El destí no sempre fa males passades. Fer proves amb rodets, càmeres o revelad
 
 A l'hora de revelar, vaig tenir dubtes. Recordava haver vist els temps de revelat per a aquesta pel·lícula a l'app Massive Dev, però no vaig trobar la informació avui. Després de buscar una mica per internet, vaig trobar [un blog que no em va ajudar gaire](https://ibuyfilm.wordpress.com/films/black-and-white/tacma-64-russian-expired-film/). El meu pla B era fer un revelat desatès amb una dissolució 1+100 de Rodinal, però no semblava la millor opció.
 
-Aleshores vaig decidir utilitzar el revelador **[510 Pyro](http://www.pictorialplanet.com/advanced_photography/510_pyro.html)**, que faig casolàment amb l'ajut del mestre [Jesús Joglar](https://revistes.iec.cat/index.php/RSCQ/article/view/144049). És una de les millors opcions per revelar. Vaig fer un revelat ben diluït a 1+100 i el vaig deixar actuar durant 60 minuts.
+Aleshores vaig decidir utilitzar el revelador **[510 Pyro](https://www.pictorialplanet.com/advanced_photography/510_pyro.html)**, que faig casolàment amb l'ajut del mestre [Jesús Joglar](https://revistes.iec.cat/index.php/RSCQ/article/view/144049). És una de les millors opcions per revelar. Vaig fer un revelat ben diluït a 1+100 i el vaig deixar actuar durant 60 minuts.
 
 El resultat m'ha encantat. Malauradament, només tinc un trosset de pel·lícula per fer-ne unes 20 fotografies més, però el resultat que he obtingut és molt curiós, amb un gra contingut, contrast alt i un aire oníric que m'encanta. Com que estava d'humor per experimentar, vaig fer un viratge digital a Lightroom, que encara accentua més aquest caràcter moscovita. Barrejat amb els trets centreamericans de la model, queda exòtic i, al meu criteri, satisfactori.
 

@@ -14,6 +14,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2011/04/Captura-de-panta
 
 Vídeo creat amb la flamant càmera de vídeo [GoPro HD Hero 960](http://gopro.com/cameras/hd-hero-960-camera/). Es tracta d'un resum del viatge de Setmana Santa per terres aragoneses.
 
-Ja que la càmera és estanca capta el so molt fluix i he decidit posar-hi una molt bona banda sonora del grup [Swear and Shake](http://www.jamendo.com/es/album/87162) vía Jamendo.com.
+Ja que la càmera és estanca capta el so molt fluix i he decidit posar-hi una molt bona banda sonora del grup [Swear and Shake](https://www.jamendo.com/es/album/87162) vía Jamendo.com.
 
 https://vimeo.com/22915570

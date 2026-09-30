@@ -9,9 +9,9 @@ tags:
   - "niguls"
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2011/11/montseny_panoramica_cel-2b-scaled1000.webp
-image: http://pocallum.files.wordpress.com/2011/11/montseny_panoramica_cel-2b-scaled1000.jpg?w=300
+image: https://pocallum.files.wordpress.com/2011/11/montseny_panoramica_cel-2b-scaled1000.jpg?w=300
 ---
 
-[![Montseny\_panoramica\_cel-2b](http://pocallum.files.wordpress.com/2011/11/montseny_panoramica_cel-2b-scaled1000.jpg?w=300)](http://pocallum.files.wordpress.com/2011/11/montseny_panoramica_cel-2b-scaled1000.jpg)
+[![Montseny\_panoramica\_cel-2b](https://pocallum.files.wordpress.com/2011/11/montseny_panoramica_cel-2b-scaled1000.jpg?w=300)](https://pocallum.files.wordpress.com/2011/11/montseny_panoramica_cel-2b-scaled1000.jpg)
 
-[![Montseny\_panoramica\_cel-2c](http://pocallum.files.wordpress.com/2011/11/montseny_panoramica_cel-2c-scaled1000.jpg?w=300)](http://pocallum.files.wordpress.com/2011/11/montseny_panoramica_cel-2c-scaled1000.jpg)
+[![Montseny\_panoramica\_cel-2c](https://pocallum.files.wordpress.com/2011/11/montseny_panoramica_cel-2c-scaled1000.jpg?w=300)](https://pocallum.files.wordpress.com/2011/11/montseny_panoramica_cel-2c-scaled1000.jpg)

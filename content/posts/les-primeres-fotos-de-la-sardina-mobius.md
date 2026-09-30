@@ -16,6 +16,6 @@ image: https://blog.pocallum.cat/wp-content/uploads/2020/07/1216x827x2-1024x696.
 
 Si!, finalment he revelat un rodet de 35mm de la meva "[La Sardina" model Möebius](http://shop.lomography.com/cameras/la-sardina-camera-mobius), una Lomo que m'encanta. 
 
-Aquí podeu veure els resultats: [http://www.lomography.es/homes/linuxbcn/albums/1813280-calotada-a-can-bres](http://www.lomography.es/homes/linuxbcn/albums/1813280-calotada-a-can-bres) Les fotografies són d'una calçotada a Can Bres.
+Aquí podeu veure els resultats: [https://www.lomography.es/homes/linuxbcn/albums/1813280-calotada-a-can-bres](https://www.lomography.es/homes/linuxbcn/albums/1813280-calotada-a-can-bres) Les fotografies són d'una calçotada a Can Bres.
 
 ![](https://blog.pocallum.cat/wp-content/uploads/2020/07/1216x827x2-1024x696.jpg)

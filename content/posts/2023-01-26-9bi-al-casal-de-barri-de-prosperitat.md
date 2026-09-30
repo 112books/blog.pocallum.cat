@@ -22,4 +22,4 @@ Casal de barri de Prosperitat
 
 </figure>
 
-Avui hem celebrat una important reunió els compis de [9bi](http://www.9barrisimatge.org/). Els temes els de sempre i també, hem arreglat un xic el món (ja ho notareu). Però bé, aquest és l'ambient al nostre estimat [Casal de barri de la Prospe](https://casalprospe.org/).
+Avui hem celebrat una important reunió els compis de [9bi](https://www.9barrisimatge.org/). Els temes els de sempre i també, hem arreglat un xic el món (ja ho notareu). Però bé, aquest és l'ambient al nostre estimat [Casal de barri de la Prospe](https://casalprospe.org/).

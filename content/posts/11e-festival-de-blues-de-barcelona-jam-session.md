@@ -24,12 +24,12 @@ La gran Jamm del Festival. Com sempre al Casal de barri de Prosperitat i amb sor
 
 https://vimeo.com/70623058
 
-[11è Festival de Blues de Barcelona - JamSession #1](http://vimeo.com/70623058) from [Joan](http://vimeo.com/linuxbcn) on [Vimeo](https://vimeo.com).
+[11è Festival de Blues de Barcelona - JamSession #1](https://vimeo.com/70623058) from [Joan](https://vimeo.com/linuxbcn) on [Vimeo](https://vimeo.com).
 
 https://vimeo.com/70677134
 
-[11è Festival de Blues de Barcelona - JamSession #2](http://vimeo.com/70677134) from [Joan](http://vimeo.com/linuxbcn) on [Vimeo](https://vimeo.com).
+[11è Festival de Blues de Barcelona - JamSession #2](https://vimeo.com/70677134) from [Joan](https://vimeo.com/linuxbcn) on [Vimeo](https://vimeo.com).
 
 https://vimeo.com/70665058
 
-[11è Festival de Blues de Barcelona - JamSession #3](http://vimeo.com/70665058) from [Joan](http://vimeo.com/linuxbcn) on [Vimeo](https://vimeo.com).
+[11è Festival de Blues de Barcelona - JamSession #3](https://vimeo.com/70665058) from [Joan](https://vimeo.com/linuxbcn) on [Vimeo](https://vimeo.com).

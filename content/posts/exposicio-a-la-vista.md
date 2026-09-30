@@ -18,4 +18,4 @@ El proper dijous 5 de novembre tenim el plaer de presentar en societat, Alfonso 
 
 Evidentment esteu tots convidats i alguna sorpreseta més i podreu trobrar.
 
-Tot això pasarà a la [Nau Bostik](http://naubostik.com/actividad/incoherencias/) a la Sala Penya: Carrer Ferran Turné 11 de Barcelona, a la Sagrera!
+Tot això pasarà a la [Nau Bostik](https://naubostik.com/actividad/incoherencias/) a la Sala Penya: Carrer Ferran Turné 11 de Barcelona, a la Sagrera!

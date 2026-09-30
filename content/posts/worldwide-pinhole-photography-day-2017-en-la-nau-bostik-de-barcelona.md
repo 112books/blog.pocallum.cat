@@ -197,7 +197,7 @@ Me gusta más el blanco y negro, pues pienso que capta mejor el alma de los elem
 El método clásico: ensayo y error! y no dejar de disparar…
 
 **Nos encantaría poder disfrutar de tu trabajo, ¿Donde podríamos verlo?**  
-[www.francescgali.com](http://www.francescgali.com)
+[www.francescgali.com](https://www.francescgali.com)
 
 [Índice](#Índex)
 
@@ -242,7 +242,7 @@ Jugar y experimentar… y aceptar los defectos 😉
 **Nos encantaría poder disfrutar de tu trabajo, ¿Donde podríamos verlo?**  
 En mi web, redes sociales lo más fácil. Igualmente suelo exponer bastante frecuentemente, en España y fuera.
 
-Website: [www.guilhemsenges.com](http://www.guilhemsenges.com)  
+Website: [www.guilhemsenges.com](https://www.guilhemsenges.com)  
 FB: [Facebook](https://www.facebook.com/Guilhem-Senges-Art-Works-888200264541454/?ref=hl)  
 Youtube: [Yaoutube](https://www.youtube.com/results?search_query=guilhem+senges)
 
@@ -283,7 +283,7 @@ Sí, me ha gustado mucho el sistema que tiene para bloquear el obturador con la 
 **Y bueno, la eterna pregunta, ¿Prefieres el blanco y negro, o es color con lo que te expresas mejor?**   
 Prefiero el blanco y negro pero también utilizo color. Me gusta experimentar con distintas posibilidades.
 
-[jesusjoglar.net](http://jesusjoglar.net)  
+[jesusjoglar.net](https://jesusjoglar.net)  
 <https://www.facebook.com/trasiegu.trasiegon>
 
 [Índice](#Índex)
@@ -323,8 +323,8 @@ La verdad es que si, lo que más me ha costado ha sido encontrar el tiempo para 
 expresas mejor?**  
 Pues depende, supongo, de mi estado de ánimo. Por lo general utilizo blanco y negro, porque puedo revelarlo yo fácil y rápidamente en casa. En un rato ya tengo mis fotos listas para ampliar o escanear. Mi película para pinhole favorita es la Panf Plus de 50 ISO, eso me permite disparar de día, con mucha luz sin mucho problema. Pero no renuncio al color y me encanta usar el Fuji-T64, tengo una partida caducada que siempre me sorprende con los colores locos que saca. Y ya puestos a rizar el rizo, recomiendo mucho jugar con película Redscale (bien forzada) para escenas post-nucleares.
 
-[llumatics.com](http://llumatics.com)  
-[pocallum.cat](http://pocallum.cat)
+[llumatics.com](https://llumatics.com)  
+[pocallum.cat](https://pocallum.cat)
 
 [Índice](#Índex)
 
@@ -366,7 +366,7 @@ Blanco y negro sin ninguna duda. Lo que no quita que de vez en cuando…
 Que usen fotómetro, jeje Que experimenten y que lleven un cuaderno de anotaciones para poder contrastar sus experiencias y poder controlar un poco más el proceso, lo cual se traducirá en mejores fotografías.
 
 **Nos encantaría poder disfrutar de tu trabajo, ¿Donde podríamos verlo?**  
-Mi página en [rubenmorales.es](http://www.rubenmorales.es) pero ahí hay pocos trabajos. Os dejo este enlace con lo último que expuse, concretamente en RevelaT 2016
+Mi página en [rubenmorales.es](https://www.rubenmorales.es) pero ahí hay pocos trabajos. Os dejo este enlace con lo último que expuse, concretamente en RevelaT 2016
 
 [Índice](#Índex)
 
@@ -409,7 +409,7 @@ La eterna respuesta, depende de para qué. Pero en general prefiero el B&N ya qu
 Que lo prueben, que se equivoquen mucho y que lo prueben de nuevo y que se vuelvan a equivocar y que al final conseguirán lo que buscan. El ensayo error en pinhole es básico.
 
 **Nos encantaría poder disfrutar de tu trabajo, ¿Donde podríamos verlo?**  
-Creo que mi web no está activa actualmente, pero la recuperaré en breve. [pinhole.cat](http://www.pinhole.cat) pero al final uso el facebook para ir colgando cosillas, [facebook.com/pinholebarcelona](http://www.facebook.com/pinholebarcelona)
+Creo que mi web no está activa actualmente, pero la recuperaré en breve. [pinhole.cat](http://www.pinhole.cat) pero al final uso el facebook para ir colgando cosillas, [facebook.com/pinholebarcelona](https://www.facebook.com/pinholebarcelona)
 
 [Índice](#Índex)
 
@@ -451,4 +451,4 @@ Blanco y negro,
 Que lo prueben, experimenten las múltiples posibilidades que ofrece y investiguen los resultados de otros fotografos para estudiar como han podido conseguirlos.
 
 **Nos encantaría poder disfrutar de tu trabajo, ¿Donde podríamos verlo?**  
-[vayalata.tumblr.com](http://vayalata.tumblr.com) o en instagram: @txabip
+[vayalata.tumblr.com](https://vayalata.tumblr.com) o en instagram: @txabip

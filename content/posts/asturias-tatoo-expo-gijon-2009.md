@@ -20,13 +20,13 @@ image: https://blog.pocallum.cat/wp-content/uploads/2011/02/Isobel-Varley.jpg
 
 ![](https://blog.pocallum.cat/wp-content/uploads/2011/02/Isobel-Varley.jpg)
 
-[![Asturiastattooexpo202009](http://pocallum.files.wordpress.com/2011/02/asturiastattooexpo202009-scaled1000.jpg?w=300)](http://pocallum.files.wordpress.com/2011/02/asturiastattooexpo202009-scaled1000.jpg)
+[![Asturiastattooexpo202009](https://pocallum.files.wordpress.com/2011/02/asturiastattooexpo202009-scaled1000.jpg?w=300)](https://pocallum.files.wordpress.com/2011/02/asturiastattooexpo202009-scaled1000.jpg)
 
-[![Asturiastattooexpo2009-19](http://pocallum.files.wordpress.com/2011/02/asturiastattooexpo2009-19-scaled1000.jpg?w=300)](http://pocallum.files.wordpress.com/2011/02/asturiastattooexpo2009-19-scaled1000.jpg)
+[![Asturiastattooexpo2009-19](https://pocallum.files.wordpress.com/2011/02/asturiastattooexpo2009-19-scaled1000.jpg?w=300)](https://pocallum.files.wordpress.com/2011/02/asturiastattooexpo2009-19-scaled1000.jpg)
 
-[![Asturiastattooexpo2009-22](http://pocallum.files.wordpress.com/2011/02/asturiastattooexpo2009-22-scaled1000.jpg?w=300)](http://pocallum.files.wordpress.com/2011/02/asturiastattooexpo2009-22-scaled1000.jpg)
+[![Asturiastattooexpo2009-22](https://pocallum.files.wordpress.com/2011/02/asturiastattooexpo2009-22-scaled1000.jpg?w=300)](https://pocallum.files.wordpress.com/2011/02/asturiastattooexpo2009-22-scaled1000.jpg)
 
-[![Asturiastattooexpo2009-24](http://pocallum.files.wordpress.com/2011/02/asturiastattooexpo2009-24-scaled1000.jpg?w=300)](http://pocallum.files.wordpress.com/2011/02/asturiastattooexpo2009-24-scaled1000.jpg)
+[![Asturiastattooexpo2009-24](https://pocallum.files.wordpress.com/2011/02/asturiastattooexpo2009-24-scaled1000.jpg?w=300)](https://pocallum.files.wordpress.com/2011/02/asturiastattooexpo2009-24-scaled1000.jpg)
 
 Avui, cercant d'altres coses dins el desordre del meu ordinador he topat amb una sel·lecció "menys oficial" de les fotos que vaig fer el 2009 a Gijón, Astúries. Totes són de la convenció de tatuatges [asturiastattooexpo.com](http://asturiastattooexpo.com/ "http://asturiastattooexpo.com/"). Aquí poso quatre que m'agraden.
 

@@ -7,10 +7,10 @@ categories:
 author: "fatmin"
 tags: []
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2011/01/poster_pigmeos_2011-scaled1000.webp
-image: http://pocallum.files.wordpress.com/2011/01/poster_pigmeos_2011-scaled1000.jpg?w=212
+image: https://pocallum.files.wordpress.com/2011/01/poster_pigmeos_2011-scaled1000.jpg?w=212
 ---
 
-[![Poster\_pigmeos\_2011](http://pocallum.files.wordpress.com/2011/01/poster_pigmeos_2011-scaled1000.jpg?w=212)](http://pocallum.files.wordpress.com/2011/01/poster_pigmeos_2011-scaled1000.jpg)
+[![Poster\_pigmeos\_2011](https://pocallum.files.wordpress.com/2011/01/poster_pigmeos_2011-scaled1000.jpg?w=212)](https://pocallum.files.wordpress.com/2011/01/poster_pigmeos_2011-scaled1000.jpg)
 
 Així que tothom a reservar-se dos dies:
 
@@ -18,4 +18,4 @@ Així que tothom a reservar-se dos dies:
 
 - Dissabte 19 febrer a les 21h: Concerts (mirar cartell) a l'Ateneu Popular de 9 Barris
 
-Com cada any allà estarem [9barrisimatge.org](http://www.9barrisimatge.org) donant suport!
+Com cada any allà estarem [9barrisimatge.org](https://www.9barrisimatge.org) donant suport!

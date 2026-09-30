@@ -19,4 +19,4 @@ Avui he anat al centre. I en un principi no a fer fotos, sinó a gaudir del conc
 
 [Totes les fotos](https://photos.app.goo.gl/pzDySYZ47K2XUiTo9)
 
-http://www.vimeo.com/20127538
+https://www.vimeo.com/20127538

@@ -10,10 +10,10 @@ tags:
   - "macba"
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/01/atienza-scaled1000.webp
-image: http://pocallum.files.wordpress.com/2012/01/atienza-scaled1000.jpg?w=169
+image: https://pocallum.files.wordpress.com/2012/01/atienza-scaled1000.jpg?w=169
 ---
 
-[![Atienza](http://pocallum.files.wordpress.com/2012/01/atienza-scaled1000.jpg?w=169)](http://pocallum.files.wordpress.com/2012/01/atienza-scaled1000.jpg)
+[![Atienza](https://pocallum.files.wordpress.com/2012/01/atienza-scaled1000.jpg?w=169)](https://pocallum.files.wordpress.com/2012/01/atienza-scaled1000.jpg)
 
 // Del 29 de gener al 20 de maig de 2012
 

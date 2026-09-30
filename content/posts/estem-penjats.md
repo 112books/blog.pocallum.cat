@@ -23,4 +23,4 @@ Telèfon: 93 406 90 53
 
  [](mailto:ccvallvidreravm@bcn.cat)Mapa: [http://goo.gl/maps/6ocL](http://goo.gl/maps/6ocL)
 
-Al Facebook: [http://www.facebook.com/event.php?eid=107963782615728&pending](http://www.facebook.com/event.php?eid=107963782615728&pending)
+Al Facebook: [https://www.facebook.com/event.php?eid=107963782615728&pending](http://www.facebook.com/event.php?eid=107963782615728&pending)

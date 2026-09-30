@@ -52,6 +52,6 @@ A la tarda, els concerts prenen protagonisme amb les bandes més populars del ba
 
 ## No et perdis cap detall!
 
-Aquestes paraules només capturen una petita part de l'ambient festiu i les tradicions de Sant Xibeco. Per viure l'experiència completa, no deixis de visitar el nostre àlbum de fotos complet a [blog.pocallum.cat](http://blog.pocallum.cat/). Allà trobaràs imatges que capturen tots els moments màgics d'aquesta celebració única.  
+Aquestes paraules només capturen una petita part de l'ambient festiu i les tradicions de Sant Xibeco. Per viure l'experiència completa, no deixis de visitar el nostre àlbum de fotos complet a [blog.pocallum.cat](https://blog.pocallum.cat/). Allà trobaràs imatges que capturen tots els moments màgics d'aquesta celebració única.  
   
 Visca Sant Xibeco i visca la Prosperitat!

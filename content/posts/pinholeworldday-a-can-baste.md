@@ -14,4 +14,4 @@ image: https://lh3.googleusercontent.com/-M6m2M2b7NC8/VxynUt2MayI/AAAAAAAFEJY/e_
 | --- |
 | De [PinholeWorldDay a Can Basté](https://photos.app.goo.gl/gEjhu5u4sP36pnYf7) |
 
-Petit reportatge del PinholeWorldDay celebrat a Can Basté. Vaig tenir l'honor d'ajudar a [Marie-Noëlle Leroy](http://www.galerie-photo.com/stenope-pouvoir-imagination.html) a imprtir el curs de forografia estenopèica.!
+Petit reportatge del PinholeWorldDay celebrat a Can Basté. Vaig tenir l'honor d'ajudar a [Marie-Noëlle Leroy](https://www.galerie-photo.com/stenope-pouvoir-imagination.html) a imprtir el curs de forografia estenopèica.!

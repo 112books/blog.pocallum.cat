@@ -9,9 +9,9 @@ image: //s0.wp.com/wp-content/mu-plugins/annual-reports/img/2014-emailteaser.png
 ---
 
 The WordPress.com stats helper monkeys prepared a 2014 annual report for this blog.  
-[![](//s0.wp.com/wp-content/mu-plugins/annual-reports/img/2014-emailteaser.png)](http://pocallum.wordpress.com/2014/annual-report/)  
+[![](//s0.wp.com/wp-content/mu-plugins/annual-reports/img/2014-emailteaser.png)](https://pocallum.wordpress.com/2014/annual-report/)  
 Here's an excerpt:
 
 > The concert hall at the Sydney Opera House holds 2,700 people. This blog was viewed about **8,500** times in 2014. If it were a concert at Sydney Opera House, it would take about 3 sold-out performances for that many people to see it.
 
-[Click here to see the complete report.](http://pocallum.wordpress.com/2014/annual-report/)
+[Click here to see the complete report.](https://pocallum.wordpress.com/2014/annual-report/)

@@ -7,10 +7,10 @@ categories:
 author: "fatmin"
 tags: []
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/01/20110207230647_-scaled1000-scaled500.webp
-image: http://pocallum.files.wordpress.com/2012/01/20110207230647_-scaled1000-scaled500.jpg?w=212
+image: https://pocallum.files.wordpress.com/2012/01/20110207230647_-scaled1000-scaled500.jpg?w=212
 ---
 
-![20110207230647\_](http://pocallum.files.wordpress.com/2012/01/20110207230647_-scaled1000-scaled500.jpg?w=212)
+![20110207230647\_](https://pocallum.files.wordpress.com/2012/01/20110207230647_-scaled1000-scaled500.jpg?w=212)
 
 Per l'edició d'enguany del festival de sopes del món, s'havia posat a concurs el cartell oficial. Aquestes són les propostes enviades per Pocallum.cat. A veure si hi ha sort ;)
 

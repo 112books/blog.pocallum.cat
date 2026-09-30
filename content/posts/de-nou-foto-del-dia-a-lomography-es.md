@@ -25,4 +25,4 @@ De nou foto del dia a Lomography.es
 </figure>
 
   
-Quina il·lusió que fa que et seleccionin una foto com a foto del dia a Lomography.es. Aquí el enllaç per veure la foto original: [http://www.lomography.es/photos/18500124](http://www.lomography.es/photos/18500124)
+Quina il·lusió que fa que et seleccionin una foto com a foto del dia a Lomography.es. Aquí el enllaç per veure la foto original: [https://www.lomography.es/photos/18500124](https://www.lomography.es/photos/18500124)

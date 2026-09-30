@@ -20,7 +20,7 @@ Avui he experimentat un xic ja que ara feina massa dies que no feia un revelat a
 
 Basat en l’article que ja vaig publicar en el seu dia [“Caffenol”, una tècnica de revelat alternatiu](http://picturebcn.com/ca/blog/“caffenol”-una-tècnica-de-revelat-alternatiu) (també [en castellà](http://picturebcn.com/es/blog/“caffenol”-una-técnica-de-revelado-alternativa)) avui m’he embolicat a revelar per verificar temps de revelat i temperatures.
 
-Ja que la setmana passada vaig fer un test molt poc ortodoxe i [els resultats](http://www.lomography.es/homes/linuxbcn/albums/2061347-homedev-48-caffenol-lc-a-120-earl-grey-100) no van acabar de fer-me el pes, dilluns vaig aprofitar una estona per passejar i disparar un rodet.
+Ja que la setmana passada vaig fer un test molt poc ortodoxe i [els resultats](https://www.lomography.es/homes/linuxbcn/albums/2061347-homedev-48-caffenol-lc-a-120-earl-grey-100) no van acabar de fer-me el pes, dilluns vaig aprofitar una estona per passejar i disparar un rodet.
 
 La formula feta servir és la de l’article, la càmera la [LC-A 120](http://shop.lomography.com/es/cameras/new-in-stock/lomo-lc-a-120) per descartar errors d’exposició. La pel·lícula protagonista la [Lomography Earl Grey 120/100ASA](http://shop.lomography.com/es/films/lomography-film/lomography-earl-grey-b-w-100-iso-120-3-pack).
 
@@ -51,4 +51,4 @@ Aquí podeu veure els resutats.
 |  |
 | De [Homedev#50 (Caffenol) – Lubitel166B – Earl Grey 100 – 18min 23C + Curcuma](https://picasaweb.google.com/103138221614479310970/Homedev50CaffenolLubitel166BEarlGrey10018min23CCurcuma?authuser=0&feat=embedwebsite) |
 
-Per si us voleu apuntar al taller aquí tota la informació: [Lomotaller: Revelado al caffenol](http://www.lomography.es/magazine/311315-lomotaller-revelado-al-caffenol)
+Per si us voleu apuntar al taller aquí tota la informació: [Lomotaller: Revelado al caffenol](https://www.lomography.es/magazine/311315-lomotaller-revelado-al-caffenol)

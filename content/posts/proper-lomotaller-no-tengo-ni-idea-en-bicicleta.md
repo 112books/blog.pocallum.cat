@@ -16,4 +16,4 @@ image: /linuxbcn-org/2015/05/Captura-de-pantalla-2015-05-28-a-les-21.44.23.webp
 
 Doncs si, el proper LomoTaller serà el proper 13 de Juny a Lomography Embassy Store Barcelona.
 
-Tota la informació i inscripcions a: <http://www.lomography.es/magazine/311891-lomotaller-no-tengo-ni-idea-en-bicicleta>
+Tota la informació i inscripcions a: <https://www.lomography.es/magazine/311891-lomotaller-no-tengo-ni-idea-en-bicicleta>

@@ -24,4 +24,4 @@ Sessió per provar la GoPro amb una artista de circ, Berta, fent trapezi i corda
 
 [L'àlbum complert](https://photos.app.goo.gl/fwAGaiahdWv4npmS6)
 
-http://www.vimeo.com/23475227
+https://www.vimeo.com/23475227

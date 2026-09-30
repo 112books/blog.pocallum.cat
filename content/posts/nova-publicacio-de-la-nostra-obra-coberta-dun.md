@@ -9,10 +9,10 @@ tags:
   - "wwweditionsattributfr"
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2011/07/la_culture_book-scaled1000.webp
-image: http://pocallum.files.wordpress.com/2011/07/la_culture_book-scaled1000.jpg?w=300
+image: https://pocallum.files.wordpress.com/2011/07/la_culture_book-scaled1000.jpg?w=300
 ---
 
-[![La\_culture\_book](http://pocallum.files.wordpress.com/2011/07/la_culture_book-scaled1000.jpg?w=300)](http://pocallum.files.wordpress.com/2011/07/la_culture_book-scaled1000.jpg)
+[![La\_culture\_book](https://pocallum.files.wordpress.com/2011/07/la_culture_book-scaled1000.jpg?w=300)](https://pocallum.files.wordpress.com/2011/07/la_culture_book-scaled1000.jpg)
 
 Avui he anat a buscar un paquetet de Toluse a correus. Quina ilusió m'ha fet veure que a la portada, com m'havien comentat, apareix una foto de les que vaig fer el dia dels "[Premis de Circ de Catalunya 2010](http://pocallum.posterous.com/molt-aviat-les-fotografies-dels-premis-de-cir)"
 

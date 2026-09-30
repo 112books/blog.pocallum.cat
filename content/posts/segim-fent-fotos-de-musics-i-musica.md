@@ -10,11 +10,11 @@ tags:
   - "cormadrigal"
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2011/06/img_9247-scaled1000.webp
-image: http://pocallum.files.wordpress.com/2011/06/img_9247-scaled1000.jpg?w=300
+image: https://pocallum.files.wordpress.com/2011/06/img_9247-scaled1000.jpg?w=300
 ---
 
-[![Img\_9247](http://pocallum.files.wordpress.com/2011/06/img_9247-scaled1000.jpg?w=300)](http://pocallum.files.wordpress.com/2011/06/img_9247-scaled1000.jpg)
+[![Img\_9247](https://pocallum.files.wordpress.com/2011/06/img_9247-scaled1000.jpg?w=300)](https://pocallum.files.wordpress.com/2011/06/img_9247-scaled1000.jpg)
 
 Una sessió amb el Cor Madrigal, a Barcelona.
 
-[![Cor-programa](http://pocallum.files.wordpress.com/2011/06/cor-programa-scaled1000.png?w=300)](http://pocallum.files.wordpress.com/2011/06/cor-programa-scaled1000.png)
+[![Cor-programa](https://pocallum.files.wordpress.com/2011/06/cor-programa-scaled1000.png?w=300)](https://pocallum.files.wordpress.com/2011/06/cor-programa-scaled1000.png)

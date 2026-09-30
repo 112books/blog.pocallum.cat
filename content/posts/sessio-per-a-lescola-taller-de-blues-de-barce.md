@@ -7,10 +7,10 @@ categories:
 author: "fatmin"
 tags: []
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/01/20090619183322_nenblues-scaled1000.webp
-image: http://pocallum.files.wordpress.com/2012/01/20090619183322_nenblues-scaled1000.jpg?w=300
+image: https://pocallum.files.wordpress.com/2012/01/20090619183322_nenblues-scaled1000.jpg?w=300
 ---
 
-![20090619183322\_nenblues](http://pocallum.files.wordpress.com/2012/01/20090619183322_nenblues-scaled1000.jpg?w=300)
+![20090619183322\_nenblues](https://pocallum.files.wordpress.com/2012/01/20090619183322_nenblues-scaled1000.jpg?w=300)
 
 Sessió fotogràfica al Honky Tonky Blues bar (22/05/2008)
 

@@ -18,6 +18,6 @@ Ahir vàrem cobrir els espectacles, l'entrega de premis i un xic l'enviant de ci
 
 Això només és una petita mostra, la resta d'imatges a [https://photos.app.goo.gl/WEKk5yLUPac7jExb6](https://photos.app.goo.gl/WEKk5yLUPac7jExb6) 
 
-[http://www.zirkolika.com/index.php?seccion=temaActualidad&id=843](http://www.zirkolika.com/index.php?seccion=temaActualidad&id=843)
+[https://www.zirkolika.com/index.php?seccion=temaActualidad&id=843](http://www.zirkolika.com/index.php?seccion=temaActualidad&id=843)
 
 [http://www.btvnoticies.cat/2010/12/21/la-nit-de-circ-posa-de-relleu-la-falta-...](http://www.btvnoticies.cat/2010/12/21/la-nit-de-circ-posa-de-relleu-la-falta-doportunitats-per-als-artistes-catalans/)

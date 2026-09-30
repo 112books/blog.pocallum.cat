@@ -15,6 +15,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2011/06/Captura-de-panta
 
 Moltes gràcies, Kaori per la teva col·laboració amb Pocallum!!!
 
-Aquest vídeo i uns quants més a [http://pocallum.cat](http://pocallum.cat)
+Aquest vídeo i uns quants més a [https://pocallum.cat](https://pocallum.cat)
 
 https://www.vimeo.com/25362818

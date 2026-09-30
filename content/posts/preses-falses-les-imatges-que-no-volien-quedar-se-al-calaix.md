@@ -26,6 +26,6 @@ Si sou amants del blues, de la fotografia o senzillament de les històries que b
 
 - 📍 Lloc: Carpa del festival, Platja de Garbí, Calella
 
-- 🔗 Més informació: [www.calellaharmonicafestival.es](http://www.calellaharmonicafestival.es/)
+- 🔗 Més informació: [www.calellaharmonicafestival.es](https://www.calellaharmonicafestival.es/)
 
 * * *

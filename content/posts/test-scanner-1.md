@@ -10,9 +10,9 @@ tags:
   - "scan"
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/09/img002-scaled1000.webp
-image: http://pocallum.files.wordpress.com/2012/09/img002-scaled1000.jpg?w=283
+image: https://pocallum.files.wordpress.com/2012/09/img002-scaled1000.jpg?w=283
 ---
 
-[![Img002](http://pocallum.files.wordpress.com/2012/09/img002-scaled1000.jpg?w=283)](http://pocallum.files.wordpress.com/2012/09/img002-scaled1000.jpg)
+[![Img002](https://pocallum.files.wordpress.com/2012/09/img002-scaled1000.jpg?w=283)](https://pocallum.files.wordpress.com/2012/09/img002-scaled1000.jpg)
 
 Primer test del nou Scanner Epson V500 amb pel·lícula de mig format.

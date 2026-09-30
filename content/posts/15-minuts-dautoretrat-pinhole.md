@@ -12,9 +12,9 @@ tags:
   - "selfportail"
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/07/283111-scaled1000.webp
-image: http://pocallum.files.wordpress.com/2012/07/283111-scaled1000.jpg?w=297
+image: https://pocallum.files.wordpress.com/2012/07/283111-scaled1000.jpg?w=297
 ---
 
-[![283111](http://pocallum.files.wordpress.com/2012/07/283111-scaled1000.jpg?w=297)](https://photos.app.goo.gl/hai11kz2QGRP7xHZA)
+[![283111](https://pocallum.files.wordpress.com/2012/07/283111-scaled1000.jpg?w=297)](https://photos.app.goo.gl/hai11kz2QGRP7xHZA)
 
 Experimentant amb la meva nova [Diana Multi Pinhole](http://shop.lomography.com/cameras/pinhole-cameras/diana-multi-pinhole-operator), he aconseguit estar uns 15 minuts quietet per fer aquest autoretrat.

@@ -9,7 +9,7 @@ tags:
   - "pcoallum"
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/10/pocallum-cat-scaled1000.webp
-image: http://pocallum.files.wordpress.com/2012/10/pocallum-cat-scaled1000.jpg?w=300
+image: https://pocallum.files.wordpress.com/2012/10/pocallum-cat-scaled1000.jpg?w=300
 ---
 
-[![Pocallum](http://pocallum.files.wordpress.com/2012/10/pocallum-cat-scaled1000.jpg?w=300)](http://pocallum.files.wordpress.com/2012/10/pocallum-cat-scaled1000.jpg)
+[![Pocallum](https://pocallum.files.wordpress.com/2012/10/pocallum-cat-scaled1000.jpg?w=300)](https://pocallum.files.wordpress.com/2012/10/pocallum-cat-scaled1000.jpg)

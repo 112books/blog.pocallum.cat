@@ -16,4 +16,4 @@ A veure si cau un tels tans milions d'euros que han de deixar les grans companyi
 
 [![Acreditacio](https://blog.pocallum.cat/wp-content/uploads/2013/02/acreditacio-scaled1000.jpg?w=300)](https://blog.pocallum.cat/wp-content/uploads/2013/02/acreditacio-scaled1000.jpg)
 
-[http://www.mobileworldcongress.com/](http://www.mobileworldcongress.com/)
+[https://www.mobileworldcongress.com/](http://www.mobileworldcongress.com/)

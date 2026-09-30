@@ -16,4 +16,4 @@ image: https://lh3.googleusercontent.com/-MjAKCGElLYM/VR8gHfj2__I/AAAAAAAEqcE/AW
 
 Doncs així de guay! Aquest proper dia 25 d’abril farem un taller a [Lomography Embassy Store Barcelona](https://www.facebook.com/lomographyembassybarcelona) dedicat al dia mundial de la fotografia estenopèica.
 
-Podeu veure tota la informació a: [lomography.es/magazine](http://www.lomography.es/magazine/310735-lomotaller-dia-internacional-del-pinhole)
+Podeu veure tota la informació a: [lomography.es/magazine](https://www.lomography.es/magazine/310735-lomotaller-dia-internacional-del-pinhole)

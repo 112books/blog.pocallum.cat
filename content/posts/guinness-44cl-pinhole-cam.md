@@ -17,7 +17,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2020/04/Captura-de-panta
 image: https://lh3.googleusercontent.com/CA0O960OeL63gsmEkdBLK859uOYN2ePn_m_3xQwfmQjcg6rl0TT48wvzPz0dZ9gnsfJiSx4Ai3ox4MgPpN_42yPCAXPvNfK7VbWL_KPpJSRpjJQKRvikZmOf4Cj8_6SQEaCQy1Wida5J8iLFviuPvOCW82anE9y3e0rxsJNWETDTOWAFt1qOcr5DVYla81Pxh-8C_tPAPtPTlFT5Uvn5ouMVMs8dO1xmnv9FLO4MmaVoTz3pEZdDJzbrPwt0TcmNxkTZv2hrJbI_hbnA73rzvfBu8gj8HuMQm73tgCDcmqKV7Oi_A78K9N8R4B6oeYUzgGyZr455D0w6ulSgKb0lWLhP7oTwhOn_eQjD9mO0Yidtv1SpIuuQYBO7CRTbWiAqUh_nuAGmmNnqBoavhb4NFA4ktzsHAhaGYZsbVzs0NEoZkPodvzkj2wWDDOSS7NOCNcAtZLfp-6qKDe4erKYMSBpwXXzYDLtRcHX3OQWZL67f5J1fWHqrst64-AZ8eRo3Zyi6-64_qUGK2PUSaFLvC_Jp4J3vT0ll2LTGCtJt8EXZe7hbf8a2VzFHbDjopFyi5PCqkx_5vYCw1Rc_cUxPpXb6S5ivA2PVGviUHOUwjHn8N5_zmsYMpETUvt0p86eV1UsbsGD2HzCQeKY0R4080I_54Pq6HeKe-03Zm_FBwSKT97CYbmQaC1r_VrDCAzAPqg8nxVZ7h0RMqlOibJgzJS6Aspo-Jf0Ed1ojpMU-MT2DPnJs8Rp8kug=w1030-h1271-no
 ---
 
-Engrescat amb el proper [dia internacional de la fotografia estenopeica](http://pinholeday.org/events/), també coneguda com a fotografia Pinhole, ahir vaig muntar amb el poc material que tinc aquests dies per casa una nova càmera Pinhole.
+Engrescat amb el proper [dia internacional de la fotografia estenopeica](https://pinholeday.org/events/), també coneguda com a fotografia Pinhole, ahir vaig muntar amb el poc material que tinc aquests dies per casa una nova càmera Pinhole.
 
 Primerament és un petit homenatge a una gran cervesa que de sempre m'ha encantat (més quan he estat a Irlanda). Era també una bona excusa per beure'm la darrera que hi havia per casa i, quina millor forma de passar a la història? Doncs reencarnar-se amb una càmera fotogràfica!
 

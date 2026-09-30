@@ -22,4 +22,4 @@ Lloc: Barcelona Pipa Club
 
 Hora: divendres, 1 / abril / 2011 23:00
 
-http://www.vimeo.com/21518989
+https://www.vimeo.com/21518989

@@ -17,4 +17,4 @@ image: https://lh4.googleusercontent.com/_xYdsA1KqJRQ/TYSTK4OMzAI/AAAAAAACEng/oS
 
 Doncs sí, un Vermut si cal amb Blues. Bon blues amb un dels combos de l'Ecola-Taller de Blues de Barcelona.
 
-http://www.vimeo.com/21228995
+https://www.vimeo.com/21228995

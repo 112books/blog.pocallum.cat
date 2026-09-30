@@ -10,10 +10,10 @@ tags:
   - "festivalsopes"
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/01/sopes-2012-02-scaled500.webp
-image: http://pocallum.files.wordpress.com/2012/01/sopes-2012-02-scaled500.jpg?w=212
+image: https://pocallum.files.wordpress.com/2012/01/sopes-2012-02-scaled500.jpg?w=212
 ---
 
-![Sopes-2012-02](http://pocallum.files.wordpress.com/2012/01/sopes-2012-02-scaled500.jpg?w=212)
+![Sopes-2012-02](https://pocallum.files.wordpress.com/2012/01/sopes-2012-02-scaled500.jpg?w=212)
 
 ![Sopes-2012-01](https://blog.pocallum.cat/wp-content/uploads/2013/02/sopes-2012-01-scaled500.jpg?w=212)
 

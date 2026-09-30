@@ -20,6 +20,6 @@ Enguany amb les acutacions de:
 
 - [Big Dani Pérez R’n’B Band](http://www.myspace.com/daniperezmusic)
 
-- [Barcelona Big Blues Band](http://www.festivalbluesbarcelona.com/ca/Barcelona-Big-Blues-Band)
+- [Barcelona Big Blues Band](https://www.festivalbluesbarcelona.com/ca/Barcelona-Big-Blues-Band)
 
 \-> [Àlbum complert](https://photos.app.goo.gl/TJB2zBFvRotjCrwK8)

@@ -8,7 +8,7 @@ tags:
   - "vistesdebarcelona"
 author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/11/bcn-scaled1000.webp
-image: http://pocallum.files.wordpress.com/2012/11/bcn-scaled1000.jpg?w=300
+image: https://pocallum.files.wordpress.com/2012/11/bcn-scaled1000.jpg?w=300
 ---
 
-[![Bcn](http://pocallum.files.wordpress.com/2012/11/bcn-scaled1000.jpg?w=300)](http://pocallum.files.wordpress.com/2012/11/bcn-scaled1000.jpg)
+[![Bcn](https://pocallum.files.wordpress.com/2012/11/bcn-scaled1000.jpg?w=300)](https://pocallum.files.wordpress.com/2012/11/bcn-scaled1000.jpg)

@@ -22,4 +22,4 @@ Mercat de La Boqueria
 
 </figure>
 
-Avui he tingut el plaer de baixar al centre de Barcelona amb el copi-amic Cesc Barbe, també de [9barrisimatge.org](http://www.9barrisimatge.org/), pel centre de Barcelona. L'excusa provar una nova càmera seva i jo fer fotos, per variar. A més del que coneixia com a mercat de la Boqueria, que ara no sembla altra cosa que un parc temàtic per a guiris amb gana, també hem fet un most al bar "La Plata" que feia molts anys que no hi anava. Finalment un xic de carrers per la Rivera i el mercat de Santa Catarina. Un matí ben entretingut disparant a tort i dret!
+Avui he tingut el plaer de baixar al centre de Barcelona amb el copi-amic Cesc Barbe, també de [9barrisimatge.org](https://www.9barrisimatge.org/), pel centre de Barcelona. L'excusa provar una nova càmera seva i jo fer fotos, per variar. A més del que coneixia com a mercat de la Boqueria, que ara no sembla altra cosa que un parc temàtic per a guiris amb gana, també hem fet un most al bar "La Plata" que feia molts anys que no hi anava. Finalment un xic de carrers per la Rivera i el mercat de Santa Catarina. Un matí ben entretingut disparant a tort i dret!

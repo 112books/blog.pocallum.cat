@@ -37,4 +37,4 @@ El concert va complir amb escreix les expectatives: una exhibició de talent rí
 
 **Fotografies**. Les que vaig fer les podeu veure fent clic a la imatge que encapçala aquesta personal crònica.
 
-Si voleu saber-ne més, visiteu la web oficial de Makaya McCraven: [makayamccraven.com](http://makayamccraven.com)
+Si voleu saber-ne més, visiteu la web oficial de Makaya McCraven: [makayamccraven.com](https://makayamccraven.com)

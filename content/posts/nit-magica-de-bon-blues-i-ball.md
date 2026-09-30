@@ -19,4 +19,4 @@ image: https://blog.pocallum.cat/wp-content/uploads/2011/01/IMG_9430-1024x683.jp
 
 Encara estic triant i retocant les fotografies d'ahir. Però no puc estar-me de penjar ja alguna foto perquè veieu a un dels grans, en BIg Dani Pérez que ahir, al Casal de Barri, va actuar amb formació de trio, acompanyat de Víctor Puertas al Hammond i al Marc Ruiz a la bateria. Inoblidable. També vàrem passar-ho molt bé a la Master Class de ball a càrrec de l'escola de BarcelonaSwing.com.
 
-http://www.vimeo.com/19072530
+https://www.vimeo.com/19072530

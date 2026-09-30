@@ -13,6 +13,6 @@ Aquest darrer dia 17 de gener es va presentar la nova [Belair X 6-12](http://mic
 
 Aquí us deixo un vídeo de l'esdeveniment que, ja veureu el perquè, m'ha fet gràcia ;)
 
-Article original de [pasqualecaprile](http://www.lomography.es/homes/pasqualecaprile) a [Lomograpny.es](http://www.lomography.es/magazine/lifestyle/2013/01/22/gran-presentacin-la-belair-x-6-12-ya-es-oficialmente-de-la-familia-lomography)
+Article original de [pasqualecaprile](https://www.lomography.es/homes/pasqualecaprile) a [Lomograpny.es](https://www.lomography.es/magazine/lifestyle/2013/01/22/gran-presentacin-la-belair-x-6-12-ya-es-oficialmente-de-la-familia-lomography)
 
-http://www.youtube.com/watch?v=dgfgmeofIvw&w=560&h=315
+https://www.youtube.com/watch?v=dgfgmeofIvw&w=560&h=315

@@ -14,7 +14,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2011/12/IMG_2139.jpg
 
 Una nit gran de Blues & Boogie a l'Ateneu Popular de 9 Barris. Aquesta nit, i seguint amb l'homenatge a Robert Jonhson, he gaudit (i cóm!) de quasi tots els grans músics de Blues de Barcelona. El llistat és enorme!
 
-- Presentació de nou disc de [Blas Picón & The Junk Express](http://www.reverbnation.com/blaspic%C3%B3nthejunkexpress)
+- Presentació de nou disc de [Blas Picón & The Junk Express](https://www.reverbnation.com/blaspic%C3%B3nthejunkexpress)
 
 - Presentació del disc "Pactando con el diabo. Homenaje a Robert Johnson". Editat per Bad Music Blues.
 

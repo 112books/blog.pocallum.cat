@@ -22,4 +22,4 @@ Doncs això és una excel·lent forma d'iniciar-me en la fotografia Pinhole; un 
 
 A més del curs Pinhole (iniciació) i el dinar, també hi havia exposicions, demostracions fent fotos Pinhole amb diferents càmeres de tota classe (artesanals de tota mena, comprades i fins i tot fent fotos amb una furgoneta) i de cloenda, fotos gegants fent servir una habitació del centre cívic.
 
-[http://www.pinholeday.org/?setlang=es](http://www.pinholeday.org/?setlang=es)
+[https://www.pinholeday.org/?setlang=es](https://www.pinholeday.org/?setlang=es)

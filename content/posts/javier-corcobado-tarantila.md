@@ -33,4 +33,4 @@ Bé, ahir al vespre vaig poder gaudir del ja clàssic [Javier Corcobado](https:/
 
 - **Juan Tijeras** - guitarra elèctrica
 
-Gracies a Sabine Ecomard per l'acreditació. Bé, de Tarantula no se massa res, però podeu veure el seu espai a [myspace.com/tarantulismo](http://www.myspace.com/tarantulismo). (23/05/2008) Totes les fotos a: [https://photos.app.goo.gl/vjr96rgi4u7oqHyKA](https://photos.app.goo.gl/vjr96rgi4u7oqHyKA)
+Gracies a Sabine Ecomard per l'acreditació. Bé, de Tarantula no se massa res, però podeu veure el seu espai a [myspace.com/tarantulismo](https://www.myspace.com/tarantulismo). (23/05/2008) Totes les fotos a: [https://photos.app.goo.gl/vjr96rgi4u7oqHyKA](https://photos.app.goo.gl/vjr96rgi4u7oqHyKA)
