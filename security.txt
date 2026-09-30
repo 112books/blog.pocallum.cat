@@ -1,5 +1,8 @@
 Contact: mailto:hola@pocallum.cat
 Expires: 2027-09-30T00:00:00.000Z
 Preferred-Languages: ca, es, en
-Canonical: https://blog.pocallum.cat/.well-known/security.txt
+Canonical: https://blog.pocallum.cat/security.txt
 Policy: https://blog.pocallum.cat/aviso-legal/
+
+# Nota: el directori /.well-known/ del servidor no és escrivible ni aplica
+# les reescriptures del .htaccess, així que el fitxer se serveix a l'arrel.
