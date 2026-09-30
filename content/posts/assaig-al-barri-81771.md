@@ -1,5 +1,6 @@
 ---
 title: "Assaig al barri"
+description: "Assaig al barri. Crònica fotogràfica de Pocallum amb Canon-Eos-5, 2012."
 date: 2012-01-28
 slug: "assaig-al-barri-81771"
 categories: 
@@ -9,7 +10,6 @@ tags: []
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_1922-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_1922.jpg
 ---
-
 [![](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_1922.jpg)](https://photos.app.goo.gl/mygSo3vxnPtjGjfY6)
 
 [Totes les fotografies](https://photos.app.goo.gl/mygSo3vxnPtjGjfY6)

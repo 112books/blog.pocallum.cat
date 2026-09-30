@@ -1,5 +1,6 @@
 ---
 title: "Les Nits de Capibola Blues; Dani Pérez Rhythm and Blues Band"
+description: "Les Nits de Capibola Blues; Dani Pérez Rhythm and Blues Band. Crònica fotogràfica de Pocallum amb Canon-Eos-5, 2012."
 date: 2012-01-28
 slug: "dani-perez-rhythm-and-blues-band"
 categories: 
@@ -9,7 +10,6 @@ tags: []
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_5190wtmk-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_5190wtmk.jpg
 ---
-
 [![](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_5190wtmk.jpg)](https://photos.app.goo.gl/kMrMG6qRFGPQ9uiq5)
 
 [Totes les fotos](https://photos.app.goo.gl/kMrMG6qRFGPQ9uiq5)

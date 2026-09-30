@@ -1,5 +1,6 @@
 ---
 title: "Pinholejant per Tavertet amb Ilford Obscura"
+description: "Pinholejant per Tavertet amb Ilford Obscura. Crònica fotogràfica de Pocallum amb Fotografia estenopeica, 2015."
 date: 2015-04-03
 slug: "pinholejant-per-tavertet-amb-ilford-obscura"
 categories: 
@@ -9,7 +10,6 @@ author: "fatmin"
 tags: []
 # Migrat de https://linuxbcn.org/pinholejant-per-tavertet-amb-ilford-obscura/
 ---
-
 |  |
 | --- |
 |  |

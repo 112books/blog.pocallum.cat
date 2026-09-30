@@ -1,5 +1,6 @@
 ---
 title: "Fotografies publicades; Mirades sobre l'acte performatiu"
+description: "Fotografies publicades; Mirades sobre l'acte performatiu. Crònica fotogràfica de Pocallum amb Canon-G11, 2012."
 date: 2012-01-28
 slug: "fotografies-publicades-mirades-sobre-lacte-pe"
 categories: 
@@ -9,8 +10,6 @@ tags: []
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/01/20110207230003_08-scaled1000.webp
 image: https://pocallum.files.wordpress.com/2012/01/20110207230003_08-scaled1000.png?w=300
 ---
-
-
 [![20110207230003\_08](https://pocallum.files.wordpress.com/2012/01/20110207230003_08-scaled1000.png?w=300)](https://pocallum.files.wordpress.com/2012/01/20110207230003_08-scaled1000.png)
 
 Doncs ahir vaig rebre un mail de l'Anna Caxach que va alegrar-me el dia. Resulta que el col·lectiu GRA a GRA ha publicat "mirades sobre l'acte performatiu", una publicació de cloenda del darrer 2010.

@@ -1,5 +1,6 @@
 ---
 title: "Rua de Carnestoltes a Nou Barris"
+description: "Rua de Carnestoltes a Nou Barris. Crònica fotogràfica de Pocallum amb Fuji-X-Pro1, 2022."
 date: 2022-02-26
 slug: "rua-de-carnestoltes-a-nou-barris"
 categories: 
@@ -11,7 +12,6 @@ author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2022/02/DSF6904-1024x683-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2022/02/DSF6904-1024x683.jpg
 ---
-
 <figure>
 
 [![](https://blog.pocallum.cat/wp-content/uploads/2022/02/DSF6904-1024x683.jpg)](https://photos.app.goo.gl/r9n2BCqcBEAUWP1AA)

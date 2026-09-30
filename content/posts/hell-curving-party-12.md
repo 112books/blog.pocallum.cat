@@ -1,5 +1,6 @@
 ---
 title: "Hell Curving Party '12"
+description: "Hell Curving Party '12. Crònica fotogràfica de Pocallum amb Camara, 2012."
 date: 2012-09-15
 slug: "hell-curving-party-12"
 categories: 
@@ -17,7 +18,6 @@ author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/09/IMG_8243.jpg
 image: https://lh6.googleusercontent.com/-LrQ-Hlxqyt4/UFUKd8YFckI/AAAAAAADUIU/tz9037Zj2Fg/s800/IMG_8243.jpg
 ---
-
 | [![](https://lh6.googleusercontent.com/-LrQ-Hlxqyt4/UFUKd8YFckI/AAAAAAADUIU/tz9037Zj2Fg/s800/IMG_8243.jpg)](https://photos.app.goo.gl/4LdShP1R8PC9osJb9) |
 | --- |
 | De [Hell Curving Party '12](https://photos.app.goo.gl/4LdShP1R8PC9osJb9) |

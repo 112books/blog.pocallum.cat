@@ -1,5 +1,6 @@
 ---
 title: "Més fotografies publicades; Mirades sobre l'acte performatiu"
+description: "Més fotografies publicades; Mirades sobre l'acte performatiu. Crònica fotogràfica de Pocallum, 2011."
 date: 2011-01-26
 slug: "mes-fotografies-publicades-mirades-sobre-lact"
 tags:
@@ -11,7 +12,6 @@ author: "fatmin"
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2011/01/Captura-de-pantalla-2024-11-13-a-les-20.35.38.png
 image: https://pocallum.files.wordpress.com/2011/01/02-scaled1000.png?w=300
 ---
-
 [![02](https://pocallum.files.wordpress.com/2011/01/02-scaled1000.png?w=300)](https://pocallum.files.wordpress.com/2011/01/02-scaled1000.png)[![03](https://pocallum.files.wordpress.com/2011/01/03-scaled1000.png?w=300)](https://pocallum.files.wordpress.com/2011/01/03-scaled1000.png)[![04](https://pocallum.files.wordpress.com/2011/01/04-scaled1000.png?w=300)](https://pocallum.files.wordpress.com/2011/01/04-scaled1000.png)[![06](https://pocallum.files.wordpress.com/2011/01/06-scaled1000.png?w=300)](https://pocallum.files.wordpress.com/2011/01/06-scaled1000.png)[![05](https://pocallum.files.wordpress.com/2011/01/05-scaled1000.png?w=300)](https://pocallum.files.wordpress.com/2011/01/05-scaled1000.png)[![07](https://pocallum.files.wordpress.com/2011/01/07-scaled1000.png?w=300)](https://pocallum.files.wordpress.com/2011/01/07-scaled1000.png)[![08](https://pocallum.files.wordpress.com/2011/01/08-scaled1000.png?w=300)](https://pocallum.files.wordpress.com/2011/01/08-scaled1000.png)[![09](https://pocallum.files.wordpress.com/2011/01/09-scaled1000.png?w=300)](https://pocallum.files.wordpress.com/2011/01/09-scaled1000.png)[![10](https://pocallum.files.wordpress.com/2011/01/10-scaled1000.png?w=300)](https://pocallum.files.wordpress.com/2011/01/10-scaled1000.png)[![11](https://pocallum.files.wordpress.com/2011/01/11-scaled1000.png?w=300)](https://pocallum.files.wordpress.com/2011/01/11-scaled1000.png)[![12](https://pocallum.files.wordpress.com/2011/01/12-scaled1000.png?w=300)](https://pocallum.files.wordpress.com/2011/01/12-scaled1000.png)[![13](https://pocallum.files.wordpress.com/2011/01/13-scaled1000.png?w=300)](https://pocallum.files.wordpress.com/2011/01/13-scaled1000.png)[![14](https://pocallum.files.wordpress.com/2011/01/14-scaled1000.png?w=300)](https://pocallum.files.wordpress.com/2011/01/14-scaled1000.png)
 
 Doncs ahir vaig rebre un mail de l'Anna Caxach que va alegrar-me el dia. Resulta que el col·lectiu GRA a GRA ha publicat "mirades sobre l'acte performatiu", una publicació de cloenda del darrer 2010.

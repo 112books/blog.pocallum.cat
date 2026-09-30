@@ -1,5 +1,6 @@
 ---
 title: "La Seu del districte de 9 barris de nit"
+description: "La Seu del districte de 9 barris de nit. Crònica fotogràfica de Pocallum amb Canon-Eos-5, 2012."
 date: 2012-01-28
 slug: "la-seu-del-districte-de-9-barris-de-nit"
 categories: 
@@ -9,7 +10,6 @@ tags: []
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_4441-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_4441.jpg
 ---
-
 [![](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_4441.jpg)](https://photos.app.goo.gl/AVkbAJwmjo7D3wE48)
 
 [Totes les fotos](https://photos.app.goo.gl/AVkbAJwmjo7D3wE48)

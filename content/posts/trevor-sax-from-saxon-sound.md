@@ -1,5 +1,6 @@
 ---
 title: "Trevor Sax from Saxon Sound"
+description: "Trevor Sax from Saxon Sound. Crònica fotogràfica de Pocallum amb Canon-Eos-5, 2012."
 date: 2012-01-28
 slug: "trevor-sax-from-saxon-sound"
 categories: 
@@ -9,7 +10,6 @@ tags: []
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_0126-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_0126.jpg
 ---
-
 [![](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_0126.jpg)](https://photos.app.goo.gl/CMLiy7BehTSpFKrj7)
 
 [Totes les fotografies](https://photos.app.goo.gl/CMLiy7BehTSpFKrj7)
