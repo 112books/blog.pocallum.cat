@@ -9,7 +9,7 @@ tags:
   - 9BarrisImatge
   - Casal de Barri de la Prosperitat
   - lluita veïnal
-  - memòria veïnal,
+  - memòria veïnal
   - presentació de llibres
   - La Prosperitat
   - moviment veïnal

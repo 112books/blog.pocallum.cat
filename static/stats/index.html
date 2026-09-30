@@ -331,6 +331,7 @@
       .kpis { grid-template-columns: repeat(2, 1fr); }
       .kpi-value { font-size: 1.9rem; }
     }
+  .visually-hidden { position: absolute !important; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0 0 0 0); clip-path: inset(50%); white-space: nowrap; border: 0; }
   </style>
 </head>
 <body>
@@ -338,12 +339,13 @@
 <!-- ══ TOKEN MODAL ═══════════════════════════════════════════ -->
 <div id="token-modal" role="dialog" aria-modal="true" aria-labelledby="token-modal-title">
   <form id="token-form" class="token-box" novalidate>
-    <h3 id="token-modal-title">Token de GoatCounter</h3>
+    <h2 id="token-modal-title">Token de GoatCounter</h2>
     <p>
       Ves a <a href="https://pocallum-blog.goatcounter.com/settings/api" target="_blank" rel="noopener">GoatCounter → Settings → API</a>,
       crea un token amb permís <em>Read stats</em> i enganxa'l aquí.<br>
       Es guarda a la sessió del navegador, mai al codi.
     </p>
+    <label for="token-input" class="visually-hidden">Token d'API de GoatCounter</label>
     <input id="token-input" type="password" placeholder="token_…" autocomplete="off" spellcheck="false">
     <div class="token-actions">
       <button type="submit" class="btn" style="font-size:11px;padding:.45rem 1.1rem">Actualitzar →</button>
@@ -368,7 +370,8 @@
     </div>
   </div>
 
-  <main class="dash-body">
+  <main class="dash-body" id="main-content" tabindex="-1">
+    <h1 class="visually-hidden">Estadístiques del blog</h1>
     <div id="banner" aria-live="polite" aria-atomic="true"></div>
 
     <!-- KPIs -->
