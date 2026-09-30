@@ -85,10 +85,3 @@ jobs:
             -e "ssh -o StrictHostKeyChecking=yes -o UserKnownHostsFile=~/.ssh/known_hosts" \
             public/ \
             "${REMOTE_USER}@${REMOTE_HOST}:${REMOTE_PATH}/"
-
-          # security.txt viu a .well-known/, que el rsync principal exclou (permisos).
-          # L'afegim a part, sense --delete, per no tocar l'acme-challenge.
-          rsync -az --no-perms --omit-dir-times \
-            -e "ssh -o StrictHostKeyChecking=yes -o UserKnownHostsFile=~/.ssh/known_hosts" \
-            public/.well-known/security.txt \
-            "${REMOTE_USER}@${REMOTE_HOST}:${REMOTE_PATH}/.well-known/security.txt" || true

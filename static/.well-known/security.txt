@@ -1,5 +1,0 @@
-Contact: mailto:hola@pocallum.cat
-Expires: 2027-09-30T00:00:00.000Z
-Preferred-Languages: ca, es, en
-Canonical: https://blog.pocallum.cat/.well-known/security.txt
-Policy: https://blog.pocallum.cat/aviso-legal/
