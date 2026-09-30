@@ -36,6 +36,10 @@ ErrorDocument 404 /404.html
 
   # Feed del WP: servir el RSS a /feed/ sense redirect (compatibilitat subscriptors)
   RewriteRule ^feed/?$ /feed.xml [L]
+
+  # security.txt: el directori .well-known del servidor no és escrivible.
+  # Servim la ubicació estàndard (RFC 9116) des del fitxer de l'arrel.
+  RewriteRule ^\.well-known/security\.txt$ /security.txt [L]
   # Feed de comentaris del WP → feed principal
   RewriteRule ^comments/feed/?$ https://%{HTTP_HOST}/feed.xml [R=301,L]
 
