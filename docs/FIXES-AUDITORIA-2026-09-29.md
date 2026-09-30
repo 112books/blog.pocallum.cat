@@ -23,13 +23,20 @@ Resum dels canvis aplicats i desplegats a producció arran de l'auditoria comple
 - Mòbil: `.post-card` apilat i padding reduït a ≤480 px, logo a ≤380 px, `overflow-wrap` i `pre` amb scroll.
 - Contingut: 2 `h1` del cos passats a `h2` i 4 encapçalaments buits eliminats; `aria-current` i h1 únic.
 
+## Follow-up 2026-09-30
+- **CSP `img-src` amb allowlist**: hosts externs d'imatge del llegat (Google, WordPress, Wikimedia, Blurb, Zeroimage, Lomography, 112books) afegits a `static/.htaccess`, juntament amb el fons adaptatiu `image-set` a portada/about/contacte/cerca.
+- **Descripcions úniques**: els posts amb `description` duplicada (25 grups) reescrits amb descripció pròpia → 0 grups duplicats; corregida la descripció copiada de `barcelona.md`.
+- **Accessibilitat interna**: `/stats/` amb `h1`, `main` identificat, `label` pel token i `h3`→`h2` al modal; `/admin/` amb `main`+`h1` dins `<noscript>` (Sveltia ja genera el seu propi `main` amb JS).
+- **Etiqueta**: coma sobrant de `memòria veïnal,` al post de 9BarrisImatge eliminada (ja no existeix `/tag/memòria-veïnal%2C/`).
+- **`security.txt`**: servit a `/security.txt` (Canonical + Expires 2027-09-30); `/.well-known/` no era escrivible al docroot.
+- Commits: `00942930db`, `ad47962a19`, `79829a7231`.
+
 ## Pendent (decisions de l'usuari)
 - **`/stats/analytics.json` públic** (200): protegir amb auth si no es vol exposar.
 - Extendre el mapa de dimensions als continguts amb imatge no mapejada (avui 84%).
 - Normalitzar enllaços `http://` del llegat (168) a `https://`.
-- 27 grups de descripcions duplicades i 2 posts amb títol duplicat (editorial).
+- 2 posts amb títol duplicat (editorial): l'usuari prefereix no tocar els títols del llegat.
 - `og:image:width/height` i `twitter:site`/`creator`.
-- `/.well-known/security.txt`; a11y interna de `/admin/` i `/stats/`.
 
 ## Verificació
 Cada bloc s'ha verificat en un build net i, després del desplegament, amb comprovacions de només lectura a producció (capçaleres HTTP, HTML servit, mida de recursos).
