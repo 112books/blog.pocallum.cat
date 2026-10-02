@@ -162,7 +162,7 @@
 - [Cronica](https://112books.github.io/blog.pocallum.cat/tag/cronica/) (11)
 - [Cultura-De-Barri](https://112books.github.io/blog.pocallum.cat/tag/cultura-de-barri/) (11)
 - [Dansa](https://112books.github.io/blog.pocallum.cat/tag/dansa/) (11)
-- [Festa Major](https://112books.github.io/blog.pocallum.cat/tag/festa-major/) (11)
+- [Festa-Major](https://112books.github.io/blog.pocallum.cat/tag/festa-major/) (11)
 - [Festival](https://112books.github.io/blog.pocallum.cat/tag/festival/) (11)
 - [Graffiti](https://112books.github.io/blog.pocallum.cat/tag/graffiti/) (11)
 - [Gran-Format](https://112books.github.io/blog.pocallum.cat/tag/gran-format/) (11)
