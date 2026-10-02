@@ -7,6 +7,9 @@
 - [Inici](https://112books.github.io/blog.pocallum.cat/): crònica fotogràfica, llistat cronològic
 - [Arxiu](https://112books.github.io/blog.pocallum.cat/arxiu/): cronologia completa per mesos (des de desembre 2010)
 - [Càmeres i òptiques](https://112books.github.io/blog.pocallum.cat/categories/): índex de totes les càmeres i òptiques amb què s'ha fotografiat
+- [Etiquetes](https://112books.github.io/blog.pocallum.cat/tags/): tots els temes, tècniques i conceptes
+- [Pocallum.cat](https://pocallum.cat): fotografia professional de cultura en directe (serveis i portfoli)
+- [Índex complet (llms-full)](https://112books.github.io/blog.pocallum.cat/llms-full.txt): tots els posts i taxonomies
 - [About](https://112books.github.io/blog.pocallum.cat/about/): sobre Pocallum i aquest blog
 - [Contacte](https://112books.github.io/blog.pocallum.cat/contact/): formulari de contacte
 - [Cerca](https://112books.github.io/blog.pocallum.cat/cerca/): cerca a tot el blog
