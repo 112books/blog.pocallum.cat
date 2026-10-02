@@ -75,13 +75,72 @@ jobs:
           chmod 600 ~/.ssh/known_hosts
 
           # Rsync: substitueix tot el contingut excepte wp-content/ i .well-known/.
+          # --delay-updates + --delete-delay: aplica els canvis (i les esborrades) al
+          #   final, de cop → si la connexió cau a mig camí, la web NO queda a mitges.
+          # --partial: reaprofita el que ja s'ha transferit en el reintent.
+          # --timeout i ServerAlive*: detecta connexions mortes en segons (abans s'esperava 5 min).
           # --no-perms --omit-dir-times: no pot canviar permisos ni timestamps del docroot arrel.
           # StrictHostKeyChecking=yes + known_hosts fix (secret): identitat del servidor verificada.
-          rsync -rlzv --delete \
-            --exclude='wp-content/' \
-            --exclude='.well-known/' \
-            --no-perms \
-            --omit-dir-times \
-            -e "ssh -o StrictHostKeyChecking=yes -o UserKnownHostsFile=~/.ssh/known_hosts" \
-            public/ \
-            "${REMOTE_USER}@${REMOTE_HOST}:${REMOTE_PATH}/"
+          ssh_opts="-o StrictHostKeyChecking=yes -o UserKnownHostsFile=~/.ssh/known_hosts -o ServerAliveInterval=15 -o ServerAliveCountMax=4 -o ConnectTimeout=15"
+          ok=0
+          for i in 1 2 3; do
+            echo "→ rsync, intent ${i}/3"
+            if rsync -rlz --delete-delay --delay-updates --partial --timeout=120 \
+              --exclude='wp-content/' \
+              --exclude='.well-known/' \
+              --no-perms \
+              --omit-dir-times \
+              --stats \
+              -e "ssh ${ssh_opts}" \
+              public/ \
+              "${REMOTE_USER}@${REMOTE_HOST}:${REMOTE_PATH}/"; then
+              ok=1
+              break
+            fi
+            echo "⚠️ rsync ha fallat (intent ${i}/3); reintent en 10 s…"
+            sleep 10
+          done
+          if [ "${ok}" != "1" ]; then
+            echo "❌ rsync no ha pogut completar el desplegament després de 3 intents."
+            exit 1
+          fi
+
+  notifica:
+    needs: [deploy]
+    if: failure()
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+    steps:
+      - name: Obre o actualitza un avís de fallada
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+          WORKFLOW: ${{ github.workflow }}
+          BRANCH: ${{ github.ref_name }}
+          COMMIT: ${{ github.sha }}
+          ACTOR: ${{ github.actor }}
+        run: |
+          gh label create deploy-failure \
+            --color d73a4a \
+            --description "Fallada de deploy o pipeline" \
+            --force 2>/dev/null || true
+          BODY=$(cat <<EOF
+          ⚠️ Ha fallat **${WORKFLOW}** (branca ${BRANCH}).
+
+          - **Run:** ${RUN_URL}
+          - **Commit:** ${COMMIT}
+          - **Actor:** @${ACTOR}
+
+          @112books revisa-ho. Quan estigui resolt, tanca aquest Issue.
+          EOF
+          )
+          EXISTING=$(gh issue list --label deploy-failure --state open --json number --jq '.[0].number // empty')
+          if [ -n "${EXISTING}" ]; then
+            gh issue comment "${EXISTING}" --body "${BODY}"
+          else
+            gh issue create \
+              --title "❌ Deploy fallit: ${WORKFLOW} (${BRANCH})" \
+              --label deploy-failure \
+              --body "${BODY}"
+          fi

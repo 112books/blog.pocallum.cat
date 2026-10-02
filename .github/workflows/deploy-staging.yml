@@ -69,3 +69,43 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
           publish_branch: gh-pages-staging
+
+  notifica:
+    needs: [build]
+    if: failure()
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+    steps:
+      - name: Obre o actualitza un avís de fallada
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+          WORKFLOW: ${{ github.workflow }}
+          BRANCH: ${{ github.ref_name }}
+          COMMIT: ${{ github.sha }}
+          ACTOR: ${{ github.actor }}
+        run: |
+          gh label create deploy-failure \
+            --color d73a4a \
+            --description "Fallada de deploy o pipeline" \
+            --force 2>/dev/null || true
+          BODY=$(cat <<EOF
+          ⚠️ Ha fallat **${WORKFLOW}** (branca ${BRANCH}).
+
+          - **Run:** ${RUN_URL}
+          - **Commit:** ${COMMIT}
+          - **Actor:** @${ACTOR}
+
+          @112books revisa-ho. Quan estigui resolt, tanca aquest Issue.
+          EOF
+          )
+          EXISTING=$(gh issue list --label deploy-failure --state open --json number --jq '.[0].number // empty')
+          if [ -n "${EXISTING}" ]; then
+            gh issue comment "${EXISTING}" --body "${BODY}"
+          else
+            gh issue create \
+              --title "❌ Deploy fallit: ${WORKFLOW} (${BRANCH})" \
+              --label deploy-failure \
+              --body "${BODY}"
+          fi
