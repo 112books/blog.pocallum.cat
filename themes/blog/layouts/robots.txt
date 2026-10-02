@@ -1,5 +1,9 @@
 User-agent: *
-# Cercadors i crawlers d'IA (GPTBot, ClaudeBot, PerplexityBot, Google-Extended…): benvinguts.
 Disallow:
 
+# ── Cercadors i agents d'IA: accés explícitament permès ──────────────
+{{ range slice "GPTBot" "OAI-SearchBot" "ChatGPT-User" "ClaudeBot" "Claude-User" "Claude-SearchBot" "PerplexityBot" "Perplexity-User" "Google-Extended" "Applebot-Extended" "CCBot" "Bytespider" "Amazonbot" "meta-externalagent" "DuckAssistBot" -}}
+User-agent: {{ . }}
+Allow: /
+{{ end }}
 Sitemap: {{ .Site.BaseURL }}sitemap.xml

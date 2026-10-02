@@ -8,8 +8,10 @@
 
     <nav class="footer-nav-row" aria-label="Navegació peu de pàgina">
       {{ range .Site.Menus.main }}
-      <a href="{{ .URL | relLangURL }}" class="footer-nav-link">{{ .Name }}</a>
+      {{ $ext := strings.HasPrefix .URL "http" }}
+      <a href="{{ .URL | relLangURL }}" class="footer-nav-link"{{ if $ext }} target="_blank" rel="noopener noreferrer me"{{ end }}>{{ .Name }}</a>
       {{ end }}
+      <a href="{{ "tags/" | relURL }}" class="footer-nav-link">Etiquetes</a>
     </nav>
 
     <div class="footer-social">

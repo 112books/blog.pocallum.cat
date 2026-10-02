@@ -7,6 +7,9 @@
 - [Inici]({{ .Site.BaseURL }}): crònica fotogràfica, llistat cronològic
 - [Arxiu]({{ .Site.BaseURL }}arxiu/): cronologia completa per mesos (des de desembre 2010)
 - [Càmeres i òptiques]({{ .Site.BaseURL }}categories/): índex de totes les càmeres i òptiques amb què s'ha fotografiat
+- [Etiquetes]({{ .Site.BaseURL }}tags/): tots els temes, tècniques i conceptes
+- [Pocallum.cat](https://pocallum.cat): fotografia professional de cultura en directe (serveis i portfoli)
+- [Índex complet (llms-full)]({{ .Site.BaseURL }}llms-full.txt): tots els posts i taxonomies
 - [About]({{ .Site.BaseURL }}about/): sobre Pocallum i aquest blog
 - [Contacte]({{ .Site.BaseURL }}contact/): formulari de contacte
 - [Cerca]({{ .Site.BaseURL }}cerca/): cerca a tot el blog

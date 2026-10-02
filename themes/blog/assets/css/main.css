@@ -1041,6 +1041,32 @@ h1, h2, h3, h4 {
 }
 .contact-fullpage .pagefind-ui__result-link:hover { color: var(--accent) !important; }
 
+/* ── CTA cap a la web mare ─────────────────────────────────────────────────── */
+.cta-pare {
+  max-width: 760px;
+  margin: var(--space-12) auto 0;
+  padding: var(--space-6) var(--space-8);
+  background: var(--bg2);
+  border: 1px solid var(--line);
+  border-left: 3px solid var(--accent);
+}
+.cta-pare__eyebrow {
+  margin: 0 0 var(--space-2);
+  color: var(--accent);
+  font-family: var(--f-mono);
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+.cta-pare__text {
+  margin: 0;
+  color: var(--fg);
+  font-size: 0.95rem;
+  line-height: 1.55;
+}
+.cta-pare a { color: var(--accent); text-decoration: underline; text-underline-offset: 2px; }
+
 /* ── Comentaris (giscus) ───────────────────────────────────────────────────── */
 .giscus-wrap {
   border-top: 1px solid var(--line);

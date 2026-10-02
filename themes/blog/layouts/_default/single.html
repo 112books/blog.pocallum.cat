@@ -64,6 +64,12 @@
     {{ end }}
   </div>
 
+  {{/* ── CTA de captació cap a la web mare ── */}}
+  <aside class="cta-pare" aria-label="Fotografia professional">
+    <p class="cta-pare__eyebrow">Fotografia professional</p>
+    <p class="cta-pare__text">Soc <strong>Joan Linux Martínez</strong>, fotògraf de cultura en directe a Barcelona. Si necessites fotografiar un concert, festival o espectacle, <a href="{{ .Site.Params.webPare }}" target="_blank" rel="noopener">mira el meu treball a pocallum.cat</a>.</p>
+  </aside>
+
   {{/* ── Comentaris giscus ── */}}
   {{ with .Site.Params.giscusRepoId }}
   <section class="giscus-wrap" aria-label="Comentaris">

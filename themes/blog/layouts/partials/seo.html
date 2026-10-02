@@ -50,7 +50,8 @@
 <meta name="author" content="{{ .Site.Params.author }}">
 
 {{/* ── Títol de pàgina (post: "Títol — Site.Title", com sempre) ── */}}
-{{- $pageTitle := printf "%s — %s" $titleSEO .Site.Title -}}
+{{- $brand := .Site.Params.brandShort | default .Site.Title -}}
+{{- $pageTitle := printf "%s · %s" $titleSEO $brand -}}
 {{- if .IsHome -}}
   {{- $pageTitle = .Site.Title -}}
   {{- with .Paginator -}}{{- if gt .PageNumber 1 -}}{{- $pageTitle = printf "%s — pàgina %d" $.Site.Title .PageNumber -}}{{- end -}}{{- end -}}
@@ -100,8 +101,8 @@
 {{ if $ogImage }}<meta name="twitter:image" content="{{ $ogImage }}">{{ end }}
 
 {{/* ── JSON-LD ── */}}
-{{- $org := dict "@type" "Organization" "@id" (printf "%s#organization" .Site.BaseURL) "name" "Pocallum" "url" .Site.Params.webPare "logo" (dict "@type" "ImageObject" "url" ("images/logo.svg" | absURL)) "sameAs" (slice .Site.Params.instagram .Site.Params.facebook) -}}
-{{- $author := dict "@type" "Person" "@id" (printf "%s#author" .Site.BaseURL) "name" .Site.Params.author "url" ("about/" | absURL) "sameAs" (slice .Site.Params.instagram .Site.Params.facebook) -}}
+{{- $org := dict "@type" "Organization" "@id" (printf "%s#organization" .Site.BaseURL) "name" "Pocallum" "url" .Site.Params.webPare "logo" (dict "@type" "ImageObject" "url" ("images/logo.svg" | absURL)) "sameAs" (slice .Site.Params.webPare .Site.Params.instagram .Site.Params.facebook) -}}
+{{- $author := dict "@type" "Person" "@id" (printf "%s#author" .Site.BaseURL) "name" .Site.Params.author "url" ("about/" | absURL) "sameAs" (slice .Site.Params.webPare .Site.Params.instagram .Site.Params.facebook) -}}
 {{ if .IsHome }}
 <script type="application/ld+json">
 {{- dict "@context" "https://schema.org"
@@ -153,5 +154,28 @@
 </script>
 <script type="application/ld+json">
 {{ $breadcrumb | jsonify | safeJS }}
+</script>
+{{ else if or (eq .Kind "term") (eq .Kind "taxonomy") }}
+{{- $items := slice -}}
+{{- if eq .Kind "term" -}}
+  {{- range first 20 .Pages -}}
+    {{- $items = $items | append (dict "@type" "ListItem" "position" (add 1 (len $items)) "name" .Title "url" .Permalink) -}}
+  {{- end -}}
+{{- else -}}
+  {{- range first 50 .Data.Terms.ByCount -}}
+    {{- $items = $items | append (dict "@type" "ListItem" "position" (add 1 (len $items)) "name" .Page.Title "url" .Page.Permalink) -}}
+  {{- end -}}
+{{- end -}}
+{{- $collection := dict "@context" "https://schema.org"
+           "@type" "CollectionPage"
+           "@id" (printf "%s#collection" .Permalink)
+           "name" $titleSEO
+           "description" $desc
+           "url" .Permalink
+           "inLanguage" "ca"
+           "isPartOf" (dict "@id" (printf "%s#website" .Site.BaseURL))
+           "mainEntity" (dict "@type" "ItemList" "numberOfItems" (len $items) "itemListElement" $items) -}}
+<script type="application/ld+json">
+{{ $collection | jsonify | safeJS }}
 </script>
 {{ end }}

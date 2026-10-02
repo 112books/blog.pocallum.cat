@@ -21,6 +21,10 @@
 <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" title="{{ $.Site.Title }}" href="{{ .Permalink }}">
 {{ end }}
 
+{{/* llms.txt — conveni de navegació per a cercadors/agents d'IA */}}
+<link rel="llms" type="text/plain" href="{{ "llms.txt" | relURL }}">
+<link rel="llms-full" type="text/plain" href="{{ "llms-full.txt" | relURL }}">
+
 {{/* GoatCounter — sense cookies, GDPR */}}
 {{ with .Site.Params.goatcounterSite }}
 <script data-goatcounter="https://{{ . }}.goatcounter.com/count" async src="https://gc.zgo.at/count.js" crossorigin="anonymous" integrity="sha384-2UjvVpptg4JlEVgJI2PdscrjOjPcil/4F1ZvIMJ81CShQnEDSlPI+l4PfogvTLYi"></script>

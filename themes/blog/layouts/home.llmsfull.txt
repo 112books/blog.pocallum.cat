@@ -1,0 +1,25 @@
+# Blog de Pocallum — índex complet
+
+> Crònica fotogràfica de Pocallum (Joan Linux Martínez), fotògraf cultural a Barcelona. Concerts, festivals, càmeres analògiques i digitals, òptiques, viatges i vida de barri, des del 2010. Contingut en català.
+
+## Sobre l'autor
+
+- Joan Linux Martínez, fotògraf de cultura en directe a Barcelona (actiu des del 2002).
+- Web professional i serveis: https://pocallum.cat
+- Sobre el blog: {{ .Site.BaseURL }}about/
+- Contacte: {{ .Site.BaseURL }}contact/
+
+## Categories (càmeres i òptiques)
+
+{{ range .Site.Taxonomies.categories.ByCount }}- [{{ .Page.Title }}]({{ .Page.Permalink }}) ({{ .Count }} posts)
+{{ end }}
+
+## Etiquetes (2 o més posts)
+
+{{ range .Site.Taxonomies.tags.ByCount }}{{ if ge .Count 2 }}- [{{ .Page.Title }}]({{ .Page.Permalink }}) ({{ .Count }})
+{{ end }}{{ end }}
+
+## Tots els posts ({{ len (where .Site.RegularPages "Section" "posts") }})
+
+{{ range (where .Site.RegularPages "Section" "posts").ByDate.Reverse }}- [{{ .Title }}]({{ .Permalink }}) — {{ .Date.Format "2006-01-02" }}{{ with .Summary }}: {{ . | plainify | strings.TrimSpace | truncate 140 }}{{ end }}
+{{ end }}
