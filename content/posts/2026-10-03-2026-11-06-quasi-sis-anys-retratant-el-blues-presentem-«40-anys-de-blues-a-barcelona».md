@@ -33,6 +33,8 @@ title-seo: '40 anys de blues a Barcelona: presentació i exposició'
 description: 'Presento «40 anys de blues a Barcelona»: quasi 150 músics retratats en analògic. Divendres 6 de novembre, 19 h, Centre Cultural Collblanc – La Torrassa.'
 ---
 
+[![](/media/40anysbluesbarcelona.png "Portada del llibre 40 anys de blues a Barcelona")](https://40anysblues.112books.eu/)
+
 El divendres 6 de novembre, a les 19 h, presento el llibre **40 anys de blues a Barcelona** al [Centre Cultural Collblanc – La Torrassa](https://ccct.l-h.cat/), a L'Hospitalet. El mateix vespre s'inaugura l'exposició fotogràfica que l'acompanya.
 
 Porto quasi sis anys amb aquest projecte entre les mans. Hi ha el meu nom a la coberta, però seria injust dir que l'he fet sol. Aquest llibre és meu en la mesura que és de tota la gent que l'ha fet possible.
