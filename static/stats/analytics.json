@@ -1,10 +1,10 @@
 {
-  "generated": "2026-10-02T20:46:01.410919Z",
+  "generated": "2026-10-03T06:34:00.877476Z",
   "period": {
-    "start": "2025-10-02",
-    "end": "2026-10-02"
+    "start": "2025-10-03",
+    "end": "2026-10-03"
   },
-  "total": 1644,
+  "total": 1671,
   "total_unique": 0,
   "hits_by_day": [
     {
@@ -353,13 +353,17 @@
     },
     {
       "date": "2026-10-02",
-      "count": 18
+      "count": 44
+    },
+    {
+      "date": "2026-10-03",
+      "count": 1
     }
   ],
   "hits": [
     {
       "path": "/",
-      "count": 248
+      "count": 252
     },
     {
       "path": "/2026/07/11/2026-07-11-prospe-beach-again",
@@ -375,11 +379,11 @@
     },
     {
       "path": "/cerca",
-      "count": 26
+      "count": 27
     },
     {
       "path": "/2026/09/20/2026-09-19-casal-de-barri-de-prosperitat-tributo-a-amaral",
-      "count": 24
+      "count": 25
     },
     {
       "path": "/2026/09/20/2026-09-19-festa-major-de-verdum-verdum-punkfest",
@@ -387,7 +391,7 @@
     },
     {
       "path": "/2026/09/07/2026-09-06-festival-masimas-2026-el-parallel-oblidat-recordant-a-merche-mar",
-      "count": 19
+      "count": 20
     },
     {
       "path": "/2026/08/19/2026-08-18-despedida-anike-lamoso",
@@ -398,16 +402,16 @@
       "count": 16
     },
     {
-      "path": "/2026/07/31/2026-07-30-primeres-proves-per-al-repte-retrats-lents-de-112-revelats",
-      "count": 14
-    },
-    {
       "path": "/contact",
-      "count": 14
+      "count": 15
     },
     {
       "path": "/arxiu",
-      "count": 13
+      "count": 14
+    },
+    {
+      "path": "/2026/07/31/2026-07-30-primeres-proves-per-al-repte-retrats-lents-de-112-revelats",
+      "count": 14
     },
     {
       "path": "/2026/09/01/2026-08-26-aiguestortes-de-dellui-a-lestany-llong-fugint-de-la-calor-estival",
@@ -418,20 +422,20 @@
       "count": 13
     },
     {
+      "path": "/about",
+      "count": 13
+    },
+    {
       "path": "/2026/07/06/2026-07-04-24e-festival-de-blues-de-barcelona",
       "count": 12
     },
     {
+      "path": "/2026/09/06/visa-pour-limage-2026-una-jornada-de-fotoperiodisme-a-perpinya",
+      "count": 11
+    },
+    {
       "path": "/2026/09/04/2026-09-04-lanomala",
       "count": 11
-    },
-    {
-      "path": "/about",
-      "count": 11
-    },
-    {
-      "path": "/2026/09/06/visa-pour-limage-2026-una-jornada-de-fotoperiodisme-a-perpinya",
-      "count": 10
     },
     {
       "path": "/2026/07/06/2026-07-03a05-24-festival-de-blues-de-barcelona",
@@ -454,16 +458,16 @@
       "count": 9
     },
     {
+      "path": "/2026/09/30/2026-09-29-una-cr%C3%B2nica-per-a-9barrisimatge-andr%C3%A9s-naya-i-els-seus-dos-llibres",
+      "count": 8
+    },
+    {
       "path": "/2026/08/15/2026-08-12-laura-a-32-oc",
       "count": 8
     },
     {
       "path": "/category/camara",
       "count": 8
-    },
-    {
-      "path": "/2026/09/30/2026-09-29-una-cr%C3%B2nica-per-a-9barrisimatge-andr%C3%A9s-naya-i-els-seus-dos-llibres",
-      "count": 7
     },
     {
       "path": "/2026/09/10/2026-08-24a28-escapada-a-taull",
@@ -492,6 +496,10 @@
     {
       "path": "/2026/07/20/revivint-la-vella-woody-cam",
       "count": 6
+    },
+    {
+      "path": "/2026/09/24/2026-09-24-la-merc%C3%A8-baixant-a-barcelona",
+      "count": 5
     },
     {
       "path": "/2026/09/21/2026-09-20-marian-barahona-blues-reunion-presenten-el-disc-randez-blue-al-jamboree",
@@ -542,10 +550,6 @@
       "count": 4
     },
     {
-      "path": "/2026/09/24/2026-09-24-la-merc%C3%A8-baixant-a-barcelona",
-      "count": 4
-    },
-    {
       "path": "/2026/09/18/2026-09-17-provant-ladox-scala-50",
       "count": 4
     },
@@ -559,17 +563,17 @@
     }
   ],
   "by_section": {
-    "inici": 248,
-    "posts": 738,
-    "cerca": 26,
-    "contact": 14,
-    "arxiu": 16,
+    "inici": 252,
+    "posts": 746,
+    "cerca": 27,
+    "contact": 15,
+    "arxiu": 18,
     "aviso-legal": 13,
-    "about": 11,
+    "about": 13,
     "blog.pocallum.cat": 24,
     "?query-0-page=2": 9,
-    "category": 178,
-    "page": 32,
+    "category": 182,
+    "page": 35,
     "?query-0-page=10": 5,
     "?query-0-page=191": 5,
     "?query-0-page=188": 5,
@@ -580,7 +584,7 @@
     "?query-0-page=189": 5,
     "?query-0-page=25": 4,
     "en-us": 4,
-    "tag": 91,
+    "tag": 92,
     "politica-de-cookies": 4,
     "?query-0-page=3": 3,
     "?query-0-page=165": 3,
@@ -622,6 +626,7 @@
     "?query-0-page=13": 2,
     "?query-0-page=16": 2,
     "?query-0-page=9": 2,
+    "categories": 1,
     "edit": 1,
     "politica-de-privacidad": 1,
     "Admin": 1,
@@ -736,7 +741,7 @@
     },
     {
       "path": "/2026/09/20/2026-09-19-casal-de-barri-de-prosperitat-tributo-a-amaral",
-      "count": 24
+      "count": 25
     },
     {
       "path": "/2026/09/20/2026-09-19-festa-major-de-verdum-verdum-punkfest",
@@ -744,7 +749,7 @@
     },
     {
       "path": "/2026/09/07/2026-09-06-festival-masimas-2026-el-parallel-oblidat-recordant-a-merche-mar",
-      "count": 19
+      "count": 20
     },
     {
       "path": "/2026/08/19/2026-08-18-despedida-anike-lamoso",
@@ -767,12 +772,12 @@
       "count": 12
     },
     {
-      "path": "/2026/09/04/2026-09-04-lanomala",
+      "path": "/2026/09/06/visa-pour-limage-2026-una-jornada-de-fotoperiodisme-a-perpinya",
       "count": 11
     },
     {
-      "path": "/2026/09/06/visa-pour-limage-2026-una-jornada-de-fotoperiodisme-a-perpinya",
-      "count": 10
+      "path": "/2026/09/04/2026-09-04-lanomala",
+      "count": 11
     },
     {
       "path": "/2026/07/06/2026-07-03a05-24-festival-de-blues-de-barcelona",
@@ -787,7 +792,7 @@
     {
       "name": "Chrome",
       "id": "Chrome",
-      "count": 1247
+      "count": 1251
     },
     {
       "name": "Safari",
@@ -809,7 +814,7 @@
     {
       "name": "macOS",
       "id": "macOS",
-      "count": 614
+      "count": 616
     },
     {
       "name": "Linux",
@@ -819,7 +824,7 @@
     {
       "name": "Android",
       "id": "Android",
-      "count": 229
+      "count": 231
     },
     {
       "name": "iOS",
@@ -841,12 +846,12 @@
     {
       "name": "phone",
       "id": "phone",
-      "count": 422
+      "count": 424
     },
     {
       "name": "desktophd",
       "id": "desktophd",
-      "count": 363
+      "count": 365
     },
     {
       "name": "tablet",
@@ -863,7 +868,7 @@
     {
       "name": "Spain",
       "id": "ES",
-      "count": 1025
+      "count": 1028
     },
     {
       "name": "United States",
@@ -891,14 +896,14 @@
       "count": 16
     },
     {
-      "name": "France",
-      "id": "FR",
+      "name": "Germany",
+      "id": "DE",
       "count": 13
     },
     {
-      "name": "Germany",
-      "id": "DE",
-      "count": 12
+      "name": "France",
+      "id": "FR",
+      "count": 13
     },
     {
       "name": "Indonesia",
@@ -940,7 +945,7 @@
     {
       "name": "Desconegut",
       "id": "Desconegut",
-      "count": 817
+      "count": 821
     },
     {
       "name": "www.9barrisimatge.org",
@@ -950,7 +955,7 @@
     {
       "name": "Google",
       "id": "Google",
-      "count": 87
+      "count": 90
     },
     {
       "name": "www.facebook.com",
