@@ -14,7 +14,7 @@
 - [Leica-M6](https://112books.github.io/blog.pocallum.cat/category/leica-m6/) (318 posts)
 - [Canon-Eos-5](https://112books.github.io/blog.pocallum.cat/category/canon-eos-5/) (284 posts)
 - [Camara](https://112books.github.io/blog.pocallum.cat/category/camara/) (239 posts)
-- [Fuji-X-Pro1](https://112books.github.io/blog.pocallum.cat/category/fuji-x-pro1/) (229 posts)
+- [Fuji-X-Pro1](https://112books.github.io/blog.pocallum.cat/category/fuji-x-pro1/) (230 posts)
 - [Leica-D-Lux-6](https://112books.github.io/blog.pocallum.cat/category/leica-d-lux-6/) (163 posts)
 - [Fuji-X-A1](https://112books.github.io/blog.pocallum.cat/category/fuji-x-a1/) (147 posts)
 - [Canon-Eos-6d](https://112books.github.io/blog.pocallum.cat/category/canon-eos-6d/) (136 posts)
@@ -22,7 +22,7 @@
 - [Canon-G11](https://112books.github.io/blog.pocallum.cat/category/canon-g11/) (108 posts)
 - [Lomography-Lc-A](https://112books.github.io/blog.pocallum.cat/category/lomography-lc-a/) (101 posts)
 - [General](https://112books.github.io/blog.pocallum.cat/category/general/) (89 posts)
-- [Fujinon-16mm-F2-8](https://112books.github.io/blog.pocallum.cat/category/fujinon-16mm-f2-8/) (81 posts)
+- [Fujinon-16mm-F2-8](https://112books.github.io/blog.pocallum.cat/category/fujinon-16mm-f2-8/) (82 posts)
 - [Lc-a-120](https://112books.github.io/blog.pocallum.cat/category/lc-a-120/) (71 posts)
 - [Diana-F](https://112books.github.io/blog.pocallum.cat/category/diana-f/) (67 posts)
 - [Hasselblad-500cm](https://112books.github.io/blog.pocallum.cat/category/hasselblad-500cm/) (60 posts)
@@ -108,13 +108,13 @@
 
 ## Etiquetes (2 o més posts)
 
-- [Barcelona](https://112books.github.io/blog.pocallum.cat/tag/barcelona/) (197)
+- [Barcelona](https://112books.github.io/blog.pocallum.cat/tag/barcelona/) (198)
 - [Pocallum](https://112books.github.io/blog.pocallum.cat/tag/pocallum/) (128)
 - [Lomography](https://112books.github.io/blog.pocallum.cat/tag/lomography/) (86)
 - [Nou-Barris](https://112books.github.io/blog.pocallum.cat/tag/nou-barris/) (73)
 - [Prosperitat](https://112books.github.io/blog.pocallum.cat/tag/prosperitat/) (66)
 - [Fotografia-Analogica](https://112books.github.io/blog.pocallum.cat/tag/fotografia-analogica/) (59)
-- [Fotografia](https://112books.github.io/blog.pocallum.cat/tag/fotografia/) (52)
+- [Fotografia](https://112books.github.io/blog.pocallum.cat/tag/fotografia/) (53)
 - [Musica-en-Directe](https://112books.github.io/blog.pocallum.cat/tag/musica-en-directe/) (51)
 - [Casal-De-Barri-De-Prosperitat](https://112books.github.io/blog.pocallum.cat/tag/casal-de-barri-de-prosperitat/) (47)
 - [Linuxbcn](https://112books.github.io/blog.pocallum.cat/tag/linuxbcn/) (35)
@@ -123,7 +123,7 @@
 - [Nau-Bostik](https://112books.github.io/blog.pocallum.cat/tag/nau-bostik/) (33)
 - [Fotografia-De-Concerts](https://112books.github.io/blog.pocallum.cat/tag/fotografia-de-concerts/) (32)
 - [Rodinal](https://112books.github.io/blog.pocallum.cat/tag/rodinal/) (31)
-- [Cultura](https://112books.github.io/blog.pocallum.cat/tag/cultura/) (29)
+- [Cultura](https://112books.github.io/blog.pocallum.cat/tag/cultura/) (30)
 - [Jazz](https://112books.github.io/blog.pocallum.cat/tag/jazz/) (29)
 - [Casaldebarriprosperitat](https://112books.github.io/blog.pocallum.cat/tag/casaldebarriprosperitat/) (28)
 - [Pinhole](https://112books.github.io/blog.pocallum.cat/tag/pinhole/) (28)
@@ -132,7 +132,7 @@
 - [Bcn](https://112books.github.io/blog.pocallum.cat/tag/bcn/) (25)
 - [Caffenol](https://112books.github.io/blog.pocallum.cat/tag/caffenol/) (25)
 - [Fotografia-Documental](https://112books.github.io/blog.pocallum.cat/tag/fotografia-documental/) (25)
-- [Joan-Linux](https://112books.github.io/blog.pocallum.cat/tag/joan-linux/) (23)
+- [Joan-Linux](https://112books.github.io/blog.pocallum.cat/tag/joan-linux/) (24)
 - [Analogic](https://112books.github.io/blog.pocallum.cat/tag/analogic/) (21)
 - [Fomapan-100](https://112books.github.io/blog.pocallum.cat/tag/fomapan-100/) (20)
 - [Cultura Popular](https://112books.github.io/blog.pocallum.cat/tag/cultura-popular/) (19)
@@ -407,7 +407,7 @@
 - [Cantautor](https://112books.github.io/blog.pocallum.cat/tag/cantautor/) (3)
 - [Carnestoltes](https://112books.github.io/blog.pocallum.cat/tag/carnestoltes/) (3)
 - [Casa-De-Laigua](https://112books.github.io/blog.pocallum.cat/tag/casa-de-laigua/) (3)
-- [Casal De Barri De La Prosperitat](https://112books.github.io/blog.pocallum.cat/tag/casal-de-barri-de-la-prosperitat/) (3)
+- [Casal-De-Barri-De-La-Prosperitat](https://112books.github.io/blog.pocallum.cat/tag/casal-de-barri-de-la-prosperitat/) (3)
 - [Casal-De-Joves](https://112books.github.io/blog.pocallum.cat/tag/casal-de-joves/) (3)
 - [Casal-Prosperitat](https://112books.github.io/blog.pocallum.cat/tag/casal-prosperitat/) (3)
 - [Ciutat-Flamenco](https://112books.github.io/blog.pocallum.cat/tag/ciutat-flamenco/) (3)
@@ -696,7 +696,7 @@
 - [Kimono](https://112books.github.io/blog.pocallum.cat/tag/kimono/) (2)
 - [Kodak](https://112books.github.io/blog.pocallum.cat/tag/kodak/) (2)
 - [Kodak-Portra-400](https://112books.github.io/blog.pocallum.cat/tag/kodak-portra-400/) (2)
-- [La-Prosperitat](https://112books.github.io/blog.pocallum.cat/tag/la-prosperitat/) (2)
+- [La Prosperitat](https://112books.github.io/blog.pocallum.cat/tag/la-prosperitat/) (2)
 - [La-Juganera](https://112books.github.io/blog.pocallum.cat/tag/la-juganera/) (2)
 - [La-Sardina](https://112books.github.io/blog.pocallum.cat/tag/la-sardina/) (2)
 - [Laboratori-Fotografic](https://112books.github.io/blog.pocallum.cat/tag/laboratori-fotografic/) (2)
@@ -805,7 +805,7 @@
 - [Sessifotografica](https://112books.github.io/blog.pocallum.cat/tag/sessifotografica/) (2)
 - [Setmana-De-Jazz-De-Barcelona](https://112books.github.io/blog.pocallum.cat/tag/setmana-de-jazz-de-barcelona/) (2)
 - [Skate](https://112books.github.io/blog.pocallum.cat/tag/skate/) (2)
-- [Societat-De-Blues-De-Barcelona](https://112books.github.io/blog.pocallum.cat/tag/societat-de-blues-de-barcelona/) (2)
+- [Societat De Blues De Barcelona](https://112books.github.io/blog.pocallum.cat/tag/societat-de-blues-de-barcelona/) (2)
 - [Sopar-De-Nadal](https://112books.github.io/blog.pocallum.cat/tag/sopar-de-nadal/) (2)
 - [Sortides-Fotografiques](https://112books.github.io/blog.pocallum.cat/tag/sortides-fotografiques/) (2)
 - [Sumaron-35mm-F-3-5-1954](https://112books.github.io/blog.pocallum.cat/tag/sumaron-35mm-f-3-5-1954/) (2)
@@ -853,9 +853,10 @@
 - [World-Pinhole-Day](https://112books.github.io/blog.pocallum.cat/tag/world-pinhole-day/) (2)
 
 
-## Tots els posts (2398)
+## Tots els posts (2399)
 
 - [2026-11-06 - Quasi sis anys retratant el blues: presentem «40 anys de blues a Barcelona»](https://112books.github.io/blog.pocallum.cat/2026/10/03/2026-11-06-quasi-sis-anys-retratant-el-blues-presentem-40-anys-de-blues-a-barcelona/) — 2026-10-03: El divendres 6 de novembre, a les 19 h, presento el llibre 40 anys de blues a Barcelona al Centre Cultural Collblanc – La Torrassa , a …
+- [2026-10-03 - La Nuu Festival: una crònica sota la pluja](https://112books.github.io/blog.pocallum.cat/2026/10/03/2026-10-03-la-nuu-festival-una-cr%C3%B2nica-sota-la-pluja/) — 2026-10-03: Enamorat estic, perdudament enamorat. No és primavera —tot just encetem la tardor—, però fins i tot amb auguris de tempestes apocalíptiques, …
 - [2026-09-29 - Una crònica per a 9BarrisImatge: Andrés Naya i els seus dos llibres](https://112books.github.io/blog.pocallum.cat/2026/09/30/2026-09-29-una-cr%C3%B2nica-per-a-9barrisimatge-andr%C3%A9s-naya-i-els-seus-dos-llibres/) — 2026-09-30: Ahir vaig tenir la sort de ser a la presentació dels dos nous llibres de l’Andrés Naya al Casal de Barri de la Prosperitat. Com que …
 - [2026-09-24 - La Mercè, baixant a Barcelona](https://112books.github.io/blog.pocallum.cat/2026/09/24/2026-09-24-la-merc%C3%A8-baixant-a-barcelona/) — 2026-09-24: Els dies de la Mercè, patrona de Barcelona i festiu per a goig de tothom, tinc el costum d’anar a refregar-me amb els conciutadans pel …
 - [2026-09-20 - Marian Barahona Blues Reunion presenten el disc Randez-Blue al Jamboree](https://112books.github.io/blog.pocallum.cat/2026/09/21/2026-09-20-marian-barahona-blues-reunion-presenten-el-disc-randez-blue-al-jamboree/) — 2026-09-21: Ahir tocava baixar al centre, al mític Jamboree, per gaudir de bona música. La culpable de tot plegat, la gran cantant Marian Barahona que, …
