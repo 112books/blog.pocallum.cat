@@ -1,10 +1,10 @@
 {
-  "generated": "2026-10-03T23:48:14.144470Z",
+  "generated": "2026-10-04T12:23:00.735905Z",
   "period": {
-    "start": "2025-10-03",
-    "end": "2026-10-03"
+    "start": "2025-10-04",
+    "end": "2026-10-04"
   },
-  "total": 1671,
+  "total": 1696,
   "total_unique": 0,
   "hits_by_day": [
     {
@@ -357,13 +357,17 @@
     },
     {
       "date": "2026-10-03",
-      "count": 1
+      "count": 24
+    },
+    {
+      "date": "2026-10-04",
+      "count": 2
     }
   ],
   "hits": [
     {
       "path": "/",
-      "count": 252
+      "count": 258
     },
     {
       "path": "/2026/07/11/2026-07-11-prospe-beach-again",
@@ -379,15 +383,15 @@
     },
     {
       "path": "/cerca",
-      "count": 27
+      "count": 28
     },
     {
       "path": "/2026/09/20/2026-09-19-casal-de-barri-de-prosperitat-tributo-a-amaral",
-      "count": 25
+      "count": 26
     },
     {
       "path": "/2026/09/20/2026-09-19-festa-major-de-verdum-verdum-punkfest",
-      "count": 22
+      "count": 23
     },
     {
       "path": "/2026/09/07/2026-09-06-festival-masimas-2026-el-parallel-oblidat-recordant-a-merche-mar",
@@ -442,6 +446,14 @@
       "count": 10
     },
     {
+      "path": "/2026/10/03/2026-10-03-la-nuu-festival-una-cr%C3%B2nica-sota-la-pluja",
+      "count": 9
+    },
+    {
+      "path": "/2026/09/30/2026-09-29-una-cr%C3%B2nica-per-a-9barrisimatge-andr%C3%A9s-naya-i-els-seus-dos-llibres",
+      "count": 9
+    },
+    {
       "path": "/blog.pocallum.cat",
       "count": 9
     },
@@ -456,10 +468,6 @@
     {
       "path": "/2026/07/05/2026-07-03-05-24e-festival-de-blues-de-barcelona-organitzacio-colaboradors-amics-i-voluntaris",
       "count": 9
-    },
-    {
-      "path": "/2026/09/30/2026-09-29-una-cr%C3%B2nica-per-a-9barrisimatge-andr%C3%A9s-naya-i-els-seus-dos-llibres",
-      "count": 8
     },
     {
       "path": "/2026/08/15/2026-08-12-laura-a-32-oc",
@@ -482,6 +490,10 @@
       "count": 7
     },
     {
+      "path": "/2026/09/24/2026-09-24-la-merc%C3%A8-baixant-a-barcelona",
+      "count": 6
+    },
+    {
       "path": "/page/2",
       "count": 6
     },
@@ -496,10 +508,6 @@
     {
       "path": "/2026/07/20/revivint-la-vella-woody-cam",
       "count": 6
-    },
-    {
-      "path": "/2026/09/24/2026-09-24-la-merc%C3%A8-baixant-a-barcelona",
-      "count": 5
     },
     {
       "path": "/2026/09/21/2026-09-20-marian-barahona-blues-reunion-presenten-el-disc-randez-blue-al-jamboree",
@@ -556,16 +564,12 @@
     {
       "path": "/2024/12/14/lliurament-de-premis-del-34e-concurs-fotografic-josep-anton-cordoncillo-jo-solana-trio",
       "count": 4
-    },
-    {
-      "path": "/2025/09/17/2025-08-26-28-aiguestortes-amb-fotografia-analogica",
-      "count": 4
     }
   ],
   "by_section": {
-    "inici": 252,
-    "posts": 746,
-    "cerca": 27,
+    "inici": 258,
+    "posts": 764,
+    "cerca": 28,
     "contact": 15,
     "arxiu": 18,
     "aviso-legal": 13,
@@ -741,11 +745,11 @@
     },
     {
       "path": "/2026/09/20/2026-09-19-casal-de-barri-de-prosperitat-tributo-a-amaral",
-      "count": 25
+      "count": 26
     },
     {
       "path": "/2026/09/20/2026-09-19-festa-major-de-verdum-verdum-punkfest",
-      "count": 22
+      "count": 23
     },
     {
       "path": "/2026/09/07/2026-09-06-festival-masimas-2026-el-parallel-oblidat-recordant-a-merche-mar",
@@ -784,7 +788,7 @@
       "count": 10
     },
     {
-      "path": "/2024/02/22/sessio-amb-la-ballarina-nahomi-itzel",
+      "path": "/2026/10/03/2026-10-03-la-nuu-festival-una-cr%C3%B2nica-sota-la-pluja",
       "count": 9
     }
   ],
@@ -792,12 +796,12 @@
     {
       "name": "Chrome",
       "id": "Chrome",
-      "count": 1266
+      "count": 1271
     },
     {
       "name": "Safari",
       "id": "Safari",
-      "count": 326
+      "count": 331
     },
     {
       "name": "Firefox",
@@ -814,7 +818,7 @@
     {
       "name": "macOS",
       "id": "macOS",
-      "count": 623
+      "count": 628
     },
     {
       "name": "Linux",
@@ -829,7 +833,7 @@
     {
       "name": "iOS",
       "id": "iOS",
-      "count": 209
+      "count": 214
     },
     {
       "name": "Windows",
@@ -846,12 +850,12 @@
     {
       "name": "phone",
       "id": "phone",
-      "count": 436
+      "count": 441
     },
     {
       "name": "desktophd",
       "id": "desktophd",
-      "count": 372
+      "count": 377
     },
     {
       "name": "tablet",
@@ -868,7 +872,7 @@
     {
       "name": "Spain",
       "id": "ES",
-      "count": 1047
+      "count": 1056
     },
     {
       "name": "United States",
@@ -893,7 +897,7 @@
     {
       "name": "Brazil",
       "id": "BR",
-      "count": 16
+      "count": 17
     },
     {
       "name": "Germany",
@@ -945,7 +949,12 @@
     {
       "name": "Desconegut",
       "id": "Desconegut",
-      "count": 821
+      "count": 830
+    },
+    {
+      "name": "Google",
+      "id": "Google",
+      "count": 93
     },
     {
       "name": "www.9barrisimatge.org",
@@ -953,19 +962,14 @@
       "count": 93
     },
     {
-      "name": "Google",
-      "id": "Google",
-      "count": 90
+      "name": "9barrisimatge.org",
+      "id": "9barrisimatge.org",
+      "count": 17
     },
     {
       "name": "www.facebook.com",
       "id": "www.facebook.com",
-      "count": 15
-    },
-    {
-      "name": "9barrisimatge.org",
-      "id": "9barrisimatge.org",
-      "count": 15
+      "count": 16
     },
     {
       "name": "pocallum.cat",
@@ -980,7 +984,7 @@
     {
       "name": "ig",
       "id": "ig",
-      "count": 6
+      "count": 7
     },
     {
       "name": "duckduckgo.com",
