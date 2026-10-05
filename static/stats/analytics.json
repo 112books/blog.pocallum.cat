@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-05T00:56:19.968336Z",
+  "generated": "2026-10-05T17:04:50.361891Z",
   "period": {
     "start": "2025-10-05",
     "end": "2026-10-05"
@@ -796,12 +796,12 @@
     {
       "name": "Chrome",
       "id": "Chrome",
-      "count": 1273
+      "count": 1285
     },
     {
       "name": "Safari",
       "id": "Safari",
-      "count": 333
+      "count": 339
     },
     {
       "name": "Firefox",
@@ -812,13 +812,18 @@
       "name": "Dalvik",
       "id": "Dalvik",
       "count": 2
+    },
+    {
+      "name": "Desconegut",
+      "id": "Desconegut",
+      "count": 1
     }
   ],
   "systems": [
     {
       "name": "macOS",
       "id": "macOS",
-      "count": 628
+      "count": 633
     },
     {
       "name": "Linux",
@@ -828,34 +833,39 @@
     {
       "name": "Android",
       "id": "Android",
-      "count": 240
+      "count": 241
     },
     {
       "name": "iOS",
       "id": "iOS",
-      "count": 216
+      "count": 220
     },
     {
       "name": "Windows",
       "id": "Windows",
-      "count": 192
+      "count": 200
+    },
+    {
+      "name": "Desconegut",
+      "id": "Desconegut",
+      "count": 1
     }
   ],
   "sizes": [
     {
       "name": "desktop",
       "id": "desktop",
-      "count": 866
+      "count": 874
     },
     {
       "name": "phone",
       "id": "phone",
-      "count": 443
+      "count": 449
     },
     {
       "name": "desktophd",
       "id": "desktophd",
-      "count": 377
+      "count": 382
     },
     {
       "name": "tablet",
@@ -872,7 +882,7 @@
     {
       "name": "Spain",
       "id": "ES",
-      "count": 1057
+      "count": 1075
     },
     {
       "name": "United States",
@@ -925,6 +935,11 @@
       "count": 4
     },
     {
+      "name": "Sweden",
+      "id": "SE",
+      "count": 3
+    },
+    {
       "name": "Trinidad and Tobago",
       "id": "TT",
       "count": 3
@@ -937,11 +952,6 @@
     {
       "name": "Ecuador",
       "id": "EC",
-      "count": 2
-    },
-    {
-      "name": "Poland",
-      "id": "PL",
       "count": 2
     }
   ],
