@@ -36,6 +36,9 @@
     siteName:     'blog.pocallum.cat',
     gcUrl:        'https://pocallum-blog.goatcounter.com',
     dataUrl:      'analytics.json',
+    // Primera visita registrada a GoatCounter (data-first-hit-at).
+    // Coincideix amb el text de la nota #data-note; si mai canvia, actualitzeu tots dos.
+    dataStart:    '2026-07-07',
     sectionNames: {
       "inici":      "Inici",
       "posts":      "Posts",
@@ -174,6 +177,18 @@
     .banner { padding: .85rem 1.1rem; margin-bottom: 1.5rem; font-size: 12px; line-height: 1.5; }
     .banner-error   { background: #1a0800; border: 1px solid var(--accent); color: var(--warn); }
     .banner-loading { color: var(--mid); font-size: 12px; }
+
+    /* ── Nota sobre l'abast de les dades ────────────────────── */
+    .data-note {
+      color: var(--mid);
+      font-size: 12px;
+      line-height: 1.65;
+      margin: 0 0 1.5rem;
+      padding: .7rem .95rem;
+      background: var(--bg2);
+      border-left: 2px solid var(--accent);
+    }
+    .data-note strong { color: var(--fg); }
 
     /* ── KPIs ───────────────────────────────────────────────── */
     .kpis { display: grid; grid-template-columns: repeat(5, 1fr); gap: 1px; margin-bottom: 2rem; list-style: none; background: var(--line); border: 1px solid var(--line); }
@@ -374,6 +389,13 @@
     <h1 class="visually-hidden">Estadístiques del blog</h1>
     <div id="banner" aria-live="polite" aria-atomic="true"></div>
 
+    <p class="data-note">
+      Estadístiques recollides amb <a href="https://www.goatcounter.com/" target="_blank" rel="noopener">GoatCounter</a>
+      (sense cookies ni seguiment personal). La primera visita registrada és del
+      <strong>7 de juliol de 2026</strong>; abans d'aquesta data no hi ha cap dada.
+      Les xifres cobreixen una finestra mòbil dels darrers 12 mesos, no tot l'històric.
+    </p>
+
     <!-- KPIs -->
     <dl class="kpis">
       <div class="kpi"><dt>Avui</dt><dd><div class="kpi-value accent" id="kpi-avui">—</div><div class="kpi-sub" id="sub-avui"></div></dd></div>
@@ -528,13 +550,16 @@ function renderAll(data) {
   const mes30 = sumDays(hbd, daysAgo(30), today);
   const total = data.total || 0;
   const p     = data.period || {};
+  // La finestra de consulta (12 mesos mòbils) pot començar abans que la
+  // primera dada recollida: mostrem el rang real, no el de la consulta.
+  const effStart = (CFG.dataStart && CFG.dataStart > (p.start || '')) ? CFG.dataStart : p.start;
 
   setText('kpi-avui',  fmt(avui));
   setText('sub-avui',  avui === 1 ? '1 visita avui' : fmt(avui) + ' visites avui');
   setText('kpi-7d',    fmt(set7));
   setText('kpi-30d',   fmt(mes30));
   setText('kpi-total', fmt(total));
-  setText('sub-total', fmtPeriod(p.start, p.end));
+  setText('sub-total', fmtPeriod(effStart, p.end));
   const daysWithData = hbd.filter(d => d.count > 0).length;
   setText('kpi-pps',   daysWithData > 0 ? (total / daysWithData).toFixed(1) : '—');
 
