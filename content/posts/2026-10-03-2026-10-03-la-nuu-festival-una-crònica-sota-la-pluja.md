@@ -40,6 +40,7 @@ Les fotografies són d’interpretació lliure, però a la secció d’[artistes
 La proposta és variada: poden ser unes poques peces gegants guarnint una façana o lones muntades en formes geomètriques als espais públics. Un luxe poder sentir totes les explicacions de primera mà i fer preguntes en un to ben proper i amè. Tal vegada, com a crítica constructiva, caldria un petit equip de so portàtil: amb el xivarri del carrer, en algunes parades es complica sentir bé les explicacions.
 
 ## La programació d'enguany, 
+
 de l'1 al 31 d'octubre de 2026
 
 Malauradament, enguany no puc assistir a gaire res més que a la visita guiada d’avui. La feina, la vida personal i un episodi de tempestes severes fan que no pugui assistir a res més, però espero que l’àmplia programació del festival es pugui dur a terme en la seva totalitat, per justícia artística.
@@ -67,3 +68,5 @@ Vam fer un dinar ben entretingut amb la colla passigolla i l’artista [Liz Gorm
 Espero poder-hi tornar aviat, com a màxim en la propera edició d’aquesta joia de festival i, si pot ser, acompanyada de la mateixa colla de gent ben parida i interessant.
 
 Salut i llarga vida a La Nuu!
+
+{{< vimeo 1233030180 >}}
