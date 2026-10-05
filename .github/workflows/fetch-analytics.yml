@@ -74,17 +74,36 @@ jobs:
         id: commit
         if: steps.fetch.outputs.token_ok == 'true'
         run: |
+          set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add static/stats/analytics.json
           if git diff --staged --quiet; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
-          else
-            git commit -m "chore: update analytics"
-            git pull --rebase origin develop
-            git push origin develop
-            echo "changed=true" >> "$GITHUB_OUTPUT"
+            exit 0
           fi
+          git commit -m "chore: update analytics"
+          # GitHub pot rebutjar el push de manera transitòria amb
+          # "remote: fatal error in commit_refs" (incident 2026-10-05).
+          # Reintentem fent pull --rebase abans de cada intent.
+          pushed=false
+          for attempt in 1 2 3 4 5; do
+            if ! git pull --rebase origin develop; then
+              echo "::warning::pull --rebase ha fallat (intent ${attempt}/5)"
+              git rebase --abort 2>/dev/null || true
+            fi
+            if git push origin develop; then
+              pushed=true
+              break
+            fi
+            echo "::warning::push fallit (intent ${attempt}/5); reintent..."
+            sleep $((attempt * 5))
+          done
+          if [ "${pushed}" != "true" ]; then
+            echo "::error::No s'ha pogut pujar analytics.json després de 5 intents"
+            exit 1
+          fi
+          echo "changed=true" >> "$GITHUB_OUTPUT"
 
       - name: Trigger deploys
         if: steps.commit.outputs.changed == 'true'

@@ -14,15 +14,44 @@ import json
 import os
 import sys
 import time
+import urllib.error
 import urllib.request
 
 MAX_PAGES = 20
+MAX_RETRIES = 5
 
 
 def fetch(url, token):
-    req = urllib.request.Request(url, headers={"Authorization": "Bearer " + token})
-    with urllib.request.urlopen(req, timeout=20) as r:
-        return json.load(r)
+    """GET amb reintents per errors transitoris de xarxa.
+
+    Sense això, un sol "Connection reset by peer" de GoatCounter tomba tot
+    el run (incident 2026-09-25). Reintentem amb backoff exponencial els
+    errors de xarxa i els 5xx/429; els 401/403 (token) no es reintenten.
+    """
+    last_error = None
+    for attempt in range(1, MAX_RETRIES + 1):
+        try:
+            req = urllib.request.Request(
+                url, headers={"Authorization": "Bearer " + token}
+            )
+            with urllib.request.urlopen(req, timeout=20) as r:
+                return json.load(r)
+        except urllib.error.HTTPError as e:
+            # Credencial invàlida o sense permisos: reintentar no ajuda.
+            if e.code in (401, 403):
+                raise
+            last_error = e
+        except (urllib.error.URLError, TimeoutError, ConnectionError) as e:
+            last_error = e
+        if attempt < MAX_RETRIES:
+            wait = min(2 ** attempt, 15)
+            print(
+                "WARN: fetch fallit (intent %d/%d): %s \u2014 reintent en %ds"
+                % (attempt, MAX_RETRIES, last_error, wait),
+                file=sys.stderr,
+            )
+            time.sleep(wait)
+    raise last_error
 
 
 def main():
