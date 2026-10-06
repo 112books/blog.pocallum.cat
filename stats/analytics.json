@@ -1,10 +1,10 @@
 {
-  "generated": "2026-10-05T22:38:07.040075Z",
+  "generated": "2026-10-06T02:59:10.950097Z",
   "period": {
-    "start": "2025-10-05",
-    "end": "2026-10-05"
+    "start": "2025-10-06",
+    "end": "2026-10-06"
   },
-  "total": 1709,
+  "total": 1735,
   "total_unique": 0,
   "hits_by_day": [
     {
@@ -362,12 +362,20 @@
     {
       "date": "2026-10-04",
       "count": 15
+    },
+    {
+      "date": "2026-10-05",
+      "count": 25
+    },
+    {
+      "date": "2026-10-06",
+      "count": 1
     }
   ],
   "hits": [
     {
       "path": "/",
-      "count": 260
+      "count": 269
     },
     {
       "path": "/2026/07/11/2026-07-11-prospe-beach-again",
@@ -387,7 +395,7 @@
     },
     {
       "path": "/2026/09/20/2026-09-19-casal-de-barri-de-prosperitat-tributo-a-amaral",
-      "count": 27
+      "count": 28
     },
     {
       "path": "/2026/09/20/2026-09-19-festa-major-de-verdum-verdum-punkfest",
@@ -410,11 +418,19 @@
       "count": 15
     },
     {
+      "path": "/2026/10/03/2026-10-03-la-nuu-festival-una-cr%C3%B2nica-sota-la-pluja",
+      "count": 14
+    },
+    {
       "path": "/arxiu",
       "count": 14
     },
     {
       "path": "/2026/07/31/2026-07-30-primeres-proves-per-al-repte-retrats-lents-de-112-revelats",
+      "count": 14
+    },
+    {
+      "path": "/about",
       "count": 14
     },
     {
@@ -424,14 +440,6 @@
     {
       "path": "/aviso-legal",
       "count": 13
-    },
-    {
-      "path": "/about",
-      "count": 13
-    },
-    {
-      "path": "/2026/10/03/2026-10-03-la-nuu-festival-una-cr%C3%B2nica-sota-la-pluja",
-      "count": 12
     },
     {
       "path": "/2026/07/06/2026-07-04-24e-festival-de-blues-de-barcelona",
@@ -478,6 +486,10 @@
       "count": 8
     },
     {
+      "path": "/page/2",
+      "count": 7
+    },
+    {
       "path": "/2026/09/10/2026-08-24a28-escapada-a-taull",
       "count": 7
     },
@@ -494,10 +506,6 @@
       "count": 6
     },
     {
-      "path": "/page/2",
-      "count": 6
-    },
-    {
       "path": "/category/camara/hasselblad-500cm/page/6",
       "count": 6
     },
@@ -508,6 +516,10 @@
     {
       "path": "/2026/07/20/revivint-la-vella-woody-cam",
       "count": 6
+    },
+    {
+      "path": "/2026/10/05/2026-09-26-dinar-de-comiat-de-leli-companya-de-la-nau-bostik.-shes-gone",
+      "count": 5
     },
     {
       "path": "/2026/09/21/2026-09-20-marian-barahona-blues-reunion-presenten-el-disc-randez-blue-al-jamboree",
@@ -558,26 +570,22 @@
       "count": 4
     },
     {
-      "path": "/2026/09/18/2026-09-17-provant-ladox-scala-50",
-      "count": 4
-    },
-    {
-      "path": "/2024/12/14/lliurament-de-premis-del-34e-concurs-fotografic-josep-anton-cordoncillo-jo-solana-trio",
+      "path": "/page/3",
       "count": 4
     }
   ],
   "by_section": {
-    "inici": 260,
-    "posts": 774,
+    "inici": 269,
+    "posts": 783,
     "cerca": 29,
     "contact": 15,
     "arxiu": 18,
+    "about": 14,
     "aviso-legal": 13,
-    "about": 13,
     "blog.pocallum.cat": 24,
     "?query-0-page=2": 9,
-    "category": 182,
-    "page": 35,
+    "category": 183,
+    "page": 39,
     "?query-0-page=10": 5,
     "?query-0-page=191": 5,
     "?query-0-page=188": 5,
@@ -603,6 +611,7 @@
     "?query-0-page=14": 3,
     "?query-0-page=12": 3,
     "?query-0-page=11": 3,
+    "categories": 2,
     "?query-0-page=134": 2,
     "?query-0-page=64": 2,
     "?query-0-page=149": 2,
@@ -630,7 +639,7 @@
     "?query-0-page=13": 2,
     "?query-0-page=16": 2,
     "?query-0-page=9": 2,
-    "categories": 1,
+    "__diagnostic_tracking_check__": 1,
     "edit": 1,
     "politica-de-privacidad": 1,
     "Admin": 1,
@@ -745,7 +754,7 @@
     },
     {
       "path": "/2026/09/20/2026-09-19-casal-de-barri-de-prosperitat-tributo-a-amaral",
-      "count": 27
+      "count": 28
     },
     {
       "path": "/2026/09/20/2026-09-19-festa-major-de-verdum-verdum-punkfest",
@@ -764,16 +773,16 @@
       "count": 16
     },
     {
+      "path": "/2026/10/03/2026-10-03-la-nuu-festival-una-cr%C3%B2nica-sota-la-pluja",
+      "count": 14
+    },
+    {
       "path": "/2026/07/31/2026-07-30-primeres-proves-per-al-repte-retrats-lents-de-112-revelats",
       "count": 14
     },
     {
       "path": "/2026/09/01/2026-08-26-aiguestortes-de-dellui-a-lestany-llong-fugint-de-la-calor-estival",
       "count": 13
-    },
-    {
-      "path": "/2026/10/03/2026-10-03-la-nuu-festival-una-cr%C3%B2nica-sota-la-pluja",
-      "count": 12
     },
     {
       "path": "/2026/07/06/2026-07-04-24e-festival-de-blues-de-barcelona",
@@ -796,7 +805,7 @@
     {
       "name": "Chrome",
       "id": "Chrome",
-      "count": 1289
+      "count": 1290
     },
     {
       "name": "Safari",
@@ -843,7 +852,7 @@
     {
       "name": "Windows",
       "id": "Windows",
-      "count": 202
+      "count": 203
     },
     {
       "name": "Desconegut",
@@ -870,7 +879,7 @@
     {
       "name": "tablet",
       "id": "tablet",
-      "count": 22
+      "count": 23
     },
     {
       "name": "unknown",
@@ -910,13 +919,13 @@
       "count": 18
     },
     {
-      "name": "Germany",
-      "id": "DE",
-      "count": 13
-    },
-    {
       "name": "France",
       "id": "FR",
+      "count": 14
+    },
+    {
+      "name": "Germany",
+      "id": "DE",
       "count": 13
     },
     {
@@ -959,12 +968,12 @@
     {
       "name": "Desconegut",
       "id": "Desconegut",
-      "count": 839
+      "count": 845
     },
     {
       "name": "Google",
       "id": "Google",
-      "count": 93
+      "count": 95
     },
     {
       "name": "www.9barrisimatge.org",
@@ -974,12 +983,12 @@
     {
       "name": "9barrisimatge.org",
       "id": "9barrisimatge.org",
-      "count": 17
+      "count": 18
     },
     {
       "name": "www.facebook.com",
       "id": "www.facebook.com",
-      "count": 16
+      "count": 17
     },
     {
       "name": "pocallum.cat",
@@ -989,7 +998,7 @@
     {
       "name": "ig",
       "id": "ig",
-      "count": 8
+      "count": 9
     },
     {
       "name": "l.instagram.com",
