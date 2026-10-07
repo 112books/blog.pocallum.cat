@@ -75,6 +75,11 @@ Totes dues afectaven imatges noves del CMS a través del `<source>` de WebP:
 
 - Aquest és l'únic fitxer de `static/media/` i l'únic post amb un espai al nom;
   la resta del flux ja queda cobert pel fix.
-- Millores opcionals (no aplicades):
-  1. Normalitzar/«slugificar» els noms de fitxer a la pujada del CMS.
-  2. Guàrdia al workflow que falli si el build conté `#ZgotmplZ`.
+- Millores:
+  1. **Guàrdia implementada (2026-10-07):** pas «Guarda — cap #ZgotmplZ al build» a
+     `deploy-produccio.yml` i `deploy-staging.yml`, just després del build i abans de
+     publicar → el desplegament falla (i el job `notifica` obre l'Issue `deploy-failure`)
+     si el `public/` conté `#ZgotmplZ`. Verificada amb una simulació del bug: detecta el
+     `srcset="#ZgotmplZ"` i descarta la prosa que només esmenta el literal.
+  2. Normalitzar/«slugificar» els noms de fitxer a la pujada del CMS: **descartat** per
+     indicació de l'usuari — no es toquen els fitxers que ja funcionen.

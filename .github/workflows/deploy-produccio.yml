@@ -57,6 +57,18 @@ jobs:
       - name: Build Hugo (producció)
         run: hugo --minify
 
+      - name: "Guarda — cap #ZgotmplZ al build"
+        run: |
+          fails=$(grep -rlE --include='*.html' '(srcset|src|href|content)="?#ZgotmplZ' public/ || true)
+          if [ -n "$fails" ]; then
+            echo "❌ El build conté #ZgotmplZ: una URL s'ha marcat com a insegura (normalment un espai al nom d'una imatge de /media/)."
+            echo "   Fitxers afectats:"
+            echo "$fails"
+            echo "   Solució: renombra el fitxer sense espais o revisa themes/blog/layouts/partials/img.html."
+            exit 1
+          fi
+          echo "✅ Cap #ZgotmplZ al build."
+
       - name: Index with Pagefind
         run: npx --yes pagefind@1.5.2 --site public
 

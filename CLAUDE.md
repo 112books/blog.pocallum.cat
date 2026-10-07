@@ -373,7 +373,7 @@ Commit `1206143a59`, rebase sobre commits del bot CMS (`d845aa18cc`, `ae0932a465
 
 **Fix aplicat (2026-10-07) — miniatura i imatge principal del CMS no es veien (`#ZgotmplZ`):**
 
-En publicar el post *BAUM Fest 2026* des del CMS, ni la miniatura a la portada ni la imatge principal del post es veien. Causa: el fitxer pujat tenia un **espai al nom** (`2026-10-02-LM6-RPX400@800-HC110-B-11-BAUMfest-B- 0031.jpg`); Go marca les URLs amb espai dins d'un `srcset` com a no segures i les escriu com a **`#ZgotmplZ`**. El navegador tria el `<source>` WebP, `#ZgotmplZ` no és una imatge, i un `<source>` seleccionat que falla **no cau a l'`<img>`** → imatge trencada. Només es veia en desplegar, perquè és el workflow qui genera els WebP abans del build (a local no n'hi ha i s'emet només l'`<img>`). **Fix:** `themes/blog/layouts/partials/img.html` percent-encoda els espais (`%20`) al `srcset`, mantenint la ruta crua per a `os.FileExists`. Commit `8a477bee4f`; deploys de producció (`37617290097`) i staging (`37617290043`) OK; verificat en viu (`#ZgotmplZ` = 0, WebP i JPG 200). Detall a `docs/INCIDENCIA-MINIATURES-ZGOTMPLZ-2026-10-07.md`. És la segona incidència d'imatge del CMS després de la del 2026-09-30 (llavors faltava el WebP); pendent opcional: normalitzar noms al CMS i afegir una guàrdia que falli si el build conté `#ZgotmplZ`.
+En publicar el post *BAUM Fest 2026* des del CMS, ni la miniatura a la portada ni la imatge principal del post es veien. Causa: el fitxer pujat tenia un **espai al nom** (`2026-10-02-LM6-RPX400@800-HC110-B-11-BAUMfest-B- 0031.jpg`); Go marca les URLs amb espai dins d'un `srcset` com a no segures i les escriu com a **`#ZgotmplZ`**. El navegador tria el `<source>` WebP, `#ZgotmplZ` no és una imatge, i un `<source>` seleccionat que falla **no cau a l'`<img>`** → imatge trencada. Només es veia en desplegar, perquè és el workflow qui genera els WebP abans del build (a local no n'hi ha i s'emet només l'`<img>`). **Fix:** `themes/blog/layouts/partials/img.html` percent-encoda els espais (`%20`) al `srcset`, mantenint la ruta crua per a `os.FileExists`. Commit `8a477bee4f`; deploys de producció (`37617290097`) i staging (`37617290043`) OK; verificat en viu (`#ZgotmplZ` = 0, WebP i JPG 200). Detall a `docs/INCIDENCIA-MINIATURES-ZGOTMPLZ-2026-10-07.md`. És la segona incidència d'imatge del CMS després de la del 2026-09-30 (llavors faltava el WebP); **guàrdia implementada el 2026-10-07** (pas «Guarda — cap #ZgotmplZ al build» als dos workflows de deploy, just després del build i abans de publicar; el deploy falla i s'obre l'Issue `deploy-failure` si apareix); la normalització de noms al CMS queda descartada (no es toquen els fitxers que ja funcionen).
 
 ### Configuració del CMS (config.yml)
 
@@ -443,11 +443,11 @@ Skill actiu: `gestor-hores` — registra automàticament el temps de treball per
 
 ### ⚠️ Regla d'or del registre horari (obligatòria)
 
-El control horari és la base de la **facturació/comptabilitat del client**. Per tant:
+El control horari serveix per tenir **constància del temps de treball** (2026-10-07: de moment **no** és per facturar, sinó per seguiment intern). Per tant:
 
 - **Només es registren hores reals i verificables.** Mai inventar ni estimar per defecte.
 - **Base de tot registre:** evidències objectives (timestamps de fitxers, commits de git, hores declarades per l'usuari). Si no hi ha evidència, es pregunta a l'usuari **abans** d'anotar res.
 - **No inventar tasques ni hores.** Si no saps una hora, un inici de sessió o una durada → **pregunta abans d'escriure**.
 - Cal anotar sempre **hora d'inici real** (confirmada per l'usuari si no hi ha evidència).
-- Els logs es revisen amb l'usuari abans de considerar-los vàlids per a facturació.
+- Els logs es revisen amb l'usuari abans de donar-los per bons.
 - **Rigor sobre rapidesa:** val més deixar una tasca sense hora que anotar-ne una d'inventada.
