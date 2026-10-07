@@ -14,17 +14,23 @@
 {{- $dim     := index site.Data.imatges_dim $src -}}
 {{- $esRepo := or (strings.HasPrefix $src "/media/") (strings.HasPrefix $src "https://blog.pocallum.cat/media/") -}}
 {{- $esWp   := strings.HasPrefix $src "https://blog.pocallum.cat/wp-content/" -}}
-{{- $w800 := "" -}}
-{{- $w2500 := "" -}}
+{{- $w800raw := "" -}}
+{{- $w2500raw := "" -}}
 {{- $re := `\.(jpg|jpeg|png)(\?.*)?$` -}}
 {{- if and $variant $src (findRE $re $src) -}}
-  {{- $w800 = replaceRE $re "-800.webp" $src -}}
-  {{- $w2500 = replaceRE $re "-2500.webp" $src -}}
+  {{- $w800raw = replaceRE $re "-800.webp" $src -}}
+  {{- $w2500raw = replaceRE $re "-2500.webp" $src -}}
 {{- end -}}
+{{- /* Els espais al nom (pujades del CMS) fan que Go marqui el srcset com a URL
+       insegura i l'escrigui com a #ZgotmplZ: el navegador tria aquest <source>
+       trencat i no cau al <img>. Percent-encodem només per a la sortida; per
+       comprovar l'existència del WebP cal la ruta crua. */ -}}
+{{- $w800 := replace $w800raw " " "%20" -}}
+{{- $w2500 := replace $w2500raw " " "%20" -}}
 {{- $doWebp := false -}}
 {{- if $w800 -}}
   {{- if $esRepo -}}
-    {{- $doWebp = os.FileExists (printf "static%s" $w800) -}}
+    {{- $doWebp = os.FileExists (printf "static%s" $w800raw) -}}
   {{- else if and $esWp $webpActivat -}}
     {{- $doWebp = true -}}
   {{- end -}}
