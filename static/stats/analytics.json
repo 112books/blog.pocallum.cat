@@ -1,10 +1,10 @@
 {
-  "generated": "2026-10-07T21:59:31.437192Z",
+  "generated": "2026-10-08T01:56:34.984613Z",
   "period": {
-    "start": "2025-10-07",
-    "end": "2026-10-07"
+    "start": "2025-10-08",
+    "end": "2026-10-08"
   },
-  "total": 1741,
+  "total": 1778,
   "total_unique": 0,
   "hits_by_day": [
     {
@@ -370,12 +370,20 @@
     {
       "date": "2026-10-06",
       "count": 7
+    },
+    {
+      "date": "2026-10-07",
+      "count": 34
+    },
+    {
+      "date": "2026-10-08",
+      "count": 3
     }
   ],
   "hits": [
     {
       "path": "/",
-      "count": 270
+      "count": 277
     },
     {
       "path": "/2026/07/11/2026-07-11-prospe-beach-again",
@@ -386,11 +394,11 @@
       "count": 43
     },
     {
-      "path": "/2026/08/19/2026-08-18-isadora-passos-suspensio-capilar",
-      "count": 29
+      "path": "/cerca",
+      "count": 30
     },
     {
-      "path": "/cerca",
+      "path": "/2026/08/19/2026-08-18-isadora-passos-suspensio-capilar",
       "count": 29
     },
     {
@@ -414,15 +422,19 @@
       "count": 16
     },
     {
+      "path": "/2026/10/03/2026-10-03-la-nuu-festival-una-cr%C3%B2nica-sota-la-pluja",
+      "count": 15
+    },
+    {
+      "path": "/arxiu",
+      "count": 15
+    },
+    {
       "path": "/contact",
       "count": 15
     },
     {
-      "path": "/2026/10/03/2026-10-03-la-nuu-festival-una-cr%C3%B2nica-sota-la-pluja",
-      "count": 14
-    },
-    {
-      "path": "/arxiu",
+      "path": "/2026/09/01/2026-08-26-aiguestortes-de-dellui-a-lestany-llong-fugint-de-la-calor-estival",
       "count": 14
     },
     {
@@ -434,7 +446,7 @@
       "count": 14
     },
     {
-      "path": "/2026/09/01/2026-08-26-aiguestortes-de-dellui-a-lestany-llong-fugint-de-la-calor-estival",
+      "path": "/2026/09/30/2026-09-29-una-cr%C3%B2nica-per-a-9barrisimatge-andr%C3%A9s-naya-i-els-seus-dos-llibres",
       "count": 13
     },
     {
@@ -442,20 +454,20 @@
       "count": 13
     },
     {
-      "path": "/2026/09/30/2026-09-29-una-cr%C3%B2nica-per-a-9barrisimatge-andr%C3%A9s-naya-i-els-seus-dos-llibres",
-      "count": 12
-    },
-    {
       "path": "/2026/07/06/2026-07-04-24e-festival-de-blues-de-barcelona",
-      "count": 12
+      "count": 13
     },
     {
       "path": "/2026/09/06/visa-pour-limage-2026-una-jornada-de-fotoperiodisme-a-perpinya",
-      "count": 11
+      "count": 12
     },
     {
       "path": "/2026/09/04/2026-09-04-lanomala",
       "count": 11
+    },
+    {
+      "path": "/page/2",
+      "count": 10
     },
     {
       "path": "/2026/07/06/2026-07-03a05-24-festival-de-blues-de-barcelona",
@@ -486,7 +498,7 @@
       "count": 8
     },
     {
-      "path": "/page/2",
+      "path": "/2026/10/05/2026-09-26-dinar-de-comiat-de-leli-companya-de-la-nau-bostik.-shes-gone",
       "count": 7
     },
     {
@@ -502,11 +514,11 @@
       "count": 7
     },
     {
-      "path": "/2026/10/05/2026-09-26-dinar-de-comiat-de-leli-companya-de-la-nau-bostik.-shes-gone",
+      "path": "/2026/09/24/2026-09-24-la-merc%C3%A8-baixant-a-barcelona",
       "count": 6
     },
     {
-      "path": "/2026/09/24/2026-09-24-la-merc%C3%A8-baixant-a-barcelona",
+      "path": "/page/3",
       "count": 6
     },
     {
@@ -566,26 +578,22 @@
       "count": 5
     },
     {
-      "path": "/2019/10/25/un-mati-amb-el-ferrer-juan-sin-sangre",
-      "count": 4
-    },
-    {
-      "path": "/page/3",
+      "path": "/2026/10/07/2026-10-02-baum-fest-2026-tinta-i-art",
       "count": 4
     }
   ],
   "by_section": {
-    "inici": 270,
-    "posts": 788,
-    "cerca": 29,
+    "inici": 277,
+    "posts": 803,
+    "cerca": 30,
+    "arxiu": 20,
     "contact": 15,
-    "arxiu": 18,
     "about": 14,
     "aviso-legal": 13,
+    "page": 47,
     "blog.pocallum.cat": 24,
     "?query-0-page=2": 9,
     "category": 183,
-    "page": 39,
     "?query-0-page=10": 5,
     "?query-0-page=191": 5,
     "?query-0-page=188": 5,
@@ -596,7 +604,7 @@
     "?query-0-page=189": 5,
     "?query-0-page=25": 4,
     "en-us": 4,
-    "tag": 92,
+    "tag": 96,
     "politica-de-cookies": 4,
     "?query-0-page=3": 3,
     "?query-0-page=165": 3,
@@ -774,6 +782,10 @@
     },
     {
       "path": "/2026/10/03/2026-10-03-la-nuu-festival-una-cr%C3%B2nica-sota-la-pluja",
+      "count": 15
+    },
+    {
+      "path": "/2026/09/01/2026-08-26-aiguestortes-de-dellui-a-lestany-llong-fugint-de-la-calor-estival",
       "count": 14
     },
     {
@@ -781,20 +793,16 @@
       "count": 14
     },
     {
-      "path": "/2026/09/01/2026-08-26-aiguestortes-de-dellui-a-lestany-llong-fugint-de-la-calor-estival",
+      "path": "/2026/09/30/2026-09-29-una-cr%C3%B2nica-per-a-9barrisimatge-andr%C3%A9s-naya-i-els-seus-dos-llibres",
       "count": 13
     },
     {
-      "path": "/2026/09/30/2026-09-29-una-cr%C3%B2nica-per-a-9barrisimatge-andr%C3%A9s-naya-i-els-seus-dos-llibres",
-      "count": 12
-    },
-    {
       "path": "/2026/07/06/2026-07-04-24e-festival-de-blues-de-barcelona",
-      "count": 12
+      "count": 13
     },
     {
       "path": "/2026/09/06/visa-pour-limage-2026-una-jornada-de-fotoperiodisme-a-perpinya",
-      "count": 11
+      "count": 12
     },
     {
       "path": "/2026/09/04/2026-09-04-lanomala",
@@ -805,7 +813,7 @@
     {
       "name": "Chrome",
       "id": "Chrome",
-      "count": 1310
+      "count": 1313
     },
     {
       "name": "Safari",
@@ -842,7 +850,7 @@
     {
       "name": "Android",
       "id": "Android",
-      "count": 248
+      "count": 249
     },
     {
       "name": "iOS",
@@ -852,7 +860,7 @@
     {
       "name": "Windows",
       "id": "Windows",
-      "count": 215
+      "count": 217
     },
     {
       "name": "Desconegut",
@@ -864,12 +872,12 @@
     {
       "name": "desktop",
       "id": "desktop",
-      "count": 887
+      "count": 889
     },
     {
       "name": "phone",
       "id": "phone",
-      "count": 478
+      "count": 479
     },
     {
       "name": "desktophd",
@@ -891,12 +899,12 @@
     {
       "name": "Spain",
       "id": "ES",
-      "count": 1115
+      "count": 1116
     },
     {
       "name": "United States",
       "id": "US",
-      "count": 375
+      "count": 376
     },
     {
       "name": "Singapore",
@@ -968,12 +976,12 @@
     {
       "name": "Desconegut",
       "id": "Desconegut",
-      "count": 845
+      "count": 850
     },
     {
       "name": "Google",
       "id": "Google",
-      "count": 98
+      "count": 104
     },
     {
       "name": "www.9barrisimatge.org",
@@ -993,7 +1001,7 @@
     {
       "name": "pocallum.cat",
       "id": "pocallum.cat",
-      "count": 10
+      "count": 11
     },
     {
       "name": "ig",
