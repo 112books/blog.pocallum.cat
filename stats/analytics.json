@@ -1,10 +1,10 @@
 {
-  "generated": "2026-10-09T16:13:41.608764Z",
+  "generated": "2026-10-10T00:52:26.604100Z",
   "period": {
-    "start": "2025-10-09",
-    "end": "2026-10-09"
+    "start": "2025-10-10",
+    "end": "2026-10-10"
   },
-  "total": 1785,
+  "total": 1806,
   "total_unique": 0,
   "hits_by_day": [
     {
@@ -378,12 +378,16 @@
     {
       "date": "2026-10-08",
       "count": 10
+    },
+    {
+      "date": "2026-10-09",
+      "count": 21
     }
   ],
   "hits": [
     {
       "path": "/",
-      "count": 278
+      "count": 285
     },
     {
       "path": "/2026/07/11/2026-07-11-prospe-beach-again",
@@ -394,11 +398,11 @@
       "count": 43
     },
     {
-      "path": "/2026/08/19/2026-08-18-isadora-passos-suspensio-capilar",
-      "count": 30
+      "path": "/cerca",
+      "count": 31
     },
     {
-      "path": "/cerca",
+      "path": "/2026/08/19/2026-08-18-isadora-passos-suspensio-capilar",
       "count": 30
     },
     {
@@ -458,12 +462,12 @@
       "count": 13
     },
     {
-      "path": "/2026/09/06/visa-pour-limage-2026-una-jornada-de-fotoperiodisme-a-perpinya",
+      "path": "/page/2",
       "count": 12
     },
     {
-      "path": "/page/2",
-      "count": 11
+      "path": "/2026/09/06/visa-pour-limage-2026-una-jornada-de-fotoperiodisme-a-perpinya",
+      "count": 12
     },
     {
       "path": "/2026/09/04/2026-09-04-lanomala",
@@ -498,7 +502,15 @@
       "count": 8
     },
     {
+      "path": "/2026/10/09/2026-10-08-renovaci%C3%B3-de-lart-urb%C3%A0-a-la-nau-bostik",
+      "count": 7
+    },
+    {
       "path": "/2026/10/05/2026-09-26-dinar-de-comiat-de-leli-companya-de-la-nau-bostik.-shes-gone",
+      "count": 7
+    },
+    {
+      "path": "/page/3",
       "count": 7
     },
     {
@@ -515,10 +527,6 @@
     },
     {
       "path": "/2026/09/24/2026-09-24-la-merc%C3%A8-baixant-a-barcelona",
-      "count": 6
-    },
-    {
-      "path": "/page/3",
       "count": 6
     },
     {
@@ -576,24 +584,20 @@
     {
       "path": "/2017/12/15/homedev171-hasselblad-500-cm-50mm-panf-50-badenas-reales",
       "count": 5
-    },
-    {
-      "path": "/2012/01/28/prospe-beach-2010",
-      "count": 5
     }
   ],
   "by_section": {
-    "inici": 278,
-    "posts": 808,
-    "cerca": 30,
+    "inici": 285,
+    "posts": 817,
+    "cerca": 31,
     "arxiu": 20,
     "contact": 15,
     "about": 14,
     "aviso-legal": 13,
-    "page": 48,
+    "page": 50,
     "blog.pocallum.cat": 24,
     "?query-0-page=2": 9,
-    "category": 183,
+    "category": 185,
     "?query-0-page=10": 5,
     "?query-0-page=191": 5,
     "?query-0-page=188": 5,
@@ -813,7 +817,7 @@
     {
       "name": "Chrome",
       "id": "Chrome",
-      "count": 1322
+      "count": 1330
     },
     {
       "name": "Safari",
@@ -828,7 +832,7 @@
     {
       "name": "Desconegut",
       "id": "Desconegut",
-      "count": 2
+      "count": 3
     },
     {
       "name": "Dalvik",
@@ -840,7 +844,7 @@
     {
       "name": "macOS",
       "id": "macOS",
-      "count": 642
+      "count": 644
     },
     {
       "name": "Linux",
@@ -848,24 +852,24 @@
       "count": 434
     },
     {
+      "name": "Android",
+      "id": "Android",
+      "count": 254
+    },
+    {
       "name": "iOS",
       "id": "iOS",
       "count": 252
     },
     {
-      "name": "Android",
-      "id": "Android",
-      "count": 249
-    },
-    {
       "name": "Windows",
       "id": "Windows",
-      "count": 219
+      "count": 220
     },
     {
       "name": "Desconegut",
       "id": "Desconegut",
-      "count": 1
+      "count": 2
     }
   ],
   "sizes": [
@@ -877,12 +881,12 @@
     {
       "name": "phone",
       "id": "phone",
-      "count": 489
+      "count": 494
     },
     {
       "name": "desktophd",
       "id": "desktophd",
-      "count": 392
+      "count": 396
     },
     {
       "name": "tablet",
@@ -899,12 +903,12 @@
     {
       "name": "Spain",
       "id": "ES",
-      "count": 1131
+      "count": 1136
     },
     {
       "name": "United States",
       "id": "US",
-      "count": 377
+      "count": 378
     },
     {
       "name": "Singapore",
@@ -976,7 +980,7 @@
     {
       "name": "Desconegut",
       "id": "Desconegut",
-      "count": 853
+      "count": 855
     },
     {
       "name": "Google",
@@ -989,14 +993,14 @@
       "count": 93
     },
     {
+      "name": "www.facebook.com",
+      "id": "www.facebook.com",
+      "count": 20
+    },
+    {
       "name": "9barrisimatge.org",
       "id": "9barrisimatge.org",
       "count": 18
-    },
-    {
-      "name": "www.facebook.com",
-      "id": "www.facebook.com",
-      "count": 17
     },
     {
       "name": "pocallum.cat",
@@ -1006,21 +1010,21 @@
     {
       "name": "ig",
       "id": "ig",
-      "count": 9
+      "count": 10
     },
     {
       "name": "l.instagram.com",
       "id": "l.instagram.com",
-      "count": 8
-    },
-    {
-      "name": "duckduckgo.com",
-      "id": "duckduckgo.com",
-      "count": 5
+      "count": 9
     },
     {
       "name": "l.threads.com",
       "id": "l.threads.com",
+      "count": 6
+    },
+    {
+      "name": "duckduckgo.com",
+      "id": "duckduckgo.com",
       "count": 5
     }
   ]
