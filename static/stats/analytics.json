@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-11T08:52:25.176237Z",
+  "generated": "2026-10-11T15:41:55.895970Z",
   "period": {
     "start": "2025-10-11",
     "end": "2026-10-11"
@@ -880,33 +880,7 @@
       "count": 2
     }
   ],
-  "sizes": [
-    {
-      "name": "desktop",
-      "id": "desktop",
-      "count": 891
-    },
-    {
-      "name": "phone",
-      "id": "phone",
-      "count": 495
-    },
-    {
-      "name": "desktophd",
-      "id": "desktophd",
-      "count": 398
-    },
-    {
-      "name": "tablet",
-      "id": "tablet",
-      "count": 28
-    },
-    {
-      "name": "unknown",
-      "id": "unknown",
-      "count": 2
-    }
-  ],
+  "sizes": [],
   "locations": [
     {
       "name": "Spain",
