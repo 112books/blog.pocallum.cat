@@ -1,10 +1,10 @@
 {
-  "generated": "2026-10-10T18:37:01.909900Z",
+  "generated": "2026-10-11T01:54:43.575424Z",
   "period": {
-    "start": "2025-10-10",
-    "end": "2026-10-10"
+    "start": "2025-10-11",
+    "end": "2026-10-11"
   },
-  "total": 1806,
+  "total": 1813,
   "total_unique": 0,
   "hits_by_day": [
     {
@@ -382,12 +382,20 @@
     {
       "date": "2026-10-09",
       "count": 21
+    },
+    {
+      "date": "2026-10-10",
+      "count": 5
+    },
+    {
+      "date": "2026-10-11",
+      "count": 2
     }
   ],
   "hits": [
     {
       "path": "/",
-      "count": 285
+      "count": 286
     },
     {
       "path": "/2026/07/11/2026-07-11-prospe-beach-again",
@@ -494,6 +502,10 @@
       "count": 9
     },
     {
+      "path": "/2026/10/05/2026-09-26-dinar-de-comiat-de-leli-companya-de-la-nau-bostik.-shes-gone",
+      "count": 8
+    },
+    {
       "path": "/2026/08/15/2026-08-12-laura-a-32-oc",
       "count": 8
     },
@@ -503,10 +515,6 @@
     },
     {
       "path": "/2026/10/09/2026-10-08-renovaci%C3%B3-de-lart-urb%C3%A0-a-la-nau-bostik",
-      "count": 7
-    },
-    {
-      "path": "/2026/10/05/2026-09-26-dinar-de-comiat-de-leli-companya-de-la-nau-bostik.-shes-gone",
       "count": 7
     },
     {
@@ -530,6 +538,10 @@
       "count": 6
     },
     {
+      "path": "/2026/09/21/2026-09-20-marian-barahona-blues-reunion-presenten-el-disc-randez-blue-al-jamboree",
+      "count": 6
+    },
+    {
       "path": "/category/camara/hasselblad-500cm/page/6",
       "count": 6
     },
@@ -543,10 +555,6 @@
     },
     {
       "path": "/2026/10/07/2026-10-02-baum-fest-2026-tinta-i-art",
-      "count": 5
-    },
-    {
-      "path": "/2026/09/21/2026-09-20-marian-barahona-blues-reunion-presenten-el-disc-randez-blue-al-jamboree",
       "count": 5
     },
     {
@@ -587,8 +595,8 @@
     }
   ],
   "by_section": {
-    "inici": 285,
-    "posts": 817,
+    "inici": 286,
+    "posts": 822,
     "cerca": 31,
     "arxiu": 20,
     "contact": 15,
@@ -597,7 +605,7 @@
     "page": 50,
     "blog.pocallum.cat": 24,
     "?query-0-page=2": 9,
-    "category": 185,
+    "category": 186,
     "?query-0-page=10": 5,
     "?query-0-page=191": 5,
     "?query-0-page=188": 5,
@@ -817,12 +825,12 @@
     {
       "name": "Chrome",
       "id": "Chrome",
-      "count": 1333
+      "count": 1335
     },
     {
       "name": "Safari",
       "id": "Safari",
-      "count": 370
+      "count": 371
     },
     {
       "name": "Firefox",
@@ -844,7 +852,7 @@
     {
       "name": "macOS",
       "id": "macOS",
-      "count": 645
+      "count": 646
     },
     {
       "name": "Linux",
@@ -864,7 +872,7 @@
     {
       "name": "Windows",
       "id": "Windows",
-      "count": 221
+      "count": 223
     },
     {
       "name": "Desconegut",
@@ -886,12 +894,12 @@
     {
       "name": "desktophd",
       "id": "desktophd",
-      "count": 397
+      "count": 398
     },
     {
       "name": "tablet",
       "id": "tablet",
-      "count": 25
+      "count": 27
     },
     {
       "name": "unknown",
@@ -903,7 +911,7 @@
     {
       "name": "Spain",
       "id": "ES",
-      "count": 1140
+      "count": 1141
     },
     {
       "name": "United States",
@@ -980,12 +988,12 @@
     {
       "name": "Desconegut",
       "id": "Desconegut",
-      "count": 855
+      "count": 858
     },
     {
       "name": "Google",
       "id": "Google",
-      "count": 105
+      "count": 107
     },
     {
       "name": "www.9barrisimatge.org",
