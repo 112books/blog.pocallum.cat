@@ -42,11 +42,11 @@ El dia no acompanyava gaire per fer fotografies amb una càmera a qui agrada tan
 
 Així que vam posar la càmera en mode _Bulb_ i hi vam carregar pel·lícula Rollei RPX 400, que m’encanta. Vam fer dos rodets ben diferents, tant pel concepte com per l’execució.
 
-![Asta i la Selma A](/media/2026-10-08 - Holga-CFN - RolleiRPX400 - Asta and Salma - B - 0001.jpg "Asta i la Selma")
+[![Asta i la Selma A](/media/2026-10-08 - Holga-CFN - RolleiRPX400 - Asta and Salma - B - 0001.jpg "Asta i la Selma")](https://photos.app.goo.gl/BHx2aJcDEcRJj3HP8)
 
 **Rodet A:** mode _Bulb_ i pel·lícula exposada a 1600 ISO per forçar-la en el revelatge. Érem davant de [L’Anòmala,](https://naubostik.com/espais_nau_bostik/lanomala/) un espai que m’encanta, dedicat a les arts escèniques, on elles acabaven de fer un taller d’iniciació. Amb el permís corresponent, vaig fer algunes fotografies a pols, sense trípode, amb exposicions d’aproximadament mig segon, calculades a ull.
 
-![Asta i la Selma B](/media/2026-10-08%20-%20Holga-CFN%20-%20RolleiRPX400%20-%20Asta%20and%20Salma%20-%200008.jpg "Asta i la Selma")
+[![Asta i la Selma B](/media/2026-10-08%20-%20Holga-CFN%20-%20RolleiRPX400%20-%20Asta%20and%20Salma%20-%200008.jpg "Asta i la Selma")](https://photos.app.goo.gl/JyYnXSXpWHwiGt696)
 
 **Rodet B:** Per variar i fer un experiment que m’encanta, vam pujar al plató de Llumàtics i vam fer servir la Holga amb la potència dels flaixos. Aquesta càmera és tan senzilla que ni tan sols té connector de sincronització. Podria haver posat piles al flaix, però vaig preferir continuar fent servir el mode _Bulb_ —l’obturador queda obert mentre mantenim premuda la palanca— i disparar els flaixos manualment, directament des del mateix flaix.
 
