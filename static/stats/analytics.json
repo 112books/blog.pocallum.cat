@@ -1,10 +1,10 @@
 {
-  "generated": "2026-10-11T20:17:58.732612Z",
+  "generated": "2026-10-12T07:21:52.725982Z",
   "period": {
-    "start": "2025-10-11",
-    "end": "2026-10-11"
+    "start": "2025-10-12",
+    "end": "2026-10-12"
   },
-  "total": 1813,
+  "total": 1824,
   "total_unique": 0,
   "hits_by_day": [
     {
@@ -389,13 +389,13 @@
     },
     {
       "date": "2026-10-11",
-      "count": 2
+      "count": 13
     }
   ],
   "hits": [
     {
       "path": "/",
-      "count": 286
+      "count": 287
     },
     {
       "path": "/2026/07/11/2026-07-11-prospe-beach-again",
@@ -407,7 +407,7 @@
     },
     {
       "path": "/cerca",
-      "count": 31
+      "count": 32
     },
     {
       "path": "/2026/08/19/2026-08-18-isadora-passos-suspensio-capilar",
@@ -482,6 +482,10 @@
       "count": 11
     },
     {
+      "path": "/2024/02/22/sessio-amb-la-ballarina-nahomi-itzel",
+      "count": 10
+    },
+    {
       "path": "/2026/07/06/2026-07-03a05-24-festival-de-blues-de-barcelona",
       "count": 10
     },
@@ -491,10 +495,6 @@
     },
     {
       "path": "/blog.pocallum.cat",
-      "count": 9
-    },
-    {
-      "path": "/2024/02/22/sessio-amb-la-ballarina-nahomi-itzel",
       "count": 9
     },
     {
@@ -558,6 +558,10 @@
       "count": 5
     },
     {
+      "path": "/2026/09/18/2026-09-17-provant-ladox-scala-50",
+      "count": 5
+    },
+    {
       "path": "/?query-0-page=10",
       "count": 5
     },
@@ -588,16 +592,12 @@
     {
       "path": "/?query-0-page=189",
       "count": 5
-    },
-    {
-      "path": "/2017/12/15/homedev171-hasselblad-500-cm-50mm-panf-50-badenas-reales",
-      "count": 5
     }
   ],
   "by_section": {
-    "inici": 286,
-    "posts": 822,
-    "cerca": 31,
+    "inici": 287,
+    "posts": 829,
+    "cerca": 32,
     "arxiu": 20,
     "contact": 15,
     "about": 14,
@@ -605,7 +605,7 @@
     "page": 50,
     "blog.pocallum.cat": 24,
     "?query-0-page=2": 9,
-    "category": 186,
+    "category": 188,
     "?query-0-page=10": 5,
     "?query-0-page=191": 5,
     "?query-0-page=188": 5,
@@ -825,7 +825,7 @@
     {
       "name": "Chrome",
       "id": "Chrome",
-      "count": 1345
+      "count": 1346
     },
     {
       "name": "Safari",
@@ -862,7 +862,7 @@
     {
       "name": "Android",
       "id": "Android",
-      "count": 256
+      "count": 257
     },
     {
       "name": "iOS",
@@ -894,7 +894,7 @@
     {
       "name": "desktophd",
       "id": "desktophd",
-      "count": 403
+      "count": 404
     },
     {
       "name": "tablet",
@@ -916,7 +916,7 @@
     {
       "name": "United States",
       "id": "US",
-      "count": 379
+      "count": 380
     },
     {
       "name": "Singapore",
@@ -988,7 +988,7 @@
     {
       "name": "Desconegut",
       "id": "Desconegut",
-      "count": 858
+      "count": 863
     },
     {
       "name": "Google",
@@ -1003,7 +1003,7 @@
     {
       "name": "www.facebook.com",
       "id": "www.facebook.com",
-      "count": 20
+      "count": 21
     },
     {
       "name": "9barrisimatge.org",
