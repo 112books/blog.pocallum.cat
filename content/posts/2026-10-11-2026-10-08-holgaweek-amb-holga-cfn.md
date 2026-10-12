@@ -51,3 +51,5 @@ Així que vam posar la càmera en mode _Bulb_ i hi vam carregar pel·lícula Rol
 **Rodet B:** Per variar i fer un experiment que m’encanta, vam pujar al plató de Llumàtics i vam fer servir la Holga amb la potència dels flaixos. Aquesta càmera és tan senzilla que ni tan sols té connector de sincronització. Podria haver posat piles al flaix, però vaig preferir continuar fent servir el mode _Bulb_ —l’obturador queda obert mentre mantenim premuda la palanca— i disparar els flaixos manualment, directament des del mateix flaix.
 
 És sorprenent tot el que es pot fer amb una càmera tan limitada. A mi, personalment, m’encanta fer-la servir, sobretot per als retrats. La suavitat de l’enfocament, la manera com treballa el contrast… Bé, cada unitat és diferent, però a mi m’agrada molt.
+
+Fent clic a cada imatge accedireu a l'àlbum sencer.
