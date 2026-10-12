@@ -21,7 +21,7 @@ tags:
 thumbnail: /media/2026-10-08 - Holga-CFN - RolleiRPX400 - Asta and Salma - 0012.jpg
 image: /media/2026-10-08 - Holga-CFN - RolleiRPX400 - Asta and Salma - 0012.jpg
 album_url: ''
-draft: true
+draft: false
 author: Pocallum
 noindex: false
 title-seo: 'Holga Week a la Nau Bostik: fotografies amb una Holga CFN'
