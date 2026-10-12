@@ -1,4 +1,5 @@
 {{- $alt := .Text | plainify -}}
 {{- if not $alt -}}{{- $alt = .Title | plainify -}}{{- end -}}
+{{- $dest := replace .Destination " " "%20" -}}
 {{- $dim := index site.Data.imatges_dim .Destination -}}
-<img src="{{ .Destination | safeURL }}" alt="{{ $alt }}"{{ with .Title }} title="{{ . }}"{{ end }}{{ with $dim }} width="{{ index . 0 }}" height="{{ index . 1 }}"{{ end }} loading="lazy" decoding="async">
+<img src="{{ $dest | safeURL }}" alt="{{ $alt }}"{{ with .Title }} title="{{ . }}"{{ end }}{{ with $dim }} width="{{ index . 0 }}" height="{{ index . 1 }}"{{ end }} loading="lazy" decoding="async">

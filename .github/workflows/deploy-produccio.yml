@@ -69,6 +69,18 @@ jobs:
           fi
           echo "✅ Cap #ZgotmplZ al build."
 
+      - name: "Guarda — cap markdown d'imatge sense renderitzar"
+        run: |
+          fails=$(grep -rlP --include='*.html' '!\[.+?\]\(/' public/ || true)
+          if [ -n "$fails" ]; then
+            echo "❌ El build conté sintaxi markdown d'imatge sense renderitzar (![alt](url)): goldmark no ha pogut parsejar la URL (normalment espais sense encodar al nom del fitxer)."
+            echo "   Fitxers afectats:"
+            echo "$fails"
+            echo "   Solució: percent-encoda els espais a la URL de la imatge al contingut del post (%20)."
+            exit 1
+          fi
+          echo "✅ Cap markdown d'imatge sense renderitzar."
+
       - name: Index with Pagefind
         run: npx --yes pagefind@1.5.2 --site public
 
