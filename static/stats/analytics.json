@@ -1,10 +1,10 @@
 {
-  "generated": "2026-10-12T17:55:12.908114Z",
+  "generated": "2026-10-13T07:43:10.597814Z",
   "period": {
-    "start": "2025-10-12",
-    "end": "2026-10-12"
+    "start": "2025-10-13",
+    "end": "2026-10-13"
   },
-  "total": 1824,
+  "total": 1830,
   "total_unique": 0,
   "hits_by_day": [
     {
@@ -390,12 +390,16 @@
     {
       "date": "2026-10-11",
       "count": 13
+    },
+    {
+      "date": "2026-10-12",
+      "count": 6
     }
   ],
   "hits": [
     {
       "path": "/",
-      "count": 287
+      "count": 289
     },
     {
       "path": "/2026/07/11/2026-07-11-prospe-beach-again",
@@ -595,8 +599,8 @@
     }
   ],
   "by_section": {
-    "inici": 287,
-    "posts": 829,
+    "inici": 289,
+    "posts": 833,
     "cerca": 32,
     "arxiu": 20,
     "contact": 15,
@@ -825,12 +829,12 @@
     {
       "name": "Chrome",
       "id": "Chrome",
-      "count": 1351
+      "count": 1353
     },
     {
       "name": "Safari",
       "id": "Safari",
-      "count": 371
+      "count": 372
     },
     {
       "name": "Firefox",
@@ -852,7 +856,7 @@
     {
       "name": "macOS",
       "id": "macOS",
-      "count": 655
+      "count": 657
     },
     {
       "name": "Linux",
@@ -867,7 +871,7 @@
     {
       "name": "iOS",
       "id": "iOS",
-      "count": 252
+      "count": 253
     },
     {
       "name": "Windows",
@@ -889,12 +893,12 @@
     {
       "name": "phone",
       "id": "phone",
-      "count": 496
+      "count": 497
     },
     {
       "name": "desktophd",
       "id": "desktophd",
-      "count": 408
+      "count": 410
     },
     {
       "name": "tablet",
@@ -911,7 +915,7 @@
     {
       "name": "Spain",
       "id": "ES",
-      "count": 1151
+      "count": 1154
     },
     {
       "name": "United States",
@@ -988,7 +992,7 @@
     {
       "name": "Desconegut",
       "id": "Desconegut",
-      "count": 863
+      "count": 864
     },
     {
       "name": "Google",
