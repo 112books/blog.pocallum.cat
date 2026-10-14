@@ -1,10 +1,10 @@
 {
-  "generated": "2026-10-13T21:15:33.423348Z",
+  "generated": "2026-10-14T00:20:26.404836Z",
   "period": {
-    "start": "2025-10-13",
-    "end": "2026-10-13"
+    "start": "2025-10-14",
+    "end": "2026-10-14"
   },
-  "total": 1830,
+  "total": 1836,
   "total_unique": 0,
   "hits_by_day": [
     {
@@ -394,12 +394,16 @@
     {
       "date": "2026-10-12",
       "count": 6
+    },
+    {
+      "date": "2026-10-13",
+      "count": 6
     }
   ],
   "hits": [
     {
       "path": "/",
-      "count": 289
+      "count": 290
     },
     {
       "path": "/2026/07/11/2026-07-11-prospe-beach-again",
@@ -423,7 +427,7 @@
     },
     {
       "path": "/2026/09/20/2026-09-19-festa-major-de-verdum-verdum-punkfest",
-      "count": 23
+      "count": 24
     },
     {
       "path": "/2026/09/07/2026-09-06-festival-masimas-2026-el-parallel-oblidat-recordant-a-merche-mar",
@@ -462,15 +466,15 @@
       "count": 14
     },
     {
+      "path": "/2026/07/06/2026-07-04-24e-festival-de-blues-de-barcelona",
+      "count": 14
+    },
+    {
       "path": "/2026/09/30/2026-09-29-una-cr%C3%B2nica-per-a-9barrisimatge-andr%C3%A9s-naya-i-els-seus-dos-llibres",
       "count": 13
     },
     {
       "path": "/aviso-legal",
-      "count": 13
-    },
-    {
-      "path": "/2026/07/06/2026-07-04-24e-festival-de-blues-de-barcelona",
       "count": 13
     },
     {
@@ -599,8 +603,8 @@
     }
   ],
   "by_section": {
-    "inici": 289,
-    "posts": 833,
+    "inici": 290,
+    "posts": 837,
     "cerca": 32,
     "arxiu": 20,
     "contact": 15,
@@ -620,7 +624,7 @@
     "?query-0-page=189": 5,
     "?query-0-page=25": 4,
     "en-us": 4,
-    "tag": 96,
+    "tag": 97,
     "politica-de-cookies": 4,
     "?query-0-page=3": 3,
     "?query-0-page=165": 3,
@@ -782,7 +786,7 @@
     },
     {
       "path": "/2026/09/20/2026-09-19-festa-major-de-verdum-verdum-punkfest",
-      "count": 23
+      "count": 24
     },
     {
       "path": "/2026/09/07/2026-09-06-festival-masimas-2026-el-parallel-oblidat-recordant-a-merche-mar",
@@ -809,11 +813,11 @@
       "count": 14
     },
     {
-      "path": "/2026/09/30/2026-09-29-una-cr%C3%B2nica-per-a-9barrisimatge-andr%C3%A9s-naya-i-els-seus-dos-llibres",
-      "count": 13
+      "path": "/2026/07/06/2026-07-04-24e-festival-de-blues-de-barcelona",
+      "count": 14
     },
     {
-      "path": "/2026/07/06/2026-07-04-24e-festival-de-blues-de-barcelona",
+      "path": "/2026/09/30/2026-09-29-una-cr%C3%B2nica-per-a-9barrisimatge-andr%C3%A9s-naya-i-els-seus-dos-llibres",
       "count": 13
     },
     {
@@ -992,7 +996,7 @@
     {
       "name": "Desconegut",
       "id": "Desconegut",
-      "count": 864
+      "count": 866
     },
     {
       "name": "Google",
@@ -1012,12 +1016,12 @@
     {
       "name": "9barrisimatge.org",
       "id": "9barrisimatge.org",
-      "count": 18
+      "count": 19
     },
     {
       "name": "pocallum.cat",
       "id": "pocallum.cat",
-      "count": 11
+      "count": 12
     },
     {
       "name": "ig",
