@@ -1,10 +1,10 @@
 {
-  "generated": "2026-10-14T23:55:33.752501Z",
+  "generated": "2026-10-15T19:08:30.476760Z",
   "period": {
-    "start": "2025-10-14",
-    "end": "2026-10-14"
+    "start": "2025-10-15",
+    "end": "2026-10-15"
   },
-  "total": 1836,
+  "total": 1841,
   "total_unique": 0,
   "hits_by_day": [
     {
@@ -398,12 +398,16 @@
     {
       "date": "2026-10-13",
       "count": 6
+    },
+    {
+      "date": "2026-10-14",
+      "count": 5
     }
   ],
   "hits": [
     {
       "path": "/",
-      "count": 290
+      "count": 291
     },
     {
       "path": "/2026/07/11/2026-07-11-prospe-beach-again",
@@ -603,8 +607,8 @@
     }
   ],
   "by_section": {
-    "inici": 290,
-    "posts": 837,
+    "inici": 291,
+    "posts": 839,
     "cerca": 32,
     "arxiu": 20,
     "contact": 15,
@@ -622,9 +626,9 @@
     "?query-0-page=8": 5,
     "?query-0-page=186": 5,
     "?query-0-page=189": 5,
+    "tag": 98,
     "?query-0-page=25": 4,
     "en-us": 4,
-    "tag": 97,
     "politica-de-cookies": 4,
     "?query-0-page=3": 3,
     "?query-0-page=165": 3,
@@ -667,6 +671,7 @@
     "?query-0-page=13": 2,
     "?query-0-page=16": 2,
     "?query-0-page=9": 2,
+    "wp-json": 1,
     "__diagnostic_tracking_check__": 1,
     "edit": 1,
     "politica-de-privacidad": 1,
@@ -833,7 +838,7 @@
     {
       "name": "Chrome",
       "id": "Chrome",
-      "count": 1361
+      "count": 1435
     },
     {
       "name": "Safari",
@@ -860,7 +865,7 @@
     {
       "name": "macOS",
       "id": "macOS",
-      "count": 660
+      "count": 728
     },
     {
       "name": "Linux",
@@ -870,7 +875,7 @@
     {
       "name": "Android",
       "id": "Android",
-      "count": 258
+      "count": 259
     },
     {
       "name": "iOS",
@@ -880,7 +885,7 @@
     {
       "name": "Windows",
       "id": "Windows",
-      "count": 233
+      "count": 238
     },
     {
       "name": "Desconegut",
@@ -892,22 +897,22 @@
     {
       "name": "desktop",
       "id": "desktop",
-      "count": 895
+      "count": 899
     },
     {
       "name": "phone",
       "id": "phone",
-      "count": 498
+      "count": 499
     },
     {
       "name": "desktophd",
       "id": "desktophd",
-      "count": 413
+      "count": 481
     },
     {
       "name": "tablet",
       "id": "tablet",
-      "count": 33
+      "count": 34
     },
     {
       "name": "unknown",
@@ -919,12 +924,12 @@
     {
       "name": "Spain",
       "id": "ES",
-      "count": 1160
+      "count": 1229
     },
     {
       "name": "United States",
       "id": "US",
-      "count": 381
+      "count": 385
     },
     {
       "name": "Singapore",
@@ -996,7 +1001,7 @@
     {
       "name": "Desconegut",
       "id": "Desconegut",
-      "count": 866
+      "count": 869
     },
     {
       "name": "Google",
