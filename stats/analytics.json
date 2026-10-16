@@ -1,10 +1,10 @@
 {
-  "generated": "2026-10-15T22:19:09.270212Z",
+  "generated": "2026-10-16T01:21:46.754277Z",
   "period": {
-    "start": "2025-10-15",
-    "end": "2026-10-15"
+    "start": "2025-10-16",
+    "end": "2026-10-16"
   },
-  "total": 1841,
+  "total": 1919,
   "total_unique": 0,
   "hits_by_day": [
     {
@@ -402,12 +402,16 @@
     {
       "date": "2026-10-14",
       "count": 5
+    },
+    {
+      "date": "2026-10-15",
+      "count": 78
     }
   ],
   "hits": [
     {
       "path": "/",
-      "count": 291
+      "count": 293
     },
     {
       "path": "/2026/07/11/2026-07-11-prospe-beach-again",
@@ -415,11 +419,11 @@
     },
     {
       "path": "/2026/07/26/2026-07-25-una-jornada-amb-els-barcelona-gipsy-balkan-orchestra",
-      "count": 43
+      "count": 45
     },
     {
       "path": "/cerca",
-      "count": 32
+      "count": 33
     },
     {
       "path": "/2026/08/19/2026-08-18-isadora-passos-suspensio-capilar",
@@ -491,7 +495,7 @@
     },
     {
       "path": "/2026/09/04/2026-09-04-lanomala",
-      "count": 11
+      "count": 12
     },
     {
       "path": "/2024/02/22/sessio-amb-la-ballarina-nahomi-itzel",
@@ -607,9 +611,9 @@
     }
   ],
   "by_section": {
-    "inici": 291,
-    "posts": 839,
-    "cerca": 32,
+    "inici": 293,
+    "posts": 898,
+    "cerca": 33,
     "arxiu": 20,
     "contact": 15,
     "about": 14,
@@ -617,7 +621,7 @@
     "page": 50,
     "blog.pocallum.cat": 24,
     "?query-0-page=2": 9,
-    "category": 188,
+    "category": 189,
     "?query-0-page=10": 5,
     "?query-0-page=191": 5,
     "?query-0-page=188": 5,
@@ -626,7 +630,7 @@
     "?query-0-page=8": 5,
     "?query-0-page=186": 5,
     "?query-0-page=189": 5,
-    "tag": 98,
+    "tag": 112,
     "?query-0-page=25": 4,
     "en-us": 4,
     "politica-de-cookies": 4,
@@ -671,7 +675,7 @@
     "?query-0-page=13": 2,
     "?query-0-page=16": 2,
     "?query-0-page=9": 2,
-    "wp-json": 1,
+    "wp-json": 2,
     "__diagnostic_tracking_check__": 1,
     "edit": 1,
     "politica-de-privacidad": 1,
@@ -779,7 +783,7 @@
     },
     {
       "path": "/2026/07/26/2026-07-25-una-jornada-amb-els-barcelona-gipsy-balkan-orchestra",
-      "count": 43
+      "count": 45
     },
     {
       "path": "/2026/08/19/2026-08-18-isadora-passos-suspensio-capilar",
@@ -831,7 +835,7 @@
     },
     {
       "path": "/2026/09/04/2026-09-04-lanomala",
-      "count": 11
+      "count": 12
     }
   ],
   "browsers": [
@@ -1001,12 +1005,12 @@
     {
       "name": "Desconegut",
       "id": "Desconegut",
-      "count": 869
+      "count": 873
     },
     {
       "name": "Google",
       "id": "Google",
-      "count": 107
+      "count": 108
     },
     {
       "name": "www.9barrisimatge.org",
