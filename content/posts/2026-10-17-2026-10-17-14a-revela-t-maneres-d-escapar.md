@@ -66,3 +66,5 @@ Finalment, no hem hagut de córrer ni hem tingut cap problema important. Tots he
 Com a darrer apunt, vull felicitar l’organització per la flexibilitat a l’hora d’adaptar espais i activitats a ubicacions més convenients davant l’amenaça de tempestes fortes. I, sí, soc un pesat, Pep: també vull destacar la millora significativa del diari-catàleg. Encara és lluny dels primers catàlegs clàssics en forma de llibre, però ara té un paper molt millor que en les edicions passades.
 
 Gràcies i llarga vida al Revela’t!
+
+_Fotografia de portada és d'en Juan Manuel Castro Prieto_
