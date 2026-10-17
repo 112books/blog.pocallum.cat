@@ -1,10 +1,10 @@
 {
-  "generated": "2026-10-16T23:36:44.844785Z",
+  "generated": "2026-10-17T04:27:34.577958Z",
   "period": {
-    "start": "2025-10-16",
-    "end": "2026-10-16"
+    "start": "2025-10-17",
+    "end": "2026-10-17"
   },
-  "total": 1919,
+  "total": 1934,
   "total_unique": 0,
   "hits_by_day": [
     {
@@ -406,12 +406,20 @@
     {
       "date": "2026-10-15",
       "count": 78
+    },
+    {
+      "date": "2026-10-16",
+      "count": 11
+    },
+    {
+      "date": "2026-10-17",
+      "count": 4
     }
   ],
   "hits": [
     {
       "path": "/",
-      "count": 293
+      "count": 295
     },
     {
       "path": "/2026/07/11/2026-07-11-prospe-beach-again",
@@ -518,6 +526,10 @@
       "count": 9
     },
     {
+      "path": "/2026/10/09/2026-10-08-renovaci%C3%B3-de-lart-urb%C3%A0-a-la-nau-bostik",
+      "count": 8
+    },
+    {
       "path": "/2026/10/05/2026-09-26-dinar-de-comiat-de-leli-companya-de-la-nau-bostik.-shes-gone",
       "count": 8
     },
@@ -530,8 +542,8 @@
       "count": 8
     },
     {
-      "path": "/2026/10/09/2026-10-08-renovaci%C3%B3-de-lart-urb%C3%A0-a-la-nau-bostik",
-      "count": 7
+      "path": "/2026/06/28/2026-06-27-44a-la-cultura-va-de-festa",
+      "count": 8
     },
     {
       "path": "/page/3",
@@ -543,10 +555,6 @@
     },
     {
       "path": "/2026/04/08/superheadz-digital-harinezumila-magia-low-fi",
-      "count": 7
-    },
-    {
-      "path": "/2026/06/28/2026-06-27-44a-la-cultura-va-de-festa",
       "count": 7
     },
     {
@@ -611,8 +619,8 @@
     }
   ],
   "by_section": {
-    "inici": 293,
-    "posts": 898,
+    "inici": 295,
+    "posts": 904,
     "cerca": 33,
     "arxiu": 20,
     "contact": 15,
@@ -630,7 +638,7 @@
     "?query-0-page=8": 5,
     "?query-0-page=186": 5,
     "?query-0-page=189": 5,
-    "tag": 112,
+    "tag": 115,
     "?query-0-page=25": 4,
     "en-us": 4,
     "politica-de-cookies": 4,
@@ -648,6 +656,7 @@
     "?query-0-page=12": 3,
     "?query-0-page=11": 3,
     "categories": 2,
+    "blog": 2,
     "?query-0-page=134": 2,
     "?query-0-page=64": 2,
     "?query-0-page=149": 2,
@@ -675,12 +684,11 @@
     "?query-0-page=13": 2,
     "?query-0-page=16": 2,
     "?query-0-page=9": 2,
-    "wp-json": 2,
+    "wp-json": 5,
     "__diagnostic_tracking_check__": 1,
     "edit": 1,
     "politica-de-privacidad": 1,
     "Admin": 1,
-    "blog": 1,
     "test-diagnostic-claude": 1,
     "?s=Boi": 1,
     "?s=Taull": 1,
@@ -842,12 +850,12 @@
     {
       "name": "Chrome",
       "id": "Chrome",
-      "count": 1450
+      "count": 1451
     },
     {
       "name": "Safari",
       "id": "Safari",
-      "count": 375
+      "count": 376
     },
     {
       "name": "Firefox",
@@ -879,12 +887,12 @@
     {
       "name": "Android",
       "id": "Android",
-      "count": 263
+      "count": 264
     },
     {
       "name": "iOS",
       "id": "iOS",
-      "count": 256
+      "count": 257
     },
     {
       "name": "Windows",
@@ -906,7 +914,7 @@
     {
       "name": "phone",
       "id": "phone",
-      "count": 506
+      "count": 508
     },
     {
       "name": "desktophd",
@@ -928,7 +936,7 @@
     {
       "name": "Spain",
       "id": "ES",
-      "count": 1243
+      "count": 1245
     },
     {
       "name": "United States",
@@ -1005,12 +1013,12 @@
     {
       "name": "Desconegut",
       "id": "Desconegut",
-      "count": 873
+      "count": 877
     },
     {
       "name": "Google",
       "id": "Google",
-      "count": 108
+      "count": 112
     },
     {
       "name": "www.9barrisimatge.org",
@@ -1025,7 +1033,7 @@
     {
       "name": "9barrisimatge.org",
       "id": "9barrisimatge.org",
-      "count": 19
+      "count": 21
     },
     {
       "name": "pocallum.cat",
