@@ -31,7 +31,7 @@ A més de tota la passió que desperta fixar la llum en un suport físic, tinc l
 
 A les nou del matí ja hem quedat amb la **Jud** i en **Manel**, els polissons que, per contribuir a la sostenibilitat del clima, aprofitem les places del seu cotxe. Aquesta vegada, però, anem més ben preparats per si la pluja ens vol aigualir la festa. Al bar on fem el cafè abans de sortir també hi han arribat l’**Òscar Ciutat** i la **Lola Ortega** que avui he tingut el plaer de conèixer. Un cop fet el recompte d’assistents, hem anat cap al cotxe, que el nostre conductor d’avui ja tenia ben aparcat just davant d’on érem. _Yeah!_
 
-## **Arribar i moldre!**
+### **Arribar i moldre!**
 
 Després de tants anys d’anar-hi —penso que no m’he perdut cap edició—, ja sabem una mica on aparcar, on fer un mos i on comprar les entrades. Ens hem dirigit cap a **Can Garbat**, on hi ha el gruix més important de les exposicions.
 
