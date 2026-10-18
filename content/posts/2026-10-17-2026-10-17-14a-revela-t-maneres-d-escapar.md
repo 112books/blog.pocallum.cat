@@ -55,6 +55,8 @@ Després, per «culpa» de la [Lola Ortega](https://www.instagram.com/madifrak),
 
 Després del cafè de rigor, he pogut conversar una estona amb Castro Prieto, que un dia vaig tenir de professor de laboratori. Ha estat molt important per a mi: l’admiro molt i, sens dubte, és un dels principals culpables que faci servir el format 8 × 10.
 
+![Juan Manuel Castro Prieto, el mestre, amb jo (foto Marcelo Aurelio)](/media/castro-prieto.jpeg "Juan Manuel Castro Prieto, el mestre, amb jo (foto Marcelo Aurelio)")
+
 ### La pluja amenaça
 
 Durant la conferència, gairebé de manera còmica, a tots els assistents ens ha sonat alhora la ja coneguda alarma de Protecció Civil. Amb l’Òscar sempre atent al parte, hem decidit aprofitar el temps per veure tantes exposicions com poguéssim, però procurant evitar la tempesta que venia del nord.
