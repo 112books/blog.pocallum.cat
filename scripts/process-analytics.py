@@ -1,5 +1,9 @@
 import json, sys, os, re
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
+
+# Finestres temporals (dies) que el dashboard pot triar a les pestanyes
+# Posts i Pàgines. Han de coincidir amb CFG.listPeriods de static/stats/index.html.
+WINDOWS = (7, 30, 90, 365)
 
 def safe_get(data, key, default=None):
     if data is None:
@@ -56,6 +60,7 @@ def main():
     total       = 0
     hits_by_day = {}
     hits_pages  = {}
+    path_days   = {}   # path -> {dia: visites} (per recalcular rànquings per període)
 
     for path_item in hits_list:
         path     = path_item.get("path", "")
@@ -63,30 +68,53 @@ def main():
         if is_event:
             continue
 
-        section    = extract_section(path)
-        path_total = 0
+        section = extract_section(path)
+        days    = path_days.setdefault(path, {})
 
         for stat in path_item.get("stats", []):
             date  = (stat.get("day") or "")[:10]
             count = stat.get("daily", 0)
             if not count:
                 continue
-            total      += count
-            path_total += count
+            total += count
+            days[date] = days.get(date, 0) + count
             by_section[section] = by_section.get(section, 0) + count
             if date:
                 hits_by_day[date] = hits_by_day.get(date, 0) + count
 
-        if path_total > 0:
-            hits_pages[path] = hits_pages.get(path, 0) + path_total
+        if not days:
+            path_days.pop(path, None)
 
     hits_by_day_list = [{"date": k, "count": v} for k, v in sorted(hits_by_day.items())]
     hits_top = sorted(
-        [{"path": k, "count": v} for k, v in hits_pages.items()],
+        [{"path": k, "count": sum(v.values())} for k, v in path_days.items()],
         key=lambda x: x["count"], reverse=True
     )[:50]
 
-    posts_top = [h for h in hits_top if is_post_path(h['path'])][:15]
+    # Agregats per finestra: el dashboard deixa triar 7/30/90/365 dies a les
+    # pestanyes Posts i Pàgines. Abans només hi havia el total de la finestra
+    # de consulta (365 dies), així que els llistats no podien seguir el període.
+    # Es guarden TOTES les rutes (no només el top 50): així el rànquing de posts
+    # no queda limitat pel top-50 global de pàgines.
+    try:
+        end_dt = datetime.strptime(end_date, "%Y-%m-%d").date()
+    except (TypeError, ValueError):
+        end_dt = datetime.now(timezone.utc).date()
+    cutoffs = {w: (end_dt - timedelta(days=w)).isoformat() for w in WINDOWS}
+
+    hits_windows = []
+    for path, days in path_days.items():
+        row = {"path": path}
+        for w in WINDOWS:
+            row[f"d{w}"] = sum(c for day, c in days.items() if day >= cutoffs[w])
+        hits_windows.append(row)
+    hits_windows.sort(key=lambda r: r.get("d365", 0), reverse=True)
+
+    # Top de posts calculat sobre TOTS els posts, no sobre el top-50 de pàgines.
+    posts_top = [
+        {"path": r["path"], "count": r["d365"]}
+        for r in hits_windows if is_post_path(r["path"])
+    ][:15]
 
     total_data   = safe_get(raw, "total_data") or {}
     total_unique = safe_get(total_data, "total_unique") or 0
@@ -104,6 +132,7 @@ def main():
         "total_unique": total_unique,
         "hits_by_day":  hits_by_day_list,
         "hits":         hits_top,
+        "hits_windows": hits_windows,
         "by_section":   by_section,
         "posts_top":    posts_top,
         "browsers":     norm_items(browsers_raw),
@@ -117,7 +146,8 @@ def main():
     with open(output_file, "w") as f:
         json.dump(output, f, indent=2, ensure_ascii=False)
 
-    print(f"Analytics processats: {total} visites, {len(hits_by_day_list)} dies, {len(posts_top)} posts top")
+    print(f"Analytics processats: {total} visites, {len(hits_by_day_list)} dies, "
+          f"{len(hits_windows)} rutes, {len(posts_top)} posts top")
 
 if __name__ == "__main__":
     main()

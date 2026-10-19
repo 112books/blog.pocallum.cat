@@ -39,6 +39,9 @@
     // Generat per Hugo a cada build (output format "statstitles"):
     // [{p: "/2026/07/11/slug/", t: "Títol real"}, …] — GoatCounter només desa la ruta.
     titlesUrl:    'titles.json',
+    // Períodes dels rànquings de Posts i Pàgines (dies). Han de coincidir amb
+    // WINDOWS de scripts/process-analytics.py, que genera hits_windows.
+    listPeriods:  [7, 30, 90, 365],
     // Primera visita registrada a GoatCounter (data-first-hit-at).
     // Coincideix amb el text de la nota #data-note; si mai canvia, actualitzeu tots dos.
     dataStart:    '2026-07-07',
@@ -290,6 +293,24 @@
     .bar-pct { font-size: 10px; color: #fff; position: absolute; right: 5px; }
     .bar-count { font-size: 12px; color: var(--fg); text-align: right; font-weight: 700; }
 
+    /* ── Selector de període dels llistats ──────────────────── */
+    .list-controls {
+      display: flex;
+      flex-wrap: wrap;
+      gap: .4rem;
+      align-items: center;
+      margin: 0 0 1.2rem;
+    }
+    .list-controls-label {
+      font-size: 10px;
+      letter-spacing: .16em;
+      text-transform: uppercase;
+      color: var(--mid);
+      margin-right: .2rem;
+    }
+    .list-controls-note { font-size: 11px; color: var(--mid); }
+    .list-controls + .section-title { margin-top: 0; }
+
     /* ── Bars amb títol llegible (posts i pàgines) ──────────── */
     /* El títol té tota l'amplada i fa salt de línia; la barra va a
        sota. Així els títols llargs es llegeixen sencers (abans
@@ -482,6 +503,15 @@
 
     <!-- TAB: Posts -->
     <div id="tab-contingut" class="tab-panel">
+      <div class="list-controls" id="list-controls-posts">
+        <span class="list-controls-label">Període</span>
+        <button type="button" class="period-btn list-period-btn" data-days="7">7d</button>
+        <button type="button" class="period-btn list-period-btn" data-days="30">30d</button>
+        <button type="button" class="period-btn list-period-btn" data-days="90">3m</button>
+        <button type="button" class="period-btn list-period-btn active" data-days="365">1a</button>
+        <span class="list-controls-note" id="list-note-posts"></span>
+      </div>
+
       <h2 class="section-title">Posts més llegits</h2>
       <div id="posts-wrap" class="bars"></div>
 
@@ -491,13 +521,22 @@
 
     <!-- TAB: Pàgines -->
     <div id="tab-pagines" class="tab-panel">
+      <div class="list-controls" id="list-controls-pages">
+        <span class="list-controls-label">Període</span>
+        <button type="button" class="period-btn list-period-btn" data-days="7">7d</button>
+        <button type="button" class="period-btn list-period-btn" data-days="30">30d</button>
+        <button type="button" class="period-btn list-period-btn" data-days="90">3m</button>
+        <button type="button" class="period-btn list-period-btn active" data-days="365">1a</button>
+        <span class="list-controls-note" id="list-note-pages"></span>
+      </div>
+
       <h2 class="section-title">Totes les pàgines top</h2>
       <div id="pages-wrap" class="bars"></div>
 
-      <h2 class="section-title">D'on vénen les visites</h2>
+      <h2 class="section-title">D'on vénen les visites · 12 mesos</h2>
       <div id="refs-wrap" class="bars"></div>
 
-      <h2 class="section-title">Localització</h2>
+      <h2 class="section-title">Localització · 12 mesos</h2>
       <div id="locations-wrap" class="bars"></div>
 
       <div id="insight-pagines" class="insight" style="display:none">
@@ -547,14 +586,20 @@ let globalData = null;
 let visitsChart = null;
 let chartPeriodDays = 7;
 let chartGroup = 'day';
+let listPeriodDays = 365;   // període dels rànquings de Posts i Pàgines (dies)
+let globalSeries = null;    // [{path, w:{7,30,90,365}}] — ve de data.hits_windows
 
-document.querySelectorAll('.period-btn').forEach(btn => {
+document.querySelectorAll('.chart-controls .period-btn').forEach(btn => {
   btn.addEventListener('click', () => {
     chartPeriodDays = parseInt(btn.dataset.days, 10);
-    document.querySelectorAll('.period-btn').forEach(b => b.classList.remove('active'));
+    document.querySelectorAll('.chart-controls .period-btn').forEach(b => b.classList.remove('active'));
     btn.classList.add('active');
     if (globalData) renderChart(globalData);
   });
+});
+
+document.querySelectorAll('.list-period-btn').forEach(btn => {
+  btn.addEventListener('click', () => setListPeriod(parseInt(btn.dataset.days, 10)));
 });
 document.querySelectorAll('.group-btn').forEach(btn => {
   btn.addEventListener('click', () => {
@@ -611,6 +656,12 @@ function renderAll(data) {
     : '–';
   document.getElementById('topbar-gen').innerHTML = 'Actualitzat: <strong>' + gen + '</strong>';
 
+  // Rànquings de Posts/Pàgines: es calculen al navegador a partir de
+  // data.hits_windows perquè puguin seguir el selector de període. Si el JSON
+  // encara no porta hits_windows, es fa servir el total de 365 dies del pipeline.
+  globalSeries = normalizeSeries(data);
+  syncListControls();
+
   renderChart(data);
   renderPosts(data);
   renderSections(data);
@@ -624,11 +675,7 @@ function renderAll(data) {
   renderInsightPagines(data);
   renderInsightDispositius(data);
 
-  requestAnimationFrame(() => {
-    document.querySelectorAll('[data-w]').forEach(el => {
-      el.style.width = el.dataset.w + '%';
-    });
-  });
+  applyBarWidths();
 }
 
 /* ══ CHART.JS ════════════════════════════════════════════════ */
@@ -777,9 +824,72 @@ function pathLabel(path) {
   return rest ? head + ' · ' + rest : head;
 }
 
+/* ══ RÀNQUINGS PER PERÍODE (Posts i Pàgines) ═════════════════ */
+/* El pipeline desa hits_windows = [{path, d7, d30, d90, d365}] amb TOTES les
+   rutes. Així els rànquings es recalculen al navegador segons el període triat
+   i els posts no queden limitats pel top-50 global de pàgines. */
+function isPostPath(path) { return /^\/\d{4}\/\d{2}\/\d{2}\//.test(path || ''); }
+
+function extractSection(path) {
+  const p = String(path || '');
+  if (!p || p === '/') return 'inici';
+  if (isPostPath(p)) return 'posts';
+  const parts = p.replace(/^\/|\/$/g, '').split('/').filter(Boolean);
+  return parts[0] || 'inici';
+}
+
+function normalizeSeries(data) {
+  const rows = data && data.hits_windows;
+  if (!Array.isArray(rows) || !rows.length) return null;
+  return rows.map(r => {
+    const w = {};
+    CFG.listPeriods.forEach(d => { w[d] = r['d' + d] || 0; });
+    return { path: r.path, w };
+  });
+}
+
+function seriesTop(days, filterFn, limit) {
+  if (!globalSeries) return null;
+  const out = [];
+  globalSeries.forEach(r => {
+    if (filterFn && !filterFn(r.path)) return;
+    const c = r.w[days] || 0;
+    if (c > 0) out.push({ path: r.path, count: c });
+  });
+  out.sort((a, b) => b.count - a.count);
+  return out.slice(0, limit);
+}
+
+function applyBarWidths() {
+  requestAnimationFrame(() => {
+    document.querySelectorAll('[data-w]').forEach(el => { el.style.width = el.dataset.w + '%'; });
+  });
+}
+
+function syncListControls() {
+  document.querySelectorAll('.list-period-btn').forEach(b => {
+    b.classList.toggle('active', parseInt(b.dataset.days, 10) === listPeriodDays);
+  });
+  const note = globalSeries ? '' : 'encara no disponible — el proper informe horari l\'activarà';
+  setText('list-note-posts', note);
+  setText('list-note-pages', note);
+}
+
+function setListPeriod(days) {
+  listPeriodDays = days;
+  syncListControls();
+  if (!globalData) return;
+  renderPosts(globalData);
+  renderSections(globalData);
+  renderPages(globalData);
+  applyBarWidths();
+}
+
 /* ══ POSTS / CONTINGUT TAB ═══════════════════════════════════ */
 function renderPosts(data) {
-  const posts = (data.posts_top || []).map(h => ({
+  const ranked = seriesTop(listPeriodDays, isPostPath, 15);
+  const base   = ranked || (data.posts_top || []).map(h => ({ path: h.path, count: h.count }));
+  const posts  = base.map(h => ({
     name: postLabel(h.path), hint: h.path, date: postDate(h.path), count: h.count, href: h.path,
   }));
   renderBars('posts-wrap', posts, { withLinks: true, colorClass: 'ink2', wide: true });
@@ -790,16 +900,29 @@ function renderPosts(data) {
 }
 
 function renderSections(data) {
-  const sections = data.by_section || {};
-  const items = Object.entries(sections)
-    .map(([k,v]) => ({ name: CFG.sectionNames[k] || k, count: v }))
-    .sort((a,b) => b.count - a.count);
+  let items;
+  if (globalSeries) {
+    // Les seccions es deriven de la ruta, així que també poden seguir el període.
+    const acc = {};
+    globalSeries.forEach(r => {
+      const c = r.w[listPeriodDays] || 0;
+      if (!c) return;
+      const s = extractSection(r.path);
+      acc[s] = (acc[s] || 0) + c;
+    });
+    items = Object.entries(acc).map(([k,v]) => ({ name: CFG.sectionNames[k] || k, count: v }));
+  } else {
+    items = Object.entries(data.by_section || {})
+      .map(([k,v]) => ({ name: CFG.sectionNames[k] || k, count: v }));
+  }
+  items.sort((a,b) => b.count - a.count);
   renderBars('sections-wrap', items);
 }
 
 /* ══ PÀGINES TAB ═════════════════════════════════════════════ */
 function renderPages(data) {
-  const hits = (data.hits || []).slice(0, 20);
+  const ranked = seriesTop(listPeriodDays, null, 20);
+  const hits   = ranked || (data.hits || []).slice(0, 20).map(h => ({ path: h.path, count: h.count }));
   const items = hits.map(h => ({
     name: pathLabel(h.path), hint: h.path, date: postDate(h.path), count: h.count, href: h.path,
   }));
@@ -1147,17 +1270,6 @@ async function fetchLiveData(token) {
 }
 
 function processLiveData(raw, start, end) {
-  function isPostPath(path) {
-    return /^\/\d{4}\/\d{2}\/\d{2}\//.test(path);
-  }
-
-  function extractSection(path) {
-    if (!path || path === '/') return 'inici';
-    if (isPostPath(path)) return 'posts';
-    const parts = path.replace(/^\/|\/$/g,'').split('/').filter(Boolean);
-    return parts[0] || 'inici';
-  }
-
   function normItems(src) {
     if (!src) return [];
     const list = Array.isArray(src) ? src : (src.stats || []);
@@ -1171,7 +1283,7 @@ function processLiveData(raw, start, end) {
   }
 
   const hitsList = (raw.hits && raw.hits.hits) || [];
-  const bySection = {}, hitsByDay = {}, hitsPages = {};
+  const bySection = {}, hitsByDay = {}, pathDays = {};
   let total = 0;
 
   hitsList.forEach(item => {
@@ -1179,26 +1291,37 @@ function processLiveData(raw, start, end) {
     if (item.event) return;
 
     const section = extractSection(path);
-    let pathTotal = 0;
+    const days    = pathDays[path] || (pathDays[path] = {});
 
     (item.stats || []).forEach(s => {
       const date  = (s.day || '').slice(0, 10);
       const count = s.daily || 0;
       if (!count) return;
-      total       += count;
-      pathTotal   += count;
+      total += count;
+      days[date] = (days[date] || 0) + count;
       bySection[section] = (bySection[section] || 0) + count;
       if (date) hitsByDay[date] = (hitsByDay[date] || 0) + count;
     });
 
-    if (pathTotal > 0) hitsPages[path] = (hitsPages[path] || 0) + pathTotal;
+    if (!Object.keys(days).length) delete pathDays[path];
   });
 
   const hitsByDayList = Object.entries(hitsByDay).sort().map(([date,count]) => ({ date, count }));
-  const hitsTop = Object.entries(hitsPages)
-    .map(([path,count]) => ({ path, count }))
-    .sort((a,b) => b.count - a.count).slice(0, 50);
-  const postsTop = hitsTop.filter(h => isPostPath(h.path)).slice(0, 15);
+
+  // Mateix format que el pipeline: totes les rutes amb els agregats 7/30/90/365.
+  const cutoffs = {};
+  CFG.listPeriods.forEach(d => { cutoffs[d] = daysAgo(d); });
+  const hitsWindows = Object.entries(pathDays).map(([path, days]) => {
+    const row = { path };
+    CFG.listPeriods.forEach(d => {
+      row['d' + d] = Object.entries(days).reduce((s, [day, c]) => day >= cutoffs[d] ? s + c : s, 0);
+    });
+    return row;
+  }).sort((a, b) => b.d365 - a.d365);
+
+  const hitsTop  = hitsWindows.slice(0, 50).map(r => ({ path: r.path, count: r.d365 }));
+  const postsTop = hitsWindows.filter(r => isPostPath(r.path)).slice(0, 15)
+    .map(r => ({ path: r.path, count: r.d365 }));
 
   return {
     generated:    new Date().toISOString(),
@@ -1207,6 +1330,7 @@ function processLiveData(raw, start, end) {
     total_unique: (raw.total && raw.total.total_unique) || 0,
     hits_by_day:  hitsByDayList,
     hits:         hitsTop,
+    hits_windows: hitsWindows,
     by_section:   bySection,
     posts_top:    postsTop,
     browsers:     normItems(raw.browsers),
