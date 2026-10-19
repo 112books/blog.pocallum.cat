@@ -67,6 +67,19 @@
 
 {{/* ── Imatge OG ── */}}
 {{- $ogImage := or .Params.thumbnail .Params.image (site.Home.Params.imatgeFons) .Site.Params.defaultOgImage -}}
+{{- $ogDim := "" -}}
+{{- with (index site.Data.imatges_dim $ogImage) -}}{{- $ogDim = . -}}{{- end -}}
+{{- if and $ogImage (strings.HasPrefix $ogImage "/media/") -}}
+  {{- /* Les fotos pujades pel CMS són originals de 5-9 MB i 5000+ px: WhatsApp,
+        Facebook i X no se les baixen i el preview queda sense foto. Els
+        workflows generen un derivat de 1200 px (-og.jpg) abans del build; si hi
+        és, s'anuncia aquest en lloc de l'original. */ -}}
+  {{- $og12 := replaceRE `\.(jpe?g|png)$` "-og.jpg" $ogImage -}}
+  {{- if os.FileExists (printf "static%s" $og12) -}}
+    {{- $ogImage = $og12 -}}
+    {{- with $ogDim -}}{{- $ogDim = (slice 1200 (div (mul (index . 1) 1200) (index . 0))) -}}{{- end -}}
+  {{- end -}}
+{{- end -}}
 {{- if and $ogImage (not (strings.HasPrefix $ogImage "http")) -}}{{- $ogImage = $ogImage | absURL -}}{{- end -}}
 
 {{/* ── Open Graph ── */}}
@@ -79,10 +92,6 @@
 <meta property="og:url" content="{{ .Permalink }}">
 <meta property="og:image" content="{{ $ogImage }}">
 <meta property="og:image:alt" content="{{ $titleSEO }}">
-{{- $ogDim := "" -}}
-{{- range (slice .Params.thumbnail .Params.image site.Home.Params.imatgeFons .Site.Params.defaultOgImage) -}}
-  {{- if and (not $ogDim) . -}}{{- with (index site.Data.imatges_dim .) -}}{{- $ogDim = . -}}{{- end -}}{{- end -}}
-{{- end -}}
 {{- with $ogDim }}
 <meta property="og:image:width" content="{{ index . 0 }}">
 <meta property="og:image:height" content="{{ index . 1 }}">

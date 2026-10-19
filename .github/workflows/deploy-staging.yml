@@ -28,7 +28,7 @@ jobs:
           tar -xzf hugo_extended_0.164.0_linux-amd64.tar.gz
           sudo mv hugo /usr/local/bin/
 
-      - name: Genera WebP de static/media (si cal)
+      - name: Genera WebP i derivada og (1200 px) de static/media (si cal)
         continue-on-error: true
         run: |
           sudo apt-get update -qq && sudo apt-get install -y -qq webp imagemagick
@@ -51,7 +51,14 @@ jobs:
                       cmd += ["-resize", str(cap), "0"]
                   cmd += [src, "-o", out]
                   subprocess.run(cmd, check=False)
-          print("WebP de static/media a punt")
+              # Derivada per a og:image: les xarxes socials no baixen originals
+              # de 5-9 MB i el preview del link quedava sense foto (seo.html
+              # anuncia aquest fitxer si existeix).
+              og = base + "-og.jpg"
+              if (not os.path.isfile(og)) or os.path.getmtime(og) < os.path.getmtime(src):
+                  subprocess.run(["convert", src, "-auto-orient", "-resize", "1200x>",
+                                  "-quality", "82", "-strip", "-interlace", "Plane", og], check=False)
+          print("WebP i derivada og de static/media a punt")
           PY
 
       - name: Build Hugo (staging, amb drafts, imatges apuntant al servidor)
