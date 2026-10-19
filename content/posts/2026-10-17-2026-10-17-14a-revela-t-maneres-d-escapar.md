@@ -1,6 +1,6 @@
 ---
 title: "2026-10-17 - 14a Revela't: Maneres d'escapar"
-date: 2026-10-18T0:00:00+02:00
+date: 2026-10-17T0:00:00+02:00
 slug: ''
 categories:
   - fuji-x-pro1
