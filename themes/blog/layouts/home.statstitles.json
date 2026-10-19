@@ -1,0 +1,7 @@
+{{- /*
+  /stats/titles.json — mapa path → títol per al dashboard d'estadístiques.
+  El dashboard (/stats/) rep de GoatCounter només la URL; amb aquest índex pot
+  mostrar el títol real del post en lloc del slug. Format: [{p: path, t: títol}]
+  Es regenera a cada build, així que sempre va al dia.
+*/ -}}
+[{{ range $i, $p := site.RegularPages }}{{ if $i }},{{ end }}{"p":{{ $p.RelPermalink | jsonify }},"t":{{ $p.Title | jsonify }}}{{ end }}]

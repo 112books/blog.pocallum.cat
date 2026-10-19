@@ -14,7 +14,7 @@ defaultContentLanguage = "ca"
   pagerSize = 12   # com el WordPress actual (2.353 posts / 197 pàgines)
 
 [outputs]
-  home    = ["HTML", "RSS", "llms", "llmsfull"]
+  home    = ["HTML", "RSS", "llms", "llmsfull", "statstitles"]
   section = ["HTML", "RSS"]
   taxonomy = ["HTML"]
 
@@ -29,6 +29,13 @@ defaultContentLanguage = "ca"
     baseName   = "llms-full"  # genera /llms-full.txt — índex complet per a agents d'IA
     mediaType  = "text/plain"
     isPlainText = true
+  [outputFormats.statstitles]
+    # /stats/titles.json — mapa path → títol per al dashboard d'estadístiques
+    mediaType  = "application/json"
+    baseName   = "titles"
+    path       = "stats"
+    isPlainText = true
+    notAlternative = true
 
 [taxonomies]
   category = "categories"
