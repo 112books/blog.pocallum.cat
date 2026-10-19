@@ -36,6 +36,9 @@
     siteName:     'blog.pocallum.cat',
     gcUrl:        'https://pocallum-blog.goatcounter.com',
     dataUrl:      'analytics.json',
+    // Generat per Hugo a cada build (output format "statstitles"):
+    // [{p: "/2026/07/11/slug/", t: "Títol real"}, …] — GoatCounter només desa la ruta.
+    titlesUrl:    'titles.json',
     // Primera visita registrada a GoatCounter (data-first-hit-at).
     // Coincideix amb el text de la nota #data-note; si mai canvia, actualitzeu tots dos.
     dataStart:    '2026-07-07',
@@ -44,6 +47,9 @@
       "posts":      "Posts",
       "categories": "Categories",
       "tags":       "Etiquetes",
+      "tag":        "Etiqueta",
+      "category":   "Categoria",
+      "page":       "Pàgina",
       "arxiu":      "Arxiu",
       "cerca":      "Cerca",
       "about":      "About",
@@ -284,6 +290,41 @@
     .bar-pct { font-size: 10px; color: #fff; position: absolute; right: 5px; }
     .bar-count { font-size: 12px; color: var(--fg); text-align: right; font-weight: 700; }
 
+    /* ── Bars amb títol llegible (posts i pàgines) ──────────── */
+    /* El títol té tota l'amplada i fa salt de línia; la barra va a
+       sota. Així els títols llargs es llegeixen sencers (abans
+       quedaven tallats amb "…" en una columna de 160px). */
+    .bars-wide { gap: 0; }
+    .bars-wide .bar-row {
+      grid-template-columns: 1fr auto;
+      grid-template-areas: "label count" "track track";
+      row-gap: .3rem;
+      align-items: baseline;
+      padding: .6rem 0;
+      border-bottom: 1px solid var(--line);
+    }
+    .bars-wide .bar-row:last-child { border-bottom: none; }
+    .bars-wide .bar-label {
+      grid-area: label;
+      white-space: normal;
+      overflow: visible;
+      text-overflow: clip;
+      text-align: left;
+      color: var(--fg);
+      font-size: 13px;
+      line-height: 1.35;
+      overflow-wrap: anywhere;
+    }
+    .bars-wide .bar-date {
+      color: var(--mid);
+      font-size: 11px;
+      letter-spacing: .04em;
+      margin-right: .55rem;
+      font-variant-numeric: tabular-nums;
+    }
+    .bars-wide .bar-count { grid-area: count; align-self: start; }
+    .bars-wide .bar-track { grid-area: track; height: 18px; }
+
     /* ── Dies de la setmana ──────────────────────────────────── */
     .weekday-stack { display: flex; height: 26px; overflow: hidden; border: 1px solid var(--line); background: var(--bg2); margin-bottom: 1rem; }
     .weekday-seg { height: 100%; min-width: 2px; transition: width .9s cubic-bezier(.4,0,.2,1); }
@@ -337,6 +378,7 @@
       .topbar { padding: .6rem 1rem; }
       .bar-row { grid-template-columns: 90px 1fr 40px; gap: .5rem; }
       .bar-label { font-size: 11px; }
+      .bars-wide .bar-label { font-size: 12px; }
     }
     @media (max-width: 480px) {
       .tabs { overflow-x: auto; }
@@ -531,6 +573,7 @@ async function loadData() {
     if (!r.ok) throw new Error('No s\'ha pogut carregar analytics.json (codi ' + r.status + ')');
     const data = await r.json();
     if (!data || !data.generated) throw new Error('analytics.json buit — el workflow encara no ha corregut');
+    await loadTitles();
     globalData = data;
     clearBanner();
     renderAll(data);
@@ -678,14 +721,68 @@ function groupHits(days, groupBy) {
   }));
 }
 
+/* ══ TÍTOLS DELS POSTS I PÀGINES ═════════════════════════════ */
+/* GoatCounter només ens dóna la ruta. /stats/titles.json (generat per
+   Hugo a cada build) hi afegeix el títol real; si no hi és o encara no
+   s'ha carregat, es reconstrueix una etiqueta llegible a partir del slug. */
+const titles = { map: null, promise: null };
+const normPath = p => String(p == null ? '' : p).trim().replace(/\/+$/, '') || '/';
+
+function loadTitles() {
+  if (!titles.promise) {
+    titles.promise = fetch(CFG.titlesUrl + '?t=' + Date.now())
+      .then(r => r.ok ? r.json() : [])
+      .then(list => {
+        titles.map = new Map((Array.isArray(list) ? list : []).map(o => [normPath(o.p), o.t]));
+        return titles.map;
+      })
+      .catch(() => { titles.map = new Map(); return titles.map; });
+  }
+  return titles.promise;
+}
+
+function titleOf(path) {
+  const t = titles.map && titles.map.get(normPath(path));
+  return t ? String(t) : '';
+}
+function decodeSafe(s) { try { return decodeURIComponent(s); } catch (e) { return s; } }
+function prettify(s) {
+  const t = decodeSafe(String(s == null ? '' : s)).replace(/[-_]+/g, ' ').replace(/\s+/g, ' ').trim();
+  return t ? t.charAt(0).toUpperCase() + t.slice(1) : '';
+}
+/* Títol del post. La data del títol es treu (ja surt a la ruta). */
+function postLabel(path) {
+  const t = titleOf(path);
+  if (t) return t.replace(/^\d{4}-\d{2}-\d{2}\s*(?:[-–—:·]\s*)?/, '') || t;
+  const parts = normPath(path).split('/').filter(Boolean);
+  const slug = (parts.pop() || '').replace(/^\d{4}-\d{2}-\d{2}-?/, '');
+  return prettify(slug) || normPath(path);
+}
+/* Data de la ruta d'un post (/AAAA/MM/DD/…). Buid si no és un post. */
+function postDate(path) {
+  const m = normPath(path).match(/^\/(\d{4})\/(\d{2})\/(\d{2})\//);
+  return m ? m[1] + '-' + m[2] + '-' + m[3] : '';
+}
+
+/* Etiqueta d'una pàgina o arxiu: títol real, o ruta llegible. */
+function pathLabel(path) {
+  const key = normPath(path);
+  if (key === '/') return 'Inici';
+  if (/^\/\d{4}\/\d{2}\/\d{2}\//.test(key)) return postLabel(key);
+  const t = titleOf(key);
+  if (t) return t;
+  const parts = key.split('/').filter(Boolean);
+  const head = CFG.sectionNames[parts[0]] || prettify(parts[0]);
+  const rest = parts.slice(1).map(prettify).join(' · ');
+  return rest ? head + ' · ' + rest : head;
+}
+
 /* ══ POSTS / CONTINGUT TAB ═══════════════════════════════════ */
 function renderPosts(data) {
-  const posts = (data.posts_top || []).map(h => {
-    const parts = h.path.replace(/\/$/, '').split('/');
-    const slug = parts[parts.length - 1];
-    return { name: slug.replace(/-/g, ' '), count: h.count, href: h.path };
-  });
-  renderBars('posts-wrap', posts, { withLinks: true, colorClass: 'ink2' });
+  const posts = (data.posts_top || []).map(h => ({
+    name: postLabel(h.path), hint: h.path, date: postDate(h.path), count: h.count, href: h.path,
+  }));
+  renderBars('posts-wrap', posts, { withLinks: true, colorClass: 'ink2', wide: true });
   if (!posts.length) {
     document.getElementById('posts-wrap').innerHTML =
       '<span class="empty">Sense dades — els posts apareixeran aquí a mesura que arribin visites.</span>';
@@ -703,8 +800,10 @@ function renderSections(data) {
 /* ══ PÀGINES TAB ═════════════════════════════════════════════ */
 function renderPages(data) {
   const hits = (data.hits || []).slice(0, 20);
-  const items = hits.map(h => ({ name: h.path, count: h.count, href: h.path }));
-  renderBars('pages-wrap', items, { withLinks: true, colorClass: 'ink2' });
+  const items = hits.map(h => ({
+    name: pathLabel(h.path), hint: h.path, date: postDate(h.path), count: h.count, href: h.path,
+  }));
+  renderBars('pages-wrap', items, { withLinks: true, colorClass: 'ink2', wide: true });
 }
 
 function renderRefs(data) {
@@ -898,7 +997,7 @@ function renderBars(containerId, items, opts = {}) {
   }
   const max   = items[0].count || 1;
   const total = items.reduce((s,i) => s+i.count, 0) || 1;
-  el.className = 'bars';
+  el.className = 'bars' + (opts.wide ? ' bars-wide' : '');
   el.innerHTML = '';
   items.forEach(item => {
     const pct  = Math.round(item.count/max*100);
@@ -906,15 +1005,18 @@ function renderBars(containerId, items, opts = {}) {
     const name = String(item.name || '?');
 
     const row   = document.createElement('div'); row.className = 'bar-row';
-    const label = document.createElement('div'); label.className = 'bar-label'; label.title = name;
+    const label = document.createElement('div'); label.className = 'bar-label'; label.title = item.hint || name;
 
-    if (opts.withLinks && item.href) {
-      const a = document.createElement('a');
-      a.href = item.href; a.target = '_blank'; a.rel = 'noopener noreferrer'; a.textContent = name;
-      label.appendChild(a);
-    } else {
-      label.textContent = name;
+    const holder = (opts.withLinks && item.href) ? document.createElement('a') : document.createElement('span');
+    if (holder.tagName === 'A') {
+      holder.href = item.href; holder.target = '_blank'; holder.rel = 'noopener noreferrer';
     }
+    if (item.date) {
+      const d = document.createElement('span'); d.className = 'bar-date'; d.textContent = item.date;
+      holder.appendChild(d);
+    }
+    holder.appendChild(document.createTextNode(name));
+    label.appendChild(holder);
 
     const track = document.createElement('div'); track.className = 'bar-track';
     const fill  = document.createElement('div');
