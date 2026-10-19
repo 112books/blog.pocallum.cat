@@ -44,12 +44,12 @@ Per saber-ne més de cadascun dels tres espectacles, us recomano visitar el [web
 
 ### Daniela Martín Heras ‘A la sombra de un poeta’
 
-{{< [https://vimeo.com/1237275539](https://vimeo.com/1237275539?share=copy&fl=sv&fe=ci) >}}
+{{< vimeo 1237275539 >}}
 
 ### Adrián Gómez ‘Cara A y Cara B’
 
-{{< [https://vimeo.com/1237289535](https://vimeo.com/1237289535) >}}
+{{< vimeo 1237289535 >}}
 
 ### Marina Walpercin ‘De tu libertad’
 
-{{< [https://vimeo.com/1237310908](https://vimeo.com/1237310908) >}}
+{{< vimeo 1237310908 >}}
