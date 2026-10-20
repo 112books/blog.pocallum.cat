@@ -1,6 +1,8 @@
 # CLAUDE.md — blog.pocallum.cat
 
 > Guia operativa per a Claude Code en aquest projecte.
+>
+> **Tasques pendents:** `docs/PENDENTS.md` (prioritzades P0/P1/P2; revisat 2026-10-20).
 
 ## Projecte
 
