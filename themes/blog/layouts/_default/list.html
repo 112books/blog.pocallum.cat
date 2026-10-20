@@ -18,7 +18,7 @@
       <div class="post-card__thumb">
         {{ if $img }}
         <a href="{{ .RelPermalink }}" class="post-card__thumb-link" aria-hidden="true" tabindex="-1">
-          {{ partial "img.html" (dict "src" $img "alt" .Title "loading" "lazy" "variant" "thumb") }}
+          {{ partial "img.html" (dict "src" $img "alt" (or .Params.thumbnail_alt .Title) "loading" "lazy" "variant" "thumb") }}
         </a>
         {{ end }}
       </div>
@@ -60,7 +60,7 @@
       <div class="post-card__thumb">
         {{ if $img }}
         <a href="{{ .RelPermalink }}" class="post-card__thumb-link" aria-hidden="true" tabindex="-1">
-          {{ partial "img.html" (dict "src" $img "alt" .Title "loading" "lazy" "variant" "thumb") }}
+          {{ partial "img.html" (dict "src" $img "alt" (or .Params.thumbnail_alt .Title) "loading" "lazy" "variant" "thumb") }}
         </a>
         {{ end }}
       </div>

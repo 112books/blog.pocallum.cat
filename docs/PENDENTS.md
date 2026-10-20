@@ -5,21 +5,25 @@
 
 ## P1
 
-### 1. Text `alt` a 2.370 imatges de post
+### 1. Text `alt` a 2.362 imatges de post
 Anàlisi (2026-10-20): de 2.772 imatges en Markdown, **2.370 tenen l'alt buit** (`![](...)`); no hi ha cap `<img>` en cru. Al WordPress original tampoc hi era: a l'export, de 2.737 imatges, 1.736 tenien `alt=""` i 629 ni atribut; les 372 amb text eren **noms de fitxer** (`dsf2973`, `l1210440`) — no serveixen com a descripció.
 - **Opció A (mecànica):** omplir amb context: «*Títol del post* — fotografia 3 de 12», afegint càmera/pel·lícula si surt al nom del fitxer. És honest però repetitiu; treu l'avís d'«alt absent» però no descriu la foto.
 - **Opció B (bona de veritat):** generar una descripció per imatge amb un model de visió (script + clau d'API com a secret; passada única sobre les 2.370 i incremental per als posts nous). És l'única via per tenir `alt` útil; té cost d'API i cal revisar-ne una mostra.
 - **Cost estimat (opció B):** ~1,2–1,5 M tokens d'entrada (2.370 imatges a ~512 px) + ~50 k de sortida. Amb un model econòmic de visió surt per **~0,3–1,5 €**; amb un de gamma alta, **~5–8 €**. La feina grossa no és el cost sinó el temps (~15–25 min) i revisar una mostra.
-- **Pla proposat:** pilot amb les ~20 imatges dels posts més llegits (cèntims), revisar la qualitat, i després la passada completa. Script `scripts/genera-alts.py` amb endpoint compatible OpenAI (`OPENAI_BASE_URL` + clau com a secret) perquè valgui qualsevol proveïdor, inclòs un model local (Ollama, cost 0).
-- **Pendent de decisió de l'usuari.**
+- **Script ja fet:** `scripts/genera-alts.py` (compatible amb qualsevol endpoint OpenAI: `OPENAI_API_KEY`, `OPENAI_BASE_URL`, `ALT_MODEL`). Només toca les imatges amb alt buit → es pot repetir sense por; resol `/media/` al disc i baixa les remotes; redueix a 512 px abans d'enviar. Provat de punta a punta amb un servidor de prova (3 imatges, idempotent).
+- **Què falta:** la clau d'API. Passos:
+  1. `python3 scripts/genera-alts.py --dry-run` → 2.362 imatges pendents.
+  2. Pilot: `OPENAI_API_KEY=… python3 scripts/genera-alts.py --limit 20 --backup` i revisar els 20 alts.
+  3. Si el to agrada: `… python3 scripts/genera-alts.py --backup` (passada completa) i commit.
+- **Al CMS:** els posts nous ja tenen els camps **«Text alt de la miniatura»** i **«Text alt de la imatge principal»** (si es deixen buits, s'usa el títol); les imatges del cos es fan amb `![descripció](URL)`.
 
 ### 2. Imatges externes trencades (19)
 De l'auditoria del 2026-10-02: 10 de `pocallum.cat/sites/default/files/*` (rutes velles Drupal del web mare, post *Pinhole Day 2017*), 4 d'`awpcp.org`, 2 de Google Photos caducades i 3 d'altres.
 - **Què cal:** rehostar a `/media/` o substituir per una equivalent.
 
-### 3. Google Search Console: verificació DNS ja present
-Comprovat el 2026-10-20: `blog.pocallum.cat` **ja té** el TXT `google-site-verification=DEMhy57yvKrKuqiZ4Ym1_suj13AmNy5DyAzr3OklaKM` (i l'àpex `pocallum.cat` té el seu, `HA1EtBzA-…`). No cal cap token ni meta tag al codi.
-- **Què queda:** entrar a Search Console i comprovar que hi ha la **propietat de domini** `blog.pocallum.cat` (la que verifica per DNS) i enviar-hi el `sitemap.xml`. Si la propietat que hi ha és de tipus *prefix d'URL*, caldrà afegir la de domini (es verifica sola amb aquest TXT).
+### 3. Google Search Console — FET
+Comprovat el 2026-10-20: `blog.pocallum.cat` té el TXT `google-site-verification=DEMhy57yvKrKuqiZ4Ym1_suj13AmNy5DyAzr3OklaKM` (i l'àpex `pocallum.cat` el seu, `HA1EtBzA-…`) i l'usuari confirma que la propietat **està verificada des de fa anys**. No cal cap token ni meta tag al codi.
+- **Opcional:** assegurar que el `sitemap.xml` estigui enviat a la propietat de `blog.pocallum.cat`.
 
 ## P2
 
