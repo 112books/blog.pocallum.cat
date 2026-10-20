@@ -16,8 +16,8 @@ tags:
   - Nau Bostik
   - Barcelona
   - fotografia de música en directe
-thumbnail: /media/IMG_3860.jpg
-image: /media/IMG_3860.jpg
+thumbnail: /media/IMG_3794.jpg
+image: /media/IMG_3794.jpg
 album_url: ''
 draft: false
 author: Pocallum
