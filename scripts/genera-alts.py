@@ -4,7 +4,13 @@ Genera el text alternatiu (alt) de les imatges dels posts que no en tenen.
 
 Llegeix els fitxers Markdown de content/posts/, troba les imatges amb alt buit
 (![](url)) i demana una descripció curta a un model de visió compatible amb
-l'API d'OpenAI (OpenAI, OpenRouter, Gemini en mode compatible, Ollama local…).
+l'API d'OpenAI (OpenAI, DeepSeek, OpenRouter, Gemini en mode compatible,
+Ollama local…).
+
+DeepSeek: l'API accepta imatges (content parts image_url, base64 o URL) i el
+model 'deepseek-flash' ja és multimodal. Exemple:
+  OPENAI_BASE_URL=https://api.deepseek.com OPENAI_API_KEY=... \
+  ALT_MODEL=deepseek-flash python3 scripts/genera-alts.py --limit 20 --backup
 
 Característiques:
   · Només toca les imatges amb alt buit → es pot tornar a executar sense por.
@@ -20,7 +26,9 @@ Característiques:
 Variables d'entorn:
   OPENAI_API_KEY   clau (obligatòria si no es passa --api-key)
   OPENAI_BASE_URL  per defecte https://api.openai.com/v1
+                   (DeepSeek: https://api.deepseek.com)
   ALT_MODEL        per defecte gpt-4o-mini
+                   (DeepSeek: deepseek-flash)
 """
 
 import argparse

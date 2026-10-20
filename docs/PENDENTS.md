@@ -11,10 +11,17 @@ Anàlisi (2026-10-20): de 2.772 imatges en Markdown, **2.370 tenen l'alt buit** 
 - **Opció B (bona de veritat):** generar una descripció per imatge amb un model de visió (script + clau d'API com a secret; passada única sobre les 2.370 i incremental per als posts nous). És l'única via per tenir `alt` útil; té cost d'API i cal revisar-ne una mostra.
 - **Cost estimat (opció B):** ~1,2–1,5 M tokens d'entrada (2.370 imatges a ~512 px) + ~50 k de sortida. Amb un model econòmic de visió surt per **~0,3–1,5 €**; amb un de gamma alta, **~5–8 €**. La feina grossa no és el cost sinó el temps (~15–25 min) i revisar una mostra.
 - **Script ja fet:** `scripts/genera-alts.py` (compatible amb qualsevol endpoint OpenAI: `OPENAI_API_KEY`, `OPENAI_BASE_URL`, `ALT_MODEL`). Només toca les imatges amb alt buit → es pot repetir sense por; resol `/media/` al disc i baixa les remotes; redueix a 512 px abans d'enviar. Provat de punta a punta amb un servidor de prova (3 imatges, idempotent).
+- **Proveïdor triat: DeepSeek** (2026-10-20). L'API de DeepSeek **sí que accepta imatges** (content parts `image_url`, base64 o URL; JPEG/PNG/GIF/WebP) i el model `deepseek-flash` ja és multimodal. Base URL `https://api.deepseek.com`.
 - **Què falta:** la clau d'API. Passos:
   1. `python3 scripts/genera-alts.py --dry-run` → 2.362 imatges pendents.
-  2. Pilot: `OPENAI_API_KEY=… python3 scripts/genera-alts.py --limit 20 --backup` i revisar els 20 alts.
-  3. Si el to agrada: `… python3 scripts/genera-alts.py --backup` (passada completa) i commit.
+  2. Pilot:
+     ```bash
+     export OPENAI_BASE_URL=https://api.deepseek.com
+     export OPENAI_API_KEY=…
+     export ALT_MODEL=deepseek-flash
+     python3 scripts/genera-alts.py --limit 20 --backup
+     ```
+  3. Si el to agrada: `python3 scripts/genera-alts.py --backup` (passada completa) i commit.
 - **Al CMS:** els posts nous ja tenen els camps **«Text alt de la miniatura»** i **«Text alt de la imatge principal»** (si es deixen buits, s'usa el títol); les imatges del cos es fan amb `![descripció](URL)`.
 
 ### 2. Imatges externes trencades (19)
