@@ -36,11 +36,13 @@ collections:
       - { label: "Categories", name: "categories", widget: "relation", collection: "categories", value_field: "valor", search_fields: ["title", "valor"], display_fields: ["title"], multiple: true, required: false, hint: "Selecciona de la llista o crea una de nova a l'apartat Categories" }
       - { label: "Tags", name: "tags", widget: "list", required: false, hint: "Enganxa la llista separada per comes: jazz, blues, concert, ..." }
       - { label: "Miniatura", name: "thumbnail", widget: "image", required: false, hint: "Opcional — si es deixa buit s'usa la imatge principal als llistats" }
+      - { label: "Text alt de la miniatura", name: "thumbnail_alt", widget: "string", required: false, hint: "Descripció curta per a lectors de pantalla i Google (~120 car.). Si el deixes buit s'usa el títol." }
       - { label: "Imatge principal", name: "image", widget: "image", required: false, hint: "Arrossega o selecciona — imatge de capçalera del post" }
+      - { label: "Text alt de la imatge principal", name: "image_alt", widget: "string", required: false, hint: "Descripció curta de la foto de capçalera. Si el deixes buit s'usa el títol." }
       - { label: "URL àlbum (Google Fotos, etc.)", name: "album_url", widget: "string", required: false, hint: "Opcional — enllaç a l'àlbum complet de fotos" }
       - { label: "Draft", name: "draft", widget: "boolean", default: false }
       - { label: "Autor", name: "author", widget: "hidden", default: "Pocallum" }
-      - { label: "Contingut", name: "body", widget: "markdown", hint: "Vimeo: {{< vimeo 123456789 >}}" }
+      - { label: "Contingut", name: "body", widget: "markdown", hint: "Vimeo: {{< vimeo 123456789 >}} · Imatges: posa sempre el text alternatiu dins els claudàtors → ![descripció de la foto](URL)" }
       - { label: "— SEO —", name: "noindex", widget: "boolean", default: false, hint: "Marcar si NO vols que Google indexi aquest post" }
       - { label: "Títol SEO", name: "title-seo", widget: "string", required: false, hint: "Títol alternatiu per a Google (si diferent del visible)" }
       - { label: "Descripció SEO", name: "description", widget: "string", hint: "Màx. 155 caràcters per a Google", required: false }
