@@ -14,3 +14,6 @@ migration/
 # (al staging/aprovació les imatges venen del mateix servidor, en absolut)
 static/uploads/
 __pycache__/
+
+# Còpies de seguretat del generador d'alts (scripts/genera-alts.py --backup)
+content/posts/*.md.bak

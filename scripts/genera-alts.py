@@ -104,12 +104,13 @@ def neteja_alt(txt):
     return txt[:160]
 
 
-def descriu(base_url, api_key, model, data_uri):
+def descriu(base_url, api_key, model, data_uri, fallback=""):
     url = base_url.rstrip("/") + "/chat/completions"
     payload = {
         "model": model,
-        "max_tokens": 90,
+        "max_tokens": int(os.environ.get("ALT_MAX_TOKENS", "2000")),
         "temperature": 0.2,
+        "reasoning_effort": os.environ.get("ALT_EFFORT", "low"),
         "messages": [{
             "role": "user",
             "content": [
@@ -126,15 +127,40 @@ def descriu(base_url, api_key, model, data_uri):
     msgs = d.get("choices") or []
     if not msgs:
         raise RuntimeError(f"resposta sense choices: {json.dumps(d)[:200]}")
-    contingut = msgs[0].get("message", {}).get("content", "")
+    msg = msgs[0].get("message", {})
+    contingut = msg.get("content", "")
     if isinstance(contingut, list):
         contingut = " ".join(p.get("text", "") for p in contingut if isinstance(p, dict))
+    contingut = (contingut or "").strip()
+    if not contingut:
+        rc = msg.get("reasoning_content", "") or ""
+        # extreu la darrera frase entre cometes del raonament (filtrant fragments)
+        cometes = [c for c in re.findall(r'"([^"]{15,160})"', rc)
+                   if not any(w in c.lower() for w in ["caràcter", "comptatge", "esborrany", "decisió", "**", "solidaritat"])]
+        if cometes:
+            contingut = cometes[-1]
+        else:
+            for linia in reversed(rc.splitlines()):
+                linia = linia.strip().strip("*").strip()
+                if (len(linia) >= 15 and linia.endswith(".") and linia and linia[0].isupper()
+                        and "**" not in linia and "caràcter" not in linia.lower()
+                        and "comptatge" not in linia.lower()):
+                    contingut = linia
+                    break
+    if not contingut and fallback:
+        contingut = fallback
     return neteja_alt(contingut)
 
 
 def processa_fitxer(cami, args, cache, comptador):
     with open(cami, encoding="utf-8") as f:
         text = f.read()
+
+    # titol net per a fallback
+    mtitle = re.search(r'^title:\s*"?(.+?)"?\s*$', text, re.M)
+    titol_raw = mtitle.group(1).strip() if mtitle else ""
+    titol_net = re.sub(r"^\d{4}-\d{2}-\d{2}\s*[-–]\s*", "", titol_raw).strip()
+    titol_net = titol_net[:120]
 
     peces, ultim, modificat = [], 0, 0
     for m in IMG_RE.finditer(text):
@@ -164,7 +190,7 @@ def processa_fitxer(cami, args, cache, comptador):
             if not dades:
                 raise RuntimeError("no s'ha pogut llegir la imatge")
             data_uri, _, _ = redueix(dades, args.max_px)
-            alt_nou = descriu(args.base_url, args.api_key, args.model, data_uri)
+            alt_nou = descriu(args.base_url, args.api_key, args.model, data_uri, fallback=titol_net)
             if not alt_nou:
                 raise RuntimeError("alt buit")
         except Exception as e:                # no aturem tot el lot per una imatge
