@@ -1,10 +1,10 @@
 {
-  "generated": "2026-10-19T15:37:02.869980Z",
+  "generated": "2026-10-20T00:21:08.728234Z",
   "period": {
-    "start": "2025-10-19",
-    "end": "2026-10-19"
+    "start": "2025-10-20",
+    "end": "2026-10-20"
   },
-  "total": 1991,
+  "total": 2022,
   "total_unique": 0,
   "hits_by_day": [
     {
@@ -418,12 +418,20 @@
     {
       "date": "2026-10-18",
       "count": 45
+    },
+    {
+      "date": "2026-10-19",
+      "count": 25
+    },
+    {
+      "date": "2026-10-20",
+      "count": 6
     }
   ],
   "hits": [
     {
       "path": "/",
-      "count": 300
+      "count": 306
     },
     {
       "path": "/2026/07/11/2026-07-11-prospe-beach-again",
@@ -474,6 +482,10 @@
       "count": 15
     },
     {
+      "path": "/2026/10/17/2026-10-16-sopar-dentitats-al-casal-de-barri-de-prosperitat",
+      "count": 14
+    },
+    {
       "path": "/2026/09/30/2026-09-29-una-cr%C3%B2nica-per-a-9barrisimatge-andr%C3%A9s-naya-i-els-seus-dos-llibres",
       "count": 14
     },
@@ -498,6 +510,10 @@
       "count": 13
     },
     {
+      "path": "/2026/10/18/2026-10-17-14a-revelat-maneres-descapar",
+      "count": 12
+    },
+    {
       "path": "/page/2",
       "count": 12
     },
@@ -510,16 +526,8 @@
       "count": 12
     },
     {
-      "path": "/2026/10/18/2026-10-17-14a-revelat-maneres-descapar",
-      "count": 11
-    },
-    {
-      "path": "/2026/10/17/2026-10-16-sopar-dentitats-al-casal-de-barri-de-prosperitat",
-      "count": 10
-    },
-    {
       "path": "/2024/02/22/sessio-amb-la-ballarina-nahomi-itzel",
-      "count": 10
+      "count": 12
     },
     {
       "path": "/2026/07/06/2026-07-03a05-24-festival-de-blues-de-barcelona",
@@ -570,6 +578,10 @@
       "count": 7
     },
     {
+      "path": "/2026/10/19/2026-10-18-ciutat-flamenco-districte-flamenco",
+      "count": 6
+    },
+    {
       "path": "/2026/09/24/2026-09-24-la-merc%C3%A8-baixant-a-barcelona",
       "count": 6
     },
@@ -588,6 +600,10 @@
     {
       "path": "/2026/07/20/revivint-la-vella-woody-cam",
       "count": 6
+    },
+    {
+      "path": "/2011/07/03/montjuic-de-nit-amb-chino-the-big-bet-i-barce",
+      "count": 5
     },
     {
       "path": "/2026/10/07/2026-10-02-baum-fest-2026-tinta-i-art",
@@ -612,23 +628,15 @@
     {
       "path": "/?query-0-page=184",
       "count": 5
-    },
-    {
-      "path": "/?query-0-page=190",
-      "count": 5
-    },
-    {
-      "path": "/?query-0-page=8",
-      "count": 5
     }
   ],
   "hits_windows": [
     {
       "path": "/",
-      "d7": 13,
-      "d30": 129,
-      "d90": 261,
-      "d365": 300
+      "d7": 17,
+      "d30": 132,
+      "d90": 263,
+      "d365": 306
     },
     {
       "path": "/2026/07/11/2026-07-11-prospe-beach-again",
@@ -690,7 +698,7 @@
       "path": "/2026/07/06/2026-07-05-24e-festival-de-blues-de-barcelona-jam-session-de-clausura",
       "d7": 0,
       "d30": 1,
-      "d90": 8,
+      "d90": 7,
       "d365": 16
     },
     {
@@ -713,6 +721,13 @@
       "d30": 4,
       "d90": 14,
       "d365": 15
+    },
+    {
+      "path": "/2026/10/17/2026-10-16-sopar-dentitats-al-casal-de-barri-de-prosperitat",
+      "d7": 14,
+      "d30": 14,
+      "d90": 14,
+      "d365": 14
     },
     {
       "path": "/2026/09/30/2026-09-29-una-cr%C3%B2nica-per-a-9barrisimatge-andr%C3%A9s-naya-i-els-seus-dos-llibres",
@@ -746,7 +761,7 @@
       "path": "/2026/07/06/2026-07-04-24e-festival-de-blues-de-barcelona",
       "d7": 1,
       "d30": 2,
-      "d90": 6,
+      "d90": 5,
       "d365": 14
     },
     {
@@ -755,6 +770,13 @@
       "d30": 1,
       "d90": 13,
       "d365": 13
+    },
+    {
+      "path": "/2026/10/18/2026-10-17-14a-revelat-maneres-descapar",
+      "d7": 12,
+      "d30": 12,
+      "d90": 12,
+      "d365": 12
     },
     {
       "path": "/page/2",
@@ -778,25 +800,11 @@
       "d365": 12
     },
     {
-      "path": "/2026/10/18/2026-10-17-14a-revelat-maneres-descapar",
-      "d7": 11,
-      "d30": 11,
-      "d90": 11,
-      "d365": 11
-    },
-    {
-      "path": "/2026/10/17/2026-10-16-sopar-dentitats-al-casal-de-barri-de-prosperitat",
-      "d7": 10,
-      "d30": 10,
-      "d90": 10,
-      "d365": 10
-    },
-    {
       "path": "/2024/02/22/sessio-amb-la-ballarina-nahomi-itzel",
-      "d7": 0,
-      "d30": 2,
-      "d90": 9,
-      "d365": 10
+      "d7": 2,
+      "d30": 4,
+      "d90": 11,
+      "d365": 12
     },
     {
       "path": "/2026/07/06/2026-07-03a05-24-festival-de-blues-de-barcelona",
@@ -809,7 +817,7 @@
       "path": "/2026/07/05/2026-07-03-05-24e-festival-de-blues-de-barcelona-organitzacio-colaboradors-amics-i-voluntaris",
       "d7": 0,
       "d30": 1,
-      "d90": 5,
+      "d90": 3,
       "d365": 10
     },
     {
@@ -823,7 +831,7 @@
       "path": "/?query-0-page=2",
       "d7": 0,
       "d30": 0,
-      "d90": 8,
+      "d90": 6,
       "d365": 9
     },
     {
@@ -883,6 +891,13 @@
       "d365": 7
     },
     {
+      "path": "/2026/10/19/2026-10-18-ciutat-flamenco-districte-flamenco",
+      "d7": 6,
+      "d30": 6,
+      "d90": 6,
+      "d365": 6
+    },
+    {
       "path": "/2026/09/24/2026-09-24-la-merc%C3%A8-baixant-a-barcelona",
       "d7": 0,
       "d30": 6,
@@ -914,8 +929,15 @@
       "path": "/2026/07/20/revivint-la-vella-woody-cam",
       "d7": 0,
       "d30": 0,
-      "d90": 4,
+      "d90": 2,
       "d365": 6
+    },
+    {
+      "path": "/2011/07/03/montjuic-de-nit-amb-chino-the-big-bet-i-barce",
+      "d7": 5,
+      "d30": 5,
+      "d90": 5,
+      "d365": 5
     },
     {
       "path": "/2026/10/07/2026-10-02-baum-fest-2026-tinta-i-art",
@@ -927,7 +949,7 @@
     {
       "path": "/2026/09/18/2026-09-17-provant-ladox-scala-50",
       "d7": 0,
-      "d30": 4,
+      "d30": 3,
       "d90": 5,
       "d365": 5
     },
@@ -1002,7 +1024,7 @@
       "d365": 5
     },
     {
-      "path": "/2011/07/03/montjuic-de-nit-amb-chino-the-big-bet-i-barce",
+      "path": "/2026/10/18/2026-10-19-ciutat-flamenco-esperanza-garrido-firmamento",
       "d7": 4,
       "d30": 4,
       "d90": 4,
@@ -1010,14 +1032,14 @@
     },
     {
       "path": "/2026/10/12/2026-10-08-holga-week-amb-una-holga-cfn",
-      "d7": 4,
+      "d7": 3,
       "d30": 4,
       "d90": 4,
       "d365": 4
     },
     {
       "path": "/2026/10/11/2026-10-08-asta-and-salma-en-gran-fromat",
-      "d7": 2,
+      "d7": 1,
       "d30": 4,
       "d90": 4,
       "d365": 4
@@ -1075,6 +1097,13 @@
       "path": "/?query-0-page=25",
       "d7": 0,
       "d30": 0,
+      "d90": 4,
+      "d365": 4
+    },
+    {
+      "path": "/2021/12/18/entrega-de-premis-del-31e-concurs-de-fotografia-josep-anton-cordoncillo",
+      "d7": 1,
+      "d30": 2,
       "d90": 4,
       "d365": 4
     },
@@ -1289,13 +1318,6 @@
       "d365": 3
     },
     {
-      "path": "/2021/12/18/entrega-de-premis-del-31e-concurs-de-fotografia-josep-anton-cordoncillo",
-      "d7": 0,
-      "d30": 1,
-      "d90": 3,
-      "d365": 3
-    },
-    {
       "path": "/2025/10/17/estrenant-la-camera-estenopeica-zero-2000",
       "d7": 0,
       "d30": 0,
@@ -1345,6 +1367,13 @@
       "d365": 3
     },
     {
+      "path": "/2023/11/18/2023-11-18-sant-xibeco-i-santa-quinta-2023",
+      "d7": 1,
+      "d30": 1,
+      "d90": 1,
+      "d365": 3
+    },
+    {
       "path": "/2026/06/06/2026-06-05-festes-de-prosperitat-me-pirra-la-birra-fest-mocebares-prospe-oases",
       "d7": 0,
       "d30": 0,
@@ -1353,6 +1382,13 @@
     },
     {
       "path": "/2021/03/28/sandra-sas",
+      "d7": 1,
+      "d30": 1,
+      "d90": 2,
+      "d365": 3
+    },
+    {
+      "path": "/2025/10/30/2025-10-30-castanyada-diabolica-de-la-sagrera",
       "d7": 1,
       "d30": 1,
       "d90": 2,
@@ -2115,13 +2151,6 @@
       "d365": 2
     },
     {
-      "path": "/2023/11/18/2023-11-18-sant-xibeco-i-santa-quinta-2023",
-      "d7": 0,
-      "d30": 0,
-      "d90": 0,
-      "d365": 2
-    },
-    {
       "path": "/2026/06/13/2026-06-13-vermutsical-amb-flamenc-a-carrec-de-la-pena-flamenca-del-poble-sec",
       "d7": 0,
       "d30": 1,
@@ -2136,9 +2165,9 @@
       "d365": 2
     },
     {
-      "path": "/2025/10/30/2025-10-30-castanyada-diabolica-de-la-sagrera",
-      "d7": 0,
-      "d30": 0,
+      "path": "/2012/12/06/pi-pa",
+      "d7": 1,
+      "d30": 1,
       "d90": 1,
       "d365": 2
     },
@@ -2204,6 +2233,27 @@
       "d30": 0,
       "d90": 0,
       "d365": 2
+    },
+    {
+      "path": "/2026/10/17/2026-10-17-14a-revelat-maneres-descapar",
+      "d7": 1,
+      "d30": 1,
+      "d90": 1,
+      "d365": 1
+    },
+    {
+      "path": "/2012/12/07/niguls",
+      "d7": 1,
+      "d30": 1,
+      "d90": 1,
+      "d365": 1
+    },
+    {
+      "path": "/2023/01/29/2023-01-28-pinan-450f-a-la-nau-bostik",
+      "d7": 1,
+      "d30": 1,
+      "d90": 1,
+      "d365": 1
     },
     {
       "path": "/tag/big-band-de-lescola-taller-de-blues",
@@ -2746,14 +2796,14 @@
     },
     {
       "path": "/2026/10/11/2026-10-08-holga-week-amb-una-holga-cfn",
-      "d7": 1,
+      "d7": 0,
       "d30": 1,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/2020/06/16/one-hour-one-km-one-roll-2020-06-15",
-      "d7": 1,
+      "d7": 0,
       "d30": 1,
       "d90": 1,
       "d365": 1
@@ -5758,7 +5808,7 @@
       "path": "/2026/05/21/2026-05-menorca-resum",
       "d7": 0,
       "d30": 0,
-      "d90": 1,
+      "d90": 0,
       "d365": 1
     },
     {
@@ -6217,13 +6267,6 @@
       "d365": 1
     },
     {
-      "path": "/2012/12/06/pi-pa",
-      "d7": 0,
-      "d30": 0,
-      "d90": 0,
-      "d365": 1
-    },
-    {
       "path": "/2013/11/07/5393-diana-f-rs100",
       "d7": 0,
       "d30": 0,
@@ -6309,8 +6352,8 @@
     }
   ],
   "by_section": {
-    "inici": 300,
-    "posts": 948,
+    "inici": 306,
+    "posts": 973,
     "cerca": 35,
     "arxiu": 20,
     "contact": 15,
@@ -6512,6 +6555,10 @@
       "count": 15
     },
     {
+      "path": "/2026/10/17/2026-10-16-sopar-dentitats-al-casal-de-barri-de-prosperitat",
+      "count": 14
+    },
+    {
       "path": "/2026/09/30/2026-09-29-una-cr%C3%B2nica-per-a-9barrisimatge-andr%C3%A9s-naya-i-els-seus-dos-llibres",
       "count": 14
     },
@@ -6528,11 +6575,7 @@
       "count": 14
     },
     {
-      "path": "/2026/09/06/visa-pour-limage-2026-una-jornada-de-fotoperiodisme-a-perpinya",
-      "count": 12
-    },
-    {
-      "path": "/2026/09/04/2026-09-04-lanomala",
+      "path": "/2026/10/18/2026-10-17-14a-revelat-maneres-descapar",
       "count": 12
     }
   ],
@@ -6540,12 +6583,12 @@
     {
       "name": "Chrome",
       "id": "Chrome",
-      "count": 1499
+      "count": 1512
     },
     {
       "name": "Safari",
       "id": "Safari",
-      "count": 387
+      "count": 398
     },
     {
       "name": "Firefox",
@@ -6567,7 +6610,7 @@
     {
       "name": "macOS",
       "id": "macOS",
-      "count": 764
+      "count": 770
     },
     {
       "name": "Linux",
@@ -6577,12 +6620,12 @@
     {
       "name": "Android",
       "id": "Android",
-      "count": 276
+      "count": 284
     },
     {
       "name": "iOS",
       "id": "iOS",
-      "count": 267
+      "count": 277
     },
     {
       "name": "Windows",
@@ -6604,12 +6647,12 @@
     {
       "name": "phone",
       "id": "phone",
-      "count": 527
+      "count": 545
     },
     {
       "name": "desktophd",
       "id": "desktophd",
-      "count": 520
+      "count": 526
     },
     {
       "name": "tablet",
@@ -6626,7 +6669,7 @@
     {
       "name": "Spain",
       "id": "ES",
-      "count": 1298
+      "count": 1322
     },
     {
       "name": "United States",
@@ -6703,12 +6746,12 @@
     {
       "name": "Desconegut",
       "id": "Desconegut",
-      "count": 894
+      "count": 907
     },
     {
       "name": "Google",
       "id": "Google",
-      "count": 114
+      "count": 116
     },
     {
       "name": "www.9barrisimatge.org",
@@ -6718,12 +6761,12 @@
     {
       "name": "9barrisimatge.org",
       "id": "9barrisimatge.org",
-      "count": 28
+      "count": 32
     },
     {
       "name": "www.facebook.com",
       "id": "www.facebook.com",
-      "count": 22
+      "count": 24
     },
     {
       "name": "pocallum.cat",
