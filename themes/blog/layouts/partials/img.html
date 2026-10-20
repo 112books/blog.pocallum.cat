@@ -35,6 +35,17 @@
     {{- $doWebp = true -}}
   {{- end -}}
 {{- end -}}
+{{- /* La variant gran s'anuncia si el fitxer existeix, no si tenim les
+       dimensions: moltes imatges del CMS no són a data/imatges_dim.json i,
+       sense això, el hero només oferia la versió de 800 px (es veia tou). */ -}}
+{{- $te2500 := false -}}
+{{- if $w2500 -}}
+  {{- if $esRepo -}}
+    {{- $te2500 = os.FileExists (printf "static%s" $w2500raw) -}}
+  {{- else if and $esWp $webpActivat -}}
+    {{- $te2500 = true -}}
+  {{- end -}}
+{{- end -}}
 {{- $w800w := 800 -}}
 {{- $w2500w := 2500 -}}
 {{- with $dim -}}
@@ -48,7 +59,7 @@
 {{- end -}}
 {{- if $doWebp -}}
 <picture>
-  {{- if and $dim (gt $w2500w $w800w) }}
+  {{- if and $te2500 (gt $w2500w $w800w) }}
   <source srcset="{{ $w800 }} {{ $w800w }}w, {{ $w2500 }} {{ $w2500w }}w" sizes="{{ $sizes }}" type="image/webp">
   {{- else }}
   <source srcset="{{ $w800 }} {{ $w800w }}w" sizes="{{ $sizes }}" type="image/webp">

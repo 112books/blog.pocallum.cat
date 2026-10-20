@@ -67,6 +67,41 @@ jobs:
                --baseURL "https://112books.github.io/blog.pocallum.cat/" \
                --buildDrafts
 
+      - name: Ajusta el pes de les imatges publicades (2500 px / q82)
+        continue-on-error: true
+        run: |
+          # Els originals de static/media no es toquen mai: s'ajusta només la
+          # còpia que va a public/. Mateixa URL, molt menys pes.
+          python3 - <<'PY'
+          import glob, os, subprocess
+          MAX_W, MAX_B = 2500, 1_500_000
+          fet = 0
+          for f in sorted(glob.glob("public/media/*")):
+              low = f.lower()
+              if not low.endswith((".jpg", ".jpeg", ".png")) or low.endswith("-og.jpg"):
+                  continue
+              try:
+                  w, h = (int(x) for x in subprocess.check_output(["identify", "-format", "%w %h", f]).decode().split())
+              except Exception:
+                  continue
+              if w <= MAX_W and os.path.getsize(f) <= MAX_B:
+                  continue
+              ext = os.path.splitext(f)[1].lower()
+              tmp = f + ".opt" + ext
+              cmd = ["convert", f, "-auto-orient"]
+              if w > MAX_W:
+                  cmd += ["-resize", str(MAX_W) + "x>"]
+              if ext in (".jpg", ".jpeg"):
+                  cmd += ["-quality", "82", "-interlace", "Plane"]
+              else:
+                  cmd += ["-define", "png:compression-level=9"]
+              subprocess.run(cmd + [tmp], check=False)
+              if os.path.isfile(tmp) and os.path.getsize(tmp) > 0:
+                  os.replace(tmp, f)
+                  fet += 1
+          print(f"Imatges publicades ajustades: {fet}")
+          PY
+
       - name: "Guarda — cap #ZgotmplZ al build"
         run: |
           fails=$(grep -rlE --include='*.html' '(srcset|src|href|content)="?#ZgotmplZ' public/ || true)

@@ -1,0 +1,148 @@
+name: Optimitza imatges de static/media
+
+# Quan es puja una imatge nova (CMS o git), la retalla a un màxim de 2500 px
+# pel costat més llarg i la torna a desar al repo. Així cap original enorme
+# arriba a producció ni fa créixer el repositori.
+#
+# Els fitxers de /media/ es desen com a JPG de qualitat 85; les variants WebP
+# (-800 / -2500) i la imatge de xarxes (-og) les genera el deploy.
+
+on:
+  push:
+    branches: [develop]
+    paths:
+      - 'static/media/**'
+  workflow_dispatch: {}   # per fer una passada manual a tot static/media
+
+jobs:
+  optimitza:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      actions: write
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.2.2
+        with:
+          ref: develop
+          fetch-depth: 0
+
+      - name: Instal·la ImageMagick
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq imagemagick
+
+      - name: Redueix les imatges que passen de 2500 px
+        id: opt
+        run: |
+          python3 - <<'PY'
+          import glob, os, subprocess
+
+          MAX = 2500  # costat més llarg
+          QUALITY = "85"
+
+          def identificat(f):
+              try:
+                  out = subprocess.check_output(["identify", "-format", "%w %h", f]).decode().split()
+                  return int(out[0]), int(out[1])
+              except Exception:
+                  return None
+
+          # En un push només mirem les imatges afegides/modificades en aquell
+          # push; si és manual (workflow_dispatch) mirem tot static/media.
+          abans = os.environ.get("ABANS", "")
+          despres = os.environ.get("DESPRES", "")
+          patro = os.path.join("static", "media", "*")
+          if abans and abans != "0" * 40 and despres:
+              res = subprocess.run(["git", "diff", "--name-only", "-z", "--diff-filter=AM",
+                                    abans, despres, "--", "static/media"],
+                                   capture_output=True)
+              triats = [x.decode("utf-8", "surrogateescape")
+                        for x in res.stdout.split(b"\0") if x]
+              if not triats:
+                  triats = sorted(glob.glob(patro))
+          else:
+              triats = sorted(glob.glob(patro))
+
+          fets = 0
+          for f in triats:
+              low = f.lower()
+              if not low.endswith((".jpg", ".jpeg", ".png")) or low.endswith("-og.jpg"):
+                  continue
+              mida = identificat(f)
+              if not mida:
+                  continue
+              w, h = mida
+              massa_gran = max(w, h) > MAX          # > 2500 px de costat
+              massa_pesat = os.path.getsize(f) > 1_500_000   # > 1,5 MB
+              if not (massa_gran or massa_pesat):
+                  continue
+              tmp = f + ".opt"
+              cmd = ["convert", f, "-auto-orient"]
+              if massa_gran:
+                  cmd += ["-resize", f"{MAX}x{MAX}>"]
+              if low.endswith((".jpg", ".jpeg")):
+                  cmd += ["-quality", QUALITY, "-interlace", "Plane"]
+              subprocess.run(cmd + [tmp], check=False)
+              if not os.path.isfile(tmp) or os.path.getsize(tmp) == 0:
+                  continue
+              os.replace(tmp, f)
+              # Les variants WebP velles s'han generat amb l'original gran i
+              # estan al repo: fora, que el deploy les refarà amb la mida nova.
+              base = os.path.splitext(f)[0]
+              for suf in ("-800.webp", "-2500.webp"):
+                  if os.path.isfile(base + suf):
+                      subprocess.run(["git", "rm", "-q", "--cached", base + suf], check=False)
+                      os.remove(base + suf)
+              nw, nh = identificat(f) or (0, 0)
+              fets += 1
+              print(f"  {os.path.basename(f)}: {w}x{h} -> {nw}x{nh} "
+                    f"({os.path.getsize(f)/1e6:.1f} MB)")
+
+          print(f"Imatges retallades: {fets}")
+          with open(os.environ["GITHUB_OUTPUT"], "a") as out:
+              out.write(f"changed={'true' if fets else 'false'}\n")
+          PY
+        env:
+          ABANS: ${{ github.event.before }}
+          DESPRES: ${{ github.event.after }}
+
+      - name: Commit de les imatges optimitzades
+        id: commit
+        if: steps.opt.outputs.changed == 'true'
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A static/media
+          if git diff --staged --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          git commit -m "chore: retalla les imatges de static/media a 2500 px"
+          pujat=false
+          for intent in 1 2 3 4 5; do
+            if ! git pull --rebase origin develop; then
+              echo "::warning::pull --rebase ha fallat (intent ${intent}/5)"
+              git rebase --abort 2>/dev/null || true
+            fi
+            if git push origin develop; then
+              pujat=true
+              break
+            fi
+            echo "::warning::push fallit (intent ${intent}/5); reintent..."
+            sleep $((intent * 5))
+          done
+          if [ "${pujat}" != "true" ]; then
+            echo "::error::No s'han pogut pujar les imatges optimitzades"
+            exit 1
+          fi
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      - name: Trigger deploys
+        if: steps.commit.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          # Un push amb GITHUB_TOKEN no dispara altres workflows (anti-bucle).
+          gh workflow run deploy-staging.yml --ref develop
+          gh workflow run deploy-produccio.yml --ref develop
