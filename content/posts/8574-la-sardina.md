@@ -13,6 +13,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/05/8574-LCA-X-020.j
 image: https://lh3.googleusercontent.com/-awftlZssLw8/UaHo9_t2U7I/AAAAAAADt7U/DnyJOLwsQTE/s640/8574%2520-%2520LCA%2520-%2520X%2520-%2520020.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-awftlZssLw8/UaHo9_t2U7I/AAAAAAADt7U/DnyJOLwsQTE/s640/8574%2520-%2520LCA%2520-%2520X%2520-%2520020.jpg)](https://photos.app.goo.gl/D8VqQ6sTvbWEiiiu6)  |
+|  [![Edifici alt de façana clara amb moltes finestres, vist en contrapicat sota un cel clar.](https://lh3.googleusercontent.com/-awftlZssLw8/UaHo9_t2U7I/AAAAAAADt7U/DnyJOLwsQTE/s640/8574%2520-%2520LCA%2520-%2520X%2520-%2520020.jpg)](https://photos.app.goo.gl/D8VqQ6sTvbWEiiiu6)  |
 | --- |
 | De [8574 - La Sardina](https://photos.app.goo.gl/D8VqQ6sTvbWEiiiu6) |

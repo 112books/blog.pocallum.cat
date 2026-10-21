@@ -14,7 +14,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/08/IMG_4286.jpg
 image: https://lh4.googleusercontent.com/-6P2E3IdDnUk/UD1AtiLYNoI/AAAAAAADSK8/aitZQZRazbw/s800/IMG_4286.jpg
 ---
 
-|  [![](https://lh4.googleusercontent.com/-6P2E3IdDnUk/UD1AtiLYNoI/AAAAAAADSK8/aitZQZRazbw/s800/IMG_4286.jpg)](https://photos.app.goo.gl/wkp9NGw43ujJ5RP49)  |
+|  [![El sol es pon a l'horitzó sobre el mar, sota un cel degradat de blau a taronja amb núvols rosats dispersos.](https://lh4.googleusercontent.com/-6P2E3IdDnUk/UD1AtiLYNoI/AAAAAAADSK8/aitZQZRazbw/s800/IMG_4286.jpg)](https://photos.app.goo.gl/wkp9NGw43ujJ5RP49)  |
 | --- |
 | De [Menorca 2012, Sant Lluís](https://photos.app.goo.gl/wkp9NGw43ujJ5RP49) |
 

@@ -33,7 +33,7 @@ description: "Reviveix la màgia de Sax-o-Rama 2026 a La Paloma amb la Barcelona
 title-seo: "Inauguració Sax-o-Rama 2026 – Barcelona Big Blues Band i convidats"
 ---
 
-![](https://blog.pocallum.cat/wp-content/uploads/2026/01/IMG_4392-1024x683.jpg)
+![(119 chars). Actually, let's include the crowd/concert feel.](https://blog.pocallum.cat/wp-content/uploads/2026/01/IMG_4392-1024x683.jpg)
 
   
 Ahir vaig poder retrobar-me amb la meva Big Band favorita, la **[Barcelona Big Blues Band](https://www.instagram.com/barcelonabigbluesband/)**, que fa anys que fotografio sempre que puc.

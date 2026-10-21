@@ -10,7 +10,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2015/12/IMG_7182.jpg
 image: https://lh3.googleusercontent.com/-MCK29ajHrVI/VnvMELE0kzI/AAAAAAAE9V0/w29H8HS1_vU/s640-Ic42/IMG_7182.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-MCK29ajHrVI/VnvMELE0kzI/AAAAAAAE9V0/w29H8HS1_vU/s640-Ic42/IMG_7182.jpg)](https://photos.app.goo.gl/Vdm2BnTWSyHUsyr88)  |
+|  [![Dona tatuada fent una acrobàcia cap per avall en un pal de pole dance en un escenari fosc amb llums vermelles i fum.](https://lh3.googleusercontent.com/-MCK29ajHrVI/VnvMELE0kzI/AAAAAAAE9V0/w29H8HS1_vU/s640-Ic42/IMG_7182.jpg)](https://photos.app.goo.gl/Vdm2BnTWSyHUsyr88)  |
 | --- |
 | De [Taboo 2015](https://photos.app.goo.gl/Vdm2BnTWSyHUsyr88) |
 

@@ -19,7 +19,7 @@ description: "Vaig trobar per casa aquesta pel·licula de fa no sé quant de tem
 
 <figure>
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2020/04/2020-04-22b-004-1024x1024.jpg)](https://photos.app.goo.gl/DJPE3en9qWtJ5Peg8)
+[![Escultura metàl·lica amb forats i puntes, captada amb efecte borrós en un espai urbà de Barcelona.](https://blog.pocallum.cat/wp-content/uploads/2020/04/2020-04-22b-004-1024x1024.jpg)](https://photos.app.goo.gl/DJPE3en9qWtJ5Peg8)
 
 <figcaption>
 

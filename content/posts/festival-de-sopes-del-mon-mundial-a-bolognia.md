@@ -10,7 +10,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_5152-3.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_5152-2.jpg
 ---
 
-![](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_5152-2.jpg)
+![Una acròbata de cabells arrissats actua suspesa a l'aire amb els braços estesos entre el fum d'un espectacle.](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_5152-2.jpg)
 
 Fotografies de tota l'estada a Bolonia, Italia, (04/2008) 
 

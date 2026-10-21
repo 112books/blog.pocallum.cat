@@ -19,7 +19,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2011/09/IMG_4153.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2011/09/IMG_4153-1.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2011/09/IMG_4153-1.jpg)](https://photos.app.goo.gl/n9C61HBHCEW6t4KcA)
+[![Sis homes somriuen i posen junts en un escenari, un amb el braç a l'espatlla d'un altre.](https://blog.pocallum.cat/wp-content/uploads/2011/09/IMG_4153-1.jpg)](https://photos.app.goo.gl/n9C61HBHCEW6t4KcA)
 
 Avui he estat testimoni d'una gran nit de bona música. Si, un altre. He tingut el privilegi d'assistir a una nova iniciativa musical a Barcelona, les **Live Blues Recordings**. 
 

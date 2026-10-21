@@ -13,7 +13,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2011/05/IMG_6300.jpg
 image: https://lh4.googleusercontent.com/_xYdsA1KqJRQ/TciBHyO0yWI/AAAAAAACIUk/SQaZEa0nx8M/s640/IMG_6342.jpg
 ---
 
-|  [![](https://lh4.googleusercontent.com/_xYdsA1KqJRQ/TciBHyO0yWI/AAAAAAACIUk/SQaZEa0nx8M/s640/IMG_6342.jpg)](https://photos.app.goo.gl/J2JZrJjjVMb9nEKb6)  |
+|  [![Sostre de vitrall amb un gran cercle daurat central i figures, il·luminant l'interior d'una església de Barcelona.](https://lh4.googleusercontent.com/_xYdsA1KqJRQ/TciBHyO0yWI/AAAAAAACIUk/SQaZEa0nx8M/s640/IMG_6342.jpg)](https://photos.app.goo.gl/J2JZrJjjVMb9nEKb6)  |
 | --- |
 | De [Original Jazz Orquestra Taller de Músics amb Big Mama - Palau de la música](https://photos.app.goo.gl/J2JZrJjjVMb9nEKb6) |
 

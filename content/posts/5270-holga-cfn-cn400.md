@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2014/10/5270-HolgaCFN-CN
 image: https://lh4.googleusercontent.com/-aQcitUhSqpY/VE7SPe5M3tI/AAAAAAAEZok/qODrVxLcodI/s640/5270%2520-%2520HolgaCFN%2520-CN400%2520-009.jpg
 ---
 
-|  [![](https://lh4.googleusercontent.com/-aQcitUhSqpY/VE7SPe5M3tI/AAAAAAAEZok/qODrVxLcodI/s640/5270%2520-%2520HolgaCFN%2520-CN400%2520-009.jpg)](https://photos.app.goo.gl/4dRGuKdDETdGEuJx7)  |
+|  [![Un home gran amb un tocat de plomes mira fixament des d'un mural urbà amb tires blanques.](https://lh4.googleusercontent.com/-aQcitUhSqpY/VE7SPe5M3tI/AAAAAAAEZok/qODrVxLcodI/s640/5270%2520-%2520HolgaCFN%2520-CN400%2520-009.jpg)](https://photos.app.goo.gl/4dRGuKdDETdGEuJx7)  |
 | --- |
 | De [5270 - Holga CFN - CN400](https://photos.app.goo.gl/4dRGuKdDETdGEuJx7) |

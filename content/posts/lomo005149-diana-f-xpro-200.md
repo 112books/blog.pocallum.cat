@@ -13,6 +13,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/10/514908.jpg
 image: https://lh3.googleusercontent.com/-ZcHhtMf1n20/UnASKXqZFbI/AAAAAAAD8UE/oyHuYi6Ij3w/s640/514908.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-ZcHhtMf1n20/UnASKXqZFbI/AAAAAAAD8UE/oyHuYi6Ij3w/s640/514908.jpg)](https://photos.app.goo.gl/KpfgQ3S3dXVJecV46)  |
+|  [![Torre elèctrica d'alta tensió amb els seus cables, vista en contrapicat contra un cel blau amb núvols.](https://lh3.googleusercontent.com/-ZcHhtMf1n20/UnASKXqZFbI/AAAAAAAD8UE/oyHuYi6Ij3w/s640/514908.jpg)](https://photos.app.goo.gl/KpfgQ3S3dXVJecV46)  |
 | --- |
 | De [lomo005149 - Diana + F - Xpro 200](https://photos.app.goo.gl/KpfgQ3S3dXVJecV46) |

@@ -10,7 +10,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2014/03/IMG_5744.jpg
 image: https://lh5.googleusercontent.com/-Rq_0Qo45kFw/UyokiilctZI/AAAAAAAEETU/zxHxpMwanF0/s640/IMG_5744.jpg
 ---
 
-|  [![](https://lh5.googleusercontent.com/-Rq_0Qo45kFw/UyokiilctZI/AAAAAAAEETU/zxHxpMwanF0/s640/IMG_5744.jpg)](https://photos.app.goo.gl/8hau9QQ3w5fGVFnx7)  |
+|  [![Músics assagen en una sala amb bigues de fusta; un home de blau toca el saxofon molt inclinat enrere.](https://lh5.googleusercontent.com/-Rq_0Qo45kFw/UyokiilctZI/AAAAAAAEETU/zxHxpMwanF0/s640/IMG_5744.jpg)](https://photos.app.goo.gl/8hau9QQ3w5fGVFnx7)  |
 | --- |
 | De [ObjectiuBCN - Escola de Blues de Barcelona](https://photos.app.goo.gl/8hau9QQ3w5fGVFnx7) |
 

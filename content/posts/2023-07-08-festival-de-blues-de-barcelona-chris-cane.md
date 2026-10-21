@@ -19,6 +19,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2023/07/Captura-de-panta
 image: https://blog.pocallum.cat/wp-content/uploads/2023/07/2023-07-07-Chris-Cane-LeicaM6-0266-1024x637.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2023/07/2023-07-07-Chris-Cane-LeicaM6-0266-1024x637.jpg)](https://photos.app.goo.gl/sou3s8PmwipStVQq8)
+[![Dos músics toquen en un escenari fosc: un dret amb la guitarra i l'altre assegut al teclat, davant del públic.](https://blog.pocallum.cat/wp-content/uploads/2023/07/2023-07-07-Chris-Cane-LeicaM6-0266-1024x637.jpg)](https://photos.app.goo.gl/sou3s8PmwipStVQq8)
 
 Chris Cane. Res més a dir. Un dels grans per galons i per mèrits.

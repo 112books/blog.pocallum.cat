@@ -10,7 +10,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_2030-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_2030.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_2030.jpg)](https://photos.app.goo.gl/Gmvg6gZ4bAK6xiib7)
+[![Una cantant amb brusa de zebra canta emocionada al micròfon en un escenari fosc de Barcelona.](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_2030.jpg)](https://photos.app.goo.gl/Gmvg6gZ4bAK6xiib7)
 
 Grans temes de Jazz i Bossa Nova (i alguna sorpresiva incursió en altres gèneres) amb guitarra i "cajón flamenco". ¿Què és això?. Això és "Jazzt'ablao".
 

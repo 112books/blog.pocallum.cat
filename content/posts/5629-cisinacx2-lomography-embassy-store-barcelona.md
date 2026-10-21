@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2014/11/5629-CisinaCX2-C
 image: https://lh5.googleusercontent.com/-43CJRfsr3Mc/VGYORXfVIQI/AAAAAAAEb7E/03sZUkC3fbU/s640/5629%2520-%2520CisinaCX2%2520-Cn400-028.jpg
 ---
 
-|  [![](https://lh5.googleusercontent.com/-43CJRfsr3Mc/VGYORXfVIQI/AAAAAAAEb7E/03sZUkC3fbU/s640/5629%2520-%2520CisinaCX2%2520-Cn400-028.jpg)](https://photos.app.goo.gl/cyigA6bV7nwBUcA86)  |
+|  [![Interior d'una botiga amb una paret coberta de taps de colors, prestatges plens d'objectes i un trípode a la dreta.](https://lh5.googleusercontent.com/-43CJRfsr3Mc/VGYORXfVIQI/AAAAAAAEb7E/03sZUkC3fbU/s640/5629%2520-%2520CisinaCX2%2520-Cn400-028.jpg)](https://photos.app.goo.gl/cyigA6bV7nwBUcA86)  |
 | --- |
 | De [5629 - CisinaCX2 - Lomography Embassy Store Barcelona](https://photos.app.goo.gl/cyigA6bV7nwBUcA86) |

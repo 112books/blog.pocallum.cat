@@ -14,6 +14,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/05/976836.jpg
 image: https://lh5.googleusercontent.com/-kkoapmSD8TM/T7QOAa3j3HI/AAAAAAADBx4/QOk1VdK9qpc/s640/976836.JPG
 ---
 
-|  [![](https://lh5.googleusercontent.com/-kkoapmSD8TM/T7QOAa3j3HI/AAAAAAADBx4/QOk1VdK9qpc/s640/976836.JPG)](https://photos.app.goo.gl/8WCoqa3WJpvXx8Mj7)  |
+|  [![Sis gallines blanques amb cresta vermella picotegen entre l'herba i la terra d'un corral.](https://lh5.googleusercontent.com/-kkoapmSD8TM/T7QOAa3j3HI/AAAAAAADBx4/QOk1VdK9qpc/s640/976836.JPG)](https://photos.app.goo.gl/8WCoqa3WJpvXx8Mj7)  |
 | --- |
 | De [Pentax K100 - Kodak ISO 400 caducat](https://photos.app.goo.gl/8WCoqa3WJpvXx8Mj7) |

@@ -10,7 +10,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2016/06/DSCF2516.jpg
 image: https://lh3.googleusercontent.com/-3MBlA6gmidw/V1xWjut6QuI/AAAAAAAFNBA/35KFAZqdwnA0QjyTmhXU8qUQgmJ-UkezACCo/s640/DSCF2516.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-3MBlA6gmidw/V1xWjut6QuI/AAAAAAAFNBA/35KFAZqdwnA0QjyTmhXU8qUQgmJ-UkezACCo/s640/DSCF2516.jpg)](https://photos.app.goo.gl/5noLoZ9PYUN7ias69)  |
+|  [![Un home assegut toca la guitarra acústica i canta davant d'un micròfon en un escenari amb un cartell al darrere.](https://lh3.googleusercontent.com/-3MBlA6gmidw/V1xWjut6QuI/AAAAAAAFNBA/35KFAZqdwnA0QjyTmhXU8qUQgmJ-UkezACCo/s640/DSCF2516.jpg)](https://photos.app.goo.gl/5noLoZ9PYUN7ias69)  |
 | --- |
 | De [VermutSical amb Kodjo Senyo](https://photos.app.goo.gl/5noLoZ9PYUN7ias69) |
 

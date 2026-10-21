@@ -12,7 +12,7 @@ image: https://lh3.googleusercontent.com/pw/ACtC-3fXY9nzQs_mcUMkoFus0rU8DQQpGd4I
 
 <figure>
 
-[![](https://lh3.googleusercontent.com/pw/ACtC-3fXY9nzQs_mcUMkoFus0rU8DQQpGd4I8qK0moy4Kfjl5zzi2wwQTJJz67328_LaQa4UkvvlS87P0yxMu5nRdZUWP0LZmrFsq2JkiQxJxHN5XwA6FR7haYlnodgSUl6PVk1ej3UDQR4EvUUuMkSMeKHZAw=w1900-h1164-no?authuser=0)](https://photos.app.goo.gl/sEifxcEFACog6Bq76)
+[![Dues persones amb mascareta fotografien amb el mòbil un home amb vestit i ulleres de sol en un carrer de Barcelona.](https://lh3.googleusercontent.com/pw/ACtC-3fXY9nzQs_mcUMkoFus0rU8DQQpGd4I8qK0moy4Kfjl5zzi2wwQTJJz67328_LaQa4UkvvlS87P0yxMu5nRdZUWP0LZmrFsq2JkiQxJxHN5XwA6FR7haYlnodgSUl6PVk1ej3UDQR4EvUUuMkSMeKHZAw=w1900-h1164-no?authuser=0)](https://photos.app.goo.gl/sEifxcEFACog6Bq76)
 
 <figcaption>
 

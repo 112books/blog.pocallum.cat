@@ -15,6 +15,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/10/IMG_9766.jpg
 image: https://lh6.googleusercontent.com/-QeP8hVEZjHs/UHLusM33JhI/AAAAAAADXNo/j_Rc4N0wB_w/s800/IMG_9766.jpg
 ---
 
-|  [![](https://lh6.googleusercontent.com/-QeP8hVEZjHs/UHLusM33JhI/AAAAAAADXNo/j_Rc4N0wB_w/s800/IMG_9766.jpg)](https://photos.app.goo.gl/RVoAYD31oLcrdCMk8)  |
+|  [![Primer pla d'una figureta fosca d'un Buda somrient amb un collaret, amb un home treballant desenfocat al darrere.](https://lh6.googleusercontent.com/-QeP8hVEZjHs/UHLusM33JhI/AAAAAAADXNo/j_Rc4N0wB_w/s800/IMG_9766.jpg)](https://photos.app.goo.gl/RVoAYD31oLcrdCMk8)  |
 | --- |
 | De [15 Barcelona Tattoo Expo - Dissabte 2012](https://photos.app.goo.gl/RVoAYD31oLcrdCMk8) |

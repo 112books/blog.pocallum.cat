@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2014/07/IMG_0573.jpg
 image: https://lh3.googleusercontent.com/-ufgeOBebsUE/U7-wKSn2OYI/AAAAAAAEO6A/Yd8arQGIX7g/s640/IMG_0573.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-ufgeOBebsUE/U7-wKSn2OYI/AAAAAAAEO6A/Yd8arQGIX7g/s640/IMG_0573.jpg)](https://photos.app.goo.gl/MWXtaLeNVR4KpqgUA)  |
+|  [![Un grup de músics toca en directe en un escenari fosc, amb un saxofonista al centre i guitarristes als costats.](https://lh3.googleusercontent.com/-ufgeOBebsUE/U7-wKSn2OYI/AAAAAAAEO6A/Yd8arQGIX7g/s640/IMG_0573.jpg)](https://photos.app.goo.gl/MWXtaLeNVR4KpqgUA)  |
 | --- |
 | De [Festival de Blues de Barcelona - Bandes emergents + Jam session](https://photos.app.goo.gl/MWXtaLeNVR4KpqgUA) |

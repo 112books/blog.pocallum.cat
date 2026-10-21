@@ -25,7 +25,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2024/11/2024-11-07-Lca-APX40
 description: "Descobreix la renovada Cameras and Films, abans Lomography Embassy Barcelona. Exposició de l'artista xinesa @wjwjw.jijiwei, venda de llibres, càmeres analògiques, pel·lícules i tallers de fotografia experimental. Visita'ns al Carrer d'en Rosic 3, Barcelona."
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/11/2024-11-07-Lca-APX400@1600-510Pyro1100-Camera-and-films-043-1024x598.jpg)](https://photos.app.goo.gl/1etCfvtWiahzMRvJ6)
+[![Dona somrient i home amb ulleres conversant davant d'una vitrina de càmeres antigues en un acte cultural.](https://blog.pocallum.cat/wp-content/uploads/2024/11/2024-11-07-Lca-APX400@1600-510Pyro1100-Camera-and-films-043-1024x598.jpg)](https://photos.app.goo.gl/1etCfvtWiahzMRvJ6)
 
 Ahir va tenir lloc la primera exposició en la nova era de _Lomography Embassy Barcelon_a, que ara podem anomenar "**_Cameras and Film_s**".
 

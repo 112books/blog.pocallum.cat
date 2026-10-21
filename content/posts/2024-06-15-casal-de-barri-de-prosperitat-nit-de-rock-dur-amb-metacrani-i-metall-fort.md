@@ -12,6 +12,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/06/DSF3336.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2024/06/DSF3336-1024x683.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/06/DSF3336-1024x683.jpg)](https://photos.app.goo.gl/yDq6kQoKtDfHcqxk7)
+[![Un guitarrista de cabells llargs toca enèrgicament en un escenari fosc amb altres dos músics al fons.](https://blog.pocallum.cat/wp-content/uploads/2024/06/DSF3336-1024x683.jpg)](https://photos.app.goo.gl/yDq6kQoKtDfHcqxk7)
 
 Nit amb el rock més dur amb les bandes [Metacrani](https://www.instagram.com/metacrani/) (heavi metal) i [Metall Font](https://www.instagram.com/els_metall_fort) (trash metal).

@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2015/03/IMG_2782.jpg
 image: https://lh5.googleusercontent.com/-DsC-JBBmo5I/VPRF7E88DqI/AAAAAAAEntc/JVnbLwoagBU/s640/IMG_2782.jpg
 ---
 
-|  [![](https://lh5.googleusercontent.com/-DsC-JBBmo5I/VPRF7E88DqI/AAAAAAAEntc/JVnbLwoagBU/s640/IMG_2782.jpg)](https://photos.app.goo.gl/F17odU3oFn1Fkgiv7)  |
+|  [![Camp erm amb arbres sense fulles i un cel blau grisós cobert de núvols allargats a l'horitzó.](https://lh5.googleusercontent.com/-DsC-JBBmo5I/VPRF7E88DqI/AAAAAAAEntc/JVnbLwoagBU/s640/IMG_2782.jpg)](https://photos.app.goo.gl/F17odU3oFn1Fkgiv7)  |
 | --- |
 | De [La Puebla de Hijar (Teruel)](https://photos.app.goo.gl/F17odU3oFn1Fkgiv7) |

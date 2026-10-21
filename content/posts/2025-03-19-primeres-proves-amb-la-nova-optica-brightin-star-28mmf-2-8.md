@@ -21,7 +21,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2025/03/2025-03-19-LM6-Brigh
 description: "Descobreix les primeres impressions de la nova òptica Brightin Star 28mm f/2.8. Una opció econòmica i robusta per als amants de les òptiques angulars."
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/03/2025-03-19-LM6-Brightin-Star-28mmf2.8-APX400-Test-0013-1024x633.jpg)](https://photos.app.goo.gl/2oNKnob8yQsePmqu8)
+[![Retrat pintat en blanc i negre d'una dona amb ulls i llavis foscos, el cap inclinat, en una paret de Barcelona.](https://blog.pocallum.cat/wp-content/uploads/2025/03/2025-03-19-LM6-Brightin-Star-28mmf2.8-APX400-Test-0013-1024x633.jpg)](https://photos.app.goo.gl/2oNKnob8yQsePmqu8)
 
 _Àlbum amb els primers resultats amb l'angular Brightin Star 28mm f/2.8 a una Leica M6 i pel·lícula Agafa APX 400_
 

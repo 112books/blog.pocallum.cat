@@ -12,7 +12,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2023/11/DSF5663.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2023/11/DSF5663-1024x683.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2023/11/DSF5663-1024x683.jpg)](https://photos.app.goo.gl/tRSBqr1qvQyXqKTu6)
+[![Públic gaudint d'un concert en directe en un bar musical ple, amb l'escenari al fons i la barra a baix.](https://blog.pocallum.cat/wp-content/uploads/2023/11/DSF5663-1024x683.jpg)](https://photos.app.goo.gl/tRSBqr1qvQyXqKTu6)
 
 Comiat del Festival Clot amb Blues 2023 amb lnit de concerts. Hem gaudit dels Lust & Found i la formació única de [Sister Marion](https://www.instagram.com/mir_aparicio/) acompanyant a [Balta Bordoy](https://www.instagram.com/baltablues/) Blues Quartet ([Arnau Julià](https://www.instagram.com/arnaujulia_/) i [Oriol Fontanals](https://www.instagram.com/oriol_big_fat_bass/) ). 
 

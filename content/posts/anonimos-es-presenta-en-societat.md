@@ -10,7 +10,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/03/Rostros-Anonimos
 image: https://blog.pocallum.cat/wp-content/uploads/2025/03/Rostros-Anonimos-cartell-exposicio-basiana-724x1024.png
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/03/Rostros-Anonimos-cartell-exposicio-basiana-724x1024.png)](https://www.112books.eu/2025/03/25/anonimos-es-presenta-en-societat/)
+[![Retrat en blanc i negre d'un home amb una expressió intensa i un efecte òptic de doble cara.](https://blog.pocallum.cat/wp-content/uploads/2025/03/Rostros-Anonimos-cartell-exposicio-basiana-724x1024.png)](https://www.112books.eu/2025/03/25/anonimos-es-presenta-en-societat/)
 
 Ja tenim la primera data per a la presentació del nou llibre **"[Anónimos. Más allá de las apariencias](https://www.112books.eu/producte/anonimos-mas-alla-de-las-apariencias/)"** d'en Mario Ortiz i Joan Linux.
 

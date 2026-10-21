@@ -13,6 +13,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/05/2024-05-05-LM6-F
 image: https://blog.pocallum.cat/wp-content/uploads/2024/05/2024-05-05-LM6-Foma100@400-La-Cultura-va-de-festa-0023-1024x603.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/05/2024-05-05-LM6-Foma100@400-La-Cultura-va-de-festa-0023-1024x603.jpg)](https://photos.app.goo.gl/WbaCRTAsyrkqrEon6)
+[![Tres noies rialleres amb ulleres de sol sostenen begudes i fullets en un esdeveniment cultural a l'aire lliure.](https://blog.pocallum.cat/wp-content/uploads/2024/05/2024-05-05-LM6-Foma100@400-La-Cultura-va-de-festa-0023-1024x603.jpg)](https://photos.app.goo.gl/WbaCRTAsyrkqrEon6)
 
 Unes poquetes fotos de La Cultura va de festa d'enguany

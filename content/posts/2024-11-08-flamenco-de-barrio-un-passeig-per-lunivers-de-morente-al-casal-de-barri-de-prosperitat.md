@@ -29,7 +29,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2024/11/2024-11-08-APX400@16
 description: "Gaudeix del recital flamenc 'Un paseo por Morente' al Casal de Barri de Prosperitat, amb Paula Domínguez, Marc López i artistes convidats. Un viatge musical que explora la fusió de la poesia de Lorca amb gèneres com el rock i el jazz, tot en un ambient íntim i acollidor."
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/11/2024-11-08-APX400@1600-Paula-Dominguez-0029-1024x682.jpg)](https://photos.app.goo.gl/7zonUQwmXrjjv2sz5)
+[![Una dona canta i toca un instrument de corda al costat d'un home que toca la guitarra en un escenari fosc.](https://blog.pocallum.cat/wp-content/uploads/2024/11/2024-11-08-APX400@1600-Paula-Dominguez-0029-1024x682.jpg)](https://photos.app.goo.gl/7zonUQwmXrjjv2sz5)
 
 El passat divendres dia 8, al Casal de barri de Prosperitat, vaig poder gaudir, i retratar, el recital flamenc "Un paseo por Morente", que forma part del Festival Alternatiu de Flamenc de Nou Barris, també conegut com a Flamenco de Barrio, organitzat pel col·lectiu Comando Lunares. La formació incloïa Paula Domínguez al cant, Marc López a la guitarra i com a artistes convidats a Rafael Buzón també a la guitarra i a Núria Martín al violí.
 

@@ -10,7 +10,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/03/IMG_0573.jpg
 image: https://lh4.googleusercontent.com/-KlH2IzwW-Es/USownBiVa3I/AAAAAAADi_s/aJyoiwN1L7w/s800/IMG_0573.jpg
 ---
 
-|  [![](https://lh4.googleusercontent.com/-KlH2IzwW-Es/USownBiVa3I/AAAAAAADi_s/aJyoiwN1L7w/s800/IMG_0573.jpg)](https://photos.app.goo.gl/X76i2c6Zh8xmfjKSA)  |
+|  [![Un guitarrista de cabells llargs sacseja el cap mentre toca enèrgicament en un escenari fosc de Barcelona.](https://lh4.googleusercontent.com/-KlH2IzwW-Es/USownBiVa3I/AAAAAAADi_s/aJyoiwN1L7w/s800/IMG_0573.jpg)](https://photos.app.goo.gl/X76i2c6Zh8xmfjKSA)  |
 | --- |
 | De [Festival Pigme@s Revoltos@s - Cap a un nom model social i econòmic](https://photos.app.goo.gl/X76i2c6Zh8xmfjKSA) |
 

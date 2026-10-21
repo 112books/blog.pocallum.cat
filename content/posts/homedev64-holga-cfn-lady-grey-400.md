@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2016/01/HD64-HolgaCFN-LG
 image: https://blog.pocallum.cat/wp-content/uploads/2016/01/HD64-HolgaCFN-LG400007-1.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2016/01/HD64-HolgaCFN-LG400007-1.jpg)](https://photos.app.goo.gl/C4SLkMmtTgBU13zj9)
+[![Un vell pantalà de fusta mig enfonsat a l'aigua, amb draps penjats, sota un cel clar i el sol brillant al mar.](https://blog.pocallum.cat/wp-content/uploads/2016/01/HD64-HolgaCFN-LG400007-1.jpg)](https://photos.app.goo.gl/C4SLkMmtTgBU13zj9)
 
 Ara ja feia massa temps que no treia a passejar la genial Holga, aquí algunes imatges del Delta de l'Ebre.

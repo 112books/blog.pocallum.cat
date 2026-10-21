@@ -28,7 +28,7 @@ description: "Descobreix la màgia de la fotografia moguda amb la Lomography LC-
 
 <figure>
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/09/2024-09-22-LCa-Kodak-x-Plus125-510Pyro-Varis-0024-1024x630.jpg)](https://blog.pocallum.cat/wp-content/uploads/2024/09/2024-09-22-LCa-Kodak-x-Plus125-510Pyro-Varis-0024.jpg)
+[![Bicicleta en primer pla, nítida, amb el fons desenfocat que suggereix el moviment d'un carrer urbà concorregut.](https://blog.pocallum.cat/wp-content/uploads/2024/09/2024-09-22-LCa-Kodak-x-Plus125-510Pyro-Varis-0024-1024x630.jpg)](https://blog.pocallum.cat/wp-content/uploads/2024/09/2024-09-22-LCa-Kodak-x-Plus125-510Pyro-Varis-0024.jpg)
 
 <figcaption>
 
@@ -40,7 +40,7 @@ munt de bicis
 
 <figure>
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/09/2024-09-22-LCa-Kodak-x-Plus125-510Pyro-Varis-0025-677x1024.jpg)](https://blog.pocallum.cat/wp-content/uploads/2024/09/2024-09-22-LCa-Kodak-x-Plus125-510Pyro-Varis-0025.jpg)
+[![Persona d'esquena avançant de pressa per un carrer amb arbres alts i un edifici amb balcons a la dreta.](https://blog.pocallum.cat/wp-content/uploads/2024/09/2024-09-22-LCa-Kodak-x-Plus125-510Pyro-Varis-0025-677x1024.jpg)](https://blog.pocallum.cat/wp-content/uploads/2024/09/2024-09-22-LCa-Kodak-x-Plus125-510Pyro-Varis-0025.jpg)
 
 <figcaption>
 
@@ -52,7 +52,7 @@ a la fuga sobre rodes
 
 <figure>
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/09/2024-09-22-LCa-Kodak-x-Plus125-510Pyro-Varis-0035-1024x607.jpg)](https://blog.pocallum.cat/wp-content/uploads/2024/09/2024-09-22-LCa-Kodak-x-Plus125-510Pyro-Varis-0035.jpg)
+[![Figures borroses caminant per un camí arbrat, captades amb un fort desenfocament de moviment.](https://blog.pocallum.cat/wp-content/uploads/2024/09/2024-09-22-LCa-Kodak-x-Plus125-510Pyro-Varis-0035-1024x607.jpg)](https://blog.pocallum.cat/wp-content/uploads/2024/09/2024-09-22-LCa-Kodak-x-Plus125-510Pyro-Varis-0035.jpg)
 
 <figcaption>
 
@@ -64,7 +64,7 @@ El passatge del terror
 
 <figure>
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/09/2024-09-22-LCa-Kodak-x-Plus125-510Pyro-Varis-0028-1024x628.jpg)](https://blog.pocallum.cat/wp-content/uploads/2024/09/2024-09-22-LCa-Kodak-x-Plus125-510Pyro-Varis-0028.jpg)
+[![Relleu d'una criatura marina en una façana, captat amb un fort desenfocament de moviment a Barcelona.](https://blog.pocallum.cat/wp-content/uploads/2024/09/2024-09-22-LCa-Kodak-x-Plus125-510Pyro-Varis-0028-1024x628.jpg)](https://blog.pocallum.cat/wp-content/uploads/2024/09/2024-09-22-LCa-Kodak-x-Plus125-510Pyro-Varis-0028.jpg)
 
 <figcaption>
 
@@ -76,7 +76,7 @@ merda massificada
 
 <figure>
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/09/2024-09-22-LCa-Kodak-x-Plus125-510Pyro-Varis-0029-1024x640.jpg)](https://blog.pocallum.cat/wp-content/uploads/2024/09/2024-09-22-LCa-Kodak-x-Plus125-510Pyro-Varis-0029.jpg)
+[![Paviment de rajoles en blanc i negre, buit, amb un petit objecte clar al centre i una vora fosca a la dreta.](https://blog.pocallum.cat/wp-content/uploads/2024/09/2024-09-22-LCa-Kodak-x-Plus125-510Pyro-Varis-0029-1024x640.jpg)](https://blog.pocallum.cat/wp-content/uploads/2024/09/2024-09-22-LCa-Kodak-x-Plus125-510Pyro-Varis-0029.jpg)
 
 <figcaption>
 

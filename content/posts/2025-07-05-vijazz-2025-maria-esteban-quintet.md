@@ -28,7 +28,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2025/07/IMG_8854-1024x683.jp
 description: "Descobreix la crònica i una selecció de fotografies del concert de María Esteban i el seu quintet al Vijazz 2025, celebrat al Claustre de Sant Francesc, on el jazz vocal femení va ser protagonista en un ambient íntim i acollidor."
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/07/IMG_8854-1024x683.jpg)](https://photos.app.goo.gl/ktFLcw9CxiyNa4rd7)
+[![Una cantant d'ulls tancats canta emocionada a un micròfon durant un concert, amb un home calb desenfocat al darrere.](https://blog.pocallum.cat/wp-content/uploads/2025/07/IMG_8854-1024x683.jpg)](https://photos.app.goo.gl/ktFLcw9CxiyNa4rd7)
 
 Feia moltes edicions que no trepitjava el Vijazz. No sé si en altres anys també s’havia concentrat l’oferta de jazz amb protagonistes femenines al Claustre de Sant Francesc, però, sigui com sigui, aquest espai acull el jazz més íntim i el _marida_ a la perfecció.
 

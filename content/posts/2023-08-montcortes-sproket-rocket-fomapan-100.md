@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2023/09/2023-08-29-Montc
 image: https://blog.pocallum.cat/wp-content/uploads/2023/09/2023-08-29-Montcortes-Sproket-0002-348x1024.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2023/09/2023-08-29-Montcortes-Sproket-0002-348x1024.jpg)](https://photos.app.goo.gl/KkHgmkWskVY9EH3dA)
+[![Una estructura de dos pals de fusta en angle s'alça en primer pla davant d'un paisatge rural amb turons i arbres.](https://blog.pocallum.cat/wp-content/uploads/2023/09/2023-08-29-Montcortes-Sproket-0002-348x1024.jpg)](https://photos.app.goo.gl/KkHgmkWskVY9EH3dA)
 
 Versió en panoràmic d'aquest estiu als Pirineus

@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2015/04/864508JoanLomogr
 image: https://lh4.googleusercontent.com/-DbI3TR3q-H8/VR1suLseE8I/AAAAAAAEpck/ZKDh31hXLLU/s640/864508JoanLomography.jpg
 ---
 
-|  [![](https://lh4.googleusercontent.com/-DbI3TR3q-H8/VR1suLseE8I/AAAAAAAEpck/ZKDh31hXLLU/s640/864508JoanLomography.jpg)](https://photos.app.goo.gl/iG7ek26PoeK64urs7)  |
+|  [![Cactus allargats projecten ombres llargues sobre sorra granulada amb una llum taronja i blava molt contrastada.](https://lh4.googleusercontent.com/-DbI3TR3q-H8/VR1suLseE8I/AAAAAAAEpck/ZKDh31hXLLU/s640/864508JoanLomography.jpg)](https://photos.app.goo.gl/iG7ek26PoeK64urs7)  |
 | --- |
 | De [Lomotaller Diana entre Cactus - Rescale 100](https://photos.app.goo.gl/iG7ek26PoeK64urs7) |

@@ -21,7 +21,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/05/DSF2076-Mejorado
 image: https://blog.pocallum.cat/wp-content/uploads/2024/05/DSF2076-Mejorado-NR-1024x683.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/05/DSF2076-Mejorado-NR-1024x683.jpg)](https://photos.app.goo.gl/ek1CGqjim3q9wEDq6)
+[![Tres adults somriuen davant una paret; una dona fa el senyal de banyes i l'home del mig subjecta una llauna.](https://blog.pocallum.cat/wp-content/uploads/2024/05/DSF2076-Mejorado-NR-1024x683.jpg)](https://photos.app.goo.gl/ek1CGqjim3q9wEDq6)
 
 Dels dies més esperats per a totes les veïnes que encara creiem en el Rock'n'Roll i defugim dels moderns ritmes, és sens dubte el Xistorra Rock! Organitzat per la gran penya Inmortales (que sort que ho són, perquè envellir envelleixen com tots), sempre aconsegueixen portar bandes potents i genials. Després aquestes mateixes bandes les veiem triomfar arreu, i ho celebrem!
 

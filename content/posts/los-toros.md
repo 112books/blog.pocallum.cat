@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2014/02/IMG_4470.jpg
 image: https://lh3.googleusercontent.com/-t1t3tYOz8jQ/UwB-DDGqu0I/AAAAAAAECUg/MSnPzmNei5w/s640/IMG_4470.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-t1t3tYOz8jQ/UwB-DDGqu0I/AAAAAAAECUg/MSnPzmNei5w/s640/IMG_4470.jpg)](https://photos.app.goo.gl/t68YpmForVwfr2vi6)  |
+|  [![Un grup de músics toca en directe en un escenari fosc amb llums verdes, amb un cantant amb barret i un saxofonista.](https://lh3.googleusercontent.com/-t1t3tYOz8jQ/UwB-DDGqu0I/AAAAAAAECUg/MSnPzmNei5w/s640/IMG_4470.jpg)](https://photos.app.goo.gl/t68YpmForVwfr2vi6)  |
 | --- |
 | De [Los Toros](https://photos.app.goo.gl/t68YpmForVwfr2vi6) |

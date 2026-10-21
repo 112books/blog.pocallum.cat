@@ -22,7 +22,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2024/10/IMG_3707-1024x683.jp
 description: "Descobreix l'impacte de 9 Barris Acull, una entitat que ha donat suport a la comunitat de Nou Barris durant gairebé 20 anys. Reflexionem sobre el seu llegat i les activitats realitzades abans del seu tancament per motius administratius."
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/10/IMG_3707-1024x683.jpg)](https://photos.app.goo.gl/AEoQDmC7gNgCCuVP8)
+[![Públic assegut en un acte cultural davant d'una pantalla de projecció en una sala àmplia amb parets de fusta.](https://blog.pocallum.cat/wp-content/uploads/2024/10/IMG_3707-1024x683.jpg)](https://photos.app.goo.gl/AEoQDmC7gNgCCuVP8)
 
 Dues dècades de solidaritat i acció comunitària
 

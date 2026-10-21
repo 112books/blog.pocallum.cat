@@ -21,7 +21,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2024/12/2024-10-31-LM6-Fuji-
 description: "Acompanyat per l’amic Manel, vaig fer una escapada al Montseny per fotografiar la tardor amb un rodet de Fuji color negatiu. Descobreix com la boira va donar pas a unes vistes espectaculars des del Turó de l’Home."
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/12/2024-10-31-LM6-Fuji-CN200-0034-1-1024x592.jpg)](https://photos.app.goo.gl/HcbaLcYr2xVX68sM6)
+[![Muntanyes fosques i valls cobertes de boira sota un cel gris on la llum del sol travessa els núvols.](https://blog.pocallum.cat/wp-content/uploads/2024/12/2024-10-31-LM6-Fuji-CN200-0034-1-1024x592.jpg)](https://photos.app.goo.gl/HcbaLcYr2xVX68sM6)
 
 Ja fa dies, quan la tardor mostrava els seus càlids colors, vaig escapar-me amb l’amic Manel a fer fotografies de tardor al Montseny, com fem [molts anys](https://blog.pocallum.cat/?s=montseny). Aquesta vegada vaig portar un rodet de **Fuji color negatiu** de sensibilitat 200 ISO. Feia temps que li tenia ganes, però habitualment sempre vaig amb rodets de blanc i negre i mai veig el moment. Les fotografies són totes del moment en què vam fer el cim al Turó de l’Home, que estava ben tapat de boira. Però, gràcies a la natura, de sobte es va obrir i vam poder fer algunes fotografies.
 

@@ -11,6 +11,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2014/07/220105JoanLomogr
 image: https://lh5.googleusercontent.com/-WvYNeyT6jS4/U76ntXFpalI/AAAAAAAEOsw/c00-ahJNQbg/s640/220105JoanLomography.jpg
 ---
 
-|  [![](https://lh5.googleusercontent.com/-WvYNeyT6jS4/U76ntXFpalI/AAAAAAAEOsw/c00-ahJNQbg/s640/220105JoanLomography.jpg)](https://photos.app.goo.gl/ZxWQCvKJ9k7k1pB17)  |
+|  [![Una dona i un home fan gestos davant d'una escultura de cavall marí en un pati amb columnes a Barcelona.](https://lh5.googleusercontent.com/-WvYNeyT6jS4/U76ntXFpalI/AAAAAAAEOsw/c00-ahJNQbg/s640/220105JoanLomography.jpg)](https://photos.app.goo.gl/ZxWQCvKJ9k7k1pB17)  |
 | --- |
 | De [Workshop Diana F+ amb pel·lícula experimental](https://photos.app.goo.gl/ZxWQCvKJ9k7k1pB17) |

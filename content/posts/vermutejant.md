@@ -10,7 +10,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2016/04/DSCF9052.jpg
 image: https://lh3.googleusercontent.com/-ZyrpglMJenA/VxSwIM1XL5I/AAAAAAAFD6E/O0bGK7ov3uIOfane-6Uxj7T2bpQrG6hTACCo/s640-Ic42/DSCF9052.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-ZyrpglMJenA/VxSwIM1XL5I/AAAAAAAFD6E/O0bGK7ov3uIOfane-6Uxj7T2bpQrG6hTACCo/s640-Ic42/DSCF9052.jpg)](https://photos.app.goo.gl/vipDfYMG2w5MrZqKA)  |
+|  [![Tertúlia en un bar: un home amb ulleres somriu, un altre menja i una mà gesticula sobre la taula plena d'ampolles.](https://lh3.googleusercontent.com/-ZyrpglMJenA/VxSwIM1XL5I/AAAAAAAFD6E/O0bGK7ov3uIOfane-6Uxj7T2bpQrG6hTACCo/s640-Ic42/DSCF9052.jpg)](https://photos.app.goo.gl/vipDfYMG2w5MrZqKA)  |
 | --- |
 | De [Vermutejant](https://photos.app.goo.gl/vipDfYMG2w5MrZqKA) |
 

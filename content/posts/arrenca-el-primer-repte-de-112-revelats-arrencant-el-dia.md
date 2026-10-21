@@ -23,7 +23,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2025/08/2025-02-13-LC-A-APX4
 description: "Ja és oberta la convocatòria “Arrencant el dia”, el primer repte del projecte 112 Revelats. Dona visibilitat a la teva mirada fotogràfica i participa en una obra col·lectiva que vol transformar-se en llibre. Consulta condicions a 112books.eu i ajuda’ns a fer-lo realitat en paper."
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/08/2025-02-13-LC-A-APX400@100-510Pyro-10-minuts-Varies-0020-2-1024x609.png)](https://www.112books.eu/112_revelats/112-revelats-resolent-emergencies-culturals/)
+[![Llums allargats i desenfocats pel moviment del trànsit en un carrer fosc de Barcelona a primera hora.](https://blog.pocallum.cat/wp-content/uploads/2025/08/2025-02-13-LC-A-APX400@100-510Pyro-10-minuts-Varies-0020-2-1024x609.png)](https://www.112books.eu/112_revelats/112-revelats-resolent-emergencies-culturals/)
 
 Ja està en marxa el primer repte del projecte [112 Revelats](https://112revelats.112books.eu) una iniciativa de l'Editorial [112Books.eu](https://www.112books.eu/): [Arrencant el dia](https://112revelats.112books.eu/challenge/convocatoria-fotografica-collectiva/).
 
@@ -35,7 +35,7 @@ Recorda que també pots [patrocinar el projecte](https://112revelats.112books.e
 
 Visita [112books.eu](https://www.112books.eu/) per sumar-t’hi, llegir la convocatòria i donar suport als fotògrafs emergents.
 
-![](https://www.112books.eu/wp-content/uploads/2025/08/112Revelats-logo.png)
+![Cartell gràfic sobre fons negre amb text inclinat en vermell i blanc sobre emergències culturals.](https://www.112books.eu/wp-content/uploads/2025/08/112Revelats-logo.png)
 
 ## **Participa-hi!**
 

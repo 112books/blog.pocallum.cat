@@ -32,7 +32,7 @@ description: "El bailaor Julio Ruiz presenta La Família dins el festival Ciutat
 title-seo: "Julio Ruiz – La Família: flamenco, dansa i força animal al Ciutat Flamenco Barcelona"
 ---
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/10/IMG_0979-1024x683.jpg)
+![Un ballarí amb barba fa un gir amb un vestit blanc que es difumina sobre un escenari fosc.](https://blog.pocallum.cat/wp-content/uploads/2025/10/IMG_0979-1024x683.jpg)
 
   
 Fa dies que segueixo fotografiant dansa. No qualsevol dansa, sinó dansa d’arrel o d’inspiració flamenca, dins del festival **[Ciutat Flamenco Barcelona](https://ciutatflamenco.com/ca/)**, del qual m’estic fent fan total.
@@ -41,7 +41,7 @@ Enguany, amb la voluntat de repartir l’oferta flamenca per tota la ciutat, el 
 
 A més, en acabar, dins del mateix Ateneu, hem pogut presenciar per primera vegada —i espero que no l’última— la **Ciutat Batalla**, una batalla de _bailaoras_ en un ring de boxa, amb un estil totalment _street_. Aviat en publicaré algunes fotografies també.
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/10/IMG_1065-1024x683.jpg)
+![Un ballarí en ple moviment sobre un escenari fosc, acompanyat per un guitarrista assegut i un home dret al fons.](https://blog.pocallum.cat/wp-content/uploads/2025/10/IMG_1065-1024x683.jpg)
 
 ## La Familia
 
@@ -61,7 +61,7 @@ https://vimeo.com/1130616138?share=copy&fl=sv&fe=ci
 
 * * *
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/10/IMG_1165-1024x683.jpg)
+![Persona borrosa amb barret caminant ràpidament sobre un fons negre, en un ambient nocturn o d'espectacle.](https://blog.pocallum.cat/wp-content/uploads/2025/10/IMG_1165-1024x683.jpg)
 
 Julio Ruiz s’ha convertit en el primer coreògraf de flamenco becat pel **Centre Nacional de la Dansa de París** i per la **_Cité Internationale des Arts_**. Després d’una residència de diversos mesos, ha forjat aquesta creació de la qual destaca:
 

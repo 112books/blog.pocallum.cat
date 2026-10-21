@@ -14,7 +14,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2011/10/IMG_8834.jpg
 image: https://lh5.googleusercontent.com/-DPgKhloe2zI/TprJ6yZPvxI/AAAAAAACYaQ/8Ya1ls5oVUI/s800/IMG_8834.jpg
 ---
 
-|  [![](https://lh5.googleusercontent.com/-DPgKhloe2zI/TprJ6yZPvxI/AAAAAAACYaQ/8Ya1ls5oVUI/s800/IMG_8834.jpg)](https://photos.app.goo.gl/HUvWgik6c2c3XhAy7)  |
+|  [![Un guitarrista i una dona amb pandereta es miren somrient en un escenari fosc durant un concert.](https://lh5.googleusercontent.com/-DPgKhloe2zI/TprJ6yZPvxI/AAAAAAACYaQ/8Ya1ls5oVUI/s800/IMG_8834.jpg)](https://photos.app.goo.gl/HUvWgik6c2c3XhAy7)  |
 | --- |
 | De [VII Concurs de maquetas "El Arbusto" - Divendres](https://photos.app.goo.gl/HUvWgik6c2c3XhAy7) |
 

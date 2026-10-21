@@ -16,7 +16,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/05/Caffenol-7-Lubi-
 image: https://lh3.googleusercontent.com/-25PFCOkfnjo/UZZNvmJyzzI/AAAAAAADtGo/TAOYomjPWs8/s640/Caffenol%2520%25237%2520Lubi%2520-%2520BN%2520-%2520009.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-25PFCOkfnjo/UZZNvmJyzzI/AAAAAAADtGo/TAOYomjPWs8/s640/Caffenol%2520%25237%2520Lubi%2520-%2520BN%2520-%2520009.jpg)](https://photos.app.goo.gl/CX45SWLrgFawMntRA)  |
+|  [![Una torre elèctrica d'alta tensió amb cables i aïlladors s'alça contra el cel i els núvols.](https://lh3.googleusercontent.com/-25PFCOkfnjo/UZZNvmJyzzI/AAAAAAADtGo/TAOYomjPWs8/s640/Caffenol%2520%25237%2520Lubi%2520-%2520BN%2520-%2520009.jpg)](https://photos.app.goo.gl/CX45SWLrgFawMntRA)  |
 | --- |
 | De [Caffenol #07 - Lomo Lubitel 166B - Lomography BN100](https://photos.app.goo.gl/CX45SWLrgFawMntRA) |
 

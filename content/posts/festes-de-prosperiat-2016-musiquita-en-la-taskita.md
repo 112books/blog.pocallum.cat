@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2016/06/DSCF1431.jpg
 image: https://lh3.googleusercontent.com/-jAv0kiir1ts/V06AEAqkNkI/AAAAAAAFL-8/TVSpBXAWQos9Lw0VMDbyNN9QcHyVV80swCCo/s640/DSCF1431.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-jAv0kiir1ts/V06AEAqkNkI/AAAAAAAFL-8/TVSpBXAWQos9Lw0VMDbyNN9QcHyVV80swCCo/s640/DSCF1431.jpg)](https://photos.app.goo.gl/Kdoarn6kYecGwVnx8)  |
+|  [![Home assegut tocant la guitarra i dona cantant a l'aire lliure sota una carpa en una actuació musical.](https://lh3.googleusercontent.com/-jAv0kiir1ts/V06AEAqkNkI/AAAAAAAFL-8/TVSpBXAWQos9Lw0VMDbyNN9QcHyVV80swCCo/s640/DSCF1431.jpg)](https://photos.app.goo.gl/Kdoarn6kYecGwVnx8)  |
 | --- |
 | De [Festes de Prosperiat 2016 - Musiquita en la Taskita](https://photos.app.goo.gl/Kdoarn6kYecGwVnx8) |

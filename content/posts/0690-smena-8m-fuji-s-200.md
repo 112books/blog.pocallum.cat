@@ -10,7 +10,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/03/0690-LaSardina-0
 image: https://lh4.googleusercontent.com/-3JLBZ9lB6L0/UOtT5pzWe9I/AAAAAAADfgY/nPPHv2wRGvY/s800/0690%2520-%2520LaSardina%2520-003.jpg
 ---
 
-|  [![](https://lh4.googleusercontent.com/-3JLBZ9lB6L0/UOtT5pzWe9I/AAAAAAADfgY/nPPHv2wRGvY/s800/0690%2520-%2520LaSardina%2520-003.jpg)](https://photos.app.goo.gl/pRBGrbu454nwBUv66)  |
+|  [![Troncs grisos i branques amb fulles grogues de tardor en un bosc assolellat.](https://lh4.googleusercontent.com/-3JLBZ9lB6L0/UOtT5pzWe9I/AAAAAAADfgY/nPPHv2wRGvY/s800/0690%2520-%2520LaSardina%2520-003.jpg)](https://photos.app.goo.gl/pRBGrbu454nwBUv66)  |
 | --- |
 | De [0690 - Smena 8m - Fuji S 2](https://picasaweb.google.com/103138221614479310970/0690Smena8mFujiS200?authuser=0&feat=embedwebsite)[00](https://photos.app.goo.gl/pRBGrbu454nwBUv66) |
 

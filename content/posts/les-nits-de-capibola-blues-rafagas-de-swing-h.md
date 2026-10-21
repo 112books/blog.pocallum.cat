@@ -15,6 +15,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/11/IMG_5521.jpg
 image: https://lh6.googleusercontent.com/-P-xlCVeB8QQ/ULCrUkzfK1I/AAAAAAADdJs/0CALpkG22uI/s800/IMG_5521.jpg
 ---
 
-| [![](https://lh6.googleusercontent.com/-P-xlCVeB8QQ/ULCrUkzfK1I/AAAAAAADdJs/0CALpkG22uI/s800/IMG_5521.jpg)](https://photos.app.goo.gl/HnHZDNwZF7S59RGC9) |
+| [![Quatre músics toquen en directe el baix, el teclat, la bateria i el saxòfon en un escenari fosc.](https://lh6.googleusercontent.com/-P-xlCVeB8QQ/ULCrUkzfK1I/AAAAAAADdJs/0CALpkG22uI/s800/IMG_5521.jpg)](https://photos.app.goo.gl/HnHZDNwZF7S59RGC9) |
 | --- |
 | De [Ráfagas de Swing + Huckleberry Finn Blues Band](https://photos.app.goo.gl/HnHZDNwZF7S59RGC9) |

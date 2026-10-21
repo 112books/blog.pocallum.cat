@@ -15,7 +15,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2020/07/2482-Dian-Xpro200-00
 
 <figure>
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2020/07/2482-Dian-Xpro200-003.jpg)](https://photos.app.goo.gl/VvpHV131AkcWc9yh6)
+[![Un carrer tranquil amb edificis blancs, un molí de vent amb aspes i cotxes aparcats sota un cel blau.](https://blog.pocallum.cat/wp-content/uploads/2020/07/2482-Dian-Xpro200-003.jpg)](https://photos.app.goo.gl/VvpHV131AkcWc9yh6)
 
 <figcaption>
 

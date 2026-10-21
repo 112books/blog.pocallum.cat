@@ -19,7 +19,7 @@ title-seo: Dinar de comiat de l’Eli a la Nau Bostik | 2026
 description: 'Crònica del dinar de comiat de l’Eli a la Nau Bostik: una trobada de germanor, carmanyoles i bons desitjos per a la nova etapa.'
 ---
 
-![](/media/2026-10-04-LCa+-Foma400-Varies-0006.jpg "Eli")
+![Dona jove somrient amb una gran arracada de cèrcol en primer pla, sota un para-sol plegat en una terrassa.](/media/2026-10-04-LCa+-Foma400-Varies-0006.jpg)
 
 Aquest passat 26 de setembre vam fer un petit dinar informal de carmanyola a la [Nau Bostik](https://naubostik.com/). Era divendres, la calor era insuportable al sol, però ella, la companya [Eli](https://www.instagram.com/eliicrego/), es mereixia ser acomiadada amb honors.
 

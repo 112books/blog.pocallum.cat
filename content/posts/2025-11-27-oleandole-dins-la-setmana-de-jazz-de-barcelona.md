@@ -34,7 +34,7 @@ description: "Crònica de la vetllada d’Oleandole a la Setmana de Jazz de Barc
 title-seo: "‘Oleandole’ a la Setmana de Jazz de Barcelona – Crònica i fotos"
 ---
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/11/2025-11-27-LM6-Foma400@1600-Oleandole-A-0015-1024x681.jpg)
+![Una dona fa un gest teatral al centre d'un escenari fosc mentre músics asseguts l'acompanyen amb saxo.](https://blog.pocallum.cat/wp-content/uploads/2025/11/2025-11-27-LM6-Foma400@1600-Oleandole-A-0015-1024x681.jpg)
 
 Aquest passat dijous vaig tenir ocasió d’assistir a la mítica [Setmana de Jazz de Barcelona](https://tallerdemusics.com/ca/management-i-produccions/setmana-de-jazz-de-barcelona/), organitzada pel **[Taller de Músics](https://www.instagram.com/tallerdemusics/)**. I sí, ho admeto: gairebé se m’escapa, si no fos perquè el meu germà va avisar-me a temps que aquest festival —que es celebra des dels anys vuitanta— tornava amb una edició especialment prometedora.
 

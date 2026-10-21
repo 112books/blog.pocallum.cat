@@ -12,7 +12,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2020/06/2020-06-22-c-004-102
 
 <figure>
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2020/06/2020-06-22-c-004-1024x632.jpg)](https://photos.app.goo.gl/B2b65V9TrfXn6Gu59)
+[![Dos músics toquen el saxòfon i la guitarra en un banc davant d'unes escales amb un mural, mentre un home els mira.](https://blog.pocallum.cat/wp-content/uploads/2020/06/2020-06-22-c-004-1024x632.jpg)](https://photos.app.goo.gl/B2b65V9TrfXn6Gu59)
 
 <figcaption>
 

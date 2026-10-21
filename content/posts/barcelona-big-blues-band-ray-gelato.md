@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2014/01/IMG_3050.jpg
 image: https://lh3.googleusercontent.com/-eqWfgAp_8k8/Utxv7E3yNtI/AAAAAAAEBIQ/RvQRjpv4DFM/s640/IMG_3050.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-eqWfgAp_8k8/Utxv7E3yNtI/AAAAAAAEBIQ/RvQRjpv4DFM/s640/IMG_3050.jpg)](https://photos.app.goo.gl/vrPWyHFtq7zEPZtw9)  |
+|  [![Un cantant i diversos saxofonistes actuen en directe en un club de jazz fosc, amb un contrabaix al fons.](https://lh3.googleusercontent.com/-eqWfgAp_8k8/Utxv7E3yNtI/AAAAAAAEBIQ/RvQRjpv4DFM/s640/IMG_3050.jpg)](https://photos.app.goo.gl/vrPWyHFtq7zEPZtw9)  |
 | --- |
 | De [Barcelona Big Blues Band + Ray Gelato](https://photos.app.goo.gl/vrPWyHFtq7zEPZtw9) |

@@ -12,6 +12,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/12/Dev02-Bronica-LG
 image: https://lh3.googleusercontent.com/-i8WxvaNhwX8/Ur3ZgqrvssI/AAAAAAAD_fo/g0sj79-OnIM/s640/Dev%252302%2520-%2520Bronica%2520-%2520LG%2520-%2520012.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-i8WxvaNhwX8/Ur3ZgqrvssI/AAAAAAAD_fo/g0sj79-OnIM/s640/Dev%252302%2520-%2520Bronica%2520-%2520LG%2520-%2520012.jpg)](https://photos.app.goo.gl/ZSz5J8X57TVFTRC1A)  |
+|  [![Home gran amb boina i ulleres mira atentament a la càmera en un interior domèstic.](https://lh3.googleusercontent.com/-i8WxvaNhwX8/Ur3ZgqrvssI/AAAAAAAD_fo/g0sj79-OnIM/s640/Dev%252302%2520-%2520Bronica%2520-%2520LG%2520-%2520012.jpg)](https://photos.app.goo.gl/ZSz5J8X57TVFTRC1A)  |
 | --- |
 | De [Kodak Dev#02 - Zenza Bronica ETRS - Lady Grey 400](https://photos.app.goo.gl/ZSz5J8X57TVFTRC1A) |

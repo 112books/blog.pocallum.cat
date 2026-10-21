@@ -13,6 +13,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/02/DSF8436.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2024/02/DSF8436-1024x683.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/02/DSF8436-1024x683.jpg)](https://photos.app.goo.gl/bGN3ZKRDJ75PAUmC9)
+[![Gos terrier abrigat amb una jaqueta clara, dempeus enmig d'un esdeveniment amb persones al voltant.](https://blog.pocallum.cat/wp-content/uploads/2024/02/DSF8436-1024x683.jpg)](https://photos.app.goo.gl/bGN3ZKRDJ75PAUmC9)
 
 I ja en van 9! Nou anys de la [Nau Bostik](https://naubostik.com/) com a Equipament Sociocultural de gestió comunitària del barri de la Sagrera. Aquí unes poques fotos del bon ambient i festa del que hem gaudit tots!

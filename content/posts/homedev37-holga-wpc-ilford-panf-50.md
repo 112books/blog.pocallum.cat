@@ -11,6 +11,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2015/03/HD37-HolgaWPC-Il
 image: https://lh4.googleusercontent.com/-t9SUEt5nG1Y/VQC1UyfY8kI/AAAAAAAEojI/_4IdvnRxX0I/s640/HD%252337-HolgaWPC-Ilford50-002.jpg
 ---
 
-|  [![](https://lh4.googleusercontent.com/-t9SUEt5nG1Y/VQC1UyfY8kI/AAAAAAAEojI/_4IdvnRxX0I/s640/HD%252337-HolgaWPC-Ilford50-002.jpg)](https://photos.app.goo.gl/ShWpizLnMe6uPEJR7)  |
+|  [![Primer pla d'una figuera de moro amb espines, amb palmeres i edificis difuminats al fons.](https://lh4.googleusercontent.com/-t9SUEt5nG1Y/VQC1UyfY8kI/AAAAAAAEojI/_4IdvnRxX0I/s640/HD%252337-HolgaWPC-Ilford50-002.jpg)](https://photos.app.goo.gl/ShWpizLnMe6uPEJR7)  |
 | --- |
 | De [Homedev#37 - Holga WPC - Ilford Panf + 50](https://photos.app.goo.gl/ShWpizLnMe6uPEJR7) |

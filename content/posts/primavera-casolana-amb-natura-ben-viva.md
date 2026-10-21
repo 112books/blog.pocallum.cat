@@ -12,7 +12,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2011/05/IMG_5374.jpg
 image: https://lh6.googleusercontent.com/_xYdsA1KqJRQ/Tb0hltpitmI/AAAAAAACHWg/OO5imrU4Dtk/s640/IMG_5374.jpg
 ---
 
-|  [![](https://lh6.googleusercontent.com/_xYdsA1KqJRQ/Tb0hltpitmI/AAAAAAACHWg/OO5imrU4Dtk/s640/IMG_5374.jpg)](https://photos.app.goo.gl/JA7VRMXowquLnj536)  |
+|  [![Una flor blanca d'espàtia en primer pla amb fulles verdes i una llibreria desenfocada al fons.](https://lh6.googleusercontent.com/_xYdsA1KqJRQ/Tb0hltpitmI/AAAAAAACHWg/OO5imrU4Dtk/s640/IMG_5374.jpg)](https://photos.app.goo.gl/JA7VRMXowquLnj536)  |
 | --- |
 | De [Primavera #01 01/05/11](https://photos.app.goo.gl/JA7VRMXowquLnj536) |
 

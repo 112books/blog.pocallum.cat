@@ -10,6 +10,6 @@ tags: []
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/10/MG_8547.jpg
 image: https://lh6.googleusercontent.com/-NddlQgI-hxg/Uk9ePfUVd3I/AAAAAAAD6Qs/ThuiG6xyLFU/s640/_MG_8547.jpg
 ---
-|  [![](https://lh6.googleusercontent.com/-NddlQgI-hxg/Uk9ePfUVd3I/AAAAAAAD6Qs/ThuiG6xyLFU/s640/_MG_8547.jpg)](https://photos.app.goo.gl/7GWDuoH9UtKKmJv68)  |
+|  [![Una dona amb una flor al cabell maquilla amb un pinzell el tatuatge d'ocell al pit d'una model en un camerino fosc.](https://lh6.googleusercontent.com/-NddlQgI-hxg/Uk9ePfUVd3I/AAAAAAAD6Qs/ThuiG6xyLFU/s640/_MG_8547.jpg)](https://photos.app.goo.gl/7GWDuoH9UtKKmJv68)  |
 | --- |
 | De [Barcelona tattoo Expo 2013 - Divendres](https://photos.app.goo.gl/7GWDuoH9UtKKmJv68) |

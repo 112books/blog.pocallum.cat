@@ -33,7 +33,7 @@ description: "Crònica fotogràfica del segon dissabte de les Festes de Prosperi
 title-seo: "Festes de Prosperitat 2026: Agua Bendita i les orquestres de l’Àngel Pestaña"
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2026/06/DSCF5080-1024x683.jpg)](https://photos.app.goo.gl/iRwwhR8MzHSsVq3x7)
+[![Tres joves brinden amb gots de cervesa en un ambient nocturn fosc, un d'ells amb el braç tatuat i un altre amb un mocador rosa.](https://blog.pocallum.cat/wp-content/uploads/2026/06/DSCF5080-1024x683.jpg)](https://photos.app.goo.gl/iRwwhR8MzHSsVq3x7)
 
 Ahir es va viure, probablement, la jornada més intensa de la **Festa Major de Prosperitat**. Per la meva banda, entre feina i logística, no vaig poder sortir a “disparar” fins després de sopar. Però un cop al carrer vaig anar directe a barraca: tenia molta curiositat per veure **[Agua Bendita](https://www.instagram.com/losaguabendita/)**, protagonistes de la **IV Nit Prospatillera**.
 

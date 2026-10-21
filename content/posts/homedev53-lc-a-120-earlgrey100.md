@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2015/08/Homedev53-LCa120
 image: https://lh3.googleusercontent.com/-XTTYqY1BzBo/VclD_s3QGzI/AAAAAAAEzP4/i9Zg2pxN8_E/s640-Ic42/Homedev%25252353%252520-%252520LCa120%252520-%252520006.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-XTTYqY1BzBo/VclD_s3QGzI/AAAAAAAEzP4/i9Zg2pxN8_E/s640-Ic42/Homedev%25252353%252520-%252520LCa120%252520-%252520006.jpg)](https://photos.app.goo.gl/JaumwP9uKdyXnHfg6)  |
+|  [![El mar s'estén fins a un penya-segat rocallós amb pins a la dreta, sota un cel clar, en blanc i negre.](https://lh3.googleusercontent.com/-XTTYqY1BzBo/VclD_s3QGzI/AAAAAAAEzP4/i9Zg2pxN8_E/s640-Ic42/Homedev%25252353%252520-%252520LCa120%252520-%252520006.jpg)](https://photos.app.goo.gl/JaumwP9uKdyXnHfg6)  |
 | --- |
 | De [Homedev#53 - LC-A 120 - EarlGrey100](https://photos.app.goo.gl/JaumwP9uKdyXnHfg6) |

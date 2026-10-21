@@ -29,7 +29,7 @@ description: "Descobreix *Arrencant el dia*, el primer fotollibre digital gratu�
 title-seo: "Arrencant el dia – Fotollibre digital col·lectiu de 112Revelats"
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2026/02/Arrencant-el-dia-01-1024x769.png)](https://112revelats.112books.eu/)
+[![Dona d'esquena recollint-se els cabells davant d'un edifici modern en un entorn urbà.](https://blog.pocallum.cat/wp-content/uploads/2026/02/Arrencant-el-dia-01-1024x769.png)](https://112revelats.112books.eu/)
 
 La primera edició del projecte col·lectiu **[112Revelats](https://112revelats.112books.eu/)** ja és aquí amb el fotollibre digital _Arrencant el dia_. Sis fotògrafs — **[Jordi Mallol i Comas](https://www.instagram.com/gatillepisphoto/), [Miyuki Kurosaki](https://www.instagram.com/miyupixi/), [Tommy Lanceley](https://www.instagram.com/tommy_jp_photos), [Xavier Sisternas](https://www.instagram.com/xaviersisternas/), [Pedro ‘Clic’ Garcia Fernandez](https://www.instagram.com/pedroclick5/) i [Joan ‘Linux](https://www.instagram.com/pocallum/)’** — capturen l’albada amb imatges poètiques i relats breus que transformen la quotidianitat en narrativa visual.
 

@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2015/08/Ilford-Obscura-a
 image: https://lh3.googleusercontent.com/-3MTzNAJk1FM/VceoET4IJWI/AAAAAAAEzJE/o8hpozEypdg/s640-Ic42/Ilford%252520Obscura%252520a%252520Rose%252520-%252520002.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-3MTzNAJk1FM/VceoET4IJWI/AAAAAAAEzJE/o8hpozEypdg/s640-Ic42/Ilford%252520Obscura%252520a%252520Rose%252520-%252520002.jpg)](https://photos.app.goo.gl/ftz4BBRipFZcMGZt6)  |
+|  [![Roques fosques en primer pla davant d'un penya-segat amb un arbre, en un paisatge marí en blanc i negre.](https://lh3.googleusercontent.com/-3MTzNAJk1FM/VceoET4IJWI/AAAAAAAEzJE/o8hpozEypdg/s640-Ic42/Ilford%252520Obscura%252520a%252520Rose%252520-%252520002.jpg)](https://photos.app.goo.gl/ftz4BBRipFZcMGZt6)  |
 | --- |
 | De [Ilford Obscura a Punta Turment. Sessió estenopèica feta amb en Freancesc Galí.](https://photos.app.goo.gl/ftz4BBRipFZcMGZt6) |

@@ -14,7 +14,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2022/02/DSF6904-1024x683.jpg
 ---
 <figure>
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2022/02/DSF6904-1024x683.jpg)](https://photos.app.goo.gl/r9n2BCqcBEAUWP1AA)
+[![Una dona amb una espectacular disfressa de plomes balla en una rua nocturna davant d'un públic abrigat.](https://blog.pocallum.cat/wp-content/uploads/2022/02/DSF6904-1024x683.jpg)](https://photos.app.goo.gl/r9n2BCqcBEAUWP1AA)
 
 <figcaption>
 

@@ -10,7 +10,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_1074-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_1074.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_1074.jpg)](https://photos.app.goo.gl/U74i3Uq5oUHo2cvKA)
+[![Un músic canta amb passió amb els ulls tancats i toca la guitarra elèctrica en un escenari fosc.](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_1074.jpg)](https://photos.app.goo.gl/U74i3Uq5oUHo2cvKA)
 
 Bé, dissabte els concerts del Poliesportiu de Valldaura també vàrem tenir una molt bona acollida entre els assistents. Va començar George Bedard & The Kingpins amb, Blas Picón a la bateria i Pastu al baix elèctric. Un polivalent guitarrista ple d'energia i versatilitat va sonar molt R'n'R però va fer les delícies de tot el públic. Després, els suecs Gumbo varen fer créixer encara més les ganes de festa i ball. Un nit inoblidable més plena de bons músics i bon ambient.
 

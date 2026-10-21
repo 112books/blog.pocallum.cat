@@ -12,7 +12,7 @@ image: https://lh3.googleusercontent.com/pw/AM-JKLW6IBjcjM-5NA9m8Uw9xqiaAgX_0wwU
 
 <figure>
 
-[![](https://lh3.googleusercontent.com/pw/AM-JKLW6IBjcjM-5NA9m8Uw9xqiaAgX_0wwUGXi3ftWwvDu27gIZxTOh6js-JB3UZmXl6GIS-jY9bEycbFRVneMbDo72cTLvMF5VB904wvh-sGt6_UkFb35xQ8aWCKEFkFie6YBwC6vfsDa3tevBFfbz20vd9Q=w764-h1246-no?authuser=0)](https://photos.app.goo.gl/aZoDU1XH1nfRJrPj8)
+[![Un home camina per la vorera davant d'una església blanca amb una torre alta i palmeres.](https://lh3.googleusercontent.com/pw/AM-JKLW6IBjcjM-5NA9m8Uw9xqiaAgX_0wwUGXi3ftWwvDu27gIZxTOh6js-JB3UZmXl6GIS-jY9bEycbFRVneMbDo72cTLvMF5VB904wvh-sGt6_UkFb35xQ8aWCKEFkFie6YBwC6vfsDa3tevBFfbz20vd9Q=w764-h1246-no?authuser=0)](https://photos.app.goo.gl/aZoDU1XH1nfRJrPj8)
 
 <figcaption>
 

@@ -30,6 +30,6 @@ description: "De la casualitat a la creativitat: sessió fotogràfica amb vestit
 title-seo: "Sessió Fotogràfica Vestit Oriental | Hasselblad 500CM"
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/02/2025-01-29-Hasselblad500cm-Foma100-B-Alexandra-0012-1024x1024-1.jpg)](https://pocallum.cat/de-la-casualitat-a-la-creativitat-una-sessio-fotografica-amb-vestit-oriental/)
+[![Dona jove amb tatuatges al braç, recolzada sobre la mà, mira a càmera en un retrat en blanc i negre sobre fons neutre.](https://blog.pocallum.cat/wp-content/uploads/2025/02/2025-01-29-Hasselblad500cm-Foma100-B-Alexandra-0012-1024x1024-1.jpg)](https://pocallum.cat/de-la-casualitat-a-la-creativitat-una-sessio-fotografica-amb-vestit-oriental/)
 
 Petit [article / notícia](https://pocallum.cat/de-la-casualitat-a-la-creativitat-una-sessio-fotografica-amb-vestit-oriental/) de la darrera sessió feta a Pocallum.

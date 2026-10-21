@@ -12,7 +12,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2011/04/IMG_0159.jpg
 image: https://lh5.googleusercontent.com/_xYdsA1KqJRQ/TZUfkFwHSzI/AAAAAAACFk0/IrEfhDwAcpo/s640/IMG_0159.jpg
 ---
 
-|  [![](https://lh5.googleusercontent.com/_xYdsA1KqJRQ/TZUfkFwHSzI/AAAAAAACFk0/IrEfhDwAcpo/s640/IMG_0159.jpg)](https://photos.app.goo.gl/nDcNMqyMPB71hedRA)  |
+|  [![Una tatuadora amb mascareta treballa en un tatuatge a l'espatlla d'una clienta davant el dibuix d'una papallona.](https://lh5.googleusercontent.com/_xYdsA1KqJRQ/TZUfkFwHSzI/AAAAAAACFk0/IrEfhDwAcpo/s640/IMG_0159.jpg)](https://photos.app.goo.gl/nDcNMqyMPB71hedRA)  |
 | --- |
 | De [Primavera B](https://picasaweb.google.com/linuxbcn/PrimaveraBCN?feat=embedwebsite)[CN](https://photos.app.goo.gl/nDcNMqyMPB71hedRA) |
 

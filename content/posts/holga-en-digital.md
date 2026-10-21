@@ -12,7 +12,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2022/03/photo_2022-03-18-15.
 
 <figure>
 
-![](https://blog.pocallum.cat/wp-content/uploads/2022/03/photo_2022-03-18-15.36.05-1024x1024.jpeg)
+![Retrat d'una dona gran amb turbant groc i ulleres negres pintat en un mur de Barcelona.](https://blog.pocallum.cat/wp-content/uploads/2022/03/photo_2022-03-18-15.36.05-1024x1024.jpeg)
 
 <figcaption>
 

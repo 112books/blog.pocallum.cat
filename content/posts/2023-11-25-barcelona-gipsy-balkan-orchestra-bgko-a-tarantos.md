@@ -13,7 +13,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2023/11/2023-11-25-BGKO-
 image: https://blog.pocallum.cat/wp-content/uploads/2023/11/2023-11-25-BGKO-al-Tarantos-Lm6-0020-1024x622.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2023/11/2023-11-25-BGKO-al-Tarantos-Lm6-0020-1024x622.jpg)](https://photos.app.goo.gl/e6JNr372rMAW7JSb8)
+[![Dues músiques actuen en un escenari fosc de Barcelona; una canta al micròfon i l'altra toca l'acordió.](https://blog.pocallum.cat/wp-content/uploads/2023/11/2023-11-25-BGKO-al-Tarantos-Lm6-0020-1024x622.jpg)](https://photos.app.goo.gl/e6JNr372rMAW7JSb8)
 
 Aquest passat dissabte vaig tenir el plaer d'assistir al concert de "petit format" amb els [BGKO](https://bgko.org/). La música (i algun clip) la podeu escoltar al seu web, però recomano molt els seus directes plens d'energia i vitalitat de la tradició de l'est d'Europa.
 

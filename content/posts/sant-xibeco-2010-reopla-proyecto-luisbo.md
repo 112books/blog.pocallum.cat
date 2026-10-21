@@ -10,7 +10,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_9371-1024x68
 image: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_9371-1024x682.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_9371-1024x682.jpg)](https://photos.app.goo.gl/w755VEyCGyBncyJK9)
+[![Un home calb somriu amb una margarida blanca al costat del cap en un ambient fosc.](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_9371-1024x682.jpg)](https://photos.app.goo.gl/w755VEyCGyBncyJK9)
 
 Sant Xibeco de nit amb els concerts al Casal de barri de Prosperitat. Els grups, de kilòmetre 0, [Reopla](http://www.myspace.com/reopla%20reopla) (amb la meitat de components tocant moltes hores al vermut previ) i els superfreaks [Proyecto Luisbo](http://www.proyectoluisbo.com/).
 

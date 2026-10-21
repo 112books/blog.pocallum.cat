@@ -13,7 +13,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2011/05/IMG_1996-1.jpg
 image: https://lh6.googleusercontent.com/_xYdsA1KqJRQ/TdYpCvxFgFI/AAAAAAACJh4/uvk_0ZMcY7U/s640/IMG_1996.jpg
 ---
 
-|  [![](https://lh6.googleusercontent.com/_xYdsA1KqJRQ/TdYpCvxFgFI/AAAAAAACJh4/uvk_0ZMcY7U/s640/IMG_1996.jpg)](https://photos.app.goo.gl/PJtzREiCrgtn9oSB7)  |
+|  [![El rostre d'un home barbut i de cabells llargs pintat en tons blaus sobre un mural urbà a Barcelona.](https://lh6.googleusercontent.com/_xYdsA1KqJRQ/TdYpCvxFgFI/AAAAAAACJh4/uvk_0ZMcY7U/s640/IMG_1996.jpg)](https://photos.app.goo.gl/PJtzREiCrgtn9oSB7)  |
 | --- |
 | De [Nou graffiti a l'Ateneu Popular de 9 Barris](https://photos.app.goo.gl/PJtzREiCrgtn9oSB7) |
 

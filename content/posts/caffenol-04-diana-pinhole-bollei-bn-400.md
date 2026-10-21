@@ -14,7 +14,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/05/Caffenol-04-Dian
 image: https://lh3.googleusercontent.com/-pRf4oonPc-w/UZP-p_VM5BI/AAAAAAADs-g/D1ESPXeyGw0/s640/Caffenol%252004%2520-%2520Diana%2520Pinh005.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-pRf4oonPc-w/UZP-p_VM5BI/AAAAAAADs-g/D1ESPXeyGw0/s640/Caffenol%252004%2520-%2520Diana%2520Pinh005.jpg)](https://photos.app.goo.gl/DHXEyY7L2VtcUiZg6)  |
+|  [![Escultura de filferro d'una moto clàssica sobre un suport amb tela fosca al darrere en un entorn urbà.](https://lh3.googleusercontent.com/-pRf4oonPc-w/UZP-p_VM5BI/AAAAAAADs-g/D1ESPXeyGw0/s640/Caffenol%252004%2520-%2520Diana%2520Pinh005.jpg)](https://photos.app.goo.gl/DHXEyY7L2VtcUiZg6)  |
 | --- |
 | De [Caffenol #04 - Diana Pinhole - Bollei BN 400](https://photos.app.goo.gl/DHXEyY7L2VtcUiZg6) |
 

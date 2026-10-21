@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_7587-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_7587-1024x682.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_7587-1024x682.jpg)](https://photos.app.goo.gl/kir6dRMqg67FJhkt9)
+[![Retrat en primer pla d'una dona amb ulleres fosques mirant cap amunt, amb llum dura sobre fons negre.](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_7587-1024x682.jpg)](https://photos.app.goo.gl/kir6dRMqg67FJhkt9)
 
 Sessió de fotos d'estudi amb Kaori [Totes les fotos](https://photos.app.goo.gl/kir6dRMqg67FJhkt9)

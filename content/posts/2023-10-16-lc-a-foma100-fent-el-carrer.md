@@ -11,7 +11,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2023/10/2023-10-16-LC-A-
 image: https://blog.pocallum.cat/wp-content/uploads/2023/10/2023-10-16-LC-A-Foma100-0009-625x1024.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2023/10/2023-10-16-LC-A-Foma100-0009-625x1024.jpg)](https://photos.app.goo.gl/3CbWz2nFeDY3UWmR6)
+[![Home d'esquena amb samarreta de ratlles camina per un carrer de Barcelona amb un portal clàssic i gent asseguda al fons.](https://blog.pocallum.cat/wp-content/uploads/2023/10/2023-10-16-LC-A-Foma100-0009-625x1024.jpg)](https://photos.app.goo.gl/3CbWz2nFeDY3UWmR6)
 
 Seguim caminant, sempre amb bona música als auriculars, pel barri, per la Sagrera, pel centre, arreu! Sempre amb alguna (o algunes) càmeres i això és el que va sortint.
 

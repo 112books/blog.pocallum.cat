@@ -15,7 +15,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2020/05/2020-05-15-013-1024x
 
 <figure>
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2020/05/2020-05-15-013-1024x483.jpg)](https://photos.app.goo.gl/GSbtgB3MkaZvVXwMA)
+[![Pomes i plàtans en un plat, tasses de cafè i una bossa de xips sobre una taula de quadres.](https://blog.pocallum.cat/wp-content/uploads/2020/05/2020-05-15-013-1024x483.jpg)](https://photos.app.goo.gl/GSbtgB3MkaZvVXwMA)
 
 <figcaption>
 

@@ -12,7 +12,7 @@ image: https://lh3.googleusercontent.com/pw/ACtC-3dHNitdOyDBgtWrjEcGEPeUp6bfSCcb
 
 <figure>
 
-[![](https://lh3.googleusercontent.com/pw/ACtC-3dHNitdOyDBgtWrjEcGEPeUp6bfSCcb35H1OgzEs2kLJndsJc8A7Tznnq1-l0HrWvYxPpCqKWCd5SJWuxbYKP2gRBwpaiaA4EyjIIqnabzskLTXLcMla8sLlB6F8kxgE_u5TinOF4DE4YjBBJbGQ9litA=w1572-h1049-no?authuser=0)](https://photos.app.goo.gl/xoeMgjdf6JZuj6oa9)
+[![Tres homes en un passadís; el del mig llegeix una llibreta oberta mentre els altres l'escolten i miren el mòbil.](https://lh3.googleusercontent.com/pw/ACtC-3dHNitdOyDBgtWrjEcGEPeUp6bfSCcb35H1OgzEs2kLJndsJc8A7Tznnq1-l0HrWvYxPpCqKWCd5SJWuxbYKP2gRBwpaiaA4EyjIIqnabzskLTXLcMla8sLlB6F8kxgE_u5TinOF4DE4YjBBJbGQ9litA=w1572-h1049-no?authuser=0)](https://photos.app.goo.gl/xoeMgjdf6JZuj6oa9)
 
 <figcaption>
 

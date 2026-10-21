@@ -27,7 +27,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2026/02/arrencant_dia.webp
 description: "L’autor del projecte de ball El naixement d’una bèstia: Antropoformologies I comparteix la notícia de Cultura B sobre tres llibres que mostren una Barcelona desconeguda, incloent també Arrencant el dia, un altre projecte en què participa."
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2026/02/arrencant_dia.webp)](https://culturab.cat/noticies/tres-llibres-retraten-barcelona-no-timagines/)
+[![Una dona d'esquena s'estira el coll enmig d'un grup de gent gran que fa exercici en un parc d'hivern.](https://blog.pocallum.cat/wp-content/uploads/2026/02/arrencant_dia.webp)](https://culturab.cat/noticies/tres-llibres-retraten-barcelona-no-timagines/)
 
 Des d’aquí, com a autor del projecte de ball **[El naixement d’una bèstia: Antropoformologies I](https://www.112books.eu/producte/el-naixement-duna-bestia-antropoformologies-i/)**, vull compartir una notícia que m’ha fet molta il·lusió. La periodista **Joana Justicia**, de **[Cultura B](https://culturab.cat/)**, parla de les darreres novetats de **[112Books](https://www.112books.eu/2026/02/13/novetats-febrer-2026/)**, i hi surten dos projectes en què també estic involucrat: el nostre llibre de dansa i **[Arrencant el dia](https://112revelats.112books.eu)**.
 

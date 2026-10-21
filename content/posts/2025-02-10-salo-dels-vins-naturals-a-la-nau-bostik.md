@@ -23,7 +23,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2025/02/DSCF8429-1024x577.jp
 description: "Descobreix com va ser el Saló dels Vins Naturals 2025 a la Nau Bostik. Una trobada única amb petits productors, vins sense químics i etiquetes creatives. Mira les fotos!"
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/02/DSCF8429-1024x577.jpg)](https://photos.app.goo.gl/rybyWqmarKzw91bcA)
+[![Home calb amb ulleres beu d'una copa de vi en un mercat interior amb bigues metàl·liques i altra gent al darrere.](https://blog.pocallum.cat/wp-content/uploads/2025/02/DSCF8429-1024x577.jpg)](https://photos.app.goo.gl/rybyWqmarKzw91bcA)
 
 Aquest passat cap de setmana, el [Saló dels Vins Naturals](https://www.vinosnaturales.org) va omplir la [Nau Bostik](https://naubostik.com/esdeveniment/salo-de-vins-naturals-2/) de Barcelona amb una energia vibrant i una selecció espectacular de vins naturals. Durant els dies 9 i 10 de febrer, petits productors d’arreu van presentar els seus vins elaborats sense químics moderns, posant en valor el respecte per la terra i l’essència del vi.
 

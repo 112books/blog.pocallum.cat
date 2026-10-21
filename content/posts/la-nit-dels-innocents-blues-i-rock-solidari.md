@@ -14,7 +14,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2011/12/IMG_4069.jpg
 image: https://lh6.googleusercontent.com/-Lb0-wh_STUY/TvvDWUuloKI/AAAAAAACe-U/12VhTnwdzEw/s640/IMG_4069.jpg
 ---
 
-|  [![](https://lh6.googleusercontent.com/-Lb0-wh_STUY/TvvDWUuloKI/AAAAAAACe-U/12VhTnwdzEw/s640/IMG_4069.jpg)](https://picasaweb.google.com/linuxbcn/LaNitDelsInnocentsBluesIRockSolidari?authuser=0&authkey=Gv1sRgCNSWudG788SkngE&feat=embedwebsite)  |
+|  [![Un cantant barbut canta amb passió, ulls tancats i boca oberta, davant d'un micròfon en un escenari fosc.](https://lh6.googleusercontent.com/-Lb0-wh_STUY/TvvDWUuloKI/AAAAAAACe-U/12VhTnwdzEw/s640/IMG_4069.jpg)](https://picasaweb.google.com/linuxbcn/LaNitDelsInnocentsBluesIRockSolidari?authuser=0&authkey=Gv1sRgCNSWudG788SkngE&feat=embedwebsite)  |
 | --- |
 | De [La nit dels innocents, Blues i Rock solidari](https://picasaweb.google.com/linuxbcn/LaNitDelsInnocentsBluesIRockSolidari?authuser=0&authkey=Gv1sRgCNSWudG788SkngE&feat=embedwebsite) |
 

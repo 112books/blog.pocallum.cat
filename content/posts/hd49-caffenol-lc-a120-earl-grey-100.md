@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2015/05/HD-Cff-LCa120-EG
 image: https://lh3.googleusercontent.com/-ePU-8zIK6U4/VVuGP7Wy4cI/AAAAAAAEt4Q/IFSSK7vABuE/s640/HD-Cff%252520-%252520LCa120%252520-%252520EG%252520-001.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-ePU-8zIK6U4/VVuGP7Wy4cI/AAAAAAAEt4Q/IFSSK7vABuE/s640/HD-Cff%252520-%252520LCa120%252520-%252520EG%252520-001.jpg)](https://photos.app.goo.gl/zCdmJBRiX5eB6Lkq9)  |
+|  [![Jove somrient girat cap a la càmera des d'una taula amb ordinador en un local amb tires de negatius.](https://lh3.googleusercontent.com/-ePU-8zIK6U4/VVuGP7Wy4cI/AAAAAAAEt4Q/IFSSK7vABuE/s640/HD-Cff%252520-%252520LCa120%252520-%252520EG%252520-001.jpg)](https://photos.app.goo.gl/zCdmJBRiX5eB6Lkq9)  |
 | --- |
 | De [HD#49 - Caffenol - LC-A120 - Earl Grey 100](https://photos.app.goo.gl/zCdmJBRiX5eB6Lkq9) |

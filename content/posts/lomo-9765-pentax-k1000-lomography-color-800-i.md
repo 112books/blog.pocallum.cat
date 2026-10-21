@@ -16,6 +16,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/12/9765-pentax-k100
 image: https://lh3.googleusercontent.com/-Fllgd47OvEI/UMJIh-Yt0pI/AAAAAAADd-4/4-YhR5ESTeo/s640/9765%2520-%2520pentax%2520k1000%2520-001.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-Fllgd47OvEI/UMJIh-Yt0pI/AAAAAAADd-4/4-YhR5ESTeo/s640/9765%2520-%2520pentax%2520k1000%2520-001.jpg)](https://photos.app.goo.gl/oDLFAdwsU5JXKYKx5)  |
+|  [![Un mural de grafiti omple una paret del carrer vora unes escales, amb un tocadiscos, retrats i una figura fosca.](https://lh3.googleusercontent.com/-Fllgd47OvEI/UMJIh-Yt0pI/AAAAAAADd-4/4-YhR5ESTeo/s640/9765%2520-%2520pentax%2520k1000%2520-001.jpg)](https://photos.app.goo.gl/oDLFAdwsU5JXKYKx5)  |
 | --- |
 | De [Lomo 9765 - Pentax K1000 - Lomography Color 800 ISO](https://photos.app.goo.gl/oDLFAdwsU5JXKYKx5) |

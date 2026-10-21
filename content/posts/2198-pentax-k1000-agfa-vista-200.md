@@ -11,6 +11,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2014/07/2198-PK1000-Agfa
 image: https://lh3.googleusercontent.com/-FzmrEPM53B8/U75PQzLFbSI/AAAAAAAEOoE/2jcSwt2VJJg/s640/2198%2520-%2520PK1000%2520-%2520Agfa2%2520-%2520023.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-FzmrEPM53B8/U75PQzLFbSI/AAAAAAAEOoE/2jcSwt2VJJg/s640/2198%2520-%2520PK1000%2520-%2520Agfa2%2520-%2520023.jpg)](https://photos.app.goo.gl/7U3fpYx3ch9NqUN66)  |
+|  [![Una cotorra verda i groga s'alimenta al respatller d'un banc de fusta en un parc, amb un contenidor blau al darrere.](https://lh3.googleusercontent.com/-FzmrEPM53B8/U75PQzLFbSI/AAAAAAAEOoE/2jcSwt2VJJg/s640/2198%2520-%2520PK1000%2520-%2520Agfa2%2520-%2520023.jpg)](https://photos.app.goo.gl/7U3fpYx3ch9NqUN66)  |
 | --- |
 | De [2198 - Pentax k1000 - Agfa vista 200](https://photos.app.goo.gl/7U3fpYx3ch9NqUN66) |

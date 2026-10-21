@@ -26,7 +26,7 @@ description: "Crònica i fotografies del concert de Mocebares al Casal de Barri 
 title-seo: "Mocebares al Casal de Barri de Prosperitat – Concert i fotos"
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2026/03/DSCF4131-1-1024x683.jpg)](https://photos.app.goo.gl/xHwupmNYBBjzszbD7)
+[![Dues cantants actuen en un escenari fosc entre focusos de llum i fum durant un concert en directe.](https://blog.pocallum.cat/wp-content/uploads/2026/03/DSCF4131-1-1024x683.jpg)](https://photos.app.goo.gl/xHwupmNYBBjzszbD7)
 
 Al barri hi ha una quantitat de bandes que penso no és normal. Aquestes, lluny de decaure, creixen dins la promiscuïtat musical que totes, diria, exerceixen amb passió desenfrenada.
 

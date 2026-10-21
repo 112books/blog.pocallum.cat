@@ -20,7 +20,7 @@ Aquest diumenge tinc previst anar a [Estenotalps](http://analogic.9barrisimatge.
 
 Aquí els resultats:
 
-|  [![](https://lh5.googleusercontent.com/-KPt7H8SA3Pc/UXl09b26HxI/AAAAAAADqhA/kqB9jKb0DeU/s800/IMG_0469.jpg)](https://photos.app.goo.gl/KP2TYW9bpFtEavcEA)  |
+|  [![Primer pla de fulles porpres amb nervis verds i vores dentades d'una planta d'interior.](https://lh5.googleusercontent.com/-KPt7H8SA3Pc/UXl09b26HxI/AAAAAAADqhA/kqB9jKb0DeU/s800/IMG_0469.jpg)](https://photos.app.goo.gl/KP2TYW9bpFtEavcEA)  |
 | --- |
 | De [Estenopèica 0,28mm diàmetre](https://photos.app.goo.gl/KP2TYW9bpFtEavcEA) |
 

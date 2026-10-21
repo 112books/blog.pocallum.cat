@@ -15,7 +15,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/04/Pinhole-Paper-00
 image: https://lh4.googleusercontent.com/-Y2fcVc7Zhcw/UX1OrFh2CWI/AAAAAAADqpI/sSpXMNz_zSs/s640/Pinhole---Paper--001.jpg
 ---
 
-|  [![](https://lh4.googleusercontent.com/-Y2fcVc7Zhcw/UX1OrFh2CWI/AAAAAAADqpI/sSpXMNz_zSs/s640/Pinhole---Paper--001.jpg)](https://picasaweb.google.com/lh/photo/3Q5MWVeyDeJzJzyaBYV9n9MTjNZETYmyPJy0liipFm0?feat=embedwebsite)  |
+|  [![Escúter clàssica blanca aparcada davant d'una paret envellida amb vegetació al seu voltant en un carrer.](https://lh4.googleusercontent.com/-Y2fcVc7Zhcw/UX1OrFh2CWI/AAAAAAADqpI/sSpXMNz_zSs/s640/Pinhole---Paper--001.jpg)](https://picasaweb.google.com/lh/photo/3Q5MWVeyDeJzJzyaBYV9n9MTjNZETYmyPJy0liipFm0?feat=embedwebsite)  |
 | --- |
 | De [Pinhole Day 2013 - Estenotalps](https://picasaweb.google.com/103138221614479310970/PinholeDay2013Estenotalps?authuser=0&feat=embedwebsite) |
 

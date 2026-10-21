@@ -11,6 +11,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/08/MG_7178.jpg
 image: https://lh6.googleusercontent.com/-YeFzEv1gjKo/Ug0xsrjKpkI/AAAAAAAD3Ss/trBlbOea_74/s640/_MG_7178.jpg
 ---
 
-|  [![](https://lh6.googleusercontent.com/-YeFzEv1gjKo/Ug0xsrjKpkI/AAAAAAAD3Ss/trBlbOea_74/s640/_MG_7178.jpg)](https://photos.app.goo.gl/nbStLBc8tYom2DY77)  |
+|  [![Un camp de rostoll daurat amb rotllos de palla en primer pla i turons amb arbres al fons.](https://lh6.googleusercontent.com/-YeFzEv1gjKo/Ug0xsrjKpkI/AAAAAAAD3Ss/trBlbOea_74/s640/_MG_7178.jpg)](https://photos.app.goo.gl/nbStLBc8tYom2DY77)  |
 | --- |
 | De [Menorca 2013 - Samplers](https://photos.app.goo.gl/nbStLBc8tYom2DY77) |

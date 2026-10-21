@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2014/03/4058-Pk1000-LG40
 image: https://lh5.googleusercontent.com/-Y4nwsGYRILU/UzHGDoQp9DI/AAAAAAAEE6w/8o98hUNCNBw/s640/4058%2520-%2520Pk1000%2520-%2520LG400%2520-%2520004.jpg
 ---
 
-|  [![](https://lh5.googleusercontent.com/-Y4nwsGYRILU/UzHGDoQp9DI/AAAAAAAEE6w/8o98hUNCNBw/s640/4058%2520-%2520Pk1000%2520-%2520LG400%2520-%2520004.jpg)](https://photos.app.goo.gl/xgviM4Mvc9KpWXN27)  |
+|  [![Un home calb amb arracades toca la trompeta amb expressió intensa en un local d'assaig.](https://lh5.googleusercontent.com/-Y4nwsGYRILU/UzHGDoQp9DI/AAAAAAAEE6w/8o98hUNCNBw/s640/4058%2520-%2520Pk1000%2520-%2520LG400%2520-%2520004.jpg)](https://photos.app.goo.gl/xgviM4Mvc9KpWXN27)  |
 | --- |
 | De [4058 - Pentax K1000 - Lady Grey 400](https://picasaweb.google.com/103138221614479310970/4058PentaxK1000LadyGrey400?authuser=0&feat=embedwebsite) |

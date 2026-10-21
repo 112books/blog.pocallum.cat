@@ -14,7 +14,7 @@ author: "fatmin"
 image: https://lh3.googleusercontent.com/-6MMc4R5hJlA/T2-LSjmZdpI/AAAAAAACskU/tgs9QhSX9RM/s800/IMG_9157.jpg
 ---
 
-| [![](https://lh3.googleusercontent.com/-6MMc4R5hJlA/T2-LSjmZdpI/AAAAAAACskU/tgs9QhSX9RM/s800/IMG_9157.jpg)](https://picasaweb.google.com/103138221614479310970/9eFestivalDeSopesDelMon?authuser=0&feat=embedwebsite) |
+| [![Multitud de persones passejant per un carrer cobert amb parades, sota una gran pancarta d'un festival de sopes.](https://lh3.googleusercontent.com/-6MMc4R5hJlA/T2-LSjmZdpI/AAAAAAACskU/tgs9QhSX9RM/s800/IMG_9157.jpg)](https://picasaweb.google.com/103138221614479310970/9eFestivalDeSopesDelMon?authuser=0&feat=embedwebsite) |
 | --- |
 | De [9è Festival de Sopes del Món](https://picasaweb.google.com/103138221614479310970/9eFestivalDeSopesDelMon?authuser=0&feat=embedwebsite) |
 

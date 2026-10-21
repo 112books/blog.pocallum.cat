@@ -14,7 +14,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2011/02/IMG_0290.jpg
 image: https://lh6.googleusercontent.com/_xYdsA1KqJRQ/TU841Sz9HtI/AAAAAAACClk/RJF4v7BEwRw/s640/IMG_0290.jpg
 ---
 
-|  [![](https://lh6.googleusercontent.com/_xYdsA1KqJRQ/TU841Sz9HtI/AAAAAAACClk/RJF4v7BEwRw/s640/IMG_0290.jpg)](https://photos.app.goo.gl/dZqUkWDZ2rCZ6UfX6)  |
+|  [![Una dona canta amb passió agafant el micròfon en un escenari fosc durant un concert.](https://lh6.googleusercontent.com/_xYdsA1KqJRQ/TU841Sz9HtI/AAAAAAACClk/RJF4v7BEwRw/s640/IMG_0290.jpg)](https://photos.app.goo.gl/dZqUkWDZ2rCZ6UfX6)  |
 | --- |
 | De [9binblack - Combos Escola-Taller de blues de Barcelona](https://photos.app.goo.gl/dZqUkWDZ2rCZ6UfX6) |
 

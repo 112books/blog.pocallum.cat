@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2014/09/IMG_6636.jpg
 image: https://lh4.googleusercontent.com/-0BZCYFF2BJg/VBfdwnfqgGI/AAAAAAAEVRQ/GmnFXdl5u00/s640/IMG_6636.jpg
 ---
 
-|  [![](https://lh4.googleusercontent.com/-0BZCYFF2BJg/VBfdwnfqgGI/AAAAAAAEVRQ/GmnFXdl5u00/s640/IMG_6636.jpg)](https://photos.app.goo.gl/VhWBAg695VaEDiJp9)  |
+|  [![Una noia descalça s'equilibra sobre una plataforma rodona negra davant d'una carpa blanca a l'aire lliure.](https://lh4.googleusercontent.com/-0BZCYFF2BJg/VBfdwnfqgGI/AAAAAAAEVRQ/GmnFXdl5u00/s640/IMG_6636.jpg)](https://photos.app.goo.gl/VhWBAg695VaEDiJp9)  |
 | --- |
 | De [ExpoGrou Irún](https://photos.app.goo.gl/VhWBAg695VaEDiJp9) |

@@ -18,6 +18,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/05/IMG_1433.jpg
 image: https://lh5.googleusercontent.com/-C8_Lf-V4XJ0/UZDVlO18orI/AAAAAAADs3s/OWc8ofWlcPI/s640/IMG_1433.jpg
 ---
 
-|  [![](https://lh5.googleusercontent.com/-C8_Lf-V4XJ0/UZDVlO18orI/AAAAAAADs3s/OWc8ofWlcPI/s640/IMG_1433.jpg)](https://photos.app.goo.gl/7bB832W8GQqi1kFv6)  |
+|  [![Públic assegut a l'herba gaudint d'un concert a l'aire lliure davant d'una gran font i un edifici de](https://lh5.googleusercontent.com/-C8_Lf-V4XJ0/UZDVlO18orI/AAAAAAADs3s/OWc8ofWlcPI/s640/IMG_1433.jpg)](https://photos.app.goo.gl/7bB832W8GQqi1kFv6)  |
 | --- |
 | De [Picnic & Blues 2013](https://photos.app.goo.gl/7bB832W8GQqi1kFv6) |

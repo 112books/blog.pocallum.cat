@@ -18,7 +18,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2023/07/L1330844-1-1024x
 image: https://blog.pocallum.cat/wp-content/uploads/2023/07/L1330844-1-1024x576.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2023/07/L1330844-1-1024x576.jpg)](https://photos.app.goo.gl/ownUktYVZ66iJrEZ8)
+[![Una persona d'esquena amb jaqueta fosca i detalls grocs es mou entre llums blaves desenfocades en un entorn urbà nocturn.](https://blog.pocallum.cat/wp-content/uploads/2023/07/L1330844-1-1024x576.jpg)](https://photos.app.goo.gl/ownUktYVZ66iJrEZ8)
 
 #### DISSABTE 15 JULIOL
 

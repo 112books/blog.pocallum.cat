@@ -13,6 +13,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/04/IMG_8298.jpg
 image: https://lh6.googleusercontent.com/-UijEv1sEQVk/UV3-xkFGCaI/AAAAAAADoHM/XhlJfo_cw1E/s640/IMG_8298.jpg
 ---
 
-|  [![](https://lh6.googleusercontent.com/-UijEv1sEQVk/UV3-xkFGCaI/AAAAAAADoHM/XhlJfo_cw1E/s640/IMG_8298.jpg)](https://photos.app.goo.gl/Ry4e12MHkM5nh8JDA)  |
+|  [![Una bailaora de blanc balla flamenc amb moviment i faldilla onejant, acompanyada per músics en un escenari fosc.](https://lh6.googleusercontent.com/-UijEv1sEQVk/UV3-xkFGCaI/AAAAAAADoHM/XhlJfo_cw1E/s640/IMG_8298.jpg)](https://photos.app.goo.gl/Ry4e12MHkM5nh8JDA)  |
 | --- |
 | De [Feria de Abril al Casal de Joves de Prosperitat](https://photos.app.goo.gl/Ry4e12MHkM5nh8JDA) |

@@ -13,6 +13,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2011/12/IMG_7693.jpg
 image: https://lh4.googleusercontent.com/-FZyOL6EVMNk/Tt6mWlDXlHI/AAAAAAACeXk/pgEOHKtWdMI/s640/IMG_7693.jpg
 ---
 
-|  [![](https://lh4.googleusercontent.com/-FZyOL6EVMNk/Tt6mWlDXlHI/AAAAAAACeXk/pgEOHKtWdMI/s640/IMG_7693.jpg)](https://photos.app.goo.gl/4qugRrjKmHfNzTrj9)  |
+|  [![Vista panoràmica de Barcelona amb el mar al fons, el port, la muntanya de Montjuïc i cables en primer pla.](https://lh4.googleusercontent.com/-FZyOL6EVMNk/Tt6mWlDXlHI/AAAAAAACeXk/pgEOHKtWdMI/s640/IMG_7693.jpg)](https://photos.app.goo.gl/4qugRrjKmHfNzTrj9)  |
 | --- |
 | De [Torre Baró 201](https://picasaweb.google.com/linuxbcn/TorreBaro2011?authuser=0&feat=embedwebsite)[1](https://photos.app.goo.gl/4qugRrjKmHfNzTrj9) |

@@ -28,7 +28,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2025/11/IMG_2388-1024x683.jp
 description: "L’obra No es país para negras, escrita i interpretada per Sílvia Albert, torna una dècada després per denunciar el racisme quotidià i convidar a la reflexió col·lectiva des de la cultura i el teatre."
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/11/IMG_2388-1024x683.jpg)](https://photos.app.goo.gl/wr6Q3wKmRAFYKM5b8)
+[![Una dona descalça](https://blog.pocallum.cat/wp-content/uploads/2025/11/IMG_2388-1024x683.jpg)](https://photos.app.goo.gl/wr6Q3wKmRAFYKM5b8)
 
 Feia dies que havia vist anunciada aquesta obra de teatre i, només pel títol i la temàtica, em va venir un record. Després de remenar el meu arxiu, efectivament: havien passat deu anys des que ja havia assistit —i fotografiat— **[No es país para negras](https://photos.app.goo.gl/s7xt9UYvtvateK6X6)**, la potent obra on **[Sílvia Albert](https://www.instagram.com/silvialbertsopale/)** qüestiona magistralment si hi ha —o no— racisme en la nostra societat.
 

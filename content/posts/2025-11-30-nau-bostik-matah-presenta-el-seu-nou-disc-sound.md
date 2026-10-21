@@ -26,7 +26,7 @@ description: "Crònica de la presentació de Sound, el nou disc de Matah, a la N
 title-seo: "Matah presenta Sound a la Nau Bostik | Crònica i fotos"
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/11/IMG_3636-1024x683.jpg)](https://photos.app.goo.gl/yF29Ft4GfzzsUajD8)
+[![Un home d'esquena manipula un portàtil sobre una taula a l'escenari, amb llums blaves, davant d'un públic nombrós en una sala fosca.](https://blog.pocallum.cat/wp-content/uploads/2025/11/IMG_3636-1024x683.jpg)](https://photos.app.goo.gl/yF29Ft4GfzzsUajD8)
 
 La discogràfica [Panchita’s Records](https://www.lapanchitarecords.com) ha tornat a omplir la [Nau Bostik](https://naubostik.com/esdeveniment/panchitas-session-30-novembre/) d’energia pura. Aquesta vegada ha estat amb la presentació de _Sound_, el nou treball de [Matah](https://www.instagram.com/matahsound/), que ja d’entrada prometia calor, ritme i una bona dosi de baix ben carregat.
 

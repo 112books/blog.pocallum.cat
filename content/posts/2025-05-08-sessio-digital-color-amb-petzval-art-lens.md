@@ -26,27 +26,27 @@ image: https://blog.pocallum.cat/wp-content/uploads/2025/05/IMG_6965-683x1024.jp
 description: "Sessió digital en color amb la Petzval Art Lens 85mm f/2.2 de Lomography, inspirada en la llegendària òptica de 1840. Descobreix els retrats de Mabe amb el vestit xinès i l’efecte de remolí únic d’aquesta lent artística."
 ---
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/05/IMG_6965-683x1024.jpg)
+![Una jove amb maquillatge vermell intens i un vestit negre amb detalls vermells mira enrere sobre un fons fosc.](https://blog.pocallum.cat/wp-content/uploads/2025/05/IMG_6965-683x1024.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/05/IMG_6972-683x1024.jpg)
+![Una dona jove amb maquillatge vermell i un vestit de setí negre i vermell mira de perfil sobre un fons fosc.](https://blog.pocallum.cat/wp-content/uploads/2025/05/IMG_6972-683x1024.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/05/IMG_6986-683x1024.jpg)
+![Dona jove amb vestit tradicional xinès negre i vermell posa mirant a càmera en un fons fosc d'estudi.](https://blog.pocallum.cat/wp-content/uploads/2025/05/IMG_6986-683x1024.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/05/IMG_7011-683x1024.jpg)
+![Una dona amb vestit negre i vermell posa amb els braços al cap i el rostre inclinat sobre un fons fosc.](https://blog.pocallum.cat/wp-content/uploads/2025/05/IMG_7011-683x1024.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/05/IMG_7036-683x1024.jpg)
+![Dona jove de perfil amb vestit negre i vermell, ulls tancats i braços creuats sobre fons fosc.](https://blog.pocallum.cat/wp-content/uploads/2025/05/IMG_7036-683x1024.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/05/IMG_7044-683x1024.jpg)
+![Una dona jove amb maquillatge vermell i vestit negre brodat subjecta un pot petit davant d'un fons fosc.](https://blog.pocallum.cat/wp-content/uploads/2025/05/IMG_7044-683x1024.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/05/IMG_7065-683x1024.jpg)
+![Dona jove de perfil amb maquillatge vermell que es recull els cabells, lluint un vestit negre amb brodats vermells.](https://blog.pocallum.cat/wp-content/uploads/2025/05/IMG_7065-683x1024.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/05/IMG_7078-683x1024.jpg)
+![Dona jove d'ulls tancats amb vestit negre i brodats vermells es pentina sobre un fons fosc.](https://blog.pocallum.cat/wp-content/uploads/2025/05/IMG_7078-683x1024.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/05/IMG_7085-683x1024.jpg)
+![Dona jove d'ulls tancats amb maquillatge vermell i top negre amb detalls vermells, tocant-se el coll sobre fons fosc.](https://blog.pocallum.cat/wp-content/uploads/2025/05/IMG_7085-683x1024.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/05/IMG_7054-1024x683.jpg)
+![Una jove amb maquillatge vermell intens i top de lluentons sosté un bol fosc mirant a càmera.](https://blog.pocallum.cat/wp-content/uploads/2025/05/IMG_7054-1024x683.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/05/IMG_7058-1024x683.jpg)
+![Dona jove amb maquillatge vermell i collaret de lluentons sosté un bol fosc en un retrat d'estudi.](https://blog.pocallum.cat/wp-content/uploads/2025/05/IMG_7058-1024x683.jpg)
 
 _Podeu ampliar les imatges fent un clic a sobre de qualsevol d'elles._
 

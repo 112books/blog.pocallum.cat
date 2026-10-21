@@ -12,6 +12,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/06/2024-06-05-Hasse
 image: https://blog.pocallum.cat/wp-content/uploads/2024/06/2024-06-05-Hassel-PanF-Maja-i-Maica-0001-1024x1014.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/06/2024-06-05-Hassel-PanF-Maja-i-Maica-0001-1024x1014.jpg)](https://photos.app.goo.gl/ww59LzgGiPnMD6y2A)
+[![Dues noies miren serioses a càmera en un retrat en blanc i negre; una porta trenes i collaret, l'altra ulleres.](https://blog.pocallum.cat/wp-content/uploads/2024/06/2024-06-05-Hassel-PanF-Maja-i-Maica-0001-1024x1014.jpg)](https://photos.app.goo.gl/ww59LzgGiPnMD6y2A)
 
 Maica i Majo, Majo i Maica, de Mescladis Nau Bostik. Ahir, finalment, varen accedir a una microlesió fotogràfica a [Llumàtics](https://llumatics.com/). Ara ja estan immortalitzades.

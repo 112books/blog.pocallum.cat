@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2016/07/IMG_3972-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2016/07/IMG_3972-787x1024.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2016/07/IMG_3972-787x1024.jpg)](https://photos.app.goo.gl/DmaBXMWXscczeCDaA)
+[![Retrat en blanc i negre d'una jove amb pigues i cabells llargs que mira enrere, amb un fons fosc.](https://blog.pocallum.cat/wp-content/uploads/2016/07/IMG_3972-787x1024.jpg)](https://photos.app.goo.gl/DmaBXMWXscczeCDaA)
 
 Nova sessió de nú a Pocallum

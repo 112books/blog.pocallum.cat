@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2014/04/HomeDev-HolgaS-R
 image: https://lh3.googleusercontent.com/-ZnlOVAmkHWg/U0r8kDHwPfI/AAAAAAAEGCs/SfHXAVcI5Qo/s640/HomeDev%2520-%2520HolgaS%2520-%2520RR%2520-%2520007.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-ZnlOVAmkHWg/U0r8kDHwPfI/AAAAAAAEGCs/SfHXAVcI5Qo/s640/HomeDev%2520-%2520HolgaS%2520-%2520RR%2520-%2520007.jpg)](https://photos.app.goo.gl/8z7XdrVecW4fsEho8)  |
+|  [![Dues aus fosques posades en uns cables elèctrics contra un cel ennuvolat en blanc i negre.](https://lh3.googleusercontent.com/-ZnlOVAmkHWg/U0r8kDHwPfI/AAAAAAAEGCs/SfHXAVcI5Qo/s640/HomeDev%2520-%2520HolgaS%2520-%2520RR%2520-%2520007.jpg)](https://photos.app.goo.gl/8z7XdrVecW4fsEho8)  |
 | --- |
 | De [Holga120S - Rollei Retro 400](https://photos.app.goo.gl/8z7XdrVecW4fsEho8) |

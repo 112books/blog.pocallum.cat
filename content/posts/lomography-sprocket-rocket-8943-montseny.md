@@ -13,7 +13,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/11/8943-sprocket-ro
 image: https://lh5.googleusercontent.com/-zgqdQDtYpYI/UKUheyMojhI/AAAAAAADct8/jQe_Pm_Y4fE/s800/8943%2520-%2520sprocket%2520rocket%2520-011.jpg
 ---
 
-|  [![](https://lh5.googleusercontent.com/-zgqdQDtYpYI/UKUheyMojhI/AAAAAAADct8/jQe_Pm_Y4fE/s800/8943%2520-%2520sprocket%2520rocket%2520-011.jpg)](https://photos.app.goo.gl/iHhn3itvx9uvTRHL6)  |
+|  [![Ombres de dues persones sobre grava: una asseguda en una barana i l'altra dreta, en un espai exterior.](https://lh5.googleusercontent.com/-zgqdQDtYpYI/UKUheyMojhI/AAAAAAADct8/jQe_Pm_Y4fE/s800/8943%2520-%2520sprocket%2520rocket%2520-011.jpg)](https://photos.app.goo.gl/iHhn3itvx9uvTRHL6)  |
 | --- |
 | De [Lomography Sprocket Rocket #8943 - Montseny](https://photos.app.goo.gl/iHhn3itvx9uvTRHL6) |
 

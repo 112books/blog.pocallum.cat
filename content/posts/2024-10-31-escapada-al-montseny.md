@@ -22,7 +22,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2024/11/L1490524-1024x576.jp
 description: "Ahir, amb l'amic Manel Sala, vam fer una escapada al Montseny per admirar la paleta de colors d'aquesta tardor. Des de Santa Fe de Montseny fins al Turó de l'Home, vam gaudir de vistes espectaculars i vam capturar moments amb una lent Summicron de Leica. Descobreix les impressions d'una jornada a la natura i les fotografies que vam fer."
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/11/L1490524-1024x576.jpg)](https://photos.app.goo.gl/NC5TSkH9wt9BnmtC9)
+[![Bolets llenyosos de tons marrons i ataronjats amb anells concèntrics creixen agrupats sobre un tronc.](https://blog.pocallum.cat/wp-content/uploads/2024/11/L1490524-1024x576.jpg)](https://photos.app.goo.gl/NC5TSkH9wt9BnmtC9)
 
 Ahir, amb l'amic [Manel Sala](https://www.instagram.com/manelsala_ulls/), vam fer una escapada al Montseny per gaudir de la paleta de colors d'aquesta tardor. No és la primera vegada que ho fem, i cada any resulta ser una jornada molt profitosa i alhora esgotadora per la caminada que representa.
 

@@ -10,6 +10,6 @@ tags: []
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2016/05/DSCF9918.jpg
 image: https://lh3.googleusercontent.com/-W2tvSiPbauI/Vy7t5VdcoqI/AAAAAAAFEwA/esQ7pM7ODmgV0yPCABEZks8ICq4dSO7QACCo/s640/DSCF9918.jpg
 ---
-|  [![](https://lh3.googleusercontent.com/-W2tvSiPbauI/Vy7t5VdcoqI/AAAAAAAFEwA/esQ7pM7ODmgV0yPCABEZks8ICq4dSO7QACCo/s640/DSCF9918.jpg)](https://photos.app.goo.gl/PnSsD2zA3VLZGcnW8)  |
+|  [![Maniquí amb el cap inclinat enrere i un collaret de grans foscos, vist a través del vidre d'una exposició.](https://lh3.googleusercontent.com/-W2tvSiPbauI/Vy7t5VdcoqI/AAAAAAAFEwA/esQ7pM7ODmgV0yPCABEZks8ICq4dSO7QACCo/s640/DSCF9918.jpg)](https://photos.app.goo.gl/PnSsD2zA3VLZGcnW8)  |
 | --- |
 | De [Maniquis](https://photos.app.goo.gl/PnSsD2zA3VLZGcnW8) |

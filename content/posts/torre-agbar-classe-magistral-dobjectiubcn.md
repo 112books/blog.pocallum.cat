@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2014/03/IMG_4031.jpg
 image: https://lh6.googleusercontent.com/-gPrZIlrlEAo/UytpmlK8JiI/AAAAAAAEEXg/11VwoRdX3wY/s640/IMG_4031.jpg
 ---
 
-|  [![](https://lh6.googleusercontent.com/-gPrZIlrlEAo/UytpmlK8JiI/AAAAAAAEEXg/11VwoRdX3wY/s640/IMG_4031.jpg)](https://photos.app.goo.gl/tT9ySBxGYf7VSCMF6)  |
+|  [![Una pantalla gran projecta una presentació sobre Barcelona en una sala d'actes amb un faristol i dues cadires vermelles al davant.](https://lh6.googleusercontent.com/-gPrZIlrlEAo/UytpmlK8JiI/AAAAAAAEEXg/11VwoRdX3wY/s640/IMG_4031.jpg)](https://photos.app.goo.gl/tT9ySBxGYf7VSCMF6)  |
 | --- |
 | De [Torre AGBAR + classe magistral d'#objectiubcn](https://photos.app.goo.gl/tT9ySBxGYf7VSCMF6) |

@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2014/01/6888-Bronica-k16
 image: https://lh4.googleusercontent.com/-uXB7WB1dCsw/UsV9eRJZkrI/AAAAAAAD_iw/S1gqGO_qxVQ/s640/6888%2520-%2520Bronica%2520-%2520k160NC001.jpg
 ---
 
-|  [![](https://lh4.googleusercontent.com/-uXB7WB1dCsw/UsV9eRJZkrI/AAAAAAAD_iw/S1gqGO_qxVQ/s640/6888%2520-%2520Bronica%2520-%2520k160NC001.jpg)](https://photos.app.goo.gl/VsccQxGFCkQKknrr7)  |
+|  [![Una olivera gran i frondosa s'alça en un paisatge rural sec, amb un mur de pedra al davant i un cel blau clar.](https://lh4.googleusercontent.com/-uXB7WB1dCsw/UsV9eRJZkrI/AAAAAAAD_iw/S1gqGO_qxVQ/s640/6888%2520-%2520Bronica%2520-%2520k160NC001.jpg)](https://photos.app.goo.gl/VsccQxGFCkQKknrr7)  |
 | --- |
 | De [6888 - Bronica - kodak 160 NC](https://photos.app.goo.gl/VsccQxGFCkQKknrr7) |

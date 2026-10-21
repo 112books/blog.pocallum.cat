@@ -16,7 +16,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/02/IMG_7412.jpg
 image: https://lh6.googleusercontent.com/-uEnhXLSDITo/T0oU39pwZlI/AAAAAAACj2o/Bz14frHZ5LA/s800/IMG_7412.jpg
 ---
 
-|  [![](https://lh6.googleusercontent.com/-uEnhXLSDITo/T0oU39pwZlI/AAAAAAACj2o/Bz14frHZ5LA/s800/IMG_7412.jpg)](https://photos.app.goo.gl/LGrBoeMHYCchxkpP9)  |
+|  [![Una cantant amb rastes i vestit de serrells canta al micròfon en un escenari fosc amb un saxofonista al fons.](https://lh6.googleusercontent.com/-uEnhXLSDITo/T0oU39pwZlI/AAAAAAACj2o/Bz14frHZ5LA/s800/IMG_7412.jpg)](https://photos.app.goo.gl/LGrBoeMHYCchxkpP9)  |
 | --- |
 | De [9binblack - Dissabte](https://photos.app.goo.gl/LGrBoeMHYCchxkpP9) |
 

@@ -14,7 +14,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/01/DSF6915.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2024/01/DSF6915-1024x683.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/01/DSF6915-1024x683.jpg)](https://photos.app.goo.gl/kvUBiRZWfkVswpn47)
+[![Una cantant actua amb micròfon entre fum i llums blaves en un escenari amb públic al fons.](https://blog.pocallum.cat/wp-content/uploads/2024/01/DSF6915-1024x683.jpg)](https://photos.app.goo.gl/kvUBiRZWfkVswpn47)
 
 [Soroll i Glitter](https://www.instagram.com/sorolliglitter/) és un **col·lectiu transfeminista autogestionat de hxc-punk-metal que farà la seva presentació el divendres 12 de gener al Casal de Barri.**
 

@@ -16,7 +16,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/07/MG_5878.jpg
 image: https://lh4.googleusercontent.com/-K9Rjxe9n11U/UeqC9S8cogI/AAAAAAAD08M/sWuxCr-1SEo/s640/_MG_5878.jpg
 ---
 
-|  [![](https://lh4.googleusercontent.com/-K9Rjxe9n11U/UeqC9S8cogI/AAAAAAAD08M/sWuxCr-1SEo/s640/_MG_5878.jpg)](https://photos.app.goo.gl/3vkScCURi9WZtPsF8)  |
+|  [![Un home agenollat neteja el peu d'un micròfon amb un drap a l'escenari, amb altra gent al fons desenfocada.](https://lh4.googleusercontent.com/-K9Rjxe9n11U/UeqC9S8cogI/AAAAAAAD08M/sWuxCr-1SEo/s640/_MG_5878.jpg)](https://photos.app.goo.gl/3vkScCURi9WZtPsF8)  |
 | --- |
 | De [11è Festival de Blues de Barcelona - Divendres](https://photos.app.goo.gl/3vkScCURi9WZtPsF8) |
 

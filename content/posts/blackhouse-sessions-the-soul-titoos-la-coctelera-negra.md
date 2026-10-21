@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2017/05/DSCF4368-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2017/05/DSCF4368-1024x683.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2017/05/DSCF4368-1024x683.jpg)](https://goo.gl/photos/ygLqyEoamGJfeTeY9)
+[![Un jove amb camisa de pois manipula un portàtil sobre un equip de so davant d'un mural en un local fosc.](https://blog.pocallum.cat/wp-content/uploads/2017/05/DSCF4368-1024x683.jpg)](https://goo.gl/photos/ygLqyEoamGJfeTeY9)
 
 Genial nit amb molt bona música al Casal de Joves de Prosperitat.

@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2015/05/HD48-LCA120-EG-0
 image: https://lh3.googleusercontent.com/--otscEF2sQc/VUz0S_djnxI/AAAAAAAEsec/5Kza2CT0vXs/s640/HD%252348%2520-%2520LCA120%2520-%2520EG%2520-%2520001.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/--otscEF2sQc/VUz0S_djnxI/AAAAAAAEsec/5Kza2CT0vXs/s640/HD%252348%2520-%2520LCA120%2520-%2520EG%2520-%2520001.jpg)](https://photos.app.goo.gl/oKNLXKp5cZzkNLca8)  |
+|  [![Un patinador fa un truc a la vora corba d'un skatepark, amb edificis al fons.](https://lh3.googleusercontent.com/--otscEF2sQc/VUz0S_djnxI/AAAAAAAEsec/5Kza2CT0vXs/s640/HD%252348%2520-%2520LCA120%2520-%2520EG%2520-%2520001.jpg)](https://photos.app.goo.gl/oKNLXKp5cZzkNLca8)  |
 | --- |
 | De [Homedev#48 (Caffenol) - LC-a 120 - Earl Grey 100](https://photos.app.goo.gl/oKNLXKp5cZzkNLca8) |

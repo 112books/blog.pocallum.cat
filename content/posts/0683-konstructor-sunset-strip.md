@@ -13,6 +13,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/07/0683-Konstructor
 image: https://lh3.googleusercontent.com/-EiAsfWULP1w/UeXZFpknOYI/AAAAAAADznw/6c-spTyhpq4/s640/0683%2520-%2520Konstructor%2520-%2520033.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-EiAsfWULP1w/UeXZFpknOYI/AAAAAAADznw/6c-spTyhpq4/s640/0683%2520-%2520Konstructor%2520-%2520033.jpg)](https://photos.app.goo.gl/NKuPd5jWpeKKBiQS8)  |
+|  [![Muntanyes de blocs de gel trencats s'amunteguen en un dipòsit rectangular de parets turquesa.](https://lh3.googleusercontent.com/-EiAsfWULP1w/UeXZFpknOYI/AAAAAAADznw/6c-spTyhpq4/s640/0683%2520-%2520Konstructor%2520-%2520033.jpg)](https://photos.app.goo.gl/NKuPd5jWpeKKBiQS8)  |
 | --- |
 | De [0683 - Konstructor - Sunset Strip](https://photos.app.goo.gl/NKuPd5jWpeKKBiQS8) |

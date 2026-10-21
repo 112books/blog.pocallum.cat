@@ -24,7 +24,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2025/05/DSCF1521-1024x683.jp
 description: "Crònica de la nit de dijous a les Festes de Prosperitat 2025, amb el BizaRip Interpenas a la plaça Santa Engràcia, les actuacions originals de Nauta Loops i l’energia pop-yéyé de Las Bizaplayers, en un ambient festiu i intergeneracional."
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/05/DSCF1521-1024x683.jpg)](https://photos.app.goo.gl/9u5Az6yo4A4a95Ge9)
+[![Una dona jove amb orelles de conill somriu i saluda amb les mans enmig d'una festa nocturna multitudinària.](https://blog.pocallum.cat/wp-content/uploads/2025/05/DSCF1521-1024x683.jpg)](https://photos.app.goo.gl/9u5Az6yo4A4a95Ge9)
 
 El dijous, a les Festes de Prosperitat, la plaça Santa Engràcia es va omplir amb l’anada d’olla del festiva del BizaRock Interpenyes, que enguany, en un gir divertit, han reanomenat com a “_BizaRip Interpenas”_. Sembla que volen passar el relleu a nous protagonistes, potser més joves, per donar aire fresc a un dia tan especial com aquest.
 

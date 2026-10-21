@@ -22,17 +22,17 @@ image: https://blog.pocallum.cat/wp-content/uploads/2025/02/2025-02-26-LM6-PanF-
 description: "Descobreix com es va rescatar una antiga bobina de Ilford PanF+ dels anys 60 i el seu revelat amb Rodinal"
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/02/2025-02-26-LM6-PanF-@80-R150-Test-bibina-0003-1024x607.jpg)](https://photos.app.goo.gl/vUNcon4RuwnUHHR4A)
+[![Mural d'un rostre amb passamuntanyes i boca oberta en una paret del carrer, amb un edifici al fons.](https://blog.pocallum.cat/wp-content/uploads/2025/02/2025-02-26-LM6-PanF-@80-R150-Test-bibina-0003-1024x607.jpg)](https://photos.app.goo.gl/vUNcon4RuwnUHHR4A)
 
 Ja fa anys que van caure a les meves mans unes quantes bobines de pel·lícula fotogràfica ben antigues. La majoria, que ja he anat gastant a poc a poc, eren de Kodak X-Pan 125 i, segons la data de la bobina, eren del 1989. El revelat, després de provar diverses opcions, sempre amb el meu casolà **[510 Pyro](https://www.flickr.com/groups/1453269@N25)**, ja que dona uns resultats que a mi m'agraden força.
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/02/panf-boboina-1024x576.jpg)
+![Tapa metàl·lica desgastada d'una llauna de rodet fotogràfic amb etiqueta groga ratllada, sobre una taula groga.](https://blog.pocallum.cat/wp-content/uploads/2025/02/panf-boboina-1024x576.jpg)
 
 La sorpresa va ser quan vaig agafar una de les darreres llaunes que em queden del meu _stock_ "vintage". Per sort vaig poder veure que, de forma una mica borrosa, posava "PanF" amb una etiqueta igualment velleta i poc llegible.
 
 A dins, hi havia una bobina a mitges del que, en teoria, hauria de ser una de les meves pel·lícules preferides, la [Ilford PanF+](https://www.ilfordphoto.com/pan-f-plus-35mm?___store=ilford_brochure&___from_store=ilford_uk). Però no tenia ni idea de quina anyada seria, ni si realment seria la mítica pel·lícula anglesa que encara avui dia es produeix, és clar.  
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/02/IMG_0853-576x1024.jpg)
+![Una mà sosté un petit cilindre gris blavós amb un nucli interior marronós sobre un fons clar i desenfocat.](https://blog.pocallum.cat/wp-content/uploads/2025/02/IMG_0853-576x1024.jpg)
 
 A les fosques, quan vaig posar la resta de bobina a l'aparell que em permet muntar els rodets de forma artesanal, vaig notar que l'ànima d'aquesta bobina era molt diferent de les actuals. De tota manera, encara que ballava un xic, per la resta vaig poder-la posar correctament dins l'aparell en qüestió. Un cop acabada l'operació, i amb la llum encesa, vaig poder comprovar que l'ànima de la bobina no era de plàstic, no! Era de cartó, com podeu veure a la imatge que acompanya aquestes paraules.
 

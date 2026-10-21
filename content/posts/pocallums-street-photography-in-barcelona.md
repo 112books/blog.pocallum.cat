@@ -14,6 +14,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/07/IMG_3944.jpg
 image: https://lh3.googleusercontent.com/-hZErp2S6o8M/UBFtBFldFNI/AAAAAAADQ_c/yqjZ4qjmC_E/s800/IMG_3944.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-hZErp2S6o8M/UBFtBFldFNI/AAAAAAADQ_c/yqjZ4qjmC_E/s800/IMG_3944.jpg)](https://photos.app.goo.gl/3bihPCuwEuhcdP7y8)  |
+|  [![Dues cares dibuixades en un mural de formigó comparteixen un cor negre entre les boques en un carrer barceloní.](https://lh3.googleusercontent.com/-hZErp2S6o8M/UBFtBFldFNI/AAAAAAADQ_c/yqjZ4qjmC_E/s800/IMG_3944.jpg)](https://photos.app.goo.gl/3bihPCuwEuhcdP7y8)  |
 | --- |
 | De [Barcelona Street Photograpy](https://photos.app.goo.gl/3bihPCuwEuhcdP7y8) |

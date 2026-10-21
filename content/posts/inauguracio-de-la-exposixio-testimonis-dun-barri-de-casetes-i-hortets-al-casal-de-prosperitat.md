@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2015/02/IMG_0656.jpg
 image: https://lh6.googleusercontent.com/-6WRK-BrfI_8/VOWP1XwToSI/AAAAAAAEmcw/GnTeK6Y8F1c/s640/IMG_0656.jpg
 ---
 
-|  [![](https://lh6.googleusercontent.com/-6WRK-BrfI_8/VOWP1XwToSI/AAAAAAAEmcw/GnTeK6Y8F1c/s640/IMG_0656.jpg)](https://photos.app.goo.gl/rSgBztAMedtxmwtW6)  |
+|  [![Dos homes grans somriuen en una sala d'exposicions amb obres emmarcades a la paret del darrere.](https://lh6.googleusercontent.com/-6WRK-BrfI_8/VOWP1XwToSI/AAAAAAAEmcw/GnTeK6Y8F1c/s640/IMG_0656.jpg)](https://photos.app.goo.gl/rSgBztAMedtxmwtW6)  |
 | --- |
 | De [Inauguració de la exposixió "Testimonis d'un barri de casetes i hortets" al Casal de Prosperitat](https://photos.app.goo.gl/rSgBztAMedtxmwtW6) |

@@ -12,7 +12,7 @@ image: https://lh3.googleusercontent.com/pw/AM-JKLVxxzlji9ilgYzJ5N9-DGOCCXdbW3c6
 
 <figure>
 
-[![](https://lh3.googleusercontent.com/pw/AM-JKLVxxzlji9ilgYzJ5N9-DGOCCXdbW3c65hcS_gXk4v8nwH9pX4CS4kimJ-gGYPd0VSYP-6homIY4QGlS3tbEZhN5BH-CfIw6j77OkhVQena7pfO09C41kb-qVySHGjF78kiyAYKPs7FgeTnfXR6TyPBPCQ=s1278-no?authuser=0)](https://photos.app.goo.gl/5kNC79v9VBP9GkND7)
+[![Dos músics amb guitarres elèctriques posen en un estudi, un amb barret i l'altre amb camisa fosca.](https://lh3.googleusercontent.com/pw/AM-JKLVxxzlji9ilgYzJ5N9-DGOCCXdbW3c65hcS_gXk4v8nwH9pX4CS4kimJ-gGYPd0VSYP-6homIY4QGlS3tbEZhN5BH-CfIw6j77OkhVQena7pfO09C41kb-qVySHGjF78kiyAYKPs7FgeTnfXR6TyPBPCQ=s1278-no?authuser=0)](https://photos.app.goo.gl/5kNC79v9VBP9GkND7)
 
 <figcaption>
 

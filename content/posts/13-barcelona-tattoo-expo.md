@@ -10,7 +10,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_2845-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_2845.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_2845.jpg)](https://photos.app.goo.gl/QCmaEKt11HKk9u6c8)
+[![Dona amb tatuatges i mocador vermell mira enlaire tocant-se el coll en una sala blanca.](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_2845.jpg)](https://photos.app.goo.gl/QCmaEKt11HKk9u6c8)
 
 Fotos de la 13 Barcelona Tattoo Expo celebrada a La Farga de l'Hospitalet el 2010.
 

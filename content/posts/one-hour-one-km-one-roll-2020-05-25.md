@@ -12,7 +12,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2020/05/2020-05-25-028-624x1
 
 <figure>
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2020/05/2020-05-25-028-624x1024.jpg)](https://photos.app.goo.gl/BhprpBHqD6wPKPbs5)
+[![Home gran amb mascareta i gorra, mirant a terra davant d'una persiana metàl·lica en un carrer de Barcelona.](https://blog.pocallum.cat/wp-content/uploads/2020/05/2020-05-25-028-624x1024.jpg)](https://photos.app.goo.gl/BhprpBHqD6wPKPbs5)
 
 <figcaption>
 

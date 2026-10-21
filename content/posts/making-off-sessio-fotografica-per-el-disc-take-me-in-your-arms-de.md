@@ -13,7 +13,7 @@ image: https://lh3.googleusercontent.com/pw/AL9nZEXbGIOStbsXQNkn5L_9Cq96fyVRHOQR
 
 <figure>
 
-[![](https://lh3.googleusercontent.com/pw/AL9nZEXbGIOStbsXQNkn5L_9Cq96fyVRHOQRCfWZ0unnZnPqmZuU32AtUUWPFGIBr95lOMu7ti7RHqQCsojXG8wgzL6p6mqQo7ywQdtrI2Ux4uChFrh_vj6KY0yxS2lmF835cyHQ2Cowu-zxYS6L5OyTXhdprQ=w1880-h1253-no?authuser=0)](https://photos.app.goo.gl/zTQ8gBiybPcJgbQs7)
+[![Un home amb corbata i tatuatges al coll aixeca una copa de vi i mira cap amunt en un restaurant.](https://lh3.googleusercontent.com/pw/AL9nZEXbGIOStbsXQNkn5L_9Cq96fyVRHOQRCfWZ0unnZnPqmZuU32AtUUWPFGIBr95lOMu7ti7RHqQCsojXG8wgzL6p6mqQo7ywQdtrI2Ux4uChFrh_vj6KY0yxS2lmF835cyHQ2Cowu-zxYS6L5OyTXhdprQ=w1880-h1253-no?authuser=0)](https://photos.app.goo.gl/zTQ8gBiybPcJgbQs7)
 
 <figcaption>
 

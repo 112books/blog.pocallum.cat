@@ -10,4 +10,4 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2019/01/L1200156-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2019/01/L1200156-1024x683.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2019/01/L1200156-1024x683.jpg)](https://photos.app.goo.gl/cgeEKHaBc85w81cV8)
+[![Una banda de música actua en directe en una petita sala; la cantant canta al micro mentre els músics toquen.](https://blog.pocallum.cat/wp-content/uploads/2019/01/L1200156-1024x683.jpg)](https://photos.app.goo.gl/cgeEKHaBc85w81cV8)

@@ -29,7 +29,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2025/01/DSCF7746-1-1024x576.
 description: "Descobreix com la música, des de la seva dimensió estètica fins al seu paper com a constructe social, ha evolucionat com a art i eina cultural al llarg de la història."
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/01/DSCF7746-1-1024x576.jpg)](https://photos.app.goo.gl/tpzpKE4DLJJbry1a9)
+[![Quatre músics assagen en un estudi amb una dona al saxo, dues cantants i un home tocant el vibràfon.](https://blog.pocallum.cat/wp-content/uploads/2025/01/DSCF7746-1-1024x576.jpg)](https://photos.app.goo.gl/tpzpKE4DLJJbry1a9)
 
 Aquest dissabte ha estat ben diferent. No sé si per l’hora matinera del concert, les 12 del migdia, o per les supermúsiques de les quals he pogut gaudir, però la veritat és que ha estat una manera molt potent de començar la jornada.
 

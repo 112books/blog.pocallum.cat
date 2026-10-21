@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2015/04/1161-LCa120-xp20
 image: https://lh6.googleusercontent.com/-n9gb0LOZm5E/VSXC9VoLOEI/AAAAAAAEp8U/Sku9AwtLJig/s640/1161%2520-%2520LCa120%2520-%2520xp200%2520-%2520008.jpg
 ---
 
-|  [![](https://lh6.googleusercontent.com/-n9gb0LOZm5E/VSXC9VoLOEI/AAAAAAAEp8U/Sku9AwtLJig/s640/1161%2520-%2520LCa120%2520-%2520xp200%2520-%2520008.jpg)](https://photos.app.goo.gl/JNvqBpAg1xcm8TiYA)  |
+|  [![Llac verd envoltat de muntanyes, vist des d'unes roques escarpades amb un arbre solitari.](https://lh6.googleusercontent.com/-n9gb0LOZm5E/VSXC9VoLOEI/AAAAAAAEp8U/Sku9AwtLJig/s640/1161%2520-%2520LCa120%2520-%2520xp200%2520-%2520008.jpg)](https://photos.app.goo.gl/JNvqBpAg1xcm8TiYA)  |
 | --- |
 | De [1161 - LC-A 120 - XP200 Redscale](https://photos.app.goo.gl/JNvqBpAg1xcm8TiYA) |

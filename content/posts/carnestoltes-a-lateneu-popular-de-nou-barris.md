@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_7527-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_7527-1024x680.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_7527-1024x680.jpg)](https://photos.app.goo.gl/dodLipDrYNtamGYY9)
+[![Una dona amb perruca grisa i maquillatge teatral de punts negres mira a càmera en una festa al carrer.](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_7527-1024x680.jpg)](https://photos.app.goo.gl/dodLipDrYNtamGYY9)
 
 Doncs com cada any unes fotos de la tradicional festa de Carnestoltes a l'Ateneu Popular de Nou Barris -> [Àlbum complert](https://photos.app.goo.gl/dodLipDrYNtamGYY9)

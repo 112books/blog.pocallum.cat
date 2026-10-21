@@ -16,6 +16,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/10/2024-05-21-LM6-A
 image: https://blog.pocallum.cat/wp-content/uploads/2024/10/2024-05-21-LM6-APX400@3200-ESMUC-Alba-Armengou-030-1024x657.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/10/2024-05-21-LM6-APX400@3200-ESMUC-Alba-Armengou-030-1024x657.jpg)](https://pocallum.cat/magrada-la-musica-de-jazz/)
+[![Una dona toca la trompeta i un home la flauta en un escenari fosc, amb un bateria al fons.](https://blog.pocallum.cat/wp-content/uploads/2024/10/2024-05-21-LM6-APX400@3200-ESMUC-Alba-Armengou-030-1024x657.jpg)](https://pocallum.cat/magrada-la-musica-de-jazz/)
 
 Petit resum, fotogràfic, dels [Concerts finals del curs 2023-2024 de l’ESMUC](https://pocallum.cat/magrada-la-musica-de-jazz/). Feu click a la fotografia.

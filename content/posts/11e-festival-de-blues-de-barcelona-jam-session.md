@@ -16,7 +16,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/07/Captura-de-panta
 image: https://lh3.googleusercontent.com/-NoiD-OQCfNY/UeiIHCvST3I/AAAAAAAD0Tw/TBltop5MPgM/s640/_MG_4559.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-NoiD-OQCfNY/UeiIHCvST3I/AAAAAAAD0Tw/TBltop5MPgM/s640/_MG_4559.jpg)](https://photos.app.goo.gl/zYsB4DvYR8f9wtt29)  |
+|  [![Un cantant ajupit canta amb passió a un micròfon en un escenari fosc, amb un altre músic al fons.](https://lh3.googleusercontent.com/-NoiD-OQCfNY/UeiIHCvST3I/AAAAAAAD0Tw/TBltop5MPgM/s640/_MG_4559.jpg)](https://photos.app.goo.gl/zYsB4DvYR8f9wtt29)  |
 | --- |
 | [De 11è Festival de Blues de Barcelona - Jam Session](https://photos.app.goo.gl/zYsB4DvYR8f9wtt29) |
 

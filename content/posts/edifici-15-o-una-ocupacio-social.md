@@ -14,7 +14,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2011/10/IMG_6925.jpg
 image: https://lh4.googleusercontent.com/-o67uOr2chnI/TpwMV3qIyGI/AAAAAAACZKQ/ICb_5k7uHCM/s800/IMG_6925.jpg
 ---
 
-|  [![](https://lh4.googleusercontent.com/-o67uOr2chnI/TpwMV3qIyGI/AAAAAAACZKQ/ICb_5k7uHCM/s800/IMG_6925.jpg)](https://photos.app.goo.gl/MRoVg5MXgf6dW2Sy8)  |
+|  [![Primer pla d'una placa de timbres rovellada en una paret, amb una quadrícula de números i un forat fosc central.](https://lh4.googleusercontent.com/-o67uOr2chnI/TpwMV3qIyGI/AAAAAAACZKQ/ICb_5k7uHCM/s800/IMG_6925.jpg)](https://photos.app.goo.gl/MRoVg5MXgf6dW2Sy8)  |
 | --- |
 | De [E](https://picasaweb.google.com/linuxbcn/Edifici15OUnaOcupacioSocial?authuser=0&feat=embedwebsite)[difici 15-O, una ocupació social](https://photos.app.goo.gl/MRoVg5MXgf6dW2Sy8) |
 

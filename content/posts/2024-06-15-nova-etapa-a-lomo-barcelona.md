@@ -12,6 +12,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/06/2024-06-15-LM6-M
 image: https://blog.pocallum.cat/wp-content/uploads/2024/06/2024-06-15-LM6-Minitar32-Foma100@200-Lomo-Matsuri-004-1024x608.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/06/2024-06-15-LM6-Minitar32-Foma100@200-Lomo-Matsuri-004-1024x608.jpg)](https://photos.app.goo.gl/8tNBTaoJVQ3bDEDT6)
+[![Tres joves passegen per un carreró estret de Barcelona; la del davant mira directament a càmera.](https://blog.pocallum.cat/wp-content/uploads/2024/06/2024-06-15-LM6-Minitar32-Foma100@200-Lomo-Matsuri-004-1024x608.jpg)](https://photos.app.goo.gl/8tNBTaoJVQ3bDEDT6)
 
 Sembla que encetem una nova etapa a Lomography Barcelona. Ara no sé quin nom tindrà, però un nou equip el governarà, esperem, de forma ben exitosa. De moment la botiga ja té un nou aire, menys atapeït d'andròmines i en principi seguirà oferint càmeres analògiques, pel·lícula variada, servei de reparació de càmeres i tallers per aprendre i experimentar al màxim amb la fotografia química. A l'àlbum unes poquetes fotografies que no vaig poder evitar fer a la bonica Aïda, una de les mecàniques que fan reviure tota mena de càmeres fotogràfiques. Aviat més notícies!

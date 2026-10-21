@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2014/06/HomeD8-konstrukt
 image: https://lh5.googleusercontent.com/-Ku6bn7flJ5I/U6YntDoO5wI/AAAAAAAEMws/ZP_Yo_o6WD4/s640/HomeD%25238%2520-%2520konstruktor%2520-%2520015.jpg
 ---
 
-|  [![](https://lh5.googleusercontent.com/-Ku6bn7flJ5I/U6YntDoO5wI/AAAAAAAEMws/ZP_Yo_o6WD4/s640/HomeD%25238%2520-%2520konstruktor%2520-%2520015.jpg)](https://photos.app.goo.gl/N2hgaYBusrrsYbN87)  |
+|  [![Una dona rient amb ulleres de sol i un home gran pedalant en bici per un carrer de Barcelona.](https://lh5.googleusercontent.com/-Ku6bn7flJ5I/U6YntDoO5wI/AAAAAAAEMws/ZP_Yo_o6WD4/s640/HomeD%25238%2520-%2520konstruktor%2520-%2520015.jpg)](https://photos.app.goo.gl/N2hgaYBusrrsYbN87)  |
 | --- |
 | De [Taller Street Photography a Lomography Gallery Store Barcelona](https://photos.app.goo.gl/N2hgaYBusrrsYbN87) |

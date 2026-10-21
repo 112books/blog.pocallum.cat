@@ -27,7 +27,7 @@ description: "Crònica de Joan Linux sobre la conferència Perdre’s hauria de 
 title-seo: "Samuel Aranda a Santa Coloma – Conferència"
 ---
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/10/Samuel-Arana-1024x576.jpg)
+![Públic assegut en cadires vermelles escolta una presentació davant d'una pantalla en una sala d'art de Barcelona.](https://blog.pocallum.cat/wp-content/uploads/2025/10/Samuel-Arana-1024x576.jpg)
 
 De casualitat, aquest passat cap de setmana vaig veure a Instagram que anunciaven una conferència titulada _“Perdre’s hauria de ser obligatori”_, a càrrec del reconegut fotoperiodista colomenc **[Samuel Aranda](https://samuel-aranda.format.com/)**. La trobada estava organitzada per **[Más Retina](https://www.instagram.com/masretina/?__d=11)** dins el marc de les **Jornades per la Pau i la Cooperació 2025**.
 

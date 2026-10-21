@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2014/12/HD24-LCA12-RR400
 image: https://lh6.googleusercontent.com/-EGWRKmWok2k/VJZjykMd1-I/AAAAAAAEgg0/rSLAGEAvfEg/s640/HD%252324-%2520LCA12%2520-%2520%2520RR400%2520-%2520002.jpg
 ---
 
-|  [![](https://lh6.googleusercontent.com/-EGWRKmWok2k/VJZjykMd1-I/AAAAAAAEgg0/rSLAGEAvfEg/s640/HD%252324-%2520LCA12%2520-%2520%2520RR400%2520-%2520002.jpg)](https://photos.app.goo.gl/Mr9kfCWX82D38n2J7)  |
+|  [![Un home jove amb barba mira a la càmera des de darrere el taulell d'una botiga de fotografia amb petits retrats a sobre.](https://lh6.googleusercontent.com/-EGWRKmWok2k/VJZjykMd1-I/AAAAAAAEgg0/rSLAGEAvfEg/s640/HD%252324-%2520LCA12%2520-%2520%2520RR400%2520-%2520002.jpg)](https://photos.app.goo.gl/Mr9kfCWX82D38n2J7)  |
 | --- |
 | De [LC-A 120 - Rollei Retro 400](https://photos.app.goo.gl/Mr9kfCWX82D38n2J7) |

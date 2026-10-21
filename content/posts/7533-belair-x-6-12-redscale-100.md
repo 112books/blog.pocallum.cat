@@ -14,6 +14,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2014/01/7533-BelairX6-12
 image: https://lh3.googleusercontent.com/-vJrHR1U6hyg/UuN7bdI-ErI/AAAAAAAEBdM/btzq5oMG0O0/s640/7533%2520-%2520BelairX6-12%2520-%2520RS-006.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-vJrHR1U6hyg/UuN7bdI-ErI/AAAAAAAEBdM/btzq5oMG0O0/s640/7533%2520-%2520BelairX6-12%2520-%2520RS-006.jpg)](https://photos.app.goo.gl/HnikZVELmXAZVbyK6)  |
+|  [![Posta de sol sobre la serra de Collserola, amb la torre de comunicacions retallada contra el cel daurat.](https://lh3.googleusercontent.com/-vJrHR1U6hyg/UuN7bdI-ErI/AAAAAAAEBdM/btzq5oMG0O0/s640/7533%2520-%2520BelairX6-12%2520-%2520RS-006.jpg)](https://photos.app.goo.gl/HnikZVELmXAZVbyK6)  |
 | --- |
 | De [7533 - Belair X 6-12 - Redscale 100](https://photos.app.goo.gl/HnikZVELmXAZVbyK6) |

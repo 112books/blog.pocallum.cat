@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2023/05/photo_2023-05-05
 image: https://blog.pocallum.cat/wp-content/uploads/2023/05/photo_2023-05-05-15.47.16-1024x498-1.jpeg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2023/05/photo_2023-05-05-15.47.16-1024x498-1.jpeg)](https://pocallum.cat/sessio-amb-irene-ortola/)
+[![Full de contacte amb fotogrames d'una dona assajant moviments de dansa en un estudi de fons blanc.](https://blog.pocallum.cat/wp-content/uploads/2023/05/photo_2023-05-05-15.47.16-1024x498-1.jpeg)](https://pocallum.cat/sessio-amb-irene-ortola/)
 
 [Nova entrada](https://pocallum.cat/sessio-amb-irene-ortola/) al web de Pocallum.cat!!

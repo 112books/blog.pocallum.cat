@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2015/04/IMG_4139.jpg
 image: https://lh3.googleusercontent.com/-R5q502PDams/VTyK42VZOgI/AAAAAAAErV4/NsptPuw3tyc/s640/IMG_4139.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-R5q502PDams/VTyK42VZOgI/AAAAAAAErV4/NsptPuw3tyc/s640/IMG_4139.jpg)](https://photos.app.goo.gl/Exq9u6LmSoys9g6w7)  |
+|  [![Tres joves conversen en un espai interior, un noi amb papers i una noia ajupida amb un bolígraf prenent notes.](https://lh3.googleusercontent.com/-R5q502PDams/VTyK42VZOgI/AAAAAAAErV4/NsptPuw3tyc/s640/IMG_4139.jpg)](https://photos.app.goo.gl/Exq9u6LmSoys9g6w7)  |
 | --- |
 | De [#9bPregunta - 9BCabrajada](https://photos.app.goo.gl/Exq9u6LmSoys9g6w7) |

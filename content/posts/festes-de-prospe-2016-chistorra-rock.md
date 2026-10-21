@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2016/05/DSCF1286.jpg
 image: https://lh3.googleusercontent.com/-OFRyPRmJi08/V01Op-OKDyI/AAAAAAAFL84/YzdO9aAHjJwob9fEgIfwFiF3rm4N5fWSwCCo/s640/DSCF1286.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-OFRyPRmJi08/V01Op-OKDyI/AAAAAAAFL84/YzdO9aAHjJwob9fEgIfwFiF3rm4N5fWSwCCo/s640/DSCF1286.jpg)](https://photos.app.goo.gl/zMg4feNwpvHX6bpn8)  |
+|  [![Guitarrista tocant amb passió en un concert nocturn, mentre un home el mira des de darrere.](https://lh3.googleusercontent.com/-OFRyPRmJi08/V01Op-OKDyI/AAAAAAAFL84/YzdO9aAHjJwob9fEgIfwFiF3rm4N5fWSwCCo/s640/DSCF1286.jpg)](https://photos.app.goo.gl/zMg4feNwpvHX6bpn8)  |
 | --- |
 | De [Festes de Prospe 2016 - Chistorra Rock](https://photos.app.goo.gl/zMg4feNwpvHX6bpn8) |

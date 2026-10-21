@@ -10,6 +10,6 @@ tags: []
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2015/04/Obscura-003-004.jpg
 image: https://lh3.googleusercontent.com/-wEa7bv7Z0xI/VR8lNF37SnI/AAAAAAAEppo/BA6cfOdBzwY/s640/Obscura%2520%2523003%2520-%2520004.jpg
 ---
-|  [![](https://lh3.googleusercontent.com/-wEa7bv7Z0xI/VR8lNF37SnI/AAAAAAAEppo/BA6cfOdBzwY/s640/Obscura%2520%2523003%2520-%2520004.jpg)](https://photos.app.goo.gl/xMJsk4MWKsHFUvgu8)  |
+|  [![Un home amb barret i jaqueta dempeus en un terreny polsegós amb muntanyes al fons.](https://lh3.googleusercontent.com/-wEa7bv7Z0xI/VR8lNF37SnI/AAAAAAAEppo/BA6cfOdBzwY/s640/Obscura%2520%2523003%2520-%2520004.jpg)](https://photos.app.goo.gl/xMJsk4MWKsHFUvgu8)  |
 | --- |
 | De [Ilford Obscura a Tavertet](https://photos.app.goo.gl/xMJsk4MWKsHFUvgu8) |

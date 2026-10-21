@@ -11,6 +11,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2023/12/2023-12-08-Portb
 image: https://blog.pocallum.cat/wp-content/uploads/2023/12/2023-12-08-Portbou-SproketR-Fomapan100@400-0002-1024x341.jpg
 ---
 
-![](https://blog.pocallum.cat/wp-content/uploads/2023/12/2023-12-08-Portbou-SproketR-Fomapan100@400-0002-1024x341.jpg)
+![Panoràmica en blanc i negre d'una badia costanera amb un nucli de cases a la vora i muntanyes al fons.](https://blog.pocallum.cat/wp-content/uploads/2023/12/2023-12-08-Portbou-SproketR-Fomapan100@400-0002-1024x341.jpg)
 
 Sempre és un plaer viatjar amb la càmera panoràmica Sprocket Rocket.

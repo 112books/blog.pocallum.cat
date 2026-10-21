@@ -14,7 +14,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2020/04/2020-04-26B-001-
 image: https://blog.pocallum.cat/wp-content/uploads/2020/04/2020-04-26B-001.jpg
 ---
 
-![](https://blog.pocallum.cat/wp-content/uploads/2020/04/2020-04-26B-001.jpg)
+![Una flor blanca d'espàtif destaca entre fulles fosques contra una paret llisa il·luminada en blanc i negre.](https://blog.pocallum.cat/wp-content/uploads/2020/04/2020-04-26B-001.jpg)
 
 Bé, ja ha finalitzat el dia de la fotografia estenopeica al que m'encanta participar ja fa anys.
 

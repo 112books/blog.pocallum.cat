@@ -13,6 +13,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/10/MG_0247.jpg
 image: https://lh6.googleusercontent.com/-DKYo7IjZKF0/UlIVheXe-DI/AAAAAAAD7DQ/FLiapenTA6Q/s640/_MG_0247.jpg
 ---
 
-|  [![](https://lh6.googleusercontent.com/-DKYo7IjZKF0/UlIVheXe-DI/AAAAAAAD7DQ/FLiapenTA6Q/s640/_MG_0247.jpg)](https://photos.app.goo.gl/RGTT8yvBK3menypd9)  |
+|  [![Un tatuador amb ulleres i braç tatuat treballa amb la màquina sobre el braç d'un client en un estudi.](https://lh6.googleusercontent.com/-DKYo7IjZKF0/UlIVheXe-DI/AAAAAAAD7DQ/FLiapenTA6Q/s640/_MG_0247.jpg)](https://photos.app.goo.gl/RGTT8yvBK3menypd9)  |
 | --- |
 | De [Barcelona Tattoo Expo 2013 - Diumenge](https://photos.app.goo.gl/RGTT8yvBK3menypd9) |

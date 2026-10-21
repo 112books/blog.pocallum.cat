@@ -90,43 +90,43 @@ La bona notícia? Que ja no em queda més pel·lícula d’aquesta remesa. Moral
 
 No obstant això, tenen un aire oníric curiós, no?
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/10/2025-10-21-Non6x12-RPX25-Les-Agudes-0001-1024x496.jpg)
+![Un home gran amb ulleres contempla la vista panoràmica d'una ciutat des d'un punt elevat.](https://blog.pocallum.cat/wp-content/uploads/2025/10/2025-10-21-Non6x12-RPX25-Les-Agudes-0001-1024x496.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/10/2025-10-21-Non6x12-RPX25-Les-Agudes-0003-1024x491.jpg)
+![Una creu s'alça sobre un cim rocós amb vistes a un paisatge de muntanyes en tons grisos.](https://blog.pocallum.cat/wp-content/uploads/2025/10/2025-10-21-Non6x12-RPX25-Les-Agudes-0003-1024x491.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/10/2025-10-21-Non6x12-RPX25-Les-Agudes-0005-1024x493.jpg)
+![Turons foscos en primer pla que donen pas a una vall profunda sota un cel clar en un paisatge en blanc i negre.](https://blog.pocallum.cat/wp-content/uploads/2025/10/2025-10-21-Non6x12-RPX25-Les-Agudes-0005-1024x493.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/10/2025-10-21-Non6x12-RPX25-Les-Agudes-0006-1024x506.jpg)
+![Vista panoràmica des d'un cim rocós cap a una plana boirosa i muntanyes fosques sota un cel molt lluminós.](https://blog.pocallum.cat/wp-content/uploads/2025/10/2025-10-21-Non6x12-RPX25-Les-Agudes-0006-1024x506.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/10/2025-10-21-NonPinhole6x12-RolleiRPX25-Susqueda-B-0001-1024x529.jpg)
+![. - Sense cometes ni claudàtors? Sí. - No copia text? No n'hi ha. Ajustem per incloure una mica més de detall de l'acció o el lloc, com](https://blog.pocallum.cat/wp-content/uploads/2025/10/2025-10-21-NonPinhole6x12-RolleiRPX25-Susqueda-B-0001-1024x529.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/10/2025-10-21-NonPinhole6x12-RolleiRPX25-Susqueda-B-0002-1024x516.jpg)
+![Muntanyes fosques superposades sota un cel clar amb núvols prims i boira a l'horitzó en blanc i negre.](https://blog.pocallum.cat/wp-content/uploads/2025/10/2025-10-21-NonPinhole6x12-RolleiRPX25-Susqueda-B-0002-1024x516.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/10/2025-10-21-NonPinhole6x12-RolleiRPX25-Susqueda-B-0003-1024x525.jpg)
+![Paisatge en blanc i negre d'una àmplia vall muntanyosa, amb un arbre sense fulles a l'esquerra i un horitzó clar.](https://blog.pocallum.cat/wp-content/uploads/2025/10/2025-10-21-NonPinhole6x12-RolleiRPX25-Susqueda-B-0003-1024x525.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/10/2025-10-21-NonPinhole6x12-RolleiRPX25-Susqueda-B-0006-1024x521.jpg)
+![Una gran muntanya rocosa en blanc i negre domina un paisatge muntanyós sota un cel lluminós.](https://blog.pocallum.cat/wp-content/uploads/2025/10/2025-10-21-NonPinhole6x12-RolleiRPX25-Susqueda-B-0006-1024x521.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/10/2025-10-21-NonPinhole6x12-RolleiRPX25-Susqueda-B-0005-525x1024.jpg)
+![Vista panoràmica des d'un cim rocós cap a la ciutat de Barcelona, difuminada per la boira.](https://blog.pocallum.cat/wp-content/uploads/2025/10/2025-10-21-NonPinhole6x12-RolleiRPX25-Susqueda-B-0005-525x1024.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/10/2025-10-21-Non6x12-RPX25-Les-Agudes-0004-512x1024.jpg)
+![Paisatge de muntanya rocosa amb una gran ombra fosca a la dreta i una línia de llum vertical, en blanc i negre.](https://blog.pocallum.cat/wp-content/uploads/2025/10/2025-10-21-Non6x12-RPX25-Les-Agudes-0004-512x1024.jpg)
 
 Queda clar que culpa de la càmera no és, els resultats amb la Zeroimage 2000 ho confirmen.
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/10/2025-10-21-Zero2000-RPX20-Les-Agudes-0006-1024x1024.jpg)
+![crònica cultural a Barcelona](https://blog.pocallum.cat/wp-content/uploads/2025/10/2025-10-21-Zero2000-RPX20-Les-Agudes-0006-1024x1024.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/10/2025-10-21-Zero2000-RPX25-Les-Agudes-0001-1024x1024.jpg)
+![Un sender de terra puja suaument entre arbres sense fulles i vegetació fosca, sota un cel clar.](https://blog.pocallum.cat/wp-content/uploads/2025/10/2025-10-21-Zero2000-RPX25-Les-Agudes-0001-1024x1024.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/10/2025-10-21-Zero2000-RPX25-Les-Agudes-0002-1024x1024.jpg)
+![o simplement començar amb el subjecte.](https://blog.pocallum.cat/wp-content/uploads/2025/10/2025-10-21-Zero2000-RPX25-Les-Agudes-0002-1024x1024.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/10/2025-10-21-Zero2000-RPX25-Les-Agudes-0003-1024x1024.jpg)
+![Vista d'una carena rocosa amb un corriol pedregós que baixa cap a una plana boirosa en blanc i negre.](https://blog.pocallum.cat/wp-content/uploads/2025/10/2025-10-21-Zero2000-RPX25-Les-Agudes-0003-1024x1024.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/10/2025-10-21-Zero2000-RPX25-Les-Agudes-0004-1024x1024.jpg)
+![Paisatge muntanyós en blanc i negre amb un corriol de pedra, matolls, una vall boirosa i l'estela d'un avió.](https://blog.pocallum.cat/wp-content/uploads/2025/10/2025-10-21-Zero2000-RPX25-Les-Agudes-0004-1024x1024.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/10/2025-10-21-Zero2000-RPX25-Les-Agudes-0005-1024x1024.jpg)
+![Vista panoràmica en blanc i negre de turons foscos que s'estenen cap a una plana àmplia i boirosa sota un cel amb núvols.](https://blog.pocallum.cat/wp-content/uploads/2025/10/2025-10-21-Zero2000-RPX25-Les-Agudes-0005-1024x1024.jpg)
 
 També hi va haver un altre problema: els reflexos dins la Noon 6×16. He d’estudiar la manera d’evitar-ho, però si el sol no queda totalment darrere de la càmera —amb l’estenop a l’ombra— sovint apareixen aquestes “aures” tan característiques del problema.
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/10/2025-10-21-Non6x12-RPX25-Les-Agudes-0002-496x1024.jpg)
+![Paisatge muntanyós en blanc i negre amb un efecte òptic de cercles lluminosos al cel.](https://blog.pocallum.cat/wp-content/uploads/2025/10/2025-10-21-Non6x12-RPX25-Les-Agudes-0002-496x1024.jpg)
 
 ### **Pas universal**
 

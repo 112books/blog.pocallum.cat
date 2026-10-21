@@ -19,7 +19,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/08/546903.jpg
 image: https://lh5.googleusercontent.com/-15D07-FNJVE/UEDG7sDGMpI/AAAAAAADTTs/Xkl322WhLqo/s800/546903.JPG
 ---
 
-|  [![](https://lh5.googleusercontent.com/-15D07-FNJVE/UEDG7sDGMpI/AAAAAAADTTs/Xkl322WhLqo/s800/546903.JPG)](https://picasaweb.google.com/103138221614479310970/MenorcaEnAnalogic?authuser=0&feat=embedwebsite)  |
+|  [![Un dit desenfocat al primer pla davant d'una badia tranquil·la amb penya-segats verds i boies grogues.](https://lh5.googleusercontent.com/-15D07-FNJVE/UEDG7sDGMpI/AAAAAAADTTs/Xkl322WhLqo/s800/546903.JPG)](https://picasaweb.google.com/103138221614479310970/MenorcaEnAnalogic?authuser=0&feat=embedwebsite)  |
 | --- |
 | De [Menorca en analògic](https://photos.app.goo.gl/6H2xoBucaEe2Bavr7) |
 

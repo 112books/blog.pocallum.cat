@@ -11,7 +11,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/01/L1400745.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2024/01/L1400745-1024x683.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/01/L1400745-1024x683.jpg)](https://photos.app.goo.gl/XcTNG34ApK8f3DQ39)
+[![Saxofonista en moviment tocant en directe en un escenari fosc de Barcelona.](https://blog.pocallum.cat/wp-content/uploads/2024/01/L1400745-1024x683.jpg)](https://photos.app.goo.gl/XcTNG34ApK8f3DQ39)
 
 15 de gener a la Nau Bostik es va celebrar el concert de la **[Big Band ‘O.L.I.’](https://www.instagram.com/oli.bigband/#)**
 

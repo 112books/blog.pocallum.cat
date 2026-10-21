@@ -21,7 +21,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2024/10/IMG_4019-1024x683.jp
 description: "Descobreix l'experiència d'un concert al nou Casal de Joves de Prosperitat, amb les actuacions de La Risa de Pepe i Afri k ft Alexch & Figo. Un espai llargament esperat que acull esdeveniments musicals amb molta actitud."
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/10/IMG_4019-1024x683.jpg)](https://photos.app.goo.gl/v8hcq6aP4H7toBeo9)
+[![Un jove amb ulleres i la mà a la barbeta en primer pla d'un concert en directe, amb el cantant i el bateria al fons.](https://blog.pocallum.cat/wp-content/uploads/2024/10/IMG_4019-1024x683.jpg)](https://photos.app.goo.gl/v8hcq6aP4H7toBeo9)
 
 Ara feia temps que no baixava al flamant Casal de Joves de Prosperitat. Amb la d'anys que hem esperat a sortir de "_Guantanamo_" per poder gaudir d'un espai nou i mig en condicions. Però bé, segon cop que vaig de concert a la casa del jovent del meu barri i prou bé! Sembla que la penya "los de toda la birra" varen tenir problemes al seu acte de la Festa major per la pluja i aquest acte era un xic per compensar-ho.
 

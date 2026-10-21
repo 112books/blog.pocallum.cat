@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2014/04/IMG_7134.jpg
 image: https://lh4.googleusercontent.com/-UrG6MvVHJNY/U1ViXHVeX4I/AAAAAAAEGsE/KJ0OtZ1WE_4/s640/IMG_7134.jpg
 ---
 
-|  [![](https://lh4.googleusercontent.com/-UrG6MvVHJNY/U1ViXHVeX4I/AAAAAAAEGsE/KJ0OtZ1WE_4/s640/IMG_7134.jpg)](https://photos.app.goo.gl/2ScmQQnnbzCcx1mQA)  |
+|  [![Tres músics de jazz en un club de Barcelona: un saxofonista al davant i, darrere, un home amb trompeta i un amb contrabaix.](https://lh4.googleusercontent.com/-UrG6MvVHJNY/U1ViXHVeX4I/AAAAAAAEGsE/KJ0OtZ1WE_4/s640/IMG_7134.jpg)](https://photos.app.goo.gl/2ScmQQnnbzCcx1mQA)  |
 | --- |
 | De [Ivan Kovacevic 5 spots en Campari Milano](https://photos.app.goo.gl/2ScmQQnnbzCcx1mQA) |

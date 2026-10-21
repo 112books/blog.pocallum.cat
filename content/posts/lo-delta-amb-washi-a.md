@@ -12,7 +12,7 @@ image: https://lh3.googleusercontent.com/pw/AM-JKLU2OV8jvazSTF_zjodPqcYoU6MA1llm
 
 <figure>
 
-[![](https://lh3.googleusercontent.com/pw/AM-JKLU2OV8jvazSTF_zjodPqcYoU6MA1llmDouZ6gpiq307aFVu_VxylJgdJRfcUjxyT8JmTJRlzkzMKrvSVSyOhlouhLJxxiMCTInLzZkQjwr9G5X6ak2K-AJdQmo1v3MNhVJuvXd1Iy4M39ZhkZnPAWkRng=w1449-h901-no?authuser=0)](https://photos.app.goo.gl/eB1BMEsH4xUvbbhr5)
+[![Una estructura rectangular de formigó buida al mig del mar, amb ones i un cel molt ennuvolat al fons.](https://lh3.googleusercontent.com/pw/AM-JKLU2OV8jvazSTF_zjodPqcYoU6MA1llmDouZ6gpiq307aFVu_VxylJgdJRfcUjxyT8JmTJRlzkzMKrvSVSyOhlouhLJxxiMCTInLzZkQjwr9G5X6ak2K-AJdQmo1v3MNhVJuvXd1Iy4M39ZhkZnPAWkRng=w1449-h901-no?authuser=0)](https://photos.app.goo.gl/eB1BMEsH4xUvbbhr5)
 
 <figcaption>
 

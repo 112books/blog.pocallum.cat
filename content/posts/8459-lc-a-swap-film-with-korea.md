@@ -10,7 +10,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2015/03/8459-LC-A-Swap00
 image: https://lh4.googleusercontent.com/-PSpVcNnBjMk/VQse-iIu-jI/AAAAAAAEo48/ifldZSQFpVM/s640/8459%2520-%2520LC-A%2520-%2520Swap008.jpg
 ---
 
-|  [![](https://lh4.googleusercontent.com/-PSpVcNnBjMk/VQse-iIu-jI/AAAAAAAEo48/ifldZSQFpVM/s640/8459%2520-%2520LC-A%2520-%2520Swap008.jpg)](https://photos.app.goo.gl/pNLgF5wH2qHgL4zC6)  |
+|  [![Una escultura metàl·lica d'una au amb ales llargues s'enlaira contra el cel blau i els núvols en un espai obert.](https://lh4.googleusercontent.com/-PSpVcNnBjMk/VQse-iIu-jI/AAAAAAAEo48/ifldZSQFpVM/s640/8459%2520-%2520LC-A%2520-%2520Swap008.jpg)](https://photos.app.goo.gl/pNLgF5wH2qHgL4zC6)  |
 | --- |
 | De [8459 - LC-A - Swap film With Korea](https://photos.app.goo.gl/pNLgF5wH2qHgL4zC6) |
 

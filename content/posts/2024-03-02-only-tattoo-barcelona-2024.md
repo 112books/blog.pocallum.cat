@@ -12,6 +12,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/03/2024-03-02-Only-
 image: https://blog.pocallum.cat/wp-content/uploads/2024/03/2024-03-02-Only-Tattoo-2024-LM6-AGFA-APX400@1600-0030-1024x640.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/03/2024-03-02-Only-Tattoo-2024-LM6-AGFA-APX400@1600-0030-1024x640.jpg)](https://photos.app.goo.gl/YDgvoH85WVDdisK76)
+[![Un tatuador treballa al braç d'un client assegut que mira a través d'un gran anell de llum en un estudi o convenció.](https://blog.pocallum.cat/wp-content/uploads/2024/03/2024-03-02-Only-Tattoo-2024-LM6-AGFA-APX400@1600-0030-1024x640.jpg)](https://photos.app.goo.gl/YDgvoH85WVDdisK76)
 
 Petit record de la [Onlu Tatto BCN](https://onlytattoobcn.com/) d'enguany a la Fira de Barcelona. Només vaig poder-hi estar una estona i això és el que vaig veure-hi.

@@ -23,7 +23,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/06/2025-06-01-Sprok
 image: https://blog.pocallum.cat/wp-content/uploads/2025/06/2025-06-01-Sproket-HR-50-CC-0007-1024x470.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/06/2025-06-01-Sproket-HR-50-CC-0007-1024x470.jpg)](https://photos.app.goo.gl/JMr4Zabp81xM6U8F8)
+[![crònica cultural a Barcelona](https://blog.pocallum.cat/wp-content/uploads/2025/06/2025-06-01-Sproket-HR-50-CC-0007-1024x470.jpg)](https://photos.app.goo.gl/JMr4Zabp81xM6U8F8)
 
 _L'olivera de camí a la cova dels coloms._
 

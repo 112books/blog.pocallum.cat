@@ -20,6 +20,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2023/08/L1340335-Mejorad
 image: https://blog.pocallum.cat/wp-content/uploads/2023/08/L1340335-Mejorado-NR-1024x576.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2023/08/L1340335-Mejorado-NR-1024x576.jpg)](https://photos.app.goo.gl/gAUeAZBCqqfKZgp76)
+[![Un home actua amb un objecte llarg a la plaça mentre el públic l'observa assegut a les grades.](https://blog.pocallum.cat/wp-content/uploads/2023/08/L1340335-Mejorado-NR-1024x576.jpg)](https://photos.app.goo.gl/gAUeAZBCqqfKZgp76)
 
 Tarda de Circ a la Plaça Ángel Pestaña amb els joves de l'Escola Infantil i Juvenil de Circ de l'Ateneu, la companyia "_Nido de las Artes_" de Nicaragua i "_Circus Circuli_" d'Stuttgart varen mostrar-nos les seves habilitats en aquest intercanvi entre joves d'arreu amb el punt en comú del Circ i les arts escèniques.

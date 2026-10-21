@@ -10,7 +10,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2011/12/IMG_2139-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2011/12/IMG_2139.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2011/12/IMG_2139.jpg)](https://photos.app.goo.gl/ZSyNGrUE53ZhAySQA)
+[![Un músic calb amb barba toca el contrabaix amb atenció en un escenari fosc de Barcelona.](https://blog.pocallum.cat/wp-content/uploads/2011/12/IMG_2139.jpg)](https://photos.app.goo.gl/ZSyNGrUE53ZhAySQA)
 
 Una nit gran de Blues & Boogie a l'Ateneu Popular de 9 Barris. Aquesta nit, i seguint amb l'homenatge a Robert Jonhson, he gaudit (i cóm!) de quasi tots els grans músics de Blues de Barcelona. El llistat és enorme!
 

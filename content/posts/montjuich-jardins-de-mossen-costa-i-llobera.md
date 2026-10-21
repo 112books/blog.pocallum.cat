@@ -12,6 +12,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/03/IMG_8593.jpg
 image: https://lh6.googleusercontent.com/-W42d08Nygf0/T1ZFWOXf2GI/AAAAAAACnZo/shf4-KiEwk0/s800/IMG_8593.jpg
 ---
 
-|  [![](https://lh6.googleusercontent.com/-W42d08Nygf0/T1ZFWOXf2GI/AAAAAAACnZo/shf4-KiEwk0/s800/IMG_8593.jpg)](https://photos.app.goo.gl/dSdewuMUe15ZdWse6)  |
+|  [![Plantes espigades de fulles punxegudes i troncs marrons s'alcen contra un cel blau amb núvols prims.](https://lh6.googleusercontent.com/-W42d08Nygf0/T1ZFWOXf2GI/AAAAAAACnZo/shf4-KiEwk0/s800/IMG_8593.jpg)](https://photos.app.goo.gl/dSdewuMUe15ZdWse6)  |
 | --- |
 | De [Montjuich - Jardins de Mossèn Costa i Llobera](https://photos.app.goo.gl/dSdewuMUe15ZdWse6) |

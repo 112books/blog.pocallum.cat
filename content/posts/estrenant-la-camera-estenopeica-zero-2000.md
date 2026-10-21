@@ -118,7 +118,7 @@ Veient els resultats obtinguts a l’exterior —es nota la precisió de l’est
 
 Feu clic sobre la següent imatge per veure **l’[àlbum complet](https://photos.app.goo.gl/ZcrrW3WwE6gnqHuG6)** de l’estrena de la bonica **Zero 2000**.
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/10/2025-10-15-ZeeroCam2000-RolleiRPX25-Susqueda-A-0004-1024x1024.jpg)](https://photos.app.goo.gl/ZcrrW3WwE6gnqHuG6)
+[![Un arbre frondós presideix un paisatge rural de muntanya, amb una casa de pedra i una obertura fosca a la dreta.](https://blog.pocallum.cat/wp-content/uploads/2025/10/2025-10-15-ZeeroCam2000-RolleiRPX25-Susqueda-A-0004-1024x1024.jpg)](https://photos.app.goo.gl/ZcrrW3WwE6gnqHuG6)
 
 * * *
 

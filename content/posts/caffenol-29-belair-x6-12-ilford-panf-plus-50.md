@@ -14,6 +14,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/10/Caffenol-29-Bela
 image: https://lh6.googleusercontent.com/-lrWVmCNKBEI/Umq140TkNSI/AAAAAAAD8Cw/OJfncwRU9Bw/s640/Caffenol%2520%252329%2520-%2520Belair%2520X6-12%2520-%2520Ilford%2520PANF%2520Plus%252050%2520-%2520009.jpg
 ---
 
-|  [![](https://lh6.googleusercontent.com/-lrWVmCNKBEI/Umq140TkNSI/AAAAAAAD8Cw/OJfncwRU9Bw/s640/Caffenol%2520%252329%2520-%2520Belair%2520X6-12%2520-%2520Ilford%2520PANF%2520Plus%252050%2520-%2520009.jpg)](https://photos.app.goo.gl/ihHsD1gDvMN6D9d96)  |
+|  [![Paisatge en blanc i negre amb grans núvols al cel i una silueta de muntanyes fosques a baix.](https://lh6.googleusercontent.com/-lrWVmCNKBEI/Umq140TkNSI/AAAAAAAD8Cw/OJfncwRU9Bw/s640/Caffenol%2520%252329%2520-%2520Belair%2520X6-12%2520-%2520Ilford%2520PANF%2520Plus%252050%2520-%2520009.jpg)](https://photos.app.goo.gl/ihHsD1gDvMN6D9d96)  |
 | --- |
 | De [Caffenol #29 - Belair X6-12 - Ilford PANF Plus 50](https://photos.app.goo.gl/ihHsD1gDvMN6D9d96) |

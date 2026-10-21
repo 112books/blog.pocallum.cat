@@ -12,7 +12,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2016/01/HD65-Noon612-Il5
 image: https://lh3.googleusercontent.com/-mc0o13tYb2c/VpLC9tYmNoI/AAAAAAAE-bA/AMWmAGMnT4s/s640-Ic42/HD%25252365%252520-%252520Noon612%252520-%252520Il50001.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-mc0o13tYb2c/VpLC9tYmNoI/AAAAAAAE-bA/AMWmAGMnT4s/s640-Ic42/HD%25252365%252520-%252520Noon612%252520-%252520Il50001.jpg)](https://photos.app.goo.gl/zafBmDGxMm7SRfW4A)  |
+|  [![Un tractor antic amb un rodet al darrere està aturat en un camp fosc sota un cel ennuvolat en blanc i negre.](https://lh3.googleusercontent.com/-mc0o13tYb2c/VpLC9tYmNoI/AAAAAAAE-bA/AMWmAGMnT4s/s640-Ic42/HD%25252365%252520-%252520Noon612%252520-%252520Il50001.jpg)](https://photos.app.goo.gl/zafBmDGxMm7SRfW4A)  |
 | --- |
 | De [Homedev#65 - Noon Pinhole 612 - Ilford PanF Plus 50](https://photos.app.goo.gl/zafBmDGxMm7SRfW4A) |
 

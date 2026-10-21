@@ -17,25 +17,25 @@ image: https://blog.pocallum.cat/wp-content/uploads/2025/03/DSCF0405-1024x683.jp
 description: "El projecte Date una Huerta torna a la Prosperitat! Després d’un temps d’abandonament, veïns reocupen l’espai per seguir oferint natura, cultura i autoajuda al barri."
 ---
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/03/DSCF0405-1024x683.jpg)
+![Una dona gran amb bufanda blanca i abric negre està dreta a la vorera, amb un grup de persones al fons del carrer.](https://blog.pocallum.cat/wp-content/uploads/2025/03/DSCF0405-1024x683.jpg)
 
 Doncs sí senyora veïna! El projecte **_Date una Huerta_** torna a ser una realitat al barri de la Prosperitat! Aquest passat diumenge, el solar del carrer Joaquim Valls, 79, ha estat reocupat per la comunitat després de mesos d’inactivitat i abandonament.
 
 Durant anys, aquest espai ha estat molt més que un hort-jardí: ha estat un punt de trobada autogestionat on la natura, les activitats culturals i l’autoajuda han creat vincles forts entre els habitants del barri. Malgrat els esforços d’especuladors i desallotjaments previs, la força col·lectiva ha tornat a donar vida a aquest indret.
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/03/DSCF0398-1024x683.jpg)
+![Un grup de persones amb abrics d'hivern caminen per un carrer de Barcelona ple de murals de colors i grafits.](https://blog.pocallum.cat/wp-content/uploads/2025/03/DSCF0398-1024x683.jpg)
 
 ## Per què s’ha reocupat?
 
 Després d’haver entregat les claus al desembre passat, la propietat no ha fet cap ús del terreny, deixant-lo en un estat d’abandonament. Això ha portat a les veïnes i veïns a prendre la decisió de reocupar-lo per evitar que esdevingui un focus de brutícia i rates. Aquesta acció compta amb el suport de més de seixanta entitats del barri.
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/03/DSCF0402-1024x683.jpg)
+![Policies i ciutadans reunits davant d'un mural de grafitis mentre un home gran els fotografia amb el mòbil.](https://blog.pocallum.cat/wp-content/uploads/2025/03/DSCF0402-1024x683.jpg)
 
 ## Un espai per al barri
 
 Des del 2016, **_Date una Huerta_** ha estat un exemple de com transformar un solar abandonat en un lloc ple de vida. Ha acollit activitats com teràpies per a nens amb autisme, suport a exreclusos i espais per al diàleg i la convivència. Ara, amb aquesta nova etapa, es busca continuar amb aquest esperit comunitari fins que hi hagi un projecte urbanístic clar que respecti les necessitats del barri.
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/03/DSCF0403-1024x683.jpg)
+![Home amb gorra negra mirant el mòbil en una vorera estreta, amb cotxes de policia i motos aparcats al carrer.](https://blog.pocallum.cat/wp-content/uploads/2025/03/DSCF0403-1024x683.jpg)
 
 ## Què podem esperar?
 

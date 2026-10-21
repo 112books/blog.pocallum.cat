@@ -18,6 +18,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/06/9243-Lomo-LC-A-0
 image: https://lh3.googleusercontent.com/-1OAgcMx8x9Y/UbY99PB8AJI/AAAAAAADv6U/AO06gbN9czs/s640/9243%2520-%2520Lomo%2520LC-A%2520-%2520001.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-1OAgcMx8x9Y/UbY99PB8AJI/AAAAAAADv6U/AO06gbN9czs/s640/9243%2520-%2520Lomo%2520LC-A%2520-%2520001.jpg)](https://photos.app.goo.gl/dvV72gxcNR42Ykxh6)  |
+|  [![Focs artificials en forma d'estrella esclaten al cel nocturn de Barcelona entre fum vermellós.](https://lh3.googleusercontent.com/-1OAgcMx8x9Y/UbY99PB8AJI/AAAAAAADv6U/AO06gbN9czs/s640/9243%2520-%2520Lomo%2520LC-A%2520-%2520001.jpg)](https://photos.app.goo.gl/dvV72gxcNR42Ykxh6)  |
 | --- |
 | De [9243 - Lomo LC-A - CN100](https://photos.app.goo.gl/dvV72gxcNR42Ykxh6) |

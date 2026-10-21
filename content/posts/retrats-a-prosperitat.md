@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2016/02/DSCF4092.jpg
 image: https://lh3.googleusercontent.com/-4o3tHXw5w3Y/VrXGX6YUHZI/AAAAAAAE_nY/RSFacrEURZs/s640-Ic42/DSCF4092.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-4o3tHXw5w3Y/VrXGX6YUHZI/AAAAAAAE_nY/RSFacrEURZs/s640-Ic42/DSCF4092.jpg)](https://photos.app.goo.gl/kSjVrWxbvAsmmXdB6)  |
+|  [![Una dona de cabells curts mira cap amunt amb la mà aixecada dins d'un bar amb ampolles al fons.](https://lh3.googleusercontent.com/-4o3tHXw5w3Y/VrXGX6YUHZI/AAAAAAAE_nY/RSFacrEURZs/s640-Ic42/DSCF4092.jpg)](https://photos.app.goo.gl/kSjVrWxbvAsmmXdB6)  |
 | --- |
 | De [Retrats 9barrisimatge.org](https://photos.app.goo.gl/kSjVrWxbvAsmmXdB6) |

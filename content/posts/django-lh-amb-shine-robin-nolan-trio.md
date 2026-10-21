@@ -10,7 +10,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_7425-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_7425.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_7425.jpg)](https://photos.app.goo.gl/bioxKRXYataa9rBo7)
+[![Un home gran amb barret canta davant d'un micròfon retro en un escenari fosc.](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_7425.jpg)](https://photos.app.goo.gl/bioxKRXYataa9rBo7)
 
 Aquest dijous he tingut l'honor d'assistir al primer Festival de [Django L'H](https://www.festivaldjangolh.com/)", un festival de Jazz Manush que comença enguany a homenatjar al gran [Django Reinhardt](https://es.wikipedia.org/wiki/Django_Reinhardt).
 

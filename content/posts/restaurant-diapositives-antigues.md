@@ -18,6 +18,6 @@ image: https://blog.pocallum.cat/wp-content/uploads/2025/03/2025-03-14-Xavier-Ta
 description: "Descobreix el procés de restauració de diapositives antigues a través d’un article a pocallum.cat. Aprengui com preservar el seu patrimoni fotogràfic."
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/03/2025-03-14-Xavier-Tafunell-0009-neta-neteja-digital-Edicio-665x1024.jpg)](https://pocallum.cat/restaurant-diapositives-dels-anys-50/)
+[![Nen de jersei marró muntat en un cavallet de joguina, subjectant un objecte verd a la boca, davant d'una paret.](https://blog.pocallum.cat/wp-content/uploads/2025/03/2025-03-14-Xavier-Tafunell-0009-neta-neteja-digital-Edicio-665x1024.jpg)](https://pocallum.cat/restaurant-diapositives-dels-anys-50/)
 
 Si us interessa saber el procés de restauració de diapositives antigues, acabo de publicar un petit article a pocallum.cat on us explico com ho faig jo. Potser algun dia us caldrà fer-ho o que us ajudem a preservar el vostre patrimoni fotogràfic. [Visiteu l’article](https://pocallum.cat/restaurant-diapositives-dels-anys-50/) per descobrir els detalls del meu treball i com podem ajudar-vos a donar nova vida a les vostres imatges antigues.

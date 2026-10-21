@@ -13,7 +13,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2011/10/IMG_8400.jpg
 image: https://lh5.googleusercontent.com/-ccEFCc2T5q8/TpHusf_ivrI/AAAAAAACXi8/yPlesK9zp4I/s800/IMG_8400.jpg
 ---
 
-|  [![](https://lh5.googleusercontent.com/-ccEFCc2T5q8/TpHusf_ivrI/AAAAAAACXi8/yPlesK9zp4I/s800/IMG_8400.jpg)](https://photos.app.goo.gl/vyG8W9XbY9a7UqBm7)  |
+|  [![Dos homes avancen en monocicle per una esplanada asfaltada, amb el fons d'arbres i vehicles desenfocats pel moviment.](https://lh5.googleusercontent.com/-ccEFCc2T5q8/TpHusf_ivrI/AAAAAAACXi8/yPlesK9zp4I/s800/IMG_8400.jpg)](https://photos.app.goo.gl/vyG8W9XbY9a7UqBm7)  |
 | --- |
 | De [XVIII trobada Monociclista Barcelona (a l'Ateneu Popular de 9 Barris)](https://photos.app.goo.gl/vyG8W9XbY9a7UqBm7) |
 

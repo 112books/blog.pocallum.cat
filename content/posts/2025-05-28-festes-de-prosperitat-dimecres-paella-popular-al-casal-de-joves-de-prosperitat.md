@@ -25,7 +25,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2025/05/DSCF1377-1024x683.jp
 description: "El Casal de Joves de la Prosperitat celebra una paella popular durant les festes del barri, reunint veïnat de totes les edats en un ambient intergeneracional i festiu, amb una deliciosa paella vegana i bona companyia."
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/05/DSCF1377-1024x683.jpg)](https://photos.app.goo.gl/LKrpbzERGCzR7kX46)
+[![Quatre persones somriuen al voltant d'una paella gran buida en un pati, una d'elles fa un gest de polze amunt.](https://blog.pocallum.cat/wp-content/uploads/2025/05/DSCF1377-1024x683.jpg)](https://photos.app.goo.gl/LKrpbzERGCzR7kX46)
 
 El dimecres, com mana la tradició, el [Casal de Joves de la Prosperitat](https://www.instagram.com/cjprospe/) va convidar tot el veïnat a una fantàstica paella popular. Molts anys m’ho perdo per feina, però enguany m’ho van recordar i no he fallat a la cita, és clar!
 

@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2015/07/HD52-K1000-EG100
 image: https://lh3.googleusercontent.com/-h2Xo1lXCDeM/VbiW0ZlNaXI/AAAAAAAEyxw/k47vVN3Pelc/s640-Ic42/HD%25252352%252520-K1000%252520-%252520EG100%252520-%252520030.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-h2Xo1lXCDeM/VbiW0ZlNaXI/AAAAAAAEyxw/k47vVN3Pelc/s640-Ic42/HD%25252352%252520-K1000%252520-%252520EG100%252520-%252520030.jpg)](https://photos.app.goo.gl/wpSwRHEcwBEPojE97)  |
+|  [![Flors blanques en forma de trompeta en primer pla sobre un fons desenfocat, en una imatge en blanc i negre.](https://lh3.googleusercontent.com/-h2Xo1lXCDeM/VbiW0ZlNaXI/AAAAAAAEyxw/k47vVN3Pelc/s640-Ic42/HD%25252352%252520-K1000%252520-%252520EG100%252520-%252520030.jpg)](https://photos.app.goo.gl/wpSwRHEcwBEPojE97)  |
 | --- |
 | De [Homedev#52 - Pentax K1000 - Earl Grey](https://photos.app.goo.gl/wpSwRHEcwBEPojE97) |

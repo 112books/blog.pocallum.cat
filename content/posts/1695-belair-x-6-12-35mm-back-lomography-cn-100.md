@@ -14,6 +14,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/08/1695-Belair-X-6-
 image: https://lh5.googleusercontent.com/-2dwtS5S8ePc/UhvH3WYIQAI/AAAAAAAD33E/_VC1OOrIfj4/s640/1695%2520-%2520Belair%2520X%25206-12%2520-%2520006.jpg
 ---
 
-|  [![](https://lh5.googleusercontent.com/-2dwtS5S8ePc/UhvH3WYIQAI/AAAAAAAD33E/_VC1OOrIfj4/s640/1695%2520-%2520Belair%2520X%25206-12%2520-%2520006.jpg)](https://photos.app.goo.gl/5sVpzDfgZMLUgmAh7)  |
+|  [![Unes cortines translúcides emmarquen la vista de testos amb flors i un edifici, amb una planta a l'interior.](https://lh5.googleusercontent.com/-2dwtS5S8ePc/UhvH3WYIQAI/AAAAAAAD33E/_VC1OOrIfj4/s640/1695%2520-%2520Belair%2520X%25206-12%2520-%2520006.jpg)](https://photos.app.goo.gl/5sVpzDfgZMLUgmAh7)  |
 | --- |
 | De [1695 - Belair X 6-12 35mm back -Lomography CN 100](https://photos.app.goo.gl/5sVpzDfgZMLUgmAh7) |

@@ -12,7 +12,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2011/04/IMG_4138.jpg
 image: https://lh3.googleusercontent.com/_xYdsA1KqJRQ/TZfhsb46fWI/AAAAAAACFuc/8IF7U1UqBQ0/s640/IMG_4138.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/_xYdsA1KqJRQ/TZfhsb46fWI/AAAAAAACFuc/8IF7U1UqBQ0/s640/IMG_4138.jpg)](https://photos.app.goo.gl/bh21uEJSh9LaM82b8)  |
+|  [![Home capcot amb la mà al cap assegut al costat de maletes velles en un escenari fosc.](https://lh3.googleusercontent.com/_xYdsA1KqJRQ/TZfhsb46fWI/AAAAAAACFuc/8IF7U1UqBQ0/s640/IMG_4138.jpg)](https://photos.app.goo.gl/bh21uEJSh9LaM82b8)  |
 | --- |
 | De [Llibertat de creació llibertat d'expressió](https://photos.app.goo.gl/bh21uEJSh9LaM82b8) |
 

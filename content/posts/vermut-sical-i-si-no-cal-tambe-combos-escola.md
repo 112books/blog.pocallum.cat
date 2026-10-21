@@ -11,7 +11,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2011/03/IMG_9931.jpg
 image: https://lh4.googleusercontent.com/_xYdsA1KqJRQ/TYSTK4OMzAI/AAAAAAACEng/oSlBBiZgZy8/s640/IMG_9931.jpg
 ---
 
-|  [![](https://lh4.googleusercontent.com/_xYdsA1KqJRQ/TYSTK4OMzAI/AAAAAAACEng/oSlBBiZgZy8/s640/IMG_9931.jpg)](https://photos.app.goo.gl/cX9xzNxa5HfEyukA9)  |
+|  [![Una banda toca en directe al fons d'un bar, amb un plat de menjar i un got de beguda en primer pla sobre la taula.](https://lh4.googleusercontent.com/_xYdsA1KqJRQ/TYSTK4OMzAI/AAAAAAACEng/oSlBBiZgZy8/s640/IMG_9931.jpg)](https://photos.app.goo.gl/cX9xzNxa5HfEyukA9)  |
 | --- |
 | De [Vermut si cal amb els Combos de l'Escola Taller de Blues de Barcelona](https://photos.app.goo.gl/cX9xzNxa5HfEyukA9) |
 

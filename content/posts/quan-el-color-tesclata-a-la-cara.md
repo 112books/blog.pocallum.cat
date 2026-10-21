@@ -24,7 +24,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2025/02/IMG_0808-576x1024.jp
 description: "Descobreix com les exposicions del KBr transformen el gris en color. Fotografia, art i contrast visual. Clica per veure imatges i detalls"
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/02/IMG_0808-576x1024.jpg)](https://photos.app.goo.gl/pbfmGgQ8z4K8E2P67)
+[![Mural d'un home barbut amb un mocador vermell pintat sobre una paret de maons en un carrer de Barcelona.](https://blog.pocallum.cat/wp-content/uploads/2025/02/IMG_0808-576x1024.jpg)](https://photos.app.goo.gl/pbfmGgQ8z4K8E2P67)
 
 Només cal que doneu una ullada a aquest blog per poder veure que normalment m'agrada disparar en blanc i negre i a més, si puc, en pel·lícula de tota la vida. Ara no donaré la vara amb això de l'analògic, la importància de la implicació en tot el procés fotogràfic, l'emoció del revelat, fer-ho tot un mateix i altres, no!  
 

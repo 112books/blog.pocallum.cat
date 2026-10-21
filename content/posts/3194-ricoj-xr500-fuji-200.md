@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/03/3194-Ricoh-XR500
 image: https://lh5.googleusercontent.com/-4ep9k72xQXI/UUDxtFPIXwI/AAAAAAADlWQ/l-B1Lrxblyw/s640/3194%2520-%2520Ricoh%2520XR500%2520-%2520002.jpg
 ---
 
-|  [![](https://lh5.googleusercontent.com/-4ep9k72xQXI/UUDxtFPIXwI/AAAAAAADlWQ/l-B1Lrxblyw/s640/3194%2520-%2520Ricoh%2520XR500%2520-%2520002.jpg)](https://photos.app.goo.gl/ZACU9FdBuj3K89f6A)  |
+|  [![Dens canyissar de canyes seques i daurades, amb tiges caigudes a terra i herbes verdes a la base.](https://lh5.googleusercontent.com/-4ep9k72xQXI/UUDxtFPIXwI/AAAAAAADlWQ/l-B1Lrxblyw/s640/3194%2520-%2520Ricoh%2520XR500%2520-%2520002.jpg)](https://photos.app.goo.gl/ZACU9FdBuj3K89f6A)  |
 | --- |
 | De [3194 - Ricoj XR500 - Fuji 200](https://photos.app.goo.gl/ZACU9FdBuj3K89f6A) |

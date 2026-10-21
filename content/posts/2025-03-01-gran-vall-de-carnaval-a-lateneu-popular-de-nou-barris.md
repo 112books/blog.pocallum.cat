@@ -29,7 +29,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2025/03/DSCF9880-Mejorado-NR
 description: "El Gran Ball de Carnaval a l’Ateneu Popular de Nou Barris, amb disfresses originals, música incombustible i l’ambient festiu que segueix la Rua de Carnestoltes"
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/03/DSCF9880-Mejorado-NR-1024x577.jpg)](https://photos.app.goo.gl/bqBAQr2B42TkdSSq8)
+[![Quatre joves amb grans barrets lluminosos somriuen durant una celebració nocturna al carrer.](https://blog.pocallum.cat/wp-content/uploads/2025/03/DSCF9880-Mejorado-NR-1024x577.jpg)](https://photos.app.goo.gl/bqBAQr2B42TkdSSq8)
 
 Després de la Rua de Carnestoltes toca, previ sopar a ser possible, fer la pujada per trobar al cim el **Gran ball de Carnaval** que es fa sempre a l'[Ateneu Popular de Nou Barris](https://ateneu9b.net/ca). Allà molta de la gent que ha participat en la rua, encara els queden forces per –canviant de disfressa moltes vegades– seguir la festa.
 

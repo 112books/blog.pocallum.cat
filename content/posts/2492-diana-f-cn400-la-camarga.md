@@ -13,6 +13,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/08/2492-Diana-CN400
 image: https://lh3.googleusercontent.com/-THyPwmTU9bM/UiIzMtjSRcI/AAAAAAAD5Bs/hQlpZ2JLkn8/s640/2492%2520-%2520Diana%2520-%2520CN400%2520-%2520010.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-THyPwmTU9bM/UiIzMtjSRcI/AAAAAAAD5Bs/hQlpZ2JLkn8/s640/2492%2520-%2520Diana%2520-%2520CN400%2520-%2520010.jpg)](https://photos.app.goo.gl/tRV6d67Ln8i34VjP7)  |
+|  [![Llacuna salada amb una petita illa de terra al mig, aigües tranquil·les amb taques blanques de sal i terreny àrid sota un cel blau clar.](https://lh3.googleusercontent.com/-THyPwmTU9bM/UiIzMtjSRcI/AAAAAAAD5Bs/hQlpZ2JLkn8/s640/2492%2520-%2520Diana%2520-%2520CN400%2520-%2520010.jpg)](https://photos.app.goo.gl/tRV6d67Ln8i34VjP7)  |
 | --- |
 | De [2492 - Diana +F - CN400](https://photos.app.goo.gl/tRV6d67Ln8i34VjP7) |

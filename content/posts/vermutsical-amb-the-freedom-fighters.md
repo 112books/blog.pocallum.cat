@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2015/01/IMG_8727.jpg
 image: https://lh5.googleusercontent.com/-xnKPotHaKQ8/VLKuIF9ONOI/AAAAAAAEioU/Ng2tO6rJk2o/s640/IMG_8727.jpg
 ---
 
-|  [![](https://lh5.googleusercontent.com/-xnKPotHaKQ8/VLKuIF9ONOI/AAAAAAAEioU/Ng2tO6rJk2o/s640/IMG_8727.jpg)](https://photos.app.goo.gl/xgQMp1o7Kh4NnDzZ9)  |
+|  [![Un home canta i toca la guitarra elèctrica en un local d'assaig de Barcelona, amb una cantant i un baixista al darrere.](https://lh5.googleusercontent.com/-xnKPotHaKQ8/VLKuIF9ONOI/AAAAAAAEioU/Ng2tO6rJk2o/s640/IMG_8727.jpg)](https://photos.app.goo.gl/xgQMp1o7Kh4NnDzZ9)  |
 | --- |
 | De [VermutSical amb “THE FREEDOM FIGHTERS”](https://photos.app.goo.gl/xgQMp1o7Kh4NnDzZ9) |

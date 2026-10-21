@@ -11,7 +11,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/10/IMG_3564.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2024/10/IMG_3564-1024x683.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/10/IMG_3564-1024x683.jpg)](https://photos.app.goo.gl/RH54Xm4cw4PU1gvGA)
+[![Dues ballarines de vestits tradicionals vermells i blancs salten amb mocadors en un escenari de fusta davant del públic.](https://blog.pocallum.cat/wp-content/uploads/2024/10/IMG_3564-1024x683.jpg)](https://photos.app.goo.gl/RH54Xm4cw4PU1gvGA)
 
 La segona edició de la Festa de les Cultures, una **trobada antiracista i anticolonial d'entitats, col·lectius i veïnat** per reivindicar la diversitat del nostre barri. 
 

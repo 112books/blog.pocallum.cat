@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2014/03/IMG_6202.jpg
 image: https://lh4.googleusercontent.com/-77XpYgjMuTw/Uy9sX__5JrI/AAAAAAAEExw/SRZ7439rhWU/s640/IMG_6202.jpg
 ---
 
-|  [![](https://lh4.googleusercontent.com/-77XpYgjMuTw/Uy9sX__5JrI/AAAAAAAEExw/SRZ7439rhWU/s640/IMG_6202.jpg)](https://photos.app.goo.gl/ZrFFMeKE5u7Mk4o67)  |
+|  [![Un home amb els cabells llargs toca el saxofon a una dona gran en cadira de rodes al mig del carrer, ella es tapa la boca.](https://lh4.googleusercontent.com/-77XpYgjMuTw/Uy9sX__5JrI/AAAAAAAEExw/SRZ7439rhWU/s640/IMG_6202.jpg)](https://photos.app.goo.gl/ZrFFMeKE5u7Mk4o67)  |
 | --- |
 | De [11è Festival de Sopes del Món](https://photos.app.goo.gl/ZrFFMeKE5u7Mk4o67) |

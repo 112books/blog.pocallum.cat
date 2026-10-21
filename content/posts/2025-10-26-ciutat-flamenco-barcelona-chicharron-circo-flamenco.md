@@ -29,7 +29,7 @@ description: "Germán J. López Galván presenta “Empaque”, un espectacle to
 title-seo: "Chicharrón Circo Flamenco al Ciutat Flamenco Barcelona"
 ---
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/10/IMG_2136-1024x683.jpg)
+![Dona amb cabells arrissats, de perfil, aixeca el braç i crea una estela de moviment en un escenari fosc.](https://blog.pocallum.cat/wp-content/uploads/2025/10/IMG_2136-1024x683.jpg)
 
 ## El noi del _multitasking_
 

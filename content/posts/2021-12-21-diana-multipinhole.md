@@ -13,7 +13,7 @@ image: https://lh3.googleusercontent.com/pw/AM-JKLWXGfciim5h4tCCg_BXMAAWAtQxbVmN
 
 <figure>
 
-[![](https://lh3.googleusercontent.com/pw/AM-JKLWXGfciim5h4tCCg_BXMAAWAtQxbVmNkxC1xpHHH8thbVIXZX93gOaubUrEOozb02CeULSWolPoNztzh9D_k1VO2Jr4fNRYucawPJe9dVkUgBauU_MoZLfnh4OJJR-OaRvmzMCObPCjugQz970D9U_GKg=s1255-no?authuser=0)](https://photos.app.goo.gl/GgHHmP3EuHqo3bic8)
+[![Un ganivet i una cullera dins d'un bol de vidre sobre una taula, amb un sofà i vistes urbanes a la finestra.](https://lh3.googleusercontent.com/pw/AM-JKLWXGfciim5h4tCCg_BXMAAWAtQxbVmNkxC1xpHHH8thbVIXZX93gOaubUrEOozb02CeULSWolPoNztzh9D_k1VO2Jr4fNRYucawPJe9dVkUgBauU_MoZLfnh4OJJR-OaRvmzMCObPCjugQz970D9U_GKg=s1255-no?authuser=0)](https://photos.app.goo.gl/GgHHmP3EuHqo3bic8)
 
 <figcaption>
 

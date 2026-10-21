@@ -10,7 +10,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2023/08/L1340183-1-576x1
 image: https://blog.pocallum.cat/wp-content/uploads/2023/08/L1340183-1-576x1024.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2023/08/L1340183-1-576x1024.jpg)](https://photos.app.goo.gl/n228gRLVLvzdPmuy5)
+[![Retrat abstracte d'una dona amb vestit fosc i tocs vermells penjat en una paret blanca de galeria.](https://blog.pocallum.cat/wp-content/uploads/2023/08/L1340183-1-576x1024.jpg)](https://photos.app.goo.gl/n228gRLVLvzdPmuy5)
 
 Dia de turisteig per Barcelona. A vegades ho fem.  
 Primera parada al [MNAC](https://www.museunacional.cat/ca) (Museu Nacional d'Art de Catalunya) on encara hi ha l'exposició de [Mey Rahola](https://www.museunacional.cat/ca/mey-rahola-1897-1959-la-nova-fotografa). A més, hem visitat la gegantina escultura [Trena](https://www.museunacional.cat/ca/trena-laia-estruch) de Laia Estruch. És com desparir-se un mateix ;).

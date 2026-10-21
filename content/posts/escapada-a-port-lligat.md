@@ -10,7 +10,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_8240-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_8240.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_8240.jpg)](https://photos.app.goo.gl/zQQCo1WxrRsHHPZS9)
+[![El sol travessa els núvols i es reflecteix al mar entre penya-segats foscos, amb roques en primer pla.](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_8240.jpg)](https://photos.app.goo.gl/zQQCo1WxrRsHHPZS9)
 
 Doncs si, de tan en quan toca desconectar de la feina i pasar uns dies gaudint de l'entorn. Aquest cop molt que hem gaudit de l'entorn, la gastronomia i tot plegat. Aqui unes imatges de Cap de Creus, Cadaqués, Port-lligat i el Port de la Selva.
 

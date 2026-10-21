@@ -11,6 +11,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2015/12/HD61-HolgaWPC-00
 image: https://lh3.googleusercontent.com/-k2_aeqCrbz0/Vn8-tgJKVyI/AAAAAAAE94E/fWqsqhtmXT8/s640-Ic42/HD%25252361%252520-%252520HolgaWPC%252520-%252520002.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-k2_aeqCrbz0/Vn8-tgJKVyI/AAAAAAAE94E/fWqsqhtmXT8/s640-Ic42/HD%25252361%252520-%252520HolgaWPC%252520-%252520002.jpg)](https://photos.app.goo.gl/jufQFbCXKhExAVLG7)  |
+|  [![Home barbut en blanc i negre mirant a càmera en un interior fosc amb llibres i una finestra.](https://lh3.googleusercontent.com/-k2_aeqCrbz0/Vn8-tgJKVyI/AAAAAAAE94E/fWqsqhtmXT8/s640-Ic42/HD%25252361%252520-%252520HolgaWPC%252520-%252520002.jpg)](https://photos.app.goo.gl/jufQFbCXKhExAVLG7)  |
 | --- |
 | De [Homedev#61 - Holga WPC - Earl Grey 100](https://photos.app.goo.gl/jufQFbCXKhExAVLG7) |

@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2014/06/1446-LaSardina-F
 image: https://lh6.googleusercontent.com/-vtyTvI7FWrU/U5weEI55VTI/AAAAAAAEMJE/8IA-9YJrJdg/s640/1446%2520%2520-%2520LaSardina%2520-%2520F200%2520-%2520012.jpg
 ---
 
-|  [![](https://lh6.googleusercontent.com/-vtyTvI7FWrU/U5weEI55VTI/AAAAAAAEMJE/8IA-9YJrJdg/s640/1446%2520%2520-%2520LaSardina%2520-%2520F200%2520-%2520012.jpg)](https://photos.app.goo.gl/cQHhaKkehs68gnYc6)  |
+|  [![Un cambrer amb samarreta de ratlles blaves i liles omple una gerra de cervesa d'un tirador en un bar.](https://lh6.googleusercontent.com/-vtyTvI7FWrU/U5weEI55VTI/AAAAAAAEMJE/8IA-9YJrJdg/s640/1446%2520%2520-%2520LaSardina%2520-%2520F200%2520-%2520012.jpg)](https://photos.app.goo.gl/cQHhaKkehs68gnYc6)  |
 | --- |
 | De [1446 - LaSardina - F200](https://photos.app.goo.gl/cQHhaKkehs68gnYc6) |

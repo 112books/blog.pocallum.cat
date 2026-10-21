@@ -12,6 +12,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/03/2024-02-29-Panta
 image: https://blog.pocallum.cat/wp-content/uploads/2024/03/2024-02-29-Panta-de-Sau-LM6-RPX25-0030-1024x695.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/03/2024-02-29-Panta-de-Sau-LM6-RPX25-0030-1024x695.jpg)](https://photos.app.goo.gl/rajwkjvSnrBNmmvB8)
+[![Un campanar de pedra romànic s'alça sobre les ruïnes d'un poble abandonat envoltat de muntanyes.](https://blog.pocallum.cat/wp-content/uploads/2024/03/2024-02-29-Panta-de-Sau-LM6-RPX25-0030-1024x695.jpg)](https://photos.app.goo.gl/rajwkjvSnrBNmmvB8)
 
 Més fotografies del drama de la sequera. Aquest cop amb Rollei RPX ISO 25. Una pel·lícula que m'encanta també. Gra molt fi, un contrast alt i una definició espectacular. Disparat amb Leica M6 i un Voigtlander Color-Skopar 21mm f/4.

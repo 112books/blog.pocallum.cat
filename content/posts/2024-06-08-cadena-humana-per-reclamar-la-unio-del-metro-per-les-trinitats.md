@@ -18,7 +18,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/06/DSF3145.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2024/06/DSF3145-1024x683.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/06/DSF3145-1024x683.jpg)](https://photos.app.goo.gl/HEonAB7ncPstq5VT9)
+[![Dones amb hijab fan cua ordenadament a la vorera d'un carrer de Barcelona, amb arbres i vianants al fons.](https://blog.pocallum.cat/wp-content/uploads/2024/06/DSF3145-1024x683.jpg)](https://photos.app.goo.gl/HEonAB7ncPstq5VT9)
 
 Amb el lema “**Unim el metro, apropem els barris**!” el moviment veïnal de Barcelona engega una campanya per reclamar que la L3 del metro s’ampliï de la Trinitat Nova fins a la Trinitat Vella (L1).
 

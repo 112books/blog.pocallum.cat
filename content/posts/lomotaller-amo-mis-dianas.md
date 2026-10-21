@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2015/02/798801JoanLomogr
 image: https://lh5.googleusercontent.com/-uSDDHvzIGAc/VPB9lmSulxI/AAAAAAAEnMM/nx7HO6Y693Q/s640/798801JoanLomography.jpg
 ---
 
-|  [![](https://lh5.googleusercontent.com/-uSDDHvzIGAc/VPB9lmSulxI/AAAAAAAEnMM/nx7HO6Y693Q/s640/798801JoanLomography.jpg)](https://photos.app.goo.gl/YxoBNsYXPf58qs7a9)  |
+|  [![Dona somrient amb bufanda en un parc, amb margarides sobreposades a la cara i la roba.](https://lh5.googleusercontent.com/-uSDDHvzIGAc/VPB9lmSulxI/AAAAAAAEnMM/nx7HO6Y693Q/s640/798801JoanLomography.jpg)](https://photos.app.goo.gl/YxoBNsYXPf58qs7a9)  |
 | --- |
 | De [LomoTaller "Amo mis Dianas"](https://photos.app.goo.gl/YxoBNsYXPf58qs7a9) |

@@ -17,6 +17,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/11/Caffenol-33-Bela
 image: https://lh5.googleusercontent.com/-SNr17xcucsQ/UpDBe1Wt0VI/AAAAAAAD92I/7k-Gx2sRVC8/s640/Caffenol%2520%252333%2520-Belair%2520-%2520009.jpg
 ---
 
-|  [![](https://lh5.googleusercontent.com/-SNr17xcucsQ/UpDBe1Wt0VI/AAAAAAAD92I/7k-Gx2sRVC8/s640/Caffenol%2520%252333%2520-Belair%2520-%2520009.jpg)](https://photos.app.goo.gl/NPEYBFXXcUboVefJ8)  |
+|  [![Home barbut amb ulleres i auriculars toca la guitarra davant d'un micròfon en un estudi amb guitarres a la paret.](https://lh5.googleusercontent.com/-SNr17xcucsQ/UpDBe1Wt0VI/AAAAAAAD92I/7k-Gx2sRVC8/s640/Caffenol%2520%252333%2520-Belair%2520-%2520009.jpg)](https://photos.app.goo.gl/NPEYBFXXcUboVefJ8)  |
 | --- |
 | De [Caffenol #33 -Belair -Earl Grey 100 - Dusan Jevtovic](https://photos.app.goo.gl/NPEYBFXXcUboVefJ8) |

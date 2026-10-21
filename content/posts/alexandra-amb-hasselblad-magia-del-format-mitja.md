@@ -22,7 +22,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2024/11/2024-11-14-Hassel-Pa
 description: "Descobreix la màgia del format mitjà amb un retrat d'Alexandra fet amb la llegendària Hasselblad 500 CM a Llumatics, utilitzant pel·lícula Ilford Pan F+ i revelat Rodinal."
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/11/2024-11-14-Hassel-PanF@50-R150-Alexandra-0003-1024x1024.jpg)](https://photos.app.goo.gl/y2Jo2Mo8wLSgMUFd7)
+[![. Sí. - Sense cometes ni claudàtors. Sí. - No copiar text de la imatge. (He ignorat el logotip](https://blog.pocallum.cat/wp-content/uploads/2024/11/2024-11-14-Hassel-PanF@50-R150-Alexandra-0003-1024x1024.jpg)](https://photos.app.goo.gl/y2Jo2Mo8wLSgMUFd7)
 
 Després de molt de temps, he tornat a disparar amb la que probablement és la millor càmera de format mitjà de la història: la preciosa [Hasselblad 500 CM](https://www.hasselblad.com/about/history/500-series/). Gràcies a la nostra existència com a [Llumàtics](https://llumatics.com/) dins de la [Nau Bostik](https://naubostik.com/), sempre hi ha gent meravellosa disposada a posar davant l'objectiu.
 

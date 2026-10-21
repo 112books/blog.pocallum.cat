@@ -15,7 +15,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2020/01/cover_2.jpg
 image: https://bookshow.blurb.com/bookshow/cache/P15161697/md/cover_2.jpeg?access_key=9e985a635a7637c203cb0ea6637c4c05
 ---
 
-[![](https://bookshow.blurb.com/bookshow/cache/P15161697/md/cover_2.jpeg?access_key=9e985a635a7637c203cb0ea6637c4c05)](https://www.blurb.es/bookshare/app/index.html?bookId=9886151)
+[![Un camí de terra s'endinsa en un paisatge rural, flanquejat per les siluetes d'arbres sense fulles.](https://bookshow.blurb.com/bookshow/cache/P15161697/md/cover_2.jpeg?access_key=9e985a635a7637c203cb0ea6637c4c05)](https://www.blurb.es/bookshare/app/index.html?bookId=9886151)
 
 Pedrola
 

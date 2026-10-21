@@ -13,6 +13,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/09/6668img052.jpg
 image: https://lh6.googleusercontent.com/-kuJEAjurVks/UFtJ9RKx_rI/AAAAAAADUf4/SqBuJBIHY2U/s800/6668img052.jpg
 ---
 
-|  [![](https://lh6.googleusercontent.com/-kuJEAjurVks/UFtJ9RKx_rI/AAAAAAADUf4/SqBuJBIHY2U/s800/6668img052.jpg)](https://photos.app.goo.gl/YcYmVMdScU7C66f16)  |
+|  [![Una torre elèctrica d'alta tensió s'alça en silueta contra un cel de capvespre amb tons taronges i liles.](https://lh6.googleusercontent.com/-kuJEAjurVks/UFtJ9RKx_rI/AAAAAAADUf4/SqBuJBIHY2U/s800/6668img052.jpg)](https://photos.app.goo.gl/YcYmVMdScU7C66f16)  |
 | --- |
 | De [Lomo Smena 8M - First test](https://photos.app.goo.gl/YcYmVMdScU7C66f16) |

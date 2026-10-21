@@ -13,6 +13,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/07/IMG_1724.jpg
 image: https://lh3.googleusercontent.com/-kQW59V-wDwY/UdLHiVaLG3I/AAAAAAADxaw/Pe6a6IEeQHM/s640/IMG_1724.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-kQW59V-wDwY/UdLHiVaLG3I/AAAAAAADxaw/Pe6a6IEeQHM/s640/IMG_1724.jpg)](https://photos.app.goo.gl/bV11ZTUpBVrZDtdJA)  |
+|  [![Port esportiu nocturn amb vaixells, llums reflectides a l'aigua, roques en primer pla i cel estrellat.](https://lh3.googleusercontent.com/-kQW59V-wDwY/UdLHiVaLG3I/AAAAAAADxaw/Pe6a6IEeQHM/s640/IMG_1724.jpg)](https://photos.app.goo.gl/bV11ZTUpBVrZDtdJA)  |
 | --- |
 | De [Tamariu 2013](https://photos.app.goo.gl/bV11ZTUpBVrZDtdJA) |

@@ -10,6 +10,6 @@ tags: []
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_4441-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_4441.jpg
 ---
-[![](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_4441.jpg)](https://photos.app.goo.gl/AVkbAJwmjo7D3wE48)
+[![Quatre estructures triangulars il·luminades de taronja destaquen sobre un turó pavimentat sota un cel blau fosc.](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_4441.jpg)](https://photos.app.goo.gl/AVkbAJwmjo7D3wE48)
 
 [Totes les fotos](https://photos.app.goo.gl/AVkbAJwmjo7D3wE48)

@@ -13,6 +13,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/08/2494-Diana-CN400
 image: https://lh3.googleusercontent.com/-bajJE8uVtLs/UiEtung_zDI/AAAAAAAD4rI/h-uO9BgsG-8/s640/2494%2520-%2520Diana%2520-%2520CN400%2520-%2520004.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-bajJE8uVtLs/UiEtung_zDI/AAAAAAAD4rI/h-uO9BgsG-8/s640/2494%2520-%2520Diana%2520-%2520CN400%2520-%2520004.jpg)](https://photos.app.goo.gl/QgDsLdYHjCk6t62p8)  |
+|  [![Una cala rocosa d'aigües transparents i blaves, amb parets escarpades i una persona a la vora esquerra.](https://lh3.googleusercontent.com/-bajJE8uVtLs/UiEtung_zDI/AAAAAAAD4rI/h-uO9BgsG-8/s640/2494%2520-%2520Diana%2520-%2520CN400%2520-%2520004.jpg)](https://photos.app.goo.gl/QgDsLdYHjCk6t62p8)  |
 | --- |
 | De [2494 - Diana +F - CN400](https://photos.app.goo.gl/QgDsLdYHjCk6t62p8) |

@@ -19,7 +19,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2022/12/DSF3123-1024x683.jpg
 description: "Descobreix l'actuació memorable de Daniel Higiénico al Casal de Barri de Prosperitat, juntament amb l'entrega dels Premis Josep Antón Cordoncillo."
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2022/12/DSF3123-1024x683.jpg)](https://photos.app.goo.gl/CMpoQtePpry6RvSE6)
+[![Un músic toca la guitarra davant d'un públic assegut d'esquena en un bar, amb ampolles a la barra.](https://blog.pocallum.cat/wp-content/uploads/2022/12/DSF3123-1024x683.jpg)](https://photos.app.goo.gl/CMpoQtePpry6RvSE6)
 
 El 16 de desembre de 2022, el **Casal de barri de Prosperitat** va viure una tarda-vespre inoblidable. Vam tenir el plaer d'entregar, com a **9BarrisImatge**, els [32 Premis Josep Antón Cordoncillo](https://www.casalprospe.org/esdeveniments/concurs-de-fotografia-josep-antón-cordoncillo-entrega-de-premis-concert), un moment que va reconèixer la dedicació i l'esforç de molts. A més, el gran **[Daniel Higiénico](https://www.danielhigienico.com/)** va amenitzar la vetllada amb un concert memorable que va captivar a tots els assistents.
 

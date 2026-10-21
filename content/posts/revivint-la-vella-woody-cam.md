@@ -25,15 +25,15 @@ description: "La Woody Cam, una càmera de fusta fabricada cap al 1890, torna a 
 title-seo: "Revivint la Woody Cam: una càmera de fusta de 1890 torna a retratar"
 ---
 
-![](https://blog.pocallum.cat/wp-content/uploads/2026/07/IMG_3907-819x1024.jpg)
+![Una dona amb un conjunt de ratlles i mitjons blancs posa en un carreró estret de pedra.](https://blog.pocallum.cat/wp-content/uploads/2026/07/IMG_3907-819x1024.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2026/07/IMG_3908-819x1024.jpg)
+![Tres noies somriuen i sostenen ventalls oberts en un carreró de pedra de Barcelona.](https://blog.pocallum.cat/wp-content/uploads/2026/07/IMG_3908-819x1024.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2026/07/IMG_3906-819x1024.jpg)
+![Dona gran de cabells curts i top fosc, amb els braços a l'esquena, mira cap amunt davant d'un fons clar.](https://blog.pocallum.cat/wp-content/uploads/2026/07/IMG_3906-819x1024.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2026/07/IMG_3916-1-819x1024.jpg)
+![Una dona jove amb top fosc i faldilla estampada mira la càmera davant d'una tela blanca en un entorn urbà.](https://blog.pocallum.cat/wp-content/uploads/2026/07/IMG_3916-1-819x1024.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2026/07/IMG_3917-819x1024.jpg)
+![Dues noies somriuen davant d'una tela blanca; la de davant subjecta la samarreta i la del darrere porta ulleres al cap](https://blog.pocallum.cat/wp-content/uploads/2026/07/IMG_3917-819x1024.jpg)
 
 Fa un bon grapat d’anys que imparteixo classes de fotografia a [Cameras & Films](https://www.camerasandfilms.com/) —l’antiga Lomography Embassy Barcelona—, al cor del barri del Born.
 

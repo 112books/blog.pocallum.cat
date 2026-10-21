@@ -11,7 +11,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/02/2025-02-20-Nikon
 image: https://blog.pocallum.cat/wp-content/uploads/2025/02/2025-02-20-NikonFM-APX400@1600-Sopar-Carrer-0004-1024x638.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/02/2025-02-20-NikonFM-APX400@1600-Sopar-Carrer-0004-1024x638.jpg)](https://photos.app.goo.gl/nipgdT9N8z3eiCJ76)
+[![Un grup nombrós de persones de diverses edats posa junt davant d'una persiana amb grafits en un carrer fosc de Barcelona.](https://blog.pocallum.cat/wp-content/uploads/2025/02/2025-02-20-NikonFM-APX400@1600-Sopar-Carrer-0004-1024x638.jpg)](https://photos.app.goo.gl/nipgdT9N8z3eiCJ76)
 
 Doncs sí, així de xulos som! El sopar que tothom fa per les festes de Nadal, a la [revista Carrer](https://carrer.cat/) el fem quan volem!
 

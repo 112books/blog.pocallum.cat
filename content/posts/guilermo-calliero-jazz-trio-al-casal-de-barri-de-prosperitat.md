@@ -16,7 +16,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2016/12/DSCF9168-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2016/12/DSCF9168-1024x683.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2016/12/DSCF9168-1024x683.jpg)](https://goo.gl/photos/7n6skXZeQKhFiE597)
+[![Trompetista tocant en directe en un escenari fosc d'un club, amb un bateria desenfocat al darrere.](https://blog.pocallum.cat/wp-content/uploads/2016/12/DSCF9168-1024x683.jpg)](https://goo.gl/photos/7n6skXZeQKhFiE597)
 
 Una nit màgica més al Casal de barri de Prosperitat de nou amb música de Jazz de qualitat.
 

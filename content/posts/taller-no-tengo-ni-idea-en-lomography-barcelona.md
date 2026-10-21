@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2015/01/742359JoanLomogr
 image: https://lh4.googleusercontent.com/-Lgx9RgwI2YQ/VMvRAWRvOaI/AAAAAAAEjQA/g6F3X9Tgo-I/s640/742359JoanLomography.jpg
 ---
 
-|  [![](https://lh4.googleusercontent.com/-Lgx9RgwI2YQ/VMvRAWRvOaI/AAAAAAAEjQA/g6F3X9Tgo-I/s640/742359JoanLomography.jpg)](https://photos.app.goo.gl/PosfBRvsLxLryvPk8)  |
+|  [![Home barbut amb ulleres de sol i bufanda, amb una càmera al coll, passeja per una platja assolellada.](https://lh4.googleusercontent.com/-Lgx9RgwI2YQ/VMvRAWRvOaI/AAAAAAAEjQA/g6F3X9Tgo-I/s640/742359JoanLomography.jpg)](https://photos.app.goo.gl/PosfBRvsLxLryvPk8)  |
 | --- |
 | De [Taller "No tengo ni idea" en Lomography Barcelona](https://photos.app.goo.gl/PosfBRvsLxLryvPk8) |

@@ -18,7 +18,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2023/11/DSF5806.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2023/11/DSF5806-1024x683.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2023/11/DSF5806-1024x683.jpg)](https://photos.app.goo.gl/4s3EKc7wm4ZgC2AX7)
+[![Un home d'esquena aixeca un megàfon entre la multitud d'una protesta al carrer, sota els arbres.](https://blog.pocallum.cat/wp-content/uploads/2023/11/DSF5806-1024x683.jpg)](https://photos.app.goo.gl/4s3EKc7wm4ZgC2AX7)
 
 Un any més tot el barri de Prosperitat celebra les festes d'hivern amb en Sant Xibeco i la Santa Quinta. A més de molta cervesa la festa d'aquest dissabte ha consistit en:  
 

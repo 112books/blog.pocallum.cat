@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/03/IMG_6706.jpg
 image: https://lh4.googleusercontent.com/-wqLtHjNvK3c/UOmGxHhaIiI/AAAAAAADfeo/zV30N7oHIaI/s800/IMG_6706.jpg
 ---
 
-|  [![](https://lh4.googleusercontent.com/-wqLtHjNvK3c/UOmGxHhaIiI/AAAAAAADfeo/zV30N7oHIaI/s800/IMG_6706.jpg)](https://photos.app.goo.gl/4jBS5TeKuD4x6xeDA)  |
+|  [![és massa genèric. Com que el blog és de crònica cultural, potser vull destacar la bellesa de la ciutat des d'un punt elevat.](https://lh4.googleusercontent.com/-wqLtHjNvK3c/UOmGxHhaIiI/AAAAAAADfeo/zV30N7oHIaI/s800/IMG_6706.jpg)](https://photos.app.goo.gl/4jBS5TeKuD4x6xeDA)  |
 | --- |
 | De [Vistes de Barcelona - Turó de la Rovira](https://photos.app.goo.gl/4jBS5TeKuD4x6xeDA) |

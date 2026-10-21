@@ -22,19 +22,19 @@ image: https://blog.pocallum.cat/wp-content/uploads/2025/05/IMG_7127-683x1024.jp
 description: "Petita selecció de la sessió digital amb la Lomography Petzval Art Lens 85mm f/2.2 Brass i la model Mabe amb kimono autèntic. Mira totes les fotos fent clic a la imatge principal."
 ---
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/05/IMG_7127-683x1024.jpg)
+![Una dona jove amb un quimono blau i blanc i maquillatge vermell mira cap avall amb una mà al pit sobre fons fosc.](https://blog.pocallum.cat/wp-content/uploads/2025/05/IMG_7127-683x1024.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/05/IMG_7173-683x1024.jpg)
+![Una jove amb intens maquillatge rosat i mans als cabells mira cap amunt en un entorn fosc.](https://blog.pocallum.cat/wp-content/uploads/2025/05/IMG_7173-683x1024.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/05/IMG_7132-683x1024.jpg)
+![Dona jove amb un kimono estampat blau i blanc posa en un estudi fosc, amb la mirada de perfil.](https://blog.pocallum.cat/wp-content/uploads/2025/05/IMG_7132-683x1024.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/05/IMG_7175-683x1024.jpg)
+![Primer pla d'una jove amb maquillatge vermell als llavis i les galtes que es subjecta els cabells i mira a càmera.](https://blog.pocallum.cat/wp-content/uploads/2025/05/IMG_7175-683x1024.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/05/IMG_7128-683x1024.jpg)
+![Una dona jove amb maquillatge vermell i jaqueta estampada blava i blanca mira cap amunt en un fons fosc.](https://blog.pocallum.cat/wp-content/uploads/2025/05/IMG_7128-683x1024.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/05/IMG_7192-683x1024.jpg)
+![Dona jove de cabell llarg i metxes rosses somriu i es mossega el llavi vermell en un retrat de fons fosc.](https://blog.pocallum.cat/wp-content/uploads/2025/05/IMG_7192-683x1024.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/05/IMG_7180-683x1024.jpg)
+![Primer pla d'una dona jove amb llavis vermells i camisa estampada tocant-se els cabells.](https://blog.pocallum.cat/wp-content/uploads/2025/05/IMG_7180-683x1024.jpg)
 
 No puc evitar publciar també un petit tastet més de la sessió digital utilitzant la **[Lomography 85mm f/2.2 Petzval Art Lens Brass](https://shop.lomography.com/es/new-petzval-85-art-lens-brass-canon-mount)** amb la model MABE.
 

@@ -10,6 +10,6 @@ tags: []
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_2908-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_2908.jpg
 ---
-[![](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_2908.jpg)](https://photos.app.goo.gl/14HXrVnfFHeuw2RL6)
+[![Home amb ulleres i barba sosté una llauna en una sala plena de públic amb cortina vermella.](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_2908.jpg)](https://photos.app.goo.gl/14HXrVnfFHeuw2RL6)
 
 [Totes les fotografies](https://photos.app.goo.gl/14HXrVnfFHeuw2RL6)

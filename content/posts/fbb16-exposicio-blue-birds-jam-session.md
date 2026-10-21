@@ -10,7 +10,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2016/07/DSCF3147.jpg
 image: https://lh3.googleusercontent.com/-HoIzb0lvhx8/V34raNiqF0I/AAAAAAAFOp4/Ct9jVYpEug87BtLydZ3FUdX-qitBbTMFQCCo/s640/DSCF3147.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-HoIzb0lvhx8/V34raNiqF0I/AAAAAAAFOp4/Ct9jVYpEug87BtLydZ3FUdX-qitBbTMFQCCo/s640/DSCF3147.jpg)](https://photos.app.goo.gl/EJS1mHchvnqi7azx9)  |
+|  [![Un home toca la guitarra elèctrica en un escenari, amb un altre músic tocant el contrabaix al fons.](https://lh3.googleusercontent.com/-HoIzb0lvhx8/V34raNiqF0I/AAAAAAAFOp4/Ct9jVYpEug87BtLydZ3FUdX-qitBbTMFQCCo/s640/DSCF3147.jpg)](https://photos.app.goo.gl/EJS1mHchvnqi7azx9)  |
 | --- |
 | De [FBB16 - Exposició + Blue Birds + Jam Session](https://photos.app.goo.gl/EJS1mHchvnqi7azx9) |
 

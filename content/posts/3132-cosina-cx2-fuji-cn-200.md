@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2014/08/3132-CosinaCX2-0
 image: https://lh3.googleusercontent.com/-wyugGSgWw7A/U-zFhJNC-II/AAAAAAAERj0/_Y075gPB2yQ/s640/3132%2520-%2520CosinaCX2%2520-%2520026.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-wyugGSgWw7A/U-zFhJNC-II/AAAAAAAERj0/_Y075gPB2yQ/s640/3132%2520-%2520CosinaCX2%2520-%2520026.jpg)](https://photos.app.goo.gl/5WfnAvFmyJjHCTMVA)  |
+|  [![Un excursionista amb barret i motxilla camina per un corriol de terra entre herba seca, amb muntanyes al fons.](https://lh3.googleusercontent.com/-wyugGSgWw7A/U-zFhJNC-II/AAAAAAAERj0/_Y075gPB2yQ/s640/3132%2520-%2520CosinaCX2%2520-%2520026.jpg)](https://photos.app.goo.gl/5WfnAvFmyJjHCTMVA)  |
 | --- |
 | De [3132 - Cosina CX2 - Fuji CN 200](https://photos.app.goo.gl/5WfnAvFmyJjHCTMVA) |

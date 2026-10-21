@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_1354-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_1354.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_1354.jpg)](https://photos.app.goo.gl/rrszV2NGV5hVJrz36)
+[![Home jove amb casc blau d'estrelles i micro davant d'una pantalla, pensatiu amb la mà a la cara.](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_1354.jpg)](https://photos.app.goo.gl/rrszV2NGV5hVJrz36)
 
 Alguns instants de la [Langelona 2008](https://photos.app.goo.gl/rrszV2NGV5hVJrz36) celebrada al Palau Sant Jordi de Barcelona.

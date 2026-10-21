@@ -26,7 +26,7 @@ description: "Joan Linux i Mario presenten Anónimós, el llibre de retrats nasc
 title-seo: "Presentació d’Anónimós al Pati Llimona – El llibre de retrats que va néixer d’una nevera"
 ---
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/10/joan_linux.webp)
+![Dos homes en una taula de conferència, un amb micròfon, al costat d'una pantalla que mostra una dona dempeus.](https://blog.pocallum.cat/wp-content/uploads/2025/10/joan_linux.webp)
 
 Em fa molta il·lusió veure [_Anónimós_ a **CulturaB**](https://culturab.cat/noticies/llibre-retrats-neixer-nevera-plena-desconeguts/), amb un article signat per la [Joana Justícia](https://culturab.cat/autor/joanajusticia/) després d’una llarga conversa que vam tenir amb en Mario i jo. El títol que ha triat —_El llibre de retrats que va néixer d’una nevera plena de desconeguts_— ens encanta i reflecteix molt bé l’esperit del projecte.
 

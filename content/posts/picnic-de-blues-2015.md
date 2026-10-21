@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2015/05/IMG_6300.jpg
 image: https://lh3.googleusercontent.com/-HEg8Fd9qIdY/VVmPjpE8hRI/AAAAAAAEtxw/LZ3Rry7pZrI/s640/IMG_6300.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-HEg8Fd9qIdY/VVmPjpE8hRI/AAAAAAAEtxw/LZ3Rry7pZrI/s640/IMG_6300.jpg)](https://photos.app.goo.gl/mmaiUCEqY2Ti5p5KA)  |
+|  [![Concert a l'aire lliure en un parc amb públic assegut a la gespa i persones ballant davant de l'escenari.](https://lh3.googleusercontent.com/-HEg8Fd9qIdY/VVmPjpE8hRI/AAAAAAAEtxw/LZ3Rry7pZrI/s640/IMG_6300.jpg)](https://photos.app.goo.gl/mmaiUCEqY2Ti5p5KA)  |
 | --- |
 | De [Pícnic de Blues 2015](https://photos.app.goo.gl/mmaiUCEqY2Ti5p5KA) |

@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2014/08/3137-Belair-CN10
 image: https://lh3.googleusercontent.com/-FLzvEnCpdM0/U-zofOJKe1I/AAAAAAAERog/jzwuy-dVEts/s640/3137%2520-%2520Belair%2520-%2520CN100%2520-%2520006.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-FLzvEnCpdM0/U-zofOJKe1I/AAAAAAAERog/jzwuy-dVEts/s640/3137%2520-%2520Belair%2520-%2520CN100%2520-%2520006.jpg)](https://photos.app.goo.gl/KE6HL32Xve7qqaf48)  |
+|  [![Una llarga tija seca s'inclina sobre un camp d'herba daurada amb un bosc al fons sota un cel blau.](https://lh3.googleusercontent.com/-FLzvEnCpdM0/U-zofOJKe1I/AAAAAAAERog/jzwuy-dVEts/s640/3137%2520-%2520Belair%2520-%2520CN100%2520-%2520006.jpg)](https://photos.app.goo.gl/KE6HL32Xve7qqaf48)  |
 | --- |
 | De [3137 - Belair - CN100](https://photos.app.goo.gl/KE6HL32Xve7qqaf48) |

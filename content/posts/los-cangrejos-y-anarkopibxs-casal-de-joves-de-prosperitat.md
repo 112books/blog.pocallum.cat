@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2016/01/DSCF3763.jpg
 image: https://lh3.googleusercontent.com/-VfXbMRDy4YI/Vqxkw7hT_zI/AAAAAAAE_VQ/V4GWQlvLApg/s640-Ic42/DSCF3763.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-VfXbMRDy4YI/Vqxkw7hT_zI/AAAAAAAE_VQ/V4GWQlvLApg/s640-Ic42/DSCF3763.jpg)](https://photos.app.goo.gl/JoWRHhJux5P1ozLw5)  |
+|  [![Tres músics toquen en directe en un escenari fosc; el cantant, amb barret i bandana vermella, toca el baix i canta.](https://lh3.googleusercontent.com/-VfXbMRDy4YI/Vqxkw7hT_zI/AAAAAAAE_VQ/V4GWQlvLApg/s640-Ic42/DSCF3763.jpg)](https://photos.app.goo.gl/JoWRHhJux5P1ozLw5)  |
 | --- |
 | De [Los Cangrejos y Anarkopibxs - casal de joves de prosperitat](https://photos.app.goo.gl/JoWRHhJux5P1ozLw5) |

@@ -12,4 +12,4 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2011/02/IMG_0065-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2011/02/IMG_0065-1024x682.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2011/02/IMG_0065-1024x682.jpg)](https://photos.app.goo.gl/god7k2PPbQFcY5Fp6)
+[![Tres músics amb barrets toquen en directe en un escenari fosc de club, un assegut al teclat.](https://blog.pocallum.cat/wp-content/uploads/2011/02/IMG_0065-1024x682.jpg)](https://photos.app.goo.gl/god7k2PPbQFcY5Fp6)

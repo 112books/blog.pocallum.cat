@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2014/02/KD07-Pexette-EG-
 image: https://lh6.googleusercontent.com/-A_nMQAbOhU0/UwqH7mkx-qI/AAAAAAAEDJw/cb51D9IZMXc/s640/KD%252307%2520-%2520Pexette%2520-%2520EG%2520-%2520001.jpg
 ---
 
-|  [![](https://lh6.googleusercontent.com/-A_nMQAbOhU0/UwqH7mkx-qI/AAAAAAAEDJw/cb51D9IZMXc/s640/KD%252307%2520-%2520Pexette%2520-%2520EG%2520-%2520001.jpg)](https://photos.app.goo.gl/SUV7NbnbiotcCrkJ8)  |
+|  [![Un home gran amb ulleres de sol i coll alt, seriós, en un carrer de ciutat amb vianants i un cotxe desenfocat.](https://lh6.googleusercontent.com/-A_nMQAbOhU0/UwqH7mkx-qI/AAAAAAAEDJw/cb51D9IZMXc/s640/KD%252307%2520-%2520Pexette%2520-%2520EG%2520-%2520001.jpg)](https://photos.app.goo.gl/SUV7NbnbiotcCrkJ8)  |
 | --- |
 | De [Kodak Dev#07 - Pexette - Earl Grey 100](https://photos.app.goo.gl/SUV7NbnbiotcCrkJ8) |

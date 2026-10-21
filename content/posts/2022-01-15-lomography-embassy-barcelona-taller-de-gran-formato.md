@@ -26,6 +26,6 @@ description: "Taller de gran format a Lomography Embassy Barcelona (15/01/2022):
 title-seo: "Taller Gran Format Lomography Barcelona 2022 | Woody Cam"
 ---
 
-[![](https://lh3.googleusercontent.com/pw/AM-JKLVLc_9K3blWlv4zW8zCedd4ZseKMMdfHn3MYX5FixmTsMujz2JA1uc2RA8l7lJD8cwL-ZBPyZ4OAfLsNXqP21lLCT3igpcSTSD-SMnGKDrPMSGo8EeIf1KMNxbXcnxCKcwlIJnhPIaNPfifEqqT-B1FPA=w1070-h1255-no?authuser=0)](https://photos.app.goo.gl/TF2sk4UkboVbBSMS7)
+[![Dona jove asseguda mirant a càmera, amb un jersei de cremallera, en un local nocturn amb llums desenfocades al fons.](https://lh3.googleusercontent.com/pw/AM-JKLVLc_9K3blWlv4zW8zCedd4ZseKMMdfHn3MYX5FixmTsMujz2JA1uc2RA8l7lJD8cwL-ZBPyZ4OAfLsNXqP21lLCT3igpcSTSD-SMnGKDrPMSGo8EeIf1KMNxbXcnxCKcwlIJnhPIaNPfifEqqT-B1FPA=w1070-h1255-no?authuser=0)](https://photos.app.goo.gl/TF2sk4UkboVbBSMS7)
 
 Aquest passat dissabte 15 de gener hem reprès els tallers de Gran Format a [Lomography Embassy Barcelona](https://www.instagram.com/lomography.embassy.barcelona/). Feia ja temps que tenia moltes ganes de tornar a fer anar la càmera "Woody", una càmera que calculem és del 1890 més o menys, amb una òptica un xic més moderna. Si feu clic a la foto, podreu veure els resultats d'aquest taller. Ah!, vàrem disparar i revelar tots els retrats al mateix taller. Estigueu atents al [Facebook](https://www.facebook.com/LomographyEmbassyBarcelona) per a propers tallers!!

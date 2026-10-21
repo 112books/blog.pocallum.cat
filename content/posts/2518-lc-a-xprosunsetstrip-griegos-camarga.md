@@ -18,6 +18,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/08/2518-LC-A-Sunset
 image: https://lh5.googleusercontent.com/-AGjaoJNH9ZQ/Uh9SmtUnLgI/AAAAAAAD4H0/oeVc7JoF41k/s640/2518%2520-%2520LC-A%2520-%2520SunsetSt-%2520018.jpg
 ---
 
-|  [![](https://lh5.googleusercontent.com/-AGjaoJNH9ZQ/Uh9SmtUnLgI/AAAAAAAD4H0/oeVc7JoF41k/s640/2518%2520-%2520LC-A%2520-%2520SunsetSt-%2520018.jpg)](https://photos.app.goo.gl/X2Zz35H3Ldyuniit8)  |
+|  [![Un camp de gira-sols amb un exemplar gran a l'esquerra sota un cel blau intens.](https://lh5.googleusercontent.com/-AGjaoJNH9ZQ/Uh9SmtUnLgI/AAAAAAAD4H0/oeVc7JoF41k/s640/2518%2520-%2520LC-A%2520-%2520SunsetSt-%2520018.jpg)](https://photos.app.goo.gl/X2Zz35H3Ldyuniit8)  |
 | --- |
 | De [2518 -LC-A -XproSunsetStrip](https://photos.app.goo.gl/X2Zz35H3Ldyuniit8) |

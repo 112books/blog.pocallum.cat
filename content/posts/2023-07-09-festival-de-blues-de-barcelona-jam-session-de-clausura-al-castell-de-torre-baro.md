@@ -20,7 +20,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2023/07/Captura-de-panta
 image: https://blog.pocallum.cat/wp-content/uploads/2023/07/DSF3096-1024x683.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2023/07/DSF3096-1024x683.jpg)](https://photos.app.goo.gl/KWszKTtc5fsbbwu99)
+[![Un saxofonista toca amb una banda de carrer en un parc de Barcelona, vist des del públic.](https://blog.pocallum.cat/wp-content/uploads/2023/07/DSF3096-1024x683.jpg)](https://photos.app.goo.gl/KWszKTtc5fsbbwu99)
 
 I per finalitzar la XXI edició del Festival de Blues de Barcelona, monumental _Jam Session_ amb Blues Social Club (ex escola de blues de Barcelona) i en **[Chino Swinglide](https://www.facebook.com/Chino.Swingslide/)** amb el bo i mollor dels músics de Barcelona.
 

@@ -14,6 +14,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/11/5393-DianaF-RS10
 image: https://lh3.googleusercontent.com/-pOCHmNAfPUg/UntmvXGSbVI/AAAAAAAD8kg/lCrvztXKO9E/s640/5393%2520-%2520Diana%252BF%2520-%2520RS100%2520004.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-pOCHmNAfPUg/UntmvXGSbVI/AAAAAAAD8kg/lCrvztXKO9E/s640/5393%2520-%2520Diana%252BF%2520-%2520RS100%2520004.jpg)](https://photos.app.goo.gl/WFRc2WvrP4huR6Dv7)  |
+|  [![és una bona manera d'especificar el lloc sense necessitat d'una](https://lh3.googleusercontent.com/-pOCHmNAfPUg/UntmvXGSbVI/AAAAAAAD8kg/lCrvztXKO9E/s640/5393%2520-%2520Diana%252BF%2520-%2520RS100%2520004.jpg)](https://photos.app.goo.gl/WFRc2WvrP4huR6Dv7)  |
 | --- |
 | De [5393 - Diana +F - RS100](https://photos.app.goo.gl/WFRc2WvrP4huR6Dv7) |

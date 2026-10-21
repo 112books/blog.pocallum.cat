@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_7229-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_7229.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_7229.jpg)](https://photos.app.goo.gl/aRS4ATqPnS9eVYPA6)
+[![Un home gran amb ulleres mira a través d'una càmera antiga en un camp de vinyes.](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_7229.jpg)](https://photos.app.goo.gl/aRS4ATqPnS9eVYPA6)
 
 [Àlbum complet](https://photos.app.goo.gl/aRS4ATqPnS9eVYPA6)

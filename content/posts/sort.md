@@ -13,7 +13,7 @@ image: https://lh3.googleusercontent.com/pw/ACtC-3ecjkbbS2e4xWUTz9w7TUdCUyGZfM5O
 
 <figure>
 
-[![](https://lh3.googleusercontent.com/pw/ACtC-3ecjkbbS2e4xWUTz9w7TUdCUyGZfM5OnrXrhy9JRAs5uqDc6ax0k6G33zn0Hekrz80P-Gco8SsARCgYP1RXeZjzuw03M5jA4Jz_FoOXRWIqbw2ApqiTzgMBxbEUGq7xKwobPrCTtsM88okMK38IS3OTtg=w1703-h1002-no?authuser=0)](https://photos.app.goo.gl/uwX59kC4XdsjrUin9)
+[![Bicicleta plegable amb una bossa al manillar aparcada en un camí de terra entre arbres, amb una barana al fons.](https://lh3.googleusercontent.com/pw/ACtC-3ecjkbbS2e4xWUTz9w7TUdCUyGZfM5OnrXrhy9JRAs5uqDc6ax0k6G33zn0Hekrz80P-Gco8SsARCgYP1RXeZjzuw03M5jA4Jz_FoOXRWIqbw2ApqiTzgMBxbEUGq7xKwobPrCTtsM88okMK38IS3OTtg=w1703-h1002-no?authuser=0)](https://photos.app.goo.gl/uwX59kC4XdsjrUin9)
 
 <figcaption>
 

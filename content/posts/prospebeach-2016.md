@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2016/07/HD72-lca120-Foma
 image: https://lh3.googleusercontent.com/-uv8fbz1tzWU/V3kLFnuunYI/AAAAAAAFOgw/vm-zYUJq5Y0KqDjwOQS6BmC_zz7iIUxrACCo/s640/HD%252372-lca120-Foma100-002.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-uv8fbz1tzWU/V3kLFnuunYI/AAAAAAAFOgw/vm-zYUJq5Y0KqDjwOQS6BmC_zz7iIUxrACCo/s640/HD%252372-lca120-Foma100-002.jpg)](https://photos.app.goo.gl/BhYvPr8oh1thbHdr7)  |
+|  [![Diversos joves amb portàtils i un mesclador treballen en una taula sota una carpa en un esdeveniment a l'aire lliure.](https://lh3.googleusercontent.com/-uv8fbz1tzWU/V3kLFnuunYI/AAAAAAAFOgw/vm-zYUJq5Y0KqDjwOQS6BmC_zz7iIUxrACCo/s640/HD%252372-lca120-Foma100-002.jpg)](https://photos.app.goo.gl/BhYvPr8oh1thbHdr7)  |
 | --- |
 | De [HomeDev#72 - LC-A120 - Fomapan 100](https://photos.app.goo.gl/BhYvPr8oh1thbHdr7) |

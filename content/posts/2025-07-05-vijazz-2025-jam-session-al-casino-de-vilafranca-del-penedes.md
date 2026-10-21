@@ -11,7 +11,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2025/07/IMG_9373-1024x682.jp
 description: "Descobreix la crònica d’una nit màgica al Vijazz 2025, amb la Jam Session al Casino de Vilafranca: jazz, improvisació, retrobaments i noves amistats en un ambient únic que manté viva l’essència del festival."
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/07/IMG_9373-1024x682.jpg)](https://photos.app.goo.gl/2xArzoJxU1QJn5JU7)
+[![Cinc músics toquen en directe en un club amb el públic assegut a les taules.](https://blog.pocallum.cat/wp-content/uploads/2025/07/IMG_9373-1024x682.jpg)](https://photos.app.goo.gl/2xArzoJxU1QJn5JU7)
 
 Aquesta edició del Vijazz ha estat, per mi, realment màgica. Més enllà de l’excel·lència dels músics, la zona de degustació de vins i caves —o com s’hagi de dir ara, que mai no sé quin és el nom correcte—, el caliu de la ciutat i fins i tot el clima (si sou dels que us agrada la calor) han anat de la mà amb el swing i el groove d’aquest jazz que ens fa vibrar.
 
@@ -27,7 +27,7 @@ Vam sortir tocades de tres i mitja de la matinada, però la Rambla de Vilafranca
 
 Sigui com sigui, visca el jazz i la gent que de nit brilla.
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/07/IMG_0089-1024x682.jpg)](https://photos.app.goo.gl/fUmtbN8i2xz4yLL2A)
+[![Cinc persones somrients posen juntes de nit davant d'unes grans lletres lluminoses en una plaça.](https://blog.pocallum.cat/wp-content/uploads/2025/07/IMG_0089-1024x682.jpg)](https://photos.app.goo.gl/fUmtbN8i2xz4yLL2A)
 
 Deixo també unes poques fotografies del _making of_ del festival, on apareixen voluntaris, treballadors i noves amistats que han fet possible aquesta experiència.
 

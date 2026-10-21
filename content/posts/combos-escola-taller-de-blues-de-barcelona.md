@@ -10,7 +10,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_0290-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_0290.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_0290.jpg)](https://photos.app.goo.gl/dZqUkWDZ2rCZ6UfX6)
+[![Una cantant jove actua amb passió, subjectant el micròfon en un escenari fosc de Barcelona.](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_0290.jpg)](https://photos.app.goo.gl/dZqUkWDZ2rCZ6UfX6)
 
 Actuació, dins el festival 9b in Black, dels combos de l'Escola-Taller de Blues de Barcelona.
 

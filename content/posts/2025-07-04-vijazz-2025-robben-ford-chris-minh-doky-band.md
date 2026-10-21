@@ -31,7 +31,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2025/07/IMG_8638-1024x682.jp
 description: "Robben Ford, acompanyat de Chris Minh Doky, Ricky Peterson i Keith Carlock, ofereix una actuació inoblidable al Vijazz de Vilafranca del Penedès, combinant jazz, blues i rock-fusió en una nit màgica."
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/07/IMG_8638-1024x682.jpg)](https://photos.app.goo.gl/MRsw62vcKN8es8Tv5)
+[![Un home amb cabells llargs i camisa estampada toca amb concentració la guitarra elèctrica en un escenari fosc.](https://blog.pocallum.cat/wp-content/uploads/2025/07/IMG_8638-1024x682.jpg)](https://photos.app.goo.gl/MRsw62vcKN8es8Tv5)
 
 **[Robben Ford](https://www.robbenford.com)** és una llegenda dins del món musical. Un mag de la guitarra que combina, com ningú, el jazz amb molt de blues i rock, tot amb una exquisida tècnica. Assistir a un concert seu no és com anar a veure un espectacle de rock’n’roll; és presenciar la saviesa d’un mestre que, en aquesta edició del Vijazz, ha presentat la seva música acompanyat pel contrabaixista **[Chris Minh Doky](https://www.instagram.com/chrisminhdoky/?hl=es)**. Novament, el baix (i el contrabaix) prenen un protagonisme especial en aquesta divuitena edició del festival, i Doky és avui un dels virtuosos més cotitzats internacionalment.
 

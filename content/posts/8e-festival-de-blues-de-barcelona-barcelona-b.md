@@ -10,7 +10,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_2325.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_2325-1.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_2325-1.jpg)](https://photos.app.goo.gl/vJLp9Jf57j2mq3VF9)
+[![Un grup de jazz actua en directe en un club fosc, amb un cantant, un saxofonista i un contrabaixista.](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_2325-1.jpg)](https://photos.app.goo.gl/vJLp9Jf57j2mq3VF9)
 
 Aquest any i cóm a novetat dins el festival hem pogut gaudir d'una Big Band! El diumenge varem vaixar molts al centre per assistir, al Jamboree, a aquest genial concert.
 

@@ -18,7 +18,7 @@ A més, aquesta pel·lícula te la data de caducitat de 1992 així que el risc i
 
 Bé, aquí els resultats d'uns retrats bojos fets ahir amb la Cambo SC a [Llumàtics](https://llumatics.com) amb l'amic Xavi Perich i la seva màscara russa!
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2019/07/5x7-Xavi-Perich-001-1-731x1024.jpg)](https://photos.app.goo.gl/ijBETtZZg2hcGT839)
+[![Un home amb una màscara antigàs i samarreta fosca mira de front sobre un fons clar i llis.](https://blog.pocallum.cat/wp-content/uploads/2019/07/5x7-Xavi-Perich-001-1-731x1024.jpg)](https://photos.app.goo.gl/ijBETtZZg2hcGT839)
 
   
 Fent clic a la foto podreu veure'n unes poquetes més

@@ -15,6 +15,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/06/DSF2766.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2024/06/DSF2766-1024x683.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/06/DSF2766-1024x683.jpg)](https://photos.app.goo.gl/BZkKJswUuCeCPFBm7)
+[![Multitud de persones joves en un carrer de Barcelona, davant d'un edifici modern d'apartaments.](https://blog.pocallum.cat/wp-content/uploads/2024/06/DSF2766-1024x683.jpg)](https://photos.app.goo.gl/BZkKJswUuCeCPFBm7)
 
 Un any més podem conèixer uns quants bars del barri, beure cervesa i fer-nos un fart de caminar tot ben amenitzat amb la música, enguany, de la [Banda Patilla](https://www.instagram.com/bandapatilla/).

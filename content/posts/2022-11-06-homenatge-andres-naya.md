@@ -12,7 +12,7 @@ image: https://lh3.googleusercontent.com/pw/AL9nZEWeO62KONsCQaa6ZEclhyL_2oN2zhA-
 
 <figure>
 
-[![](https://lh3.googleusercontent.com/pw/AL9nZEWeO62KONsCQaa6ZEclhyL_2oN2zhA-zlJyyKxhzoGjUa8qw-hb8xJ84Jwmwuw0PFkVnICzkcEOfhz-X4V9gsq7xDUW529E8S8afGnCUip5wmDeqMqZAmgDnWJxDgHy7QjZd3_RSspuSc8oIJNflxigOQ=w1608-h905-no?authuser=0)](https://photos.app.goo.gl/xAJFXeuHg7trdvpB8)
+[![L'home de la dessuadora vermella abraça somrient un home gran de camisa de quadres en un carrer ple de gent.](https://lh3.googleusercontent.com/pw/AL9nZEWeO62KONsCQaa6ZEclhyL_2oN2zhA-zlJyyKxhzoGjUa8qw-hb8xJ84Jwmwuw0PFkVnICzkcEOfhz-X4V9gsq7xDUW529E8S8afGnCUip5wmDeqMqZAmgDnWJxDgHy7QjZd3_RSspuSc8oIJNflxigOQ=w1608-h905-no?authuser=0)](https://photos.app.goo.gl/xAJFXeuHg7trdvpB8)
 
 <figcaption>
 

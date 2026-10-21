@@ -13,7 +13,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/01/2024-01-13-LM6-3
 image: https://blog.pocallum.cat/wp-content/uploads/2024/01/2024-01-13-LM6-35f3.5-apx400@800-0013-1024x627.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/01/2024-01-13-LM6-35f3.5-apx400@800-0013-1024x627.jpg)](https://photos.app.goo.gl/HdzzmEoPgm6z2pLW7)
+[![Un home amb barret toca la guitarra i canta davant d'un micro mentre un altre l'escolta assegut, amb un mural al fons.](https://blog.pocallum.cat/wp-content/uploads/2024/01/2024-01-13-LM6-35f3.5-apx400@800-0013-1024x627.jpg)](https://photos.app.goo.gl/HdzzmEoPgm6z2pLW7)
 
 Un gust i un plaer poder comptar amb músics de la talla d'en [Chino Swingslide](https://www.instagram.com/swingslide/) a la perifèria, visca les perifèries!, i la seva música amb regust d'antic i ha fet amb amor.
 

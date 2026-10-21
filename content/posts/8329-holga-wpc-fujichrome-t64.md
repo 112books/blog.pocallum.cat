@@ -11,6 +11,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2015/03/8329-HWPC-T64-00
 image: https://lh5.googleusercontent.com/-m2bRRJJrZEk/VQMsZoNvhyI/AAAAAAAEouY/5nZBBKBFJ4w/s640/8329%2520-%2520HWPC%2520-%2520T64%2520-%2520006.jpg
 ---
 
-|  [![](https://lh5.googleusercontent.com/-m2bRRJJrZEk/VQMsZoNvhyI/AAAAAAAEouY/5nZBBKBFJ4w/s640/8329%2520-%2520HWPC%2520-%2520T64%2520-%2520006.jpg)](https://picasaweb.google.com/103138221614479310970/8329HolgaWPCFujichromeT64?authuser=0&feat=embedwebsite)  |
+|  [![Cactus columnars gegants s'alcen cap a un cel lila fosc, captats des de baix amb un efecte ull de peix.](https://lh5.googleusercontent.com/-m2bRRJJrZEk/VQMsZoNvhyI/AAAAAAAEouY/5nZBBKBFJ4w/s640/8329%2520-%2520HWPC%2520-%2520T64%2520-%2520006.jpg)](https://picasaweb.google.com/103138221614479310970/8329HolgaWPCFujichromeT64?authuser=0&feat=embedwebsite)  |
 | --- |
 | De [8329 - Holga WPC - Fujichrome T64](https://photos.app.goo.gl/qnbVzFkJivxwmcf28) |

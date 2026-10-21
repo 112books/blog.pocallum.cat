@@ -28,7 +28,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2025/02/DSCF8669-1024x577.jp
 description: "Celebrem 10 anys de cultura i comunitat a la Nau Bostik amb una calçotada especial. Descobreix les fotos i reviu aquesta jornada memorable al cor de La Sagrera."
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/02/DSCF8669-1024x577.jpg)](https://photos.app.goo.gl/r1GGy7Rt5wyT5LPB6)
+[![Un home somrient mostra les mans negres de sutge en un pati amb parets plenes de grafitis i fum al darrere.](https://blog.pocallum.cat/wp-content/uploads/2025/02/DSCF8669-1024x577.jpg)](https://photos.app.goo.gl/r1GGy7Rt5wyT5LPB6)
 
 _El de la foto no acaba de cremar la Nau Bostik, no! És un dels que s'ha ajupit per fer realitat la cocció dels calçots per a tota la colla._
 

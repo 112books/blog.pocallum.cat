@@ -12,7 +12,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2020/05/2020-05-23-003.jpg
 
 <figure>
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2020/05/2020-05-23-003.jpg)](https://photos.app.goo.gl/BpHsVfcaPikMJqaX6)
+[![Estructura corba de fusta amb llistons paral·lels que s'alça cap al cel clar, vista des de baix en un entorn urbà.](https://blog.pocallum.cat/wp-content/uploads/2020/05/2020-05-23-003.jpg)](https://photos.app.goo.gl/BpHsVfcaPikMJqaX6)
 
 <figcaption>
 

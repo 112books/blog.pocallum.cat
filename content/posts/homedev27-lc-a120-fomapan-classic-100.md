@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2015/01/HD27-LCA120-Fom-
 image: https://lh3.googleusercontent.com/-d9wkFu5JVpA/VKz3bw2nUAI/AAAAAAAEiiA/T5cqD345Q9o/s640/HD%252327%2520-%2520LCA120%2520-%2520Fom%2520-%2520010.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-d9wkFu5JVpA/VKz3bw2nUAI/AAAAAAAEiiA/T5cqD345Q9o/s640/HD%252327%2520-%2520LCA120%2520-%2520Fom%2520-%2520010.jpg)](https://photos.app.goo.gl/7jzzgPriyK7Upx9r7)  |
+|  [![Una dona amb abric, bufanda i càmera al coll està dreta davant una paret de pedra rugosa.](https://lh3.googleusercontent.com/-d9wkFu5JVpA/VKz3bw2nUAI/AAAAAAAEiiA/T5cqD345Q9o/s640/HD%252327%2520-%2520LCA120%2520-%2520Fom%2520-%2520010.jpg)](https://photos.app.goo.gl/7jzzgPriyK7Upx9r7)  |
 | --- |
 | De [HomeDev#27 - LC-A120 - Fomapan classic 100](https://photos.app.goo.gl/7jzzgPriyK7Upx9r7) |

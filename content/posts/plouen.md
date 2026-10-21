@@ -12,7 +12,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/02/IMG_5673.jpg
 image: https://lh5.googleusercontent.com/-EM3S48Y97M0/Ty3WAzUItHI/AAAAAAAChds/NSCVI9hiRbM/s800/IMG_5673.jpg
 ---
 
-|  [![](https://lh5.googleusercontent.com/-EM3S48Y97M0/Ty3WAzUItHI/AAAAAAAChds/NSCVI9hiRbM/s800/IMG_5673.jpg)](https://photos.app.goo.gl/2crQaV4bgK6disEp9)  |
+|  [![Banda de música actuant en directe en un escenari fosc, amb guitarristes, bateria i teclista en plena actuació.](https://lh5.googleusercontent.com/-EM3S48Y97M0/Ty3WAzUItHI/AAAAAAAChds/NSCVI9hiRbM/s800/IMG_5673.jpg)](https://photos.app.goo.gl/2crQaV4bgK6disEp9)  |
 | --- |
 | De [Plouen](https://photos.app.goo.gl/2crQaV4bgK6disEp9) |
 

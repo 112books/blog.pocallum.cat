@@ -10,7 +10,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2015/09/IMG_3350.jpg
 image: https://lh3.googleusercontent.com/-A5cyzQk4FKw/Vf6bCgCEy_I/AAAAAAAE3Ts/FrCf9QmknCQ/s640-Ic42/IMG_3350.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-A5cyzQk4FKw/Vf6bCgCEy_I/AAAAAAAE3Ts/FrCf9QmknCQ/s640-Ic42/IMG_3350.jpg)](https://photos.app.goo.gl/188bA6TDSKeq7etq7)  |
+|  [![Quatre músics en un escenari amb cortines; el de la dreta canta apassionadament mentre els altres toquen guitarres i bateria.](https://lh3.googleusercontent.com/-A5cyzQk4FKw/Vf6bCgCEy_I/AAAAAAAE3Ts/FrCf9QmknCQ/s640-Ic42/IMG_3350.jpg)](https://photos.app.goo.gl/188bA6TDSKeq7etq7)  |
 | --- |
 | De [Les Nits de Capibola Blues amb Testapazza](https://photos.app.goo.gl/188bA6TDSKeq7etq7) |
 

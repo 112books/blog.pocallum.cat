@@ -28,7 +28,7 @@ description: "Crònica fotogràfica del concert de Whitedemon i Indar al Casal d
 title-seo: "Nit de bruixes amb Whitedemon i Indar al Casal de Prosperita"
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2026/03/DSCF4026-1024x683.jpg)](https://photos.app.goo.gl/ojeZtSi5cMjwzGRa6)
+[![Músic de cabells llargs sacsejant el cap amb energia en un concert de rock en directe, amb públic i bateria al fons.](https://blog.pocallum.cat/wp-content/uploads/2026/03/DSCF4026-1024x683.jpg)](https://photos.app.goo.gl/ojeZtSi5cMjwzGRa6)
 
 Aquest passat divendres dia 13 el metal va arribar al Casal de Barri de Prosperitat de la mà de dues bandes ben joves que van convertir la vetllada en tota una nit de bruixes.
 

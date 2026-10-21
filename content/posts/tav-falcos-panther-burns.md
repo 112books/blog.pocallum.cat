@@ -10,7 +10,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2014/02/IMG_3771.jpg
 image: https://lh4.googleusercontent.com/-qRiqRNoAy-U/UwaveUmYIfI/AAAAAAAECxc/d16J171Hvok/s640/IMG_3771.jpg
 ---
 
-|  [![](https://lh4.googleusercontent.com/-qRiqRNoAy-U/UwaveUmYIfI/AAAAAAAECxc/d16J171Hvok/s640/IMG_3771.jpg)](https://photos.app.goo.gl/zRDnbjFdPeQq85cL9)  |
+|  [![Concert de rock en directe amb el cantant al centre, altres músics i una dona ballant en un escenari fosc.](https://lh4.googleusercontent.com/-qRiqRNoAy-U/UwaveUmYIfI/AAAAAAAECxc/d16J171Hvok/s640/IMG_3771.jpg)](https://photos.app.goo.gl/zRDnbjFdPeQq85cL9)  |
 | --- |
 | De [Tav Falco´s Panther Burns](https://photos.app.goo.gl/zRDnbjFdPeQq85cL9) |
 

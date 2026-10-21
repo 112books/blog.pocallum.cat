@@ -12,6 +12,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2016/04/9793-Portra160-0
 image: https://lh3.googleusercontent.com/-IkGplSkhBNo/Vv4Rs7iEORI/AAAAAAAFCo8/Dg2BgKM1SC0mrEcfxwD0r_GXFi2XG17WQCCo/s640-Ic42/9793%2B-%2BPortra160%2B-%2B005.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-IkGplSkhBNo/Vv4Rs7iEORI/AAAAAAAFCo8/Dg2BgKM1SC0mrEcfxwD0r_GXFi2XG17WQCCo/s640-Ic42/9793%2B-%2BPortra160%2B-%2B005.jpg)](https://photos.app.goo.gl/ayPmcZMiaYuu8kJP9)  |
+|  [![Sis persones, adults i nens amb roba d'hivern, posen junts sobre la neu amb valls i muntanyes al fons.](https://lh3.googleusercontent.com/-IkGplSkhBNo/Vv4Rs7iEORI/AAAAAAAFCo8/Dg2BgKM1SC0mrEcfxwD0r_GXFi2XG17WQCCo/s640-Ic42/9793%2B-%2BPortra160%2B-%2B005.jpg)](https://photos.app.goo.gl/ayPmcZMiaYuu8kJP9)  |
 | --- |
 | De [9793 - Noon Pinhole - Fuji T64 - Griegos](https://photos.app.goo.gl/ayPmcZMiaYuu8kJP9) |

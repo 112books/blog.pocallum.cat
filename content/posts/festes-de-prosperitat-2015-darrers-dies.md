@@ -10,6 +10,6 @@ tags: []
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2015/06/IMG_8421.jpg
 image: https://lh3.googleusercontent.com/-f6mgLZ7Todg/VXV1kMISyJI/AAAAAAAEv7M/RCvYoy32ORI/s640/IMG_8421.jpg
 ---
-|  [![](https://lh3.googleusercontent.com/-f6mgLZ7Todg/VXV1kMISyJI/AAAAAAAEv7M/RCvYoy32ORI/s640/IMG_8421.jpg)](https://photos.app.goo.gl/gCY9nAvb6wfMiGEu8)  |
+|  [![L'esclat d'un foc artificial blanc i daurat dibuixa una estrella al cel nocturn de Barcelona.](https://lh3.googleusercontent.com/-f6mgLZ7Todg/VXV1kMISyJI/AAAAAAAEv7M/RCvYoy32ORI/s640/IMG_8421.jpg)](https://photos.app.goo.gl/gCY9nAvb6wfMiGEu8)  |
 | --- |
 | De [Festes de Prosperitat 2015](https://photos.app.goo.gl/gCY9nAvb6wfMiGEu8) |

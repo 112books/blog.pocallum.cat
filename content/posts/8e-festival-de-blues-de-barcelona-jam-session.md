@@ -10,7 +10,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_0109-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_0109.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_0109.jpg)](https://photos.app.goo.gl/CdvjUftqgfgSqfgi8)
+[![Cantant amb barret i ulleres de sol actua amb un micròfon en un escenari fosc, acompanyat d'altres músics.](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_0109.jpg)](https://photos.app.goo.gl/CdvjUftqgfgSqfgi8)
 
 Fantàstica Jam Session amb els millors músics de l'escena blusera de Barcelona. Algúns d'ells de l'Escola-Taller de blues de Barcelona i amb George Bedard com a sorpressa ;)
 

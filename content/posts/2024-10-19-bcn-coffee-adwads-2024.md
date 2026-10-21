@@ -23,7 +23,7 @@ description: "BCN Coffee Awards 2024 a Nau Bostik: fira de cafè especialitat am
 title-seo: "BCN Coffee Awards 2024 Nau Bostik | Cafè Especialitat"
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/10/L1480454-1024x683.jpg)](https://photos.app.goo.gl/viSivZr8rmXCeQhr8)
+[![Una mà subjecta un got de paper blanc en un carrer, amb el terra desenfocat al fons.](https://blog.pocallum.cat/wp-content/uploads/2024/10/L1480454-1024x683.jpg)](https://photos.app.goo.gl/viSivZr8rmXCeQhr8)
 
 Avui he assistit al **[BCN Coffee Awards 2024](https://www.instagram.com/bcncoffeeawards/)** a la **[Nau Bostik](https://naubostik.com/esdeveniment/bcn-coffee-adwads-2024/)**, un esdeveniment dedicat al món del cafè, amb un enfocament especial en el cafè d'especialitat i tot el que l'envolta.
 

@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/07/Captura-de-panta
 image: https://blog.pocallum.cat/wp-content/uploads/2024/07/L1470245-1024x768.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/07/L1470245-1024x768.jpg)](https://photos.app.goo.gl/R79K1wDCniXkFMk17)
+[![Músics tocant en directe en un carrer, amb una cantant amb el braç aixecat i públic al voltant.](https://blog.pocallum.cat/wp-content/uploads/2024/07/L1470245-1024x768.jpg)](https://photos.app.goo.gl/R79K1wDCniXkFMk17)
 
 I ja convertit de facto en la cloenda de cada edició del Festival de Blues de Barcelona, gaudim de la fresca i la música improvisada a la _Jam Session_ capitanejada pel [Blues Social Club](https://www.instagram.com/bluessocialclub/) (sortida de l'Escola de Blues de Barcelona) al Castell de Torre Baró, amb vistes espectaculars del barri i tota la nostra ciutat. Com sempre, memorable!

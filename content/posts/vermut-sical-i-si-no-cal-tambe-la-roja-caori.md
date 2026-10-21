@@ -11,6 +11,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2011/03/IMG_3193.jpg
 image: https://lh5.googleusercontent.com/_xYdsA1KqJRQ/TYTatjj2gKI/AAAAAAACErc/4nu8Qig-qAM/s640/IMG_3193.jpg
 ---
 
-|  [![](https://lh5.googleusercontent.com/_xYdsA1KqJRQ/TYTatjj2gKI/AAAAAAACErc/4nu8Qig-qAM/s640/IMG_3193.jpg)](https://photos.app.goo.gl/bF4KbahB6arsHfEi6)  |
+|  [![El reflex a les ulleres de sol d'un home mostra un fotògraf fent una foto en un carrer amb v](https://lh5.googleusercontent.com/_xYdsA1KqJRQ/TYTatjj2gKI/AAAAAAACErc/4nu8Qig-qAM/s640/IMG_3193.jpg)](https://photos.app.goo.gl/bF4KbahB6arsHfEi6)  |
 | --- |
 | De [Vermut si cal - La Roja amb Kaori](https://photos.app.goo.gl/bF4KbahB6arsHfEi6) |

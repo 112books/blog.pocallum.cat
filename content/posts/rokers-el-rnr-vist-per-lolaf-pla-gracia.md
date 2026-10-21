@@ -21,7 +21,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2025/02/IMG_0844-2-819x1024.
 description: "Descobreix el llibre 'Rockers' d'Olaf Pla Gracia, una recopilació d'instantànies clàssiques del Rock and Roll en blanc i negre"
 ---
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/02/IMG_0844-2-819x1024.jpg)
+![Un motorista d'esquena amb jaqueta de cuir sobre una motocicleta amb un gran tub d'escapament, en blanc i negre.](https://blog.pocallum.cat/wp-content/uploads/2025/02/IMG_0844-2-819x1024.jpg)
 
 Ahir vaig passar per l'[Espai Fotogràfic de Can Basté](https://www.canbaste.com/que-es-lespai-fotografic-can-baste/) a la presentació que el polifacétic **[Olaf Pla Gracia](https://olafplagracia.com/)** va fer del seu llibre "_Rockers. Un estrépito, un rugir_".
 
@@ -35,4 +35,4 @@ El llibre, de recent publicació, capta l'essència del Rock més clàssic, inst
 
 Jo ja tinc el llibre, dedicat! si vols la teve còpia el pots comprar al seu web: [olafplagracia.com](https://olafplagracia.com/)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/02/IMG_0835-2-1024x576.jpg)
+![. Yes, they are facing the presenter/screen. Final check of the chosen sentence:](https://blog.pocallum.cat/wp-content/uploads/2025/02/IMG_0835-2-1024x576.jpg)

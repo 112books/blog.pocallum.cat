@@ -13,6 +13,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2011/11/Un-dia-de-tardor
 image: https://blog.pocallum.cat/wp-content/uploads/2011/11/Un-dia-de-tardor-al-Montseny.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2011/11/Un-dia-de-tardor-al-Montseny.jpg)](https://photos.app.goo.gl/x7D6Ci6shUTogJgZ9)
+[![Bolets de barret lila clar creixen entre la fullaraca seca d'un bosc de tardor.](https://blog.pocallum.cat/wp-content/uploads/2011/11/Un-dia-de-tardor-al-Montseny.jpg)](https://photos.app.goo.gl/x7D6Ci6shUTogJgZ9)
 
 Més fotografies d'aquest dia al Montseny a [TardorAlMontseny](https://photos.app.goo.gl/x7D6Ci6shUTogJgZ9)

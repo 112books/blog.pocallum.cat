@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2015/07/IMG_1480.jpg
 image: https://lh3.googleusercontent.com/-IdQBsmQaHgA/VaYWK1nl2DI/AAAAAAAEyXU/VJOlctvfykM/s640-Ic42/IMG_1480.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-IdQBsmQaHgA/VaYWK1nl2DI/AAAAAAAEyXU/VJOlctvfykM/s640-Ic42/IMG_1480.jpg)](https://photos.app.goo.gl/pPurwBFB7u28KrXu9)  |
+|  [![Una cantant amb micròfon i la seva banda toquen en directe en un espai exterior amb públic assegut als graons.](https://lh3.googleusercontent.com/-IdQBsmQaHgA/VaYWK1nl2DI/AAAAAAAEyXU/VJOlctvfykM/s640-Ic42/IMG_1480.jpg)](https://photos.app.goo.gl/pPurwBFB7u28KrXu9)  |
 | --- |
 | De [Cloenda del 13è Festival de Blues de Barcelona a Torre Baró](https://photos.app.goo.gl/pPurwBFB7u28KrXu9) |

@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2014/04/4431-Bronica-RR4
 image: https://lh3.googleusercontent.com/-gILIa4Nf2bg/U2EqnI7p4BI/AAAAAAAEHo4/SBXN1ubFm1U/s640/4431%2520-%2520Bronica%2520-%2520RR400%2520-013.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-gILIa4Nf2bg/U2EqnI7p4BI/AAAAAAAEHo4/SBXN1ubFm1U/s640/4431%2520-%2520Bronica%2520-%2520RR400%2520-013.jpg)](https://photos.app.goo.gl/EtxPbqxV9jU5btMt7)  |
+|  [![Un home barbut amb jaqueta fosca sosté un saxofon i mira a càmera en un retrat d'estudi en blanc i negre.](https://lh3.googleusercontent.com/-gILIa4Nf2bg/U2EqnI7p4BI/AAAAAAAEHo4/SBXN1ubFm1U/s640/4431%2520-%2520Bronica%2520-%2520RR400%2520-013.jpg)](https://photos.app.goo.gl/EtxPbqxV9jU5btMt7)  |
 | --- |
 | De [4431 - Bronica - Rollei Retro 400](https://photos.app.goo.gl/EtxPbqxV9jU5btMt7) |

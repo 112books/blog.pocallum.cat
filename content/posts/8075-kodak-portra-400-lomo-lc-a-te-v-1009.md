@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2016/07/8075-LC-a120-Por
 image: https://lh3.googleusercontent.com/-Cd4s8Lt3TKo/V4-YAO7JxhI/AAAAAAAFPog/tLHRZLJMFNsi-46lZaPa6PYij2txGvWLQCCo/s640/8075%2B-%2BLC-a120%2B-%2BPortra-009.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-Cd4s8Lt3TKo/V4-YAO7JxhI/AAAAAAAFPog/tLHRZLJMFNsi-46lZaPa6PYij2txGvWLQCCo/s640/8075%2B-%2BLC-a120%2B-%2BPortra-009.jpg)](https://goo.gl/photos/vUZz8ZkqeH8ZRaWA7)  |
+|  [![Camps verds sota un cel gris i ennuvolat, amb un arbre solitari i herba seca onejant en primer pla.](https://lh3.googleusercontent.com/-Cd4s8Lt3TKo/V4-YAO7JxhI/AAAAAAAFPog/tLHRZLJMFNsi-46lZaPa6PYij2txGvWLQCCo/s640/8075%2B-%2BLC-a120%2B-%2BPortra-009.jpg)](https://goo.gl/photos/vUZz8ZkqeH8ZRaWA7)  |
 | --- |
 | De [8075 - Kodak Portra 400 - Lomo LC-A - TE-V-1009](https://goo.gl/photos/vUZz8ZkqeH8ZRaWA7) |

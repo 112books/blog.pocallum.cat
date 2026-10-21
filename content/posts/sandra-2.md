@@ -12,7 +12,7 @@ image: https://lh3.googleusercontent.com/pw/ACtC-3fNCtsfnDiyJqNGUR6D9NRGPpYNSaf6
 
 <figure>
 
-[![](https://lh3.googleusercontent.com/pw/ACtC-3fNCtsfnDiyJqNGUR6D9NRGPpYNSaf6CCWtjI7wDi6KufKIfTkgpSqFCRPqVStDUgWHLTIYBJo30bYLkmqvL4G6edIXxXEmsBKt4on46Tk-ojz0PbFkyZfFO_yn3zIqBi1DpqAfbqWDxccOBgS6MDZdeQ=w891-h1246-no?authuser=0)](https://photos.app.goo.gl/9akoFCxN5R3mtHDg8)
+[![Retrat en blanc i negre d'una persona amb un pírcing al llavi que sosté un prisma facetat davant d'un dels seus ulls.](https://lh3.googleusercontent.com/pw/ACtC-3fNCtsfnDiyJqNGUR6D9NRGPpYNSaf6CCWtjI7wDi6KufKIfTkgpSqFCRPqVStDUgWHLTIYBJo30bYLkmqvL4G6edIXxXEmsBKt4on46Tk-ojz0PbFkyZfFO_yn3zIqBi1DpqAfbqWDxccOBgS6MDZdeQ=w891-h1246-no?authuser=0)](https://photos.app.goo.gl/9akoFCxN5R3mtHDg8)
 
 <figcaption>
 

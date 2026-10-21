@@ -34,7 +34,7 @@ description: "Viu el Calella Harmonica Festival 2025: concerts d’harmònica, A
 title-seo: "Calella Harmonica Festival 2025 – Música, exposicions i paella"
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/09/2025-09-13-LM6-Foma400@1600-CalellaHarmonicaFest-A-0008-1024x638.jpg)](https://photos.app.goo.gl/exYm6T73HjNUg1dH6)
+[![Un pianista, una cantant i un contrabaixista toquen en directe en un escenari fosc amb bombetes penjades.](https://blog.pocallum.cat/wp-content/uploads/2025/09/2025-09-13-LM6-Foma400@1600-CalellaHarmonicaFest-A-0008-1024x638.jpg)](https://photos.app.goo.gl/exYm6T73HjNUg1dH6)
 
   
 Aquest passat setembre, de l’11 al 14, es va celebrar la quarta edició del **[Calella Harmonica Festival](https://www.calellaharmonicafestival.es/)**. Afortunadament hi vaig poder assistir com a convidat amb l’exposició _“[Preses Falses. 40 anys de Blues a Barcelona”](https://www.112books.eu/2025/09/01/preses-falses-arriba-al-calella-harmonica-festival/)_. Yheah!

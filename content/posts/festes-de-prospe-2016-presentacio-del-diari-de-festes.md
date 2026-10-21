@@ -8,7 +8,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2016/05/Captura-de-panta
 image: https://lh3.googleusercontent.com/-0_0LnvqKgdU/V0Fj4Yq7zgI/AAAAAAAFLDA/e3Akzh-i7owEqNP5lG1-G-Mq2zmwmyfQwCCo/s640/DSCF0285.jpg
 ---
 
-| [![](https://lh3.googleusercontent.com/-0_0LnvqKgdU/V0Fj4Yq7zgI/AAAAAAAFLDA/e3Akzh-i7owEqNP5lG1-G-Mq2zmwmyfQwCCo/s640/DSCF0285.jpg)](https://picasaweb.google.com/103138221614479310970/6287415646644862785?authuser=0&feat=embedwebsite) |
+| [![Diversos joves amb samarretes liles asseguts en grades llegeixen diaris i revistes durant un esdeveniment cultural.](https://lh3.googleusercontent.com/-0_0LnvqKgdU/V0Fj4Yq7zgI/AAAAAAAFLDA/e3Akzh-i7owEqNP5lG1-G-Mq2zmwmyfQwCCo/s640/DSCF0285.jpg)](https://picasaweb.google.com/103138221614479310970/6287415646644862785?authuser=0&feat=embedwebsite) |
 | --- |
 | De [Festes de Prospe 2016 - Presentació del diari de festes](https://picasaweb.google.com/103138221614479310970/6287415646644862785?authuser=0&feat=embedwebsite) |
 

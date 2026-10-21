@@ -11,6 +11,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2023/10/2023-10-13-m6-mi
 image: https://blog.pocallum.cat/wp-content/uploads/2023/10/2023-10-13-m6-minitar-rpx100-31-amb-Elia0019-1024x631.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2023/10/2023-10-13-m6-minitar-rpx100-31-amb-Elia0019-1024x631.jpg)](https://photos.app.goo.gl/yHNrfYeSmzUmRnyY7)
+[![Interior d'una nau industrial abandonada amb estructura metàl·lica, vegetació a terra i un edifici al fons.](https://blog.pocallum.cat/wp-content/uploads/2023/10/2023-10-13-m6-minitar-rpx100-31-amb-Elia0019-1024x631.jpg)](https://photos.app.goo.gl/yHNrfYeSmzUmRnyY7)
 
 Dia de passejada per Gràcia i final de rodet a la Nau Bostik. Leica M6 amb Lomography Minitar 32mm f/2.8 i Rollei RPX 100.

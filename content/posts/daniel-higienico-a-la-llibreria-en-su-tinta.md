@@ -19,7 +19,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2014/10/IMG_0168-1024x431.jp
 description: "Descobreix la presentació de 'El Paseo Infinito' de Daniel Higiénico a la llibreria En Su Tinta, un esdeveniment que combina música i literatura."
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2014/10/IMG_0168-1024x431.jpg)](https://photos.app.goo.gl/CyQMuBEasKG4hbog9)
+[![Home gran de cabells llargs i barba espessa fa una ganyota intensa amb la boca oberta en un interior clar.](https://blog.pocallum.cat/wp-content/uploads/2014/10/IMG_0168-1024x431.jpg)](https://photos.app.goo.gl/CyQMuBEasKG4hbog9)
 
 Avui he tingut el plaer de participar en una nova activitat organitzada per la llibreria **En Su Tinta** a **Prosperitat**. Hem gaudit de la presentació del llibre **"El Paseo Infinito"** de **Daniel Higiénico**, un cantautor que m'encanta i que és 100% recomanable.
 

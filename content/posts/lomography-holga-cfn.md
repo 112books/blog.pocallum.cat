@@ -13,4 +13,4 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/10/7443-Holga-010-2
 image: https://blog.pocallum.cat/wp-content/uploads/2020/07/7443-Holga-010-2-1015x1024.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2020/07/7443-Holga-010-2-1015x1024.jpg)](https://photos.app.goo.gl/H74wqpygHgrBcs7fA)
+[![Una estàtua emmantellada s'inclina sobre una tomba amb un crucifix al fons en un cementiri de Barcelona.](https://blog.pocallum.cat/wp-content/uploads/2020/07/7443-Holga-010-2-1015x1024.jpg)](https://photos.app.goo.gl/H74wqpygHgrBcs7fA)

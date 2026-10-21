@@ -13,7 +13,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2011/05/IMG_5395.jpg
 image: https://lh6.googleusercontent.com/_xYdsA1KqJRQ/Tb1LrreeR3I/AAAAAAACHZg/2NVyL1kgqg0/s640/IMG_5395.jpg
 ---
 
-|  [![](https://lh6.googleusercontent.com/_xYdsA1KqJRQ/Tb1LrreeR3I/AAAAAAACHZg/2NVyL1kgqg0/s640/IMG_5395.jpg)](https://photos.app.goo.gl/i4eB2DJmgDgAah1b7)  |
+|  [![Una espatza blanca amb l'espàdix rugós i fulles verdes grans, en primer pla davant una estanteria plena de llibres.](https://lh6.googleusercontent.com/_xYdsA1KqJRQ/Tb1LrreeR3I/AAAAAAACHZg/2NVyL1kgqg0/s640/IMG_5395.jpg)](https://photos.app.goo.gl/i4eB2DJmgDgAah1b7)  |
 | --- |
 | De [Canon EOS 5D Pinhole tests - 01/05/11](https://photos.app.goo.gl/i4eB2DJmgDgAah1b7) |
 

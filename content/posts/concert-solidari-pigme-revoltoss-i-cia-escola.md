@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_1236-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_1236-1024x682.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_1236-1024x682.jpg)](https://photos.app.goo.gl/4S8iUR3B2G3bF5Cr9)
+[![Una cantant rossa amb vestit fosc canta apassionadament al micròfon en un escenari fosc de concert.](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_1236-1024x682.jpg)](https://photos.app.goo.gl/4S8iUR3B2G3bF5Cr9)
 
 \-> [Álbum complert](https://photos.app.goo.gl/4S8iUR3B2G3bF5Cr9)

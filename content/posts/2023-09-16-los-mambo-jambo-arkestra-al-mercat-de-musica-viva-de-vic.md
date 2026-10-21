@@ -19,7 +19,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2023/09/DSF3996-1024x683
 image: https://blog.pocallum.cat/wp-content/uploads/2023/09/DSF3996-1024x683.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2023/09/DSF3996-1024x683.jpg)](https://photos.app.goo.gl/EfCcukjLgnkN93zCA)
+[![Un saxofonista toca intensament en un escenari fosc, acompanyat per un contrabaixista i altres músics de jazz al darrere.](https://blog.pocallum.cat/wp-content/uploads/2023/09/DSF3996-1024x683.jpg)](https://photos.app.goo.gl/EfCcukjLgnkN93zCA)
 
 Segon disc de [Los Mambo Jambo](https://www.buenritmo.es/ca/artist/mambojambo/) acompanyats de l'Arkestra. Aquest  "El Gran Ciclón" el varen presentar en societat al [35è Mercat de Música de Vic](https://www.mmvv.cat).
 

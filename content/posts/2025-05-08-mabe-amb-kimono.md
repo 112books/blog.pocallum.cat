@@ -24,21 +24,21 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/05/2025-05-08-LM4-2
 image: https://blog.pocallum.cat/wp-content/uploads/2025/05/2025-05-08-LM4-2-ADOX-HR-50-MABE-0030-1024x722.jpg
 ---
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/05/2025-05-08-LM4-2-ADOX-HR-50-MABE-0030-1024x722.jpg)
+![Una noia jove amb les mans al cap i roba estampada mira a càmera en un retrat en blanc i negre sobre fons fosc.](https://blog.pocallum.cat/wp-content/uploads/2025/05/2025-05-08-LM4-2-ADOX-HR-50-MABE-0030-1024x722.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/05/2025-05-08-LM4-2-ADOX-HR-50-MABE-0021-1024x767.jpg)
+![Dona jove amb cabells llargs que es toca el cap, mirant cap avall, vestint una camisa estampada en blanc i negre.](https://blog.pocallum.cat/wp-content/uploads/2025/05/2025-05-08-LM4-2-ADOX-HR-50-MABE-0021-1024x767.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/05/2025-05-08-LM4-2-ADOX-HR-50-MABE-0022-1024x763.jpg)
+![en blanc i negre](https://blog.pocallum.cat/wp-content/uploads/2025/05/2025-05-08-LM4-2-ADOX-HR-50-MABE-0022-1024x763.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/05/2025-05-08-LM4-2-ADOX-HR-50-MABE-0003-1024x725.jpg)
+![Retrat en blanc i negre d'una dona jove amb quimono estampat que es toca els cabells en un estudi fosc.](https://blog.pocallum.cat/wp-content/uploads/2025/05/2025-05-08-LM4-2-ADOX-HR-50-MABE-0003-1024x725.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/05/2025-05-08-LM4-2-ADOX-HR-50-MABE-0012-1024x739.jpg)
+![Dona jove amb camisa estampada i mans aixecades mira cap amunt en un retrat d'estudi en blanc i negre.](https://blog.pocallum.cat/wp-content/uploads/2025/05/2025-05-08-LM4-2-ADOX-HR-50-MABE-0012-1024x739.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/05/2025-05-08-LM4-2-ADOX-HR-50-MABE-0024-1024x742.jpg)
+![Dona jove amb els ulls tancats i les mans al cap, vestint una camisa estampada, en un retrat en blanc i negre.](https://blog.pocallum.cat/wp-content/uploads/2025/05/2025-05-08-LM4-2-ADOX-HR-50-MABE-0024-1024x742.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/05/2025-05-08-LM4-2-ADOX-HR-50-MABE-0014-1024x726.jpg)
+![Retrat en blanc i negre d'una jove de cabells llargs i roba estampada que mira fixament a càmera.](https://blog.pocallum.cat/wp-content/uploads/2025/05/2025-05-08-LM4-2-ADOX-HR-50-MABE-0014-1024x726.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/05/2025-05-08-LM4-2-ADOX-HR-50-MABE-0027-1024x763.jpg)
+![Dona jove de cabells llargs i mirada baixa, amb camisa estampada, davant un fons fosc.](https://blog.pocallum.cat/wp-content/uploads/2025/05/2025-05-08-LM4-2-ADOX-HR-50-MABE-0027-1024x763.jpg)
 
 Avui us porto un petit tast de retrat utilitzant la pel·lícula **[ADOX HR-50](https://www.adox.de/Photo/hr50-en/)**, que per a mi és una de les millors opcions per a sessions d’estudi amb flaixos. La [Mabe](https://www.instagram.com/mabe.briones/) s’ha prestat novament —gràcies, rebonica!— a fer de model i deixar-se guiar amb paciència.
 

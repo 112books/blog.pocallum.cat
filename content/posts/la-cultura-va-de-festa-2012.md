@@ -12,7 +12,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/05/IMG_1231.jpg
 image: https://lh3.googleusercontent.com/-fuU3tOkb-eM/T6gFPXClETI/AAAAAAAC-rU/8GWwi0lm8uI/s800/IMG_1231.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-fuU3tOkb-eM/T6gFPXClETI/AAAAAAAC-rU/8GWwi0lm8uI/s800/IMG_1231.jpg)](https://photos.app.goo.gl/Pi94tRRZhTxCKukP7)  |
+|  [![Un participant d'un correfoc amb caputxa vermella alça un bastó llarg enmig d'una intensa pluja d'espurnes.](https://lh3.googleusercontent.com/-fuU3tOkb-eM/T6gFPXClETI/AAAAAAAC-rU/8GWwi0lm8uI/s800/IMG_1231.jpg)](https://photos.app.goo.gl/Pi94tRRZhTxCKukP7)  |
 | --- |
 | De [La Cultura va de festa 2012](https://photos.app.goo.gl/Pi94tRRZhTxCKukP7) |
 

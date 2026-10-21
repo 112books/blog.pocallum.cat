@@ -15,7 +15,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2020/04/2020-04-05-004-1024x
 description: "Primer test amb l'andròmina Pinhole (o estenopèica) que m'he fet adaptant un duplicador de película de Leitz Wetzlar amb un estenop excel·lent de ø0.2 d'Analogueworks.Aquí les primeres fotografies fetes per veure cóm anava. Definitivament per algún lloc li entra llum. A la propera intentaré que surtin perfectes. 2020-04-05 - Leitz Wetzlar Pinhole Homemade - ø0.2 - f/150 - 30mm"
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2020/04/2020-04-05-004-1024x647.jpg)](https://photos.app.goo.gl/ysK5qcsqkfKi8E796)
+[![Pati interior d'un edifici barceloní amb balcons, vist a través d'una silueta fosca i un reflex brillant en primer pla.](https://blog.pocallum.cat/wp-content/uploads/2020/04/2020-04-05-004-1024x647.jpg)](https://photos.app.goo.gl/ysK5qcsqkfKi8E796)
 
 Primer test amb l'andròmina Pinhole (o estenopèica) que m'he fet adaptant un [duplicador de película de Leitz Wetzlar](https://www.youtube.com/watch?v=EHi-Zt5MVzs) amb un estenop excel·lent de ø0.2 d'[Analogueworks](https://www.instagram.com/analogueworks/).  
 Aquí les primeres fotografies fetes per veure cóm anava. Definitivament per algún lloc li entra llum. A la propera intentaré que surtin perfectes.

@@ -36,7 +36,7 @@ description: "Crònica del divendres a les Festes de la Prosperitat 2026 amb Me 
 title-seo: "Festes de la Prosperitat 2026: Me Pirra la Birra Fest, Mocebares i Prospe Oases"
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2026/06/DSCF4951-1024x683.jpg)](https://photos.app.goo.gl/htoYEUSEJR5ES1uQ9)
+[![Cantant amb coll de plomes actua amb passió en un concert nocturn sota els arbres, amb un guitarrista al darrere.](https://blog.pocallum.cat/wp-content/uploads/2026/06/DSCF4951-1024x683.jpg)](https://photos.app.goo.gl/htoYEUSEJR5ES1uQ9)
 
 Encarant el segon i últim cap de setmana de les Festes de la Prosperitat, aquest divendres vaig poder fer un tomb pel barri i gaudir d’algunes de les propostes musicals de la jornada.
 

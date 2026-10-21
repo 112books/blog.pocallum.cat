@@ -21,7 +21,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2025/02/2025-02-14-NikonFM-F
 description: "Cada dijous, els membres de 9BarrisImatge es reuneixen al Casal de barri de la Prospe per gaudir de patates braves, salses picants i experimentació fotogràfica. Uneix-te a nosaltres!"
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/02/2025-02-14-NikonFM-Foma100@800-r1100-Varies-0008-1024x631.jpg)](https://photos.app.goo.gl/xV64aw8Qsj3FPLV96)
+[![Un home calb amb ulleres i una dona de cabells curts conversen animadament en un bar.](https://blog.pocallum.cat/wp-content/uploads/2025/02/2025-02-14-NikonFM-Foma100@800-r1100-Varies-0008-1024x631.jpg)](https://photos.app.goo.gl/xV64aw8Qsj3FPLV96)
 
 Cada dijous, si la vida no ens fa la guitza, els membres de [9BarrisImatge](https://www.9barrisimatge.org/) ens trobem per fer un got i gaudir d'unes bones patates braves. A més, ens agrada posar-li emoció a la cosa portant les nostres pròpies salses picants, de les que fan salivar! De vegades, en Cesc, el nostre xef particular, ens sorprèn amb alguna de les seves creacions. Sabor, potència i el món que arreglem a mossegades, cada dijous.
 

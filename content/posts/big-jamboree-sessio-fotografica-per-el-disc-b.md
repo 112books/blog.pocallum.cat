@@ -14,7 +14,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2011/07/IMG_0363-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2011/07/IMG_0363.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2011/07/IMG_0363.jpg)](https://photos.app.goo.gl/oyFaJWUasUjhEXjt8)
+[![Home jove amb jaqueta grana i camisa clara mira de perfil, il·luminat dramàticament sobre un fons fosc i blavós.](https://blog.pocallum.cat/wp-content/uploads/2011/07/IMG_0363.jpg)](https://photos.app.goo.gl/oyFaJWUasUjhEXjt8)
 
 Aquest passat dimarts vàrem fer una sessió fotogràfica amb els Big Jamboree. L'excusa tenir les fotos pel nou disc "Bang!", que pròximament serà publicat.
 

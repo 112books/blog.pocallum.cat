@@ -24,7 +24,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2025/07/IMG_9066-1024x683.jp
 description: "Descobreix la Swing Shot Band, un sextet liderat pel saxofonista Nil Mujal que ofereix un swing clàssic i vibrant al festival Vijazz del Penedès."
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/07/IMG_9066-1024x683.jpg)](https://photos.app.goo.gl/QUYJxAjnKkyA7J7R9)
+[![Un grup de músics toca en directe en un escenari a l'aire lliure amb públic i edificis al fons.](https://blog.pocallum.cat/wp-content/uploads/2025/07/IMG_9066-1024x683.jpg)](https://photos.app.goo.gl/QUYJxAjnKkyA7J7R9)
 
 Durant el [concert dels Corto.Alto](https://blog.pocallum.cat/2025/07/08/2025-07-05-vijazz-2025-corto-alto/), vaig aprofitar per fer un most i endinsar-me a l’espai Rambla. Allà, entre parades dels cellers més selectes del Penedès, vaig topar amb un escenari vibrant: la [Swing Shot Band](https://www.instagram.com/swingshotband/), una formació llegendària del swing fet a casa nostra, feia ballar l’aire de la tarda.
 

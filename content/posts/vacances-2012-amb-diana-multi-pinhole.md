@@ -15,6 +15,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/08/501210.jpg
 image: https://lh5.googleusercontent.com/-X6OmfAHgUic/UD4Lmku8hpI/AAAAAAADS2I/pC9e-H3qVhU/s800/501210.jpg
 ---
 
-|  [![](https://lh5.googleusercontent.com/-X6OmfAHgUic/UD4Lmku8hpI/AAAAAAADS2I/pC9e-H3qVhU/s800/501210.jpg)](https://photos.app.goo.gl/226nXj2B7AWq1FzP6)  |
+|  [![crònica cultural](https://lh5.googleusercontent.com/-X6OmfAHgUic/UD4Lmku8hpI/AAAAAAADS2I/pC9e-H3qVhU/s800/501210.jpg)](https://photos.app.goo.gl/226nXj2B7AWq1FzP6)  |
 | --- |
 | De [Lomo 005012](https://photos.app.goo.gl/226nXj2B7AWq1FzP6) |

@@ -16,7 +16,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/06/DSF2956.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2024/06/DSF2956-1024x683.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/06/DSF2956-1024x683.jpg)](https://photos.app.goo.gl/pcsbEUNuUQQLxwTp6)
+[![Un home i una dona amb bicicleta somriuen envoltats de gent en un carrer fosc de nit.](https://blog.pocallum.cat/wp-content/uploads/2024/06/DSF2956-1024x683.jpg)](https://photos.app.goo.gl/pcsbEUNuUQQLxwTp6)
 
 Mira tu!, ahir vàrem patir una invasió galàctica de bicicletes a la plaça Ángel Pestaña. Davant la mirada atònita dels habituals veïns de la plaça, varen anar arribant moltes bicicletes i van celebrar la seva arribada donant voltes a la plaça com un fibló.
 

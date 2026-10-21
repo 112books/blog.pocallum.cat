@@ -28,7 +28,7 @@ description: "El 18 d’octubre el Casal de Barri de la Prosperitat va acollir l
 title-seo: "Concert dels Palo Q’Sea al Casal de Barri de la Prosperitat – música, teatre i cultura colombiana a Barcelona"
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/10/IMG_1278-1024x683.jpg)](https://photos.app.goo.gl/TgdoPKbMtXHbTCu86)
+[![Una bèstia folklòrica coberta de pèl balla en una plaça nocturna davant l'atenta mirada dels espectadors.](https://blog.pocallum.cat/wp-content/uploads/2025/10/IMG_1278-1024x683.jpg)](https://photos.app.goo.gl/TgdoPKbMtXHbTCu86)
 
 El passat dissabte **18 d’octubre** vam gaudir de l’espectacle de l’**[Associació Cultural Palo Q’Sea](https://www.instagram.com/palo_qsea/)**. Aquesta veterana associació, originària de **Colòmbia** i establerta fa més de **30 anys a Barcelona**, es dedica a crear espectacles **músico-teatrals** amb una forta influència del **teatre de carrer** i del **folklore sud-americà**, tot plegat ben barrejat amb **dansa**, **gegants** i **dimonis espectaculars**.
 

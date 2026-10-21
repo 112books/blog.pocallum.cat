@@ -11,6 +11,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2014/08/HomeDev17-HolgaW
 image: https://lh6.googleusercontent.com/-Hu4LhdzcRuE/U_pVnWd2PuI/AAAAAAAESIc/SFZT3aszCow/s640/HomeDev%252317%2520-%2520HolgaWPC%2520-%2520001.jpg
 ---
 
-|  [![](https://lh6.googleusercontent.com/-Hu4LhdzcRuE/U_pVnWd2PuI/AAAAAAAESIc/SFZT3aszCow/s640/HomeDev%252317%2520-%2520HolgaWPC%2520-%2520001.jpg)](https://photos.app.goo.gl/spd5pi2VLaMbUCaM7)  |
+|  [![Una persona nua estirada en un llit, amb l'esquena il·luminada per la llum d'una finestra en una habitació fosca.](https://lh6.googleusercontent.com/-Hu4LhdzcRuE/U_pVnWd2PuI/AAAAAAAESIc/SFZT3aszCow/s640/HomeDev%252317%2520-%2520HolgaWPC%2520-%2520001.jpg)](https://photos.app.goo.gl/spd5pi2VLaMbUCaM7)  |
 | --- |
 | De [Pinhole self-portrait](https://photos.app.goo.gl/spd5pi2VLaMbUCaM7) |

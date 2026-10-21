@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2015/11/7198-Bronica-Tur
 image: https://lh3.googleusercontent.com/-MEDP39fFOyg/VkEakLXUpYI/AAAAAAAE6KQ/t5g0LBywhuM/s640-Ic42/7198%252520-Bronica-Turquesy-%252520007.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-MEDP39fFOyg/VkEakLXUpYI/AAAAAAAE6KQ/t5g0LBywhuM/s640-Ic42/7198%252520-Bronica-Turquesy-%252520007.jpg)](https://photos.app.goo.gl/31bgGGMH9ATLEHWb6)  |
+|  [![Palmera de tronc corbat i allargat que s'estén cap a la dreta, amb fulles a l'esquerra, sobre un fons groc llis.](https://lh3.googleusercontent.com/-MEDP39fFOyg/VkEakLXUpYI/AAAAAAAE6KQ/t5g0LBywhuM/s640-Ic42/7198%252520-Bronica-Turquesy-%252520007.jpg)](https://photos.app.goo.gl/31bgGGMH9ATLEHWb6)  |
 | --- |
 | De [7198 - Bronica ETRS - LomoChrome Turquoise als jardis Costa i Llobera de Montjuïc](https://photos.app.goo.gl/31bgGGMH9ATLEHWb6) |

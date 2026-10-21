@@ -10,7 +10,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2016/06/IMG_3441.jpg
 image: https://lh3.googleusercontent.com/-FsWWKKQX6NE/V2UaDkkju1I/AAAAAAAFNx4/Jyw7lIvafCof2Sg7pzAvZT1pU8ruLW9nwCCo/s640/IMG_3441.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-FsWWKKQX6NE/V2UaDkkju1I/AAAAAAAFNx4/Jyw7lIvafCof2Sg7pzAvZT1pU8ruLW9nwCCo/s640/IMG_3441.jpg)](https://photos.app.goo.gl/DhoPPLjdXtDa3nw3A)  |
+|  [![Nou esborrany:* Quatre joves ballarins assagen una coreografia en un escenari fosc, amb un home assegut en un tamboret i una dona a terra.](https://lh3.googleusercontent.com/-FsWWKKQX6NE/V2UaDkkju1I/AAAAAAAFNx4/Jyw7lIvafCof2Sg7pzAvZT1pU8ruLW9nwCCo/s640/IMG_3441.jpg)](https://photos.app.goo.gl/DhoPPLjdXtDa3nw3A)  |
 | --- |
 | De [Limbo](https://photos.app.goo.gl/DhoPPLjdXtDa3nw3A) |
 

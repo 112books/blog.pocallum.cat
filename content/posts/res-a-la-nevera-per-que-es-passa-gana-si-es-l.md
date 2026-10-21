@@ -21,7 +21,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2011/02/IMG_1728.jpg
 image: https://lh4.googleusercontent.com/_xYdsA1KqJRQ/TWFAaRu5USI/AAAAAAACDtY/-VkzdG_nLZA/s640/IMG_1728.jpg
 ---
 
-|  [![](https://lh4.googleusercontent.com/_xYdsA1KqJRQ/TWFAaRu5USI/AAAAAAACDtY/-VkzdG_nLZA/s640/IMG_1728.jpg)](https://photos.app.goo.gl/d2e44hqzxT6yzE8S8)  |
+|  [![Un grup de músics i cantants actuen en un escenari fosc il·luminat per focus davant d'un públic nombrós.](https://lh4.googleusercontent.com/_xYdsA1KqJRQ/TWFAaRu5USI/AAAAAAACDtY/-VkzdG_nLZA/s640/IMG_1728.jpg)](https://photos.app.goo.gl/d2e44hqzxT6yzE8S8)  |
 | --- |
 | De [Res a la nevera; per què es passa gana si es llença el menjar?](https://photos.app.goo.gl/d2e44hqzxT6yzE8S8) |
 

@@ -10,7 +10,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_5042-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_5042.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_5042.jpg)](https://photos.app.goo.gl/TJB2zBFvRotjCrwK8)
+[![Un home toca el saxòfon en un concert a l'aire lliure amb un contrabaixista al fons.](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_5042.jpg)](https://photos.app.goo.gl/TJB2zBFvRotjCrwK8)
 
 Enguany amb les acutacions de:
 

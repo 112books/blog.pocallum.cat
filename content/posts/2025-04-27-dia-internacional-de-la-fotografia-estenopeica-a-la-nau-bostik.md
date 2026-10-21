@@ -28,7 +28,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2025/04/2025-04-27-Wood-Pinh
 description: "Celebrem el Dia internacional de la fotografia estenopeica 2025 a la Nau Bostik amb 29 retrats únics en gran format, realitzats amb càmera casolana i tècnica analògica tradicional."
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/04/2025-04-27-Wood-Pinhole-4x5-Foma100@50-wwpd25-0022-812x1024.jpg)](https://photos.app.goo.gl/FwUrYgubxs5MmhnJ7)
+[![Una persona amb rastes somriu amb la mà a la barbeta davant d'una paret plena d'adhesius.](https://blog.pocallum.cat/wp-content/uploads/2025/04/2025-04-27-Wood-Pinhole-4x5-Foma100@50-wwpd25-0022-812x1024.jpg)](https://photos.app.goo.gl/FwUrYgubxs5MmhnJ7)
 
 _Feu un clik a la imatge principal per veure el total de retrats estenopeics realitzats, n'hi ha 29!_
 

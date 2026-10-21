@@ -11,7 +11,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2023/09/L1360059-1024x57
 image: https://blog.pocallum.cat/wp-content/uploads/2023/09/L1360059-1024x576.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2023/09/L1360059-1024x576.jpg)](https://photos.app.goo.gl/aUoH1z3YeGcxbpy49)
+[![Una cambrera amb turbant gira el cap cap a la càmera des de darrere la barra d'una cafeteria amb ampolles i cafetera.](https://blog.pocallum.cat/wp-content/uploads/2023/09/L1360059-1024x576.jpg)](https://photos.app.goo.gl/aUoH1z3YeGcxbpy49)
 
 Després de fallar el darrer dijous, no tornarà a passar, hem retornat als "_Dijous calentets_" reunint-nos al voltant d'unes patates braves amb salses picants. Avui a més en Pedro ha portat unes olives gegants que picaven un poc, que també mola per variar. Aquí 1001 caretos més, per descomptat, com ja és un costum.
 

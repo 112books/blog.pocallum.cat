@@ -29,7 +29,7 @@ description: "Descobreix el tardeo amb La otra rumba al Casal de Prosperitat (30
 title-seo: "Tardeo La otra Rumba a Prosperitat 2025 | Música Vinil Casal"
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/05/L1500866-1024x576.jpg)](https://photos.app.goo.gl/zVE9J1gH6mkgDjPR6)
+[![Dona somrient amb cabells arrissats darrere d'una taula de DJ amb tocadiscos, davant d'una cortina fosca.](https://blog.pocallum.cat/wp-content/uploads/2025/05/L1500866-1024x576.jpg)](https://photos.app.goo.gl/zVE9J1gH6mkgDjPR6)
 
 Ahir dimecres, aprofitant la setmana amb dies festius, el Casal de barri de Prosperitat va acollir un _tardeo_ molt especial a Barcelona amb el col·lectiu de DJ [La otra rumba](https://www.instagram.com/la_otra_rumbabcn/). Aquesta proposta va ser la millor alternativa per a qui volia gaudir d’una tarda cultural i musical, lluny del futbol i de les opcions més convencionals d’oci a la ciutat.
 

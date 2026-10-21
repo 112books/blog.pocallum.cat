@@ -10,7 +10,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_2439-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_2439.jpg
 ---
 
-![](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_2439.jpg)
+![Una nena negra somrient amb samarreta blanca mira a càmera en un esdeveniment cultural a l'aire lliure.](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_2439.jpg)
 
 Festival de sopes 2008 al barri de Prosperitat, Barcelona (30/03/2008)
 

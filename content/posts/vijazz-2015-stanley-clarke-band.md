@@ -19,7 +19,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2015/07/IMG_8071-1024x682.jp
 description: "Reviu el concert llegendari de Stanley Clarke Band al ViJazz Penedès 2015, un moment únic de música jazz amb un dels millors baixistes de la historia."
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2015/07/IMG_8071-1024x682.jpg)](https://photos.app.goo.gl/umi5SeXbTaQY4uqf8)
+[![Un baixista inclinat toca intensament el seu baix en un escenari fosc amb llums blaves i fum durant un concert a Barcelona.](https://blog.pocallum.cat/wp-content/uploads/2015/07/IMG_8071-1024x682.jpg)](https://photos.app.goo.gl/umi5SeXbTaQY4uqf8)
 
 El **ViJazz Penedès 2015** va viure un moment màgic amb l'actuació de **Stanley Clarke Band**, un dels concerts més esperats del festival. [Stanley Clarke](https://stanleyclarke.com/), guanyador de 4 premis Grammy i llegenda viva del jazz, va demostrar per què és considerat un dels virtuosos més importants del baix i contrabaix en l'escena internacional.
 

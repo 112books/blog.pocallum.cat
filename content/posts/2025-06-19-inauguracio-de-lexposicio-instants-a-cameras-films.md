@@ -25,7 +25,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2025/06/2025-06-19-LM6-28mm-
 description: "Descobreix “Instants”, l’exposició de 50 polaroids originals realitzades per 5 dones fotògrafes a Cameras & Films Barcelona. Retrats íntims i rebels en una aposta per la fotografia analògica més contemporània."
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/06/2025-06-19-LM6-28mm-RPX400@1600-INSTANTS-0015-1024x620.jpg)](https://photos.app.goo.gl/RXiq7KmcXHDAzUBF9)
+[![Dues fotografies en blanc i negre d'una dona i un gat pengen en una paret amb prestatges plens de càmeres antigues.](https://blog.pocallum.cat/wp-content/uploads/2025/06/2025-06-19-LM6-28mm-RPX400@1600-INSTANTS-0015-1024x620.jpg)](https://photos.app.goo.gl/RXiq7KmcXHDAzUBF9)
 
 La transformació de [Lomography Embassy Barcelona](https://www.instagram.com/p/DK1nvuVCe5y/) en [Cameras & Films](https://www.instagram.com/camerasandfilms.barcelona/) avança molt positivament, i una de les coses que més m’agrada és la seva aposta decidida per la fotografia analògica, especialment en l’àmbit expositiu, amb propostes fresques i arriscades.
 

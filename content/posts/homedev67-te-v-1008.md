@@ -12,7 +12,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2016/03/hd67-Noon-Ilford
 image: https://lh3.googleusercontent.com/-nR3Buls1Y88/VvnBNcDNUSI/AAAAAAAFChM/RAXMNDUXcrA5gOD1WEFYbB3bunVuxJd2QCCo/s640-Ic42/hd%252367-Noon-Ilford50%2B-002.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-nR3Buls1Y88/VvnBNcDNUSI/AAAAAAAFChM/RAXMNDUXcrA5gOD1WEFYbB3bunVuxJd2QCCo/s640-Ic42/hd%252367-Noon-Ilford50%2B-002.jpg)](https://photos.app.goo.gl/eG3fXQVWNSXYfDgbA)  |
+|  [![Un camp llaurat amb solcs corbats en blanc i negre, un camí a la dreta i un petit grup d'arbres sense fulles al centre.](https://lh3.googleusercontent.com/-nR3Buls1Y88/VvnBNcDNUSI/AAAAAAAFChM/RAXMNDUXcrA5gOD1WEFYbB3bunVuxJd2QCCo/s640-Ic42/hd%252367-Noon-Ilford50%2B-002.jpg)](https://photos.app.goo.gl/eG3fXQVWNSXYfDgbA)  |
 | --- |
 | De [Homedev#67 – Noon Pinhole 612 – Ilford PANF Plus 50](https://photos.app.goo.gl/eG3fXQVWNSXYfDgbA) |
 

@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2015/04/IMG_3588.jpg
 image: https://lh5.googleusercontent.com/-BpCDTvXaXKU/VR8UwOb9woI/AAAAAAAEpmY/JSGbzXaPwzw/s640/IMG_3588.jpg
 ---
 
-|  [![](https://lh5.googleusercontent.com/-BpCDTvXaXKU/VR8UwOb9woI/AAAAAAAEpmY/JSGbzXaPwzw/s640/IMG_3588.jpg)](https://photos.app.goo.gl/xqVCapLEwttgPhYp9)  |
+|  [![Una caixa fosca de fotografia reposa sobre una roca amb un paisatge de muntanyes desenfocat al fons.](https://lh5.googleusercontent.com/-BpCDTvXaXKU/VR8UwOb9woI/AAAAAAAEpmY/JSGbzXaPwzw/s640/IMG_3588.jpg)](https://photos.app.goo.gl/xqVCapLEwttgPhYp9)  |
 | --- |
 | De [Tavertet, excursió Pinholera](https://photos.app.goo.gl/xqVCapLEwttgPhYp9) |

@@ -21,7 +21,7 @@ description: "Celebra el Dia Mundial de la Fotografia Estenopeica 2025 a Nau Bos
 title-seo: "Dia Mundial Fotografia Estenopeica 2025 a Nau Bostik | Retrats 4x5"
 ---
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/04/cartell-pinhole-day-2025_1-887x1024.png)
+![Un fotògraf calb seu en una cadira al costat d'una càmera sobre trípode, en una terrassa amb edificis i grues al fons.](https://blog.pocallum.cat/wp-content/uploads/2025/04/cartell-pinhole-day-2025_1-887x1024.png)
 
 Ja arriba el bon temps i això vol dir que els amants de la fotografia estenopeica sortim del cau. Un any més celebrem aquest gran dia dins la **[Nau Bostik](https://naubostik.com/)** amb tothom que vulgui practicar o aprendre aquest tipus de fotografia.
 
@@ -37,7 +37,7 @@ Teniu ganes de muntar vosaltres també alguna activitat estenopeica? [Contacteu 
 
 Consulteu les novetats que anirem anunciant a la pàgina mare a [AWPCP.org](https://awpcp.org/es/worldwide-pinhole-photography-day-2025-3/).
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/04/cartell-pinhole-day-2025_3-724x1024.png)](https://awpcp.org/es/worldwide-pinhole-photography-day-2025-3/)
+[![Home amb gorra i camisa clara, amb el rostre fosc per l'ombra, en un cartell per a la Nau Bostik de Barcelona.](https://blog.pocallum.cat/wp-content/uploads/2025/04/cartell-pinhole-day-2025_3-724x1024.png)](https://awpcp.org/es/worldwide-pinhole-photography-day-2025-3/)
 
 ## Els resultats!
 

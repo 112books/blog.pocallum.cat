@@ -25,7 +25,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2025/05/DSCF0935-1024x683.jp
 description: "La sisena edició de “Nou Barris meets Nova Orleans” omple el barri de música, color i tradició amb la BKT Brass Band, tallers familiars i una rua inspirada en la cultura musical de Nova Orleans. Descobreix com es viu aquesta festa imprescindible a Nou Barris!"
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/05/DSCF0935-1024x683.jpg)](https://photos.app.goo.gl/kVfR1qypybHMMDcA7)
+[![Un grup de músics toca al carrer entre arbres i flors, amb un home cridant per un megàfon davant del públic.](https://blog.pocallum.cat/wp-content/uploads/2025/05/DSCF0935-1024x683.jpg)](https://photos.app.goo.gl/kVfR1qypybHMMDcA7)
 
 _Un moment en què la [BKT Brass Band](https://www.instagram.com/bktbrassband/) la va liar a "[Date Una Huerta](https://www.instagram.com/date_una_huerta/)" hort ocupat i autogestionat per les veïnes de la Prosperitat_
 

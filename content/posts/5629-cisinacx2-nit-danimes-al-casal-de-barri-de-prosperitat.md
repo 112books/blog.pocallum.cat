@@ -11,6 +11,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2014/11/5629-CisinaCX2-C
 image: https://lh3.googleusercontent.com/-K5rT0ccEzc4/VGYO5HwoyZI/AAAAAAAEb9I/mPXEzcL2dYU/s640/5629%2520-%2520CisinaCX2%2520-Cn400-006.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-K5rT0ccEzc4/VGYO5HwoyZI/AAAAAAAEb9I/mPXEzcL2dYU/s640/5629%2520-%2520CisinaCX2%2520-Cn400-006.jpg)](https://photos.app.goo.gl/XZoW8JYJFi4TagAT9)  |
+|  [![Tres persones amb uniforme de cambrer posen somrients i abraçades darrere la barra d'un bar.](https://lh3.googleusercontent.com/-K5rT0ccEzc4/VGYO5HwoyZI/AAAAAAAEb9I/mPXEzcL2dYU/s640/5629%2520-%2520CisinaCX2%2520-Cn400-006.jpg)](https://photos.app.goo.gl/XZoW8JYJFi4TagAT9)  |
 | --- |
 | De [5629 - CisinaCX2 - Nit d'animes al Casal de barri de Prosperitat](https://photos.app.goo.gl/XZoW8JYJFi4TagAT9) |

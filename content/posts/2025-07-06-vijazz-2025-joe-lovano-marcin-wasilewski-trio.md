@@ -27,7 +27,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/07/IMG_9845.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2025/07/IMG_9845-1024x682.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/07/IMG_9845-1024x682.jpg)](https://photos.app.goo.gl/t91AFnUbTapCHiGF9)
+[![Un saxofonista gran amb barret i ulleres actua amb el puny alçat en un escenari fosc.](https://blog.pocallum.cat/wp-content/uploads/2025/07/IMG_9845-1024x682.jpg)](https://photos.app.goo.gl/t91AFnUbTapCHiGF9)
 
 Tot té un final, i el Festival de Jazz de Vilafranca del Penedès, el veterà **[Vijazz](https://vijazzpenedes.com)**, ens regala com a cirereta final d’una excel·lent programació un autèntic monstre, una llegenda… i no ve sol!
 

@@ -13,6 +13,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_5623.jpg
 image: https://lh4.googleusercontent.com/-PQH7NuaajkM/TyVq7-xbgpI/AAAAAAAChVM/EqYwIf1U8E4/s800/IMG_5623.jpg
 ---
 
-|  [![](https://lh4.googleusercontent.com/-PQH7NuaajkM/TyVq7-xbgpI/AAAAAAAChVM/EqYwIf1U8E4/s800/IMG_5623.jpg)](https://photos.app.goo.gl/WgwY5SNBwb5bUMvr7)  |
+|  [![Una cantant amb un vestit de lluentons i plomes canta amb els braços oberts en un escenari, amb un bateria al fons.](https://lh4.googleusercontent.com/-PQH7NuaajkM/TyVq7-xbgpI/AAAAAAAChVM/EqYwIf1U8E4/s800/IMG_5623.jpg)](https://photos.app.goo.gl/WgwY5SNBwb5bUMvr7)  |
 | --- |
 | De [Essencial Cabaret](https://photos.app.goo.gl/WgwY5SNBwb5bUMvr7) |

@@ -30,4 +30,4 @@ M'ha sorprès, ja que no sé exactament el que m'esperava, però era un recorreg
 
 Evidentment, us recomano, molt i molt, de passar-hi (hi ha temps fins al 26 de gener del 2025) però de totes maneres tenen el detall de penjar-ne [**la documentació**](https://kbr.fundacionmapfre.org/exposiciones/henri-cartier-bresson/) i també hi ha el catàleg que sempre sol ser difícil de no comprar si un porta una targeta de plàstic.
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/10/L1480961-1024x683.jpg)](https://photos.app.goo.gl/mNKhayw8hrv9HZXt5)
+[![Un fotògraf amb càmera apareix en un gran mural en una sala d'exposicions fosca.](https://blog.pocallum.cat/wp-content/uploads/2024/10/L1480961-1024x683.jpg)](https://photos.app.goo.gl/mNKhayw8hrv9HZXt5)

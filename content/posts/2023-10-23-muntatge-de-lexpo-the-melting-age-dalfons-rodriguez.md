@@ -11,6 +11,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2023/10/L1360657.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2023/10/L1360657-1024x576.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2023/10/L1360657-1024x576.jpg)](https://photos.app.goo.gl/g5dBcThgcZHareyA7)
+[![Una gran lona negra amb escrits jeu a terra sobre un paviment clar, subjectada per una estructura metàl·lica en una sala.](https://blog.pocallum.cat/wp-content/uploads/2023/10/L1360657-1024x576.jpg)](https://photos.app.goo.gl/g5dBcThgcZHareyA7)
 
 La gent de [Territorios Libres](https://territorioslibres.com/) Ja quasi tenen muntada la nova exposició que podreu veure a partir de dijous dia 2 a la sala Aureli Gandul dins de la [Nau Bostik](https://naubostik.com/esdeveniment/inauguracio-expo-the-melting-age/). Aquí unes fotos del muntatge per fer-vos una idea.

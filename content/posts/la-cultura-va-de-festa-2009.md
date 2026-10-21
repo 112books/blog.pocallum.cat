@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_0051-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_0051.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_0051.jpg)](https://photos.app.goo.gl/6Q9fqAMUuAyYk12b7)
+[![Home amb turbant groc i roba índia somriu i saluda amb la mà alçada en un acte cultural a l'aire lliure.](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_0051.jpg)](https://photos.app.goo.gl/6Q9fqAMUuAyYk12b7)
 
 La Cultura va de Festa 2009, dia festiu al parc de la Guineueta, Barcelona (10/05/2009) - [Totes les fotos](https://photos.app.goo.gl/6Q9fqAMUuAyYk12b7)

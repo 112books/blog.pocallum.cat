@@ -14,7 +14,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/05/Caffenol-9-Lubi-
 image: https://lh5.googleusercontent.com/--vGdyJEHIjk/UZv0mS_8cQI/AAAAAAADtmQ/7TYudvmy770/s640/Caffenol%2520%25239%2520Lubi%2520-%2520BN%2520-%2520001.jpg
 ---
 
-|  [![](https://lh5.googleusercontent.com/--vGdyJEHIjk/UZv0mS_8cQI/AAAAAAADtmQ/7TYudvmy770/s640/Caffenol%2520%25239%2520Lubi%2520-%2520BN%2520-%2520001.jpg)](https://photos.app.goo.gl/D5q738W5DytCLA4f6)  |
+|  [![Una gran escultura blava corba s'alça contra un cel carregat de núvols sobre els terrats de Barcelona.](https://lh5.googleusercontent.com/--vGdyJEHIjk/UZv0mS_8cQI/AAAAAAADtmQ/7TYudvmy770/s640/Caffenol%2520%25239%2520Lubi%2520-%2520BN%2520-%2520001.jpg)](https://photos.app.goo.gl/D5q738W5DytCLA4f6)  |
 | --- |
 | De [Caffenol #09 - Lubitel 166B - Lady Grey 400](https://photos.app.goo.gl/D5q738W5DytCLA4f6) |
 

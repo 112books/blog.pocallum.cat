@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2015/11/DSCF1497.jpg
 image: https://lh3.googleusercontent.com/-2CmCvGdcnhY/VjvT4jKG7uI/AAAAAAAE6AQ/NTnk4J1lar8/s640-Ic42/DSCF1497.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-2CmCvGdcnhY/VjvT4jKG7uI/AAAAAAAE6AQ/NTnk4J1lar8/s640-Ic42/DSCF1497.jpg)](https://photos.app.goo.gl/RUh1xPLoXpbuzfL58)  |
+|  [![Cactus columnars espinosos en un jardí, amb les espines del primer pla destacades en blanc i negre.](https://lh3.googleusercontent.com/-2CmCvGdcnhY/VjvT4jKG7uI/AAAAAAAE6AQ/NTnk4J1lar8/s640-Ic42/DSCF1497.jpg)](https://photos.app.goo.gl/RUh1xPLoXpbuzfL58)  |
 | --- |
 | De [Jardins Costa i llovera, Montjuic](https://picasaweb.google.com/103138221614479310970/JardinsCostaILloveraMontjuich?authuser=0&feat=embedwebsite)[h](https://photos.app.goo.gl/RUh1xPLoXpbuzfL58) |

@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2014/10/541803.jpg
 image: https://lh5.googleusercontent.com/-wCHDS7IpLHc/VFKz_nSAgTI/AAAAAAAEbr8/Qa9kti0l8yY/s640/541803.jpg
 ---
 
-|  [![](https://lh5.googleusercontent.com/-wCHDS7IpLHc/VFKz_nSAgTI/AAAAAAAEbr8/Qa9kti0l8yY/s640/541803.jpg)](https://photos.app.goo.gl/Jj3PeiLri4sRW2eu8)  |
+|  [![Un home amb ulleres i samarreta vermella posa darrere d'una barra plena d'adhesius en un local fosc amb llums verdes.](https://lh5.googleusercontent.com/-wCHDS7IpLHc/VFKz_nSAgTI/AAAAAAAEbr8/Qa9kti0l8yY/s640/541803.jpg)](https://photos.app.goo.gl/Jj3PeiLri4sRW2eu8)  |
 | --- |
 | De [LightPainting Workshop in Lomography Embassy Store Barcelona](https://photos.app.goo.gl/Jj3PeiLri4sRW2eu8) |

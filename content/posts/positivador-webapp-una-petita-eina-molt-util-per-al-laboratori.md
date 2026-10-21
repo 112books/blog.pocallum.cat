@@ -33,7 +33,7 @@ description: "Eina gratuïta per positivitzar negatius fotogràfics amb el mòbi
 title-seo: "Positivador WebApp: com veure negatius en positiu amb el mòbil"
 ---
 
-![](https://blog.pocallum.cat/wp-content/uploads/2026/04/photo_2026-04-29-09.13.37-473x1024.jpeg)
+![Càmera analògica fosca amb un dial prominent, en primer pla sobre una taula en un estudi de Barcelona.](https://blog.pocallum.cat/wp-content/uploads/2026/04/photo_2026-04-29-09.13.37-473x1024.jpeg)
 
 Hi ha idees que neixen de la pràctica quotidiana. De la repetició. De veure una vegada i una altra el mateix gest… i la mateixa dificultat.
 

@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_8632-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_8632.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_8632.jpg)](https://photos.app.goo.gl/cFGp6d4h62wUG9kZA)
+[![Dona rossa amb les mans plenes d'argila es tapa la boca oberta amb sorpresa en un taller de ceràmica.](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_8632.jpg)](https://photos.app.goo.gl/cFGp6d4h62wUG9kZA)
 
 L'Amiga Giorgia provant de fer ceràmica al taller del meu pare, en Joan Martínez Peidro. El Pago, Subirats, Barcelona (13-04-2009) - [Totes les fotos](https://photos.app.goo.gl/cFGp6d4h62wUG9kZA)

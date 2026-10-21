@@ -37,24 +37,24 @@ Aquí teniu algunes imatges escanejades del resultat final. La Nikon FM ha demos
 
 Les fotografies són just del passat dijous; vaig aprofitar la reunió que tenim els camarades de [9bI](https://www.9barrisimatge.org/) per menjar ben picant i fer uns gots. Allà, les usuàries del [Casal de Barri de Prosperitat](https://www.instagram.com/casalbprospe/) i les amigues de la cooperativa “[Las Rudas](https://www.instagram.com/rudascooperativa/)” van ser les víctimes de la inauguració d’aquesta nova càmera de la col·lecció.
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/02/2025-02-07-NikonFM-Foma100@800-R150-Varies-0001-1024x619.jpg)
+![Home gran amb ulleres recolza la barbeta a la mà en una taula de bar; al fons, una dona asseguda.](https://blog.pocallum.cat/wp-content/uploads/2025/02/2025-02-07-NikonFM-Foma100@800-R150-Varies-0001-1024x619.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/02/2025-02-07-NikonFM-Foma100@800-R150-Varies-0007-1024x607.jpg)
+![Tres noies xerren i riuen animadament en un bar, amb una d'elles gesticulant davant la barra plena d'ampolles.](https://blog.pocallum.cat/wp-content/uploads/2025/02/2025-02-07-NikonFM-Foma100@800-R150-Varies-0007-1024x607.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/02/2025-02-07-NikonFM-Foma100@800-R150-Varies-0009-1024x604.jpg)
+![Una mà en silueta amb els dits oberts davant la barra d'un bar ple d'ampolles i rètols.](https://blog.pocallum.cat/wp-content/uploads/2025/02/2025-02-07-NikonFM-Foma100@800-R150-Varies-0009-1024x604.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/02/2025-02-07-NikonFM-Foma100@800-R150-Varies-0014-1024x595.jpg)
+![afegeix context útil.](https://blog.pocallum.cat/wp-content/uploads/2025/02/2025-02-07-NikonFM-Foma100@800-R150-Varies-0014-1024x595.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/02/2025-02-07-NikonFM-Foma100@800-R150-Varies-0015-1024x595.jpg)
+![Dues persones amb ulleres s'abracen intensament en un bar amb una nevera plena de begudes al darrere.](https://blog.pocallum.cat/wp-content/uploads/2025/02/2025-02-07-NikonFM-Foma100@800-R150-Varies-0015-1024x595.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/02/2025-02-07-NikonFM-Foma100@800-R150-Varies-0018-1024x588.jpg)
+![Dues persones riuen i posen juntes en un bar, amb neveres i ampolles al darrere, en blanc i negre.](https://blog.pocallum.cat/wp-content/uploads/2025/02/2025-02-07-NikonFM-Foma100@800-R150-Varies-0018-1024x588.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/02/2025-02-07-NikonFM-Foma100@800-R150-Varies-0024-1024x618.jpg)
+![Dona amb ulleres de sol i braços creuats, tocant-se la galta, asseguda davant d'una nevera de begudes en un bar.](https://blog.pocallum.cat/wp-content/uploads/2025/02/2025-02-07-NikonFM-Foma100@800-R150-Varies-0024-1024x618.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/02/2025-02-07-NikonFM-Foma100@800-R150-Varies-0030-1024x607.jpg)
+![Un home amb una càmera menja un aperitiu al costat d'una dona en un bar, amb neveres de begudes al darrere.](https://blog.pocallum.cat/wp-content/uploads/2025/02/2025-02-07-NikonFM-Foma100@800-R150-Varies-0030-1024x607.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/02/2025-02-07-NikonFM-Foma100@800-R150-Varies-0033-1024x588.jpg)
+![Un home de perfil allarga el braç cap a una dona somrient en un passadís interior amb portes blanques.](https://blog.pocallum.cat/wp-content/uploads/2025/02/2025-02-07-NikonFM-Foma100@800-R150-Varies-0033-1024x588.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/02/2025-02-07-NikonFM-Foma100@800-R150-Varies-0034-1024x587.jpg)
+![Un gos badalla amb la boca oberta i les potes recolzades sobre la barra d'un bar.](https://blog.pocallum.cat/wp-content/uploads/2025/02/2025-02-07-NikonFM-Foma100@800-R150-Varies-0034-1024x587.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/02/2025-02-07-NikonFM-Foma100@800-R150-Varies-0031-1024x637.jpg)
+![Dona gran recolzada sobre els braços en un bar, mirant de front a la càmera amb un somriure lleu.](https://blog.pocallum.cat/wp-content/uploads/2025/02/2025-02-07-NikonFM-Foma100@800-R150-Varies-0031-1024x637.jpg)

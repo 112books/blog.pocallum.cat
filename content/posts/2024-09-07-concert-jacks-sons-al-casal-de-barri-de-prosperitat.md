@@ -13,7 +13,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/09/DSF4552.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2024/09/DSF4552-1024x683.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/09/DSF4552-1024x683.jpg)](https://photos.app.goo.gl/9HbjuU21kyXkWjJx5)
+[![Un cantant amb les mans a la boca actua en un escenari fosc mentre un músic toca el baix al fons.](https://blog.pocallum.cat/wp-content/uploads/2024/09/DSF4552-1024x683.jpg)](https://photos.app.goo.gl/9HbjuU21kyXkWjJx5)
 
 [Jack's Son](https://www.instagram.com/jacksons_band/) és un grup de **blues, soul i rock & roll** els músics del qual es van conèixer a les concorregudes jam sessions de la ciutat de Barcelona.
 

@@ -10,7 +10,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2016/01/IMG_8021.jpg
 image: https://lh3.googleusercontent.com/-cJAZlDdJk-o/Vq4pZwkWANI/AAAAAAAE_aA/S7LVM04Qwjo/s640-Ic42/IMG_8021.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-cJAZlDdJk-o/Vq4pZwkWANI/AAAAAAAE_aA/S7LVM04Qwjo/s640-Ic42/IMG_8021.jpg)](https://photos.app.goo.gl/9tjNb9AX2FFiJ7xB8)  |
+|  [![Cinc músics actuen en directe en un escenari fosc amb guitarres, saxo i teclat, vistos des del públic.](https://lh3.googleusercontent.com/-cJAZlDdJk-o/Vq4pZwkWANI/AAAAAAAE_aA/S7LVM04Qwjo/s640-Ic42/IMG_8021.jpg)](https://photos.app.goo.gl/9tjNb9AX2FFiJ7xB8)  |
 | --- |
 | De [HAL - Casal de barri de Prosperitat](https://photos.app.goo.gl/9tjNb9AX2FFiJ7xB8) |
 

@@ -10,4 +10,4 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2020/07/L1250678-1024x57
 image: https://blog.pocallum.cat/wp-content/uploads/2020/07/L1250678-1024x576.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2020/07/L1250678-1024x576.jpg)](https://photos.app.goo.gl/Abge4GDw1iMPSwqQ8)
+[![Un pianista toca amb intensitat en un concert nocturn a l'aire lliure, amb altres músics al fons.](https://blog.pocallum.cat/wp-content/uploads/2020/07/L1250678-1024x576.jpg)](https://photos.app.goo.gl/Abge4GDw1iMPSwqQ8)

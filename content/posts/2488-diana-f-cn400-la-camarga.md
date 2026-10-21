@@ -15,6 +15,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/08/2488-Diana-CN400
 image: https://lh6.googleusercontent.com/-lPh-D4_MMW0/UiHxdyP9isI/AAAAAAAD4-o/7Mkz5odw6UI/s640/2488%2520-%2520Diana%2520-%2520CN400%2520-%2520007.jpg
 ---
 
-|  [![](https://lh6.googleusercontent.com/-lPh-D4_MMW0/UiHxdyP9isI/AAAAAAAD4-o/7Mkz5odw6UI/s640/2488%2520-%2520Diana%2520-%2520CN400%2520-%2520007.jpg)](https://photos.app.goo.gl/PMXRCuCPNBrYzazb8)  |
+|  [![Un home gran amb camisa de quadres empeny un cotxet davant d'un amfiteatre romà amb arcs, mentre una dona fa una foto.](https://lh6.googleusercontent.com/-lPh-D4_MMW0/UiHxdyP9isI/AAAAAAAD4-o/7Mkz5odw6UI/s640/2488%2520-%2520Diana%2520-%2520CN400%2520-%2520007.jpg)](https://photos.app.goo.gl/PMXRCuCPNBrYzazb8)  |
 | --- |
 | De [2488 - Diana +F - CN400](https://photos.app.goo.gl/PMXRCuCPNBrYzazb8) |

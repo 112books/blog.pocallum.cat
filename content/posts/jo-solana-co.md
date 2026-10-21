@@ -21,7 +21,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2025/03/IMG_6641-1024x683.jp
 description: "Descobreix el nou projecte musical de Jo Solana, amb el single 'Tan de bo tornin els bons temps' del disc 'Memòria', acompanyat de Raül Bruna i Òscar Estanyol."
 ---
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/03/IMG_6641-1024x683.jpg)
+![Tres músics veterans amb guitarra, acordió i arc posen junts en un retrat d'estudi en blanc i negre.](https://blog.pocallum.cat/wp-content/uploads/2025/03/IMG_6641-1024x683.jpg)
 
 Aquests dies, el món musical està parlant de la transformació d'en Juanito Piquete, que ha desaparegut per donar vida al seu nou projecte, **[Jo Solana](https://www.instagram.com/jo_so_lana/)**. Aquest nou camí musical el porta acompanyat pels seus col·laboradors, entre els quals destaquen els "_mataesquirols_" [Raül Bruna](https://www.instagram.com/raulbruna/) al contrabaix i acordió, i Òscar Estanyol, conegut com "El Violinista Anarquista", al violí.
 
@@ -33,6 +33,6 @@ Salut, música, poesia i llibertat, camarades!
 
 https://youtu.be/BMnancNeCFE?si=Pu6AYmEMVzkMUmrW
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/03/1600_1743003831IMG_6826-Edit-1024x682.jpg)
+![Tres músics veterans amb barba, ulleres i barret posen amb un violí, una guitarra i un contrabaix sobre fons fosc.](https://blog.pocallum.cat/wp-content/uploads/2025/03/1600_1743003831IMG_6826-Edit-1024x682.jpg)
 
 Una de les fotografies oficiosament oficials

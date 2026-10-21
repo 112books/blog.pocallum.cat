@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2015/07/IMG_9458.jpg
 image: https://lh3.googleusercontent.com/-yuAr7rXJS8g/VZ5pB3U1eRI/AAAAAAAExPE/IZytog_5VCw/s640/IMG_9458.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-yuAr7rXJS8g/VZ5pB3U1eRI/AAAAAAAExPE/IZytog_5VCw/s640/IMG_9458.jpg)](https://photos.app.goo.gl/T9hTKwAmE2Hc9T1aA)  |
+|  [![Un home i dues dones ballen i somriuen en una festa nocturna a Barcelona, vistos a través d'un vidre.](https://lh3.googleusercontent.com/-yuAr7rXJS8g/VZ5pB3U1eRI/AAAAAAAExPE/IZytog_5VCw/s640/IMG_9458.jpg)](https://photos.app.goo.gl/T9hTKwAmE2Hc9T1aA)  |
 | --- |
 | De [FBB - Jam Session al Casal de barri de Prosperitat](https://photos.app.goo.gl/T9hTKwAmE2Hc9T1aA) |

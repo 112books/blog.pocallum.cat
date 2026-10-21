@@ -25,7 +25,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2024/12/2024-11-30-Clot-en-B
 description: "Descobreix l'experiència única del festival Clot amb Blues, amb actuacions de Tori Sparks i Alegria Africana, i reflexiona sobre la importància de preservar els espais culturals del barri."
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/12/2024-11-30-Clot-en-Blues-Tori-Sparks-0035-1-1024x638.jpg)](https://photos.app.goo.gl/s1RmuydBbE77mUjC8)
+[![Una dona canta i toca la guitarra acústica en un escenari fosc, amb una bateria al darrere durant un concert.](https://blog.pocallum.cat/wp-content/uploads/2024/12/2024-11-30-Clot-en-Blues-Tori-Sparks-0035-1-1024x638.jpg)](https://photos.app.goo.gl/s1RmuydBbE77mUjC8)
 
 ## T'estimo com un cèntim sobre els raïls estima el tren  
 –_I love you like a penny on a rail_  
@@ -39,7 +39,7 @@ Així que aquesta frase i aquest tipus de fets es poden prendre com a un li conv
 
 ## Els ritmes de l'Àfrica
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/12/2024-11-30-Clot-en-Blues-Tori-Sparks-Alegria-africana-0042-1024x617.jpg)](https://photos.app.goo.gl/s1RmuydBbE77mUjC8)
+[![Músics en directe en un escenari fosc: un canta i toca un instrument de corda, un altre la bateria i el tercer el banjo.](https://blog.pocallum.cat/wp-content/uploads/2024/12/2024-11-30-Clot-en-Blues-Tori-Sparks-Alegria-africana-0042-1024x617.jpg)](https://photos.app.goo.gl/s1RmuydBbE77mUjC8)
 
 Però a més del blues enverinat amb l'estil cru i dols a la vegada, rabiós en altres ocasions de la senyoreta Sparks, la vetllada va comptar amb els sons del continent Africà on, ben segur, va iniciar-se tot això del blues i les músiques afroamericanes. Eren "[Alegria Africana](https://www.instagram.com/alegria.africana/)" acompanyats d'en [Leo Cayuela](https://www.instagram.com/cayuelaleo/), guitarrista, constructor de guitarres increïbles i culpable, entre d'altres, de la realitat del "Clot amb Blues".
 

@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2016/06/IMG_3218.jpg
 image: https://lh3.googleusercontent.com/-repV-LGyO7k/V2GBQeZbUfI/AAAAAAAFNX4/cxjQaM3Mlh4bzJK6XF-WggRuz-gkoWhDgCCo/s640/IMG_3218.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-repV-LGyO7k/V2GBQeZbUfI/AAAAAAAFNX4/cxjQaM3Mlh4bzJK6XF-WggRuz-gkoWhDgCCo/s640/IMG_3218.jpg)](https://photos.app.goo.gl/8xWogeK2LvyjUMeGA)  |
+|  [![Un grup de jazz actua en directe en un escenari amb fons vermell, amb un pianista, un contrabaixista i una dona cantant.](https://lh3.googleusercontent.com/-repV-LGyO7k/V2GBQeZbUfI/AAAAAAAFNX4/cxjQaM3Mlh4bzJK6XF-WggRuz-gkoWhDgCCo/s640/IMG_3218.jpg)](https://photos.app.goo.gl/8xWogeK2LvyjUMeGA)  |
 | --- |
 | De [Marc Ferrer Trio](https://photos.app.goo.gl/8xWogeK2LvyjUMeGA) |

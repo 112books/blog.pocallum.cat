@@ -12,7 +12,7 @@ image: https://lh3.googleusercontent.com/pw/AM-JKLVoOI6rm2Y9y2CsZZHQGoAWnpJzkFaU
 
 <figure>
 
-[![](https://lh3.googleusercontent.com/pw/AM-JKLVoOI6rm2Y9y2CsZZHQGoAWnpJzkFaUaNVZrhT3NvZhcW6p4ZLYuv9CebSyanwu_P7VOLfGpa6AiQFmYgGXDjPhtogsuEWZWnEwJQZckRR7rsAZrXo1-WKR797tD7eZIPqtgG4YC7UlXhp9BHCoLu2Zjw=w1643-h1067-no?authuser=0)](https://photos.app.goo.gl/Rm9fEJN3uWsapiue8)
+[![Un grup de músics toca en directe en un escenari exterior davant d'un edifici de pedra amb arcs.](https://lh3.googleusercontent.com/pw/AM-JKLVoOI6rm2Y9y2CsZZHQGoAWnpJzkFaUaNVZrhT3NvZhcW6p4ZLYuv9CebSyanwu_P7VOLfGpa6AiQFmYgGXDjPhtogsuEWZWnEwJQZckRR7rsAZrXo1-WKR797tD7eZIPqtgG4YC7UlXhp9BHCoLu2Zjw=w1643-h1067-no?authuser=0)](https://photos.app.goo.gl/Rm9fEJN3uWsapiue8)
 
 <figcaption>
 

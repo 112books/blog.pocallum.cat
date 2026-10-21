@@ -23,7 +23,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2025/03/2025-03-07-LC-a-Foma
 description: "Explora l’art urbà amb una perspectiva femenina a la Nau Bostik i reflexiona sobre la igualtat de gènere en el Dia Internacional de les Dones."
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/03/2025-03-07-LC-a-Foma100@800-varies-0020.jpg)](https://photos.app.goo.gl/Bsw7YeaQsuCW6kng8)
+[![Mural d'una dona de cabell ros pintat a la façana d'un edifici urbà, amb una barana metàl·lica al davant.](https://blog.pocallum.cat/wp-content/uploads/2025/03/2025-03-07-LC-a-Foma100@800-varies-0020.jpg)](https://photos.app.goo.gl/Bsw7YeaQsuCW6kng8)
 
 Fixeu-vos que al costat del grafiti de la noia, accidentalment, apareix **Revol**… Seran les ganes, però jo associï la noia i la revolta que espero que vingui ben aviat en contra de tanta injustícia.
 

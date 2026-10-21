@@ -13,7 +13,7 @@ image: https://lh3.googleusercontent.com/pw/AM-JKLWAdKxrAz91Am3_O0WAEWy7zWuI5DEg
 
 <figure>
 
-[![](https://lh3.googleusercontent.com/pw/AM-JKLWAdKxrAz91Am3_O0WAEWy7zWuI5DEgQGGStLKWL2bSs4bY8vEvsvlXex3k2VXUl3KUwEqI9tBfrSQz2gd1_uEgjOp9QF4y4tF7sZiPg4Sjharv5xGwGwBV-WldHnmjAOUgbP6pNUnJxkwp4G3aSRWG6g=w2039-h1251-no?authuser=0)](https://photos.app.goo.gl/UYS6cmATVjNm4MDF7)
+[![Tatuador amb el cos cobert de tatuatges japonesos treballa sobre un client estirat en un estudi.](https://lh3.googleusercontent.com/pw/AM-JKLWAdKxrAz91Am3_O0WAEWy7zWuI5DEgQGGStLKWL2bSs4bY8vEvsvlXex3k2VXUl3KUwEqI9tBfrSQz2gd1_uEgjOp9QF4y4tF7sZiPg4Sjharv5xGwGwBV-WldHnmjAOUgbP6pNUnJxkwp4G3aSRWG6g=w2039-h1251-no?authuser=0)](https://photos.app.goo.gl/UYS6cmATVjNm4MDF7)
 
 <figcaption>
 

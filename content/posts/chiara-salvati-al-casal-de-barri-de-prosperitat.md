@@ -12,7 +12,7 @@ image: https://lh3.googleusercontent.com/pw/ACtC-3dzl0oh5uLyGuJ9ktYFFrvs8LEfdW66
 
 <figure>
 
-[![](https://lh3.googleusercontent.com/pw/ACtC-3dzl0oh5uLyGuJ9ktYFFrvs8LEfdW66qf13SC7pikcWOiniCSsb9vudPQqq_jR9mLbmW71tKLMt9x9S_wQr1ExI5MN1JhyrPY5KA4yBe0TrBPjYa39NZ4YQ8uxqVOtsT4-9WRKToaugNWP88MVfdPqH1g=w1449-h967-no?authuser=0)](https://photos.app.goo.gl/aATihbmSeuZtTxTL9)
+[![Un ballarí gira amb la faldilla estesa en un escenari fosc il·luminat per quatre focus al fons.](https://lh3.googleusercontent.com/pw/ACtC-3dzl0oh5uLyGuJ9ktYFFrvs8LEfdW66qf13SC7pikcWOiniCSsb9vudPQqq_jR9mLbmW71tKLMt9x9S_wQr1ExI5MN1JhyrPY5KA4yBe0TrBPjYa39NZ4YQ8uxqVOtsT4-9WRKToaugNWP88MVfdPqH1g=w1449-h967-no?authuser=0)](https://photos.app.goo.gl/aATihbmSeuZtTxTL9)
 
 <figcaption>
 

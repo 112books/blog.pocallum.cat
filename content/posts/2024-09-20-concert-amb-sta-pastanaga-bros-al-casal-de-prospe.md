@@ -23,7 +23,7 @@ description: "Concert STA (dub, Sun Ra, free jazz, punk) i Pastanaga Bros al Cas
 title-seo: "Concert STA + Pastanaga Bros Prosperitat 2024 | Dub"
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/09/DSF6026-1024x683.jpg)](https://photos.app.goo.gl/NoHXFqFJ6b4L3SUm7)
+[![Cinc músics d'una banda actuen en directe en un escenari fosc, amb focus, davant del públic assegut en una sala.](https://blog.pocallum.cat/wp-content/uploads/2024/09/DSF6026-1024x683.jpg)](https://photos.app.goo.gl/NoHXFqFJ6b4L3SUm7)
 
 Aquest divendres hem gaudit d'una proposta ben diferent al Casal de barri de Prosperitat. [STA](https://www.instagram.com/sta.dub/) és un grup de supervivència i llarg recorregut que barreja diferents influències, la més òbvia la música **dub**, però també Sun Ra, el free jazz, l'electrònica experimental, el punk i un llarg, llarg etcètera.
 

@@ -12,7 +12,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/04/2024-04-25-Nikon
 image: https://blog.pocallum.cat/wp-content/uploads/2024/04/2024-04-25-NikonFM-Tri-X400-gener-2001-0008-1024x629.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/04/2024-04-25-NikonFM-Tri-X400-gener-2001-0008-1024x629.jpg)](https://photos.app.goo.gl/AycicA2TumZiUp3W9)
+[![Un gos de dibuixos animats amb barret fuma un cigar en un mural de carrer, amb una flor i un núvol.](https://blog.pocallum.cat/wp-content/uploads/2024/04/2024-04-25-NikonFM-Tri-X400-gener-2001-0008-1024x629.jpg)](https://photos.app.goo.gl/AycicA2TumZiUp3W9)
 
 Ahir cercant altres coses a l'estudi vaig topar-me amb unes llaunes antigues de pel·lícula. Una d'elles Portava una argentina on posa Kodak Tri-X 400 - 01/2001. Jo la veritat encara que dispari molt amb rodet poques vegades havia gastat popular Tri-X, he tingut altres preferències.
 

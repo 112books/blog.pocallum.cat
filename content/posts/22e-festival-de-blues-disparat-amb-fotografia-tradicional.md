@@ -13,7 +13,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/07/2024-07-06-LM6-A
 image: https://blog.pocallum.cat/wp-content/uploads/2024/07/2024-07-06-LM6-APX400@1600-FBB24-C-0039-1024x614.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/07/2024-07-06-LM6-APX400@1600-FBB24-C-0039-1024x614.jpg)](https://photos.app.goo.gl/9VUktVuKmqJkhMWC8)
+[![Una cantant amb els braços alçats actua en un escenari amb grans arcs de maó al fons i un baixista.](https://blog.pocallum.cat/wp-content/uploads/2024/07/2024-07-06-LM6-APX400@1600-FBB24-C-0039-1024x614.jpg)](https://photos.app.goo.gl/9VUktVuKmqJkhMWC8)
 
 Doncs sí, cada any faig el gruix de fotografies del [Festival de Blues de Barcelona](https://www.festivalbluesbarcelona.com/es/content/%C2%A1bandas-del-festival-2024), de tots els dies del festival, amb fotografia química, la de tota la vida. Carrego la bossa amb un munt de rodets i a disparar a tort i dret. També, no us vull enganyar, porto una petita càmera digital per tenir-ne resultats molt més immediats i així poder posar-ne a les xarxes socials una petita mostra de cada concert.
 

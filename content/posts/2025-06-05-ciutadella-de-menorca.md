@@ -27,7 +27,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2025/06/2025-06-05-LM6-Foma1
 description: "Descobreix Ciutadella de Menorca: història mil·lenària, arquitectura amb influències angleses i mediterrànies, festes de Sant Joan, mercat del peix i racons plens d’encant. Un destí imprescindible per als amants de la cultura, la fotografia i la bona cuina."
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/06/2025-06-05-LM6-Foma100@200-Salines-i-Ciutadella-0045-1024x630.jpg)](https://photos.app.goo.gl/PbMQYAvhxyiz51KN6)
+[![Paradistes treballant dins un mercat, vistos a través dels finestrals sobre una paret de rajoles a escacs.](https://blog.pocallum.cat/wp-content/uploads/2025/06/2025-06-05-LM6-Foma100@200-Salines-i-Ciutadella-0045-1024x630.jpg)](https://photos.app.goo.gl/PbMQYAvhxyiz51KN6)
 
 _El preciós i pintoresc mercat del peix a Ciutadella de Menorca. No us el perdeu!_
 

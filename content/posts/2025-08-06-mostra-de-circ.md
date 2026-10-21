@@ -23,7 +23,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2025/08/IMG_0325-1024x683.jp
 description: "El 6 d’agost, la plaça Ángel Pestanya es va omplir de talent jove amb una mostra de circ protagonitzada pels participants de l’intercanvi entre Circus Circuli Stuttgart i l’Ateneu Popular de 9 Barris. Mira les imatges i descobreix el futur del circ al barri!"
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/08/IMG_0325-1024x683.jpg)](https://photos.app.goo.gl/9ue1cY2t9tQ6acCt8)
+[![Tres noies amb faldilles roses fan equilibris amb monocicles enllaçades en una plaça exterior de Barcelona.](https://blog.pocallum.cat/wp-content/uploads/2025/08/IMG_0325-1024x683.jpg)](https://photos.app.goo.gl/9ue1cY2t9tQ6acCt8)
 
 A la Prosperitat no frenem ni a l’agost! Aquest 6 d’agost, la plaça Ángel Pestanya s’ha tornat a omplir de vida i talent amb una mostra de circ protagonitzada per joves artistes del barri… i no només!
 

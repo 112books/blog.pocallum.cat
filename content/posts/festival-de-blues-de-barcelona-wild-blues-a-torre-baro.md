@@ -10,7 +10,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2016/07/DSCF3869.jpg
 image: https://lh3.googleusercontent.com/-QeDVZSXJoMs/V4yXZ9nQ_WI/AAAAAAAFPkI/LL8ZwACyyCEEp-WJl31Y5vO3IwgxsoOXgCCo/s640/DSCF3869.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-QeDVZSXJoMs/V4yXZ9nQ_WI/AAAAAAAFPkI/LL8ZwACyyCEEp-WJl31Y5vO3IwgxsoOXgCCo/s640/DSCF3869.jpg)](https://photos.app.goo.gl/NRmmyQXbxt4dXEWg7)  |
+|  [![Tres músics toquen en directe en una terrassa amb vistes panoràmiques de Barcelona.](https://lh3.googleusercontent.com/-QeDVZSXJoMs/V4yXZ9nQ_WI/AAAAAAAFPkI/LL8ZwACyyCEEp-WJl31Y5vO3IwgxsoOXgCCo/s640/DSCF3869.jpg)](https://photos.app.goo.gl/NRmmyQXbxt4dXEWg7)  |
 | --- |
 | De [Festival de Blues de Barcelona - Wild Blue](https://picasaweb.google.com/103138221614479310970/6308582284267437473?authuser=0&feat=embedwebsite)[s](https://photos.app.goo.gl/NRmmyQXbxt4dXEWg7) |
 

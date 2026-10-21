@@ -13,4 +13,4 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/04/2024-04-22-LM6-A
 image: https://blog.pocallum.cat/wp-content/uploads/2024/04/2024-04-22-LM6-APX400-Feria-de-Abril-0029-1024x633.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/04/2024-04-22-LM6-APX400-Feria-de-Abril-0029-1024x633.jpg)](https://photos.app.goo.gl/CQdmPLJtD3hX6ENBA)
+[![Músics tocant en directe en una plaça mentre una dona balla davant d'un públic assegut a terra.](https://blog.pocallum.cat/wp-content/uploads/2024/04/2024-04-22-LM6-APX400-Feria-de-Abril-0029-1024x633.jpg)](https://photos.app.goo.gl/CQdmPLJtD3hX6ENBA)

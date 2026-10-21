@@ -10,7 +10,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2016/05/DSCF9950.jpg
 image: https://lh3.googleusercontent.com/-vFXh7Z1kahY/Vy7xfo8gscI/AAAAAAAFE1s/PXmylbtCgyAUmBjSK8j0HcjCDGZ15ZjSQCCo/s640/DSCF9950.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-vFXh7Z1kahY/Vy7xfo8gscI/AAAAAAAFE1s/PXmylbtCgyAUmBjSK8j0HcjCDGZ15ZjSQCCo/s640/DSCF9950.jpg)](https://photos.app.goo.gl/p6GwtCamn9zwH2Rd6)  |
+|  [![Dues dones somriuen en una taula rodona davant del públic, en una sala amb grans finestres al fons.](https://lh3.googleusercontent.com/-vFXh7Z1kahY/Vy7xfo8gscI/AAAAAAAFE1s/PXmylbtCgyAUmBjSK8j0HcjCDGZ15ZjSQCCo/s640/DSCF9950.jpg)](https://photos.app.goo.gl/p6GwtCamn9zwH2Rd6)  |
 | --- |
 | De [Mamen Gargallo - Encrucijadas](https://photos.app.goo.gl/p6GwtCamn9zwH2Rd6) |
 

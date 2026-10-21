@@ -31,7 +31,7 @@ description: "Alternativa a la Diada: excursió des de Barcelona per barris i mu
 title-seo: "Explorant l’àrea metropolitana: Diada alternativa entre Santa Coloma i Badalona"
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/09/2025-09-11-SproketRocket-Foma100@400-varies-0005-1024x473.jpg)](https://photos.app.goo.gl/CPoWLwEmh2NtGcieA)
+[![Una persona camina sola per la sorra d'una platja, amb les onades trencant a l'esquerra i una torre al fons.](https://blog.pocallum.cat/wp-content/uploads/2025/09/2025-09-11-SproketRocket-Foma100@400-varies-0005-1024x473.jpg)](https://photos.app.goo.gl/CPoWLwEmh2NtGcieA)
 
 Aquest passat 11 de setembre, **Diada de Catalunya**, el vàrem celebrar d’una manera alternativa: fugint del centre de Barcelona i gaudint de poblacions i barris propers, sovint massa desconeguts.
 

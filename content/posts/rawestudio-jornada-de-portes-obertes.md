@@ -14,7 +14,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/04/IMG_0180.jpg
 image: https://lh4.googleusercontent.com/-Z7vd5TmkalQ/UXPpcaEvEqI/AAAAAAADp2k/FmfPx5VZ05Q/s640/IMG_0180.jpg
 ---
 
-|  [![](https://lh4.googleusercontent.com/-Z7vd5TmkalQ/UXPpcaEvEqI/AAAAAAADp2k/FmfPx5VZ05Q/s640/IMG_0180.jpg)](https://photos.app.goo.gl/3Q8dT1XdWjUJdVEq9)  |
+|  [![Dona jove amb cabells llargs i foscos que mira fixament a la càmera en un retrat en blanc i negre de fons fosc.](https://lh4.googleusercontent.com/-Z7vd5TmkalQ/UXPpcaEvEqI/AAAAAAADp2k/FmfPx5VZ05Q/s640/IMG_0180.jpg)](https://photos.app.goo.gl/3Q8dT1XdWjUJdVEq9)  |
 | --- |
 | De [RawEstudio - Jornada de portes obertes](https://photos.app.goo.gl/3Q8dT1XdWjUJdVEq9) |
 

@@ -10,7 +10,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_9848-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_9848.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_9848.jpg)](https://photos.app.goo.gl/Fxb3UUDnhWL1HU5Y7)
+[![Home calb amb vestit fosc i camisa blanca apareix amb els ulls tancats i el cap inclinat, sembla concentrat sobre un fons negre.](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_9848.jpg)](https://photos.app.goo.gl/Fxb3UUDnhWL1HU5Y7)
 
 Algunes fotos de l'espectacle "_Juglar con las palabras_" de [Christian Atanasiu](https://www.facebook.com/atanasiuchristian/). Molt molt i molt recomanable
 

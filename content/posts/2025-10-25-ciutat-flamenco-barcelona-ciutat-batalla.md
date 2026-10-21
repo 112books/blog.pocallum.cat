@@ -30,7 +30,7 @@ description: "La primera Ciutat Batalla del Festival Ciutat Flamenco Barcelona o
 title-seo: "Ciutat Flamenco Barcelona – La primera Ciutat Batalla a l’Ateneu Popular de Nou Barris"
 ---
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/10/IMG_1822-1024x683.jpg)
+![Un músic es mou desenfocat darrere d'una cinta en un escenari fosc de Barcelona.](https://blog.pocallum.cat/wp-content/uploads/2025/10/IMG_1822-1024x683.jpg)
 
   
 Després de l’excitació de [_La Família_ de Julio Ruiz](https://blog.pocallum.cat/2025/10/26/2025-10-25-julio-ruiz-la-familia/), un petit descans per reubicar-nos tots i, amb parada per fer un got al bar de l’Ateneu, vam agafar posició per gaudir de la primera _[Ciutat Batalla](https://ciutatflamenco.com/ca/edicio-2025/ciutat-batalla/)_. Jo vaig tenir la sort de poder caure al fossar dels cocodrils, tot just a peu d’escenari. Era l’hora de passar del 70–200 mm al 28 mm, ideal per al cos a cos de la batalla.
@@ -47,27 +47,27 @@ Vam gaudir, i de quina manera, només de les finalistes, ja que havien accedit a
 
 Per saber-ne els noms i tota la informació, podeu consultar el web del **[Festival Ciutat Flamenco Barcelona](https://ciutatflamenco.com/ca/edicio-2025/ciutat-batalla/)**, encara que aquí us deixo una petita galeria amb una foto de cada una d'elles, en plena acció!
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/10/IMG_1271-1024x683.jpg)
+![Una dona en ple salt sobre un obstacle en un escenari fosc amb focus de llum i públic al fons.](https://blog.pocallum.cat/wp-content/uploads/2025/10/IMG_1271-1024x683.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/10/IMG_1300-1-1024x683.jpg)
+![és més segur. Tornem a la de 118:](https://blog.pocallum.cat/wp-content/uploads/2025/10/IMG_1300-1-1024x683.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/10/IMG_1332-1024x683.jpg)
+![Un ballarí actua de genolls movent els braços en un escenari fosc davant d'un públic assegut.](https://blog.pocallum.cat/wp-content/uploads/2025/10/IMG_1332-1024x683.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/10/IMG_1430-1024x683.jpg)
+![Un lluitador ajupit amb els braços oberts al ring, davant d'un públic assegut, sota focus brillants.](https://blog.pocallum.cat/wp-content/uploads/2025/10/IMG_1430-1024x683.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/10/IMG_1468-1024x683.jpg)
+![Una ballarina amb vestit llarg salta amb els braços enlaire en un escenari fosc amb focus i públic al fons.](https://blog.pocallum.cat/wp-content/uploads/2025/10/IMG_1468-1024x683.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/10/IMG_1523-1024x683.jpg)
+![Una ballarina salta amb els braços aixecats en un escenari il·luminat, amb el públic assegut al davant.](https://blog.pocallum.cat/wp-content/uploads/2025/10/IMG_1523-1024x683.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/10/IMG_1556-1024x683.jpg)
+![Dona d'esquena amb els braços estesos actua sobre un escenari il·luminat davant d'un públic nombrós en una sala fosca.](https://blog.pocallum.cat/wp-content/uploads/2025/10/IMG_1556-1024x683.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/10/IMG_1578-1024x683.jpg)
+![Una ballarina de flamenc dansa sobre l'escenari fosc, il·luminada per focus brillants davant d'un públic assegut.](https://blog.pocallum.cat/wp-content/uploads/2025/10/IMG_1578-1024x683.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/10/IMG_1609-1024x683.jpg)
+![Lluitador en moviment acrobàtic a la lona d'un ring, amb el públic expectant al fons.](https://blog.pocallum.cat/wp-content/uploads/2025/10/IMG_1609-1024x683.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/10/IMG_1662-1024x683.jpg)
+![Una dona amb un vestit llarg camina per l'escenari d'un espai fosc amb focus, observada per un públic assegut.](https://blog.pocallum.cat/wp-content/uploads/2025/10/IMG_1662-1024x683.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/10/IMG_1678-1024x683.jpg)
+![Una ballarina en moviment actua sobre un escenari davant del públic assegut, sota potents focus de llum.](https://blog.pocallum.cat/wp-content/uploads/2025/10/IMG_1678-1024x683.jpg)
 
 - [FABIOLA MEDELLÍN](https://www.instagram.com/fabi.medellin/) (Ciudad Real. Mèxic) - ‘Takixikia’
 

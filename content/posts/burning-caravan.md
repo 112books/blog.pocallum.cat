@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2015/07/IMG_2192.jpg
 image: https://lh3.googleusercontent.com/-I3Epvli6xGo/VbSy8H-8agI/AAAAAAAEyrM/fAvJC497pY8/s640-Ic42/IMG_2192.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-I3Epvli6xGo/VbSy8H-8agI/AAAAAAAEyrM/fAvJC497pY8/s640-Ic42/IMG_2192.jpg)](https://photos.app.goo.gl/65gKbhKpMcDZ4iy57)  |
+|  [![Concert nocturn a l'aire lliure a Barcelona: un grup actua enèrgicament, amb el cantant saltant davant del públic.](https://lh3.googleusercontent.com/-I3Epvli6xGo/VbSy8H-8agI/AAAAAAAEyrM/fAvJC497pY8/s640-Ic42/IMG_2192.jpg)](https://photos.app.goo.gl/65gKbhKpMcDZ4iy57)  |
 | --- |
 | De [Burning Caravan](https://photos.app.goo.gl/65gKbhKpMcDZ4iy57) |

@@ -8,6 +8,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/01/Barcelona-Tattoo
 image: https://blog.pocallum.cat/wp-content/uploads/2012/01/Barcelona-Tattoo-Show-2008.jpg
 ---
 
-![](https://blog.pocallum.cat/wp-content/uploads/2012/01/Barcelona-Tattoo-Show-2008.jpg)
+![Dues dones d'estil pin-up amb tatuatges s'abracen i miren a càmera en un esdeveniment cultural a Barcelona.](https://blog.pocallum.cat/wp-content/uploads/2012/01/Barcelona-Tattoo-Show-2008.jpg)
 
 Totes les [https://photos.app.goo.gl/v2QQDFXdmJMUMfLWA](https://photos.app.goo.gl/v2QQDFXdmJMUMfLWA)fotos

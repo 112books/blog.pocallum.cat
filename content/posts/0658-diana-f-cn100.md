@@ -15,6 +15,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/07/0658-Diana-f-CN1
 image: https://lh4.googleusercontent.com/-IMguFUi2PRw/UeR5l3bkN5I/AAAAAAADzWM/Rxrfvhk7VCg/s640/0658%2520-%2520Diana%2520f%252B%2520CN100%2520-%2520004.jpg
 ---
 
-|  [![](https://lh4.googleusercontent.com/-IMguFUi2PRw/UeR5l3bkN5I/AAAAAAADzWM/Rxrfvhk7VCg/s640/0658%2520-%2520Diana%2520f%252B%2520CN100%2520-%2520004.jpg)](https://photos.app.goo.gl/EC6f3FEamy8TDc7o7)  |
+|  [![Un noi salta des d'una plataforma a l'aigua turquesa d'una cala amb edificis blancs i banyistes al fons.](https://lh4.googleusercontent.com/-IMguFUi2PRw/UeR5l3bkN5I/AAAAAAADzWM/Rxrfvhk7VCg/s640/0658%2520-%2520Diana%2520f%252B%2520CN100%2520-%2520004.jpg)](https://photos.app.goo.gl/EC6f3FEamy8TDc7o7)  |
 | --- |
 | De [0658 - Diana f+ CN100](https://photos.app.goo.gl/EC6f3FEamy8TDc7o7) |

@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2014/11/5814-CosinaCx2-X
 image: https://lh6.googleusercontent.com/-5uVl4jyHByQ/VG4rvT-mcWI/AAAAAAAEcN0/VAzTEgl4nac/s640/5814%2520-%2520CosinaCx2%2520-Xp200-022.jpg
 ---
 
-|  [![](https://lh6.googleusercontent.com/-5uVl4jyHByQ/VG4rvT-mcWI/AAAAAAAEcN0/VAzTEgl4nac/s640/5814%2520-%2520CosinaCx2%2520-Xp200-022.jpg)](https://photos.app.goo.gl/ugxbxkhFaBgkgHac9)  |
+|  [![Dos homes barbuts en un bar, un amb cabells rinxolats mirant a càmera i l'altre calb amb arracada, de perfil.](https://lh6.googleusercontent.com/-5uVl4jyHByQ/VG4rvT-mcWI/AAAAAAAEcN0/VAzTEgl4nac/s640/5814%2520-%2520CosinaCx2%2520-Xp200-022.jpg)](https://photos.app.goo.gl/ugxbxkhFaBgkgHac9)  |
 | --- |
 | De [5814 - CosinaCX2- Xpro200](https://photos.app.goo.gl/ugxbxkhFaBgkgHac9) |

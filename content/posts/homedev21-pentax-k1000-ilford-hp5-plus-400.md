@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2014/08/HomeDev21-Pentax
 image: https://lh6.googleusercontent.com/-rK6og5MvOjE/U_0c_JCwSBI/AAAAAAAESUM/KH5tTgmO4Zg/s640/HomeDev%252321%2520-%2520Pentax%2520K1000%2520-%2520%2520Ilford%2520HP5%2520Plus%2520400%2520-%2520003.jpg
 ---
 
-|  [![](https://lh6.googleusercontent.com/-rK6og5MvOjE/U_0c_JCwSBI/AAAAAAAESUM/KH5tTgmO4Zg/s640/HomeDev%252321%2520-%2520Pentax%2520K1000%2520-%2520%2520Ilford%2520HP5%2520Plus%2520400%2520-%2520003.jpg)](https://photos.app.goo.gl/ZL8FBS6UpmuzaGn76)  |
+|  [![Una campana fosca penja entre murs de pedra en un campanar, fotografiada des de baix.](https://lh6.googleusercontent.com/-rK6og5MvOjE/U_0c_JCwSBI/AAAAAAAESUM/KH5tTgmO4Zg/s640/HomeDev%252321%2520-%2520Pentax%2520K1000%2520-%2520%2520Ilford%2520HP5%2520Plus%2520400%2520-%2520003.jpg)](https://photos.app.goo.gl/ZL8FBS6UpmuzaGn76)  |
 | --- |
 | De [HomeDev#21 - Pentax K1000 - Ilford HP5 Plus 400](https://photos.app.goo.gl/ZL8FBS6UpmuzaGn76) |

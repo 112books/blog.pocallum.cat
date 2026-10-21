@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2016/01/4675-LC-A120-Pro
 image: https://lh3.googleusercontent.com/-qozVv0yiwWw/VpbOeY8SzmI/AAAAAAAE-hM/eGd1ogaEEYQ/s640-Ic42/4675%252520-%252520LC-A120%252520-%252520Provia%252520004.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-qozVv0yiwWw/VpbOeY8SzmI/AAAAAAAE-hM/eGd1ogaEEYQ/s640-Ic42/4675%252520-%252520LC-A120%252520-%252520Provia%252520004.jpg)](https://photos.app.goo.gl/ErgtyvKZuHhMYCQ8A)  |
+|  [![Un monument vertical s'alça al mig d'un riu verd, reflectint-se a l'aigua, amb edificis a la riba dreta.](https://lh3.googleusercontent.com/-qozVv0yiwWw/VpbOeY8SzmI/AAAAAAAE-hM/eGd1ogaEEYQ/s640-Ic42/4675%252520-%252520LC-A120%252520-%252520Provia%252520004.jpg)](https://photos.app.goo.gl/ErgtyvKZuHhMYCQ8A)  |
 | --- |
 | De [4675 - LC-A120 - FUJICHROME PROVIA 100F](https://photos.app.goo.gl/ErgtyvKZuHhMYCQ8A) |

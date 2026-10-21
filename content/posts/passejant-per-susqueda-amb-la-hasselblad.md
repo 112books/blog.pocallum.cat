@@ -28,7 +28,7 @@ description: "Escapada fotogràfica a Susqueda amb la Hasselblad 500CM. Descobre
 title-seo: "Susqueda amb la Hasselblad – escapada fotogràfica a la natura"
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/10/2025-10-15-Hasselblad500CM-RolleiRPX100@200-Susqueda-B-0019-1-1017x1024.jpg)](https://photos.app.goo.gl/BrjGbdFWhdSi5WwM9)
+[![Un llac tranquil reflecteix els grans núvols i les muntanyes del fons en una imatge en blanc i negre.](https://blog.pocallum.cat/wp-content/uploads/2025/10/2025-10-15-Hasselblad500CM-RolleiRPX100@200-Susqueda-B-0019-1-1017x1024.jpg)](https://photos.app.goo.gl/BrjGbdFWhdSi5WwM9)
 
   
 Gos que és un, normalment opto per altres càmeres per sortir a copsar la natura, però de tant en tant m’alegro d’haver escollit el mig format i, més concretament, la meva estimada **Hasselblad 500CM**.
@@ -37,7 +37,7 @@ El passat dimecres, l’amic i company d’aventures fotogràfiques **Manel “U
 
 <figure>
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/10/P4810878-1024x683.jpg)
+![Home calb amb ulleres subjecta una càmera fotogràfica davant d'una casa de pedra i uns arbres grans.](https://blog.pocallum.cat/wp-content/uploads/2025/10/P4810878-1024x683.jpg)
 
 <figcaption>
 

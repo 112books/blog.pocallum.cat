@@ -13,6 +13,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/08/2485-Diana-CN400
 image: https://lh5.googleusercontent.com/-mylozBF7_0s/UiGf-0GU5vI/AAAAAAAD4y4/lAOyKn0qPwI/s640/2485%2520-%2520Diana%2520-%2520CN400%2520-%2520002.jpg
 ---
 
-|  [![](https://lh5.googleusercontent.com/-mylozBF7_0s/UiGf-0GU5vI/AAAAAAAD4y4/lAOyKn0qPwI/s640/2485%2520-%2520Diana%2520-%2520CN400%2520-%2520002.jpg)](https://photos.app.goo.gl/R6t92F4XjRNDNU3d8)  |
+|  [![Banyistes nedant en una cala d'aigua turquesa amb vaixells ancorats, vorejada de roques fosques al davant.](https://lh5.googleusercontent.com/-mylozBF7_0s/UiGf-0GU5vI/AAAAAAAD4y4/lAOyKn0qPwI/s640/2485%2520-%2520Diana%2520-%2520CN400%2520-%2520002.jpg)](https://photos.app.goo.gl/R6t92F4XjRNDNU3d8)  |
 | --- |
 | De [2485 - Diana +F - CN 400](https://photos.app.goo.gl/R6t92F4XjRNDNU3d8) |

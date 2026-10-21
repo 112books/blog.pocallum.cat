@@ -11,7 +11,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2025/02/2025-02-20-Nikon
 image: https://blog.pocallum.cat/wp-content/uploads/2025/02/2025-02-20-NikonFM-APX400@1600-Expo-CandF-0008-1024x678.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/02/2025-02-20-NikonFM-APX400@1600-Expo-CandF-0008-1024x678.jpg)](https://photos.app.goo.gl/L2MtzpPUqrcGe38W8)
+[![Una dona somrient subjecta una càmera analògica davant la cara en un bar amb quadres a la paret.](https://blog.pocallum.cat/wp-content/uploads/2025/02/2025-02-20-NikonFM-APX400@1600-Expo-CandF-0008-1024x678.jpg)](https://photos.app.goo.gl/L2MtzpPUqrcGe38W8)
 
 Ahir, dijous 20 de febrer, vam viure una nit especial a [Cameras and Films](https://www.instagram.com/camerasandfilms.barcelona/) amb la inauguració de l’exposició del fotògraf estatunidenc [Bejan Siavoshy](https://www.instagram.com/bigbej/). Si no poguéreu assistir, ara teniu l’oportunitat de reviure l’ambient de la festa a través de les imatges que vam capturar durant l’esdeveniment.
 

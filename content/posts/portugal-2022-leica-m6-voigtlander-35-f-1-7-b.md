@@ -10,4 +10,4 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2022/09/2022-08-31-LM6-R
 image: https://lh3.googleusercontent.com/pw/AL9nZEV-rbBCwNCywRoQGCIQ8xTIFyzorfQGPvTn1xUIviT3mjk5UK7g5vqYPKK8qFVw3i8npHloSnCiA4WJt5Nz04vXfYDSPRa3W2YkvQqvjdmV8dKKzM6bKsVPFWLjdVb5UV1TVeGvAMx71NJeLoR1GkJE7A=w1643-h1096-no?authuser=0
 ---
 
-[![](https://lh3.googleusercontent.com/pw/AL9nZEV-rbBCwNCywRoQGCIQ8xTIFyzorfQGPvTn1xUIviT3mjk5UK7g5vqYPKK8qFVw3i8npHloSnCiA4WJt5Nz04vXfYDSPRa3W2YkvQqvjdmV8dKKzM6bKsVPFWLjdVb5UV1TVeGvAMx71NJeLoR1GkJE7A=w1643-h1096-no?authuser=0)](https://photos.app.goo.gl/b45587QPXyn3cjQs7)
+[![Un carretó de mà ple de grans cols s'atura sobre el paviment de llambordes davant d'un comerç.](https://lh3.googleusercontent.com/pw/AL9nZEV-rbBCwNCywRoQGCIQ8xTIFyzorfQGPvTn1xUIviT3mjk5UK7g5vqYPKK8qFVw3i8npHloSnCiA4WJt5Nz04vXfYDSPRa3W2YkvQqvjdmV8dKKzM6bKsVPFWLjdVb5UV1TVeGvAMx71NJeLoR1GkJE7A=w1643-h1096-no?authuser=0)](https://photos.app.goo.gl/b45587QPXyn3cjQs7)

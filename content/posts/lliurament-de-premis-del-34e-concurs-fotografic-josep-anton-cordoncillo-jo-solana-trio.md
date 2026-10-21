@@ -20,7 +20,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2024/12/DSCF6892-1-1024x683.
 description: "Ahir es va celebrar la trenta-quatrena edició del Concurs Fotogràfic Josep Antón Cordoncillo al Casal de Prosperitat, amb un recital de Jo Solana Trio i una exposició de les millors fotografies presentades. Encara podeu visitar l’exposició fins al 30 de desembre!"
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/12/DSCF6892-1-1024x683.jpg)](https://photos.app.goo.gl/CK8foCZ9aQ2nT8dCA)
+[![Tres músics toquen el violí, la guitarra i el contrabaix en un escenari amb fotografies a la paret.](https://blog.pocallum.cat/wp-content/uploads/2024/12/DSCF6892-1-1024x683.jpg)](https://photos.app.goo.gl/CK8foCZ9aQ2nT8dCA)
 
 ## Lliurament de premis del 34è Concurs Fotogràfic Josep Antón Cordoncillo
 
@@ -38,11 +38,11 @@ L’acte de lliurament de premis, que va tenir lloc a les 20 h, va comptar amb l
 
 Gràcies a totes les persones que han participat i felicitats als guanyadors d’enguany!
 
-![](https://blog.pocallum.cat/wp-content/uploads/2024/12/DSCF6907-1024x683.jpg)
+![Una dona amb ulleres i un home miren un home jove que parla per un micròfon en una sala d'exposicions amb fotos penjades.](https://blog.pocallum.cat/wp-content/uploads/2024/12/DSCF6907-1024x683.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2024/12/DSCF6910-1024x683.jpg)
+![Tres homes somriuen dempeus en una galeria d'art amb fotografies emmarcades a la paret; un d'ells sosté un llibre.](https://blog.pocallum.cat/wp-content/uploads/2024/12/DSCF6910-1024x683.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2024/12/DSCF6914-1024x683.jpg)
+![Dos homes somriuen davant una paret plena de fotografies en blanc i negre; el de l'esquerra sosté una càmera.](https://blog.pocallum.cat/wp-content/uploads/2024/12/DSCF6914-1024x683.jpg)
 
 **Premiats:**
 

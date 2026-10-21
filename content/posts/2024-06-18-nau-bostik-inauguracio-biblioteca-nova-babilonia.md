@@ -11,7 +11,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/06/L1450416.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2024/06/L1450416-1024x683.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/06/L1450416-1024x683.jpg)](https://photos.app.goo.gl/tsiaEwrmhWZwinz28)
+[![Un grup de persones dretes al voltant d'una taula amb begudes escolten una dona en una sala plena de llibres.](https://blog.pocallum.cat/wp-content/uploads/2024/06/L1450416-1024x683.jpg)](https://photos.app.goo.gl/tsiaEwrmhWZwinz28)
 
 Aquest dimarts s'ha inaugurat, dins la [Nau Botik](https://naubostik.com/), la [Biblioteca Nova Babilònia](https://naubostik.com/visitans/primera-planta/biblioteca/). Aquesta nova biblioteca vol ser popular i social, oberta a tothom, especialitzada en arquitectura, urbanisme, art, fotografia, Barcelona -i els seus barris- i teoria política.
 

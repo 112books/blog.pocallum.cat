@@ -15,6 +15,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/02/IMG_6982.jpg
 image: https://lh6.googleusercontent.com/-1UHDl6zhigg/T0mW1nHmj1I/AAAAAAACjjQ/piD7odjTPCw/s800/IMG_6982.jpg
 ---
 
-|  [![](https://lh6.googleusercontent.com/-1UHDl6zhigg/T0mW1nHmj1I/AAAAAAACjjQ/piD7odjTPCw/s800/IMG_6982.jpg)](https://photos.app.goo.gl/jfG3FgiLn5nLmhfg8)  |
+|  [![Músics assagen en una sala àmplia; en primer pla, un home amb camisa de ratlles de colors i un guitarrista d'esquena.](https://lh6.googleusercontent.com/-1UHDl6zhigg/T0mW1nHmj1I/AAAAAAACjjQ/piD7odjTPCw/s800/IMG_6982.jpg)](https://photos.app.goo.gl/jfG3FgiLn5nLmhfg8)  |
 | --- |
 | De [9binblack -Divendres al Casal de Prosperitat](https://photos.app.goo.gl/jfG3FgiLn5nLmhfg8) |

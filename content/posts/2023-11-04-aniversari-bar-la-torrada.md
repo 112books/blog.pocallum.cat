@@ -11,6 +11,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2023/11/L1370015.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2023/11/L1370015-1024x576.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2023/11/L1370015-1024x576.jpg)](https://photos.app.goo.gl/xPGMyoNim9iZs3Q56)
+[![Una dona darrere d'un taulell ple de menjar i cervesa parla animadament, amb altres persones al darrere.](https://blog.pocallum.cat/wp-content/uploads/2023/11/L1370015-1024x576.jpg)](https://photos.app.goo.gl/xPGMyoNim9iZs3Q56)
 
 I ja establerta com una nova tradició, el Bar La Torrada de la Plaça Ángel Pestaña l'embolica grosa pel seu aniversari. Enguany amb Morosito que estan justament de gira per Europa i han pogut fer un forat. Forat que es pot tapar amb els pinxos que els amics de la torrada posen amb els beures.

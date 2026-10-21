@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2014/12/IMG_8187.jpg
 image: https://lh4.googleusercontent.com/-gqNiV6uDkcs/VJpM1_-GXLI/AAAAAAAEgqQ/iO6bNRkBKp4/s640/IMG_8187.jpg
 ---
 
-|  [![](https://lh4.googleusercontent.com/-gqNiV6uDkcs/VJpM1_-GXLI/AAAAAAAEgqQ/iO6bNRkBKp4/s640/IMG_8187.jpg)](https://photos.app.goo.gl/q9cGEAWjbznXYkPY9)  |
+|  [![Dues persones actuen en un escenari fosc de cabaret, una amb lligues i l'altra amb pantalons amples, sota un rètol de neó.](https://lh4.googleusercontent.com/-gqNiV6uDkcs/VJpM1_-GXLI/AAAAAAAEgqQ/iO6bNRkBKp4/s640/IMG_8187.jpg)](https://photos.app.goo.gl/q9cGEAWjbznXYkPY9)  |
 | --- |
 | De ["Taboo" a l'Apolo amb la Barcelona Big Blues Band](https://photos.app.goo.gl/q9cGEAWjbznXYkPY9) |

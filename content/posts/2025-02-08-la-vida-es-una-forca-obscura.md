@@ -23,7 +23,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2025/02/DSCF8179-1024x577.jp
 description: "Descobreix ‘La vida és una força obscura’, l’espectacle del Colectivo Ameno i Danilo Facelli que combina teatre, poesia i humor crític. Una experiència única al Casal de Barri de Prosperitat."
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/02/DSCF8179-1024x577.jpg)](https://photos.app.goo.gl/x2M6NyhNbRRGMyS3A)
+[![Dos artistes actuen en un escenari il·luminat davant del públic assegut a les fosques en un local de Barcelona.](https://blog.pocallum.cat/wp-content/uploads/2025/02/DSCF8179-1024x577.jpg)](https://photos.app.goo.gl/x2M6NyhNbRRGMyS3A)
 
 Vespre de teatre, vespre de cultura. Aquest dissabte al [Casal de Barri de Prosperitat](https://www.casalprospe.org) hem tingut el privilegi de gaudir de “La vida és una força obscura”, una performance site-specific itinerant que combina teatre de carrer, poesia, filosofia, política i molt d’humor.
 

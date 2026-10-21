@@ -26,7 +26,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2024/11/2024-11-01-LM6-APX40
 description: "En aquest article, comparteixo les meves fotografies de tardor capturades durant una escapada amb el meu amic Manel 'Ulls' a les muntanyes del Montseny. Utilitzo pel·lícula en blanc i negre, una càmera clàssica Sumaron de 35mm i revelo les imatges amb Rodinal per obtenir resultats autèntics. Descobreix la meva feina i els moments viscuts en aquesta jornada."
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/11/2024-11-01-LM6-APX400-R150-Lomo-Montseny-0023-607x1024.jpg)](https://photos.app.goo.gl/YAjDMyZBLvqpiKo36)
+[![Carretera de muntanya buida fent una corba a l'esquerra, amb barana metàl·lica i un bosc dens en blanc i negre.](https://blog.pocallum.cat/wp-content/uploads/2024/11/2024-11-01-LM6-APX400-R150-Lomo-Montseny-0023-607x1024.jpg)](https://photos.app.goo.gl/YAjDMyZBLvqpiKo36)
 
 Com és d'esperar, quan faig fotografia per gust el que m'agrada és utilitzar pel·lícula en la seva versió blanc i negre. Sempre m'ha agradat haver d'utilitzar la imaginació per imaginar-me els colors, els tons, la saturació... Tal vegada serà per haver crescut amb la televisió sense colors, però jo veia perfectament els hipopòtams de color rosa, la Marilyn rossa i amb vestit vermell.
 

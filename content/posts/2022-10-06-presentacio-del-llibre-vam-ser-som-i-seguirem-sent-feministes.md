@@ -10,7 +10,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2022/10/L1290584.jpg
 image: https://lh3.googleusercontent.com/pw/AL9nZEWkxpv6CbwFkh_ByI-6_nqwJb_0OjrQBeVMqfkcmrvCJNpPgL_abTByNYZiTf5AJFsj1SJzLB9fETlS6LbAYyQ3nyHZ4K8SgtD6RhGBS4Dfp_uytpKEXCpCKdLFLbgEfx-ZMf_bcT9RMIzlrfsFSM0_FQ=w1608-h905-no?authuser=0
 ---
 
-[![](https://lh3.googleusercontent.com/pw/AL9nZEWkxpv6CbwFkh_ByI-6_nqwJb_0OjrQBeVMqfkcmrvCJNpPgL_abTByNYZiTf5AJFsj1SJzLB9fETlS6LbAYyQ3nyHZ4K8SgtD6RhGBS4Dfp_uytpKEXCpCKdLFLbgEfx-ZMf_bcT9RMIzlrfsFSM0_FQ=w1608-h905-no?authuser=0)](https://photos.app.goo.gl/CwToXfb1E6AhPx9G9)
+[![Ponents en una taula davant d'un públic assegut en una sala, amb una pantalla que projecta una manifestació al fons.](https://lh3.googleusercontent.com/pw/AL9nZEWkxpv6CbwFkh_ByI-6_nqwJb_0OjrQBeVMqfkcmrvCJNpPgL_abTByNYZiTf5AJFsj1SJzLB9fETlS6LbAYyQ3nyHZ4K8SgtD6RhGBS4Dfp_uytpKEXCpCKdLFLbgEfx-ZMf_bcT9RMIzlrfsFSM0_FQ=w1608-h905-no?authuser=0)](https://photos.app.goo.gl/CwToXfb1E6AhPx9G9)
 
 **Presentació del llibre** V_am ser, som i seguirem sent feministes. Trajectòria de la Vocalia de Dones de l'AV de Prosperitat i del Grup de Dones 9 Barris_. 
 

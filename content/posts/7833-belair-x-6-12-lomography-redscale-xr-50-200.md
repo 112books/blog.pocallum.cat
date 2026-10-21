@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2014/05/7833-Belair-RS50
 image: https://lh5.googleusercontent.com/-WxFzCGlPGEc/U2IUvrNoBFI/AAAAAAAEH8s/pSBOucYJAFc/s640/7833%2520-%2520Belair%2520-%2520RS50%2520-%2520006.jpg
 ---
 
-|  [![](https://lh5.googleusercontent.com/-WxFzCGlPGEc/U2IUvrNoBFI/AAAAAAAEH8s/pSBOucYJAFc/s640/7833%2520-%2520Belair%2520-%2520RS50%2520-%2520006.jpg)](https://photos.app.goo.gl/tQtFRPLgMku9CFYz7)  |
+|  [![Dues persones contemplen l'skyline de Barcelona des d'un mirador a la posta de sol.](https://lh5.googleusercontent.com/-WxFzCGlPGEc/U2IUvrNoBFI/AAAAAAAEH8s/pSBOucYJAFc/s640/7833%2520-%2520Belair%2520-%2520RS50%2520-%2520006.jpg)](https://photos.app.goo.gl/tQtFRPLgMku9CFYz7)  |
 | --- |
 | De [7833 - Belair X 6-12 - Lomography Redscale XR 50-200](https://photos.app.goo.gl/tQtFRPLgMku9CFYz7) |

@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/01/20110220220219_p
 image: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_1745.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_1745.jpg)](https://photos.app.goo.gl/d2e44hqzxT6yzE8S8)
+[![Un músic canta i toca la guitarra sota focus de llum en un escenari fosc, davant d'un públic en silueta.](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_1745.jpg)](https://photos.app.goo.gl/d2e44hqzxT6yzE8S8)
 
 Sota aquest eslògan, els grups Dj Raúl, Musicoterapia, Fanfarria Contratempo, Herederos del Taxi, Buritaka Worldbeat, Always Drinking Marching Band, Lo Petit Comité, Karaoke Band i Fufü Ai van col·laborar en la iniciativa dels Pigme@s Revoltos@s & CIA a L'Ateneu Popular de Nou Barris

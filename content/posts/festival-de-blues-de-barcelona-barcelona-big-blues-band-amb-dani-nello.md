@@ -10,4 +10,4 @@ tags: []
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2020/07/L1260594-1024x576-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2020/07/L1260594-1024x576.jpg
 ---
-[![](https://blog.pocallum.cat/wp-content/uploads/2020/07/L1260594-1024x576.jpg)](https://photos.app.goo.gl/SVZfmyzFmLfbQ3rr7)
+[![Un grup de jazz toca en un escenari fosc, amb un pianista assegut i un contrabaixista dempeus gesticulant.](https://blog.pocallum.cat/wp-content/uploads/2020/07/L1260594-1024x576.jpg)](https://photos.app.goo.gl/SVZfmyzFmLfbQ3rr7)

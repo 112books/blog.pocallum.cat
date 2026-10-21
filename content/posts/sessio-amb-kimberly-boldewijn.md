@@ -17,4 +17,4 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2019/08/4x5-Kimberly-Bol
 image: https://blog.pocallum.cat/wp-content/uploads/2019/08/4x5-Kimberly-Boldewijn-002-819x1024.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2019/08/4x5-Kimberly-Boldewijn-002-819x1024.jpg)](https://photos.app.goo.gl/xMfjmH3WXvrpDrgK9)
+[![Dona amb turbant i ulleres blanques posa en un estudi fosc, amb una mà al cap i l'altra al maluc.](https://blog.pocallum.cat/wp-content/uploads/2019/08/4x5-Kimberly-Boldewijn-002-819x1024.jpg)](https://photos.app.goo.gl/xMfjmH3WXvrpDrgK9)

@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2014/12/673113.jpg
 image: https://lh5.googleusercontent.com/-bGO2CuPALc0/VKP_iROIcII/AAAAAAAEiQU/U-kXoRdb5hA/s640/673113.jpg
 ---
 
-|    [![](https://lh5.googleusercontent.com/-bGO2CuPALc0/VKP_iROIcII/AAAAAAAEiQU/U-kXoRdb5hA/s640/673113.jpg)](https://photos.app.goo.gl/GqW47A7Gvd1Y8UkBA)  |
+|    [![Plànols de línies d'autobús de Barcelona penjats en un panell, amb dibuixos d'estels blaus brillants sobreposats.](https://lh5.googleusercontent.com/-bGO2CuPALc0/VKP_iROIcII/AAAAAAAEiQU/U-kXoRdb5hA/s640/673113.jpg)](https://photos.app.goo.gl/GqW47A7Gvd1Y8UkBA)  |
 | --- |
 | De [Film Swap with hey\_springtime](https://photos.app.goo.gl/GqW47A7Gvd1Y8UkBA) |

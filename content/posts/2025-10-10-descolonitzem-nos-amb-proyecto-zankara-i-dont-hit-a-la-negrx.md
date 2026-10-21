@@ -30,7 +30,7 @@ description: "Vetllada al Casal de Barri de Prosperitat amb Proyecto Zankara i D
 title-seo: "Descolonitzem-nos! amb Proyecto Zankara i Don’t Hit a la Negrx"
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/10/IMG_1208-1024x683.jpg)](https://photos.app.goo.gl/8tJsjXjd32qKvuTc6)
+[![Un DJ amb cabells llargs punxa música en un escenari fosc amb llums liles i blaves.](https://blog.pocallum.cat/wp-content/uploads/2025/10/IMG_1208-1024x683.jpg)](https://photos.app.goo.gl/8tJsjXjd32qKvuTc6)
 
 Aquest divendres, el [Casal de Barri de Prosperitat](https://www.casalprospe.org/) ha acollit una doble actuació sota el lema **Descolonitzem-nos!**, una proposta que va convertir l’escenari en un espai de trobada, diversitat i resistència compartida.
 

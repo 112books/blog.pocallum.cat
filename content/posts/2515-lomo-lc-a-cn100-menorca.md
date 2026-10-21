@@ -18,6 +18,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/08/2515-Lomo-LC-A-C
 image: https://lh3.googleusercontent.com/-fCOvr6JjqVE/Uh9y2sPhPFI/AAAAAAAD4VM/OJocG3pNDd4/s640/2515%2520-%2520Lomo%2520LC-A%2520-%2520CN100%2520-%2520039.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-fCOvr6JjqVE/Uh9y2sPhPFI/AAAAAAAD4VM/OJocG3pNDd4/s640/2515%2520-%2520Lomo%2520LC-A%2520-%2520CN100%2520-%2520039.jpg)](https://photos.app.goo.gl/QH7Fv2ff37KJjpgC6)  |
+|  [![Penya-segats rocosos amb vegetació emmarquen una cala d'aigües tranquil·les sota un cel clar.](https://lh3.googleusercontent.com/-fCOvr6JjqVE/Uh9y2sPhPFI/AAAAAAAD4VM/OJocG3pNDd4/s640/2515%2520-%2520Lomo%2520LC-A%2520-%2520CN100%2520-%2520039.jpg)](https://photos.app.goo.gl/QH7Fv2ff37KJjpgC6)  |
 | --- |
 | De [2515 - Lomo LC-A - CN100](https://photos.app.goo.gl/QH7Fv2ff37KJjpgC6) |

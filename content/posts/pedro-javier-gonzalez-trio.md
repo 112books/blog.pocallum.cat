@@ -14,6 +14,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/12/IMG_2827.jpg
 image: https://lh6.googleusercontent.com/-AJAYlvZF8eo/UptJiAyWNWI/AAAAAAAD-Bg/kFfBfla1aHo/s640/IMG_2827.jpg
 ---
 
-|  [![](https://lh6.googleusercontent.com/-AJAYlvZF8eo/UptJiAyWNWI/AAAAAAAD-Bg/kFfBfla1aHo/s640/IMG_2827.jpg)](https://photos.app.goo.gl/RfAwmemqMdeQ5b586)  |
+|  [![Tres músics toquen en directe en un escenari fosc; destaca el bateria en primer pla i el guitarrista assegut al focus.](https://lh6.googleusercontent.com/-AJAYlvZF8eo/UptJiAyWNWI/AAAAAAAD-Bg/kFfBfla1aHo/s640/IMG_2827.jpg)](https://photos.app.goo.gl/RfAwmemqMdeQ5b586)  |
 | --- |
 | De [Pedro Javier Gonzalez Trio](https://photos.app.goo.gl/RfAwmemqMdeQ5b586) |

@@ -11,6 +11,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/03/2024-03-21-LCa-F
 image: https://blog.pocallum.cat/wp-content/uploads/2024/03/2024-03-21-LCa-Foma100@100-Varis-021-1024x612.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/03/2024-03-21-LCa-Foma100@100-Varis-021-1024x612.jpg)](https://photos.app.goo.gl/CMZp9Nwu3c1fTv43A)
+[![Branques nues i retorçades d'arbres es dibuixen en silueta contra un cel clar i lluminós.](https://blog.pocallum.cat/wp-content/uploads/2024/03/2024-03-21-LCa-Foma100@100-Varis-021-1024x612.jpg)](https://photos.app.goo.gl/CMZp9Nwu3c1fTv43A)
 
 Setmana d'experimentació amb nocturnitat i llargues exposicions amb la petita Lomography LC-A+ i pel·lícula Fomapan 100.

@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2014/04/942601JoanLomogr
 image: https://lh4.googleusercontent.com/-dLlScqd0xEs/Uz7ZQwuu-nI/AAAAAAAEFTA/FtpJtz9wdWY/s640/942601JoanLomography.jpg
 ---
 
-|  [![](https://lh4.googleusercontent.com/-dLlScqd0xEs/Uz7ZQwuu-nI/AAAAAAAEFTA/FtpJtz9wdWY/s640/942601JoanLomography.jpg)](https://photos.app.goo.gl/mSZEVeu4ZjnKuQgq9)  |
+|  [![Dues figures amb cap de porc sostenen càmeres fotogràfiques en un mural urbà.](https://lh4.googleusercontent.com/-dLlScqd0xEs/Uz7ZQwuu-nI/AAAAAAAEFTA/FtpJtz9wdWY/s640/942601JoanLomography.jpg)](https://photos.app.goo.gl/mSZEVeu4ZjnKuQgq9)  |
 | --- |
 | De [Taller - Diálogos con la Diana F+ - Barcelona](https://photos.app.goo.gl/mSZEVeu4ZjnKuQgq9) |

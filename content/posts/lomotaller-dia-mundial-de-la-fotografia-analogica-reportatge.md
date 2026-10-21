@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2015/04/900535JoanLomogr
 image: https://lh3.googleusercontent.com/-Jg091Ie2sy8/VS_8rQMKVHI/AAAAAAAEqyQ/48S-eV6su-Q/s640/900535JoanLomography.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-Jg091Ie2sy8/VS_8rQMKVHI/AAAAAAAEqyQ/48S-eV6su-Q/s640/900535JoanLomography.jpg)](https://photos.app.goo.gl/hoWxbZZzqXEBARnF7)  |
+|  [![Una dona amb una bufanda taronja mira a càmera des de dins d'un telefèric amb vistes al port de Barcelona.](https://lh3.googleusercontent.com/-Jg091Ie2sy8/VS_8rQMKVHI/AAAAAAAEqyQ/48S-eV6su-Q/s640/900535JoanLomography.jpg)](https://photos.app.goo.gl/hoWxbZZzqXEBARnF7)  |
 | --- |
 | De [Lomotaller "Día Mundial de la fotografía analógica" Reportatge](https://photos.app.goo.gl/hoWxbZZzqXEBARnF7) |

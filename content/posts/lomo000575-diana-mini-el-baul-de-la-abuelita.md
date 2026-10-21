@@ -14,6 +14,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/07/057503.jpg
 image: https://lh6.googleusercontent.com/-YdqtAXwCu-0/Ud88UCHyBrI/AAAAAAADymI/RxNxwDCt8GE/s640/057503.jpg
 ---
 
-|  [![](https://lh6.googleusercontent.com/-YdqtAXwCu-0/Ud88UCHyBrI/AAAAAAADymI/RxNxwDCt8GE/s640/057503.jpg)](https://photos.app.goo.gl/hrCfGApyLYxcvxb49)  |
+|  [![Un home amb barret mira un cotxe clàssic vermell aparcat davant d'un edifici alt en un passeig assolellat.](https://lh6.googleusercontent.com/-YdqtAXwCu-0/Ud88UCHyBrI/AAAAAAADymI/RxNxwDCt8GE/s640/057503.jpg)](https://photos.app.goo.gl/hrCfGApyLYxcvxb49)  |
 | --- |
 | De [lomo000575 - Diana Mini - El Baul de la Abuelita](https://photos.app.goo.gl/hrCfGApyLYxcvxb49) |

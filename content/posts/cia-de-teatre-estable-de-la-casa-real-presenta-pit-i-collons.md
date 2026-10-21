@@ -14,6 +14,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2014/01/IMG_2793.jpg
 image: https://lh4.googleusercontent.com/-esZxvjLhGEE/UtsqA1TlKAI/AAAAAAAEA2s/4jeJBpoEra4/s640/IMG_2793.jpg
 ---
 
-|  [![](https://lh4.googleusercontent.com/-esZxvjLhGEE/UtsqA1TlKAI/AAAAAAAEA2s/4jeJBpoEra4/s640/IMG_2793.jpg)](https://photos.app.goo.gl/g9ywRCatHi96Bzvp6)  |
+|  [![Tres dones i un home amb samarretes taronges assagen una peça teatral en un escenari fosc de fusta.](https://lh4.googleusercontent.com/-esZxvjLhGEE/UtsqA1TlKAI/AAAAAAAEA2s/4jeJBpoEra4/s640/IMG_2793.jpg)](https://photos.app.goo.gl/g9ywRCatHi96Bzvp6)  |
 | --- |
 | De [Cia. de Teatre Estable de la Casa Real presenta "pit i collons"](https://photos.app.goo.gl/g9ywRCatHi96Bzvp6) |

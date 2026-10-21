@@ -12,7 +12,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2016/03/9796-Portra160-0
 image: https://lh3.googleusercontent.com/-JcJNKBkQP_Q/Vv1Zr5P42dI/AAAAAAAFClU/casmebke4Ww4RdCTnRH8BmaISWBEijb_gCCo/s640-Ic42/9796%2B-%2BPortra160%2B-%2B012.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-JcJNKBkQP_Q/Vv1Zr5P42dI/AAAAAAAFClU/casmebke4Ww4RdCTnRH8BmaISWBEijb_gCCo/s640-Ic42/9796%2B-%2BPortra160%2B-%2B012.jpg)](https://photos.app.goo.gl/y4zNgVbNYuC9FKRn7)  |
+|  [![Un camí de terra buit s'allarga cap a l'horitzó sota un cel blau amb núvols i arbres foscos a la dreta.](https://lh3.googleusercontent.com/-JcJNKBkQP_Q/Vv1Zr5P42dI/AAAAAAAFClU/casmebke4Ww4RdCTnRH8BmaISWBEijb_gCCo/s640-Ic42/9796%2B-%2BPortra160%2B-%2B012.jpg)](https://photos.app.goo.gl/y4zNgVbNYuC9FKRn7)  |
 | --- |
 | De [9796 - Noon Pinhole - Portra160 - Griegos](https://photos.app.goo.gl/y4zNgVbNYuC9FKRn7) |
 

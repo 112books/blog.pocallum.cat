@@ -22,7 +22,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2025/02/DSCF9096-1024x577.jp
 description: "Descobreix les imatges de la nit de rock amb The Replicants i Inoxidables al Casal de barri de Prosperitat. Versions de clàssics dels 70 i 80 en un ambient comunitari. Feu clic per veure l’àlbum fotogràfic!"
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/02/DSCF9096-1024x577.jpg)](https://photos.app.goo.gl/KqKuEgsNuu1nyUGZ9)
+[![Un baixista canta intensament en primer pla en un concert fosc, amb un altre músic al darrere tocant-se el cap.](https://blog.pocallum.cat/wp-content/uploads/2025/02/DSCF9096-1024x577.jpg)](https://photos.app.goo.gl/KqKuEgsNuu1nyUGZ9)
 
 ## Gran nit de rock de kilòmetre zero a la Prosperitat!
 

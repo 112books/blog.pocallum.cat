@@ -10,7 +10,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2023/09/DSF3719-1024x683
 image: https://blog.pocallum.cat/wp-content/uploads/2023/09/DSF3719-1024x683.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2023/09/DSF3719-1024x683.jpg)](https://photos.app.goo.gl/5MQ9BwkLAxRVF7Sn7)
+[![La Cifra Negra & The Mothercrow al Casal de Prosperitat](https://blog.pocallum.cat/wp-content/uploads/2023/09/DSF3719-1024x683.jpg)](https://photos.app.goo.gl/5MQ9BwkLAxRVF7Sn7)
 
 I retornem al Casal de Barri de Prosperitat amb el concert d'inici de la temporada que inclou les actuacions de:
 

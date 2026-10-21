@@ -12,7 +12,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/05/IMG_0457.jpg
 image: https://lh6.googleusercontent.com/-ISBN_GAbI5M/T6U5t7sh9gI/AAAAAAAC9b0/GTlGXSJijMA/s640/IMG_0457.jpg
 ---
 
-|  [![](https://lh6.googleusercontent.com/-ISBN_GAbI5M/T6U5t7sh9gI/AAAAAAAC9b0/GTlGXSJijMA/s640/IMG_0457.jpg)](https://photos.app.goo.gl/HyWcj9NgiaLpqVkA9)  |
+|  [![Dona cantant amb passió i la mà alçada davant d'un micròfon en un escenari fosc.](https://lh6.googleusercontent.com/-ISBN_GAbI5M/T6U5t7sh9gI/AAAAAAAC9b0/GTlGXSJijMA/s640/IMG_0457.jpg)](https://photos.app.goo.gl/HyWcj9NgiaLpqVkA9)  |
 | --- |
 | De [Framenco de Barri 2012](https://photos.app.goo.gl/HyWcj9NgiaLpqVkA9) |
 

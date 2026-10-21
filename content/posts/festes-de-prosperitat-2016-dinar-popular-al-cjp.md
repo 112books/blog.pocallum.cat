@@ -10,7 +10,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2016/06/DSCF1595.jpg
 image: https://lh3.googleusercontent.com/-9dHV9EbK3FE/V077L_t598I/AAAAAAAFMEk/6ie-92-2cwUgUStv5KrWjHDDMMqxiHnlgCCo/s640/DSCF1595.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-9dHV9EbK3FE/V077L_t598I/AAAAAAAFMEk/6ie-92-2cwUgUStv5KrWjHDDMMqxiHnlgCCo/s640/DSCF1595.jpg)](https://photos.app.goo.gl/MFC43iueUkQDMgsP8)  |
+|  [![Paella gegant amb restes de menjar i estris de cuina en acabar un àpat popular a l'aire lliure.](https://lh3.googleusercontent.com/-9dHV9EbK3FE/V077L_t598I/AAAAAAAFMEk/6ie-92-2cwUgUStv5KrWjHDDMMqxiHnlgCCo/s640/DSCF1595.jpg)](https://photos.app.goo.gl/MFC43iueUkQDMgsP8)  |
 | --- |
 | De [Festes de Prosperitat 2016 - Dinar popular al CJP](https://photos.app.goo.gl/MFC43iueUkQDMgsP8) |
 

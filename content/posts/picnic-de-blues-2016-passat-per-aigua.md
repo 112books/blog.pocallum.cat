@@ -19,7 +19,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2016/05/DSCF0503-1024x683.jp
 description: "Reviu el Pícnic de Blues de Nou Barris, un festival on la música, la improvisació i l'esperit blues van superar l'obstacle de la pluja."
 ---
 
-![](https://blog.pocallum.cat/wp-content/uploads/2016/05/DSCF0503-1024x683.jpg)
+![Un grup de persones s'aixopluguen de la pluja sota una carpa blanca en un parc, amb algú corrent a prop.](https://blog.pocallum.cat/wp-content/uploads/2016/05/DSCF0503-1024x683.jpg)
 
 ## Pícnic de Blues a Nou Barris: Música més enllà de la Pluja
 

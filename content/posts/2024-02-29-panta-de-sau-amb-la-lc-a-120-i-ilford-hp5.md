@@ -11,6 +11,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/03/2024-02-29-Panta
 image: https://blog.pocallum.cat/wp-content/uploads/2024/03/2024-02-29-Panta-de-Sau-LC-A120-HP5-B-0008-1024x1024.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/03/2024-02-29-Panta-de-Sau-LC-A120-HP5-B-0008-1024x1024.jpg)](https://photos.app.goo.gl/dxoZ4vzXTjbb7yGi7)
+[![Una boia jau sobre terra esquerdada en un paisatge desolat en blanc i negre amb turons i una torre al fons.](https://blog.pocallum.cat/wp-content/uploads/2024/03/2024-02-29-Panta-de-Sau-LC-A120-HP5-B-0008-1024x1024.jpg)](https://photos.app.goo.gl/dxoZ4vzXTjbb7yGi7)
 
 Més fotografies del pantà de Sau i el seu lamentable aspecte quasi but del tot. Les fotografies estan fetes amb la Lomography LC-A 120, que ara feia molt de temps que tenia amagada. Vistes des de dins del pantà i també des dels singles de Tavertet.

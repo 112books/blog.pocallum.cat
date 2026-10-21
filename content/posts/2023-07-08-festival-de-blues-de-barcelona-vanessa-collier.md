@@ -19,6 +19,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2023/07/Captura-de-panta
 image: https://blog.pocallum.cat/wp-content/uploads/2023/07/2023-07-07-Vanessa-Collier-LeicaM6-0226-1024x635.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2023/07/2023-07-07-Vanessa-Collier-LeicaM6-0226-1024x635.jpg)](https://photos.app.goo.gl/W5Vj4qmsYPquG6yh6)
+[![Una dona amb brusa lluent toca el saxofon en un escenari fosc, amb un baixista al fons.](https://blog.pocallum.cat/wp-content/uploads/2023/07/2023-07-07-Vanessa-Collier-LeicaM6-0226-1024x635.jpg)](https://photos.app.goo.gl/W5Vj4qmsYPquG6yh6)
 
 Increïble [Vanessa](https://www.vanessacollier.com/)! Una gran músic que a més de cantar, toca el Saxo i la guitarra elèctrica. Professionalitat i entrega absoluta ella i els seus acompanyants vinguts dels USA. El llistat de premis que ha obtingut diuen molt d'ella.

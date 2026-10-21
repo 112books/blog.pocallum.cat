@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2015/10/DSCF1055.jpg
 image: https://lh3.googleusercontent.com/-DdPMWfKBOWI/ViubYRMjsvI/AAAAAAAE5Aw/R-I9iFHfF7M/s640-Ic42/DSCF1055.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-DdPMWfKBOWI/ViubYRMjsvI/AAAAAAAE5Aw/R-I9iFHfF7M/s640-Ic42/DSCF1055.jpg)](https://photos.app.goo.gl/3jJNinuSegzhbWRe8)  |
+|  [![Set persones amb càmeres aixequen una mà en una plaça pública amb arbres i edificis al fons.](https://lh3.googleusercontent.com/-DdPMWfKBOWI/ViubYRMjsvI/AAAAAAAE5Aw/R-I9iFHfF7M/s640-Ic42/DSCF1055.jpg)](https://photos.app.goo.gl/3jJNinuSegzhbWRe8)  |
 | --- |
 | De [LomoTaller "No tengo ni idea" a a CaprilePhoto / Lomography Spain](https://photos.app.goo.gl/3jJNinuSegzhbWRe8) |

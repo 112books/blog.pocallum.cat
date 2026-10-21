@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2014/05/IMG_5387.jpg
 image: https://lh6.googleusercontent.com/-a_WNVNAWPRg/U4SwJLmpxGI/AAAAAAAEKLU/fI20FD5m5Ds/s640/IMG_5387.jpg
 ---
 
-|  [![](https://lh6.googleusercontent.com/-a_WNVNAWPRg/U4SwJLmpxGI/AAAAAAAEKLU/fI20FD5m5Ds/s640/IMG_5387.jpg)](https://photos.app.goo.gl/gpve1dtQdokjsyXF8)  |
+|  [![Un músic amb ulleres de sol i camisa de lunars toca la guitarra elèctrica en un concert a Barcelona.](https://lh6.googleusercontent.com/-a_WNVNAWPRg/U4SwJLmpxGI/AAAAAAAEKLU/fI20FD5m5Ds/s640/IMG_5387.jpg)](https://photos.app.goo.gl/gpve1dtQdokjsyXF8)  |
 | --- |
 | De [Festes de Prosperitat - Chistorra Rock](https://photos.app.goo.gl/gpve1dtQdokjsyXF8) |

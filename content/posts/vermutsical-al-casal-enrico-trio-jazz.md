@@ -13,6 +13,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/06/IMG_3268.jpg
 image: https://lh3.googleusercontent.com/-JAxzkKjYTUs/T9NtHco-9XI/AAAAAAADIKE/hrUmOwmvzGk/s800/IMG_3268.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-JAxzkKjYTUs/T9NtHco-9XI/AAAAAAADIKE/hrUmOwmvzGk/s800/IMG_3268.jpg)](https://photos.app.goo.gl/QuujVmwtf5vgnMQc9)  |
+|  [![Tres músics toquen en directe amb contrabaix, vent i bateria davant d'un públic assegut en un local amb finestres.](https://lh3.googleusercontent.com/-JAxzkKjYTUs/T9NtHco-9XI/AAAAAAADIKE/hrUmOwmvzGk/s800/IMG_3268.jpg)](https://photos.app.goo.gl/QuujVmwtf5vgnMQc9)  |
 | --- |
 | De [Vermutsical al Casal - Enrico trio Jazz](https://photos.app.goo.gl/QuujVmwtf5vgnMQc9) |

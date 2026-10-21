@@ -12,7 +12,7 @@ image: https://lh3.googleusercontent.com/-MjAKCGElLYM/VR8gHfj2__I/AAAAAAAEqcE/AW
 # Migrat de https://linuxbcn.org/lomotaller-dia-internacional-del-pinhole/
 ---
 
-![](https://lh3.googleusercontent.com/-MjAKCGElLYM/VR8gHfj2__I/AAAAAAAEqcE/AWv88SLIcX8/s1280/HD%252342%2520-%2520HWPC%2520-%2520Ilford50%2520004.jpg)
+![Un mirador rocós ofereix una vista panoràmica en blanc i negre d'un embassament entre muntanyes.](https://lh3.googleusercontent.com/-MjAKCGElLYM/VR8gHfj2__I/AAAAAAAEqcE/AWv88SLIcX8/s1280/HD%252342%2520-%2520HWPC%2520-%2520Ilford50%2520004.jpg)
 
 Doncs així de guay! Aquest proper dia 25 d’abril farem un taller a [Lomography Embassy Store Barcelona](https://www.facebook.com/lomographyembassybarcelona) dedicat al dia mundial de la fotografia estenopèica.
 

@@ -13,6 +13,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/03/IMG_9478.jpg
 image: https://lh3.googleusercontent.com/-kHVvNLMTieg/T3bQxZwPkWI/AAAAAAACv_M/sP6FPmJe3JY/s800/IMG_9478.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-kHVvNLMTieg/T3bQxZwPkWI/AAAAAAACv_M/sP6FPmJe3JY/s800/IMG_9478.jpg)](https://photos.app.goo.gl/zJ1eHU47nZoUqKDP8)  |
+|  [![Un home calb canta i toca la guitarra davant d'un micròfon en un escenari fosc amb cortines vermelles.](https://lh3.googleusercontent.com/-kHVvNLMTieg/T3bQxZwPkWI/AAAAAAACv_M/sP6FPmJe3JY/s800/IMG_9478.jpg)](https://photos.app.goo.gl/zJ1eHU47nZoUqKDP8)  |
 | --- |
 | De [Les Nits de Capibola Blues - A Contra Blues](https://photos.app.goo.gl/zJ1eHU47nZoUqKDP8) |

@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2015/05/HD46-LCA120-EG-0
 image: https://lh3.googleusercontent.com/-Vg7bm-9mxow/VUVaChdz9RI/AAAAAAAEsSI/aLqTl2nuO5Y/s640/HD%252346%2520-%2520LCA120%2520-%2520EG%2520-%2520002.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-Vg7bm-9mxow/VUVaChdz9RI/AAAAAAAEsSI/aLqTl2nuO5Y/s640/HD%252346%2520-%2520LCA120%2520-%2520EG%2520-%2520002.jpg)](https://photos.app.goo.gl/2BxLaP85HKfs4PYX6)  |
+|  [![Home gran somrient amb samarreta blanca, assegut en una cadira de terrassa en un carrer de Barcelona.](https://lh3.googleusercontent.com/-Vg7bm-9mxow/VUVaChdz9RI/AAAAAAAEsSI/aLqTl2nuO5Y/s640/HD%252346%2520-%2520LCA120%2520-%2520EG%2520-%2520002.jpg)](https://photos.app.goo.gl/2BxLaP85HKfs4PYX6)  |
 | --- |
 | De [Homedev#46 - LC-A 120 - Earl Grey 100](https://photos.app.goo.gl/2BxLaP85HKfs4PYX6) |

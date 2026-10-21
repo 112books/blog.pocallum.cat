@@ -20,4 +20,4 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2019/08/5x7-Irma-Orto-00
 image: https://blog.pocallum.cat/wp-content/uploads/2019/08/5x7-Irma-Orto-001-732x1024.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2019/08/5x7-Irma-Orto-001-732x1024.jpg)](https://photos.app.goo.gl/3DzAYC62qi1cT2SQ6)
+[![Jove de cabells arrissats amb la cara pintada amb una banda fosca i una línia blanca, que mira fixament sobre fons blanc.](https://blog.pocallum.cat/wp-content/uploads/2019/08/5x7-Irma-Orto-001-732x1024.jpg)](https://photos.app.goo.gl/3DzAYC62qi1cT2SQ6)

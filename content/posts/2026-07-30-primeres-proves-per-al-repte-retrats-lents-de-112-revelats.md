@@ -37,7 +37,7 @@ Anike en un retrat esptenpèic de quasi 3 minuts.
 
 </figure>
 
-![](https://blog.pocallum.cat/wp-content/uploads/2026/07/2026-29-LM6-Foma400@800-Anike-despedida-0001-623x1024.jpg)
+![Dona jove amb un tatuatge al braç, asseguda en una cadira, mira una càmera sobre un trípode en un interior de Barcelona.](https://blog.pocallum.cat/wp-content/uploads/2026/07/2026-29-LM6-Foma400@800-Anike-despedida-0001-623x1024.jpg)
 
 </figure>
 

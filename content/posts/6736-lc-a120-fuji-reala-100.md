@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2014/12/6736-LCA120-Real
 image: https://lh6.googleusercontent.com/-Qlgb7r8BRKU/VKQ2CIedigI/AAAAAAAEiY8/r2QCECGGY5w/s640/6736-%2520LCA120%2520-%2520%2520Reala%2520-%2520006.jpg
 ---
 
-|  [![](https://lh6.googleusercontent.com/-Qlgb7r8BRKU/VKQ2CIedigI/AAAAAAAEiY8/r2QCECGGY5w/s640/6736-%2520LCA120%2520-%2520%2520Reala%2520-%2520006.jpg)](https://photos.app.goo.gl/o4F25w7R9jPRdCgd9)  |
+|  [![Paisatge rural de camps en terrasses i un turó boscós sota un cel blau clar, amb una plana al fons.](https://lh6.googleusercontent.com/-Qlgb7r8BRKU/VKQ2CIedigI/AAAAAAAEiY8/r2QCECGGY5w/s640/6736-%2520LCA120%2520-%2520%2520Reala%2520-%2520006.jpg)](https://photos.app.goo.gl/o4F25w7R9jPRdCgd9)  |
 | --- |
 | De [6736 - LC-A120 - Fuji Reala 100](https://photos.app.goo.gl/o4F25w7R9jPRdCgd9) |

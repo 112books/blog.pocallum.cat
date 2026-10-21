@@ -22,7 +22,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2023/10/DSF4506-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2023/10/DSF4506-1-1024x683.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2023/10/DSF4506-1-1024x683.jpg)](https://photos.app.goo.gl/8c4knwUWLs9eMYPfA)
+[![Un ballarí fa onejar un drac llarg en una plaça nocturna, davant d'un nen i un públic que mira l'espectacle.](https://blog.pocallum.cat/wp-content/uploads/2023/10/DSF4506-1-1024x683.jpg)](https://photos.app.goo.gl/8c4knwUWLs9eMYPfA)
 
 La Festa de les Cultures és una jornada intercultural de Prosperitat que s'ha celebrat el dissabte 30 de setembre a la plaça Ángel Pestaña amb:
 

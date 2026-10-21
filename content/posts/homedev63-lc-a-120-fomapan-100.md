@@ -10,7 +10,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2016/01/HD63-LC-a120-002
 image: https://lh3.googleusercontent.com/-T_SGXXby4L4/VpKm8hQ3ucI/AAAAAAAE-XE/tWLJhnt1eik/s640-Ic42/HD%25252363%252520-%252520LC-a120%252520-%252520002.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-T_SGXXby4L4/VpKm8hQ3ucI/AAAAAAAE-XE/tWLJhnt1eik/s640-Ic42/HD%25252363%252520-%252520LC-a120%252520-%252520002.jpg)](https://photos.app.goo.gl/SEqW6EYcwVRcTqPB9)  |
+|  [![Aiguamoll en blanc i negre amb canyes i núvols reflectits a l'aigua tranquil·la.](https://lh3.googleusercontent.com/-T_SGXXby4L4/VpKm8hQ3ucI/AAAAAAAE-XE/tWLJhnt1eik/s640-Ic42/HD%25252363%252520-%252520LC-a120%252520-%252520002.jpg)](https://photos.app.goo.gl/SEqW6EYcwVRcTqPB9)  |
 | --- |
 | De [HomeDev#63 - LC-A 120 - Fomapan 100](https://photos.app.goo.gl/SEqW6EYcwVRcTqPB9) |
 

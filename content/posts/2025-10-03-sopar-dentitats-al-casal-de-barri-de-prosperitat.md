@@ -27,7 +27,7 @@ description: "Crònica del sopar d’entitats al Casal de Barri de Prosperitat: 
 title-seo: "Sopar d’entitats al Casal de Barri de Prosperitat (2025)"
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/10/DSCF1958.jpg)](https://photos.app.goo.gl/tz5ufjmeVAR1YC6v9)
+[![Dues dones joves riuen divertides mentre miren un mòbil en un bar.](https://blog.pocallum.cat/wp-content/uploads/2025/10/DSCF1958.jpg)](https://photos.app.goo.gl/tz5ufjmeVAR1YC6v9)
 
   
 Enguany he assistit al sopar d’entitats del nostre [Casal de Barri de Prosperitat](https://www.casalprospe.org/) representant, juntament amb en Cesc, el col·lectiu **[9barrisimatge.org](https://www.9barrisimatge.org/)**, els reporters del barri.

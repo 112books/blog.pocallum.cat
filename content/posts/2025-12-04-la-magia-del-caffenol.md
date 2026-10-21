@@ -23,7 +23,7 @@ description: "Revelat amb caffenol: proves, fórmula i resultats amb Fomapan 400
 title-seo: "La màgia del caffenol: proves, fórmula i resultats amb Fomapan 400"
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/12/photo_2025-12-04-16.15.25-604x1024.jpeg)](https://photos.app.goo.gl/CMXSJjLaeYDbyPQt5)
+[![Càmera Holga, pot de vidre amb tapa blava, paquet de cafè i bossa sobre una taula groga de cuina.](https://blog.pocallum.cat/wp-content/uploads/2025/12/photo_2025-12-04-16.15.25-604x1024.jpeg)](https://photos.app.goo.gl/CMXSJjLaeYDbyPQt5)
 
 Una de les coses que fa molts anys que faig és ensenyar el que sé de fotografia, especialment de fotografia química i experimental.
 

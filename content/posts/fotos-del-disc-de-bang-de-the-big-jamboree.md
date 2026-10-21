@@ -15,7 +15,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2011/09/Fotos-del-disc-d
 image: https://blog.pocallum.cat/wp-content/uploads/2011/09/Fotos-del-disc-de-_Bang_-de-The-Big-Jamboree-.png
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2011/09/Fotos-del-disc-de-_Bang_-de-The-Big-Jamboree-.png)](https://photos.app.goo.gl/H5SuXxWZooYw8UKv9)
+[![Un home canta a un micròfon en primer pla mentre una banda de jazz toca al fons d'un escenari fosc.](https://blog.pocallum.cat/wp-content/uploads/2011/09/Fotos-del-disc-de-_Bang_-de-The-Big-Jamboree-.png)](https://photos.app.goo.gl/H5SuXxWZooYw8UKv9)
 
 Ja tenim un altre disc amb fotos nostres! En aquest cas es tracta dels genials The Big Jamboree en el seu darrer disc "Bang!". Les fotos de portada i interiors són d'una sessió feta aquest estiu en estudi, el nostre estudi! El disseny és d'ells, el trompetista Cesc Miró que s'ha lluït.
 

@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/03/2353-sp-001.jpg
 image: https://lh4.googleusercontent.com/-VDte0HR3GoI/USQVCvolTWI/AAAAAAADigs/cX2flQtAZG8/s800/2353%2520-%2520sp%2520-%2520001.jpg
 ---
 
-| [![](https://lh4.googleusercontent.com/-VDte0HR3GoI/USQVCvolTWI/AAAAAAADigs/cX2flQtAZG8/s800/2353%2520-%2520sp%2520-%2520001.jpg)](https://photos.app.goo.gl/F6igEsWW5Kdh8p6N9) |
+| [![Cinc joves músics toquen instruments de metall en un passeig vora el mar, amb una tanca metàl·lica al fons.](https://lh4.googleusercontent.com/-VDte0HR3GoI/USQVCvolTWI/AAAAAAADigs/cX2flQtAZG8/s800/2353%2520-%2520sp%2520-%2520001.jpg)](https://photos.app.goo.gl/F6igEsWW5Kdh8p6N9) |
 | --- |
 | De [2353 - Sprocket rocket - Per el barri](https://photos.app.goo.gl/F6igEsWW5Kdh8p6N9) |

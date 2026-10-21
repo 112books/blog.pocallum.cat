@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2014/08/3135-Holga-RS100
 image: https://lh6.googleusercontent.com/-GbPdWGysC60/U-xpJvzb5YI/AAAAAAAERak/B_EyIaRdZ7E/s640/3135%2520-%2520Holga%2520-%2520RS100%2520-%2520012.jpg
 ---
 
-|  [![](https://lh6.googleusercontent.com/-GbPdWGysC60/U-xpJvzb5YI/AAAAAAAERak/B_EyIaRdZ7E/s640/3135%2520-%2520Holga%2520-%2520RS100%2520-%2520012.jpg)](https://photos.app.goo.gl/MXxuuwB8kctp4LNa6)  |
+|  [![Un cotxe blanc circula per una carretera cap a una serralada amb un aerogenerador, sota un cel ataronjat.](https://lh6.googleusercontent.com/-GbPdWGysC60/U-xpJvzb5YI/AAAAAAAERak/B_EyIaRdZ7E/s640/3135%2520-%2520Holga%2520-%2520RS100%2520-%2520012.jpg)](https://photos.app.goo.gl/MXxuuwB8kctp4LNa6)  |
 | --- |
 | De [3135 - Holga CFN - Redscale 100](https://photos.app.goo.gl/MXxuuwB8kctp4LNa6) |

@@ -25,7 +25,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2024/11/DSCF6166-1024x683.jp
 description: "Viu la festa de Sant Xibeco al barri de Prosperitat, amb tradicions, música en viu d'El Persianas & Los influencers muertos i un ambient festiu que marca l'arribada del fred."
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/11/DSCF6166-1024x683.jpg)](https://photos.app.goo.gl/h9KAGDtnL7hEjUVy9)
+[![Tres músics en silueta actuen de nit en un concert a l'aire lliure amb públic al fons.](https://blog.pocallum.cat/wp-content/uploads/2024/11/DSCF6166-1024x683.jpg)](https://photos.app.goo.gl/h9KAGDtnL7hEjUVy9)
 
 ## Sant Xibeco: Quan el fred i la tradició es troben
 

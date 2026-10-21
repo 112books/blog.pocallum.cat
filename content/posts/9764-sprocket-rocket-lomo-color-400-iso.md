@@ -17,6 +17,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/12/9764-Sprocket-Ro
 image: https://lh5.googleusercontent.com/-yCg4LEdFaso/UMKaGEm6J_I/AAAAAAADeIc/V5-lkLyfnlw/s800/9764%2520-%2520Sprocket%2520Rocjet%2520-%2520016.jpg
 ---
 
-|  [![](https://lh5.googleusercontent.com/-yCg4LEdFaso/UMKaGEm6J_I/AAAAAAADeIc/V5-lkLyfnlw/s800/9764%2520-%2520Sprocket%2520Rocjet%2520-%2520016.jpg)](https://photos.app.goo.gl/3xziMRJEdMrMCX5m8)  |
+|  [![Llums grogues i blaves reflectides a l'aigua ondulada d'un port de Barcelona de nit.](https://lh5.googleusercontent.com/-yCg4LEdFaso/UMKaGEm6J_I/AAAAAAADeIc/V5-lkLyfnlw/s800/9764%2520-%2520Sprocket%2520Rocjet%2520-%2520016.jpg)](https://photos.app.goo.gl/3xziMRJEdMrMCX5m8)  |
 | --- |
 | De [9764 - Sprocket rocket - Lomo Color 400 ISO](https://photos.app.goo.gl/3xziMRJEdMrMCX5m8) |

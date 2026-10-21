@@ -14,6 +14,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/10/MG_9379.jpg
 image: https://lh6.googleusercontent.com/-8OWe-80t1Ns/UlEzhU5LoSI/AAAAAAAD6qk/I0k186Bc4BA/s640/_MG_9379.jpg
 ---
 
-|  [![](https://lh6.googleusercontent.com/-8OWe-80t1Ns/UlEzhU5LoSI/AAAAAAAD6qk/I0k186Bc4BA/s640/_MG_9379.jpg)](https://photos.app.goo.gl/P1vMm6u6MQHjaisZ9)  |
+|  [![Un home amb el tors completament tatuat està dret en un estudi de tatuatges mentre una dona en tatuà un altre.](https://lh6.googleusercontent.com/-8OWe-80t1Ns/UlEzhU5LoSI/AAAAAAAD6qk/I0k186Bc4BA/s640/_MG_9379.jpg)](https://photos.app.goo.gl/P1vMm6u6MQHjaisZ9)  |
 | --- |
 | De [Barcelona Tattoo Expo - Dissabte](https://photos.app.goo.gl/P1vMm6u6MQHjaisZ9) |

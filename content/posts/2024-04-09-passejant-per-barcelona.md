@@ -10,4 +10,4 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/04/2024-04-09-LCA-F
 image: https://blog.pocallum.cat/wp-content/uploads/2024/04/2024-04-09-LCA-Foma100-Varies-030-1024x664.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/04/2024-04-09-LCA-Foma100-Varies-030-1024x664.jpg)](https://photos.app.goo.gl/7daaFByCgC8LQ8Uv8)
+[![Un os de peluix assegut darrere el vidre d'un aparador de botiga, sota unes làmpades penjants.](https://blog.pocallum.cat/wp-content/uploads/2024/04/2024-04-09-LCA-Foma100-Varies-030-1024x664.jpg)](https://photos.app.goo.gl/7daaFByCgC8LQ8Uv8)

@@ -12,7 +12,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2023/11/IMG_2555.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2023/11/IMG_2555-1024x768.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2023/11/IMG_2555-1024x768.jpg)](https://112books.eu/preses-falses-aterra-a-la-primera-edicio-de-clot-amb-blues/)
+[![Interior industrial amb taules i cadires buides, bar al fons, escala metàl·lica a l'esquerra i parets de maó.](https://blog.pocallum.cat/wp-content/uploads/2023/11/IMG_2555-1024x768.jpg)](https://112books.eu/preses-falses-aterra-a-la-primera-edicio-de-clot-amb-blues/)
 
 Avui hem muntat l’exposició [#presesfalses](https://www.instagram.com/explore/tags/presesfalses/) i [#maquesiarreglades](https://www.instagram.com/explore/tags/maquesiarreglades/) d’en [@cayuelaleo](https://www.instagram.com/cayuelaleo/) (d’increïbles guitarres “Frankenstein”). Demà, dissabte dia 11 de novembre, serà la gran inauguració a l’[Ateneu del Clot](https://www.instagram.com/ateneudelclot/) a les 19 h. 
 

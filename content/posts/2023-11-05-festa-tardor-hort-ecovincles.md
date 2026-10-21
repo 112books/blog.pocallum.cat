@@ -13,6 +13,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2023/11/2023-11-05-M5-35
 image: https://blog.pocallum.cat/wp-content/uploads/2023/11/2023-11-05-M5-35F3.5-Foma100-Festa-tardor-hort-0020-1024x629.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2023/11/2023-11-05-M5-35F3.5-Foma100-Festa-tardor-hort-0020-1024x629.jpg)](https://photos.app.goo.gl/ESHXJUcjDFu72g969)
+[![Un home gran amb barba toca la guitarra assegut en un pati exterior, observat per una altra persona dreta al fons.](https://blog.pocallum.cat/wp-content/uploads/2023/11/2023-11-05-M5-35F3.5-Foma100-Festa-tardor-hort-0020-1024x629.jpg)](https://photos.app.goo.gl/ESHXJUcjDFu72g969)
 
 Aquest diumenge m'he apropat a celebrar la tardor amb els companys d'Ecovincles. A més de bones menges i bons beures, el veí [Rafi Mora](https://www.instagram.com/rafi.mora.5/) va delectar al personal amb la seva guitarra i la seva música. Va sorprendre'm que encara quedin veïns que no coneguin aquest espai del barri. Què més es pot demanar per a un diumenge?

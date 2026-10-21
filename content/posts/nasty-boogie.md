@@ -10,7 +10,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_2168-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_2168.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_2168.jpg)](https://photos.app.goo.gl/tiJkwJnSYz5SEUvJ7)
+[![Un cantant amb barret i vestit fosc canta corbat sobre el micròfon en un escenari, amb un baixista al fons.](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_2168.jpg)](https://photos.app.goo.gl/tiJkwJnSYz5SEUvJ7)
 
 Una nit més de bon blues gràcies a Capibola Blues. De nou al Casal de barri de Prosperitat i amb molt bon nivell. A esperar el pròxim! -> 
 

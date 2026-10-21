@@ -15,7 +15,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/04/pinholeday01.jpg
 image: https://lh5.googleusercontent.com/-Hsdr9Igr3vI/T55P1aOlnhI/AAAAAAAC6Lo/aIBb-BFBRdY/s640/pinholeday01.jpg
 ---
 
-|  [![](https://lh5.googleusercontent.com/-Hsdr9Igr3vI/T55P1aOlnhI/AAAAAAAC6Lo/aIBb-BFBRdY/s640/pinholeday01.jpg)](https://photos.app.goo.gl/Jmlcosj2ZIcabKob2)  |
+|  [![Persona asseguda en un banc amb el cap desenfocat, davant d'una església i un arbre en una plaça.](https://lh5.googleusercontent.com/-Hsdr9Igr3vI/T55P1aOlnhI/AAAAAAAC6Lo/aIBb-BFBRdY/s640/pinholeday01.jpg)](https://photos.app.goo.gl/Jmlcosj2ZIcabKob2)  |
 | --- |
 | De [Pinhole day 2012](https://photos.app.goo.gl/Jmlcosj2ZIcabKob2) |
 

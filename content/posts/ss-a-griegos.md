@@ -10,7 +10,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2016/03/DSCF8071.jpg
 image: https://lh3.googleusercontent.com/-tFGnV056hr8/VvmVkoZq04I/AAAAAAAFCYM/sw7aRYxsgFoAebiyYkU0xCHrMvZSEaV3QCCo/s640-Ic42/DSCF8071.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-tFGnV056hr8/VvmVkoZq04I/AAAAAAAFCYM/sw7aRYxsgFoAebiyYkU0xCHrMvZSEaV3QCCo/s640-Ic42/DSCF8071.jpg)](https://photos.app.goo.gl/QJPgnN9v56dr1PTcA)  |
+|  [![Una dona somriu amb els braços creuats dins d'un abric marró amb caputxa blanca, en un paisatge de muntanya amb neu.](https://lh3.googleusercontent.com/-tFGnV056hr8/VvmVkoZq04I/AAAAAAAFCYM/sw7aRYxsgFoAebiyYkU0xCHrMvZSEaV3QCCo/s640-Ic42/DSCF8071.jpg)](https://photos.app.goo.gl/QJPgnN9v56dr1PTcA)  |
 | --- |
 | De [SS a Griegos](https://photos.app.goo.gl/QJPgnN9v56dr1PTcA) |
 

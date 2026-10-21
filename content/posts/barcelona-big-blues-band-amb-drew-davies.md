@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2014/10/IMG_5157.jpg
 image: https://lh3.googleusercontent.com/-Ffe308DtQWo/VFCtoMdi9DI/AAAAAAAEbew/qmLBuW5YZ50/s640/IMG_5157.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-Ffe308DtQWo/VFCtoMdi9DI/AAAAAAAEbew/qmLBuW5YZ50/s640/IMG_5157.jpg)](https://photos.app.goo.gl/k1j9QxLK5ZbPyQAB9)  |
+|  [![Una dona amb auriculars canta i assenyala amb el braç mentre un home assegut l'escolta en un estudi de gravació.](https://lh3.googleusercontent.com/-Ffe308DtQWo/VFCtoMdi9DI/AAAAAAAEbew/qmLBuW5YZ50/s640/IMG_5157.jpg)](https://photos.app.goo.gl/k1j9QxLK5ZbPyQAB9)  |
 | --- |
 | De [Barcelona Big Blues Band amb Drew Davies](https://photos.app.goo.gl/k1j9QxLK5ZbPyQAB9) |

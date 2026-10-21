@@ -24,7 +24,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2024/10/IMG_3500-1024x683.jp
 description: "Descobreix la trobada anual d'entitats del Casal de barri de Prosperitat, amb presentacions, reivindicacions i nous projectes. Gaudeix del pica-pica de Rudas Cooperativa i l'espectacle Bostikianes, que explora el rol de la dona a través de titelles i música en directe."
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/10/IMG_3500-1024x683.jpg)](https://photos.app.goo.gl/WoLpE3VMFYyzbcGM6)
+[![Un personatge teatral amb màscara vermella i trenes seu en un balancí de vímet, sostenint un got en un escenari fosc.](https://blog.pocallum.cat/wp-content/uploads/2024/10/IMG_3500-1024x683.jpg)](https://photos.app.goo.gl/WoLpE3VMFYyzbcGM6)
 
 Ahir divendres vàrem celebrar la trobada - sopar de les entitats del barri que formem part del nostre estimat [Casal de barri de Prosperitat](https://www.casalprospe.org). Com sempre va haver-hi les presentacions de les noves entitats, les reivindicacions de les ja consolidades i l'exposició de nous projectes.
 

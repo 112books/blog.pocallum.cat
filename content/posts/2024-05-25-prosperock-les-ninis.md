@@ -11,6 +11,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/05/DSF1549.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2024/05/DSF1549-1024x683.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/05/DSF1549-1024x683.jpg)](https://photos.app.goo.gl/RHUwEcPcKpVJbsUq5)
+[![Un noi gesticula i una noia canta enèrgicament en un escenari nocturn a l'aire lliure, amb músics i garlandes de llums al fons.](https://blog.pocallum.cat/wp-content/uploads/2024/05/DSF1549-1024x683.jpg)](https://photos.app.goo.gl/RHUwEcPcKpVJbsUq5)
 
 Primer dissabte de les Festes de Prosperitat! Vaig poder assistir als concerts de Rosperrock24 amb The Replicants i Angry Reds a la Plaça Nou Pins i tot anant cap a casa de retirada, al "Les ninis: ni te sirvo ni me explotas" amb Polvo. de Hadas, Hydra, Sektum i Mala Bestia.

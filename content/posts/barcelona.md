@@ -11,4 +11,4 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/02/IMG_8140-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2012/02/IMG_8140.jpg
 description: "Barcelona. Crònica fotogràfica de Pocallum, 2012."
 ---
-[![](https://blog.pocallum.cat/wp-content/uploads/2012/02/IMG_8140.jpg)](https://photos.app.goo.gl/JPShoqV7vJymduJp8)
+[![Dues persones a la barana d'un terrat observen la panoràmica de Barcelona fins al mar.](https://blog.pocallum.cat/wp-content/uploads/2012/02/IMG_8140.jpg)](https://photos.app.goo.gl/JPShoqV7vJymduJp8)

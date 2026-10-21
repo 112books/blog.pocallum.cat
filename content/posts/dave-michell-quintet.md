@@ -10,4 +10,4 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_2014-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_2014.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_2014.jpg)](https://photos.app.goo.gl/PzrchJa6S6acxT8GA)
+[![Un músic toca la trompeta en un concert fosc il·luminat amb una llum vermella intensa.](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_2014.jpg)](https://photos.app.goo.gl/PzrchJa6S6acxT8GA)

@@ -13,6 +13,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2011/10/IMG_6145.jpg
 image: https://lh5.googleusercontent.com/-u1yTFaXlhf4/TofmnrmHRjI/AAAAAAACVA4/htbwPGQ8Vyg/s640/IMG_6145.jpg
 ---
 
-|  [![](https://lh5.googleusercontent.com/-u1yTFaXlhf4/TofmnrmHRjI/AAAAAAACVA4/htbwPGQ8Vyg/s640/IMG_6145.jpg)](https://photos.app.goo.gl/GRMFkVo5ULWdrtFA6)  |
+|  [![Un home amb barba, ulleres i braços plens de tatuatges es tapa la boca amb la mà en un acte cultural.](https://lh5.googleusercontent.com/-u1yTFaXlhf4/TofmnrmHRjI/AAAAAAACVA4/htbwPGQ8Vyg/s640/IMG_6145.jpg)](https://photos.app.goo.gl/GRMFkVo5ULWdrtFA6)  |
 | --- |
 | De [Barcelona Tattoo Expo 2011 - sabado](https://photos.app.goo.gl/GRMFkVo5ULWdrtFA6) |

@@ -30,7 +30,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2024/11/DSCF6291-1024x683.jp
 description: "Descobreix la celebració de Sant Xibeco 2024 a la Prosperitat, amb la baixada espectacular dels sants, el bateig santxibequí, el correbars amb la Banda Patilla i els concerts de bandes populars com Herederos del Taxi i Mocebares."
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/11/DSCF6291-1024x683.jpg)](https://photos.app.goo.gl/EbhpETDoHCcMVAFL6)
+[![Públic alçant mòbils per gravar un casteller enlairat en un carrer amb edificis i arbres.](https://blog.pocallum.cat/wp-content/uploads/2024/11/DSCF6291-1024x683.jpg)](https://photos.app.goo.gl/EbhpETDoHCcMVAFL6)
 
 ## Sant Xibeco 2024: tradició i música a la Prosperitat
 

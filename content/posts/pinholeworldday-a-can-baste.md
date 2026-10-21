@@ -10,7 +10,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2016/04/DSCF9329.jpg
 image: https://lh3.googleusercontent.com/-M6m2M2b7NC8/VxynUt2MayI/AAAAAAAFEJY/e_KBZkAZSHIytY7A0U2FvdJPfVvup4j9QCCo/s640/DSCF9329.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-M6m2M2b7NC8/VxynUt2MayI/AAAAAAAFEJY/e_KBZkAZSHIytY7A0U2FvdJPfVvup4j9QCCo/s640/DSCF9329.jpg)](https://photos.app.goo.gl/gEjhu5u4sP36pnYf7)  |
+|  [![Un home d'esquena toca una fotografia en blanc i negre en una exposició de parets fosques.](https://lh3.googleusercontent.com/-M6m2M2b7NC8/VxynUt2MayI/AAAAAAAFEJY/e_KBZkAZSHIytY7A0U2FvdJPfVvup4j9QCCo/s640/DSCF9329.jpg)](https://photos.app.goo.gl/gEjhu5u4sP36pnYf7)  |
 | --- |
 | De [PinholeWorldDay a Can Basté](https://photos.app.goo.gl/gEjhu5u4sP36pnYf7) |
 

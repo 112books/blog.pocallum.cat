@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2014/10/IMG_3109.jpg
 image: https://lh5.googleusercontent.com/-oNvbPruoFaI/VDj8IaePK_I/AAAAAAAEYms/jvJAtgHPS1A/s640/IMG_3109.jpg
 ---
 
-|  [![](https://lh5.googleusercontent.com/-oNvbPruoFaI/VDj8IaePK_I/AAAAAAAEYms/jvJAtgHPS1A/s640/IMG_3109.jpg)](https://photos.app.goo.gl/P2na5eiUbdq6ZNaX8)  |
+|  [![Una cantant canta enèrgicament al micròfon en un escenari fosc, amb un guitarrista al darrere i públic a prop.](https://lh5.googleusercontent.com/-oNvbPruoFaI/VDj8IaePK_I/AAAAAAAEYms/jvJAtgHPS1A/s640/IMG_3109.jpg)](https://photos.app.goo.gl/P2na5eiUbdq6ZNaX8)  |
 | --- |
 | De [X aniversari "El Arbusto" - Divendres](https://photos.app.goo.gl/P2na5eiUbdq6ZNaX8) |

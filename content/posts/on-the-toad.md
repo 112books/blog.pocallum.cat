@@ -14,6 +14,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/08/IMG_4183.jpg
 image: https://lh3.googleusercontent.com/-OOHsae0SQ9Y/UC0upGHpPmI/AAAAAAADR8I/gJTWfUWnfZA/s800/IMG_4183.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-OOHsae0SQ9Y/UC0upGHpPmI/AAAAAAADR8I/gJTWfUWnfZA/s800/IMG_4183.jpg)](https://photos.app.goo.gl/5q7vh4yW6PZCWomq9)  |
+|  [![Una carretera solitària travessa un paisatge rural sec amb turons al fons sota un cel blau intens.](https://lh3.googleusercontent.com/-OOHsae0SQ9Y/UC0upGHpPmI/AAAAAAADR8I/gJTWfUWnfZA/s800/IMG_4183.jpg)](https://photos.app.goo.gl/5q7vh4yW6PZCWomq9)  |
 | --- |
 | De [Griegos estiu 2012](https://photos.app.goo.gl/5q7vh4yW6PZCWomq9) |

@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_8743-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_8743.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_8743.jpg)](https://photos.app.goo.gl/UM21Vr8s4LjC7tVV8)
+[![Un grup de músics actua en directe sobre un escenari a l'aire lliure davant d'un públic assegut en una plaça amb palmeres.](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_8743.jpg)](https://photos.app.goo.gl/UM21Vr8s4LjC7tVV8)
 
 \-> [Galería sencera](https://photos.app.goo.gl/UM21Vr8s4LjC7tVV8)

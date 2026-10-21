@@ -10,7 +10,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/02/cartell-expo-sag
 image: https://blog.pocallum.cat/wp-content/uploads/2024/02/cartell-expo-sagrerina-IG-1080-x-1350-px-819x1024.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/02/cartell-expo-sagrerina-IG-1080-x-1350-px-819x1024.jpg)](https://112books.eu/exposicio-fotografica-presentacio-del-llibre-acarrejant/)
+[![(124). *](https://blog.pocallum.cat/wp-content/uploads/2024/02/cartell-expo-sagrerina-IG-1080-x-1350-px-819x1024.jpg)](https://112books.eu/exposicio-fotografica-presentacio-del-llibre-acarrejant/)
 
 Doncs si!, finalment presentem com cal #aCarrejant, el darrer llibre de Joan Linux. A més de la presentació d’aquest llibre de l’editorial **112Books**, també s’inaugura per primera vegada i, en primícia mundial, l’exposició homònima a la [Sala Basiana](https://www.instagram.com/sala_basiana.espai_sagrerina/) dins la [Nau Bostik](https://naubostik.com/).
 

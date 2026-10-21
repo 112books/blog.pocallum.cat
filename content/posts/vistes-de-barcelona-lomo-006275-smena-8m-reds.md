@@ -14,6 +14,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/10/7265img-096.jpg
 image: https://lh5.googleusercontent.com/-bjqDrP3niMA/UGoL5iK0g6I/AAAAAAADVDE/KBiK9vP5Gwk/s800/7265img-096.jpg
 ---
 
-|  [![](https://lh5.googleusercontent.com/-bjqDrP3niMA/UGoL5iK0g6I/AAAAAAADVDE/KBiK9vP5Gwk/s800/7265img-096.jpg)](https://photos.app.goo.gl/rkvp1Rj5dXUad8nC9)  |
+|  [![Un treballador amb casc i màscara ruixa una paret amb una mànega en una obra urbana de Barcelona.](https://lh5.googleusercontent.com/-bjqDrP3niMA/UGoL5iK0g6I/AAAAAAADVDE/KBiK9vP5Gwk/s800/7265img-096.jpg)](https://photos.app.goo.gl/rkvp1Rj5dXUad8nC9)  |
 | --- |
 | De [lomo 006275 - Smena 8M - Redscale](https://photos.app.goo.gl/rkvp1Rj5dXUad8nC9) |

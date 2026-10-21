@@ -25,7 +25,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2025/02/DSCF8277-1024x577.jp
 description: "Crònica del concert de Pangea al Casal de Joves de Prosperitat: Hardcore melòdic de proximitat i ambientazo al barri. Descobreix les fotos!"
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/02/DSCF8277-1024x577.jpg)](https://photos.app.goo.gl/E4JNQifkgjwajYth6)
+[![Concert en directe en una sala petita i fosca, amb el baixista en primer pla i el públic molt a prop de l'escenari.](https://blog.pocallum.cat/wp-content/uploads/2025/02/DSCF8277-1024x577.jpg)](https://photos.app.goo.gl/E4JNQifkgjwajYth6)
 
 Avui, després de gaudir de teatre al meu barri, m’he escapat una estona al [Casal de Joves de Prosperitat](https://www.instagram.com/p/DE0UrugRWBR/), on per sort encara deixen que hi entri ;)
 

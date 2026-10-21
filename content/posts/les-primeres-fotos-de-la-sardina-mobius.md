@@ -18,4 +18,4 @@ Si!, finalment he revelat un rodet de 35mm de la meva "[La Sardina" model Möebi
 
 Aquí podeu veure els resultats: [https://www.lomography.es/homes/linuxbcn/albums/1813280-calotada-a-can-bres](https://www.lomography.es/homes/linuxbcn/albums/1813280-calotada-a-can-bres) Les fotografies són d'una calçotada a Can Bres.
 
-![](https://blog.pocallum.cat/wp-content/uploads/2020/07/1216x827x2-1024x696.jpg)
+![Home amb ulleres i barret traient la llengua en primer pla, amb pins desenfocats al fons.](https://blog.pocallum.cat/wp-content/uploads/2020/07/1216x827x2-1024x696.jpg)

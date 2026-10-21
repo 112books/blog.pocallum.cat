@@ -25,7 +25,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2024/12/DSCF7291-1024x683.jp
 description: "Ja estan disponibles les fotografies del concert de ‘No Somos Amigas’, un homenatge a la trajectòria d’Akelarre. Reviveix els moments màgics d’una nit plena d’activisme feminista, queer i anticapitalista al Casal de Barri de Prosperitat."
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/12/DSCF7291-1024x683.jpg)](https://photos.app.goo.gl/sKKNecQYHhxjyt1s5)
+[![Concert en directe en una sala fosca amb els músics a l'escenari i el públic aixecant les mans.](https://blog.pocallum.cat/wp-content/uploads/2024/12/DSCF7291-1024x683.jpg)](https://photos.app.goo.gl/sKKNecQYHhxjyt1s5)
 
 Ja estan llestes les fotografies del concert de “No Somos Amigas” al [Casal de barri de Prosperitat](https://www.casalprospe.org/esdeveniments/concert-no-somos-amigas-pd-surito). Aquest esdeveniment va ser un homenatge vibrant i ple d’energia a la trajectòria d’[Akelarre](https://www.instagram.com/akelarre_oficial/), un projecte iniciat fa deu anys per [Maio](https://www.instagram.com/maio.serrasolsas) i [Júlia Serrasolsas](https://www.instagram.com/julia.serrasolsas/). Amb l’objectiu d’acostar l’activisme feminista, queer i anticapitalista, Akelarre ha estat una plataforma poderosa per a les veus que qüestionen el sistema de gènere dominant i les seves normes restrictives.
 

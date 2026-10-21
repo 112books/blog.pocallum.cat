@@ -28,7 +28,7 @@ description: "El festival Meet Your Coffee Awards 2025 omple la Nau Bostik d’a
 title-seo: "Meet Your Coffee Awards 2025 a la Nau Bostik – Aromes, tastos i passió pel cafè"
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/11/L1520947-1024x576.jpg)](https://photos.app.goo.gl/rSB1hxyAycUpyEqE6)
+[![Una mà fosca subjecta un got de plàstic blanc amb beguda marró en un acte cultural a Barcelona.](https://blog.pocallum.cat/wp-content/uploads/2025/11/L1520947-1024x576.jpg)](https://photos.app.goo.gl/rSB1hxyAycUpyEqE6)
 
 Aquest cap de setmana s'ha celebrat novament el **[Meet Your Coffe Adwards](https://mycoffeeawards.com/live/en/page/home)** a la **[Nau Bostik](https://naubostik.com/esdeveniment/bcn-coffee-adwads-2025/)**.
 

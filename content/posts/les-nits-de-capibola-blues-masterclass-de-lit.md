@@ -14,7 +14,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2011/05/IMG_5760.jpg
 image: https://lh4.googleusercontent.com/_xYdsA1KqJRQ/TcUr8MPySdI/AAAAAAACHnc/dkrZVlw5ERw/s640/IMG_5760.jpg
 ---
 
-|  [![](https://lh4.googleusercontent.com/_xYdsA1KqJRQ/TcUr8MPySdI/AAAAAAACHnc/dkrZVlw5ERw/s640/IMG_5760.jpg)](https://photos.app.goo.gl/H6Vw7qGJ7oL139kb6)  |
+|  [![Un músic amb barret i bigoti toca concentrat la guitarra elèctrica en un escenari fosc amb llums de colors.](https://lh4.googleusercontent.com/_xYdsA1KqJRQ/TcUr8MPySdI/AAAAAAACHnc/dkrZVlw5ERw/s640/IMG_5760.jpg)](https://photos.app.goo.gl/H6Vw7qGJ7oL139kb6)  |
 | --- |
 | De [Les Nits de Capibola Blues - Johnny Perez Blues Trío - 06/05/1](https://picasaweb.google.com/linuxbcn/LesNitsDeCapibolaBluesJohnnyPerezBluesTrio060511?feat=embedwebsite)[1](https://photos.app.goo.gl/H6Vw7qGJ7oL139kb6) |
 

@@ -16,7 +16,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/07/IMG_4398.jpg
 image: https://lh6.googleusercontent.com/-7iyvbazhF_8/T_NygUR163I/AAAAAAADObU/OrYPs9tyGgE/s800/IMG_4398.jpg
 ---
 
-|  [![](https://lh6.googleusercontent.com/-7iyvbazhF_8/T_NygUR163I/AAAAAAADObU/OrYPs9tyGgE/s800/IMG_4398.jpg)](https://photos.app.goo.gl/NF1N2gsZ53Xwnf9N7)  |
+|  [![Una noia somrient amb barret abraça el seu gos petit en un carrer de Barcelona.](https://lh6.googleusercontent.com/-7iyvbazhF_8/T_NygUR163I/AAAAAAADObU/OrYPs9tyGgE/s800/IMG_4398.jpg)](https://photos.app.goo.gl/NF1N2gsZ53Xwnf9N7)  |
 | --- |
 | De [Post-sessió de fotos](https://photos.app.goo.gl/NF1N2gsZ53Xwnf9N7) |
 

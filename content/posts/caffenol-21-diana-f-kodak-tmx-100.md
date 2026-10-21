@@ -10,7 +10,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/07/Caffenol-21-Dian
 image: https://lh5.googleusercontent.com/-YuShR8cd5nQ/UdFE1OILWDI/AAAAAAADxN8/3_Y0BALHaP4/s640/Caffenol%252021-%2520Diana%2520F%252B%2520-%2520005.jpg
 ---
 
-|  [![](https://lh5.googleusercontent.com/-YuShR8cd5nQ/UdFE1OILWDI/AAAAAAADxN8/3_Y0BALHaP4/s640/Caffenol%252021-%2520Diana%2520F%252B%2520-%2520005.jpg)](https://photos.app.goo.gl/sKJxYSTGT3S2pkWZ9)  |
+|  [![Un gran nombre de petites barques blanques suren disperses al mar sota un cel gris fosc.](https://lh5.googleusercontent.com/-YuShR8cd5nQ/UdFE1OILWDI/AAAAAAADxN8/3_Y0BALHaP4/s640/Caffenol%252021-%2520Diana%2520F%252B%2520-%2520005.jpg)](https://photos.app.goo.gl/sKJxYSTGT3S2pkWZ9)  |
 | --- |
 | De [Caffenol #21 - Diana F+ - Kodak TMX 100](https://photos.app.goo.gl/sKJxYSTGT3S2pkWZ9) |
 

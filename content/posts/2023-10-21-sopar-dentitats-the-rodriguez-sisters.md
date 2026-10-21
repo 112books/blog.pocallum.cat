@@ -11,7 +11,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2023/10/DSF5196.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2023/10/DSF5196-1024x683.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2023/10/DSF5196-1024x683.jpg)](https://photos.app.goo.gl/G2jDfschsBJaPgJF9)
+[![Dues dones actuen en un escenari fosc, una asseguda tocant la guitarra acústica i l'altra dreta amb un vestit llarg i un vel.](https://blog.pocallum.cat/wp-content/uploads/2023/10/DSF5196-1024x683.jpg)](https://photos.app.goo.gl/G2jDfschsBJaPgJF9)
 
 _El ardiente despertar_ és el títol del concert teatralitzat de [The Rodríguez Sisters](https://www.instagram.com/the_rodri_sisters/): tres dives en decadència que, havent passat la seva època daurada, continuen presentant el seu concert com si estiguessin en un gran auditori o el teatre més important.
 

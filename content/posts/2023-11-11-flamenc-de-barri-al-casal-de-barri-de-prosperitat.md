@@ -13,7 +13,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2023/11/2023-11-11-LM6-A
 image: https://blog.pocallum.cat/wp-content/uploads/2023/11/2023-11-11-LM6-AgfaAPX400@1600-Flamenco-de-Barrio-2023-2-0057-1024x683.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2023/11/2023-11-11-LM6-AgfaAPX400@1600-Flamenco-de-Barrio-2023-2-0057-1024x683.jpg)](https://photos.app.goo.gl/4AoaUEMi17sgeFEw8)
+[![Dona ballant flamenc amb els braços estesos en un escenari fosc, amb músics asseguts al fons.](https://blog.pocallum.cat/wp-content/uploads/2023/11/2023-11-11-LM6-AgfaAPX400@1600-Flamenco-de-Barrio-2023-2-0057-1024x683.jpg)](https://photos.app.goo.gl/4AoaUEMi17sgeFEw8)
 
 Un any més tenim al barri del "Flamenco de barrio" organitzat pels genials companys de [Comando Lunares](https://www.instagram.com/comandolunares/). Enguany he anat novament a cegues, ja que sabia perfectament que seria un gran espectacle. A més són dels dies que saps que el caliu i la gentada estan garantides i que el gaudiria amb la resta de veïnes del barri. Encara no sé si m'agrada, o no, el flamenc tan "pur" o "Jondo", però l'espectacle és impressionant i, per fer-ne fotos, espectacular.
 

@@ -11,4 +11,4 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/02/L1410826.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2024/02/L1410826-1024x683.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/02/L1410826-1024x683.jpg)](https://photos.app.goo.gl/fT8rjsSsyKBrUCzR9)
+[![Un home d'esquena entra en una sala d'exposicions on diverses persones conversen en un espai industrial.](https://blog.pocallum.cat/wp-content/uploads/2024/02/L1410826-1024x683.jpg)](https://photos.app.goo.gl/fT8rjsSsyKBrUCzR9)

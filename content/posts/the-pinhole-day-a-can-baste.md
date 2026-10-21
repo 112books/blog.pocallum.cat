@@ -14,7 +14,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2011/04/IMG_1061.jpg
 image: https://lh6.googleusercontent.com/_xYdsA1KqJRQ/Tbx9_zb6yKI/AAAAAAACHOU/O5mb3V80sXk/s640/IMG_1061.jpg
 ---
 
-|  [![](https://lh6.googleusercontent.com/_xYdsA1KqJRQ/Tbx9_zb6yKI/AAAAAAACHOU/O5mb3V80sXk/s640/IMG_1061.jpg)](https://photos.app.goo.gl/tJkUKQ2QCJzM6teF3)  |
+|  [![Una mà sosté una gran impressió fotogràfica capgirada amb policies al voltant d'un cotxe bolcat davant d'un banc.](https://lh6.googleusercontent.com/_xYdsA1KqJRQ/Tbx9_zb6yKI/AAAAAAACHOU/O5mb3V80sXk/s640/IMG_1061.jpg)](https://photos.app.goo.gl/tJkUKQ2QCJzM6teF3)  |
 | --- |
 | De [Pinhole day - can Basté 30/04/11](https://photos.app.goo.gl/tJkUKQ2QCJzM6teF3) |
 

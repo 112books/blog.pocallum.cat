@@ -16,6 +16,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2014/06/066509.jpg
 image: https://lh3.googleusercontent.com/-EvXkqHpidqM/U5CUEvwMHLI/AAAAAAAEMBo/C-0M4VEbDDY/s640/066509.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-EvXkqHpidqM/U5CUEvwMHLI/AAAAAAAEMBo/C-0M4VEbDDY/s640/066509.jpg)](https://photos.app.goo.gl/kdwfdixdHgTQbRe7A)  |
+|  [![Una noia fent una foto amb una càmera davant d'un mural de graffitis en un carrer de Barcelona.](https://lh3.googleusercontent.com/-EvXkqHpidqM/U5CUEvwMHLI/AAAAAAAEMBo/C-0M4VEbDDY/s640/066509.jpg)](https://photos.app.goo.gl/kdwfdixdHgTQbRe7A)  |
 | --- |
 | De [MangoDIY Lomography Barcelona Workshop](https://photos.app.goo.gl/kdwfdixdHgTQbRe7A) |

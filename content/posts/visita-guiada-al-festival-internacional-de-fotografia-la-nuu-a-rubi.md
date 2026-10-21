@@ -27,7 +27,7 @@ description: "Descobreix La Nuu, el festival internacional de fotografia de Rub�
 title-seo: "Visita guiada al Festival Internacional de Fotografia La Nuu a Rubí"
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/10/2025-10-13-LCa-Foma400@800-Varies-0013-1024x616.jpg)](https://photos.app.goo.gl/CsEtzkryVnfmwugj7)
+[![Home assegut entre vegetació amb flors blanques superposades, duent una samarreta amb text i una copa a l'esquerra.](https://blog.pocallum.cat/wp-content/uploads/2025/10/2025-10-13-LCa-Foma400@800-Varies-0013-1024x616.jpg)](https://photos.app.goo.gl/CsEtzkryVnfmwugj7)
 
 _Petit experiment amb una doble exposició realitzada amb la petita LC-A+_
 

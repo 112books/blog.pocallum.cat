@@ -11,6 +11,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2015/04/1159-HolgaWPC-Re
 image: https://lh5.googleusercontent.com/-iQqczaPdpuQ/VSWcbcjWW_I/AAAAAAAEp2o/pYjJ14fF8-c/s640/1159%2520-%2520HolgaWPC-Reala%2520-%2520003.jpg
 ---
 
-|  [![](https://lh5.googleusercontent.com/-iQqczaPdpuQ/VSWcbcjWW_I/AAAAAAAEp2o/pYjJ14fF8-c/s640/1159%2520-%2520HolgaWPC-Reala%2520-%2520003.jpg)](https://photos.app.goo.gl/FRe8rikou28y9RPy9)  |
+|  [![Un home amb barret i dessuadora seu en un turó amb vegetació, mirant a la càmera amb les mans juntes.](https://lh5.googleusercontent.com/-iQqczaPdpuQ/VSWcbcjWW_I/AAAAAAAEp2o/pYjJ14fF8-c/s640/1159%2520-%2520HolgaWPC-Reala%2520-%2520003.jpg)](https://photos.app.goo.gl/FRe8rikou28y9RPy9)  |
 | --- |
 | De [1159 - Holga WPC - Fuji Reala](https://photos.app.goo.gl/FRe8rikou28y9RPy9) |

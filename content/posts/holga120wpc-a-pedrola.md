@@ -12,7 +12,7 @@ image: https://lh3.googleusercontent.com/pw/ACtC-3f5LWLzQr5sxcqjbxERyptD3F-_Ozg7
 
 <figure>
 
-[![](https://lh3.googleusercontent.com/pw/ACtC-3f5LWLzQr5sxcqjbxERyptD3F-_Ozg7MOy4Ynyuv3_XS_eQp2661bPEFUIkpGG8oTvI8XVmINX8SmwPwbdyQcKtUDO-h-W-PGKLTETR7sZvxWLdecfSADLjs43Yu390XWa7L0dhsIVpFnXvc92dZ35yfw=w751-h1257-no?authuser=0)](https://photos.app.goo.gl/NbEHZRUgSjQFWsjJ8)
+[![Un gran aerogenerador s'alça en primer pla contra un sol enlluernador, amb altres turbines en un paisatge fosc.](https://lh3.googleusercontent.com/pw/ACtC-3f5LWLzQr5sxcqjbxERyptD3F-_Ozg7MOy4Ynyuv3_XS_eQp2661bPEFUIkpGG8oTvI8XVmINX8SmwPwbdyQcKtUDO-h-W-PGKLTETR7sZvxWLdecfSADLjs43Yu390XWa7L0dhsIVpFnXvc92dZ35yfw=w751-h1257-no?authuser=0)](https://photos.app.goo.gl/NbEHZRUgSjQFWsjJ8)
 
 <figcaption>
 

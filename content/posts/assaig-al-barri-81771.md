@@ -10,6 +10,6 @@ tags: []
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_1922-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_1922.jpg
 ---
-[![](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_1922.jpg)](https://photos.app.goo.gl/mygSo3vxnPtjGjfY6)
+[![Un grup de sis amics somriuen a la càmera des d'un angle inferior en una sala amb una paret groga decorada.](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_1922.jpg)](https://photos.app.goo.gl/mygSo3vxnPtjGjfY6)
 
 [Totes les fotografies](https://photos.app.goo.gl/mygSo3vxnPtjGjfY6)

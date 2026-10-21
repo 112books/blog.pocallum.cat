@@ -26,7 +26,7 @@ description: "Pocallum.cat estrena una nova web desenvolupada per LinuxBCN.cat: 
 title-seo: "Nova web de Pocallum.cat — fotografia cultural més ràpida, neta i independent"
 ---
 
-![](https://blog.pocallum.cat/wp-content/uploads/2026/05/pocallum-home-04-1024x774.png)
+![Un contrabaixista toca amb passió en un escenari fosc, acompanyat per altres músics de jazz al fons.](https://blog.pocallum.cat/wp-content/uploads/2026/05/pocallum-home-04-1024x774.png)
 
 Després de molts anys funcionant sobre WordPress, **[Pocallum.cat](https://pocallum.cat)** inicia una nova etapa amb una web completament renovada i desenvolupada per [LinuxBCN.cat](https://linuxbcn.cat)
 

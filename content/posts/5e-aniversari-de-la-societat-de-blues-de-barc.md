@@ -10,7 +10,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_9090-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_9090-1024x682.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_9090-1024x682.jpg)](https://photos.app.goo.gl/NzaDjEa1zzD7PykY7)
+[![Un home gran toca l'harmònica davant d'un micròfon en un concert a Barcelona.](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_9090-1024x682.jpg)](https://photos.app.goo.gl/NzaDjEa1zzD7PykY7)
 
 Amb Nasty Boogie / Igor Prado Band & Linwood Slim
 

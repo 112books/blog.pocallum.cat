@@ -17,7 +17,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/05/L1430375-Mejorad
 image: https://blog.pocallum.cat/wp-content/uploads/2024/05/L1430375-Mejorado-NR-1024x683.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/05/L1430375-Mejorado-NR-1024x683.jpg)](https://photos.app.goo.gl/sTZXpLpr9sNEXq3DA)
+[![Un home canta o recita a l'escenari amb músics al darrere, davant d'un públic assegut en una sala fosca.](https://blog.pocallum.cat/wp-content/uploads/2024/05/L1430375-Mejorado-NR-1024x683.jpg)](https://photos.app.goo.gl/sTZXpLpr9sNEXq3DA)
 
 [ESMUC - Cicle de concerts finals del curs 2023-2024 - Nau Bostik](https://naubostik.com/esdeveniment/concerts-finals-esmuc/)
 

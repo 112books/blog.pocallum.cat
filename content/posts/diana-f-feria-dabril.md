@@ -15,6 +15,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/04/445606.jpg
 image: https://lh5.googleusercontent.com/-ucDegfbwzDo/UW0DV0uYvhI/AAAAAAADpCw/HBOddLtv24E/s640/445606.jpg
 ---
 
-|  [![](https://lh5.googleusercontent.com/-ucDegfbwzDo/UW0DV0uYvhI/AAAAAAADpCw/HBOddLtv24E/s640/445606.jpg)](https://photos.app.goo.gl/cTXGH1VU97swGZAw6)  |
+|  [![Una dona balla flamenc amb un vestit fosc en una plaça a la nit davant d'espectadors asseguts.](https://lh5.googleusercontent.com/-ucDegfbwzDo/UW0DV0uYvhI/AAAAAAADpCw/HBOddLtv24E/s640/445606.jpg)](https://photos.app.goo.gl/cTXGH1VU97swGZAw6)  |
 | --- |
 | De [Diana +F - Feria d'abril](https://photos.app.goo.gl/cTXGH1VU97swGZAw6) |

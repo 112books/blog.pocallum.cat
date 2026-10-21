@@ -10,6 +10,6 @@ tags: []
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_0065-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_0065.jpg
 ---
-[![](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_0065.jpg)](https://photos.app.goo.gl/god7k2PPbQFcY5Fp6)
+[![Tres músics amb barrets toquen en directe en un escenari fosc; un assegut al teclat i dos dempeus amb guitarres.](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_0065.jpg)](https://photos.app.goo.gl/god7k2PPbQFcY5Fp6)
 
 [Totes les fotografies](https://photos.app.goo.gl/god7k2PPbQFcY5Fp6)

@@ -12,7 +12,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2020/05/2020-05-12-005-819x1
 
 <figure>
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2020/05/2020-05-12-005-819x1024.jpg)](https://photos.app.goo.gl/nPzj92Yr3hoUADVG9)
+[![Fanal modernista desenfocat en primer pla davant l'estructura de gelosia blanca del Museu del Disseny.](https://blog.pocallum.cat/wp-content/uploads/2020/05/2020-05-12-005-819x1024.jpg)](https://photos.app.goo.gl/nPzj92Yr3hoUADVG9)
 
 <figcaption>
 

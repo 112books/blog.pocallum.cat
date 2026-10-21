@@ -10,7 +10,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2016/07/IMG_6298.jpg
 image: https://lh3.googleusercontent.com/-441ixk4eJpI/V4tSp_IsxUI/AAAAAAAFPY0/_wjd13aQuoAzuWZ3kHKFxbLdpDHVKJ6ZgCCo/s640/IMG_6298.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-441ixk4eJpI/V4tSp_IsxUI/AAAAAAAFPY0/_wjd13aQuoAzuWZ3kHKFxbLdpDHVKJ6ZgCCo/s640/IMG_6298.jpg)](https://goo.gl/photos/r1ansxjM1oCw7hsRA)  |
+|  [![. * No cometes ni claudàtors. * No copiar text de la imatge (hi ha una marca d'aigua](https://lh3.googleusercontent.com/-441ixk4eJpI/V4tSp_IsxUI/AAAAAAAFPY0/_wjd13aQuoAzuWZ3kHKFxbLdpDHVKJ6ZgCCo/s640/IMG_6298.jpg)](https://goo.gl/photos/r1ansxjM1oCw7hsRA)  |
 | --- |
 | De [Festival de Blues de Barcelona – Dissabte](https://goo.gl/photos/r1ansxjM1oCw7hsRA) |
 

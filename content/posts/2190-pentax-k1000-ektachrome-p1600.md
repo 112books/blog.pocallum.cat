@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2014/07/2190-PK1000-1600
 image: https://lh3.googleusercontent.com/-mDUhlHPO9Ys/U75C5lD6xFI/AAAAAAAEOic/OJQqCPyLbqM/s640/2190%2520-%2520PK1000%2520-%25201600%2520-%2520012.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-mDUhlHPO9Ys/U75C5lD6xFI/AAAAAAAEOic/OJQqCPyLbqM/s640/2190%2520-%2520PK1000%2520-%25201600%2520-%2520012.jpg)](https://photos.app.goo.gl/EJxg4KBEwTzcRc6N6)  |
+|  [![Un cantant amb micròfon actua en un escenari fosc, acompanyat de músics amb saxòfons, sota llums blaves i verdes.](https://lh3.googleusercontent.com/-mDUhlHPO9Ys/U75C5lD6xFI/AAAAAAAEOic/OJQqCPyLbqM/s640/2190%2520-%2520PK1000%2520-%25201600%2520-%2520012.jpg)](https://photos.app.goo.gl/EJxg4KBEwTzcRc6N6)  |
 | --- |
 | De [2190 - Pentax k1000 - Ektachrome P1600](https://photos.app.goo.gl/EJxg4KBEwTzcRc6N6) |

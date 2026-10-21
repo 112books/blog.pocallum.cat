@@ -19,7 +19,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2023/09/L1350788-1024x57
 image: https://blog.pocallum.cat/wp-content/uploads/2023/09/L1350788-1024x576.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2023/09/L1350788-1024x576.jpg)](https://photos.app.goo.gl/ZyhaRrBydao2eYUj9)
+[![Dona ballant d'esquena en un concert a l'aire lliure, amb músics asseguts i una furgoneta blanca al fons.](https://blog.pocallum.cat/wp-content/uploads/2023/09/L1350788-1024x576.jpg)](https://photos.app.goo.gl/ZyhaRrBydao2eYUj9)
 
 La [Nau Bostik](https://naubostik.com/esdeveniment/accio-cultura-viva-2023/) repeteix col·laboració amb l'Ajuntament de Barcelona i, dins el programa de les festes de la Mercè, amb la Fira del disc independent i els concerts de l'[Alba Alsina Quintet](https://www.albaalsina.com) i [The Salsa Punck Orkestra](https://www.instagram.com/p/Clgpe1oDwwe/).
 

@@ -27,7 +27,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2024/11/L1490821-Mejorado-NR
 description: "Descobreix la festa homenatge al gran Malick Coumba Samb a l'espai KM14, on músics i amics es van reunir per celebrar la seva música amb una jam session plena d'energia i bon ambient."
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/11/L1490821-Mejorado-NR-1024x576.jpg)](https://photos.app.goo.gl/DTczEWkvqWgA88q37)
+[![Cantant en blanc i negre amb el puny aixecat actua en directe en un escenari fosc, amb un altre músic al fons.](https://blog.pocallum.cat/wp-content/uploads/2024/11/L1490821-Mejorado-NR-1024x576.jpg)](https://photos.app.goo.gl/DTczEWkvqWgA88q37)
 
 Ahir dissabte vaig poder passar per l'espai **km14**, dins la **nau bostik**, on se celebrava, mai millor dit, una festa homenatge al gran **Malick Coumba Samb**.
 

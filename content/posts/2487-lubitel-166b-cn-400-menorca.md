@@ -14,6 +14,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/08/2487-Lubitel166B
 image: https://lh4.googleusercontent.com/-02K9s1-HDAI/Uh9cMVn3vbI/AAAAAAAD4N4/agu6YrdI9-g/s640/2487%2520-%2520Lubitel166B%2520-%2520-%2520001.jpg
 ---
 
-|  [![](https://lh4.googleusercontent.com/-02K9s1-HDAI/Uh9cMVn3vbI/AAAAAAAD4N4/agu6YrdI9-g/s640/2487%2520-%2520Lubitel166B%2520-%2520-%2520001.jpg)](https://photos.app.goo.gl/iPYZLYwqWHLMeysE9)  |
+|  [![Tres dones amb vestits estiuencs posen somrients davant d'una paret blanca.](https://lh4.googleusercontent.com/-02K9s1-HDAI/Uh9cMVn3vbI/AAAAAAAD4N4/agu6YrdI9-g/s640/2487%2520-%2520Lubitel166B%2520-%2520-%2520001.jpg)](https://photos.app.goo.gl/iPYZLYwqWHLMeysE9)  |
 | --- |
 | De [2487 - Lubitel 166B - CN 400 - Menorca](https://photos.app.goo.gl/iPYZLYwqWHLMeysE9) |

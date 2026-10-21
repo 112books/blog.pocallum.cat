@@ -12,7 +12,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2020/05/2020-05-12-b-004-101
 
 <figure>
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2020/05/2020-05-12-b-004-1015x1024.jpg)](https://photos.app.goo.gl/XeQgxZpXuwE1tg5V7)
+[![Un gran mirall recolzat a una paret de pedra reflecteix el fotògraf, arbres i un edifici sobre un terra de rajoles.](https://blog.pocallum.cat/wp-content/uploads/2020/05/2020-05-12-b-004-1015x1024.jpg)](https://photos.app.goo.gl/XeQgxZpXuwE1tg5V7)
 
 <figcaption>
 

@@ -10,4 +10,4 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2020/07/2020-07-087-A-01
 image: https://blog.pocallum.cat/wp-content/uploads/2020/07/2020-07-087-A-013-1024x626.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2020/07/2020-07-087-A-013-1024x626.jpg)](https://photos.app.goo.gl/btNmeMWXkvL1ijLd7)
+[![Pianista tocant en directe un piano de cua en un escenari de fusta, amb un pati d'arcs i palmeres al fons.](https://blog.pocallum.cat/wp-content/uploads/2020/07/2020-07-087-A-013-1024x626.jpg)](https://photos.app.goo.gl/btNmeMWXkvL1ijLd7)

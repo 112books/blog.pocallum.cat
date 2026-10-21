@@ -13,6 +13,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/07/0498-LC-A-Lomo-1
 image: https://lh6.googleusercontent.com/-ScKELE8HiV0/Ud2KUPmkLSI/AAAAAAADyfs/yyFv7Fj98TU/s640/0498%2520-%2520LC-A%2520-%2520Lomo%2520100%2520-022.jpg
 ---
 
-|  [![](https://lh6.googleusercontent.com/-ScKELE8HiV0/Ud2KUPmkLSI/AAAAAAADyfs/yyFv7Fj98TU/s640/0498%2520-%2520LC-A%2520-%2520Lomo%2520100%2520-022.jpg)](https://photos.app.goo.gl/P3w7qb8AxEbxgMF2A)  |
+|  [![Home d'estil retro amb jaqueta grisa fuma un cigarret en un local fosc de Barcelona.](https://lh6.googleusercontent.com/-ScKELE8HiV0/Ud2KUPmkLSI/AAAAAAADyfs/yyFv7Fj98TU/s640/0498%2520-%2520LC-A%2520-%2520Lomo%2520100%2520-022.jpg)](https://photos.app.goo.gl/P3w7qb8AxEbxgMF2A)  |
 | --- |
 | De [Barcelona Big Blues Band - Backstage](https://photos.app.goo.gl/P3w7qb8AxEbxgMF2A) |

@@ -10,7 +10,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2016/04/DSCF9685.jpg
 image: https://lh3.googleusercontent.com/-1vAMPkCXTsU/VyPUcygZG8I/AAAAAAAFEl4/YwKJwbf0YswzuPxuI-qBEpLeRvPh_AKFwCCo/s640/DSCF9685.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-1vAMPkCXTsU/VyPUcygZG8I/AAAAAAAFEl4/YwKJwbf0YswzuPxuI-qBEpLeRvPh_AKFwCCo/s640/DSCF9685.jpg)](https://photos.app.goo.gl/CcmArM5CzxRhiYLH8)  |
+|  [![Un home barbut parla per un micròfon davant d'un grup de persones en una galeria d'art amb obres a la paret.](https://lh3.googleusercontent.com/-1vAMPkCXTsU/VyPUcygZG8I/AAAAAAAFEl4/YwKJwbf0YswzuPxuI-qBEpLeRvPh_AKFwCCo/s640/DSCF9685.jpg)](https://photos.app.goo.gl/CcmArM5CzxRhiYLH8)  |
 | --- |
 | De [Nau Bostik - Essence du Bénin](https://photos.app.goo.gl/CcmArM5CzxRhiYLH8) |
 

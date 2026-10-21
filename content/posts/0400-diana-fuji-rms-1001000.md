@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2014/05/0400-Doana-Fjuji
 image: https://lh5.googleusercontent.com/-iThwp_0f6jY/U2jXkhs6fII/AAAAAAAEI1Q/uryhpcJqkLA/s640/0400%2520-%2520Doana%2520-%2520FjujiRMS-009.jpg
 ---
 
-|  [![](https://lh5.googleusercontent.com/-iThwp_0f6jY/U2jXkhs6fII/AAAAAAAEI1Q/uryhpcJqkLA/s640/0400%2520-%2520Doana%2520-%2520FjujiRMS-009.jpg)](https://photos.app.goo.gl/bo3izv2SXfgxCoxo6)  |
+|  [![Paisatge urbà de Barcelona amb branques seques en primer pla i tres xemeneies al fons.](https://lh5.googleusercontent.com/-iThwp_0f6jY/U2jXkhs6fII/AAAAAAAEI1Q/uryhpcJqkLA/s640/0400%2520-%2520Doana%2520-%2520FjujiRMS-009.jpg)](https://photos.app.goo.gl/bo3izv2SXfgxCoxo6)  |
 | --- |
 | De [0400 - Diana - Fuji RMS 100/1000](https://photos.app.goo.gl/bo3izv2SXfgxCoxo6) |

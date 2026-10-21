@@ -25,7 +25,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2025/07/IMG_9160-1024x682.jp
 description: "Crònica del concert d’Avishai Cohen Trio al Vijazz de Vilafranca: una nit memorable amb el gran contrabaixista israelià, acompanyat per Itay Simhovich i Yali Stern, fusionant jazz contemporani i influències mediterrànies."
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/07/IMG_9160-1024x682.jpg)](https://photos.app.goo.gl/6AAeZhVRerfXUcWM9)
+[![Un contrabaixista calb toca amb intensitat en un escenari fosc, amb un altre músic al teclat al fons.](https://blog.pocallum.cat/wp-content/uploads/2025/07/IMG_9160-1024x682.jpg)](https://photos.app.goo.gl/6AAeZhVRerfXUcWM9)
 
 ## Avishai Cohen Trio al Vijazz:  
 una nit per recordar

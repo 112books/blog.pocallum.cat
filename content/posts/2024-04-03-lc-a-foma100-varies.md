@@ -11,6 +11,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/04/2024-04-03-LC-A-
 image: https://blog.pocallum.cat/wp-content/uploads/2024/04/2024-04-03-LC-A-Foma100-Varies-010-1024x614.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/04/2024-04-03-LC-A-Foma100-Varies-010-1024x614.jpg)](https://photos.app.goo.gl/jQtZeUwHmk25bbMS6)
+[![Branques fosques amb fulles escasses es retallen en silueta contra un cel gris i ennuvolat.](https://blog.pocallum.cat/wp-content/uploads/2024/04/2024-04-03-LC-A-Foma100-Varies-010-1024x614.jpg)](https://photos.app.goo.gl/jQtZeUwHmk25bbMS6)
 
 Seguim caminant, seguim fotografiant. Sempre amb alguna andròmina a la butxaca, aquests dies la LC-A+ de Lomography i una humil pel·lícula Fomapan 100. Coses que passen per davant, a dalt, al costat, totes congelades en el temps.

@@ -14,7 +14,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/09/612331b.jpg
 image: https://lh5.googleusercontent.com/-JF1zoXA4AqQ/UFCGtx6dZWI/AAAAAAADTtI/7Jg1j4rvFgE/s800/612331b.jpg
 ---
 
-|  [![](https://lh5.googleusercontent.com/-JF1zoXA4AqQ/UFCGtx6dZWI/AAAAAAADTtI/7Jg1j4rvFgE/s800/612331b.jpg)](https://photos.app.goo.gl/cW7TLcxQ6U7XTWY2A)  |
+|  [![Un camió carregat de bombones de butà taronges aparcat davant d'un comerç en un carrer de Barcelona.](https://lh5.googleusercontent.com/-JF1zoXA4AqQ/UFCGtx6dZWI/AAAAAAADTtI/7Jg1j4rvFgE/s800/612331b.jpg)](https://photos.app.goo.gl/cW7TLcxQ6U7XTWY2A)  |
 | --- |
 | De [Canon Demi - Analogic half format](https://photos.app.goo.gl/cW7TLcxQ6U7XTWY2A) |
 

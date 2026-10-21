@@ -13,6 +13,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2011/10/IMG_5859.jpg
 image: https://lh6.googleusercontent.com/-O9EuQToH1QQ/ToZyJa0er6I/AAAAAAACUvc/7PpBjAdSx0E/s800/IMG_5859.jpg
 ---
 
-[![](https://lh6.googleusercontent.com/-O9EuQToH1QQ/ToZyJa0er6I/AAAAAAACUvc/7PpBjAdSx0E/s800/IMG_5859.jpg)](https://photos.app.goo.gl/rE3WaRHxWdnd31QC8)
+[![Dona amb un gran tocat daurat i tatuatges balla amb flames en un escenari fosc.](https://lh6.googleusercontent.com/-O9EuQToH1QQ/ToZyJa0er6I/AAAAAAACUvc/7PpBjAdSx0E/s800/IMG_5859.jpg)](https://photos.app.goo.gl/rE3WaRHxWdnd31QC8)
 
 Un any més al Barcelona Tattoo Expo. Aquí les fotos del primer dia.

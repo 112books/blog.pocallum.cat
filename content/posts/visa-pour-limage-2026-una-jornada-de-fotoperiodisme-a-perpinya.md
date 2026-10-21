@@ -27,7 +27,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2026/09/L1560989.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2026/09/L1560989-1024x576.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2026/09/L1560989-1024x576.jpg)](https://photos.app.goo.gl/cBqjpXEGfhmddiwf8)
+[![Dues persones en un carrer de pedra, una asseguda subjecta un fulletó amb un mapa i l'altra dreta al seu costat.](https://blog.pocallum.cat/wp-content/uploads/2026/09/L1560989-1024x576.jpg)](https://photos.app.goo.gl/cBqjpXEGfhmddiwf8)
 
 ## Fins sempre, Jean-François Leroy
 

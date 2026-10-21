@@ -12,6 +12,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/06/DSF3273.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2024/06/DSF3273-1024x683.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/06/DSF3273-1024x683.jpg)](https://photos.app.goo.gl/Xt1sMctSez6aQLYaA)
+[![Una cantant riallera canta al micròfon acompanyada d'un contrabaixista i un guitarrista en una sala amb parets de maó.](https://blog.pocallum.cat/wp-content/uploads/2024/06/DSF3273-1024x683.jpg)](https://photos.app.goo.gl/Xt1sMctSez6aQLYaA)
 
 Avui he anat de nou al [Bar Formentera](https://www.instagram.com/barformentera41/) a fer el vermut. A més del venut m'he trobat amb aquest concert molt blusero que ha estat increïble. Es tracta d'en [Willy Karma](https://www.instagram.com/williekarma/) i els seus col·legues. Encara queden racons ben autèntics al meu barri i això, amiguets, mola molt!

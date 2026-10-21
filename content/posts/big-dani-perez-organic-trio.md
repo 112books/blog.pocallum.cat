@@ -20,7 +20,7 @@ description: "Nits de Capibola Blues amb Big Dani Pérez Organic Trio: master cl
 title-seo: "Nits Capibola Blues: Big Dani Pérez Organic Trio | Swing"
 ---
 
-![](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_9359-1024x453.jpg)
+![Un teclista assegut, un saxofonista dempeus i un bateria actuen en un escenari fosc d'un club de Barcelona.](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_9359-1024x453.jpg)
 
 Una nit extraordinària de **Capibola Blues** que va combinar formació, música i ball. L'esdeveniment va incloure:
 

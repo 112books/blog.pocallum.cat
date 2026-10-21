@@ -24,7 +24,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2025/01/2024-12-29-LeicaM6-F
 description: "Descobreix les icòniques Palmes i Diapasons del Parc Central de Nou Barris a través d’un recull fotogràfic amb pel·lícula analògica Fomapan 100, capturant la seva bellesa i denunciant-ne el mal estat actual."
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/01/2024-12-29-LeicaM6-Foma100@200-R150-ParcCentralNB-0053-1024x665.jpg)](https://photos.app.goo.gl/3aTf1gAJFg5DZLpr6)
+[![Estructura metàl·lica amb un arc corb i una biga recta que es creuen, vista des de baix contra un cel clar.](https://blog.pocallum.cat/wp-content/uploads/2025/01/2024-12-29-LeicaM6-Foma100@200-R150-ParcCentralNB-0053-1024x665.jpg)](https://photos.app.goo.gl/3aTf1gAJFg5DZLpr6)
 
 Les darreres fotografies que he fet el 2024 són al barri de Nou Barris, concretament al Parc Central. Sempre cercant elements curiosos i diferents, aquestes “Peinetes”, com es coneixen popularment, o “Palmes i Diapasons” (1997-2003), segons els arquitectes [Andreu Arriola i Carme Fiol](https://arriolafiol.com/), són un símbol icònic de Nou Barris i una obra ben original. No és la primera vegada que les fotografio, però el passat dia 29 vaig apropar-m’hi tot passejant. Amb el bon temps, vaig aconseguir aquest recull de fotografies.
 

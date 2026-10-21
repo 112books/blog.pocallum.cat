@@ -12,7 +12,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2016/01/4673-Noon612-Pro
 image: https://lh3.googleusercontent.com/-Qzjz7UQ4iW8/VpaEeMT-xqI/AAAAAAAE-gA/sbhspJgRvdk/s640-Ic42/4673%252520-%252520Noon612%252520-%252520Provia009.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-Qzjz7UQ4iW8/VpaEeMT-xqI/AAAAAAAE-gA/sbhspJgRvdk/s640-Ic42/4673%252520-%252520Noon612%252520-%252520Provia009.jpg)](https://photos.app.goo.gl/veRBMiwoFmi4BZRi8)  |
+|  [![Detall del davant d'un cotxe fosc aparcat, amb la roda i el retrovisor en primer pla sota un cel clar.](https://lh3.googleusercontent.com/-Qzjz7UQ4iW8/VpaEeMT-xqI/AAAAAAAE-gA/sbhspJgRvdk/s640-Ic42/4673%252520-%252520Noon612%252520-%252520Provia009.jpg)](https://photos.app.goo.gl/veRBMiwoFmi4BZRi8)  |
 | --- |
 | De [4673 - Noon Pinhole 612 - FUJICHROME PROVIA 100F](https://photos.app.goo.gl/veRBMiwoFmi4BZRi8) |
 

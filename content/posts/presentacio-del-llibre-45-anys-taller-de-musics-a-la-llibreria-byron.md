@@ -26,7 +26,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2025/12/L1530887-1024x576.jp
 description: "Assistència a la presentació del llibre 45 anys Taller de Músics a la Llibreria Byron, obra de Lluís Cabrera i Joan Tomás. Una trobada plena d’història, música i emoció, amb novetats sobre el Patronat i un final musical inoblidable."
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/12/L1530887-1024x576.jpg)](https://photos.app.goo.gl/unZHWJWXcsu3ecUFA)
+[![Dos homes grans riuen en un local amb paret de maó, un d'ells fa un gest amb la mà.](https://blog.pocallum.cat/wp-content/uploads/2025/12/L1530887-1024x576.jpg)](https://photos.app.goo.gl/unZHWJWXcsu3ecUFA)
 
 Avui he tingut el gran plaer d’assistir a la presentació del llibre _**45 anys Taller de Músics**_ a l’acollidora [Llibreria Byron](https://llibreriabyron.com/). El llibre —que té una pinta extraordinària i recull la història del [Taller de Músics](https://tallerdemusics.com/ca/)— és obra del mateix [Lluís Cabrera](https://ca.wikipedia.org/wiki/Llu%C3%ADs_Cabrera_i_S%C3%A1nchez) i del gran fotògraf [Joan Tomás](https://www.joantomas.info/). Quasi res!
 

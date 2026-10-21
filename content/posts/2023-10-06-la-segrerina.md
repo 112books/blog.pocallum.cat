@@ -11,6 +11,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2023/10/L1360335-Mejorad
 image: https://blog.pocallum.cat/wp-content/uploads/2023/10/L1360335-Mejorado-NR-1024x576.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2023/10/L1360335-Mejorado-NR-1024x576.jpg)](https://photos.app.goo.gl/piQs2MLejPWE4h5v6)
+[![Una cantant toca la guitarra i canta en un escenari davant una gran pantalla blanca, amb públic al davant.](https://blog.pocallum.cat/wp-content/uploads/2023/10/L1360335-Mejorado-NR-1024x576.jpg)](https://photos.app.goo.gl/piQs2MLejPWE4h5v6)
 
 De casualitat aquest divendres vaig acabar a [@sala\_basiana.espai\_sagrerina](https://www.instagram.com/sala_basiana.espai_sagrerina/). Allà vaig poder al·lucinar amb d'espectacle [#lgtbiq](https://www.instagram.com/explore/tags/lgtbiq/) de la Patrulla Marica. Diversió música i molta alegria. Estigueu-ne al cas que ho fan regularment!

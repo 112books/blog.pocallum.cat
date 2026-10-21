@@ -29,7 +29,7 @@ description: "Crònica fotogràfica de la celebració de l’Any Nou Xinès 2026
 title-seo: "Any Nou Xinès 2026 a Barcelona · Celebrant l’Any del Cavall de Foc"
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2026/02/DSCF2794-1024x683.jpg)](https://photos.app.goo.gl/JRBSkQXPSBParXjy7)
+[![Nenes amb vestits tradicionals xinesos vermells desfilen per un carrer de Barcelona mentre una dona les fotografia.](https://blog.pocallum.cat/wp-content/uploads/2026/02/DSCF2794-1024x683.jpg)](https://photos.app.goo.gl/JRBSkQXPSBParXjy7)
 
 A Barcelona, la celebració de l’Any Nou Xinès 2026 arriba amb força els dies 7 i 8 de febrer, coincidint amb la festa tradicional del calendari lunar. Enguany està dedicada a l’Any del Cavall de Foc, segons el cicle dels dotze animals del zodíac xinès i els cinc elements. El cavall simbolitza força, llibertat, moviment i coratge, i l’element foc n’intensifica l’energia i la passió. Així que sí: ja podem preparar-nos.
 

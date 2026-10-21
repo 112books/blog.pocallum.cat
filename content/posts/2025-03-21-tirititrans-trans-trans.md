@@ -23,7 +23,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2025/03/DSCF0134-1024x577.jp
 description: "L’obra “Tirititrans Trans Trans” al Casal de Prosperitat explora la realitat de quatre dones trans en situació de prostitució, interpel·lant el públic a reflexionar sobre prejudicis i a impulsar el canvi social."
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/03/DSCF0134-1024x577.jpg)](https://photos.app.goo.gl/4NoQuCyz2yBQKXVw9)
+[![Quatre actors assagen en un escenari fosc; una dona de rosa aixeca el braç i un home d'esquena és sobre una caixa.](https://blog.pocallum.cat/wp-content/uploads/2025/03/DSCF0134-1024x577.jpg)](https://photos.app.goo.gl/4NoQuCyz2yBQKXVw9)
 
 Aquest divendres al Casal de barri de Prosperitat s'ha donat veu a la companyia **Tirititrans Trans Trans** (Violet Ferrer, Lineth Phillips, Viviana Díaz, Zarela Tirado, Elisabeth Colomé, Betty Enguix).
 

@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2023/09/2023-08-Montcort
 image: https://blog.pocallum.cat/wp-content/uploads/2023/09/2023-08-Montcortes-HolgaWPC-0001-1024x610.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2023/09/2023-08-Montcortes-HolgaWPC-0001-1024x610.jpg)](https://photos.app.goo.gl/sGCr2CB5eUrWZAb38)
+[![Un ramat d'ovelles pastura en una vall de muntanya, vist des de la teulada de pedra d'un edifici.](https://blog.pocallum.cat/wp-content/uploads/2023/09/2023-08-Montcortes-HolgaWPC-0001-1024x610.jpg)](https://photos.app.goo.gl/sGCr2CB5eUrWZAb38)
 
 A l'estiu, amb un xic de calma, he tret a passejar la meva HolgaWPC, la estenopeica de 6x12 més guay. De pel·lícula la AGFA Copix Rapid que tant mola. Aquí unes poques fotografies de Montcortès.

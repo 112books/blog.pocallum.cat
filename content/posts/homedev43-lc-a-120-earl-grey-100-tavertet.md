@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2015/04/HD43-LC-A120-Ear
 image: https://lh4.googleusercontent.com/-MRV_3O0sL9U/VR_-bGnQMeI/AAAAAAAEptI/6C7vNbo9pFQ/s640/HD%252343%2520-%2520LC-A120%2520-%2520EarlGr009.jpg
 ---
 
-|  [![](https://lh4.googleusercontent.com/-MRV_3O0sL9U/VR_-bGnQMeI/AAAAAAAEptI/6C7vNbo9pFQ/s640/HD%252343%2520-%2520LC-A120%2520-%2520EarlGr009.jpg)](https://photos.app.goo.gl/Jffc8ZbhLuXJkWkb7)  |
+|  [![Panoràmica en blanc i negre de muntanyes amb valls boscoses, un petit llac i núvols prims al cel des d'un punt elevat.](https://lh4.googleusercontent.com/-MRV_3O0sL9U/VR_-bGnQMeI/AAAAAAAEptI/6C7vNbo9pFQ/s640/HD%252343%2520-%2520LC-A120%2520-%2520EarlGr009.jpg)](https://photos.app.goo.gl/Jffc8ZbhLuXJkWkb7)  |
 | --- |
 | De [Homedev#43 - LC-A 120 - Earl Grey 100 - Tavertet](https://photos.app.goo.gl/Jffc8ZbhLuXJkWkb7) |

@@ -12,7 +12,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2020/05/2020-05-26-028-614x1
 
 <figure>
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2020/05/2020-05-26-028-614x1024.jpg)](https://photos.app.goo.gl/rHbmSAZi8U1yfGpn7)
+[![Un passadís llarg amb una figura borrosa en moviment i una intensa llum blanca al fons.](https://blog.pocallum.cat/wp-content/uploads/2020/05/2020-05-26-028-614x1024.jpg)](https://photos.app.goo.gl/rHbmSAZi8U1yfGpn7)
 
 <figcaption>
 

@@ -12,6 +12,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/06/9244-Sprocket-Ro
 image: https://lh5.googleusercontent.com/-QigTojnLWO4/UbXxcsG5AnI/AAAAAAADv5w/DZGc-jXOa2I/s640/9244%2520-%2520Sprocket%2520Rocket%2520-014.jpg
 ---
 
-|  [![](https://lh5.googleusercontent.com/-QigTojnLWO4/UbXxcsG5AnI/AAAAAAADv5w/DZGc-jXOa2I/s640/9244%2520-%2520Sprocket%2520Rocket%2520-014.jpg)](https://photos.app.goo.gl/1zXLyhc8VxmQSE376)  |
+|  [![Tres flors taronges amb el centre groc destaquen davant d'una paret blava texturitzada, amb vores de pel·lícula.](https://lh5.googleusercontent.com/-QigTojnLWO4/UbXxcsG5AnI/AAAAAAADv5w/DZGc-jXOa2I/s640/9244%2520-%2520Sprocket%2520Rocket%2520-014.jpg)](https://photos.app.goo.gl/1zXLyhc8VxmQSE376)  |
 | --- |
 | De [9244 - Sprocket Rocket - CN400](https://photos.app.goo.gl/1zXLyhc8VxmQSE376) |

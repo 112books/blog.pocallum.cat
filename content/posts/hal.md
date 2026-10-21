@@ -13,7 +13,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_4887.jpg
 image: https://lh4.googleusercontent.com/-ktJZDXDipsk/TxKxbC_t1rI/AAAAAAACf30/HGTnNV2tUH0/s800/IMG_4887.jpg
 ---
 
-|  [![](https://lh4.googleusercontent.com/-ktJZDXDipsk/TxKxbC_t1rI/AAAAAAACf30/HGTnNV2tUH0/s800/IMG_4887.jpg)](https://photos.app.goo.gl/A141o3Ky3SQRiNVC9)  |
+|  [![Un jove músic amb els ulls tancats toca el saxòfon en un escenari fosc.](https://lh4.googleusercontent.com/-ktJZDXDipsk/TxKxbC_t1rI/AAAAAAACf30/HGTnNV2tUH0/s800/IMG_4887.jpg)](https://photos.app.goo.gl/A141o3Ky3SQRiNVC9)  |
 | --- |
 | De [HAL](https://photos.app.goo.gl/A141o3Ky3SQRiNVC9) |
 

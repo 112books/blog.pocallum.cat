@@ -11,6 +11,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2015/04/Diana-F-Pinhole-
 image: https://lh3.googleusercontent.com/-uWQgHwRyNYg/VT05JNLfJNI/AAAAAAAEroY/4pNffYaKXEs/s640/Diana%2520F%2520Pinhole%2520-%2520Earl%2520%2520009.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-uWQgHwRyNYg/VT05JNLfJNI/AAAAAAAEroY/4pNffYaKXEs/s640/Diana%2520F%2520Pinhole%2520-%2520Earl%2520%2520009.jpg)](https://photos.app.goo.gl/SKiqtDyV1cNv9XB17)  |
+|  [![Un patinador en moviment i una persona ajupida en una plaça urbana, amb el paviment amb relleu en primer pla.](https://lh3.googleusercontent.com/-uWQgHwRyNYg/VT05JNLfJNI/AAAAAAAEroY/4pNffYaKXEs/s640/Diana%2520F%2520Pinhole%2520-%2520Earl%2520%2520009.jpg)](https://photos.app.goo.gl/SKiqtDyV1cNv9XB17)  |
 | --- |
 | De [Diana F+ PinholeWordDay a Can Basté](https://photos.app.goo.gl/SKiqtDyV1cNv9XB17) |

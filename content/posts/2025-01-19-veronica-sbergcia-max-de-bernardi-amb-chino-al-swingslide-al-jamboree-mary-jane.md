@@ -23,7 +23,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2025/01/2025-01-19-LM6-APX40
 description: "Descobreix l’espectacle únic de Veronica Sbergia, Max de Bernardi i Chino Swingslide al Jamboree, un viatge a les arrels de la música americana amb swing, blues i diversió."
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/01/2025-01-19-LM6-APX400@1600-Chino-Swingslide-al-Jamboree-0022-1024x606.jpg)](https://photos.app.goo.gl/hhwUpnRm1C3fRNyX9)
+[![Tres músics toquen en un escenari fosc: una dona canta i toca la guitarra, una altra l'orgue de maneta i un home la guitarra.](https://blog.pocallum.cat/wp-content/uploads/2025/01/2025-01-19-LM6-APX400@1600-Chino-Swingslide-al-Jamboree-0022-1024x606.jpg)](https://photos.app.goo.gl/hhwUpnRm1C3fRNyX9)
 
 Ara feia dies que al centre no baixava. La mandra dels guiris i les aglomeracions fa que cada vegada costi més arrossegar-me cap al rovell de l'ou de Barcelona. Però bé, com deia aquell: "Qui de bona música vol gaudir, ha de sofrir", o alguna cosa semblant.
 

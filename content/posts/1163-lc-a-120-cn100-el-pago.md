@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2015/04/1163-LCa120-CN10
 image: https://lh6.googleusercontent.com/-SvGtF-3UaDA/VSW0Yi-uGFI/AAAAAAAEp6w/TTqZZoL9dGA/s640/1163%2520-%2520LCa120%2520-%2520CN100%2520-%2520007.jpg
 ---
 
-|  [![](https://lh6.googleusercontent.com/-SvGtF-3UaDA/VSW0Yi-uGFI/AAAAAAAEp6w/TTqZZoL9dGA/s640/1163%2520-%2520LCa120%2520-%2520CN100%2520-%2520007.jpg)](https://photos.app.goo.gl/xnA26pC9YK7LDdZBA)  |
+|  [![Acumulació d'arrels seques i retorçades sobre la terra d'un camp, amb algunes herbes verdes que hi creixen entremig.](https://lh6.googleusercontent.com/-SvGtF-3UaDA/VSW0Yi-uGFI/AAAAAAAEp6w/TTqZZoL9dGA/s640/1163%2520-%2520LCa120%2520-%2520CN100%2520-%2520007.jpg)](https://photos.app.goo.gl/xnA26pC9YK7LDdZBA)  |
 | --- |
 | De [1163 - LC-A 120 - CN100 - El Pago](https://photos.app.goo.gl/xnA26pC9YK7LDdZBA) |

@@ -11,6 +11,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/02/DSF7551-1024x683
 image: https://blog.pocallum.cat/wp-content/uploads/2024/02/DSF7551-1024x683.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/02/DSF7551-1024x683.jpg)](https://photos.app.goo.gl/fvenaic4gF6SS8cf6)
+[![Un home disfressat de rei fa el signe de la pau en un carrer de Barcelona durant una celebració nocturna.](https://blog.pocallum.cat/wp-content/uploads/2024/02/DSF7551-1024x683.jpg)](https://photos.app.goo.gl/fvenaic4gF6SS8cf6)
 
 Carnestoltes a Nou Barris!! Rua central (a veure si t'hi veus!) + Gran festa de Carnaval a l'Ateneu!

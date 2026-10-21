@@ -10,7 +10,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2011/05/expo_ulls-scaled
 image: https://blog.pocallum.cat/wp-content/uploads/2011/05/expo_ulls-scaled1000.jpg
 ---
 
-![](https://blog.pocallum.cat/wp-content/uploads/2011/05/expo_ulls-scaled1000.jpg)
+![Una acròbata fa una figura suspesa d'una cinta en un espai interior amb grans bigues metàl·liques.](https://blog.pocallum.cat/wp-content/uploads/2011/05/expo_ulls-scaled1000.jpg)
 
 CIRC exposició fotogràfica Manel Sala "Ulls"  
 Trapezi / Vilanova i la Geltrú 27, 28 i 29 maig 2011

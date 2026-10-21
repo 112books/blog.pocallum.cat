@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/03/IMG_8014.jpg
 image: https://lh4.googleusercontent.com/-4Rkl-AHO1tI/UTz_qRVOBoI/AAAAAAADlQE/iaghmvgciWM/s640/IMG_8014.jpg
 ---
 
-|  [![](https://lh4.googleusercontent.com/-4Rkl-AHO1tI/UTz_qRVOBoI/AAAAAAADlQE/iaghmvgciWM/s640/IMG_8014.jpg)](https://photos.app.goo.gl/KMkLRBxrCuXD4XqM6)  |
+|  [![Vianants caminen per una avinguda de Barcelona amb un autobús turístic vermell, bicicletes aparcades i edificis.](https://lh4.googleusercontent.com/-4Rkl-AHO1tI/UTz_qRVOBoI/AAAAAAADlQE/iaghmvgciWM/s640/IMG_8014.jpg)](https://photos.app.goo.gl/KMkLRBxrCuXD4XqM6)  |
 | --- |
 | De [Diumenge complert a Barcelona](https://photos.app.goo.gl/KMkLRBxrCuXD4XqM6) |

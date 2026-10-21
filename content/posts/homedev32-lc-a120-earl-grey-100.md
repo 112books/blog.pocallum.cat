@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2015/02/Homedev32-LC-A12
 image: https://lh6.googleusercontent.com/-2bs6FQ4QjAs/VM8wko4YpCI/AAAAAAAEkBE/uPtQiE01ZMI/s640/Homedev%252332%2520-%2520LC-A120%2520-%2520007.jpg
 ---
 
-|  [![](https://lh6.googleusercontent.com/-2bs6FQ4QjAs/VM8wko4YpCI/AAAAAAAEkBE/uPtQiE01ZMI/s640/Homedev%252332%2520-%2520LC-A120%2520-%2520007.jpg)](https://photos.app.goo.gl/ijBLEgtYuW2hPBBD9)  |
+|  [![Un nen amb jaqueta folgada mira seriós a la càmera dret en un camp d'herba seca en blanc i negre.](https://lh6.googleusercontent.com/-2bs6FQ4QjAs/VM8wko4YpCI/AAAAAAAEkBE/uPtQiE01ZMI/s640/Homedev%252332%2520-%2520LC-A120%2520-%2520007.jpg)](https://photos.app.goo.gl/ijBLEgtYuW2hPBBD9)  |
 | --- |
 | De [Homedev#32 - LC-A120 - Earl Grey 100](https://photos.app.goo.gl/ijBLEgtYuW2hPBBD9) |

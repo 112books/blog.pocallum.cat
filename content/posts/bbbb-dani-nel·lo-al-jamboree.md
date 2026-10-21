@@ -11,6 +11,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2015/05/IMG_6577.jpg
 image: https://lh3.googleusercontent.com/-jGhAdwV8Tjs/VWKWPgjTH4I/AAAAAAAEuRY/XGm70gqcNB0/s640/IMG_6577.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-jGhAdwV8Tjs/VWKWPgjTH4I/AAAAAAAEuRY/XGm70gqcNB0/s640/IMG_6577.jpg)](https://photos.app.goo.gl/NVTrvq9m35pqESC38)  |
+|  [![Un músic toca el teclat darrere la tapa d'un piano de cua en un escenari fosc, vist entre un altaveu i una bateria.](https://lh3.googleusercontent.com/-jGhAdwV8Tjs/VWKWPgjTH4I/AAAAAAAEuRY/XGm70gqcNB0/s640/IMG_6577.jpg)](https://photos.app.goo.gl/NVTrvq9m35pqESC38)  |
 | --- |
 | De [BBBB + Dani Nel·lo al Jamboree](https://photos.app.goo.gl/NVTrvq9m35pqESC38) |

@@ -13,6 +13,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/06/9570-LC-A-017.jp
 image: https://lh5.googleusercontent.com/-5vVyBw_ezYQ/UcN8ewOa2vI/AAAAAAADw5s/2k38wCF6WEc/s640/9570%2520-%2520LC-A%2520-%2520017.jpg
 ---
 
-|  [![](https://lh5.googleusercontent.com/-5vVyBw_ezYQ/UcN8ewOa2vI/AAAAAAADw5s/2k38wCF6WEc/s640/9570%2520-%2520LC-A%2520-%2520017.jpg)](https://photos.app.goo.gl/SHbjtJC6Z51DaPPL9)  |
+|  [![Núvols blancs i foscos es barregen al cel de Barcelona, amb el sol filtrant-se i cables elèctrics a la part inferior.](https://lh5.googleusercontent.com/-5vVyBw_ezYQ/UcN8ewOa2vI/AAAAAAADw5s/2k38wCF6WEc/s640/9570%2520-%2520LC-A%2520-%2520017.jpg)](https://photos.app.goo.gl/SHbjtJC6Z51DaPPL9)  |
 | --- |
 | De [9570 - Lomo LC-A - Cn 100](https://photos.app.goo.gl/SHbjtJC6Z51DaPPL9) |

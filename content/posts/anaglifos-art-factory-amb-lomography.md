@@ -15,6 +15,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/12/IMG_2716.jpg
 image: https://lh5.googleusercontent.com/-6JVdC2O2xo0/UptS8xiaikI/AAAAAAAD-EU/9AYUABpiWHs/s640/IMG_2716.jpg
 ---
 
-|  [![](https://lh5.googleusercontent.com/-6JVdC2O2xo0/UptS8xiaikI/AAAAAAAD-EU/9AYUABpiWHs/s640/IMG_2716.jpg)](https://photos.app.goo.gl/DtFC9UbxYmmig5Ku6)  |
+|  [![Caixes de jocs en primer pla sobre una taula, amb persones al fons en una sala de parets vermelles amb quadres.](https://lh5.googleusercontent.com/-6JVdC2O2xo0/UptS8xiaikI/AAAAAAAD-EU/9AYUABpiWHs/s640/IMG_2716.jpg)](https://photos.app.goo.gl/DtFC9UbxYmmig5Ku6)  |
 | --- |
 | De [Anaglifos Art Factory amb Lomography](https://photos.app.goo.gl/DtFC9UbxYmmig5Ku6) |

@@ -12,7 +12,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2020/05/2020-05-19-022-622x1
 
 <figure>
 
-![](https://blog.pocallum.cat/wp-content/uploads/2020/05/2020-05-19-022-622x1024.jpg)
+![Un gran arbre frondós domina el paisatge d'un carrer on hi ha cotxes aparcats.](https://blog.pocallum.cat/wp-content/uploads/2020/05/2020-05-19-022-622x1024.jpg)
 
 <figcaption>
 

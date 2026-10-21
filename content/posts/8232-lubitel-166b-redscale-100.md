@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2014/02/8232-Lubi-Redsca
 image: https://lh6.googleusercontent.com/-VQJYNtLzQAU/UwYsMDVjooI/AAAAAAAECsc/pruQrITbwrE/s640/8232%2520-%2520Lubi%2520-%2520Redscal%2520-%2520005.jpg
 ---
 
-|  [![](https://lh6.googleusercontent.com/-VQJYNtLzQAU/UwYsMDVjooI/AAAAAAAECsc/pruQrITbwrE/s640/8232%2520-%2520Lubi%2520-%2520Redscal%2520-%2520005.jpg)](https://photos.app.goo.gl/E4k7zymYhujemPht5)  |
+|  [![Dos homes manipulen una graella en un pati amb escales, sota una llum taronja intensa.](https://lh6.googleusercontent.com/-VQJYNtLzQAU/UwYsMDVjooI/AAAAAAAECsc/pruQrITbwrE/s640/8232%2520-%2520Lubi%2520-%2520Redscal%2520-%2520005.jpg)](https://photos.app.goo.gl/E4k7zymYhujemPht5)  |
 | --- |
 | De [8232 - Lubitel 166B - Redscale 100](https://photos.app.goo.gl/E4k7zymYhujemPht5) |

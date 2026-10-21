@@ -24,7 +24,7 @@ description: "Fins a finals d’any, sessions de retrat professionals per músic
 title-seo: "Sessions de retrat per artistes – Oferta fins a final d’any | Pocallum.cat"
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/11/2024-03-07-Hasselblad500CM-RolleiRPX100-Eli-Flamenca-B-011.jpg)](https://pocallum.cat/retrats-per-comencar-lany-amb-bona-cara-i-millor-portfolio/)
+[![Dona amb serrell i vestit fosc de puntes canta amb els ulls tancats i les mans al coll en un concert a Barcelona.](https://blog.pocallum.cat/wp-content/uploads/2025/11/2024-03-07-Hasselblad500CM-RolleiRPX100-Eli-Flamenca-B-011.jpg)](https://pocallum.cat/retrats-per-comencar-lany-amb-bona-cara-i-millor-portfolio/)
 
 La ballarina Eli Alba en una [sessió recent](https://pocallum.cat/sessio-amb-la-ballarina-eli-alba/)
 

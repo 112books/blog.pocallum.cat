@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/12/Caffenol-38-LC-A
 image: https://lh5.googleusercontent.com/-fY1zGNx3Bk4/UrVsurex3NI/AAAAAAAD_KA/JBTKQDOUZ2g/s640/Caffenol%2520%252338%2520-%2520LC-A%2520-%2520Lomography%2520Earl%2520Grey%2520100%2520-%2520001.jpg
 ---
 
-|  [![](https://lh5.googleusercontent.com/-fY1zGNx3Bk4/UrVsurex3NI/AAAAAAAD_KA/JBTKQDOUZ2g/s640/Caffenol%2520%252338%2520-%2520LC-A%2520-%2520Lomography%2520Earl%2520Grey%2520100%2520-%2520001.jpg)](https://photos.app.goo.gl/TpLyjsofsFcLED7Z6)  |
+|  [![Cinc músics d'una banda posen en blanc i negre; un sosté un baix i un altre fa el signe de banyes.](https://lh5.googleusercontent.com/-fY1zGNx3Bk4/UrVsurex3NI/AAAAAAAD_KA/JBTKQDOUZ2g/s640/Caffenol%2520%252338%2520-%2520LC-A%2520-%2520Lomography%2520Earl%2520Grey%2520100%2520-%2520001.jpg)](https://photos.app.goo.gl/TpLyjsofsFcLED7Z6)  |
 | --- |
 | De [Caffenol #38 - LC-A - Lomography Earl Grey 100](https://photos.app.goo.gl/TpLyjsofsFcLED7Z6) |

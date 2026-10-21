@@ -16,6 +16,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2023/11/L1370976.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2023/11/L1370976-1024x576.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2023/11/L1370976-1024x576.jpg)](https://photos.app.goo.gl/atkXUSr82ZLzXE3u7)
+[![Una dona asseguda davant d'un grup de persones amb vel negre en una foto impresa exposada en una paret.](https://blog.pocallum.cat/wp-content/uploads/2023/11/L1370976-1024x576.jpg)](https://photos.app.goo.gl/atkXUSr82ZLzXE3u7)
 
 Visita llampec a la WPP 2023 al CCCB de Barcelona. Com sempre, es fa curta i petita.

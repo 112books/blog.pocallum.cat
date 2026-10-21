@@ -66,7 +66,7 @@ Quatre creadores de l’escena flamenca contemporània es troben per mostrar les
 
 ### **Patrticipatiu d'Aina Núñez - P’alante**
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/10/IMG_0422-1024x683.jpg)
+![Diversos intèrprets actuen en un escenari fosc il·luminat per focus des de dalt, alguns amb els braços aixecats.](https://blog.pocallum.cat/wp-content/uploads/2025/10/IMG_0422-1024x683.jpg)
 
 https://vimeo.com/1130391988?share=copy&fl=sv&fe=ci
 
@@ -82,7 +82,7 @@ Amb una mirada que traspassa formats, el treball de **Núñez** —fundadora de 
 
 ### **Miranda Alfonso - Willi**
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/10/IMG_0584-1024x683.jpg)
+![Una dona d'expressió intensa es mou amb força sobre un escenari fosc, amb els cabells al vent.](https://blog.pocallum.cat/wp-content/uploads/2025/10/IMG_0584-1024x683.jpg)
 
 https://vimeo.com/1130395120?share=copy&fl=sv&fe=ci
 
@@ -104,7 +104,7 @@ Nascuda a Barcelona, la creadora **Miranda Alfonso** s’ha format en dansa espa
 
 ### **Marta Nogal - Expectativa Zero**
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/10/IMG_0708-1024x683.jpg)
+![Una ballarina en ple gir sobre un escenari fosc, amb el vestit desenfocat pel moviment veloç.](https://blog.pocallum.cat/wp-content/uploads/2025/10/IMG_0708-1024x683.jpg)
 
 https://vimeo.com/1130396422?share=copy&fl=sv&fe=ci
 
@@ -132,7 +132,7 @@ Nascuda a Barcelona i formada entre aquesta ciutat, Còrdova i Madrid, **Marta N
 
 ### **Naya Binghi - ‘While’**
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/10/IMG_0821-1024x683.jpg)
+![Dues ballarines ballen amb moviments fluids i desenfocats en un escenari fosc amb focus de llum.](https://blog.pocallum.cat/wp-content/uploads/2025/10/IMG_0821-1024x683.jpg)
 
 https://vimeo.com/1130399916?share=copy&fl=sv&fe=ci
 

@@ -13,6 +13,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/11/MG_1616.jpg
 image: https://lh5.googleusercontent.com/-TqrAbWX7kAU/Un9SPcHscHI/AAAAAAAD8qM/hHA1ef56HvY/s640/_MG_1616.jpg
 ---
 
-| [![](https://lh5.googleusercontent.com/-TqrAbWX7kAU/Un9SPcHscHI/AAAAAAAD8qM/hHA1ef56HvY/s640/_MG_1616.jpg)](https://photos.app.goo.gl/UEHvGmfAYVx1jCZQ8) |
+| [![Un patinador salta a l'aire sobre la vora corba d'un skatepark de nit, amb públic al fons.](https://lh5.googleusercontent.com/-TqrAbWX7kAU/Un9SPcHscHI/AAAAAAAD8qM/hHA1ef56HvY/s640/_MG_1616.jpg)](https://photos.app.goo.gl/UEHvGmfAYVx1jCZQ8) |
 | --- |
 | De [Hell Curving 2013](https://photos.app.goo.gl/UEHvGmfAYVx1jCZQ8) |

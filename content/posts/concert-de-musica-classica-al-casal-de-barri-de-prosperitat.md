@@ -12,7 +12,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/04/IMG_0698.jpg
 image: https://lh6.googleusercontent.com/-wHlsmFS29BA/UX2dv8qdeOI/AAAAAAADqrE/wSUXUjvoAx0/s640/IMG_0698.jpg
 ---
 
-|  [![](https://lh6.googleusercontent.com/-wHlsmFS29BA/UX2dv8qdeOI/AAAAAAADqrE/wSUXUjvoAx0/s640/IMG_0698.jpg)](https://photos.app.goo.gl/qa7QtGM5fugigPRK8)  |
+|  [![L'ombra d'una dona ajupida amb un bastó es projecta sobre una cortina en un escenari il·luminat tènuement.](https://lh6.googleusercontent.com/-wHlsmFS29BA/UX2dv8qdeOI/AAAAAAADqrE/wSUXUjvoAx0/s640/IMG_0698.jpg)](https://photos.app.goo.gl/qa7QtGM5fugigPRK8)  |
 | --- |
 | De [Concert de Música Clàssica al Casal de barri de Prosperitat](https://photos.app.goo.gl/qa7QtGM5fugigPRK8) |
 

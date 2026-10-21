@@ -15,6 +15,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/08/2517-LC-A-FujiRV
 image: https://lh5.googleusercontent.com/-gFcB9EjVfnM/Uh9QdbsMUcI/AAAAAAAD4CQ/3np3phfA0zU/s640/2517%2520-%2520LC-A%2520-%2520FujiRVP%2520-%2520002.jpg
 ---
 
-|  [![](https://lh5.googleusercontent.com/-gFcB9EjVfnM/Uh9QdbsMUcI/AAAAAAAD4CQ/3np3phfA0zU/s640/2517%2520-%2520LC-A%2520-%2520FujiRVP%2520-%2520002.jpg)](https://photos.app.goo.gl/gpaV1eDNhdzYABBq9)  |
+|  [![Una badia tranquil·la amb nombroses barques petites i un pantalà de fusta, sota un cel blau amb grans núvols blancs.](https://lh5.googleusercontent.com/-gFcB9EjVfnM/Uh9QdbsMUcI/AAAAAAAD4CQ/3np3phfA0zU/s640/2517%2520-%2520LC-A%2520-%2520FujiRVP%2520-%2520002.jpg)](https://photos.app.goo.gl/gpaV1eDNhdzYABBq9)  |
 | --- |
 | De [2517 - LC-A - Fuji RVP 100](https://photos.app.goo.gl/gpaV1eDNhdzYABBq9) |

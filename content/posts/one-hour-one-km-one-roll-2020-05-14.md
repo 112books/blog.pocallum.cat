@@ -12,7 +12,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2020/05/2020-05-14-003-1024x
 
 <figure>
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2020/05/2020-05-14-003-1024x457.jpg)](https://photos.app.goo.gl/wcK1A7MwfjmZtQ3t9)
+[![Branques florides i fulles s'entrecreuen contra el cel, amb les perforacions d'un rodet de pel·lícula a les vores.](https://blog.pocallum.cat/wp-content/uploads/2020/05/2020-05-14-003-1024x457.jpg)](https://photos.app.goo.gl/wcK1A7MwfjmZtQ3t9)
 
 <figcaption>
 

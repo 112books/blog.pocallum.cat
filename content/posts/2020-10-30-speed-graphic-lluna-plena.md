@@ -12,7 +12,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2020/10/2020-10-30-SppedGrap
 
 <figure>
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2020/10/2020-10-30-SppedGrap-001-1024x819.jpg)](https://photos.app.goo.gl/5UGWWPCCkwuEac829)
+[![Un tren en moviment creua les vies ferroviàries de Barcelona de nit, amb la ciutat il·luminada i la lluna al fons.](https://blog.pocallum.cat/wp-content/uploads/2020/10/2020-10-30-SppedGrap-001-1024x819.jpg)](https://photos.app.goo.gl/5UGWWPCCkwuEac829)
 
 <figcaption>
 

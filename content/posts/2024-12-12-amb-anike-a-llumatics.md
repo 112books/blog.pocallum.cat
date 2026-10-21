@@ -31,23 +31,23 @@ image: https://blog.pocallum.cat/wp-content/uploads/2025/05/2024-12-04-Anike-Hor
 description: "Descobreix la sessió fotogràfica amb Anike a Llumàtics, una tarda plena d’experimentació i complicitat artística amb diferents formats analògics. Coneix l’Anike, la seva passió per l’art i gaudeix de la selecció d’imatges d’aquest encontre especial."
 ---
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/05/2024-12-04-Anike-Horsman-8x10-Fomapan400-0002-827x1024.jpg)
+![Retrat en blanc i negre d'una dona amb els braços creuats i la mirada directa, sobre un fons neutre.](https://blog.pocallum.cat/wp-content/uploads/2025/05/2024-12-04-Anike-Horsman-8x10-Fomapan400-0002-827x1024.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/05/2024-12-04-Anike-Hasselblad-Rollei-RPX100-B-0004-1024x1024.jpg)
+![Ballarina amb top estampat fent una pose expressiva de perfil en un estudi fotogràfic.](https://blog.pocallum.cat/wp-content/uploads/2025/05/2024-12-04-Anike-Hasselblad-Rollei-RPX100-B-0004-1024x1024.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/05/2024-12-04-Anike-Hasselblad-Rollei-RPX100-B-0008-1024x1024.jpg)
+![Dona jove posant en un estudi amb brusa estampada de màniga llarga, pantalons foscos i un braç aixecat.](https://blog.pocallum.cat/wp-content/uploads/2025/05/2024-12-04-Anike-Hasselblad-Rollei-RPX100-B-0008-1024x1024.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/05/2024-12-04-Anike-LM4-2-ADOX-HR-50-0003-1024x682.jpg)
+![Dona jove de cabells llargs beu d'una copa de vi en un esdeveniment cultural a Barcelona.](https://blog.pocallum.cat/wp-content/uploads/2025/05/2024-12-04-Anike-LM4-2-ADOX-HR-50-0003-1024x682.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/05/2024-12-04-Anike-LM4-2-ADOX-HR-50-0010-683x1024.jpg)
+![Dona embarassada amb un jersei de coll alt fosc sosté una copa de vi en un retrat d'estudi en blanc i negre.](https://blog.pocallum.cat/wp-content/uploads/2025/05/2024-12-04-Anike-LM4-2-ADOX-HR-50-0010-683x1024.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/05/2024-12-04-Anike-LM4-2-ADOX-HR-50-0014-683x1024.jpg)
+![Retrat en blanc i negre d'una jove amb piercing al nas que mira a càmera sobre fons clar.](https://blog.pocallum.cat/wp-content/uploads/2025/05/2024-12-04-Anike-LM4-2-ADOX-HR-50-0014-683x1024.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/05/2024-12-04-Anike-LM4-2-ADOX-HR-50-B-0063-683x1024.jpg)
+![Una dona es tapa mig rostre amb un barret de palla i fa el senyal de la victòria amb els dits en un fons clar.](https://blog.pocallum.cat/wp-content/uploads/2025/05/2024-12-04-Anike-LM4-2-ADOX-HR-50-B-0063-683x1024.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/05/2024-12-04-Anike-LM4-2-ADOX-HR-50-C-0093-1024x683.jpg)
+![Retrat en blanc i negre d'una noia jove amb piercing al nas que recolza la cara a les mans.](https://blog.pocallum.cat/wp-content/uploads/2025/05/2024-12-04-Anike-LM4-2-ADOX-HR-50-C-0093-1024x683.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/05/2024-12-04-Anike-LM4-2-ADOX-HR-50-C-0095-1024x682.jpg)
+![Dona jove amb pírcing al nas i cabells recollits, recolzada sobre la mà, mira a càmera en un retrat sobre fons clar.](https://blog.pocallum.cat/wp-content/uploads/2025/05/2024-12-04-Anike-LM4-2-ADOX-HR-50-C-0095-1024x682.jpg)
 
 Ja fa uns mesos d’aquesta sessió, a finals del 2024, però fins ara no havíem fet la selecció definitiva de les imatges per compartir.
 

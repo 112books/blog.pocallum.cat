@@ -10,6 +10,6 @@ tags: []
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_3309-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_3309.jpg
 ---
-[![](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_3309.jpg)](https://photos.app.goo.gl/LEbHwaKeTStks24k7)
+[![Un home calb toca el saxòfon assegut en una sala amb taules de estovalles vermelles i gent al fons.](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_3309.jpg)](https://photos.app.goo.gl/LEbHwaKeTStks24k7)
 
 [Totes les fotografies](https://photos.app.goo.gl/LEbHwaKeTStks24k7)

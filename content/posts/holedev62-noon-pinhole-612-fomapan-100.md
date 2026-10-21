@@ -12,6 +12,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2016/01/HD62-Noon-005.jp
 image: https://lh3.googleusercontent.com/-1_SvS1YDARI/VpJ4PvbxtNI/AAAAAAAE-V4/uFtusFDz3E8/s640-Ic42/HD%25252362%252520-%252520Noon%252520-%252520005.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-1_SvS1YDARI/VpJ4PvbxtNI/AAAAAAAE-V4/uFtusFDz3E8/s640-Ic42/HD%25252362%252520-%252520Noon%252520-%252520005.jpg)](https://photos.app.goo.gl/qQSdFbvxkn2DMmzu9)  |
+|  [![Un home jove recolzat en un cotxe fosc en un terreny obert sota un cel clar.](https://lh3.googleusercontent.com/-1_SvS1YDARI/VpJ4PvbxtNI/AAAAAAAE-V4/uFtusFDz3E8/s640-Ic42/HD%25252362%252520-%252520Noon%252520-%252520005.jpg)](https://photos.app.goo.gl/qQSdFbvxkn2DMmzu9)  |
 | --- |
 | De [HoleDev#62- Noon Pinhole 612 - Fomapan 100](https://photos.app.goo.gl/qQSdFbvxkn2DMmzu9) |

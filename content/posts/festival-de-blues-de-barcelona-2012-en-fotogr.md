@@ -12,7 +12,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/07/IMG_7367.jpg
 image: https://lh4.googleusercontent.com/-_lzDz-5STcU/UAwFnstRz0I/AAAAAAADQnY/3-sZ3ih1AyE/s640/IMG_7367.jpg
 ---
 
-|  [![](https://lh4.googleusercontent.com/-_lzDz-5STcU/UAwFnstRz0I/AAAAAAADQnY/3-sZ3ih1AyE/s640/IMG_7367.jpg)](https://photos.app.goo.gl/qwxbDRSuJ9G7G5vGA)  |
+|  [![Tècnics preparen l'escenari amb plataformes flotants en un amfiteatre ple de públic al capvespre.](https://lh4.googleusercontent.com/-_lzDz-5STcU/UAwFnstRz0I/AAAAAAADQnY/3-sZ3ih1AyE/s640/IMG_7367.jpg)](https://photos.app.goo.gl/qwxbDRSuJ9G7G5vGA)  |
 | --- |
 |   |
 

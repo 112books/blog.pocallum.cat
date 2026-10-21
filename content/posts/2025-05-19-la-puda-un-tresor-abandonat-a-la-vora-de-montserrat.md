@@ -27,7 +27,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2025/04/IMG_2179-1024x576.jp
 description: "Descobreix la història i el misteri del Balneari de La Puda, un emblemàtic balneari abandonat a la vora de Montserrat, amb aigües sulfuroses i un passat ple d’esplendor i llegendes."
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/04/IMG_2179-1024x576.jpg)](https://photos.app.goo.gl/wG8xWAHBwFcaWytk7)
+[![Interior abandonat amb parets cobertes de grafitis, terra ple de runa i un passadís fosc al fons.](https://blog.pocallum.cat/wp-content/uploads/2025/04/IMG_2179-1024x576.jpg)](https://photos.app.goo.gl/wG8xWAHBwFcaWytk7)
 
 Aquesta passada Pasqua va ser un no parar d’emocions i descobertes! Prèviament a la visita al [Capibola Blues Experience](https://blog.pocallum.cat/2025/04/22/2025-04-19-visita-al-capibola-blues-experience/), l’amic Güilli em va portar a conèixer un lloc que em va deixar bocabadat: el balneari abandonat de **La Puda**, a tocar de Montserrat. Un espai carregat d’història i misteri que segur serà escenari d’alguna sessió fotogràfica que ja ronda pel meu cap.
 

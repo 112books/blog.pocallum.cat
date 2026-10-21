@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2015/03/HD41-LCA120-Fom2
 image: https://lh5.googleusercontent.com/-qC1sGtx4Sg4/VRsREJBJZjI/AAAAAAAEpOE/NVvHECWd0_Y/s640/HD%252341%2520-%2520LCA120-%2520Fom200%2520-001.jpg
 ---
 
-|  [![](https://lh5.googleusercontent.com/-qC1sGtx4Sg4/VRsREJBJZjI/AAAAAAAEpOE/NVvHECWd0_Y/s640/HD%252341%2520-%2520LCA120-%2520Fom200%2520-001.jpg)](https://photos.app.goo.gl/EoWTjgWYMnMvTQRr8)  |
+|  [![Primer pla en blanc i negre de les fulles espinoses d'un àloe que s'obren en ventall en un jardí de Barcelona.](https://lh5.googleusercontent.com/-qC1sGtx4Sg4/VRsREJBJZjI/AAAAAAAEpOE/NVvHECWd0_Y/s640/HD%252341%2520-%2520LCA120-%2520Fom200%2520-001.jpg)](https://photos.app.goo.gl/EoWTjgWYMnMvTQRr8)  |
 | --- |
 | De [Homedev#41 - LC-A 120 - Fomapan 200](https://photos.app.goo.gl/EoWTjgWYMnMvTQRr8) |

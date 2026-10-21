@@ -22,7 +22,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2024/10/L1490190-1024x576.jp
 description: "Ahir, la Nau Bostik va acollir la Castanyada Diabòlica, un esdeveniment familiar amb un recorregut aterridor per l'antiga fàbrica, castanyes, moniatos i activitats infantils. Gràcies a la col·laboració d'entitats locals, els assistents van gaudir d'una experiència única en el marc de la tardor."
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/10/L1490190-1024x576.jpg)](https://photos.app.goo.gl/R9x6pPgBXEHJRuE69)
+[![Home jove amb ulleres, desenfocat, mirant cap a la càmera en un interior amb una paret clara al fons.](https://blog.pocallum.cat/wp-content/uploads/2024/10/L1490190-1024x576.jpg)](https://photos.app.goo.gl/R9x6pPgBXEHJRuE69)
 
 ## **Un èxit aterridor!**
 

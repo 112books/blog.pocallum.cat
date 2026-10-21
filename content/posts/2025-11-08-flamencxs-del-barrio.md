@@ -29,7 +29,7 @@ description: "Els Komando Lunares van portar al Nou Barris un espectacle flamenc
 title-seo: "Flamencxs del barrio — El flamenc de Nou Barris amb Komando Lunares"
 ---
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/11/IMG_3145-1024x683.jpg)
+![Un home amb vestit blanc i ulleres mira una figura borrosa amb camisa ratllada que es mou per un escenari fosc.](https://blog.pocallum.cat/wp-content/uploads/2025/11/IMG_3145-1024x683.jpg)
 
 Els amics de **[Komando Lunares](https://www.instagram.com/komando_lunares/)** —organitzadors de les millors propostes flamenques als nostres barris— ens van oferir, aquesta vegada, una proposta ben diferent. Després de la impressionant edició de l’any passat de _[Flamenco de Barrio](https://blog.pocallum.cat/2024/11/10/2024-11-09-flamenco-de-barrio-taula-rodona-un-antes-y-un-despues-de-omega-kike-morente/)_, amb l’[homenatge al gran Motente](https://blog.pocallum.cat/?s=flamenco+de+barrio), enguany han fet un doble salt mortal i han posat el focus en el **flamenc de quilòmetre zero**, donant visibilitat als artistes del districte de **Nou Barris** que, sense voler pecar de favoritisme, no tenen absolutament res a envejar a cap altre indret amb tradició _flamenquilla_.
 

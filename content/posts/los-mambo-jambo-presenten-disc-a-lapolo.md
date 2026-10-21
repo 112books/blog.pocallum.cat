@@ -16,6 +16,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/06/IMG_4271.jpg
 image: https://lh5.googleusercontent.com/-pCekP-ieckc/T-0AC1pYtJI/AAAAAAADOFs/ZtCGN_UQ0dg/s800/IMG_4271.jpg
 ---
 
-|  [![](https://lh5.googleusercontent.com/-pCekP-ieckc/T-0AC1pYtJI/AAAAAAADOFs/ZtCGN_UQ0dg/s800/IMG_4271.jpg)](https://photos.app.goo.gl/BNNNa7jfZu8VRdU68)  |
+|  [![Un guitarrista toca la seva guitarra inclinat cap enrere sobre un monitor d'escenari durant un concert de rock.](https://lh5.googleusercontent.com/-pCekP-ieckc/T-0AC1pYtJI/AAAAAAADOFs/ZtCGN_UQ0dg/s800/IMG_4271.jpg)](https://photos.app.goo.gl/BNNNa7jfZu8VRdU68)  |
 | --- |
 | De [Los Mambo Jambo presenten disc a l'Apolo](https://photos.app.goo.gl/BNNNa7jfZu8VRdU68) |

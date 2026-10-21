@@ -21,7 +21,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2025/07/Captura-de-pantalla-
 description: "Explora la presentació amb exposició fotogràfica de Anónimos, más allá de las apariencias: retrats originals, relats breus i una experiència cultural única amb Mario Ortiz i Joan Linux. Disponible per programar en espais, bars i entorns culturals. ￼"
 ---
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/07/Captura-de-pantalla-2025-03-16-a-les-19.39.27.png)
+![Dona gran amb ulleres i arracades de cercle mira atentament cap amunt en un retrat en blanc i negre sobre fons fosc.](https://blog.pocallum.cat/wp-content/uploads/2025/07/Captura-de-pantalla-2025-03-16-a-les-19.39.27.png)
 
 _Guillermina Torres, 'Mina', una de les protagonistes del llibre_.
 
@@ -38,7 +38,7 @@ Fins al moment, ja hem tingut dues presentacions oficials:
 
 - **2 de juliol (2025),** al **[Casal de barri de la Prosperitat](https://www.112books.eu/2025/07/03/presentacio-danonimos-al-casal-de-barri-de-prosperitat/)**, amb Mario i jo compartint històries i fotografies, en un ambient de barri molt participatiu i càlid, amb membres del col·lectiu Paraules Indòmites i un públic que va connectar profundament amb el projecte.
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/07/large_item_3354387_ae81e28f8d-1024x1024.jpg)
+![. Bé. *No cometes/claudàtors*: Bé. *No text copiat*: No he posat](https://blog.pocallum.cat/wp-content/uploads/2025/07/large_item_3354387_ae81e28f8d-1024x1024.jpg)
 
 En ambdues trobades es va exposar una selecció de **10 retrats originals** en format **30 × 30 cm**, realitzats amb la càmera _Rolleiflex DRP‑DRGM_ de l’òptica _Compur_, amb pel·lícula Fomapan 100 i revelat manual amb Rodinal a 1+50, tot al Laboratori de [Llumàtics](https://llumatics.com) on habitualment treballo.
 
@@ -54,7 +54,7 @@ A més, podem portar amb nosaltres l’exposició de **10 retrats** en format de
 
 Si manages un espai cultural, sala d’exposicions o tens un bar interessant per acollir-nos, ens encantaria col·laborar. Pots escriure’ns a [_hola@pocallum.cat_](mailto:hola@pocallum.cat) per parlar-ho amb detall i muntar l’experiència junts.
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/07/00-1024x1024.png)
+![Retrat en blanc i negre d'un home gran amb el rostre superposat que mira intensament a la càmera.](https://blog.pocallum.cat/wp-content/uploads/2025/07/00-1024x1024.png)
 
 ## **Per què aquest llibre és especial?**
 

@@ -15,8 +15,8 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/11/9765-pentax-k100
 image: https://blog.pocallum.cat/wp-content/uploads/2012/11/9765-pentax-k1000-022-1024x650.jpg
 ---
 
-![](https://blog.pocallum.cat/wp-content/uploads/2012/11/9765-pentax-k1000-022-1024x650.jpg)
+![Un tatuador amb guants blancs treballa en un gran dibuix a l'esquena d'un home en un estudi de Barcelona.](https://blog.pocallum.cat/wp-content/uploads/2012/11/9765-pentax-k1000-022-1024x650.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2012/11/9765-pentax-k1000-032-1024x634.jpg)
+![Un tatuador amb guants blancs treballa en un gran dibuix a l'esquena d'un home sense samarreta en un estudi.](https://blog.pocallum.cat/wp-content/uploads/2012/11/9765-pentax-k1000-032-1024x634.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2012/11/9765-pentax-k1000-033-1024x630.jpg)
+![Un tatuador amb guants dibuixa un gran tatuatge a l'esquena d'un home en un estudi de Barcelona.](https://blog.pocallum.cat/wp-content/uploads/2012/11/9765-pentax-k1000-033-1024x630.jpg)

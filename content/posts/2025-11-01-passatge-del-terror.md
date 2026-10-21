@@ -30,7 +30,7 @@ description: "En el dia de Tots Sants, el Casal de Prosperitat torna a convertir
 title-seo: "Passatge del Terror al Casal de Prosperitat – Fotografia i emoció"
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/11/IMG_2120-1024x683.jpg)](https://photos.app.goo.gl/Jz2FjmwYFGYDCVT7A)
+[![Una dona caracteritzada de zombie amb vestit vermell i sang a la cara dins d'un passatge del terror fosc.](https://blog.pocallum.cat/wp-content/uploads/2025/11/IMG_2120-1024x683.jpg)](https://photos.app.goo.gl/Jz2FjmwYFGYDCVT7A)
 
 Ahir, dia de **Tots Sants**, amb aroma de castanyes i moniatos de fons, més d’un es va cagar de por assistint a l’increïble i espectacular _**Passatge del Terror**_ que, any rere any, un nombrós grup d’usuàries del [Casal de Barri de Prosperitat](https://www.casalprospe.org/) munten amb una dedicació admirable.
 

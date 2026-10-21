@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2015/08/1419-LCa120-RS50
 image: https://lh3.googleusercontent.com/-1jDXoQ8tHoQ/VcuGEpHN2pI/AAAAAAAEzeU/NpElB6lC6u0/s640-Ic42/1419%252520-%252520LCa120%252520-%252520RS50-200008.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-1jDXoQ8tHoQ/VcuGEpHN2pI/AAAAAAAEzeU/NpElB6lC6u0/s640-Ic42/1419%252520-%252520LCa120%252520-%252520RS50-200008.jpg)](https://photos.app.goo.gl/3UU6iE32FvbbA9zQ9)  |
+|  [![Un nucli de cases en una vall entre turons es difumina sota una densa i ataronjada boira crepuscular.](https://lh3.googleusercontent.com/-1jDXoQ8tHoQ/VcuGEpHN2pI/AAAAAAAEzeU/NpElB6lC6u0/s640-Ic42/1419%252520-%252520LCa120%252520-%252520RS50-200008.jpg)](https://photos.app.goo.gl/3UU6iE32FvbbA9zQ9)  |
 | --- |
 | De [1419 - LC-A 120 - RS 50-200 - Costa Brava](https://photos.app.goo.gl/3UU6iE32FvbbA9zQ9) |

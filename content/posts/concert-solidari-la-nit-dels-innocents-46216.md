@@ -10,7 +10,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_8424-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_8424.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_8424.jpg)](https://photos.app.goo.gl/sShqzk3dMLcYqDPp8)
+[![Un cantant i un saxofonista actuen amb passió sota els focus d'un escenari fosc.](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_8424.jpg)](https://photos.app.goo.gl/sShqzk3dMLcYqDPp8)
 
 Una gran iniciativa que pretenia fer un recull de joguines per als minyons malalts. Gràcies a les actuacions de: Dj Tedi KGB, Acoustic Blues Company, The Suitcase Brothers, Tota Blues, Big Jamboree, Huckleberry Finn, Blas Picón, Amadeu Casas, Mario Cobo, Big Mama and Vícror Puertas vàrem poder gaudir del bó i mollor de l'escena bluesera de Barcelona i amés amb repertoris prou originals i diferents dels de costum. Felicitats a tots! 
 

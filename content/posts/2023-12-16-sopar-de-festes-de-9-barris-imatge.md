@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2023/12/L1390753-Mejorad
 image: https://blog.pocallum.cat/wp-content/uploads/2023/12/L1390753-Mejorado-NR-1024x576.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2023/12/L1390753-Mejorado-NR-1024x576.jpg)](https://photos.app.goo.gl/iS4Ap38CHexz4LWZA)
+[![Quatre homes somriuen a la càmera en un local antic decorat amb una gran estàtua fosca i llums d'aranya.](https://blog.pocallum.cat/wp-content/uploads/2023/12/L1390753-Mejorado-NR-1024x576.jpg)](https://photos.app.goo.gl/iS4Ap38CHexz4LWZA)
 
 Amb quasi tots els membres presents, ahir vàrem celebrar les festes i l'any amb un soparet al barri veï de Sant Andreu. Es nota per les cares que NO estem al nostre barri i no estem còmodes?

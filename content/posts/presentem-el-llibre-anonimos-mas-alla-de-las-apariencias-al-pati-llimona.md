@@ -27,7 +27,7 @@ description: "Reprenem la gira el 14 d’octubre a les 18 h al Centre Cívic P
 title-seo: "Presentem “Anónimos, más allá de las apariencias” al Pati Llimona – Joan Linux"
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/09/Entrada-web-2-1920x960-1-1024x512.jpg)](https://patillimona.net/14-10-19h-anonimos-mas-alla-de-las-apariencias-presentacio-fotollibre-activitat/)
+[![Retrats en blanc i negre d'una dona gran amb ulleres i un home difuminat sobre un fons fosc d'estudi.](https://blog.pocallum.cat/wp-content/uploads/2025/09/Entrada-web-2-1920x960-1-1024x512.jpg)](https://patillimona.net/14-10-19h-anonimos-mas-alla-de-las-apariencias-presentacio-fotollibre-activitat/)
 
 El proper **14 d’octubre** reprenem la gira de presentacions del nostre darrer projecte, “_[Anónimos, más allá de las apariencias](https://www.112books.eu/2025/03/16/ya-disponible-anonimos-mas-alla-de-las-apariencias/)_, que tindrà lloc al [Centre Cívic Pati Llimona](https://patillimona.net/14-10-19h-anonimos-mas-alla-de-las-apariencias-presentacio-fotollibre-activitat/), un espai de referència per a la fotografia i la cultura al barri Gòtic de Barcelona.
 

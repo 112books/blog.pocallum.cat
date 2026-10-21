@@ -21,7 +21,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2024/08/2024-08-12-LM6-Minit
 description: "Pasai Donibane, un pintoresc poblet de pescadors amb una rica tradició marinera i un encant inigualable, amenaçat per la turistificació."
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/08/2024-08-12-LM6-Minitar-Fomapan100@400-Bera-B-0017-1024x588.jpg)](https://photos.app.goo.gl/D74A8wGHiEmyTqDd7)
+[![Un vaixell atracat al moll d'un port, amb un poble costaner i una muntanya boscosa al fons, en blanc i negre.](https://blog.pocallum.cat/wp-content/uploads/2024/08/2024-08-12-LM6-Minitar-Fomapan100@400-Bera-B-0017-1024x588.jpg)](https://photos.app.goo.gl/D74A8wGHiEmyTqDd7)
 
 No sé massa bé quantes vegades he trepitjat Euskadi. Bé  per feina o per plaer moltes voltes la vida m'ha portat a aquest racó del nord de la península. En aquestes plujoses valls muntanyoses, també a la seva dura costa, la gent xerra euskera i destil·len un caràcter noble, dur i orgullós, res a veure amb altres indrets de la península. 
 

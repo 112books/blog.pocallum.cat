@@ -11,7 +11,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2011/04/IMG_4959.jpg
 image: https://lh4.googleusercontent.com/_xYdsA1KqJRQ/TaohflcDNUI/AAAAAAACGo8/amaAZvDlaWE/s640/IMG_4959.jpg
 ---
 
-|  [![](https://lh4.googleusercontent.com/_xYdsA1KqJRQ/TaohflcDNUI/AAAAAAACGo8/amaAZvDlaWE/s640/IMG_4959.jpg)](https://photos.app.goo.gl/4QTybX6cPdvTtQu87)  |
+|  [![Públic assegut en cadires taronges escolta un ponent davant d'una pantalla de projecció en una sala fosca.](https://lh4.googleusercontent.com/_xYdsA1KqJRQ/TaohflcDNUI/AAAAAAACGo8/amaAZvDlaWE/s640/IMG_4959.jpg)](https://photos.app.goo.gl/4QTybX6cPdvTtQu87)  |
 | --- |
 | De [Màster Class de Big Mama Montse; Sonny Boy Williamson II (Rice Miller) "King Biscuit Time"](https://photos.app.goo.gl/4QTybX6cPdvTtQu87) |
 

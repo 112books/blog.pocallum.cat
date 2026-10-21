@@ -10,7 +10,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2014/06/HDev12-Lubitel-0
 image: https://lh3.googleusercontent.com/-UcA9G6ElLyU/U63-o_EiskI/AAAAAAAEM9Q/8TTjcNHPVDY/s640/HDev%252312%2520-%2520Lubitel%2520-%2520001.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-UcA9G6ElLyU/U63-o_EiskI/AAAAAAAEM9Q/8TTjcNHPVDY/s640/HDev%252312%2520-%2520Lubitel%2520-%2520001.jpg)](https://photos.app.goo.gl/PtdHhp3Vo2g2Mrwd9)  |
+|  [![Dona estirada en un sofà mira enlaire somrient, en una sala amb grans finestres i vistes a edificis alts.](https://lh3.googleusercontent.com/-UcA9G6ElLyU/U63-o_EiskI/AAAAAAAEM9Q/8TTjcNHPVDY/s640/HDev%252312%2520-%2520Lubitel%2520-%2520001.jpg)](https://photos.app.goo.gl/PtdHhp3Vo2g2Mrwd9)  |
 | --- |
 | De [HomeDev#12- Lubitel - Rollei Retro 400](https://photos.app.goo.gl/PtdHhp3Vo2g2Mrwd9) |
 

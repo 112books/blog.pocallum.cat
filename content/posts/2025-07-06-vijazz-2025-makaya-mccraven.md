@@ -25,7 +25,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2025/07/IMG_9717-1024x682.jp
 description: "Crònica del concert de Makaya McCraven al Vijazz de Vilafranca: una experiència vibrant de jazz contemporani amb ritmes experimentals i un grup de músics excepcionals."
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/07/IMG_9717-1024x682.jpg)](https://photos.app.goo.gl/SEQwAMARoJsKGsxd8)
+[![Un bateria amb cabells esvalotats toca amb força la bateria en un escenari fosc.](https://blog.pocallum.cat/wp-content/uploads/2025/07/IMG_9717-1024x682.jpg)](https://photos.app.goo.gl/SEQwAMARoJsKGsxd8)
 
 Confesso que el principal motiu pel qual aquest any no volia perdre’m el Vijazz era veure en directe [Makaya McCraven](https://www.makayamccraven.com/links), bateria, compositor i productor nord-americà nascut a París. Fill del també baterista [Stephen McCraven](https://www.instagram.com/stephenmccraven/) i de la cantant hongaresa [Ágnes Zsigmondi](https://www.agnesmccraven.com), aquesta barreja d’herències musicals i culturals, gairebé còsmica, explica en part per què la seva música sona tan única i contemporània.
 

@@ -13,7 +13,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2011/02/IMG_0832-1.jpg
 image: https://lh6.googleusercontent.com/_xYdsA1KqJRQ/TVaCICvPmuI/AAAAAAACDIU/VNFjEIIFhhI/s640/IMG_0832.jpg
 ---
 
-|  [![](https://lh6.googleusercontent.com/_xYdsA1KqJRQ/TVaCICvPmuI/AAAAAAACDIU/VNFjEIIFhhI/s640/IMG_0832.jpg)](https://photos.app.goo.gl/MSEUUHwQJWSVf9yB7)  |
+|  [![Públic en un concert en directe en un local fosc, amb un home d'esquena alçant el braç davant dels músics.](https://lh6.googleusercontent.com/_xYdsA1KqJRQ/TVaCICvPmuI/AAAAAAACDIU/VNFjEIIFhhI/s640/IMG_0832.jpg)](https://photos.app.goo.gl/MSEUUHwQJWSVf9yB7)  |
 | --- |
 | De [John Hat & the Termiters](https://photos.app.goo.gl/MSEUUHwQJWSVf9yB7) |
 

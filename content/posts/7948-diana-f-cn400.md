@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2015/02/7948-Diana-F-CN4
 image: https://lh3.googleusercontent.com/-IhOSW8twGo8/VO5Fa8adodI/AAAAAAAEnJg/GT1y8kEOA4k/s640/7948%2520-%2520Diana%2520F%252B%2520-%2520CN400%2520004.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-IhOSW8twGo8/VO5Fa8adodI/AAAAAAAEnJg/GT1y8kEOA4k/s640/7948%2520-%2520Diana%2520F%252B%2520-%2520CN400%2520004.jpg)](https://photos.app.goo.gl/MpaxFVQ1eBassGqd6)  |
+|  [![Antiga fàbrica de maó amb xemeneia i bastides, on el vidre reflecteix arbres, cel i una gran roda metàl·lica.](https://lh3.googleusercontent.com/-IhOSW8twGo8/VO5Fa8adodI/AAAAAAAEnJg/GT1y8kEOA4k/s640/7948%2520-%2520Diana%2520F%252B%2520-%2520CN400%2520004.jpg)](https://photos.app.goo.gl/MpaxFVQ1eBassGqd6)  |
 | --- |
 | De [7948 - Diana F+ - CN400](https://photos.app.goo.gl/MpaxFVQ1eBassGqd6) |

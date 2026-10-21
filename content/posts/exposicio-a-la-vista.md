@@ -10,9 +10,9 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2020/10/photo_2020-10-15
 image: https://blog.pocallum.cat/wp-content/uploads/2020/10/photo_2020-10-15-19.51.27-726x1024.jpeg
 ---
 
-![](https://blog.pocallum.cat/wp-content/uploads/2020/10/photo_2020-10-15-19.51.27-726x1024.jpeg)
+![Cartell blanc amb text tipogràfic que anuncia una exposició i presentació de llibre a la Sala Penya del Nau Bostik.](https://blog.pocallum.cat/wp-content/uploads/2020/10/photo_2020-10-15-19.51.27-726x1024.jpeg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2020/10/incoherencias_foto-1-1024x726.jpeg)
+![Díptic en blanc i negre: una persona treballant entre gavines a l'esquerra, i un camí rural amb arbres nus a la dreta.](https://blog.pocallum.cat/wp-content/uploads/2020/10/incoherencias_foto-1-1024x726.jpeg)
 
 El proper dijous 5 de novembre tenim el plaer de presentar en societat, Alfonso de Castro i jo mateix, la exposició "Incoherencias. Una pequeña historia del absurdo". Amés, aprofitarem per presentar també el llibre que hem editat recentment amb el mateix nom.
 

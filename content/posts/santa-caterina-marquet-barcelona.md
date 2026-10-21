@@ -14,6 +14,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/10/8424-La-Sardina-
 image: https://blog.pocallum.cat/wp-content/uploads/2012/10/8424-La-Sardina-032-1024x655.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2012/10/8424-La-Sardina-032-1024x655.jpg)](https://photos.app.goo.gl/Wc4YwCgfG1EEjxmB8)
+[![Un home arrossega un carretó amb una gran caixa de cartró en una plaça amb arcs de mercat.](https://blog.pocallum.cat/wp-content/uploads/2012/10/8424-La-Sardina-032-1024x655.jpg)](https://photos.app.goo.gl/Wc4YwCgfG1EEjxmB8)
 
 Shot with the camera La Sardina, Lomography

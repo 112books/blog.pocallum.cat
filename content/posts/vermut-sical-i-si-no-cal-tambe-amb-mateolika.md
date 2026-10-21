@@ -13,4 +13,4 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2011/04/IMG_0228-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2011/04/IMG_0228.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2011/04/IMG_0228.jpg)](https://photos.app.goo.gl/T3a9V5MeAp56Ypuy5)
+[![Un músic amb pantalons taronges toca un ukelele ple d'adhesius en un local amb grans finestres al carrer.](https://blog.pocallum.cat/wp-content/uploads/2011/04/IMG_0228.jpg)](https://photos.app.goo.gl/T3a9V5MeAp56Ypuy5)

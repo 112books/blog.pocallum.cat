@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2015/03/HD36-LCa120-Foma
 image: https://lh3.googleusercontent.com/-iBilkDvYS1w/VPSSSQqR-RI/AAAAAAAEnvk/qMm7T2q-fiE/s640/HD%252336-LCa120-Fomapan%2520-%2520011.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-iBilkDvYS1w/VPSSSQqR-RI/AAAAAAAEnvk/qMm7T2q-fiE/s640/HD%252336-LCa120-Fomapan%2520-%2520011.jpg)](https://photos.app.goo.gl/Bs7mnYb49UqUFgJJ7)  |
+|  [![és segur. * Reviso si he de mencionar que no hi ha persones.](https://lh3.googleusercontent.com/-iBilkDvYS1w/VPSSSQqR-RI/AAAAAAAEnvk/qMm7T2q-fiE/s640/HD%252336-LCa120-Fomapan%2520-%2520011.jpg)](https://photos.app.goo.gl/Bs7mnYb49UqUFgJJ7)  |
 | --- |
 | De [Homedev#36 - LC-A120 - Fomapan 200](https://photos.app.goo.gl/Bs7mnYb49UqUFgJJ7) |

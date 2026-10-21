@@ -13,7 +13,7 @@ description: "Nit de fotos al Bar Moebius del Raval de Barcelona amb l’especta
 title-seo: "Bar Moebius al Raval amb Tarantula + Friends – fotografia de nit i còctels"
 ---
 
-![](https://blog.pocallum.cat/wp-content/uploads/2026/02/DSCF3125-1024x683.jpg)
+![Una dona amb vestit fosc i un tatuatge al braç canta enèrgicament en un local fosc amb bigues i samarretes al fons.](https://blog.pocallum.cat/wp-content/uploads/2026/02/DSCF3125-1024x683.jpg)
 
 Aquest dijous, el fotògraf i també capità del [Moebius Bar](https://www.instagram.com/themoebiusbar/), [Ricardo Voss](https://www.instagram.com/soulreaverphoto/), em va convidar a conèixer aquest original cocktail-bar del Raval barceloní i aprofitar per xerrar de fotografia, fotollibres i futurs projectes.
 

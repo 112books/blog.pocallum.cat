@@ -19,6 +19,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/05/DSF2609.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2024/05/DSF2609-1024x682.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/05/DSF2609-1024x682.jpg)](https://photos.app.goo.gl/fJTZjauAu8rntgYx6)
+[![Tres ballarins actuen enèrgicament en un escenari nocturn il·luminat amb llums de colors.](https://blog.pocallum.cat/wp-content/uploads/2024/05/DSF2609-1024x682.jpg)](https://photos.app.goo.gl/fJTZjauAu8rntgYx6)
 
 De nou un altre dels clàssics de les Festes de la Prosperitat. Organitzat per Bizarock Interpeñas aquest any han animat la nit amb [Mocebares](https://www.instagram.com/mocebares/) (música festiva amb músics de kinòmetre Zero) i les aeròbiques [Las Bizaplayers](https://www.instagram.com/las_bizaplayers/), Playbacks amb molt exercici, coreografies, i cançons d'ahir i d'avui, sempre ben casposes. Tot molt divertidament bizzzzzare!!

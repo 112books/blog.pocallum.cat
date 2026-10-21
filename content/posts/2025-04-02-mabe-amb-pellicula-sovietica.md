@@ -22,7 +22,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2025/04/2025-04-02-Leica-M4-
 description: "Descobreix com vaig experimentar amb una pel·lícula soviètica Tacma CPH 64 en un taller de revelat, amb resultats únics i emotius."
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/04/2025-04-02-Leica-M4-2-Tacma-CPH64-Mabe-05-2-1024x683.jpg)](https://photos.app.goo.gl/p6Kf6Za2KnjDc7AL6)
+[![Retrat d'una jove que mira a càmera amb jersei clar sobre un fons fosc i difuminat.](https://blog.pocallum.cat/wp-content/uploads/2025/04/2025-04-02-Leica-M4-2-Tacma-CPH64-Mabe-05-2-1024x683.jpg)](https://photos.app.goo.gl/p6Kf6Za2KnjDc7AL6)
 
 Feu un clic a la fotografia per veure'n la resta
 
@@ -36,7 +36,7 @@ El destí no sempre fa males passades. Fer proves amb rodets, càmeres o revelad
 
 [Mabe](https://www.instagram.com/mabe.briones/), a més d'encantadora, ha resultat ser una model molt professional i, com veureu, molt bonica. Un cop ben preparada, vam fer uns 10 trets amb la càmera Leica M4-2 equipada amb un Summicron 50 mm F/2, la meva preferida per a treballar en estudi.
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/04/Tacma64-576x1024.png)
+![Tres capses de pel·lícula fotogràfica soviètica Tasma FN 64 alineades sobre una taula de fusta.](https://blog.pocallum.cat/wp-content/uploads/2025/04/Tacma64-576x1024.png)
 
 ## El Revelat
 
@@ -48,8 +48,8 @@ El resultat m'ha encantat. Malauradament, només tinc un trosset de pel·lícula
 
 Finalment, vull agrair a Valery per regalar-me l'oportunitat de fer experiments amb una pel·lícula tan especial i a [Mabe](https://www.instagram.com/mabe.briones/) per prestar-se a jugar també.  
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/04/2025-04-02-Leica-M4-2-Tacma-CPH64-Mabe-11-2-683x1024.jpg)
+![Una jove de cabells llargs, asseguda amb un jersei de punt, mira serena a càmera sobre un fons fosc d'estudi.](https://blog.pocallum.cat/wp-content/uploads/2025/04/2025-04-02-Leica-M4-2-Tacma-CPH64-Mabe-11-2-683x1024.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/04/2025-04-02-Leica-M4-2-Tacma-CPH64-Mabe-11-683x1024.jpg)
+![Una jove de cabell llarg asseguda en un estudi fotogràfic mira a la càmera amb una samarreta d'estampat.](https://blog.pocallum.cat/wp-content/uploads/2025/04/2025-04-02-Leica-M4-2-Tacma-CPH64-Mabe-11-683x1024.jpg)
 
 Aquí una de les imatges virada digitalment primer i original després.

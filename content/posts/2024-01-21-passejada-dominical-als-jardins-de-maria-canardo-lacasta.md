@@ -12,6 +12,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/01/2024-01-21-LM6-3
 image: https://blog.pocallum.cat/wp-content/uploads/2024/01/2024-01-21-LM6-35f-3.5-APX400-Brossa-023-1024x637.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/01/2024-01-21-LM6-35f-3.5-APX400-Brossa-023-1024x637.jpg)](https://photos.app.goo.gl/JQSAupeoCnhwuhgX9)
+[![Murs de formigó en angle creen ombres profundes contra un cel clar, amb arbres a la vora.](https://blog.pocallum.cat/wp-content/uploads/2024/01/2024-01-21-LM6-35f-3.5-APX400-Brossa-023-1024x637.jpg)](https://photos.app.goo.gl/JQSAupeoCnhwuhgX9)
 
 M'encanta aquest racó de Barcelona! I vaig de tant en tant a veure aquesta obra del gran Joan Brossa. Està a tocar del Velòdrom d'horta, als [Jardins de Marià Cañardo Lacasta](https://maps.app.goo.gl/pTxzAFEKN7VWpQNQ9), encara que ara està ben sec. Aneu-hi, és un racó ben tranquil i ben segur que el surrealisme us inspirarà. La resta són del mateix diumenge, anant-hi i passejant amb la meva bicicleta.

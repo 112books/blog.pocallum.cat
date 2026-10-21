@@ -14,6 +14,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/05/IMG_0764.jpg
 image: https://lh5.googleusercontent.com/-8XHpXbr7hy0/UYTwaMKwxLI/AAAAAAADq-Y/eXLwV68gRZM/s640/IMG_0764.jpg
 ---
 
-|  [![](https://lh5.googleusercontent.com/-8XHpXbr7hy0/UYTwaMKwxLI/AAAAAAADq-Y/eXLwV68gRZM/s640/IMG_0764.jpg)](https://photos.app.goo.gl/CetaCVvoFDPbDQCu6)  |
+|  [![Músics asseguts tocant guitarres en un escenari fosc; un d'ells d'esquena i un altre al fons, en un concert íntim.](https://lh5.googleusercontent.com/-8XHpXbr7hy0/UYTwaMKwxLI/AAAAAAADq-Y/eXLwV68gRZM/s640/IMG_0764.jpg)](https://photos.app.goo.gl/CetaCVvoFDPbDQCu6)  |
 | --- |
 | De [Concert de Flamenc Fusió - Jaco Abel & Jordi Bonell](https://photos.app.goo.gl/CetaCVvoFDPbDQCu6) |

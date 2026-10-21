@@ -33,7 +33,7 @@ description: "La tradicional cercavila de les Festes de la Prosperitat 2026: aig
 title-seo: "Cercavila de les Festes de la Prosperitat 2026 | Pocallum"
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2026/05/DSCF4583-1024x683.jpg)](https://photos.app.goo.gl/rfG5FP859F4QS4uT9)
+[![Dues dones grans amb barret i guants blaus preparen sardines a la graella en una parada de carrer a Barcelona.](https://blog.pocallum.cat/wp-content/uploads/2026/05/DSCF4583-1024x683.jpg)](https://photos.app.goo.gl/rfG5FP859F4QS4uT9)
 
 Primer dissabte de Festa Major i, com marca la tradició, la cercavila de repartiment del **Diari de les Festes** ha tornat a recórrer els carrers del barri. Per als despistats que no van poder assistir a la presentació del programa, aquesta és una bona oportunitat per fer-se amb el seu exemplar. Però enguany, com gairebé cada any, el repartiment ha estat només una excusa.
 

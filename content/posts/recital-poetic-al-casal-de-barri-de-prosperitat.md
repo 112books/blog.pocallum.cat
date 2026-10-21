@@ -10,7 +10,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2016/01/DSCF3686.jpg
 image: https://lh3.googleusercontent.com/-buhSnz7TAFg/VqwQxl-etfI/AAAAAAAE_RE/hgGP0pWPgqI/s640-Ic42/DSCF3686.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-buhSnz7TAFg/VqwQxl-etfI/AAAAAAAE_RE/hgGP0pWPgqI/s640-Ic42/DSCF3686.jpg)](https://photos.app.goo.gl/xsYnrrjFuNeLGZtEA)  |
+|  [![Una jove amb samarreta curta i cabells rapats als costats llegeix un text davant d'un micròfon en un escenari fosc.](https://lh3.googleusercontent.com/-buhSnz7TAFg/VqwQxl-etfI/AAAAAAAE_RE/hgGP0pWPgqI/s640-Ic42/DSCF3686.jpg)](https://photos.app.goo.gl/xsYnrrjFuNeLGZtEA)  |
 | --- |
 | De [Recital poètic al Casal de barri de Prosperitat](https://photos.app.goo.gl/xsYnrrjFuNeLGZtEA) |
 

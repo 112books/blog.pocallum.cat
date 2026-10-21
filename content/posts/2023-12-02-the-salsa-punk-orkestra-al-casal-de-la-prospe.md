@@ -20,7 +20,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2023/12/DSF6349.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2023/12/DSF6349-1024x683.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2023/12/DSF6349-1024x683.jpg)](https://photos.app.goo.gl/Tc7ckMcXxMakHpCk9)
+[![Un grup de música toca en directe en un club. El cantant amb gorra canta animadament amb bateria, guitarra i saxòfon.](https://blog.pocallum.cat/wp-content/uploads/2023/12/DSF6349-1024x683.jpg)](https://photos.app.goo.gl/Tc7ckMcXxMakHpCk9)
 
 L'energia punk s'uneix amb el ritme salsero per oferir-nos una festa musical que no deixarà ningú aturat!
 

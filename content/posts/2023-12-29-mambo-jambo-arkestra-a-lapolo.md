@@ -12,7 +12,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/01/2023-12-29-Mambo
 image: https://blog.pocallum.cat/wp-content/uploads/2024/01/2023-12-29-Mambo-Jambo-Arkestra-LM6-APX400@1600-F-0011-1024x594.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/01/2023-12-29-Mambo-Jambo-Arkestra-LM6-APX400@1600-F-0011-1024x594.jpg)](https://photos.app.goo.gl/RyTCP1tsLCC1fgdz7)
+[![Un saxofonista inclinat toca amb passió acompanyat de contrabaix i guitarra en un escenari fosc.](https://blog.pocallum.cat/wp-content/uploads/2024/01/2023-12-29-Mambo-Jambo-Arkestra-LM6-APX400@1600-F-0011-1024x594.jpg)](https://photos.app.goo.gl/RyTCP1tsLCC1fgdz7)
 
 De nou concert històric dels grans Mambo Jambo acompanyats novament de la potent Arkestra. Equest cop a la sala Apolo (a rebentar de gent) i amb molta energia. Que no pari el Rock'n'roll!!
 

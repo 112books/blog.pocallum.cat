@@ -18,7 +18,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2011/02/asturiastattooex
 image: https://blog.pocallum.cat/wp-content/uploads/2011/02/Isobel-Varley.jpg
 ---
 
-![](https://blog.pocallum.cat/wp-content/uploads/2011/02/Isobel-Varley.jpg)
+![Dona gran amb tatuatges al cap i arracades vermelles observa una gran pintura d'un cor en una galeria d'art.](https://blog.pocallum.cat/wp-content/uploads/2011/02/Isobel-Varley.jpg)
 
 [![Asturiastattooexpo202009](https://pocallum.files.wordpress.com/2011/02/asturiastattooexpo202009-scaled1000.jpg?w=300)](https://pocallum.files.wordpress.com/2011/02/asturiastattooexpo202009-scaled1000.jpg)
 

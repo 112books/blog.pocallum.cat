@@ -10,7 +10,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2015/02/IMG_0184.jpg
 image: https://lh5.googleusercontent.com/-gK_OV6HZ4OY/VNgJYUtvi-I/AAAAAAAEkS0/J-DITP_UldU/s640/IMG_0184.jpg
 ---
 
-|  [![](https://lh5.googleusercontent.com/-gK_OV6HZ4OY/VNgJYUtvi-I/AAAAAAAEkS0/J-DITP_UldU/s640/IMG_0184.jpg)](https://photos.app.goo.gl/BPeokUtkujFFY1fA8)  |
+|  [![Tres músics de jazz toquen en directe en un escenari fosc, amb plats de bateria en primer pla.](https://lh5.googleusercontent.com/-gK_OV6HZ4OY/VNgJYUtvi-I/AAAAAAAEkS0/J-DITP_UldU/s640/IMG_0184.jpg)](https://photos.app.goo.gl/BPeokUtkujFFY1fA8)  |
 | --- |
 | De [Ivan Kovacevic 5Spots - Shift - Presentació al Jamboree](https://photos.app.goo.gl/BPeokUtkujFFY1fA8) |
 

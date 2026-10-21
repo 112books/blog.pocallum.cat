@@ -11,7 +11,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/03/IMG_0165.jpg
 image: https://lh6.googleusercontent.com/-lVDmuTRUexc/USFacjxmCnI/AAAAAAADiSE/L5E-OiIozeQ/s800/IMG_0165.jpg
 ---
 
-|  [![](https://lh6.googleusercontent.com/-lVDmuTRUexc/USFacjxmCnI/AAAAAAADiSE/L5E-OiIozeQ/s800/IMG_0165.jpg)](https://photos.app.goo.gl/YTFEciwjVMJCamsSA)  |
+|  [![Músics de jazz actuen en directe en un club fosc, amb contrabaixista i trompetista destacats entre partitures.](https://lh6.googleusercontent.com/-lVDmuTRUexc/USFacjxmCnI/AAAAAAADiSE/L5E-OiIozeQ/s800/IMG_0165.jpg)](https://photos.app.goo.gl/YTFEciwjVMJCamsSA)  |
 | --- |
 | De [Barcelona Big Blues Band al Jamboree](https://photos.app.goo.gl/YTFEciwjVMJCamsSA) |
 

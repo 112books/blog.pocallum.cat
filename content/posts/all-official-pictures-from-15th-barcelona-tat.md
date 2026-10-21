@@ -27,7 +27,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/10/IMG_1537-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2012/10/IMG_1537-683x1024.jpg
 ---
 
-![](https://blog.pocallum.cat/wp-content/uploads/2012/10/IMG_1537-683x1024.jpg)
+![Dona](https://blog.pocallum.cat/wp-content/uploads/2012/10/IMG_1537-683x1024.jpg)
 
 - [Friday](https://photos.app.goo.gl/rLw2TAm7exWQHHg27)
 

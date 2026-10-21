@@ -18,7 +18,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2011/10/IMG_7262.jpg
 image: https://lh3.googleusercontent.com/-soWf4b_SrtM/TqwSHx9_ArI/AAAAAAACZvI/WWNpYO_B7mc/s800/IMG_7262.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-soWf4b_SrtM/TqwSHx9_ArI/AAAAAAACZvI/WWNpYO_B7mc/s800/IMG_7262.jpg)](https://photos.app.goo.gl/kPTwn2MUbxstAQUn6)  |
+|  [![Caixes de cartró obertes amb llaunes de begudes de colors diferents ordenades en una parada de mercat.](https://lh3.googleusercontent.com/-soWf4b_SrtM/TqwSHx9_ArI/AAAAAAACZvI/WWNpYO_B7mc/s800/IMG_7262.jpg)](https://photos.app.goo.gl/kPTwn2MUbxstAQUn6)  |
 | --- |
 | De [Prosperitart 2011](https://picasaweb.google.com/linuxbcn/Prosperitart2011?authuser=0&feat=embedwebsite) |
 

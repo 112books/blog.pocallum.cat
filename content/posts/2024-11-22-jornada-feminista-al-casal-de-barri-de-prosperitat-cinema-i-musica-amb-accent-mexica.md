@@ -26,7 +26,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2024/11/DSCF6456-Mejorado-NR
 description: "Descobreix la jornada feminista al Casal de barri de Prosperitat, amb la projecció del documental 'Negra' sobre el racisme a Mèxic i les actuacions de Masta Quba & P. Jaguar, que van abordar les violències de gènere a través del hip-hop."
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/11/DSCF6456-Mejorado-NR-1024x683.jpg)](https://photos.app.goo.gl/vCZWGZEBuhb2aMk89)
+[![Home cantant en directe en un petit escenari amb monitors, acompanyat d'un altre home darrere una taula de so.](https://blog.pocallum.cat/wp-content/uploads/2024/11/DSCF6456-Mejorado-NR-1024x683.jpg)](https://photos.app.goo.gl/vCZWGZEBuhb2aMk89)
 
 El [Casal de barri de Prosperitat](https://www.casalprospe.org/), en col·laboració amb la comissió feminista, va organitzar ahir una doble jornada amb un fort component feminista i internacional.
 

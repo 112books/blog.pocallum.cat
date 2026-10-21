@@ -11,7 +11,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2023/10/2023-10-07-BAUM-
 image: https://blog.pocallum.cat/wp-content/uploads/2023/10/2023-10-07-BAUM-2023-C-0024-1024x610.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2023/10/2023-10-07-BAUM-2023-C-0024-1024x610.jpg)](https://photos.app.goo.gl/FAYTWuvApC7obbbt5)
+[![Un tatuador amb gorra tatua el braç d'una dona estirada en un estand de convenció de tatuatges.](https://blog.pocallum.cat/wp-content/uploads/2023/10/2023-10-07-BAUM-2023-C-0024-1024x610.jpg)](https://photos.app.goo.gl/FAYTWuvApC7obbbt5)
 
 Avui he recordat els temps en què era el fotògraf oficial del [@barcelonatattooexpo](https://www.instagram.com/barcelonatattooexpo/) conegut ara com a [@baumfest](https://www.instagram.com/baumfest/). Tot ha canviat molt per ser un xic més del mateix. Ara ja no hi treballo, però el gaudeixo molt més, ja que només faig el que més m’agrada. Això és l'evolució de la mil·lenària tradició de posar tinta dins la pell. [#leicam6](https://www.instagram.com/explore/tags/leicam6/) [#32f/2.8mm](https://www.instagram.com/explore/tags/32mm/) [#agfaapx400](https://www.instagram.com/explore/tags/agfaapx400/) [#shotfilm](https://www.instagram.com/explore/tags/shotfilm/)
 

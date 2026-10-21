@@ -27,7 +27,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2025/05/DSCF1212-1024x683.jp
 description: "Crònica de la XXVII edició del Xistorra Rock durant les Festes de Prosperitat, amb música en directe, xistorra, cervesa i l’ambient inconfusible de barri. Descobreix com es va viure la festa i accedeix a la galeria de fotografies."
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/05/DSCF1212-1024x683.jpg)](https://photos.app.goo.gl/twwetx5NbxXHDeDn8)
+[![Un cantant de rock amb barret crida a l'escenari mentre el públic, en primer pla, aixeca les mans fent el símbol del rock.](https://blog.pocallum.cat/wp-content/uploads/2025/05/DSCF1212-1024x683.jpg)](https://photos.app.goo.gl/twwetx5NbxXHDeDn8)
 
 Si és dilluns de festa major a la Prospe, tothom sap que el lloc on has de ser és al **Xistorra Rock**, organitzat per la penya “Inmortales”, una de les més veteranes del barri. No cal gaire imaginació per saber de què va la festa: xistorra, birra i molt de rock’n’roll.
 

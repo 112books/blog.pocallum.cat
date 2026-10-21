@@ -16,7 +16,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2011/05/IMG_5829.jpg
 image: https://lh6.googleusercontent.com/_xYdsA1KqJRQ/Tccsc2xfZFI/AAAAAAACICY/7QqMeaFh5EY/s640/IMG_5829.jpg
 ---
 
-|  [![](https://lh6.googleusercontent.com/_xYdsA1KqJRQ/Tccsc2xfZFI/AAAAAAACICY/7QqMeaFh5EY/s640/IMG_5829.jpg)](https://photos.app.goo.gl/fwAGaiahdWv4npmS6)  |
+|  [![Una dona fa acrobàcies penjada cap per avall d'una estructura metàl·lica amb el cel blau de fons.](https://lh6.googleusercontent.com/_xYdsA1KqJRQ/Tccsc2xfZFI/AAAAAAACICY/7QqMeaFh5EY/s640/IMG_5829.jpg)](https://photos.app.goo.gl/fwAGaiahdWv4npmS6)  |
 | --- |
 | De [Berta; acrobàcies - 08/05/11](https://photos.app.goo.gl/fwAGaiahdWv4npmS6) |
 

@@ -14,7 +14,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2011/02/IMG_0232.jpg
 image: https://lh6.googleusercontent.com/_xYdsA1KqJRQ/TU8oxcc9BGI/AAAAAAACCjE/lVbcrSE3uic/s640/IMG_0232.jpg
 ---
 
-|  [![](https://lh6.googleusercontent.com/_xYdsA1KqJRQ/TU8oxcc9BGI/AAAAAAACCjE/lVbcrSE3uic/s640/IMG_0232.jpg)](https://photos.app.goo.gl/jgDG49dqqC7GfRwV8)  |
+|  [![? Sí. * Sense cometes ni claudàtors? Sí. * Text de la imatge no copiat? Sí (no he inclòs](https://lh6.googleusercontent.com/_xYdsA1KqJRQ/TU8oxcc9BGI/AAAAAAACCjE/lVbcrSE3uic/s640/IMG_0232.jpg)](https://photos.app.goo.gl/jgDG49dqqC7GfRwV8)  |
 | --- |
 | De [9binblack - Conferència amb acompanyament musi](https://picasaweb.google.com/linuxbcn/9binblackConferenciaAmbAcompanyamentMusical?authkey=Gv1sRgCJSiuMvLzJH28QE&feat=embedwebsite)[cal](https://photos.app.goo.gl/jgDG49dqqC7GfRwV8) |
 

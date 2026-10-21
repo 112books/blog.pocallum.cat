@@ -11,6 +11,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2015/04/933103JoanLomogr
 image: https://lh3.googleusercontent.com/-TkU4JoXAU0M/VUIsVknvw4I/AAAAAAAEsGc/MAdqsXpmsU4/s640/933103JoanLomography.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-TkU4JoXAU0M/VUIsVknvw4I/AAAAAAAEsGc/MAdqsXpmsU4/s640/933103JoanLomography.jpg)](https://photos.app.goo.gl/ZKTGDev7JEdyAQnH6)  |
+|  [![Vista des de baix d'una gran escultura d'un home nu amb el braç aixecat, envoltada d'arbres.](https://lh3.googleusercontent.com/-TkU4JoXAU0M/VUIsVknvw4I/AAAAAAAEsGc/MAdqsXpmsU4/s640/933103JoanLomography.jpg)](https://photos.app.goo.gl/ZKTGDev7JEdyAQnH6)  |
 | --- |
 | De [9331 - Diana F+ Pinhole - CN100](https://photos.app.goo.gl/ZKTGDev7JEdyAQnH6) |

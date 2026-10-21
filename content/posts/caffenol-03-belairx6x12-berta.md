@@ -13,6 +13,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/04/Caffenol-BL6x12-
 image: https://lh3.googleusercontent.com/-WelWtWSD3kE/UXeIjWbu3kI/AAAAAAADqbA/NZLQL3f7ElY/s640/Caffenol%2520-%2520BL6x12%2520-%2520001.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-WelWtWSD3kE/UXeIjWbu3kI/AAAAAAADqbA/NZLQL3f7ElY/s640/Caffenol%2520-%2520BL6x12%2520-%2520001.jpg)](https://photos.app.goo.gl/wmszA9S8yohFxJq36)  |
+|  [![Una acròbata en dues peces penja d'un trapezi amb el cos corbat sobre un escenari fosc.](https://lh3.googleusercontent.com/-WelWtWSD3kE/UXeIjWbu3kI/AAAAAAADqbA/NZLQL3f7ElY/s640/Caffenol%2520-%2520BL6x12%2520-%2520001.jpg)](https://photos.app.goo.gl/wmszA9S8yohFxJq36)  |
 | --- |
 | De [Caffenol #03 - Belairx6x12 - Berta](https://photos.app.goo.gl/wmszA9S8yohFxJq36) |

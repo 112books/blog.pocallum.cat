@@ -11,6 +11,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2016/08/hd77_-_rodinal00
 image: https://blog.pocallum.cat/wp-content/uploads/2016/08/hd77_-_rodinal002-1024x702.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2016/08/hd77_-_rodinal002-1024x702.jpg)](https://pocallum.cat/revelat-de-pellicula-de-color-amb-proces-de-blanc-i-negre/)
+[![Rostre desgastat d'una estàtua amb la mà a la galta, il·luminat en un fons fosc en un museu de Barcelona.](https://blog.pocallum.cat/wp-content/uploads/2016/08/hd77_-_rodinal002-1024x702.jpg)](https://pocallum.cat/revelat-de-pellicula-de-color-amb-proces-de-blanc-i-negre/)
 
 [Petit article](https://pocallum.cat/revelat-de-pellicula-de-color-amb-proces-de-blanc-i-negre/) on explico com revelar les pel·lícules de color (C41) amb químics i procediments de pel·lícula blanc i negre. Amb els resultats!

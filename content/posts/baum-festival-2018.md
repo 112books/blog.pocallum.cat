@@ -20,7 +20,7 @@ description: "Descobreix l'experiència única del BAUM Fest 2018, el festival d
 title-seo: "BAUM Festival 2018 Barcelona | Tatuatges i Cultura Urbana"
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2018/10/L1180765-1024x683.jpg)](https://photos.app.goo.gl/ScuQzEdc7gUU3kCBA)
+[![Un tatuador amb el braç tatuat treballa a l'estudi mentre el client jeu estirat al llit.](https://blog.pocallum.cat/wp-content/uploads/2018/10/L1180765-1024x683.jpg)](https://photos.app.goo.gl/ScuQzEdc7gUU3kCBA)
 
 Un any més, he tingut el plaer de gaudir del **BAUM Fest**, el festival de tatuatges i cultura urbana més important de Barcelona, i diria que d'Europa. Mentre les fotografies fetes amb rodet s'acaben d'assecar, no puc resistir la temptació de compartir algunes imatges capturades amb la meva **D-Lux 6**.
 

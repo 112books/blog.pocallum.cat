@@ -13,6 +13,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/08/2495-Diana-CN400
 image: https://lh4.googleusercontent.com/-X0Crpf6Gnxk/UiEf2m5YZRI/AAAAAAAD4o4/ZQ6xYQsGqkQ/s640/2495%2520-%2520Diana%2520-%2520CN400%2520-%2520005.jpg
 ---
 
-|  [![](https://lh4.googleusercontent.com/-X0Crpf6Gnxk/UiEf2m5YZRI/AAAAAAAD4o4/ZQ6xYQsGqkQ/s640/2495%2520-%2520Diana%2520-%2520CN400%2520-%2520005.jpg)](https://photos.app.goo.gl/Deobv3c8MUioq94s9)  |
+|  [![Un avió vola en un cel blau sobre el mar amb velers, amb la silueta d'una persona en primer pla.](https://lh4.googleusercontent.com/-X0Crpf6Gnxk/UiEf2m5YZRI/AAAAAAAD4o4/ZQ6xYQsGqkQ/s640/2495%2520-%2520Diana%2520-%2520CN400%2520-%2520005.jpg)](https://photos.app.goo.gl/Deobv3c8MUioq94s9)  |
 | --- |
 | De [2495 - Diana +F - CN 400](https://photos.app.goo.gl/Deobv3c8MUioq94s9) |

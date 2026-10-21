@@ -12,6 +12,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/12/IMG_2502.jpg
 image: https://lh3.googleusercontent.com/-e8igB2KWAU4/UrIl1dFbl7I/AAAAAAAD-ug/q_GicFiI4is/s640/IMG_2502.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-e8igB2KWAU4/UrIl1dFbl7I/AAAAAAAD-ug/q_GicFiI4is/s640/IMG_2502.jpg)](https://photos.app.goo.gl/2KTUs9eCw4qeFWx87)  |
+|  [![Cinc persones amb camises negres i taronges posen somrients en un estudi de fons fosc.](https://lh3.googleusercontent.com/-e8igB2KWAU4/UrIl1dFbl7I/AAAAAAAD-ug/q_GicFiI4is/s640/IMG_2502.jpg)](https://photos.app.goo.gl/2KTUs9eCw4qeFWx87)  |
 | --- |
 | De [Karaoke Band](https://photos.app.goo.gl/2KTUs9eCw4qeFWx87) |

@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2016/06/HD59-revelat-020
 image: https://lh3.googleusercontent.com/-ey87pDu2GkQ/V1vpn-zClkI/AAAAAAAFM44/6KShBDiH4HMsxL5JVPczx1NE4puLCMlswCCo/s640/HD%252359-%2Brevelat%2B-020.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-ey87pDu2GkQ/V1vpn-zClkI/AAAAAAAFM44/6KShBDiH4HMsxL5JVPczx1NE4puLCMlswCCo/s640/HD%252359-%2Brevelat%2B-020.jpg)](https://photos.app.goo.gl/gK5qnWUu797JSLJN8)  |
+|  [![Un home amb davantal gesticula davant d'un grup de persones atentes en un pati exterior.](https://lh3.googleusercontent.com/-ey87pDu2GkQ/V1vpn-zClkI/AAAAAAAFM44/6KShBDiH4HMsxL5JVPczx1NE4puLCMlswCCo/s640/HD%252359-%2Brevelat%2B-020.jpg)](https://photos.app.goo.gl/gK5qnWUu797JSLJN8)  |
 | --- |
 | De [Homedev#59 - Cosina CX2 - Fomapan 400](https://photos.app.goo.gl/gK5qnWUu797JSLJN8) |

@@ -22,7 +22,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2024/10/L1480741-1024x683.jp
 description: "Descobreix com el 'Clot amb Blues' omple els carrers del barri amb música de Nova Orleans. Una cercavila vibrant que no només celebra el jazz i el blues, sinó que també promociona i cerca recolzament per al festival de Blues del Clot. Uneix-te a la festa!"
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/10/L1480741-1024x683.jpg)](https://photos.app.goo.gl/wmPRrAoThrR59mMU8)
+[![Gentada en una plaça amb arbres gaudint d'una actuació musical, amb una gran escultura d'ocell en primer pla.](https://blog.pocallum.cat/wp-content/uploads/2024/10/L1480741-1024x683.jpg)](https://photos.app.goo.gl/wmPRrAoThrR59mMU8)
 
 ## **El Clot vibra amb el ritme de Nova Orleans**
 

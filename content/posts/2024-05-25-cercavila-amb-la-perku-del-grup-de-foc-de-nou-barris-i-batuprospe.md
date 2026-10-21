@@ -13,6 +13,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/05/DSF1288.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2024/05/DSF1288-1024x683.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/05/DSF1288-1024x683.jpg)](https://photos.app.goo.gl/ygoWTsrQLAQ6hrzeA)
+[![Un home barbut i tatuat amb samarreta verda sosté una pistola d'aigua de joguina i una bossa blava en un carrer de ciutat.](https://blog.pocallum.cat/wp-content/uploads/2024/05/DSF1288-1024x683.jpg)](https://photos.app.goo.gl/ygoWTsrQLAQ6hrzeA)
 
 Cercavila amb música, guerra d'aigua i sardinada popular a l'acabar

@@ -26,7 +26,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2026/01/DSCF2646.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2026/01/DSCF2655-1024x683.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2026/01/DSCF2655-1024x683.jpg)](https://photos.app.goo.gl/iuRLRjgHfUyoAbXi7)
+[![Músics actuant en un escenari amb fum i focus, vistos des de darrere del públic en silueta.](https://blog.pocallum.cat/wp-content/uploads/2026/01/DSCF2655-1024x683.jpg)](https://photos.app.goo.gl/iuRLRjgHfUyoAbXi7)
 
 Aquest dissabte hem gaudit d’una **Nit de Reggae** —passada per aigua, cal remarcar-ho— al nostre Casal de barri, el de la Prospe!
 

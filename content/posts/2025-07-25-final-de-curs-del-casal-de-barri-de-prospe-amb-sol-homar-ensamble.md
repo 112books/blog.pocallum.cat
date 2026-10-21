@@ -25,7 +25,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2025/07/IMG_0146-1-1024x683.
 description: "Resum del final de curs 2025 al Casal de barri de la Prosperitat amb l’espectacle de percussió i ball de Sol Homar Ensamble, una nit de música, bon ambient i denúncia social."
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/07/IMG_0146-1-1024x683.jpg)](https://photos.app.goo.gl/2uBg9nq22QYYY4ZY7)
+[![Una dona amb pantalons grocs balla animadament davant d'un grup de dones que toquen tambors en un escenari.](https://blog.pocallum.cat/wp-content/uploads/2025/07/IMG_0146-1-1024x683.jpg)](https://photos.app.goo.gl/2uBg9nq22QYYY4ZY7)
 
 Aquest divendres, ja amb tothom pensant en les imminents vacances, vam celebrar una mena de final de curs al [Casal de barri de la Prosperitat](https://www.instagram.com/p/DL78UvvNNzd/).
 

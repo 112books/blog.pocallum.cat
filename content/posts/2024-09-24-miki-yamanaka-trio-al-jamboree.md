@@ -25,7 +25,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2024/09/L1480032-Mejorado-NR
 description: "Reviu el concert de Miki Yamanaka Trio al Jamboree de Barcelona, on van presentar el seu nou àlbum 'Chance' amb temes propis i versions, i gaudeix de les fotografies de l'esdeveniment."
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/09/L1480032-Mejorado-NR-1024x683.jpg)](https://photos.app.goo.gl/ZFE2dZonpkwezhxZ9)
+[![Un pianista, un contrabaixista i un bateria toquen en directe en un escenari fosc il·luminat amb llums blaves.](https://blog.pocallum.cat/wp-content/uploads/2024/09/L1480032-Mejorado-NR-1024x683.jpg)](https://photos.app.goo.gl/ZFE2dZonpkwezhxZ9)
 
 Avui, tot celebrant la festa major de Barcelona, he baixat al centre a gaudir de la música de Jazz, com diria el gran Tete Montoliu.
 

@@ -26,7 +26,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2025/06/L1510467-1024x576.jp
 description: "Explora Menorca a través d’una escapada fotogràfica de 10 dies, descobreix racons sorprenents i prepara’t per a una nova aventura fotogràfica en grup reduït al setembre, amb allotjament en masia i gastronomia menorquina."
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/06/L1510467-1024x576.jpg)](https://photos.app.goo.gl/3BfmTbcVwJsWnz7c9)
+[![Mans sostenen una càmera per fotografiar una carretera solitària des de la finestreta d'un cotxe.](https://blog.pocallum.cat/wp-content/uploads/2025/06/L1510467-1024x576.jpg)](https://photos.app.goo.gl/3BfmTbcVwJsWnz7c9)
 
 Aquest inici de juny he pogut fer una escapada a la meva illa preferida: Menorca. Fa anys que la visito, però cada vegada descobreixo nous racons i capturo fotografies més interessants. L’illa té aquesta màgia: sempre et sorprèn, encara que pensis que ja la coneixes.
 

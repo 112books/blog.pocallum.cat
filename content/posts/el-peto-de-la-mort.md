@@ -28,15 +28,15 @@ image: https://blog.pocallum.cat/wp-content/uploads/2024/09/2024-09-26-LM6-Foma1
 description: "Descobreix l'escultura 'El petó de la mort' al Cementiri del Poblenou, una obra mestra que combina l'erotisme i la mort de manera romàntica i terrorífica. Gaudeix de les fotografies en blanc i negre captades amb pel·lícula Fomapan 100."
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/09/2024-09-26-LM6-Foma100@200-R150-Cementiri-del-Poblenou-0025-654x1024.jpg)](https://blog.pocallum.cat/wp-content/uploads/2024/09/2024-09-26-LM6-Foma100@200-R150-Cementiri-del-Poblenou-0025.jpg)
+[![Escultura d'un esquelet alat besant un home jove al cementiri de Poblenou, Barcelona.](https://blog.pocallum.cat/wp-content/uploads/2024/09/2024-09-26-LM6-Foma100@200-R150-Cementiri-del-Poblenou-0025-654x1024.jpg)](https://blog.pocallum.cat/wp-content/uploads/2024/09/2024-09-26-LM6-Foma100@200-R150-Cementiri-del-Poblenou-0025.jpg)
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/09/2024-09-26-LM6-Foma100@200-R150-Cementiri-del-Poblenou-0021-1024x607.jpg)](https://blog.pocallum.cat/wp-content/uploads/2024/09/2024-09-26-LM6-Foma100@200-R150-Cementiri-del-Poblenou-0021.jpg)
+[![Escultura d'un esquelet alat que abraça un home jove en un cementiri, amb una capella de cúpula al fons.](https://blog.pocallum.cat/wp-content/uploads/2024/09/2024-09-26-LM6-Foma100@200-R150-Cementiri-del-Poblenou-0021-1024x607.jpg)](https://blog.pocallum.cat/wp-content/uploads/2024/09/2024-09-26-LM6-Foma100@200-R150-Cementiri-del-Poblenou-0021.jpg)
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/09/2024-09-26-LM6-Foma100@200-R150-Cementiri-del-Poblenou-0022-607x1024.jpg)](https://blog.pocallum.cat/wp-content/uploads/2024/09/2024-09-26-LM6-Foma100@200-R150-Cementiri-del-Poblenou-0022.jpg)
+[![Un àngel de marbre agenollat amb les ales desplegades plora sobre un pedestal en un cementiri amb nínxols al fons.](https://blog.pocallum.cat/wp-content/uploads/2024/09/2024-09-26-LM6-Foma100@200-R150-Cementiri-del-Poblenou-0022-607x1024.jpg)](https://blog.pocallum.cat/wp-content/uploads/2024/09/2024-09-26-LM6-Foma100@200-R150-Cementiri-del-Poblenou-0022.jpg)
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/09/2024-09-26-LM6-Foma100@200-R150-Cementiri-del-Poblenou-0024-605x1024.jpg)](https://blog.pocallum.cat/wp-content/uploads/2024/09/2024-09-26-LM6-Foma100@200-R150-Cementiri-del-Poblenou-0024.jpg)
+[![Un home musculós agenollat rep l'abraçada d'una figura alada esquelètica en un cementiri.](https://blog.pocallum.cat/wp-content/uploads/2024/09/2024-09-26-LM6-Foma100@200-R150-Cementiri-del-Poblenou-0024-605x1024.jpg)](https://blog.pocallum.cat/wp-content/uploads/2024/09/2024-09-26-LM6-Foma100@200-R150-Cementiri-del-Poblenou-0024.jpg)
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/09/2024-09-26-LM6-Foma100@200-R150-Cementiri-del-Poblenou-0020-1024x607.jpg)](https://blog.pocallum.cat/wp-content/uploads/2024/09/2024-09-26-LM6-Foma100@200-R150-Cementiri-del-Poblenou-0020.jpg)
+[![Escultura d'un esquelet alat que besa un jove al cementiri del Poblenou, amb un mausoleu al fons.](https://blog.pocallum.cat/wp-content/uploads/2024/09/2024-09-26-LM6-Foma100@200-R150-Cementiri-del-Poblenou-0020-1024x607.jpg)](https://blog.pocallum.cat/wp-content/uploads/2024/09/2024-09-26-LM6-Foma100@200-R150-Cementiri-del-Poblenou-0020.jpg)
 
 Ahir vaig tenir el plaer de gaudir d'una visita guiada pel Cementiri del Poblenou, gràcies al meu amic [Pedro Clic](https://www.instagram.com/pedroclick5/), membre de l'Associació fotogràfica [Fotoclub Poble Nou](https://www.fotoclubpoblenou.cat/). Entre les moltes meravelles que amaga aquest recinte, una escultura em va captivar especialment: "El petó de la mort".
 

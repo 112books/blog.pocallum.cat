@@ -10,4 +10,4 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2022/09/2022-08-31-LM6-R
 image: https://lh3.googleusercontent.com/pw/AL9nZEWcHedSZGZxTe-mQHA-HxmEfi01JFgTjBducWNwJ0lIr-88Xg04FPc71hFWvSBWtug25rqsIm88fvsS9BP2Fzh8c0yMujcwTQMNd508mJNd1VeoUuVDc01rwoP6m7Dc9ZjbcykusCzA6eC6fUo9kP-UmA=w1643-h1096-no?authuser=0
 ---
 
-[![](https://lh3.googleusercontent.com/pw/AL9nZEWcHedSZGZxTe-mQHA-HxmEfi01JFgTjBducWNwJ0lIr-88Xg04FPc71hFWvSBWtug25rqsIm88fvsS9BP2Fzh8c0yMujcwTQMNd508mJNd1VeoUuVDc01rwoP6m7Dc9ZjbcykusCzA6eC6fUo9kP-UmA=w1643-h1096-no?authuser=0)](https://photos.app.goo.gl/uuQqivajSkdY6pow7)
+[![Vista de teulades d'una ciutat amb dues torres d'església, un gran mural en un edifici i el mar al fons.](https://lh3.googleusercontent.com/pw/AL9nZEWcHedSZGZxTe-mQHA-HxmEfi01JFgTjBducWNwJ0lIr-88Xg04FPc71hFWvSBWtug25rqsIm88fvsS9BP2Fzh8c0yMujcwTQMNd508mJNd1VeoUuVDc01rwoP6m7Dc9ZjbcykusCzA6eC6fUo9kP-UmA=w1643-h1096-no?authuser=0)](https://photos.app.goo.gl/uuQqivajSkdY6pow7)

@@ -10,4 +10,4 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/01/MG_0254-1-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2012/01/MG_0254-1-1024x399.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2012/01/MG_0254-1-1024x399.jpg)](https://photos.app.goo.gl/TdaPPtcJqY1yyo6K8)
+[![Un grup nombrós de persones reunides en un prat d'un parc urbà, amb un camí al fons.](https://blog.pocallum.cat/wp-content/uploads/2012/01/MG_0254-1-1024x399.jpg)](https://photos.app.goo.gl/TdaPPtcJqY1yyo6K8)

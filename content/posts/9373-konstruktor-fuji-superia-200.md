@@ -15,6 +15,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/06/9373-konstructor
 image: https://lh5.googleusercontent.com/-piAzAyOTUY4/UbmTzQ9i9oI/AAAAAAADwBI/C-Gbf8ohrmU/s640/9373%2520-%2520konstructor%2520-%2520016.jpg
 ---
 
-|  [![](https://lh5.googleusercontent.com/-piAzAyOTUY4/UbmTzQ9i9oI/AAAAAAADwBI/C-Gbf8ohrmU/s640/9373%2520-%2520konstructor%2520-%2520016.jpg)](https://photos.app.goo.gl/mUf9kb2MWX9rfWzW6)  |
+|  [![Un cavallet de fusta blanc amb cabellera blava i brides marrons en un carreró estret de Barcelona.](https://lh5.googleusercontent.com/-piAzAyOTUY4/UbmTzQ9i9oI/AAAAAAADwBI/C-Gbf8ohrmU/s640/9373%2520-%2520konstructor%2520-%2520016.jpg)](https://photos.app.goo.gl/mUf9kb2MWX9rfWzW6)  |
 | --- |
 | De [9373 - Konstruktor - Fuji superia 200](https://photos.app.goo.gl/mUf9kb2MWX9rfWzW6) |

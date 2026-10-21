@@ -10,6 +10,6 @@ tags: []
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_3518-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_3518.jpg
 ---
-[![](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_3518.jpg)](https://photos.app.goo.gl/tvxceXrxwfbXga4X8)
+[![Una actriu amb un vestit clar i faldilla ampla somriu amb les mans juntes en un escenari fosc.](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_3518.jpg)](https://photos.app.goo.gl/tvxceXrxwfbXga4X8)
 
 [Totes les fotografies](https://photos.app.goo.gl/tvxceXrxwfbXga4X8)

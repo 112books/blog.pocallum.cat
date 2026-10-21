@@ -13,6 +13,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_4679.jpg
 image: https://lh3.googleusercontent.com/-LLWePgB-ILw/TxDAwiEID2I/AAAAAAACfvc/jN1_adBN7GE/s800/IMG_4679.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-LLWePgB-ILw/TxDAwiEID2I/AAAAAAACfvc/jN1_adBN7GE/s800/IMG_4679.jpg)](https://photos.app.goo.gl/haXV4xB8snKyHuig6)  |
+|  [![Una multitud es concentra de nit en un carrer barceloní amb pancartes, vista des de darrere de dos assistents en primer pla.](https://lh3.googleusercontent.com/-LLWePgB-ILw/TxDAwiEID2I/AAAAAAACfvc/jN1_adBN7GE/s800/IMG_4679.jpg)](https://photos.app.goo.gl/haXV4xB8snKyHuig6)  |
 | --- |
 | De [NO al tancament del CAP Guinaueta!!](https://photos.app.goo.gl/haXV4xB8snKyHuig6) |

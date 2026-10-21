@@ -12,7 +12,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2011/04/IMG_3342-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2011/04/IMG_3342.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2011/04/IMG_3342.jpg)](https://photos.app.goo.gl/ngx8sHcdoeSXHr2i7)
+[![Un home assegut toca la guitarra i mira enlaire en un local, amb un altre guitarrista i un home dempeus al darrere.](https://blog.pocallum.cat/wp-content/uploads/2011/04/IMG_3342.jpg)](https://photos.app.goo.gl/ngx8sHcdoeSXHr2i7)
 
 Doncs sí, avui tenim per (penso) primera vegada a Barcelona a [Little Victor](http://www.myspace.com/littlevictormusic) al Pipas Jazz Club. Vaig veure el seu "poderio" la la darrera Master Class de l'Escola Taller de Blues de Barcelona i va agradar-me molt.
 

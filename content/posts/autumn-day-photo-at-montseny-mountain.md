@@ -16,6 +16,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/10/8454-diana_pinho
 image: https://blog.pocallum.cat/wp-content/uploads/2012/10/8454-Diana-Pinhole-011.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2012/10/8454-Diana-Pinhole-011.jpg)](https://photos.app.goo.gl/P9xt1KTm2v3UrfBB9)
+[![Dues setes vermelles amb punts blancs sobre fulles seques en primer pla, amb una petita cascada al darrere.](https://blog.pocallum.cat/wp-content/uploads/2012/10/8454-Diana-Pinhole-011.jpg)](https://photos.app.goo.gl/P9xt1KTm2v3UrfBB9)
 
 Autumn day photo at Montseny mountain. Diana Multi-Pinhole camera with ISO 800 color negative film Lomograpy

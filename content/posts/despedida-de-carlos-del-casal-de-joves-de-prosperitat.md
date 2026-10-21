@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/03/IMG_8146.jpg
 image: https://lh3.googleusercontent.com/-qo9v2y3sIBw/UU7vtAl4YsI/AAAAAAADnvk/o9oeIsZn0QQ/s640/IMG_8146.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-qo9v2y3sIBw/UU7vtAl4YsI/AAAAAAADnvk/o9oeIsZn0QQ/s640/IMG_8146.jpg)](https://photos.app.goo.gl/NDwaPDm1yceyidwi8)  |
+|  [![Dues màscares de paper sobre una taula: una amb barret de bufó treu la llengua, l'altra porta ulleres grogues.](https://lh3.googleusercontent.com/-qo9v2y3sIBw/UU7vtAl4YsI/AAAAAAADnvk/o9oeIsZn0QQ/s640/IMG_8146.jpg)](https://photos.app.goo.gl/NDwaPDm1yceyidwi8)  |
 | --- |
 | De [Despedida de Carlos del Casal de Joves de Prosperitat](https://photos.app.goo.gl/NDwaPDm1yceyidwi8) |

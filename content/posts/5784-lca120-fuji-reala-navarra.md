@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2015/09/5784-LCa120-Real
 image: https://lh3.googleusercontent.com/-8JseL1OMwAA/Ve6d63i_VgI/AAAAAAAE2nE/tOQtUyclN6o/s640-Ic42/5784%252520-%252520LCa120%252520-%252520Reala006.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-8JseL1OMwAA/Ve6d63i_VgI/AAAAAAAE2nE/tOQtUyclN6o/s640-Ic42/5784%252520-%252520LCa120%252520-%252520Reala006.jpg)](https://photos.app.goo.gl/mbNSD7Qv2sfbyQaR8)  |
+|  [![Un grup de cavalls marrons pasturen en un prat verd amb una densa línia d'arbres al fons sota el cel blau.](https://lh3.googleusercontent.com/-8JseL1OMwAA/Ve6d63i_VgI/AAAAAAAE2nE/tOQtUyclN6o/s640-Ic42/5784%252520-%252520LCa120%252520-%252520Reala006.jpg)](https://photos.app.goo.gl/mbNSD7Qv2sfbyQaR8)  |
 | --- |
 | De [5784 - LCa120 - Fuji Reala](https://photos.app.goo.gl/mbNSD7Qv2sfbyQaR8) |

@@ -10,4 +10,4 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/06/IMG_2482-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2012/06/IMG_2482.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2012/06/IMG_2482.jpg)](https://photos.app.goo.gl/jHxVQNoGVSSQtdJe9)
+[![Un remolí d'espurnes blanques i blaves de focs artificials esclata sobre el fum vermellós del cel nocturn.](https://blog.pocallum.cat/wp-content/uploads/2012/06/IMG_2482.jpg)](https://photos.app.goo.gl/jHxVQNoGVSSQtdJe9)

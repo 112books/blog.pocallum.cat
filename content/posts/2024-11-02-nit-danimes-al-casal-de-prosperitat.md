@@ -23,7 +23,7 @@ description: "Nit d'Animes 2024 al Casal Prosperitat: Passatge del Terror èxit 
 title-seo: "Nit d'Animes 2024 Casal Prosperitat | Passatge Terror"
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/11/DSCF6113-1024x683.jpg)](https://photos.app.goo.gl/BHw4yyDkC8vNRWJ66)
+[![Una dona maquillada com Frida Kahlo entre tanques en un carrer de nit a Barcelona.](https://blog.pocallum.cat/wp-content/uploads/2024/11/DSCF6113-1024x683.jpg)](https://photos.app.goo.gl/BHw4yyDkC8vNRWJ66)
 
 Un any més, el Passatge del Terror al [Casal de Barri Prosperita](https://www.instagram.com/casalbprospe/)t ha superat totes les expectatives. L'activitat ha demostrat un creixement impressionant en termes de:
 

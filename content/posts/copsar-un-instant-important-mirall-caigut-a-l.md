@@ -15,7 +15,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2011/01/IMG_8462-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2011/01/IMG_8462.jpg
 ---
 
-![](https://blog.pocallum.cat/wp-content/uploads/2011/01/IMG_8462.jpg)
+![Superfície blanca enlluernadora i desenfocada amb una franja fosca a dalt, sense elements concrets visibles.](https://blog.pocallum.cat/wp-content/uploads/2011/01/IMG_8462.jpg)
 
 A finals del 2010 jo estava feliçment fent fotografies al Casal de barri Prosperitat. Per més casualitat estava fent fotos a una banda de la qual, un dels components, és amiguete. Així que vaig aplicar-me a fons i vaig fer unes [quantes fotos](https://photos.app.goo.gl/PkXaytXNkvMND1so8). La sorpresa i l'ensurt va ser monumental quan la meva estimada 5D de sobte només deixava veure pel visor la meitat de la visió normal i… finalment, tot va quedar en un ensurt, però, mira!, vaig treure unes quantes conclusions d'aquella nit.
 

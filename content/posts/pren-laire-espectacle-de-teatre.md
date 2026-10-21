@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2014/12/IMG_6930.jpg
 image: https://lh6.googleusercontent.com/-R11efIJjvaw/VIwi-T8M0-I/AAAAAAAEecA/kPqXjS16RF0/s640/IMG_6930.jpg
 ---
 
-|  [![](https://lh6.googleusercontent.com/-R11efIJjvaw/VIwi-T8M0-I/AAAAAAAEecA/kPqXjS16RF0/s640/IMG_6930.jpg)](https://photos.app.goo.gl/P3fy7cXT8y5uxjz28)  |
+|  [![Artista coberta per un teixit blanc arraulida a l'escenari fosc davant del públic.](https://lh6.googleusercontent.com/-R11efIJjvaw/VIwi-T8M0-I/AAAAAAAEecA/kPqXjS16RF0/s640/IMG_6930.jpg)](https://photos.app.goo.gl/P3fy7cXT8y5uxjz28)  |
 | --- |
 | De [Pren l'Aire. Espectacle de teatre](https://photos.app.goo.gl/P3fy7cXT8y5uxjz28) |

@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_8612wtmk-2.j
 image: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_8612wtmk-1.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_8612wtmk-1.jpg)](https://photos.app.goo.gl/iZA7riZEfJ82QT8q7)
+[![Un músic barbut canta amb els ulls tancats i la mà a la cara tocant la guitarra en un concert fosc a Barcelona.](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_8612wtmk-1.jpg)](https://photos.app.goo.gl/iZA7riZEfJ82QT8q7)
 
 Genial concert de [Daniel Higiénico a la sala Sidecar](https://photos.app.goo.gl/iZA7riZEfJ82QT8q7), Barcelona (20-05-2007)

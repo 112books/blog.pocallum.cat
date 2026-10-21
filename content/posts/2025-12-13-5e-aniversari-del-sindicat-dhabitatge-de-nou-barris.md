@@ -26,7 +26,7 @@ description: "Crònica visual del 5è aniversari del Sindicat d’Habitatge de N
 title-seo: "5è aniversari del Sindicat d’Habitatge de Nou Barris | Fotografia i barri"
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/12/L1530982-1024x576.jpg)](https://photos.app.goo.gl/9929sCijFThVLfNq5)
+[![Un músic barbut toca la guitarra inclinat cap al públic, que allarga les mans, en una sala fosca.](https://blog.pocallum.cat/wp-content/uploads/2025/12/L1530982-1024x576.jpg)](https://photos.app.goo.gl/9929sCijFThVLfNq5)
 
 ## **Dia intens!**
 

@@ -12,7 +12,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2010/12/IMG_0935-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2010/12/IMG_0935-1024x682.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2010/12/IMG_0935-1024x682.jpg)](https://photos.app.goo.gl/WEKk5yLUPac7jExb6)
+[![Tres acròbates actuen en un escenari de circ fosc a Barcelona, fent salts i equilibris davant del públic.](https://blog.pocallum.cat/wp-content/uploads/2010/12/IMG_0935-1024x682.jpg)](https://photos.app.goo.gl/WEKk5yLUPac7jExb6)
 
 Ahir vàrem cobrir els espectacles, l'entrega de premis i un xic l'enviant de circ al **Circ de Raluy** plantat davant de l'edifici de Correus, al Moll de la Fusta.
 

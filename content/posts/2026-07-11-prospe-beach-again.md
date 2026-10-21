@@ -28,7 +28,7 @@ description: "Crònica i fotografies del Prospe Beach 2026 a la plaça Ángel Pe
 title-seo: "Prospe Beach 2026: sorra, vòlei i estiu a la Prosperitat"
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2026/07/IMG_3007-1024x576.jpg)](https://photos.app.goo.gl/p4BGHFNRHoe4nQsLA)
+[![Un home amb barret de palla talla un meló d'aigua en una parada de carrer sota una carpa blanca.](https://blog.pocallum.cat/wp-content/uploads/2026/07/IMG_3007-1024x576.jpg)](https://photos.app.goo.gl/p4BGHFNRHoe4nQsLA)
 
 Un any més, a **la Prosperitat**, qui no pot baixar a sucar-se els peus a la Barceloneta pot gaudir del plaer de tenir els entredits plens de sorra sense sortir del barri.
 

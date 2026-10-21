@@ -21,7 +21,7 @@ description: "Petit reportatge del concert d’Oleandole durant la Setmana de Ja
 title-seo: "‘Oleandole’ en digital a la Setmana de Jazz de Barcelona"
 ---
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/12/L1530672-1024x576.jpg)
+![Dona ballant amb els braços aixecats i els cabells al vent en un escenari fosc il·luminat per un focus.](https://blog.pocallum.cat/wp-content/uploads/2025/12/L1530672-1024x576.jpg)
 
 Ja us vaig explicar —i mostrar— les imatges del concert d’[Oleandole del passat dia 27](https://blog.pocallum.cat/2025/11/29/2025-11-27-oleandole-dins-la-setmana-de-jazz-de-barcelona/), dins la Setmana de Jazz de Barcelona. Tot i que la meva intenció era treballar exclusivament en analògic, la incògnita sobre l’espai em va fer portar també la petita —i sempre eficient— Leica digital. I, evidentment, tenir-la a mà va ser una temptació difícil d’ignorar.
 

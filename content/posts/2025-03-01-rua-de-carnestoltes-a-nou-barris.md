@@ -25,7 +25,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2025/03/DSCF9619-Mejorado-NR
 description: "La unitat veïnal ha fet possible el Carnaval de Nou Barris amb una desfilada multitudinària i sense incidents, gràcies a l’esforç col·lectiu."
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/03/DSCF9619-Mejorado-NR-1024x577.jpg)](https://photos.app.goo.gl/fsDhk8ihwuB4HbWE6)
+[![Persones amb mallots blaus desfilen amb els braços alçats per un carrer de Barcelona, estirant una gran tela blava.](https://blog.pocallum.cat/wp-content/uploads/2025/03/DSCF9619-Mejorado-NR-1024x577.jpg)](https://photos.app.goo.gl/fsDhk8ihwuB4HbWE6)
 
 Un any més totes les veïnes i veïns dels barris que formem N**ou Barris** hem unit forces per la gran desfilada del rei pagà Carnestoltes.
 

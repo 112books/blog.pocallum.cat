@@ -10,6 +10,6 @@ tags: []
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_0599-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_0599.jpg
 ---
-[![](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_0599.jpg)](https://photos.app.goo.gl/edNnYmdUXTWqB6c2A)
+[![Dues cantants i un guitarrista actuen animadament sobre un escenari fosc il·luminat per focus.](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_0599.jpg)](https://photos.app.goo.gl/edNnYmdUXTWqB6c2A)
 
 [Totes les fotos](https://photos.app.goo.gl/edNnYmdUXTWqB6c2A)

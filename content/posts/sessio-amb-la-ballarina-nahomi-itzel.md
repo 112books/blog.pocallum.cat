@@ -10,7 +10,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/02/IMG_9284-1-1024x
 image: https://blog.pocallum.cat/wp-content/uploads/2024/02/IMG_9284-1-1024x683-1.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/02/IMG_9284-1-1024x683-1.jpg)](https://pocallum.cat/sessio-amb-la-ballarina-nahomi-itzel/)
+[![Dona d'esquena amb un vestit llarg de flors camina per una sala blanca, àmplia i buida amb grans finestres.](https://blog.pocallum.cat/wp-content/uploads/2024/02/IMG_9284-1-1024x683-1.jpg)](https://pocallum.cat/sessio-amb-la-ballarina-nahomi-itzel/)
 
 Nova notícia des de Pocallum!
 

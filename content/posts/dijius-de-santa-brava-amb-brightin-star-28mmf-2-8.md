@@ -21,7 +21,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2025/03/2025-03-24-LM6-28mm-
 description: "Descobreix les proves amb l’òptica Brightin Star 28mm f/2.8 al Casal de Prosperitat: fotografia analògica, salses picants i xerrades creatives"
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/03/2025-03-24-LM6-28mm-Foma100@800-R150-Santa-Barbara0008-1024x609.jpg)](https://photos.app.goo.gl/hdnj3jhg2zNTX2v67)
+[![Home gran amb barba recolzat a la barra d'un bar, amb un got de cervesa, en un local amb tiradors.](https://blog.pocallum.cat/wp-content/uploads/2025/03/2025-03-24-LM6-28mm-Foma100@800-R150-Santa-Barbara0008-1024x609.jpg)](https://photos.app.goo.gl/hdnj3jhg2zNTX2v67)
 
 Seguim un dijous més al Casal de barri de Prosperitat, on no falten els tastos de salses picants casolanes —gràcies, [Cesc Barbé](https://www.instagram.com/cescbarbe/)— i les xerrades per arreglar el món fotogràfic i polític.
 

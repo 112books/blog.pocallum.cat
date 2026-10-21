@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2014/04/7364-Bronica-CN1
 image: https://lh3.googleusercontent.com/-MuIYKWEthmY/Uzw0fLRGbbI/AAAAAAAEFK4/Az9FlEibN20/s640/7364%2520-%2520Bronica%2520-%2520CN100%2520-012.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-MuIYKWEthmY/Uzw0fLRGbbI/AAAAAAAEFK4/Az9FlEibN20/s640/7364%2520-%2520Bronica%2520-%2520CN100%2520-012.jpg)](https://photos.app.goo.gl/8yb2sso4gwzYTFeq7)  |
+|  [![Branques plenes de flors blanques de primavera s'estenen contra un cel blau clar i sense núvols a Barcelona.](https://lh3.googleusercontent.com/-MuIYKWEthmY/Uzw0fLRGbbI/AAAAAAAEFK4/Az9FlEibN20/s640/7364%2520-%2520Bronica%2520-%2520CN100%2520-012.jpg)](https://photos.app.goo.gl/8yb2sso4gwzYTFeq7)  |
 | --- |
 | De [7364 - Zenza Bronica ETRS - CN100](https://photos.app.goo.gl/8yb2sso4gwzYTFeq7) |

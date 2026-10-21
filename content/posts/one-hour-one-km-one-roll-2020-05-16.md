@@ -12,7 +12,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2020/05/2020-05-16-014-455x1
 
 <figure>
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2020/05/2020-05-16-014-455x1024.jpg)](https://photos.app.goo.gl/Mbfi8bwxXtiXHzML8)
+[![L'ombra allargada d'un fotògraf es projecta sobre un paviment de rajoles davant d'una paret corba.](https://blog.pocallum.cat/wp-content/uploads/2020/05/2020-05-16-014-455x1024.jpg)](https://photos.app.goo.gl/Mbfi8bwxXtiXHzML8)
 
 <figcaption>
 

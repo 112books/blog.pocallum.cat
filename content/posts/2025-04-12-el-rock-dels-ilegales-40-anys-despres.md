@@ -25,7 +25,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2025/04/2025-04-12-LC-A-RPX4
 description: "Crònica personal d’un retrobament amb Ilegales quaranta anys després del primer concert: una reflexió sobre l’actitud, l’energia i la vigència del rock i el punk, amb Jorge Martínez al capdavant, i la importància de la música en l’experiència vital."
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/04/2025-04-12-LC-A-RPX400@1600-Ilegales-0014-1024x680.jpg)](https://photos.app.goo.gl/HfVXX1PT3g5J8Q8G9)
+[![Siluetes del públic d'esquena i un músic amb guitarra a l'escenari sota focus, en un concert.](https://blog.pocallum.cat/wp-content/uploads/2025/04/2025-04-12-LC-A-RPX400@1600-Ilegales-0014-1024x680.jpg)](https://photos.app.goo.gl/HfVXX1PT3g5J8Q8G9)
 
 Temps era temps quan per primera vegada vaig sortir del meu poble per assistir a un concert de Rock’n’Roll. Havia vist ja a **Los Burros** —que després serien **Los Últimos de la Fila**—, però fora del poble on vivia aleshores no havia assistit a un concert d’aquestes característiques. Era a Vilanova i la Geltrú amb un amic i devia tenir 13 o 14 anys. De teloners un grup anomenat **Zipo**, dels quals només en recordo el nom, però de plat principal vaig gaudir dels gamberros **[Ilegales](https://www.ilegalesrock.com/)**, capitanejats per l’irreverent Jorge Martínez, un personatge que em va deixar estorat. Seria rock, però l’actitud era 200% punk. Lletres provocadores, moviments violents i sincopats, i una ampolla de gin (penso) que utilitzava entre tema i tema per aclarir la gola.
 

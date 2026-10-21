@@ -15,6 +15,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/11/MG_2077.jpg
 image: https://lh4.googleusercontent.com/-p3_uZbta_R4/UpC_F0IM7SI/AAAAAAAD90A/YYPaW5Sk05A/s640/_MG_2077.jpg
 ---
 
-|  [![](https://lh4.googleusercontent.com/-p3_uZbta_R4/UpC_F0IM7SI/AAAAAAAD90A/YYPaW5Sk05A/s640/_MG_2077.jpg)](https://photos.app.goo.gl/6ZS34kG12JjnK7oi9)  |
+|  [![Tres músics toquen en directe en un escenari fosc, amb un cantant de vestit blanc i un contrabaixista.](https://lh4.googleusercontent.com/-p3_uZbta_R4/UpC_F0IM7SI/AAAAAAAD90A/YYPaW5Sk05A/s640/_MG_2077.jpg)](https://photos.app.goo.gl/6ZS34kG12JjnK7oi9)  |
 | --- |
 | De [Nits de Capibola Blues amb Augie Burr’s ETB Trio](https://photos.app.goo.gl/6ZS34kG12JjnK7oi9) |

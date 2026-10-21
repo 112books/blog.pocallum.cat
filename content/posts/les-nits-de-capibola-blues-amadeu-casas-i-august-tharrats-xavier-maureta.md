@@ -15,6 +15,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/04/IMG_0528.jpg
 image: https://lh6.googleusercontent.com/-NUFSd8cN6GM/UXuZT2mDKsI/AAAAAAADqkg/2Vo1tiaQZ7A/s640/IMG_0528.jpg
 ---
 
-|  [![](https://lh6.googleusercontent.com/-NUFSd8cN6GM/UXuZT2mDKsI/AAAAAAADqkg/2Vo1tiaQZ7A/s640/IMG_0528.jpg)](https://photos.app.goo.gl/37qdEgUQST4SASMS7)  |
+|  [![Tres músics toquen en directe amb piano, guitarra acústica i bateria en un escenari fosc amb cortines blaves.](https://lh6.googleusercontent.com/-NUFSd8cN6GM/UXuZT2mDKsI/AAAAAAADqkg/2Vo1tiaQZ7A/s640/IMG_0528.jpg)](https://photos.app.goo.gl/37qdEgUQST4SASMS7)  |
 | --- |
 | De [Les nits de Capibola Blues; Amadeu Casas i August Tharrats + Xavier Maureta](https://photos.app.goo.gl/37qdEgUQST4SASMS7) |

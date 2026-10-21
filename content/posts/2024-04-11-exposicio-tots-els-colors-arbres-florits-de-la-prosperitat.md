@@ -11,7 +11,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/04/L1420971-Mejorad
 image: https://blog.pocallum.cat/wp-content/uploads/2024/04/L1420971-Mejorado-NR-1024x576.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/04/L1420971-Mejorado-NR-1024x576.jpg)](https://photos.app.goo.gl/duo9VbwobjzDK8AaA)
+[![Un home parla amb micròfon davant d'un públic assegut en una sala cultural amb obres a la paret.](https://blog.pocallum.cat/wp-content/uploads/2024/04/L1420971-Mejorado-NR-1024x576.jpg)](https://photos.app.goo.gl/duo9VbwobjzDK8AaA)
 
 Els arbres formen part del nostre paisatge, i les fotografies d'aquesta exposició, obra d’**Alberto Sanagustín** i fetes totes a la Prosperitat, us mostren un dels seus aspectes: la floració. Possiblement, us faran exclamar: "tota aquesta bellesa la tinc a tocar i no me n’havia adonat!".
 

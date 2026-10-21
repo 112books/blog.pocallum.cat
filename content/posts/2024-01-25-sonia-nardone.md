@@ -13,6 +13,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/02/2024-01-26-LM6-F
 image: https://blog.pocallum.cat/wp-content/uploads/2024/02/2024-01-26-LM6-FujiCN200-035-1024x608.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/02/2024-01-26-LM6-FujiCN200-035-1024x608.jpg)](https://photos.app.goo.gl/YqERoqLLHKpCV3Z26)
+[![Dona amb maquillatge teatral i flor vermella posa amb el braç alçat sobre un fons fosc.](https://blog.pocallum.cat/wp-content/uploads/2024/02/2024-01-26-LM6-FujiCN200-035-1024x608.jpg)](https://photos.app.goo.gl/YqERoqLLHKpCV3Z26)
 
 Resultats amb una pel·lícula Fuji CN200 força caducada. Els colors encara han aguantat prou bé. La model, l'actriu [Sonia Nardone](https://www.instagram.com/sonianardone_actriz/), amb dos vestuaris diferents; flamenc i Can-can.

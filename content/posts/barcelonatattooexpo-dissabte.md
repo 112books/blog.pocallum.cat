@@ -17,6 +17,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2014/10/IMG_0349.jpg
 image: https://lh3.googleusercontent.com/-ygi-r-mMPuE/VC-Zqrv925I/AAAAAAAEWSs/0XRqpAlgaoM/s640/IMG_0349.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-ygi-r-mMPuE/VC-Zqrv925I/AAAAAAAEWSs/0XRqpAlgaoM/s640/IMG_0349.jpg)](https://photos.app.goo.gl/4Pc3ggP8MBG6iiiy5)  |
+|  [![Braç amb un gran tatuatge de màscara japonesa i una polsera groga de festival.](https://lh3.googleusercontent.com/-ygi-r-mMPuE/VC-Zqrv925I/AAAAAAAEWSs/0XRqpAlgaoM/s640/IMG_0349.jpg)](https://photos.app.goo.gl/4Pc3ggP8MBG6iiiy5)  |
 | --- |
 | De [BarcelonaTattooExpo - Dissabte](https://photos.app.goo.gl/4Pc3ggP8MBG6iiiy5) |

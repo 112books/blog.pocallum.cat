@@ -11,6 +11,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2023/11/L1370804.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2023/11/L1370804-1024x576.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2023/11/L1370804-1024x576.jpg)](https://photos.app.goo.gl/Vj4h61sajPKKLfsf6)
+[![Una dona i un home amb gorra somriuen asseguts en tamborets davant d'una paret plena de fotografies en blanc i negre.](https://blog.pocallum.cat/wp-content/uploads/2023/11/L1370804-1024x576.jpg)](https://photos.app.goo.gl/Vj4h61sajPKKLfsf6)
 
 Presentació de la querella per tortures durant el franquisme de Pepus i Maribel Ferrándiz. Taula de diàleg sobre la lluita veïnal a Nou Barris.

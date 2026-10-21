@@ -20,6 +20,6 @@ title-seo: ''
 description: ''
 ---
 
-![](/media/IMG_4906.jpg)
+![Dues dones amb vestits blanc i negre canten al costat d'un guitarrista amb barret en un escenari il·luminat.](/media/IMG_4906.jpg)
 
 Per segon any consecutiu el Festival de Blues de Barcelona ha estat convidat dins la festa de la música que representa "Montjuïc de Nit". Enguany l'escenari ha estat el Pati d'armes del Castell de Montjuïc i allà vàrem poder gaudir de la nova formació del genial guitarrista Chino amb els The Big Bet. Tot seguit la gran Barcelona Big Blues Band amb un convidat ben popular, en Carlos Segarra dels Rebeldes. Malauradament, només iniciar-se la primera actuació la meva estimada 5D va esconyar-se. Li va caure una peça quan canviava d'objectiu. Per sort acostumo a portar la G11 com a càmera d'emergències. Aquí els resultats.

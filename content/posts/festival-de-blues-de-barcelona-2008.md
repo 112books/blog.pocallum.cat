@@ -8,7 +8,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_3098.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_3098-1.jpg
 ---
 
-![](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_3098-1.jpg)
+![Un cantant amb ulleres canta amb una cama aixecada a l'escenari, acompanyat per músics de contrabaix, saxo i guitarra.](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_3098-1.jpg)
 
 Festival de Blues de Barcelona, 2008
 

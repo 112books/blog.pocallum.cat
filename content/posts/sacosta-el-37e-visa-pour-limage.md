@@ -28,7 +28,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2025/07/2023-09-18-Soltes-Vi
 description: "Crònica personal de l’experiència al festival Visa pour l’Image de Perpinyà: el viatge, el ritual, l’impacte emocional de les exposicions de fotoperiodisme, la importància de recolzar la professió i recomanacions pràctiques per a la visita."
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/07/2023-09-18-Soltes-Visa-pour-1024x675.jpg)](https://photos.app.goo.gl/EKt3Tb3zPvhYhAhE9)
+[![Vista des d'un vehicle en marxa per una autopista, sota una gran estructura corba de formigó, seguint un camió.](https://blog.pocallum.cat/wp-content/uploads/2025/07/2023-09-18-Soltes-Visa-pour-1024x675.jpg)](https://photos.app.goo.gl/EKt3Tb3zPvhYhAhE9)
 
 Ahir mateix, en un d’aquells grups de WhatsApp d’amics aficionats a la fotografia —un dels pocs que no cal silenciar ni abandonar mai— va circular l’enllaç al [preprograma de la pròxima edició del Visa pour l’Image](https://www.2e-bureau.com/wp-content/uploads/2025/07/pp_VISA_POUR_LIMAGE_2025_vesp-1.pdf). Aquest certamen, centrat en el fotoperiodisme (o el que en queda avui dia), torna a posar el focus en la mirada compromesa del món.
 

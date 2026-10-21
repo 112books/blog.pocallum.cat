@@ -11,7 +11,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2023/07/L1330381.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2023/07/L1330381-1024x576.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2023/07/L1330381-1024x576.jpg)](https://photos.app.goo.gl/WMzSAu7ZQEDb5q2s8)
+[![Multitud de gent gaudint d'una festa al carrer decorat amb banderoles de colors, entre edificis al fons.](https://blog.pocallum.cat/wp-content/uploads/2023/07/L1330381-1024x576.jpg)](https://photos.app.goo.gl/WMzSAu7ZQEDb5q2s8)
 
 Amb una calor espatarrant i unes ganes esbojarrades de continuar fent malifetes perpètuament, la Comissió de Festejos de La Nau Bostik ha organitzat el **Festival de La Juganera**.
 

@@ -10,6 +10,6 @@ tags: []
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_3139-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_3139.jpg
 ---
-[![](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_3139.jpg)](https://photos.app.goo.gl/bF4KbahB6arsHfEi6)
+[![Una cantant rient canta amb un micròfon mentre una dona l'acompanya al teclat en un local d'assaig.](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_3139.jpg)](https://photos.app.goo.gl/bF4KbahB6arsHfEi6)
 
 [Totes les fotografies](https://photos.app.goo.gl/bF4KbahB6arsHfEi6)

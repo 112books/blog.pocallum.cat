@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2014/12/HD26-LCA12-RR400
 image: https://lh3.googleusercontent.com/-n5GYvpP1NbA/VJ517jWiTAI/AAAAAAAEhrA/t0pzOrcVavo/s640/HD%252326-%2520LCA12%2520-%2520%2520RR400%2520-%2520003.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-n5GYvpP1NbA/VJ517jWiTAI/AAAAAAAEhrA/t0pzOrcVavo/s640/HD%252326-%2520LCA12%2520-%2520%2520RR400%2520-%2520003.jpg)](https://photos.app.goo.gl/YeHUY5WW6d8W7Vum7)  |
+|  [![Retrat d'un home somrient amb barba i cabells recollits en un paisatge natural assolellat.](https://lh3.googleusercontent.com/-n5GYvpP1NbA/VJ517jWiTAI/AAAAAAAEhrA/t0pzOrcVavo/s640/HD%252326-%2520LCA12%2520-%2520%2520RR400%2520-%2520003.jpg)](https://photos.app.goo.gl/YeHUY5WW6d8W7Vum7)  |
 | --- |
 | De [HomeDev#26 - LC-A120 - Rollei Retro 400](https://photos.app.goo.gl/YeHUY5WW6d8W7Vum7) |

@@ -14,6 +14,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/10/5157-Sppiner-360
 image: https://lh5.googleusercontent.com/-b65vnxVNpVk/UnCocElUNZI/AAAAAAAD8V8/NdvO6JmmK8A/s800/5157%2520-%2520Sppiner%2520360%25C2%25BA%2520-%2520008.jpg
 ---
 
-|  [![](https://lh5.googleusercontent.com/-b65vnxVNpVk/UnCocElUNZI/AAAAAAAD8V8/NdvO6JmmK8A/s800/5157%2520-%2520Sppiner%2520360%25C2%25BA%2520-%2520008.jpg)](https://photos.app.goo.gl/KRipJ5RGyyhAYQqy9)  |
+|  [![Un home amb ulleres i camiseta taronja es fa un selfie davant una panoràmica urbana amb una gran torre metàl·lica.](https://lh5.googleusercontent.com/-b65vnxVNpVk/UnCocElUNZI/AAAAAAAD8V8/NdvO6JmmK8A/s800/5157%2520-%2520Sppiner%2520360%25C2%25BA%2520-%2520008.jpg)](https://photos.app.goo.gl/KRipJ5RGyyhAYQqy9)  |
 | --- |
 | De [5157 - Spinner 360º](https://photos.app.goo.gl/KRipJ5RGyyhAYQqy9) |

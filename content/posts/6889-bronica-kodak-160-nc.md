@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2014/01/6889-Bronica-k16
 image: https://lh4.googleusercontent.com/-k2XzE_ZzGPk/UsXLCx9HRxI/AAAAAAAD_l8/VzXS6pJ9y5M/s640/6889%2520-%2520Bronica%2520-%2520k160NC006.jpg
 ---
 
-|  [![](https://lh4.googleusercontent.com/-k2XzE_ZzGPk/UsXLCx9HRxI/AAAAAAAD_l8/VzXS6pJ9y5M/s640/6889%2520-%2520Bronica%2520-%2520k160NC006.jpg)](https://photos.app.goo.gl/wJoTRJbR27W6tSNN9)  |
+|  [![Cactus de figuera de moro amb espines blanques en primer pla, sobre un fons desenfocat de fusta.](https://lh4.googleusercontent.com/-k2XzE_ZzGPk/UsXLCx9HRxI/AAAAAAAD_l8/VzXS6pJ9y5M/s640/6889%2520-%2520Bronica%2520-%2520k160NC006.jpg)](https://photos.app.goo.gl/wJoTRJbR27W6tSNN9)  |
 | --- |
 | De [6889 - Bronica - kodak 160 NC](https://photos.app.goo.gl/wJoTRJbR27W6tSNN9) |

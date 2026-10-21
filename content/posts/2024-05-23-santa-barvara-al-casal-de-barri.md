@@ -11,6 +11,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/05/L1440795.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2024/05/L1440795-1024x683.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/05/L1440795-1024x683.jpg)](https://photos.app.goo.gl/AKaBKyJYymCWbbuV7)
+[![Quatre homes brinden amb cerveses en una taula d'un bar, amb un plat de patates fregides i pòsters al fons.](https://blog.pocallum.cat/wp-content/uploads/2024/05/L1440795-1024x683.jpg)](https://photos.app.goo.gl/AKaBKyJYymCWbbuV7)
 
 Reunió per preparar l'activitat a les festes de Prospe amb tot l'equip (o quasi tot) de [9 Barris Imatges.](https://www.9barrisimatge.org/)

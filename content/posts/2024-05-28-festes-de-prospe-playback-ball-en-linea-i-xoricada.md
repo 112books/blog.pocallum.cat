@@ -12,6 +12,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/05/DSF2373.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2024/05/DSF2373-1024x683.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/05/DSF2373-1024x683.jpg)](https://photos.app.goo.gl/yvEktE4BjWWs8xa6A)
+[![Públic assegut a les escales observa una actuació en una plaça de Barcelona, amb palmeres i edificis al fons.](https://blog.pocallum.cat/wp-content/uploads/2024/05/DSF2373-1024x683.jpg)](https://photos.app.goo.gl/yvEktE4BjWWs8xa6A)
 
 Unes poques fotografies del dimats de festes. Un xic de resaca del Xistorra Rock i, la tercera joventut acaparant la plaça Ángel Pestaña amb els PlayBacks, Balls en mínea i recuperant forces amb la popular Xoriçada. A la vegada reunió de les penyes i entitats del barri al nostre Casal de barri.

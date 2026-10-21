@@ -29,7 +29,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2025/01/DSCF7979-1024x577.jp
 description: "Descobreix com Tiznao i Fleuves Noirs van omplir el Casal de Prosperitat amb una vetllada de rock alternatiu, energia i tralla organitzada pel col·lectiu DIY @ojalaestemibisi."
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/01/DSCF7979-1024x577.jpg)](https://photos.app.goo.gl/u2i1mRoFz8y19bXJ9)
+[![Un grup de música actua en directe en un escenari fosc, amb els músics movent-se sota un focus molt potent.](https://blog.pocallum.cat/wp-content/uploads/2025/01/DSCF7979-1024x577.jpg)](https://photos.app.goo.gl/u2i1mRoFz8y19bXJ9)
 
 Aquest divendres hem tingut una nit de potent rock alternatiu. O rock no ortodox. **Tralla**, que en diuen al meu poble. La vetllada, organitzada pel col·lectiu DIY [@ojalaestemibisi](https://www.instagram.com/ojalaestemibisi/), va comptar amb la banda de km zero [](https://www.instagram.com/tiznaobcn/)[@tiznabcn](https://www.instagram.com/tiznaobcn/) amb el seu postcore viejuno ple d’energia, i els francesos [@fleuvesnoirs](https://www.instagram.com/fleuvesnoirs/) amb el seu rock tens i trepidant d’alt voltatge directe de Lille.  
 

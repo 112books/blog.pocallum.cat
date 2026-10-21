@@ -11,6 +11,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2015/03/HD38-HolgaWPC-Il
 image: https://lh4.googleusercontent.com/-fAJdyiZAcvk/VQC-p478-HI/AAAAAAAEoks/96DBgtZNN4I/s640/HD%252338-HolgaWPC-Ilford50-005.jpg
 ---
 
-|  [![](https://lh4.googleusercontent.com/-fAJdyiZAcvk/VQC-p478-HI/AAAAAAAEoks/96DBgtZNN4I/s640/HD%252338-HolgaWPC-Ilford50-005.jpg)](https://photos.app.goo.gl/ytXHd3cdtdsALusj6)  |
+|  [![Cactus columnars alts i espinosos s'alcen en primer pla davant d'un paisatge amb palmeres i un cel clar.](https://lh4.googleusercontent.com/-fAJdyiZAcvk/VQC-p478-HI/AAAAAAAEoks/96DBgtZNN4I/s640/HD%252338-HolgaWPC-Ilford50-005.jpg)](https://photos.app.goo.gl/ytXHd3cdtdsALusj6)  |
 | --- |
 | De [Homedev#38 - Holga WPC - Ilford Panf + 50](https://photos.app.goo.gl/ytXHd3cdtdsALusj6) |

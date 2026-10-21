@@ -17,6 +17,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/08/IMG_4651.jpg
 image: https://lh6.googleusercontent.com/-XsX8-Fh41ZU/UD3bqu1uHNI/AAAAAAADSqk/gH5uIsTGF3s/s800/IMG_4651.jpg
 ---
 
-|  [![](https://lh6.googleusercontent.com/-XsX8-Fh41ZU/UD3bqu1uHNI/AAAAAAADSqk/gH5uIsTGF3s/s800/IMG_4651.jpg)](https://photos.app.goo.gl/wkp9NGw43ujJ5RP49)  |
+|  [![Posta de sol reflectida al mar davant les siluetes fosques de les grues del port de Barcelona.](https://lh6.googleusercontent.com/-XsX8-Fh41ZU/UD3bqu1uHNI/AAAAAAADSqk/gH5uIsTGF3s/s800/IMG_4651.jpg)](https://photos.app.goo.gl/wkp9NGw43ujJ5RP49)  |
 | --- |
 | De [Menorca 2012, Sant Lluís](https://photos.app.goo.gl/wkp9NGw43ujJ5RP49) |

@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/03/2541-Diana-Mini-
 image: https://lh6.googleusercontent.com/-KkrbZGMbgDk/USjJenQfo4I/AAAAAAADi5U/swYO3BgGLLI/s640/2541%2520-%2520Diana%2520Mini%2520-%2520030.jpg
 ---
 
-|  [![](https://lh6.googleusercontent.com/-KkrbZGMbgDk/USjJenQfo4I/AAAAAAADi5U/swYO3BgGLLI/s640/2541%2520-%2520Diana%2520Mini%2520-%2520030.jpg)](https://photos.app.goo.gl/P5QMojiWhaWJEKbB6)  |
+|  [![Un ocell mort amb les plomes escampades jeu sobre el ciment d'un carrer, al costat de la punta d'una bota fosca.](https://lh6.googleusercontent.com/-KkrbZGMbgDk/USjJenQfo4I/AAAAAAADi5U/swYO3BgGLLI/s640/2541%2520-%2520Diana%2520Mini%2520-%2520030.jpg)](https://photos.app.goo.gl/P5QMojiWhaWJEKbB6)  |
 | --- |
 | De [2541 - Diana Mini - First test](https://photos.app.goo.gl/P5QMojiWhaWJEKbB6) |

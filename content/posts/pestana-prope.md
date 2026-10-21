@@ -14,4 +14,4 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/06/IMG_3618-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2012/06/IMG_3618-1024x683.jpg
 ---
 
-![](https://blog.pocallum.cat/wp-content/uploads/2012/06/IMG_3618-1024x683.jpg)
+![Un home i una dona treballen darrere la barra d'un bar vermellós, amb gots preparats i una ampolla verda al davant.](https://blog.pocallum.cat/wp-content/uploads/2012/06/IMG_3618-1024x683.jpg)

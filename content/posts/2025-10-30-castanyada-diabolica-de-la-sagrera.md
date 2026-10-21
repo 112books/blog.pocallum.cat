@@ -21,7 +21,7 @@ description: "Castanyada diabòlica a la Nau Bostik de La Sagrera: túnel del te
 title-seo: "Castanyada diabòlica a La Sagrera – Nau Bostik"
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/10/IMG_2002-1024x683.jpg)](https://photos.app.goo.gl/cg3XNKuaR3mwtyPy7)
+[![Quatre joves maquillades de terror fan ganyotes en una festa nocturna fosca, una sosté un plat amb dits de mentida.](https://blog.pocallum.cat/wp-content/uploads/2025/10/IMG_2002-1024x683.jpg)](https://photos.app.goo.gl/cg3XNKuaR3mwtyPy7)
 
 Enguany la **Nau Bostik** celebra el seu **10è aniversari** en aquesta etapa com a espai cultural de **la Sagrera**. Entre el munt d’activitats organitzades per commemorar aquesta sonada efemèride, avui la canalla —i els canalles— s’han cagat de por a la **[Castanyada diabòlica de La Sagrera](https://naubostik.com/esdeveniment/castanyada-diabolica-de-la-sagrera-2025/)**.
 

@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2014/08/3479-HolgaCFN-00
 image: https://lh4.googleusercontent.com/-hb5JzkyPo9M/U_7DTxWe9kI/AAAAAAAETI0/-RDb9h8BfUY/s640/3479%2520-%2520HolgaCFN%2520-%2520005.jpg
 ---
 
-|  [![](https://lh4.googleusercontent.com/-hb5JzkyPo9M/U_7DTxWe9kI/AAAAAAAETI0/-RDb9h8BfUY/s640/3479%2520-%2520HolgaCFN%2520-%2520005.jpg)](https://photos.app.goo.gl/aZRapZhGRvQbiHK2A)  |
+|  [![Un camp de rostolls amb bales de palla rodones en primer pla i al fons, sota un cel groguenc.](https://lh4.googleusercontent.com/-hb5JzkyPo9M/U_7DTxWe9kI/AAAAAAAETI0/-RDb9h8BfUY/s640/3479%2520-%2520HolgaCFN%2520-%2520005.jpg)](https://photos.app.goo.gl/aZRapZhGRvQbiHK2A)  |
 | --- |
 | De [3479 - HolgaCFN - Lomography Redscale 50-200](https://photos.app.goo.gl/aZRapZhGRvQbiHK2A) |

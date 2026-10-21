@@ -10,7 +10,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_8900-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_8900.jpg
 ---
 
-![](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_8900.jpg)
+![Una mà en moviment prem les tecles d'un sintetitzador il·luminat amb tons blaus i vermells en un concert fosc.](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_8900.jpg)
 
 Recull d'àlbums de la VII Festival de Blues de Barcelona. Tots els àlbums d'aquesta edició:
 

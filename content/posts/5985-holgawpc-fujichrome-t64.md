@@ -11,6 +11,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2014/11/5985-HolgaWPC-00
 image: https://lh3.googleusercontent.com/-zpV0NsqTb-s/VHh1l8hDaVI/AAAAAAAEc30/6fnWpQSPxR4/s640/5985%2520-%2520HolgaWPC%2520-%2520004.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-zpV0NsqTb-s/VHh1l8hDaVI/AAAAAAAEc30/6fnWpQSPxR4/s640/5985%2520-%2520HolgaWPC%2520-%2520004.jpg)](https://photos.app.goo.gl/mY9Mdgreg4ZHQxZF6)  |
+|  [![Una planta suculenta en primer pla destaca davant un paisatge muntanyós banyat per un intens color magenta.](https://lh3.googleusercontent.com/-zpV0NsqTb-s/VHh1l8hDaVI/AAAAAAAEc30/6fnWpQSPxR4/s640/5985%2520-%2520HolgaWPC%2520-%2520004.jpg)](https://photos.app.goo.gl/mY9Mdgreg4ZHQxZF6)  |
 | --- |
 | De [5985 - HolgaWPC - FujiChrome T64](https://photos.app.goo.gl/mY9Mdgreg4ZHQxZF6) |

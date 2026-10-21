@@ -18,7 +18,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/07/IMG_4521.jpg
 image: https://lh6.googleusercontent.com/-cTUhUvIYiaQ/T_TbIjEHtLI/AAAAAAADOnQ/csFRZRk21y4/s800/IMG_4521.jpg
 ---
 
-|  [![](https://lh6.googleusercontent.com/-cTUhUvIYiaQ/T_TbIjEHtLI/AAAAAAADOnQ/csFRZRk21y4/s800/IMG_4521.jpg)](https://photos.app.goo.gl/1i15Fo7sdMsPtuHm7)  |
+|  [![Dues dones fan acrobàcies en un cèrcol suspès entre les branques d'un arbre frondós.](https://lh6.googleusercontent.com/-cTUhUvIYiaQ/T_TbIjEHtLI/AAAAAAADOnQ/csFRZRk21y4/s800/IMG_4521.jpg)](https://photos.app.goo.gl/1i15Fo7sdMsPtuHm7)  |
 | --- |
 | De [Un arbre i dues fantàstiques acròbates](https://photos.app.goo.gl/1i15Fo7sdMsPtuHm7) |
 

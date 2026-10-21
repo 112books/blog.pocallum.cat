@@ -16,7 +16,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/10/IMG_2983.jpg
 image: https://lh6.googleusercontent.com/-7h0zZYZn2GQ/UISH2sw7HjI/AAAAAAADZco/AzXnV_rTQMM/s800/IMG_2983.jpg
 ---
 
-|  [![](https://lh6.googleusercontent.com/-7h0zZYZn2GQ/UISH2sw7HjI/AAAAAAADZco/AzXnV_rTQMM/s800/IMG_2983.jpg)](https://photos.app.goo.gl/4jJ1GSpukpDxhGww9)  |
+|  [![Un home beu d'una gran copa de cervesa en un bar amb llum càlida i clients desenfocats al fons.](https://lh6.googleusercontent.com/-7h0zZYZn2GQ/UISH2sw7HjI/AAAAAAADZco/AzXnV_rTQMM/s800/IMG_2983.jpg)](https://photos.app.goo.gl/4jJ1GSpukpDxhGww9)  |
 | --- |
 | De [Cece Giannotti a El cor de la Vinya](https://photos.app.goo.gl/4jJ1GSpukpDxhGww9) |
 

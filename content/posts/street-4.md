@@ -10,4 +10,4 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/05/img_1342-scaled1
 image: https://blog.pocallum.cat/wp-content/uploads/2012/05/IMG_1342-768x1024.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2012/05/IMG_1342-768x1024.jpg)](https://photos.app.goo.gl/zQQ2u528ECjm7rKL7)
+[![Dues dones amb vestits negre i verd conversen en un passadís, emmarcades per una obertura fosca i una silueta en primer pla.](https://blog.pocallum.cat/wp-content/uploads/2012/05/IMG_1342-768x1024.jpg)](https://photos.app.goo.gl/zQQ2u528ECjm7rKL7)

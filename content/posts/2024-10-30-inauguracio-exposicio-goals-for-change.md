@@ -22,7 +22,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2024/10/L1490235.jpg
 description: "L'exposició 'Goals for Change' va ser inaugurada ahir a la Nau Bostik amb gran èxit. Aquesta mostra multimèdia presenta les històries de joves migrants a través de fotografies, audiovisuals i textos, oferint una nova perspectiva sobre la seva realitat. Visita l'exposició fins al 22 de novembre i descobreix com l'art pot promoure el canvi social."
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/10/L1490235.jpg)](https://photos.app.goo.gl/SzDwc76cWzQ2ZNeP8)
+[![Quatre pantalles il·luminades pengen d'una paret blanca amb retrats de joves esportistes en una galeria.](https://blog.pocallum.cat/wp-content/uploads/2024/10/L1490235.jpg)](https://photos.app.goo.gl/SzDwc76cWzQ2ZNeP8)
 
 La inauguració de l'exposició "Goals for Change" a la Nau Bostik ha estat tot un èxit. L'esdeveniment, que va tenir lloc ahir 30 d'octubre a les 19:30h, va atreure un gran nombre de visitants que van quedar impressionats per la potent narrativa visual i les històries personals dels joves migrants.
 

@@ -36,4 +36,4 @@ Durant l’acte era interessant observar les mirades creuades entre els qui havi
 
 A les fotografies, alguns dels protagonistes i responsables d’aquesta publicació que ja ha arribat a la seva segona edició. Senyal que, malgrat tot, encara hi ha històries de barri que interessen, interpel·len i continuen generant conversa.
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2026/05/IMG_1972-1024x576.jpg)](https://photos.app.goo.gl/eDGA5MKfAHbQQrBp6)
+[![Persones assegudes en rotllana en un pati amb arbres, vistes des d'unes escales on un home està d'esquena.](https://blog.pocallum.cat/wp-content/uploads/2026/05/IMG_1972-1024x576.jpg)](https://photos.app.goo.gl/eDGA5MKfAHbQQrBp6)

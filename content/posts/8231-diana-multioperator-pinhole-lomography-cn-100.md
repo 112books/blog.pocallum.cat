@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2014/02/8231-DianaP-CN10
 image: https://lh4.googleusercontent.com/-_SIMiIdOnLM/UwXBx9ZzvpI/AAAAAAAECoQ/Y0Vz-uKyz0Y/s640/8231%2520-%2520DianaP%2520-%2520CN100%2520-%2520006.jpg
 ---
 
-|  [![](https://lh4.googleusercontent.com/-_SIMiIdOnLM/UwXBx9ZzvpI/AAAAAAAECoQ/Y0Vz-uKyz0Y/s640/8231%2520-%2520DianaP%2520-%2520CN100%2520-%2520006.jpg)](https://photos.app.goo.gl/GMGXzWj8d9sz9tFD6)  |
+|  [![Siluetes de cactus i arbres sobreposades amb una llum vibrant de colors rosa, groc i blanc en un paisatge abstracte.](https://lh4.googleusercontent.com/-_SIMiIdOnLM/UwXBx9ZzvpI/AAAAAAAECoQ/Y0Vz-uKyz0Y/s640/8231%2520-%2520DianaP%2520-%2520CN100%2520-%2520006.jpg)](https://photos.app.goo.gl/GMGXzWj8d9sz9tFD6)  |
 | --- |
 | De [8231 - Diana Multioperator Pinhole - Lomography CN 100](https://photos.app.goo.gl/GMGXzWj8d9sz9tFD6) |

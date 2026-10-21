@@ -19,6 +19,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2023/07/Captura-de-panta
 image: https://blog.pocallum.cat/wp-content/uploads/2023/07/2023-07-07-Chino-Swingslide-Trio-LeicaM6-0037-1024x633.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2023/07/2023-07-07-Chino-Swingslide-Trio-LeicaM6-0037-1024x633.jpg)](https://photos.app.goo.gl/apEEyGfJqAx1HKaz7)
+[![Un músic amb barret toca la guitarra i canta davant d'un micròfon en un escenari amb fum i arcs al fons.](https://blog.pocallum.cat/wp-content/uploads/2023/07/2023-07-07-Chino-Swingslide-Trio-LeicaM6-0037-1024x633.jpg)](https://photos.app.goo.gl/apEEyGfJqAx1HKaz7)
 
 El Gran Chino, xinès pels amics, amb el seu trio ([Freddy Muñoz](https://www.instagram.com/freddymunoz/) al baix i [Homero Tolosa](https://www.instagram.com/homerotolosa/) a la bateria). No podia faltar tampoc en aquesta edició del Festival de Blues de Barcelona. A més, va anar de gira per les centres penitenciaris i va amenitzar la Jam Session del castell de Torra Baró.

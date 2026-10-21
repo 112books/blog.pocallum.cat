@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2014/02/8233-Lubi-CN800-
 image: https://lh4.googleusercontent.com/-3_mnWwTcmTI/UwXt7-Qfd8I/AAAAAAAECqw/TLgRh3KAAk8/s640/8233%2520-%2520Lubi%2520-%2520CN800%2520-%2520008.jpg
 ---
 
-|  [![](https://lh4.googleusercontent.com/-3_mnWwTcmTI/UwXt7-Qfd8I/AAAAAAAECqw/TLgRh3KAAk8/s640/8233%2520-%2520Lubi%2520-%2520CN800%2520-%2520008.jpg)](https://photos.app.goo.gl/h3X3vg4WHPzTy2xAA)  |
+|  [![Un gran arbre florit s'alça davant d'una construcció de maó enrunada amb una rampa inclinada, en un camp.](https://lh4.googleusercontent.com/-3_mnWwTcmTI/UwXt7-Qfd8I/AAAAAAAECqw/TLgRh3KAAk8/s640/8233%2520-%2520Lubi%2520-%2520CN800%2520-%2520008.jpg)](https://photos.app.goo.gl/h3X3vg4WHPzTy2xAA)  |
 | --- |
 | De [8233 - Lubitel 166B - Lomography CN 800](https://photos.app.goo.gl/h3X3vg4WHPzTy2xAA) |

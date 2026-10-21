@@ -19,7 +19,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2011/05/IMG_7404.jpg
 image: https://lh6.googleusercontent.com/_xYdsA1KqJRQ/TdEaMInM4TI/AAAAAAACJIw/jLmDMFXRtwI/s640/IMG_7404.jpg
 ---
 
-|  [![](https://lh6.googleusercontent.com/_xYdsA1KqJRQ/TdEaMInM4TI/AAAAAAACJIw/jLmDMFXRtwI/s640/IMG_7404.jpg)](https://photos.app.goo.gl/RdcRJWurvZoRJGWb8)  |
+|  [![Grup de músics de blues actuant a l'escenari, amb pianista i vents, davant del públic assegut a les fosques.](https://lh6.googleusercontent.com/_xYdsA1KqJRQ/TdEaMInM4TI/AAAAAAACJIw/jLmDMFXRtwI/s640/IMG_7404.jpg)](https://photos.app.goo.gl/RdcRJWurvZoRJGWb8)  |
 | --- |
 | De [Blues & Picnic 2011](https://photos.app.goo.gl/RdcRJWurvZoRJGWb8) |
 

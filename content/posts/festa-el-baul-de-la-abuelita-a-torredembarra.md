@@ -13,6 +13,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/07/IMG_0923.jpg
 image: https://lh3.googleusercontent.com/-G8jwf3gVqpA/UdnQhq0zhEI/AAAAAAADyXg/nfeaQFpZ_MM/s640/IMG_0923.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-G8jwf3gVqpA/UdnQhq0zhEI/AAAAAAADyXg/nfeaQFpZ_MM/s640/IMG_0923.jpg)](https://photos.app.goo.gl/ohYdMt84BYp9YRLm8)  |
+|  [![Un cotxe clàssic vermell en primer pla i una dona cantant en un escenari a l'aire lliure, amb un ciclista al fons.](https://lh3.googleusercontent.com/-G8jwf3gVqpA/UdnQhq0zhEI/AAAAAAADyXg/nfeaQFpZ_MM/s640/IMG_0923.jpg)](https://photos.app.goo.gl/ohYdMt84BYp9YRLm8)  |
 | --- |
 | De [Festa "El Baúl de la Abuelita" a Torredembarra](https://photos.app.goo.gl/ohYdMt84BYp9YRLm8) |

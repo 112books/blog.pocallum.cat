@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2015/11/HD56-Bronica-Lad
 image: https://lh3.googleusercontent.com/-OYx_Ss5jHiA/VjqE6D2vwRI/AAAAAAAE55I/6ceNi-OQlKo/s640-Ic42/HD%25252356-Bronica-LadyGrey-%252520004.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-OYx_Ss5jHiA/VjqE6D2vwRI/AAAAAAAE55I/6ceNi-OQlKo/s640-Ic42/HD%25252356-Bronica-LadyGrey-%252520004.jpg)](https://photos.app.goo.gl/4RkdVHBVs7CRUtbX8)  |
+|  [![Una tija alta de flors blanques en forma de campana florides destaca sobre un fons fosc de fulles.](https://lh3.googleusercontent.com/-OYx_Ss5jHiA/VjqE6D2vwRI/AAAAAAAE55I/6ceNi-OQlKo/s640-Ic42/HD%25252356-Bronica-LadyGrey-%252520004.jpg)](https://photos.app.goo.gl/4RkdVHBVs7CRUtbX8)  |
 | --- |
 | De [Homedev#56 - Bronica ETRS](https://photos.app.goo.gl/4RkdVHBVs7CRUtbX8) |

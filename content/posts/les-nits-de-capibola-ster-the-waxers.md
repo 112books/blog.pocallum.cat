@@ -13,7 +13,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_5016.jpg
 image: https://lh6.googleusercontent.com/-i4BdmGaLuUo/Txxs5SpYsXI/AAAAAAACf8k/VF70L8CK69o/s800/IMG_5016.jpg
 ---
 
-|  [![](https://lh6.googleusercontent.com/-i4BdmGaLuUo/Txxs5SpYsXI/AAAAAAACf8k/VF70L8CK69o/s800/IMG_5016.jpg)](https://photos.app.goo.gl/CMtvqvA7qL8hc7hm8)  |
+|  [![Una cantant rossa canta al micròfon amb un got a la mà davant un bateria en un escenari amb cortines vermelles.](https://lh6.googleusercontent.com/-i4BdmGaLuUo/Txxs5SpYsXI/AAAAAAACf8k/VF70L8CK69o/s800/IMG_5016.jpg)](https://photos.app.goo.gl/CMtvqvA7qL8hc7hm8)  |
 | --- |
 | De [Les nits de Capibola - Ster & The Waxers](https://photos.app.goo.gl/CMtvqvA7qL8hc7hm8) |
 

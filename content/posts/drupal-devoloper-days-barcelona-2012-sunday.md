@@ -16,7 +16,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/06/IMG_2891.jpg
 image: https://lh6.googleusercontent.com/-8KCud4C79io/T94hFIZrQaI/AAAAAAADKVo/uQM5wSzl0uY/s640/IMG_2891.jpg
 ---
 
-|  [![](https://lh6.googleusercontent.com/-8KCud4C79io/T94hFIZrQaI/AAAAAAADKVo/uQM5wSzl0uY/s640/IMG_2891.jpg)](https://photos.app.goo.gl/EdHFWwFNNSjNsrrf9)  |
+|  [![Mans d'assistents en un acte cultural prenen notes i assenyalen la pantalla d'un portàtil sobre una taula.](https://lh6.googleusercontent.com/-8KCud4C79io/T94hFIZrQaI/AAAAAAADKVo/uQM5wSzl0uY/s640/IMG_2891.jpg)](https://photos.app.goo.gl/EdHFWwFNNSjNsrrf9)  |
 | --- |
 | De [Drupal Devoloper Days Barcelona 2012 - Sunday](https://photos.app.goo.gl/EdHFWwFNNSjNsrrf9) |
 

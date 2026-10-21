@@ -11,6 +11,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2014/08/IMG_4272.jpg
 image: https://lh3.googleusercontent.com/-LuiAkHxQZ0E/U_2DJSwAF5I/AAAAAAAESmo/BamlmKLkVBA/s640/IMG_4272.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-LuiAkHxQZ0E/U_2DJSwAF5I/AAAAAAAESmo/BamlmKLkVBA/s640/IMG_4272.jpg)](https://photos.app.goo.gl/Z35TSpmhygq1U7jf8)  |
+|  [![Un grup de jazz toca en un escenari amb llums liles i blaves; destaquen el pianista de blanc i el saxofonista de groc.](https://lh3.googleusercontent.com/-LuiAkHxQZ0E/U_2DJSwAF5I/AAAAAAAESmo/BamlmKLkVBA/s640/IMG_4272.jpg)](https://photos.app.goo.gl/Z35TSpmhygq1U7jf8)  |
 | --- |
 | De [BBBB al Palau de la Música amb Mike Sanchez i Dani Nel·lo](https://photos.app.goo.gl/Z35TSpmhygq1U7jf8) |

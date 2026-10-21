@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/03/2705-Diana-Mini-
 image: https://lh5.googleusercontent.com/-VGXjiXnSgQw/US_QUdRERlI/AAAAAAADj5M/dlngV59JfME/s640/2705%2520-%2520Diana%2520Mini%2520-%2520022.jpg
 ---
 
-|  [![](https://lh5.googleusercontent.com/-VGXjiXnSgQw/US_QUdRERlI/AAAAAAADj5M/dlngV59JfME/s640/2705%2520-%2520Diana%2520Mini%2520-%2520022.jpg)](https://photos.app.goo.gl/fKLMc37biLhd2NeN8)  |
+|  [![Home gran amb ulleres i jersei de coll alt mira cap amunt en un local fosc.](https://lh5.googleusercontent.com/-VGXjiXnSgQw/US_QUdRERlI/AAAAAAADj5M/dlngV59JfME/s640/2705%2520-%2520Diana%2520Mini%2520-%2520022.jpg)](https://photos.app.goo.gl/fKLMc37biLhd2NeN8)  |
 | --- |
 | De [2705 - Diana Mini](https://photos.app.goo.gl/fKLMc37biLhd2NeN8) |

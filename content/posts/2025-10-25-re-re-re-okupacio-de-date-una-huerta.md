@@ -13,7 +13,7 @@ description: "Crònica de la re-re-re-okupació de l’hort comunitari Date una 
 title-seo: "Re-re-re-okupació de Date una Huerta | Hort comunitari de la Prosperitat"
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/11/DSCF2105-1024x683.jpg)](https://photos.app.goo.gl/N9RParU6XWstkacn6)
+[![Persones conversant en un pati amb banderetes i murals, destacant un home gran amb càmera al coll.](https://blog.pocallum.cat/wp-content/uploads/2025/11/DSCF2105-1024x683.jpg)](https://photos.app.goo.gl/N9RParU6XWstkacn6)
 
 ## **Un hort okupat?**
 

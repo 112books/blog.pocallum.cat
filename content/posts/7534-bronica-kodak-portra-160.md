@@ -14,6 +14,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2014/01/7534-Bronica-Por
 image: https://lh6.googleusercontent.com/-IScuOEBgW38/UuKMw7AUf0I/AAAAAAAEBXI/DOYrkpkuvCM/s640/7534%2520-%2520Bronica%2520-Portra013.jpg
 ---
 
-|  [![](https://lh6.googleusercontent.com/-IScuOEBgW38/UuKMw7AUf0I/AAAAAAAEBXI/DOYrkpkuvCM/s640/7534%2520-%2520Bronica%2520-Portra013.jpg)](https://photos.app.goo.gl/mnVvKn592qXGtHXcA)  |
+|  [![Grup de persones contemplen la ciutat des d'un mirador elevat amb arbres, mentre un home dempeus fa una foto.](https://lh6.googleusercontent.com/-IScuOEBgW38/UuKMw7AUf0I/AAAAAAAEBXI/DOYrkpkuvCM/s640/7534%2520-%2520Bronica%2520-Portra013.jpg)](https://photos.app.goo.gl/mnVvKn592qXGtHXcA)  |
 | --- |
 | De [7534 - Bronica- Kodak Portra 160](https://photos.app.goo.gl/mnVvKn592qXGtHXcA) |

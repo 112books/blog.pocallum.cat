@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2023/09/IMG_0929-1024x76
 image: https://blog.pocallum.cat/wp-content/uploads/2023/09/IMG_0929-1024x768.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2023/09/IMG_0929-1024x768.jpg)](https://photos.app.goo.gl/nnNJrhh8vnStnaXv8)
+[![Núvols dramàtics en blanc i negre sobre un paisatge muntanyós amb un xiprer fosc a l'esquerra.](https://blog.pocallum.cat/wp-content/uploads/2023/09/IMG_0929-1024x768.jpg)](https://photos.app.goo.gl/nnNJrhh8vnStnaXv8)
 
 Algunes imatges de les petites vacances gaudides aquest estiu al bonic poblet de Montcortès (Baix Pallars). Totes fetes només amb el vell iPhone disparades.

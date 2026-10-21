@@ -12,7 +12,7 @@ image: https://lh3.googleusercontent.com/pw/ACtC-3eODjb6OmKH3QoIl0ktmKr3frVKdEOr
 
 <figure>
 
-[![](https://lh3.googleusercontent.com/pw/ACtC-3eODjb6OmKH3QoIl0ktmKr3frVKdEOrByCqLvl5_RvJukQ5qY8j8Wi9v-LPT3gxsy1tsO9UuBIKHfE7oEv665QCd_vFGrISxpGBOS0gNVrj5s1pB0a6V4Ab310vFRaIzi86Qnltvi6cidXfjbRXYR0mTg=w956-h1195-no?authuser=0)](https://photos.app.goo.gl/2TKg5nL3FBrpA3DL7)
+[![Model amb el tors i la cara pintats de calavera mexicana, posant amb els braços alçats en un estudi fosc.](https://lh3.googleusercontent.com/pw/ACtC-3eODjb6OmKH3QoIl0ktmKr3frVKdEOrByCqLvl5_RvJukQ5qY8j8Wi9v-LPT3gxsy1tsO9UuBIKHfE7oEv665QCd_vFGrISxpGBOS0gNVrj5s1pB0a6V4Ab310vFRaIzi86Qnltvi6cidXfjbRXYR0mTg=w956-h1195-no?authuser=0)](https://photos.app.goo.gl/2TKg5nL3FBrpA3DL7)
 
 <figcaption>
 

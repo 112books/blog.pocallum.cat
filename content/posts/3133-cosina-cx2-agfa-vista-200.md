@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2014/08/3133-CosinaCX2-0
 image: https://lh6.googleusercontent.com/-wc1xrlJwN5I/U-yHIqPbvvI/AAAAAAAERcE/SJxlqEqTVp4/s640/3133%2520-%2520CosinaCX2%2520-%2520009.jpg
 ---
 
-|  [![](https://lh6.googleusercontent.com/-wc1xrlJwN5I/U-yHIqPbvvI/AAAAAAAERcE/SJxlqEqTVp4/s640/3133%2520-%2520CosinaCX2%2520-%2520009.jpg)](https://photos.app.goo.gl/6R41x2dwNrxbucbY9)  |
+|  [![Un noi i una noia d'esquena, asseguts a la vora de la platja, contemplen el mar amb vaixells al fons.](https://lh6.googleusercontent.com/-wc1xrlJwN5I/U-yHIqPbvvI/AAAAAAAERcE/SJxlqEqTVp4/s640/3133%2520-%2520CosinaCX2%2520-%2520009.jpg)](https://photos.app.goo.gl/6R41x2dwNrxbucbY9)  |
 | --- |
 | De [3133 - Cosina CX2 - Agfa Vista 200](https://photos.app.goo.gl/6R41x2dwNrxbucbY9) |

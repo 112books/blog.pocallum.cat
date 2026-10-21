@@ -22,7 +22,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2025/07/IMG_4715-1024x576.jp
 description: "Prospe Beach 2025, la festa popular de la Prosperitat amb jocs, esport, música i gastronomia durant tot el juliol a la plaça Ángel Pestaña."
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/07/IMG_4715-1024x576.jpg)](https://photos.app.goo.gl/1fXTU5GtfCjDSxu76)
+[![Primer pla d'una safata de síndria tallada en una parada sota carpa, amb gent gaudint de la platja al fons.](https://blog.pocallum.cat/wp-content/uploads/2025/07/IMG_4715-1024x576.jpg)](https://photos.app.goo.gl/1fXTU5GtfCjDSxu76)
 
 Un any més —i ja hem perdut el compte de quants en portem!—, la Prosperitat ha celebrat la seva festa més estiuenca i divertida: el [Prospe Beach](https://prospebeach.org). Durant tot el mes de juliol, tot i que enguany sembla que els dalt han retallat una mica els dies, el barri gaudeix de la sorra (gairebé com la de platja!) que cobreix la plaça Ángel Pestaña.
 

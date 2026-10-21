@@ -37,17 +37,17 @@ La darrera vegada que vaig enfilar cap al barri de les Roquetes i el mirador de 
 
 Havia tingut el plaer de compartir dinar amb el meu germà i, després d’una bona sobretaula —ben carregada de bona música i cafè—, és quan m’he pogut alliberar de les urpes del sofà i iniciar l’escapada. La idea era pujar tot passejant i captar, des de les altures del mirador de Torre Baró, com la llum del dia es dilueix al Mediterrani, amb bones vistes de Barcelona, el mar i un cel —ennigulat— com a teló de fons.
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/12/DSCF2321-1024x683.jpg)
+![Terrats de Barcelona amb una coberta de plàstic verd, un arbre sense fulles i un taronger en primer pla.](https://blog.pocallum.cat/wp-content/uploads/2025/12/DSCF2321-1024x683.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/12/DSCF2361-1024x683.jpg)
+![Figues de moro en primer pla emmarquen una torre elèctrica d'alta tensió en un descampat sota un cel gris.](https://blog.pocallum.cat/wp-content/uploads/2025/12/DSCF2361-1024x683.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/12/DSCF2390-1024x683.jpg)
+![No copiar text (no n'hi ha).](https://blog.pocallum.cat/wp-content/uploads/2025/12/DSCF2390-1024x683.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/12/DSCF2395-1024x683.jpg)
+![Un cactus de grans paletes es retalla contra un cel gris de tempesta sobre les muntanyes i les llums de la ciutat.](https://blog.pocallum.cat/wp-content/uploads/2025/12/DSCF2395-1024x683.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/12/DSCF2404-1024x683.jpg)
+![Un arbre sense fulles s'alça sobre un turó fosc entre tres torres elèctriques i cables sota un cel gris.](https://blog.pocallum.cat/wp-content/uploads/2025/12/DSCF2404-1024x683.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/12/DSCF2433-1024x683.jpg)
+![Siluetes de torres elèctriques i cables sobre un turó fosc, amb la ciutat il·luminada al fons.](https://blog.pocallum.cat/wp-content/uploads/2025/12/DSCF2433-1024x683.jpg)
 
 Feia fred i tenia ganes de caminar, així que he anat vorejant els carrers més elevats, des dels ascensors que t’enfilen al capdamunt de les Roquetes fins al mirador de Torre Baró. Però no n’he tingut prou i he recordat un corriol que surt cap a l’esquerra, que permet baixar suaument fins a l’Ateneu Popular de Nou Barris fent ziga-zagues.
 

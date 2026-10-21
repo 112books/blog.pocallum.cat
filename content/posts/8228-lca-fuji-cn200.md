@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2014/02/8228-LC-A-CN2-03
 image: https://lh3.googleusercontent.com/-jyjjvU27urw/UwUgrp_HIfI/AAAAAAAEChs/K6j0OPF9p7c/s640/8228%2520-%2520LC-A%2520-%2520CN2%2520-%2520034.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-jyjjvU27urw/UwUgrp_HIfI/AAAAAAAEChs/K6j0OPF9p7c/s640/8228%2520-%2520LC-A%2520-%2520CN2%2520-%2520034.jpg)](https://photos.app.goo.gl/rnXNS86fDYgEURGE7)  |
+|  [![Grans cactus espinosos en primer pla creixen en un jardí amb palmeres i un camí al fons.](https://lh3.googleusercontent.com/-jyjjvU27urw/UwUgrp_HIfI/AAAAAAAEChs/K6j0OPF9p7c/s640/8228%2520-%2520LC-A%2520-%2520CN2%2520-%2520034.jpg)](https://photos.app.goo.gl/rnXNS86fDYgEURGE7)  |
 | --- |
 | De [8228 - LCA - Fuji CN200](https://photos.app.goo.gl/rnXNS86fDYgEURGE7) |

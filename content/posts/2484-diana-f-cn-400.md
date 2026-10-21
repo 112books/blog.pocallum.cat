@@ -13,6 +13,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/08/2484-Dian-CN400-
 image: https://lh6.googleusercontent.com/-OQv73mjAUgA/UiA2_sPfz3I/AAAAAAAD4fY/ziQzi4aO9ds/s640/2484%2520-%2520Dian%2520-%2520CN400%2520-%2520006.jpg
 ---
 
-|  [![](https://lh6.googleusercontent.com/-OQv73mjAUgA/UiA2_sPfz3I/AAAAAAAD4fY/ziQzi4aO9ds/s640/2484%2520-%2520Dian%2520-%2520CN400%2520-%2520006.jpg)](https://photos.app.goo.gl/hmWetXYDGVg9nwcM6)  |
+|  [![Banyistes nedant i fent snorkel en una cala d'aigua blava, amb una escala de metall i roba i un barret sobre les roques.](https://lh6.googleusercontent.com/-OQv73mjAUgA/UiA2_sPfz3I/AAAAAAAD4fY/ziQzi4aO9ds/s640/2484%2520-%2520Dian%2520-%2520CN400%2520-%2520006.jpg)](https://photos.app.goo.gl/hmWetXYDGVg9nwcM6)  |
 | --- |
 | De [2484 - Diana +F - CN 400](https://photos.app.goo.gl/hmWetXYDGVg9nwcM6) |

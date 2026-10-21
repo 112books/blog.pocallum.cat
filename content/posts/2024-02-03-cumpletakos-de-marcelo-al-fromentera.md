@@ -11,6 +11,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/02/DSF7102.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2024/02/DSF7102-1024x683.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/02/DSF7102-1024x683.jpg)](https://photos.app.goo.gl/YUWyNmRtcmGQKNYh7)
+[![Un home calb amb una beguda i una nena observen com dues persones s'abracen en un bar amb quadres a la paret.](https://blog.pocallum.cat/wp-content/uploads/2024/02/DSF7102-1024x683.jpg)](https://photos.app.goo.gl/YUWyNmRtcmGQKNYh7)
 
 Avui hem celebrat, per sorpresa, el cumple de l'estimat Marcelo al bar Formentera. Una bona excusa per veure gent meravellosa que feia massa no veia.

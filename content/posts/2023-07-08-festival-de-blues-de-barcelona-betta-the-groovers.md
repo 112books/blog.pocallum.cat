@@ -18,4 +18,4 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2023/07/Captura-de-panta
 image: https://blog.pocallum.cat/wp-content/uploads/2023/07/2023-07-08-2023-07-08-Betta-de-Groovers-0141-1024x618.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2023/07/2023-07-08-2023-07-08-Betta-de-Groovers-0141-1024x618.jpg)](https://photos.app.goo.gl/iRVFczLEJyef1t5o8)
+[![Una dona canta amb un micròfon a l'escenari, amb un teclista darrere, en un pati amb arcs de pedra i palmeres.](https://blog.pocallum.cat/wp-content/uploads/2023/07/2023-07-08-2023-07-08-Betta-de-Groovers-0141-1024x618.jpg)](https://photos.app.goo.gl/iRVFczLEJyef1t5o8)

@@ -13,6 +13,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/04/4687-Lomo-LCA-02
 image: https://lh5.googleusercontent.com/-Nox95NExoc8/UXD8dZMjTJI/AAAAAAADpUc/03dDd68Dzrs/s640/4687%2520-%2520Lomo%2520LCA%2520-%2520025.jpg
 ---
 
-|  [![](https://lh5.googleusercontent.com/-Nox95NExoc8/UXD8dZMjTJI/AAAAAAADpUc/03dDd68Dzrs/s640/4687%2520-%2520Lomo%2520LCA%2520-%2520025.jpg)](https://photos.app.goo.gl/DziFtyt2fJcYyZTS9)  |
+|  [![Una jove de cabells llargs fa una ganyota traient la llengua davant d'un fons blau fosc.](https://lh5.googleusercontent.com/-Nox95NExoc8/UXD8dZMjTJI/AAAAAAADpUc/03dDd68Dzrs/s640/4687%2520-%2520Lomo%2520LCA%2520-%2520025.jpg)](https://photos.app.goo.gl/DziFtyt2fJcYyZTS9)  |
 | --- |
 | De [4687 - Lomo LCA](https://photos.app.goo.gl/DziFtyt2fJcYyZTS9) |

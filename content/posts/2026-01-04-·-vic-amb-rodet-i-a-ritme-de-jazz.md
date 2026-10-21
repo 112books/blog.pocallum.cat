@@ -31,7 +31,7 @@ description: "Crònica fotogràfica i musical a la plana de Vic: Leica M6, Fom
 title-seo: "Vic amb rodet i a ritme de jazz | Leica M6 i Foma 400 a la Jazz Cava"
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2026/01/2026-01-04-Leica-M6-Foma400@1600-Vic-Jazz-POrtada-1024x712.jpg)](https://photos.app.goo.gl/z33BiK9HYXgQ23Qk8)
+[![Una banda de jazz toca en directe en un club fosc, amb un cantant i músics de vent a l'escenari.](https://blog.pocallum.cat/wp-content/uploads/2026/01/2026-01-04-Leica-M6-Foma400@1600-Vic-Jazz-POrtada-1024x712.jpg)](https://photos.app.goo.gl/z33BiK9HYXgQ23Qk8)
 
 Aquest inici d’any el destí em va portar a passar un parell de dies a la plana de Vic. Ja n’havia [escrit quatre línies](https://blog.pocallum.cat/2026/01/07/2026-01-04-escapada-a-vic/) i us havia ensenyat algunes fotografies fetes amb el telèfon — tan pràctic per a aquestes escapades en què no treballo.
 
@@ -39,7 +39,7 @@ Però acostumo a portar sempre a la butxaca alguna andròmina que, degudament ca
 
 Amb aquest primer rodet vaig poder fer un grapat de fotografies de turista, però la zona del Sucre i el seu art urbà va ser el que més em va agradar. Veieu-ne algunes clicant a la imatge següent:
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2026/01/2026-01-04-Leica-M6-Foma400@800-Vic-0025-1024x630.jpg)](https://photos.app.goo.gl/SGvfroc24zGUpDzs5)
+[![Una alta xemeneia de maó presideix un antic edifici industrial amb cotxes circulant per la cruïlla al davant.](https://blog.pocallum.cat/wp-content/uploads/2026/01/2026-01-04-Leica-M6-Foma400@800-Vic-0025-1024x630.jpg)](https://photos.app.goo.gl/SGvfroc24zGUpDzs5)
 
 Diumenge, vigília de la cavalcada dels Reis d’Orient, el destí va tornar a fer de les seves i em va dur fins a la **[Jazz Cava](https://www.jazzcava.com/)** —un tuguri jazzístic de primera— on, a més, hi havia programada una _big band_ i, per si no n’hi hagués prou, una _jam session_ per tancar la nit.
 

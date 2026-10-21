@@ -14,7 +14,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/06/IMG_2604.jpg
 image: https://lh3.googleusercontent.com/-a0wli9czIT8/T9UI2hw3zdI/AAAAAAADIQQ/vFYxSATEAow/s640/IMG_2604.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-a0wli9czIT8/T9UI2hw3zdI/AAAAAAADIQQ/vFYxSATEAow/s640/IMG_2604.jpg)](https://photos.app.goo.gl/8woNQ73DihHD7EdNA)  |
+|  [![Cap esculpit de forma rodona i to terrós amb detalls liles, exposat sobre una taula en una galeria de Barcelona.](https://lh3.googleusercontent.com/-a0wli9czIT8/T9UI2hw3zdI/AAAAAAADIQQ/vFYxSATEAow/s640/IMG_2604.jpg)](https://photos.app.goo.gl/8woNQ73DihHD7EdNA)  |
 | --- |
 | De [Exposició "Tótems i miratges" d'Isabel Serres a Vilafranca del Penedès](https://photos.app.goo.gl/8woNQ73DihHD7EdNA) |
 

@@ -30,7 +30,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2025/07/IMG_8520-1024x682.jp
 description: "Resum de la vivència al concert de Vincen Garcia durant el primer dia del Vijazz 2025, amb una mirada personal sobre l’impacte del baix elèctric, la seva formació de luxe i la potència sonora de la seva proposta funk-fusió a la plaça Sant Jaume de Vilafranca del Penedès."
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/07/IMG_8520-1024x682.jpg)](https://photos.app.goo.gl/bEskfRg8fwat3PMq8)
+[![Un baixista amb cabells rinxolats i barba toca el baix en un escenari fosc durant un concert.](https://blog.pocallum.cat/wp-content/uploads/2025/07/IMG_8520-1024x682.jpg)](https://photos.app.goo.gl/bEskfRg8fwat3PMq8)
 
 Sospito que l’[edició d’enguany del Vijazz](https://vijazzpenedes.com/programa/) té com a eix central el baix (i el seu germà contrabaix), ja que la gran estrella d’aquesta divuitena edició és, sens dubte, el gran [Avishai Cohen](https://avishaicohen.com) amb el seu trio. Intueixo també que s’ha aprofitat aquesta ocasió i, per oferir una varietat d’estils al voltant d’aquest instrument, la direcció artística ha aconseguit un cartell d’allò més interessant.
 

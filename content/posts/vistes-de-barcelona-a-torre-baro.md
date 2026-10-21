@@ -12,7 +12,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/02/IMG_8155.jpg
 image: https://lh3.googleusercontent.com/-puJXER0YW-g/TzfmIm9tiPI/AAAAAAACiIc/VbC2INgJ98k/s800/IMG_8155.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-puJXER0YW-g/TzfmIm9tiPI/AAAAAAACiIc/VbC2INgJ98k/s800/IMG_8155.jpg)](https://photos.app.goo.gl/JPShoqV7vJymduJp8)  |
+|  [![Figuera de moro en primer pla amb un turó de Collserola, una torre de maó, torres elèctriques i la ciutat al fons.](https://lh3.googleusercontent.com/-puJXER0YW-g/TzfmIm9tiPI/AAAAAAACiIc/VbC2INgJ98k/s800/IMG_8155.jpg)](https://photos.app.goo.gl/JPShoqV7vJymduJp8)  |
 | --- |
 | De [Vistes de Barcelona a Torre Baró](https://photos.app.goo.gl/JPShoqV7vJymduJp8) |
 

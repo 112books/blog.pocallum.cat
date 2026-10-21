@@ -10,7 +10,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_7068.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_7068-1.jpg
 ---
 
-![](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_7068-1.jpg)
+![descriu bé el context. * Fem-ho encara més directe: *](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_7068-1.jpg)
 
 Concert d'Hernan Serna "Chino" al Honkytonk Blues Bar de Barcelona. Senzillament un vespre molt ben aprofitat. Encara que l'he vist moltes vegades en diferents situacions i formacions, en solitari ha estat la primera vegada i penso repetir.
 

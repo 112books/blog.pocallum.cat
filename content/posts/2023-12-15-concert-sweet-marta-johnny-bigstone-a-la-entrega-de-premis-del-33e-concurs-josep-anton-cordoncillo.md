@@ -13,7 +13,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2023/12/2023-12-15-Vaiat
 image: https://blog.pocallum.cat/wp-content/uploads/2023/12/2023-12-15-Vaiat-LM6-APX400@1600-0018-1024x597.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2023/12/2023-12-15-Vaiat-LM6-APX400@1600-0018-1024x597.jpg)](https://photos.app.goo.gl/e8CXHF7gkbVWzwwC6)
+[![Una dona canta al micròfon mentre un home amb barret toca la guitarra en una sala plena de quadres.](https://blog.pocallum.cat/wp-content/uploads/2023/12/2023-12-15-Vaiat-LM6-APX400@1600-0018-1024x597.jpg)](https://photos.app.goo.gl/e8CXHF7gkbVWzwwC6)
 
 Concert de cloenda del 33è Concurs de fotografia Josep Antón Cordoncillo. Blues del bo amb [Sweet Marta](https://www.sweetmarta.com/) i Johnny Bigstone. Encara podeu gaudir de les fotografies uns quants dies més!
 

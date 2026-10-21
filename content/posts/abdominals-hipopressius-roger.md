@@ -12,7 +12,7 @@ image: https://lh3.googleusercontent.com/pw/ACtC-3e9vNzmeSuL0o7pAHnHidlMHF0PWH24
 
 <figure>
 
-[![](https://lh3.googleusercontent.com/pw/ACtC-3e9vNzmeSuL0o7pAHnHidlMHF0PWH24qaQZ9dKlPe0j2JtBhzQ3xVUEk4kXGH8X1CZNJJJza9ZPf8OENZ-FBbGALx-Z7No0d5cG9xnmh4oUZe1etiOYX9qmShW_VAPPvQ0WZj0-Jq9Wm7GX-hqTLsGb5g=w1336-h835-no?authuser=0)](https://photos.app.goo.gl/RpMzzheJhxx5tX1c9)
+[![Un home musculós i calb gateja en una postura animalística sobre un escenari fosc i buit.](https://lh3.googleusercontent.com/pw/ACtC-3e9vNzmeSuL0o7pAHnHidlMHF0PWH24qaQZ9dKlPe0j2JtBhzQ3xVUEk4kXGH8X1CZNJJJza9ZPf8OENZ-FBbGALx-Z7No0d5cG9xnmh4oUZe1etiOYX9qmShW_VAPPvQ0WZj0-Jq9Wm7GX-hqTLsGb5g=w1336-h835-no?authuser=0)](https://photos.app.goo.gl/RpMzzheJhxx5tX1c9)
 
 <figcaption>
 

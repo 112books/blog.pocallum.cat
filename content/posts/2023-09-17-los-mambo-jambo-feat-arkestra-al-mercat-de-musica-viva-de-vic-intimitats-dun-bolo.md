@@ -19,7 +19,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2023/09/L1350134-1024x576.jp
 description: "Los Mambo Jambo Arkestra: Intimitats d'un concert al Mercat de Música Viva de Vic."
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2023/09/L1350134-1024x576.jpg)](https://photos.app.goo.gl/kKpSGhcuPN9QAm2Y6)
+[![Músics toquen instruments de vent en una plaça de Barcelona, amb partitures en primer pla i vianants al fons.](https://blog.pocallum.cat/wp-content/uploads/2023/09/L1350134-1024x576.jpg)](https://photos.app.goo.gl/kKpSGhcuPN9QAm2Y6)
 
 Els Mambo Jambo, amb l'enmascarada Arkestra, de nou als escenaris per a presentar el seu darrer disc "El Gran Ciclón". 
 

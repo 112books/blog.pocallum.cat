@@ -17,6 +17,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/10/Caffenol-30-Bela
 image: https://lh5.googleusercontent.com/-uhvJLxaq-Bg/Um12Xb0SVfI/AAAAAAAD8Pw/fgVuYxK6TYo/s640/Caffenol%2520%252330%2520-%2520Belair%2520X%25206-12%2520-%2520Earl%2520Grey%2520100%2520-%2520005.jpg
 ---
 
-|  [![](https://lh5.googleusercontent.com/-uhvJLxaq-Bg/Um12Xb0SVfI/AAAAAAAD8Pw/fgVuYxK6TYo/s640/Caffenol%2520%252330%2520-%2520Belair%2520X%25206-12%2520-%2520Earl%2520Grey%2520100%2520-%2520005.jpg)](https://photos.app.goo.gl/JGxcaTjRQom2z6bo7)  |
+|  [![Cactus en primer pla amb torres d'alta tensió i la ciutat de Barcelona i el mar al fons.](https://lh5.googleusercontent.com/-uhvJLxaq-Bg/Um12Xb0SVfI/AAAAAAAD8Pw/fgVuYxK6TYo/s640/Caffenol%2520%252330%2520-%2520Belair%2520X%25206-12%2520-%2520Earl%2520Grey%2520100%2520-%2520005.jpg)](https://photos.app.goo.gl/JGxcaTjRQom2z6bo7)  |
 | --- |
 | De [Caffenol #30 - Belair X 6-12 - Earl Grey 100](https://photos.app.goo.gl/JGxcaTjRQom2z6bo7) |

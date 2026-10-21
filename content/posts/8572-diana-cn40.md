@@ -14,6 +14,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/05/8572-Diana-CN400
 image: https://lh4.googleusercontent.com/-XbAKDDuDbhg/UaAHWuOdBfI/AAAAAAADtt8/r5m1v3u_ly4/s640/8572%2520-%2520Diana%2520-%2520CN400%2520-%2520002.jpg
 ---
 
-|  [![](https://lh4.googleusercontent.com/-XbAKDDuDbhg/UaAHWuOdBfI/AAAAAAADtt8/r5m1v3u_ly4/s640/8572%2520-%2520Diana%2520-%2520CN400%2520-%2520002.jpg)](https://photos.app.goo.gl/n5mbN4WsoYPM3nJM8)  |
+|  [![Dos músics actuen en directe en un bar petit; un canta al micròfon i l'altre toca una guitarra elèctrica vermella.](https://lh4.googleusercontent.com/-XbAKDDuDbhg/UaAHWuOdBfI/AAAAAAADtt8/r5m1v3u_ly4/s640/8572%2520-%2520Diana%2520-%2520CN400%2520-%2520002.jpg)](https://photos.app.goo.gl/n5mbN4WsoYPM3nJM8)  |
 | --- |
 | De [8572 - Diana - CN400](https://photos.app.goo.gl/n5mbN4WsoYPM3nJM8) |

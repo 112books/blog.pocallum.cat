@@ -27,7 +27,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2025/05/2025-05-08-Hasselbla
 description: "Sessió fotogràfica amb la Mabe i el vestit xinès utilitzant Hasselblad 500 C/M, Zeiss 100 mm i pel·lícula Ilford PanF+ 50. Mira totes les imatges fent clic a la foto principal."
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/05/2025-05-08-Hasselblad-500CM-IlfordPanF50-MABE-0006-1019x1024.jpg)](https://photos.app.goo.gl/KjCfJemzHUthT4BSA)
+[![Dona jove en blanc i negre que es toca els cabells recollits amb un braç aixecat, mirant a càmera.](https://blog.pocallum.cat/wp-content/uploads/2025/05/2025-05-08-Hasselblad-500CM-IlfordPanF50-MABE-0006-1019x1024.jpg)](https://photos.app.goo.gl/KjCfJemzHUthT4BSA)
 
 La passada sessió amb la [Mabe](https://www.instagram.com/mabe.briones/) va ser especialment productiva i inspiradora. Aquesta vegada, a més, va lluir el vestit xinès que l’amiga [Katie](https://www.instagram.com/bodypaint_barcelona/) em va regalar i que tothom troba tan bonic. El vestit, llarg, sense mànigues i amb detalls en vermell i negre, va aportar un toc d’elegància i personalitat a les fotografies.
 

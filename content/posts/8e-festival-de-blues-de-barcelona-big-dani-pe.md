@@ -10,7 +10,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_6093-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_6093.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_6093.jpg)](https://photos.app.goo.gl/3CJGCSPjLe3JuXsX7)
+[![Un músic amb camisa blanca toca el saxofon apuntant cap amunt en un escenari fosc durant un concert.](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_6093.jpg)](https://photos.app.goo.gl/3CJGCSPjLe3JuXsX7)
 
 Per concloure el 8è Festival de Blues de Barcelona Big Dani Pérez R&B Band present el seu primer treball en CD: Honkin' Fever. El concert va ser al Luz de Gas i vàrem veure-hi sorpreses ben sonades com a convidats. Un gran directe!
 

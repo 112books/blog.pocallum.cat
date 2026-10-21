@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2015/02/IMG_1856.jpg
 image: https://lh5.googleusercontent.com/-lKc_4ceg09E/VOmTzB07OCI/AAAAAAAEmtg/Dq6UAbe4UGw/s640/IMG_1856.jpg
 ---
 
-|  [![](https://lh5.googleusercontent.com/-lKc_4ceg09E/VOmTzB07OCI/AAAAAAAEmtg/Dq6UAbe4UGw/s640/IMG_1856.jpg)](https://photos.app.goo.gl/yssNRYzFNFF7VzLQA)  |
+|  [![Banda de música tocant en directe en un escenari fosc amb un cantant al mig, guitarristes i saxofonistes.](https://lh5.googleusercontent.com/-lKc_4ceg09E/VOmTzB07OCI/AAAAAAAEmtg/Dq6UAbe4UGw/s640/IMG_1856.jpg)](https://photos.app.goo.gl/yssNRYzFNFF7VzLQA)  |
 | --- |
 | De [Les Nits de Capibola Blues amb Mancuso](https://photos.app.goo.gl/yssNRYzFNFF7VzLQA) |

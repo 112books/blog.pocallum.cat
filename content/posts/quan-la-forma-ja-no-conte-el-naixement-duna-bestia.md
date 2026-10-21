@@ -33,7 +33,7 @@ description: "Reflexió sobre “El naixement d’una bèstia”, un fotollibre 
 title-seo: "El naixement d’una bèstia — fotollibre i projecte visual"
 ---
 
-![](https://blog.pocallum.cat/wp-content/uploads/2026/03/El-naixement-duna-bestia-03-1024x719.png)
+![Una dona amb una gran perruca fosca i vestit estampat fa una pose teatral amb les mans obertes en un fons blanc.](https://blog.pocallum.cat/wp-content/uploads/2026/03/El-naixement-duna-bestia-03-1024x719.png)
 
 Hi ha moments en què una forma deixa de ser suficient.
 

@@ -10,6 +10,6 @@ tags: []
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_0126-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_0126.jpg
 ---
-[![](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_0126.jpg)](https://photos.app.goo.gl/CMLiy7BehTSpFKrj7)
+[![Home amb barret i auriculars canta al micròfon i manipula la taula de mescles en un escenari fosc.](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_0126.jpg)](https://photos.app.goo.gl/CMLiy7BehTSpFKrj7)
 
 [Totes les fotografies](https://photos.app.goo.gl/CMLiy7BehTSpFKrj7)

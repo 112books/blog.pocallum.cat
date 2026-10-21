@@ -12,4 +12,4 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/03/IMG_8677-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2012/03/IMG_8677.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2012/03/IMG_8677.jpg)](https://photos.app.goo.gl/8k3jSPkxktWgDxDm8)
+[![Mans amb guants de làtex negre manipulen amb precisió una petita lent amb una eina fina en un taller.](https://blog.pocallum.cat/wp-content/uploads/2012/03/IMG_8677.jpg)](https://photos.app.goo.gl/8k3jSPkxktWgDxDm8)

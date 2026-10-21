@@ -18,7 +18,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2011/11/IMG_1258.jpg
 image: https://lh6.googleusercontent.com/-0iLINXqGoxg/Tsmf8O0EIcI/AAAAAAACdPs/PrY5ODuyDQM/s800/IMG_1258.jpg
 ---
 
-|  [![](https://lh6.googleusercontent.com/-0iLINXqGoxg/Tsmf8O0EIcI/AAAAAAACdPs/PrY5ODuyDQM/s800/IMG_1258.jpg)](https://photos.app.goo.gl/yLc7zBF8mEg5ntMz7)  |
+|  [![Un cantant i una banda de jazz amb contrabaix, guitarra, piano, bateria i vents actuen en un escenari fosc.](https://lh6.googleusercontent.com/-0iLINXqGoxg/Tsmf8O0EIcI/AAAAAAACdPs/PrY5ODuyDQM/s800/IMG_1258.jpg)](https://photos.app.goo.gl/yLc7zBF8mEg5ntMz7)  |
 | --- |
 | De [Nit de Blues & Bogie al Festival Internacional de Jazz de Barcelona](https://photos.app.goo.gl/yLc7zBF8mEg5ntMz7) |
 

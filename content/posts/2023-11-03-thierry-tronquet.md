@@ -13,7 +13,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2023/11/2023-11-03-Tierr
 image: https://blog.pocallum.cat/wp-content/uploads/2023/11/2023-11-03-Tierry-Torniquet-Hasselblad-500-CM-PanF-005.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2023/11/2023-11-03-Tierry-Torniquet-Hasselblad-500-CM-PanF-005.jpg)](https://photos.app.goo.gl/sxZ9FNsR1h4hcAidA)
+[![Retrat en blanc i negre d'un home gran amb ulleres, barret i cabells llargs, mirant cap amunt.](https://blog.pocallum.cat/wp-content/uploads/2023/11/2023-11-03-Tierry-Torniquet-Hasselblad-500-CM-PanF-005.jpg)](https://photos.app.goo.gl/sxZ9FNsR1h4hcAidA)
 
 Aprofitant una visita del compiyogui [Thierry](https://www.instagram.com/mezzigue/) a l'estudi vàrem aprofitar per, a més de posar-nos un xic al dia, immortalitzar aquesta ànima rodamons que embolcalla amb aquest _pelazo_.
 

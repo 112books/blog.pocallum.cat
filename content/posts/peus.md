@@ -12,7 +12,7 @@ image: https://lh3.googleusercontent.com/pw/ACtC-3ejKPHvZNOewMwIjZw1xgjfVhaxUshe
 
 <figure>
 
-[![](https://lh3.googleusercontent.com/pw/ACtC-3ejKPHvZNOewMwIjZw1xgjfVhaxUshewdnJ264B5_Zx0U72X7JwfGvHifVqREuJtDQd436hD9cjCMx48PNjly_3wcvN4bpzXhq5wxRykv8Z0DChQt15g7Sm7p-4j0ylvNFM99uX96a_gAcfFYnbcY-OCQ=s1285-no?authuser=0)](https://photos.app.goo.gl/gMH549S3Djv2ica26)
+[![Unes mans amb màniga llarga subjecten i massatgen un peu sobre una superfície blanca en un entorn interior.](https://lh3.googleusercontent.com/pw/ACtC-3ejKPHvZNOewMwIjZw1xgjfVhaxUshewdnJ264B5_Zx0U72X7JwfGvHifVqREuJtDQd436hD9cjCMx48PNjly_3wcvN4bpzXhq5wxRykv8Z0DChQt15g7Sm7p-4j0ylvNFM99uX96a_gAcfFYnbcY-OCQ=s1285-no?authuser=0)](https://photos.app.goo.gl/gMH549S3Djv2ica26)
 
 <figcaption>
 

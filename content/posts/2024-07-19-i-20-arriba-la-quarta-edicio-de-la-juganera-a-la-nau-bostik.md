@@ -12,7 +12,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/07/DSF4367.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2024/07/DSF4367-682x1024.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/07/DSF4367-682x1024.jpg)](https://photos.app.goo.gl/BnxknRP6e4BKKHNU6)
+[![Dues dones ballant i rient amb actitud festiva sota una carpa groga en un esdeveniment nocturn.](https://blog.pocallum.cat/wp-content/uploads/2024/07/DSF4367-682x1024.jpg)](https://photos.app.goo.gl/BnxknRP6e4BKKHNU6)
 
 ### I ja son quatre les edicions celebrades a la Nau Bostik de "La Juganera". Aquest gran esdeveniment es tracta d’un festival comunitari organitzat per totes les entitats de la [Nau Bostik](https://naubostik.com/) i cada any intentem fer-la més grossa per perpetuar aquesta bonica tradició de treball entre totes. Enguany amb bona calor i dues vetllades ben animades.
 

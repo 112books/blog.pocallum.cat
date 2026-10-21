@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/03/IMG_8607.jpg
 image: https://lh5.googleusercontent.com/-4X4QaU9zBjw/UQzSjAcEW0I/AAAAAAADhGc/s0BVCVsGtfg/s640/IMG_8607.jpg
 ---
 
-|  [![](https://lh5.googleusercontent.com/-4X4QaU9zBjw/UQzSjAcEW0I/AAAAAAADhGc/s0BVCVsGtfg/s640/IMG_8607.jpg)](https://photos.app.goo.gl/BLuT2qB2xmWafrrR7)  |
+|  [![Una cantant assenyala amb el dit mentre canta amb un micròfon antic en un escenari amb cortines fosques.](https://lh5.googleusercontent.com/-4X4QaU9zBjw/UQzSjAcEW0I/AAAAAAADhGc/s0BVCVsGtfg/s640/IMG_8607.jpg)](https://photos.app.goo.gl/BLuT2qB2xmWafrrR7)  |
 | --- |
 | De [9BinBlack - Casal de Barri - Covers Shop + Aerolíneas Subterráneas](https://photos.app.goo.gl/BLuT2qB2xmWafrrR7) |

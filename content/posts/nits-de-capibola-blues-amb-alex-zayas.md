@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2014/04/IMG_6528.jpg
 image: https://lh3.googleusercontent.com/-0q7FG1_4atE/U0CV9lfEaII/AAAAAAAEFbo/ztPekty_zdk/s640/IMG_6528.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-0q7FG1_4atE/U0CV9lfEaII/AAAAAAAEFbo/ztPekty_zdk/s640/IMG_6528.jpg)](https://photos.app.goo.gl/j1kDfmTBXUGeisS3A)  |
+|  [![Un bateria i un guitarrista toquen en directe en un escenari fosc il·luminat per focus de concert.](https://lh3.googleusercontent.com/-0q7FG1_4atE/U0CV9lfEaII/AAAAAAAEFbo/ztPekty_zdk/s640/IMG_6528.jpg)](https://photos.app.goo.gl/j1kDfmTBXUGeisS3A)  |
 | --- |
 | De [Nits de Capibola Blues amb Alex Zayas](https://photos.app.goo.gl/j1kDfmTBXUGeisS3A) |

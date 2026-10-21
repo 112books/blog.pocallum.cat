@@ -11,7 +11,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/06/L1450463.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2024/06/L1450463-1024x683.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/06/L1450463-1024x683.jpg)](https://photos.app.goo.gl/4xJM1qxoeQHwQrkh9)
+[![Tres persones d'esquena llegeixen atentament un gran plafó informatiu en una sala d'exposicions.](https://blog.pocallum.cat/wp-content/uploads/2024/06/L1450463-1024x683.jpg)](https://photos.app.goo.gl/4xJM1qxoeQHwQrkh9)
 
 [Miquel Barceló](https://es.wikipedia.org/wiki/Miquel_Barceló). Artista, sobretot pintor, però també esmerat en altres disciplines artístiques, ha estat exposant la seva obra ceràmica a [la Pedrera](https://www.lapedrera.com/ca/agenda-activitats-barcelona/exposicio/miquel-barcelo-ceramiques?_gl=1*1m7rq4e*_up*MQ..&gclid=EAIaIQobChMI6dPC8Ij3hQMVZRoGAB1OcwpiEAAYASAAEgJjO_D_BwE) (també coneguda com a Casa Milà) durant un llarg temps. Jo he trigat, però avui finalment he pogut anar a gaudir-ne. A mi m'ha agradat la majoria d'obra, principalment la més primerenca i primitiva realitzada en terres africanes i, també, quan hi incorpora els seus colors cridaners, a l'hora que càlids, a la senzillesa de les peces. No sé si per venir d'una nissaga de ceramistes, però m'ha commogut força. Tant, que no he pogut reprimir-me d'adquirir-ne el catàleg per gaudir-ne tot sovint a la petita biblioteca que vaig fent.
 

@@ -15,6 +15,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/04/3993-belairX6x12
 image: https://lh5.googleusercontent.com/-mcVJjaBzQmo/UV77bE9uTAI/AAAAAAADoMc/TWA7OYovNKc/s640/3993%2520-%2520belairX6x12%2520-%2520007.jpg
 ---
 
-|  [![](https://lh5.googleusercontent.com/-mcVJjaBzQmo/UV77bE9uTAI/AAAAAAADoMc/TWA7OYovNKc/s640/3993%2520-%2520belairX6x12%2520-%2520007.jpg)](https://photos.app.goo.gl/uwbsHn5TeeuKz8hS7)  |
+|  [![Núvols densos tapen parcialment el sol, creant una llum difusa i un fort contrast sobre el cel fosc de Barcelona.](https://lh5.googleusercontent.com/-mcVJjaBzQmo/UV77bE9uTAI/AAAAAAADoMc/TWA7OYovNKc/s640/3993%2520-%2520belairX6x12%2520-%2520007.jpg)](https://photos.app.goo.gl/uwbsHn5TeeuKz8hS7)  |
 | --- |
 | De [3993 - belairX6x12 - RS100 - El Pago](https://photos.app.goo.gl/uwbsHn5TeeuKz8hS7) |

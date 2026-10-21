@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2015/06/02371JoanLomogra
 image: https://lh3.googleusercontent.com/-HUhOzpkWxzo/VYhpXNMkhuI/AAAAAAAEwWA/YofRHb6VYdA/s640/02371JoanLomography%252520%25252811%252529.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-HUhOzpkWxzo/VYhpXNMkhuI/AAAAAAAEwWA/YofRHb6VYdA/s640/02371JoanLomography%252520%25252811%252529.jpg)](https://photos.app.goo.gl/PSSyBiieAdfCCSJo7)  |
+|  [![Una parella gran passeja de la mà pel passeig de la platja de Barcelona, amb un edifici alt al fons.](https://lh3.googleusercontent.com/-HUhOzpkWxzo/VYhpXNMkhuI/AAAAAAAEwWA/YofRHb6VYdA/s640/02371JoanLomography%252520%25252811%252529.jpg)](https://photos.app.goo.gl/PSSyBiieAdfCCSJo7)  |
 | --- |
 | De [LomoTaller "No tengo ni idea en bici"](https://photos.app.goo.gl/PSSyBiieAdfCCSJo7) |

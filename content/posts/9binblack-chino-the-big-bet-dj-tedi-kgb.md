@@ -15,6 +15,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2011/02/IMG_0695.jpg
 image: https://lh4.googleusercontent.com/_xYdsA1KqJRQ/TU9V8K84rfI/AAAAAAACC0k/lDxdFx-ku0U/s640/IMG_0695.jpg
 ---
 
-|  [![](https://lh4.googleusercontent.com/_xYdsA1KqJRQ/TU9V8K84rfI/AAAAAAACC0k/lDxdFx-ku0U/s640/IMG_0695.jpg)](https://photos.app.goo.gl/edNnYmdUXTWqB6c2A)  |
+|  [![Dues cantants i diversos músics toquen en directe en un escenari fosc il·luminat per focus.](https://lh4.googleusercontent.com/_xYdsA1KqJRQ/TU9V8K84rfI/AAAAAAACC0k/lDxdFx-ku0U/s640/IMG_0695.jpg)](https://photos.app.goo.gl/edNnYmdUXTWqB6c2A)  |
 | --- |
 | De [9binblack - Chino & The Big Bet](https://photos.app.goo.gl/edNnYmdUXTWqB6c2A) |

@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_9105wtmk-1.j
 image: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_9105wtmk.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_9105wtmk.jpg)](https://photos.app.goo.gl/Z3zaDNcmw5LvTJkR8)
+[![Un cantant amb guitarra i la seva banda actuen en directe en un escenari amb llums grogues i monitors.](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_9105wtmk.jpg)](https://photos.app.goo.gl/Z3zaDNcmw5LvTJkR8)
 
 Concert a la seu del districte de Nou barris, Barcelona (30-05-2007) [Totes les fotos](https://photos.app.goo.gl/Z3zaDNcmw5LvTJkR8)

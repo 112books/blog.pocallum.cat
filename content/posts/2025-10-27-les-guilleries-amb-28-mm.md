@@ -24,7 +24,7 @@ description: "Escapada fotogràfica de tardor per Les Guilleries amb Manel Sala 
 title-seo: "Les Guilleries – Escapada de tardor amb càmera analògica"
 ---
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/11/2025-10-27-LM6-28mm-RPX100@200-Tavertet-0032-1024x641.jpg)
+![Paisatge de muntanya en blanc i negre amb grans cingles rocosos, envoltats de vegetació i arbres en primer pla.](https://blog.pocallum.cat/wp-content/uploads/2025/11/2025-10-27-LM6-28mm-RPX100@200-Tavertet-0032-1024x641.jpg)
 
   
 Sí, la passada setmana vaig gaudir d’una escapada fotogràfica de tardor amb l’amic **[Manel Sala "Ulls"](https://www.instagram.com/kometaloco/).** Ja en [vaig escriure llargament](https://blog.pocallum.cat/2025/10/28/2025-10-27-boix-is-dead-una-escapada-fotografica-a-les-guilleries/) sobre les aventures viscudes i el recorregut que, més o menys, vam fer.
@@ -35,7 +35,7 @@ El primer va ser un **Fomapan 100**, que vaig forçar un pas, ja que revelant-lo
 
 Els escollits varen ser un **Fomapan 100** que vaig forçar un pas ja que, revelant-ne els resultats en Rodinal 1+50, obtinc un resultat que, a mi, m'encanta.
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/11/2025-10-27-LM6-28mm-Foma100@200-Tavertet-0007-1024x637.jpg)](https://photos.app.goo.gl/CDLHpVfGg1vjss376)
+[![Vaca amb banyes llargues pasturant en un camp obert amb altres vaques i arbres al fons, en blanc i negre.](https://blog.pocallum.cat/wp-content/uploads/2025/11/2025-10-27-LM6-28mm-Foma100@200-Tavertet-0007-1024x637.jpg)](https://photos.app.goo.gl/CDLHpVfGg1vjss376)
 
 En podeu veure els resultats fent clic sobre la fotografia
 
@@ -43,7 +43,7 @@ En podeu veure els resultats fent clic sobre la fotografia
 
 Després vaig canviar a un **Rollei RPX 100**, que també vaig disparar i revelar exactament igual.
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/11/2025-10-27-LM6-28mm-RPX100@200-Tavertet-0009-1024x665.jpg)](https://photos.app.goo.gl/XqHFY84NTdzxZY1S7)
+[![Un penya-segat rocós amb arbres al cim domina una vall fonda i muntanyes difuses al fons.](https://blog.pocallum.cat/wp-content/uploads/2025/11/2025-10-27-LM6-28mm-RPX100@200-Tavertet-0009-1024x665.jpg)](https://photos.app.goo.gl/XqHFY84NTdzxZY1S7)
 
 En podeu veure els resultats fent clic sobre la fotografia
 

@@ -12,7 +12,7 @@ image: https://lh3.googleusercontent.com/pw/AM-JKLVBU-4Iy1DLp9NDk0UMytY56-AfiwUV
 
 <figure>
 
-[![](https://lh3.googleusercontent.com/pw/AM-JKLVBU-4Iy1DLp9NDk0UMytY56-AfiwUVMNtU6hkn4rbG6AZ_H8IEvzwy0LXlxk7xRj3Lkd2Dh_x2clc9tSgQXodHGpz98rBzBlgCCDrhzo_JMqZWuoNtLoR3syuNP97ACO8IF8q7uOEILPczGHnZtiVVIw=w1643-h1095-no?authuser=0)](https://photos.app.goo.gl/sZmfiTyt9QoGAZk67)
+[![No hi ha text a copiar.](https://lh3.googleusercontent.com/pw/AM-JKLVBU-4Iy1DLp9NDk0UMytY56-AfiwUVMNtU6hkn4rbG6AZ_H8IEvzwy0LXlxk7xRj3Lkd2Dh_x2clc9tSgQXodHGpz98rBzBlgCCDrhzo_JMqZWuoNtLoR3syuNP97ACO8IF8q7uOEILPczGHnZtiVVIw=w1643-h1095-no?authuser=0)](https://photos.app.goo.gl/sZmfiTyt9QoGAZk67)
 
 <figcaption>
 

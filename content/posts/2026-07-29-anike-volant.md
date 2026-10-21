@@ -38,26 +38,26 @@ Sigui com sigui, aquí teniu una petita seqüència d’aquests moments de risc 
 
 I, sobretot, una Nikon FM, una mica de pel·lícula i dues persones fent el que més els agrada: jugar amb la fotografia.
 
-![](https://blog.pocallum.cat/wp-content/uploads/2026/08/2026-29-NikonFM-Foma200-Anike-Test-nikon-0013-1024x630.jpg)
+![Una dona somrient amb top negre i texans s'agafa a unes nanses penjades del sostre d'una sala blanca.](https://blog.pocallum.cat/wp-content/uploads/2026/08/2026-29-NikonFM-Foma200-Anike-Test-nikon-0013-1024x630.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2026/08/2026-29-NikonFM-Foma200-Anike-Test-nikon-0014-1024x600.jpg)
+![Una persona d'esquena amb cabells llargs baixa unes escales blanques amb quadres, captada en moviment.](https://blog.pocallum.cat/wp-content/uploads/2026/08/2026-29-NikonFM-Foma200-Anike-Test-nikon-0014-1024x600.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2026/08/2026-29-NikonFM-Foma200-Anike-Test-nikon-0015-1024x599.jpg)
+![Dona jove tatuada en suspensió en un passadís interior, lligada amb una corda que penja.](https://blog.pocallum.cat/wp-content/uploads/2026/08/2026-29-NikonFM-Foma200-Anike-Test-nikon-0015-1024x599.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2026/08/2026-29-NikonFM-Foma200-Anike-Test-nikon-0016-1024x599.jpg)
+![Dona rient mira cap avall a la càmera des d'un angle picat en un passadís amb bigues.](https://blog.pocallum.cat/wp-content/uploads/2026/08/2026-29-NikonFM-Foma200-Anike-Test-nikon-0016-1024x599.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2026/08/2026-29-NikonFM-Foma200-Anike-Test-nikon-0017-1024x599.jpg)
+![Una dona amb cabell fosc inclinada cap endavant en un espai interior clar, fotografiada des d'un angle girat.](https://blog.pocallum.cat/wp-content/uploads/2026/08/2026-29-NikonFM-Foma200-Anike-Test-nikon-0017-1024x599.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2026/08/2026-29-NikonFM-Foma200-Anike-Test-nikon-0018-1024x599.jpg)
+![Dona en moviment dinàmic inclinant-se cap endavant en un espai interior clar, capturada amb desenfocament.](https://blog.pocallum.cat/wp-content/uploads/2026/08/2026-29-NikonFM-Foma200-Anike-Test-nikon-0018-1024x599.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2026/08/2026-29-NikonFM-Foma200-Anike-Test-nikon-0019-1024x607.jpg)
+![Dona jove amb texans curts i un tatuatge al braç subjecta una càmera en un passadís interior blanc amb una perspectiva molt inclinada.](https://blog.pocallum.cat/wp-content/uploads/2026/08/2026-29-NikonFM-Foma200-Anike-Test-nikon-0019-1024x607.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2026/08/2026-29-NikonFM-Foma200-Anike-Test-nikon-0020-1024x610.jpg)
+![Dona jove amb top negre i texans, inclinada cap endavant en un passadís interior amb quadres penjats a la paret.](https://blog.pocallum.cat/wp-content/uploads/2026/08/2026-29-NikonFM-Foma200-Anike-Test-nikon-0020-1024x610.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2026/08/2026-29-NikonFM-Foma200-Anike-Test-nikon-0021-1024x612.jpg)
+![Una dona amb barret de llana s'inclina per ajustar un objecte a la paret blanca d'una galeria.](https://blog.pocallum.cat/wp-content/uploads/2026/08/2026-29-NikonFM-Foma200-Anike-Test-nikon-0021-1024x612.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2026/08/2026-29-NikonFM-Foma200-Anike-Test-nikon-0022-1024x610.jpg)
+![Una silueta desenfocada d'una mà fent el signe de la pau en contrallum davant d'una finestra amb persianes.](https://blog.pocallum.cat/wp-content/uploads/2026/08/2026-29-NikonFM-Foma200-Anike-Test-nikon-0022-1024x610.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2026/08/2026-29-NikonFM-Foma200-Anike-Test-nikon-0023-1-1024x610.jpg)
+![Una mà agafa un manyoc de cabells foscos en primer pla davant d'una cortina clara.](https://blog.pocallum.cat/wp-content/uploads/2026/08/2026-29-NikonFM-Foma200-Anike-Test-nikon-0023-1-1024x610.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2026/08/2026-29-NikonFM-Foma200-Anike-Test-nikon-0024-1024x610.jpg)
+![Primer pla d'una persona amb una cinta fosca als ulls que inclina el cap en una sala blanca i diàfana.](https://blog.pocallum.cat/wp-content/uploads/2026/08/2026-29-NikonFM-Foma200-Anike-Test-nikon-0024-1024x610.jpg)

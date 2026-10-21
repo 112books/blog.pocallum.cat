@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2014/06/145605JoanLomogr
 image: https://lh6.googleusercontent.com/-HPabW8RpLa8/U5wLRlhXucI/AAAAAAAEMGw/DUclQSulhM0/s640/145605JoanLomography.jpg
 ---
 
-|  [![](https://lh6.googleusercontent.com/-HPabW8RpLa8/U5wLRlhXucI/AAAAAAAEMGw/DUclQSulhM0/s640/145605JoanLomography.jpg)](https://photos.app.goo.gl/Nn5feoX2aihuTmxEA)  |
+|  [![Detall en contrapicat d'una escultura de bronze amb el puny alçat i el cap cot contra un cel blau clar.](https://lh6.googleusercontent.com/-HPabW8RpLa8/U5wLRlhXucI/AAAAAAAEMGw/DUclQSulhM0/s640/145605JoanLomography.jpg)](https://photos.app.goo.gl/Nn5feoX2aihuTmxEA)  |
 | --- |
 | De [Workshop "Prospera con Diana F+"](https://photos.app.goo.gl/Nn5feoX2aihuTmxEA) |

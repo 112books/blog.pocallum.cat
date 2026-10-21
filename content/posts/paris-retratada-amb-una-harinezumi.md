@@ -15,7 +15,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2011/06/Paris-retratada-
 image: https://blog.pocallum.cat/wp-content/uploads/2011/06/Paris-retratada-amb-una-Harinezumi.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2011/06/Paris-retratada-amb-una-Harinezumi.jpg)](https://photos.app.goo.gl/AidyVcFjryBPQ2scA)
+[![La Torre Eiffel s'alça sobre la silueta fosca d'edificis sota un cel clar a París.](https://blog.pocallum.cat/wp-content/uploads/2011/06/Paris-retratada-amb-una-Harinezumi.jpg)](https://photos.app.goo.gl/AidyVcFjryBPQ2scA)
 
 Aquest darrer pont de Sant Joan (o solstici d'estiu, que m'agrada més) he estat a París. Per sort de viatge de plaer. A l'hora de viatjar cada cop fa més mandra portar un equip voluminós i pesat. És per aquest motiu que vaig agafar la **Harinezumi**, vaig pensar que era una bona eina per fer "robats" sense cantar massa. A més els resultats d'aquesta sempre m'han fascinat.
 

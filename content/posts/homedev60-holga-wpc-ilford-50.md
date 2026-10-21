@@ -11,6 +11,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2015/12/HD60-HolgaWPC-00
 image: https://lh3.googleusercontent.com/-MSoXBsNLVk0/Vn81GLGs8JI/AAAAAAAE920/ZMbgc3l7AZU/s640-Ic42/HD%25252360%252520-%252520HolgaWPC%252520-%252520003.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-MSoXBsNLVk0/Vn81GLGs8JI/AAAAAAAE920/ZMbgc3l7AZU/s640-Ic42/HD%25252360%252520-%252520HolgaWPC%252520-%252520003.jpg)](https://photos.app.goo.gl/ML96FEjyhoYrxs1D7)  |
+|  [![Branques nues i retorçades d'un arbre s'estenen pel cel clar sobre el perfil fosc d'un turó.](https://lh3.googleusercontent.com/-MSoXBsNLVk0/Vn81GLGs8JI/AAAAAAAE920/ZMbgc3l7AZU/s640-Ic42/HD%25252360%252520-%252520HolgaWPC%252520-%252520003.jpg)](https://photos.app.goo.gl/ML96FEjyhoYrxs1D7)  |
 | --- |
 | De [HomeDev#60 - Holga WPC - Ilford 50](https://photos.app.goo.gl/ML96FEjyhoYrxs1D7) |

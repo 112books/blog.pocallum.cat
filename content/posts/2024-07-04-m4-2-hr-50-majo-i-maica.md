@@ -12,11 +12,11 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/07/2024-07-04-M4-2-
 image: https://blog.pocallum.cat/wp-content/uploads/2024/07/2024-07-04-M4-2-HR-50-Majo-0029-1024x691.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/07/2024-07-04-M4-2-HR-50-Majo-0029-1024x691.jpg)](https://photos.app.goo.gl/ybTB5RkaE6AZ4xCj8)
+[![Dona jove estirada amb els cabells escampats i camisa de botons mira cap amunt en un fons llis.](https://blog.pocallum.cat/wp-content/uploads/2024/07/2024-07-04-M4-2-HR-50-Majo-0029-1024x691.jpg)](https://photos.app.goo.gl/ybTB5RkaE6AZ4xCj8)
 
 Model: [Majo](https://www.instagram.com/majo.pip/)
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/07/2024-07-04-M4-2-HR-50-Maica-26-1024x688.jpg)](https://photos.app.goo.gl/P17p81WS5qTGK8UYA)
+[![Dona jove d'esquena que gira el cap per mirar la càmera en un retrat d'estudi.](https://blog.pocallum.cat/wp-content/uploads/2024/07/2024-07-04-M4-2-HR-50-Maica-26-1024x688.jpg)](https://photos.app.goo.gl/P17p81WS5qTGK8UYA)
 
 Model: [Maica](https://www.instagram.com/maica_lauren/)
 

@@ -21,7 +21,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2025/04/2025-04-04-Sproket-K
 description: "Explora la fotografia analògica amb la Sprocket Rocket, una càmera-joguina panoràmica ideal per experimentar amb pel·lícules caducades, exposicions llargues i revelat casolà."
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/04/2025-04-04-Sproket-KodakXplus125-Varies-0000-1024x443.jpg)](https://photos.app.goo.gl/X2poY1uiXExswEg19)
+[![Un home amb barba apareix superposat a la façana gòtica d'una església de Barcelona en un fotograma de pel·lícula.](https://blog.pocallum.cat/wp-content/uploads/2025/04/2025-04-04-Sproket-KodakXplus125-Varies-0000-1024x443.jpg)](https://photos.app.goo.gl/X2poY1uiXExswEg19)
 
 La [Sprocket Rocket](https://microsites.lomography.com/sprocketrocket/es/) és una de les meves càmeres-joguina preferides. Aquesta càmera panoràmica permet capturar imatges de dos fotogrames d’ample i exposar els foradets del rodet (_sprockets_), cosa que li dona un toc únic i creatiu. És senzilla, amb dues velocitats d’obturació (1/100 i bulb) i dos diafragmes (f/10 i f/16), a més de la possibilitat d’avançar o retrocedir la pel·lícula de manera manual. Tot plegat fa que sigui una càmera molt divertida i també assequible, és totalment de plàstic!
 

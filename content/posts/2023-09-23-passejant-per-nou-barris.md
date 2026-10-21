@@ -10,7 +10,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2023/09/Captura-de-panta
 image: https://blog.pocallum.cat/wp-content/uploads/2023/09/IMG_1536-768x1024.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2023/09/IMG_1536-768x1024.jpg)](https://photos.app.goo.gl/3QSoVMcSFV1CAojx9)
+[![L'agulla i els arcs de la torre de Montjuïc es retallen en silueta contra el cel ennuvolat de Barcelona.](https://blog.pocallum.cat/wp-content/uploads/2023/09/IMG_1536-768x1024.jpg)](https://photos.app.goo.gl/3QSoVMcSFV1CAojx9)
 
 Tal vegada és una fixació, però a les meves passejades pel districte m'encanta copsar, amb les diferents llums de cada estació, les _peinetes_ del [Parc Central de Nou Barris](https://www.barcelonaturisme.com/wv3/en/page/524/parc-central-de-nou-barris.html).
 

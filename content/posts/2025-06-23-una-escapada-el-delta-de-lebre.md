@@ -23,7 +23,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2025/07/IMG_4027-1024x383.jp
 description: "Crònica d’una escapada al Delta de l’Ebre durant el pont de Sant Joan: paisatges únics, gastronomia local, platges verges, pobles amb encant i la màgia de les festes tradicionals d’estiu."
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/07/IMG_4027-1024x383.jpg)](https://photos.app.goo.gl/4wV7z1KGmi8ULySHA)
+[![L'ombra d'una persona s'allarga sobre una passarel·la de fusta corba enmig d'una zona humida.](https://blog.pocallum.cat/wp-content/uploads/2025/07/IMG_4027-1024x383.jpg)](https://photos.app.goo.gl/4wV7z1KGmi8ULySHA)
 
 El Delta de l’Ebre és un paratge que m’encanta. Potser queda una mica lluny de Barcelona, però això fa que els pixapins —com jo, sí— no massifiquem l’entorn d’una manera insostenible. Els mosquits i les altes temperatures tampoc són el millor reclam per acostar-s’hi al sud de Catalunya.
 

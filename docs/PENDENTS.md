@@ -23,6 +23,15 @@ Anàlisi (2026-10-20): de 2.772 imatges en Markdown, **2.370 tenen l'alt buit** 
      python3 scripts/genera-alts.py --limit 20 --backup
      ```
   3. Si el to agrada: `python3 scripts/genera-alts.py --backup` (passada completa) i commit.
+
+### ✅ COMPLETAT (2026-10-20)
+- **Executat amb DeepSeek** (`deepseek-flash`, endpoint `https://api.deepseek.com`): pilot de 20 validat, després passada completa en lots de 50.
+- **Resultat:** 2.354 alts generats (de 2.362 pendents). 8 imatges restants sense alt (URLs trencades, formats no suportats: .tif, .png d'awpcp.org, Google Photos caducades, zeroimage.com). Són imatges que no es poden llegir; queden com estaven (idempotent, es poden reintentar).
+- **Fitxers modificats:** 2.120 posts (2.353 insercions / 2.353 delecions).
+- **Build Hugo:** OK (exit 0).
+- **Cost:** model de raonament, ~5-6s per imatge, ~5 hores en total. Max tokens 2000 (el model de raonament necessita ~1.500-2.000 tokens per completar el raonament i produir el content).
+- **Fitxer modificat:** `scripts/genera-alts.py` (max_tokens 2000, fallback a `reasoning_content` + títol del post, `reasoning_effort: low`).
+- **Pendent:** les 8 imatges sense alt es poden reparar manualment o rehostar.
 - **Al CMS:** els posts nous ja tenen els camps **«Text alt de la miniatura»** i **«Text alt de la imatge principal»** (si es deixen buits, s'usa el títol); les imatges del cos es fan amb `![descripció](URL)`.
 
 ### 2. Imatges externes trencades (19)

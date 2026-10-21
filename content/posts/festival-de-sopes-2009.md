@@ -10,7 +10,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_7669-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_7669.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_7669.jpg)](https://photos.app.goo.gl/2v2KmsJUTexNr3zM8)
+[![Una dona jove assaboreix un menjar amb una cullera blanca sobre un plat decorat en un entorn informal.](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_7669.jpg)](https://photos.app.goo.gl/2v2KmsJUTexNr3zM8)
 
 6è edició del ja famós Festival de Sopes del Món mundial. Celebrat a Nou Barris (29/03/2009)
 

@@ -15,4 +15,4 @@ title-seo: ''
 description: ''
 ---
 
-[![](https://lh3.googleusercontent.com/-ZHE3xEbHbGm-y8FkCW1bFaDE5Mnrp_90dGjOvfuFZ6MVO4DRCfIUAw0Wdwd9mWbmdNDRLE1qhneiUw=w2560-h1440-no)](https://get.google.com/u/1/albumarchive/103138221614479310970/album/AF1QipNzO43TSUV_LevKOhxogzbRmW6pTiu2nOrePK4G)
+[![Dona jove amb ulleres de sol i cabells curts mira de costat en una plaça urbana amb edificis al fons.](https://lh3.googleusercontent.com/-ZHE3xEbHbGm-y8FkCW1bFaDE5Mnrp_90dGjOvfuFZ6MVO4DRCfIUAw0Wdwd9mWbmdNDRLE1qhneiUw=w2560-h1440-no)](https://get.google.com/u/1/albumarchive/103138221614479310970/album/AF1QipNzO43TSUV_LevKOhxogzbRmW6pTiu2nOrePK4G)

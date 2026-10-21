@@ -12,7 +12,7 @@ image: https://lh3.googleusercontent.com/pw/ACtC-3cr2ALiGeyPhmeAkBuVndhsy9x5iSNn
 
 <figure>
 
-[![](https://lh3.googleusercontent.com/pw/ACtC-3cr2ALiGeyPhmeAkBuVndhsy9x5iSNn87-C0X-M2DNqgurfOzw6RmzF7jmBvy0FO5d-Xp7roUg_ZemKZYBjAr8nDGaspG562b9g3J0sldGJPtUib2AqoWKK_2kzjERKVpsP_9y2GvlpS11_xUpGiXyB4Q=w1009-h1261-no?authuser=0)](https://photos.app.goo.gl/aMr6n2rzWMWipwhx7)
+[![Home gran amb cabells grisos i dessuadora fosca mira cap avall concentrat en un retrat en blanc i negre.](https://lh3.googleusercontent.com/pw/ACtC-3cr2ALiGeyPhmeAkBuVndhsy9x5iSNn87-C0X-M2DNqgurfOzw6RmzF7jmBvy0FO5d-Xp7roUg_ZemKZYBjAr8nDGaspG562b9g3J0sldGJPtUib2AqoWKK_2kzjERKVpsP_9y2GvlpS11_xUpGiXyB4Q=w1009-h1261-no?authuser=0)](https://photos.app.goo.gl/aMr6n2rzWMWipwhx7)
 
 <figcaption>
 

@@ -21,7 +21,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/05/DSF0060.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2024/05/DSF0060-1024x683.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/05/DSF0060-1024x683.jpg)](https://photos.app.goo.gl/dGYzRL9LB8JLJjbq9)
+[![Un grup de persones i infants observen un músic de carrer i un fotògraf davant d'unes grans estructures metàl·liques.](https://blog.pocallum.cat/wp-content/uploads/2024/05/DSF0060-1024x683.jpg)](https://photos.app.goo.gl/dGYzRL9LB8JLJjbq9)
 
 De nou celebrem el millor de la tradició musical de New Orleans a Nou Barris. Des de l'[Ateneu Popular de Nou Barris](https://ateneu9b.net/ca/programacions/nou-barris-meets-new-orleans-2024) amb un munt d'activitats:
 

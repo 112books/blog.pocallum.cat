@@ -15,7 +15,7 @@ description: "Concert de la Sant Andreu Jazz Band celebrant el seu 20è aniversa
 title-seo: "20è aniversari de la Sant Andreu Jazz Band a la Nau Bostik"
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2026/01/IMG_3947-1024x683.jpg)](https://photos.app.goo.gl/veWMrEoaUHrhra697)
+[![Tres joves músics en un escenari fosc; un noi en primer pla i una companya observen un noi dret amb un instrument.](https://blog.pocallum.cat/wp-content/uploads/2026/01/IMG_3947-1024x683.jpg)](https://photos.app.goo.gl/veWMrEoaUHrhra697)
 
   
 Ahir, dijous 15 de gener de l’estrenat 2026, vam tenir doble celebració —i de les bones. D’una banda, el concert que posava punt final als actes del **[10è aniversari de la Nau Bostik](https://naubostik.com/)**; de l’altra, de molt a prop i amb tot el swing possible, la **Sant Andreu Jazz Band** celebrant els seus **20 anys de trajectòria**. Un luxe absolut. D’aquells que es gaudeixen amb un somriure persistent i els peus marcant el tempo sense demanar permís

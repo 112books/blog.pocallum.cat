@@ -13,6 +13,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/06/9569-Konstruktor
 image: https://lh4.googleusercontent.com/-gOlQgQ9D0aY/UcNfX0sl1PI/AAAAAAADw2g/tRp8GdNdFRM/s640/9569%2520-%2520Konstruktor%2520-%2520024.jpg
 ---
 
-|  [![](https://lh4.googleusercontent.com/-gOlQgQ9D0aY/UcNfX0sl1PI/AAAAAAADw2g/tRp8GdNdFRM/s640/9569%2520-%2520Konstruktor%2520-%2520024.jpg)](https://photos.app.goo.gl/tjeufe1yPsvdZXUe9)  |
+|  [![Una serra elèctrica antiga penjada en una paret de fusta rovellada en un taller de Barcelona.](https://lh4.googleusercontent.com/-gOlQgQ9D0aY/UcNfX0sl1PI/AAAAAAADw2g/tRp8GdNdFRM/s640/9569%2520-%2520Konstruktor%2520-%2520024.jpg)](https://photos.app.goo.gl/tjeufe1yPsvdZXUe9)  |
 | --- |
 | De [9569 - Konstruktor - Lomo CN 800](https://photos.app.goo.gl/tjeufe1yPsvdZXUe9) |

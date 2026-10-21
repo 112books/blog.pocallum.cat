@@ -14,6 +14,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/08/Caffenol-24-Koni
 image: https://lh3.googleusercontent.com/-SqCg0ACNPgM/Uht9mV0qYrI/AAAAAAAD3zk/ra9XYDIf74s/s640/Caffenol%2520%252324%2520-Konica%2520%2520-%2520018.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-SqCg0ACNPgM/Uht9mV0qYrI/AAAAAAAD3zk/ra9XYDIf74s/s640/Caffenol%2520%252324%2520-Konica%2520%2520-%2520018.jpg)](https://photos.app.goo.gl/WcrRaf5tbBgxzDyE8)  |
+|  [![Un genet amb jaqueta fosca i pantalons blancs munta un cavall fosc amb una estrella al cap en un carrer.](https://lh3.googleusercontent.com/-SqCg0ACNPgM/Uht9mV0qYrI/AAAAAAAD3zk/ra9XYDIf74s/s640/Caffenol%2520%252324%2520-Konica%2520%2520-%2520018.jpg)](https://photos.app.goo.gl/WcrRaf5tbBgxzDyE8)  |
 | --- |
 | De [Caffenol #24 - Konica Pop - OR WO TC 27 400 ASA - Menorca](https://photos.app.goo.gl/WcrRaf5tbBgxzDyE8) |

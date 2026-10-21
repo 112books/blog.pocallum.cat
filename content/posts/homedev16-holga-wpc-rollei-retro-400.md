@@ -11,6 +11,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2014/08/HomeDev16-HolgsW
 image: https://lh6.googleusercontent.com/-S36XCBq_Nj0/U-e_ki9EkPI/AAAAAAAERKQ/gW534P4DmwE/s800/HomeDev%252316-HolgsWPC%2520-%2520%2520003.jpg
 ---
 
-|  [![](https://lh6.googleusercontent.com/-S36XCBq_Nj0/U-e_ki9EkPI/AAAAAAAERKQ/gW534P4DmwE/s800/HomeDev%252316-HolgsWPC%2520-%2520%2520003.jpg)](https://photos.app.goo.gl/GR68s7ZLG8ux7JzM8)  |
+|  [![Fulles grans i borroses en blanc i negre bellugant-se en un camp obert sota un cel clar.](https://lh6.googleusercontent.com/-S36XCBq_Nj0/U-e_ki9EkPI/AAAAAAAERKQ/gW534P4DmwE/s800/HomeDev%252316-HolgsWPC%2520-%2520%2520003.jpg)](https://photos.app.goo.gl/GR68s7ZLG8ux7JzM8)  |
 | --- |
 | De [HomeDev#16 - Holga WPC - Rollei Retro 400](https://photos.app.goo.gl/GR68s7ZLG8ux7JzM8) |

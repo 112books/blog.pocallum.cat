@@ -17,7 +17,7 @@ image: https://lh3.googleusercontent.com/pw/ACtC-3fxva04gAawAcKWR8g-CXIoir718HPa
 
 <figure>
 
-[![](https://lh3.googleusercontent.com/pw/ACtC-3fxva04gAawAcKWR8g-CXIoir718HPa0vuqz1pLySzy7RGB4eorFjg6_IhbojUnky7kCXUZc2xWcrBm_Xr-81bT_MdM8i0xYhtqU9iU8joioYiqODpf2PZ8r7S68A1H6Tw5B2P43Hlq8QO62rgNeT2tnQ=s1320-no?authuser=0)](https://photos.app.goo.gl/KkaXRp5WcHirN9jr8)
+[![Una escultura metàl·lica en forma de triangle s'alça entre arbres frondosos en un entorn urbà.](https://lh3.googleusercontent.com/pw/ACtC-3fxva04gAawAcKWR8g-CXIoir718HPa0vuqz1pLySzy7RGB4eorFjg6_IhbojUnky7kCXUZc2xWcrBm_Xr-81bT_MdM8i0xYhtqU9iU8joioYiqODpf2PZ8r7S68A1H6Tw5B2P43Hlq8QO62rgNeT2tnQ=s1320-no?authuser=0)](https://photos.app.goo.gl/KkaXRp5WcHirN9jr8)
 
 <figcaption>
 

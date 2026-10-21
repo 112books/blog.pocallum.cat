@@ -11,7 +11,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2023/10/L1360612-Mejorad
 image: https://blog.pocallum.cat/wp-content/uploads/2023/10/L1360612-Mejorado-NR-1024x576.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2023/10/L1360612-Mejorado-NR-1024x576.jpg)](https://photos.app.goo.gl/Q8vgG9WUxQatxjC19)
+[![Home amb barba beu d'un got fosc en un bar, amb una altra persona d'esquena al fons.](https://blog.pocallum.cat/wp-content/uploads/2023/10/L1360612-Mejorado-NR-1024x576.jpg)](https://photos.app.goo.gl/Q8vgG9WUxQatxjC19)
 
 Un any més es celebra a la [Nau Bostik](https://naubostik.com/esdeveniment/mash-beer-fest-2023/) de Barcelona la 5a edició d’un dels **festivals de cervesa artesana** més exclusius de tot Europa.
 

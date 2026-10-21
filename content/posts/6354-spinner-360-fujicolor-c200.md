@@ -12,6 +12,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/12/6354-Spinn-fu200
 image: https://lh4.googleusercontent.com/-p4RXWTR0rHM/UqnnACTC4TI/AAAAAAAD-hk/Yyx6XhVKf8w/s800/6354%2520-%2520Spinn%2520-%2520fu200%2520-%2520%2520011.jpg
 ---
 
-|  [![](https://lh4.googleusercontent.com/-p4RXWTR0rHM/UqnnACTC4TI/AAAAAAAD-hk/Yyx6XhVKf8w/s800/6354%2520-%2520Spinn%2520-%2520fu200%2520-%2520%2520011.jpg)](https://photos.app.goo.gl/YSJeFLFDKEVPcALd8)  |
+|  [![Un home amb barba i una altra persona dreta en una terrassa amb vistes àmplies de Barcelona i les muntanyes al fons.](https://lh4.googleusercontent.com/-p4RXWTR0rHM/UqnnACTC4TI/AAAAAAAD-hk/Yyx6XhVKf8w/s800/6354%2520-%2520Spinn%2520-%2520fu200%2520-%2520%2520011.jpg)](https://photos.app.goo.gl/YSJeFLFDKEVPcALd8)  |
 | --- |
 | De [6354 - Spinner 360 - Fujicolor C200](https://photos.app.goo.gl/YSJeFLFDKEVPcALd8) |

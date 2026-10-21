@@ -34,7 +34,7 @@ description: "Crònica fotogràfica de la presentació del Diari de la Festa Maj
 title-seo: "Diari Festa Major Prosperitat 2026 i La Risa del Pepe"
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2026/05/DSCF4429-1024x683.jpg)](https://photos.app.goo.gl/rgCBekNvCXp5vSi4A)
+[![Tres dones rient i posant juntes de nit en un acte cultural a l'aire lliure, una sosté un diari a l'aire.](https://blog.pocallum.cat/wp-content/uploads/2026/05/DSCF4429-1024x683.jpg)](https://photos.app.goo.gl/rgCBekNvCXp5vSi4A)
 
 Hi ha un moment molt concret que marca l’inici real de la Festa Major de la Prosperitat: quan el Diari surt del forn i les primeres mans impacients comencen a fullejar-lo com si fos un mapa del tresor. La resta —pregons, concerts, cercaviles— ja vindrà després.
 

@@ -12,7 +12,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2011/09/Captura-de-panta
 image: https://blog.pocallum.cat/wp-content/uploads/2011/09/blas-scaled1000.jpg
 ---
 
-![](https://blog.pocallum.cat/wp-content/uploads/2011/09/blas-scaled1000.jpg)
+![Un home amb barret i tirants vermells canta apassionadament a un micròfon vintage en un escenari fosc.](https://blog.pocallum.cat/wp-content/uploads/2011/09/blas-scaled1000.jpg)
 
 Encara que podeu seguir tota l'activitat de Capibola Blues al web [http://festivalbluesbarcelona.com](http://festivalbluesbarcelona.com/) aquí podeu veure, dia a dia, les fotos que he fet del millor dels festivals que conec a Barcelona.
 

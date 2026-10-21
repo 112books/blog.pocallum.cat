@@ -13,6 +13,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/08/2491-Dian-CN400-
 image: https://lh6.googleusercontent.com/-D9GeEiVYbIY/UiBTn6mKWTI/AAAAAAAD4iY/h4RxgjaoI4o/s640/2491%2520-%2520Dian%2520-%2520CN400%2520-%2520007.jpg
 ---
 
-|  [![](https://lh6.googleusercontent.com/-D9GeEiVYbIY/UiBTn6mKWTI/AAAAAAAD4iY/h4RxgjaoI4o/s640/2491%2520-%2520Dian%2520-%2520CN400%2520-%2520007.jpg)](https://photos.app.goo.gl/RewKoUEHPcryzXB96)  |
+|  [![Un genet amb barret de copa i jaqueta fosca munta un cavall negre en un carrer de Barcelona amb públic.](https://lh6.googleusercontent.com/-D9GeEiVYbIY/UiBTn6mKWTI/AAAAAAAD4iY/h4RxgjaoI4o/s640/2491%2520-%2520Dian%2520-%2520CN400%2520-%2520007.jpg)](https://photos.app.goo.gl/RewKoUEHPcryzXB96)  |
 | --- |
 | De [2491 - Diana +F -CN 400](https://photos.app.goo.gl/RewKoUEHPcryzXB96) |

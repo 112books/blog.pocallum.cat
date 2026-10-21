@@ -19,6 +19,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2023/07/2023-07-07-Tori-
 image: https://blog.pocallum.cat/wp-content/uploads/2023/07/2023-07-07-Tori-Sparks-feat-Big-Dani-LeicaM6-0003-1024x683.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2023/07/2023-07-07-Tori-Sparks-feat-Big-Dani-LeicaM6-0003-1024x683.jpg)](https://photos.app.goo.gl/WkPMaUNGBwjVAmjr7)
+[![Músics actuen en directe en un pati amb arcs de pedra; una dona canta i toca la guitarra i un home el saxòfon.](https://blog.pocallum.cat/wp-content/uploads/2023/07/2023-07-07-Tori-Sparks-feat-Big-Dani-LeicaM6-0003-1024x683.jpg)](https://photos.app.goo.gl/WkPMaUNGBwjVAmjr7)
 
 La XXI edició del Festival de Blues de Barcelona va iniciar-se amb [Tori Sparks](https://www.torisparks.com/es/about) i la seva formació de trio. A més, va comptar amb l'acompanyament del Saxo d'en [Big Dani Pérez](https://blog.pocallum.cat/#:~:text=Sparks%20feat%20Big-,Dani%20P%C3%A9rez,-Chino%20Swinglide%20Trio).

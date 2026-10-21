@@ -26,7 +26,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2025/12/IMG_2703-1024x683.jp
 description: "A l’estudi treballo en analògic sempre que puc, però hi ha sessions —com aquesta amb la Berta Cots— que exigeixen digital. Reflexions, procés i vídeo final."
 ---
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/12/IMG_2703-1024x683.jpg)
+![Una dona jove de cabells foscos jeu sobre un fons blanc d'estudi, recolzada als colzes i mirant la càmera.](https://blog.pocallum.cat/wp-content/uploads/2025/12/IMG_2703-1024x683.jpg)
 
   
 Normalment treballo en analògic a l’estudi. És el meu terreny natural: fotografia química tant en pas universal, mig format o gran format… cadascun amb el seu encant i la seva manera de fer. L’analògic m’acompanya des de sempre i continua essent la meva forma preferida de retratar models i construir sessions on tot passa més lent i més conscient.

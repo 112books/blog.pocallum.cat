@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2014/03/IMG_5223.jpg
 image: https://lh6.googleusercontent.com/-DryEuYacF4k/UxnEXLAo7FI/AAAAAAAEDwE/w4cmMdPEILc/s640/IMG_5223.jpg
 ---
 
-|  [![](https://lh6.googleusercontent.com/-DryEuYacF4k/UxnEXLAo7FI/AAAAAAAEDwE/w4cmMdPEILc/s640/IMG_5223.jpg)](https://photos.app.goo.gl/CNNNetdrbJp2VDq69)  |
+|  [![Ponents asseguts en una taula debaten davant d'un públic nombrós en una sala d'actes fosca.](https://lh6.googleusercontent.com/-DryEuYacF4k/UxnEXLAo7FI/AAAAAAAEDwE/w4cmMdPEILc/s640/IMG_5223.jpg)](https://photos.app.goo.gl/CNNNetdrbJp2VDq69)  |
 | --- |
 | De [Presentació a 9barris de la Marxa de la Dignitat](https://photos.app.goo.gl/CNNNetdrbJp2VDq69) |

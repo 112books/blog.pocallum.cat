@@ -13,6 +13,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/08/Caffenol-23-100t
 image: https://lh5.googleusercontent.com/-Wc1xbG4fcB8/UhtbGUkMDBI/AAAAAAAD3ok/l19gEypeeSI/s640/Caffenol%2520%252323%2520-100tmax%2520-%2520012.jpg
 ---
 
-|  [![](https://lh5.googleusercontent.com/-Wc1xbG4fcB8/UhtbGUkMDBI/AAAAAAAD3ok/l19gEypeeSI/s640/Caffenol%2520%252323%2520-100tmax%2520-%2520012.jpg)](https://photos.app.goo.gl/iZ2VRjR8iGcN6WAQA)  |
+|  [![Aigua tranquil·la flueix entre penya-segats rocosos en un congost costaner.](https://lh5.googleusercontent.com/-Wc1xbG4fcB8/UhtbGUkMDBI/AAAAAAAD3ok/l19gEypeeSI/s640/Caffenol%2520%252323%2520-100tmax%2520-%2520012.jpg)](https://photos.app.goo.gl/iZ2VRjR8iGcN6WAQA)  |
 | --- |
 | De [Caffenol #23 - Konica Pop - 100Tmax - Menorca](https://photos.app.goo.gl/iZ2VRjR8iGcN6WAQA) |

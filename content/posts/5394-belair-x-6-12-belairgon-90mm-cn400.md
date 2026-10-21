@@ -13,6 +13,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/11/5394-Belair-X-6-
 image: https://lh4.googleusercontent.com/-jmwT4RYHxmM/Uns7r5oBHlI/AAAAAAAD8jM/azZRwKFTSVU/s640/5394%2520-%2520Belair%2520X%25206-12%2520-%2520009.jpg
 ---
 
-|  [![](https://lh4.googleusercontent.com/-jmwT4RYHxmM/Uns7r5oBHlI/AAAAAAAD8jM/azZRwKFTSVU/s640/5394%2520-%2520Belair%2520X%25206-12%2520-%2520009.jpg)](https://photos.app.goo.gl/pFGNi7dzMihMdySYA)  |
+|  [![. * Restricció: No cometes ni claudàtors. * Restricció: No copiar el text de la imatge (hi ha un watermark](https://lh4.googleusercontent.com/-jmwT4RYHxmM/Uns7r5oBHlI/AAAAAAAD8jM/azZRwKFTSVU/s640/5394%2520-%2520Belair%2520X%25206-12%2520-%2520009.jpg)](https://photos.app.goo.gl/pFGNi7dzMihMdySYA)  |
 | --- |
 | De [5394 - Belair X 6-12 + Belairgon 90mm - CN400](https://photos.app.goo.gl/pFGNi7dzMihMdySYA) |

@@ -10,7 +10,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2011/01/IMG_8902.jpg
 image: https://lh3.ggpht.com/_xYdsA1KqJRQ/TTGzPT8M91I/AAAAAAACBX0/5awflj_vKHM/s400/IMG_8902.JPG
 ---
 
-![](https://lh3.ggpht.com/_xYdsA1KqJRQ/TTGzPT8M91I/AAAAAAACBX0/5awflj_vKHM/s400/IMG_8902.JPG)
+![L'aparador d'un bar amb grans lletres grogues, un cartell escrit a mà enganxat al vidre i gent reunida a l'interior.](https://lh3.ggpht.com/_xYdsA1KqJRQ/TTGzPT8M91I/AAAAAAACBX0/5awflj_vKHM/s400/IMG_8902.JPG)
 
 Doncs aquest cap de setmana ha estat molt productiu:
 

@@ -10,7 +10,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2016/01/DSCF3130.jpg
 image: https://lh3.googleusercontent.com/-O-QQBSLTAXI/VpHBAc_Ag_I/AAAAAAAE-So/bOt_dvfPgVE/s640-Ic42/DSCF3130.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-O-QQBSLTAXI/VpHBAc_Ag_I/AAAAAAAE-So/bOt_dvfPgVE/s640-Ic42/DSCF3130.jpg)](https://photos.app.goo.gl/CgVBCaVMb1HGqJsi6)  |
+|  [![Un home fa fotos amb un trípode en una platja amb aigua poc profunda i muntanyes al fons.](https://lh3.googleusercontent.com/-O-QQBSLTAXI/VpHBAc_Ag_I/AAAAAAAE-So/bOt_dvfPgVE/s640-Ic42/DSCF3130.jpg)](https://photos.app.goo.gl/CgVBCaVMb1HGqJsi6)  |
 | --- |
 | De [Sant Carles de la Ràpita - FujiX-A1+Minitar-1](https://photos.app.goo.gl/CgVBCaVMb1HGqJsi6) |
 

@@ -14,7 +14,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2011/03/IMG_3894-1.jpg
 image: https://lh4.googleusercontent.com/_xYdsA1KqJRQ/TZAtygIpG2I/AAAAAAACFJk/vQ6RxLbFi-c/s640/IMG_3894.jpg
 ---
 
-|  [![](https://lh4.googleusercontent.com/_xYdsA1KqJRQ/TZAtygIpG2I/AAAAAAACFJk/vQ6RxLbFi-c/s640/IMG_3894.jpg)](https://photos.app.goo.gl/EaNaXwtKScx48XSg8)  |
+|  [![Un home gran amb ulleres i samarreta vermella treballa darrere la barra d'un bar ple d'ampolles.](https://lh4.googleusercontent.com/_xYdsA1KqJRQ/TZAtygIpG2I/AAAAAAACFJk/vQ6RxLbFi-c/s640/IMG_3894.jpg)](https://photos.app.goo.gl/EaNaXwtKScx48XSg8)  |
 | --- |
 | De [Pepe Camacho i Muñeca de Trapo al Cor de la vinay 27/03/11](https://photos.app.goo.gl/EaNaXwtKScx48XSg8) |
 

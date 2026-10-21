@@ -13,4 +13,4 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2011/06/IMG_8307-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2011/06/IMG_8307.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2011/06/IMG_8307.jpg)](https://photos.app.goo.gl/46RJ5YfdLwgFUyNY6)
+[![Primer pla d'una moto groga i negra amb un retrovisor on es veu una noia; al darrere, més motos aparcades.](https://blog.pocallum.cat/wp-content/uploads/2011/06/IMG_8307.jpg)](https://photos.app.goo.gl/46RJ5YfdLwgFUyNY6)

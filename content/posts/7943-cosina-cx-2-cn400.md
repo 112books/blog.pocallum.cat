@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2015/02/794303.jpg
 image: https://lh5.googleusercontent.com/-hzr0XCbQYNo/VO4I9Ije_SI/AAAAAAAEnBo/ay0vQqNoX70/s640/794303.jpg
 ---
 
-|  [![](https://lh5.googleusercontent.com/-hzr0XCbQYNo/VO4I9Ije_SI/AAAAAAAEnBo/ay0vQqNoX70/s640/794303.jpg)](https://photos.app.goo.gl/yBy2TfRt6r1DoXpw9)  |
+|  [![Un home d'esquena observa un hort urbà amb un mural de fruites, envoltat d'edificis alts de maó.](https://lh5.googleusercontent.com/-hzr0XCbQYNo/VO4I9Ije_SI/AAAAAAAEnBo/ay0vQqNoX70/s640/794303.jpg)](https://photos.app.goo.gl/yBy2TfRt6r1DoXpw9)  |
 | --- |
 | De [7943 - Cosina CX-2 - CN400](https://photos.app.goo.gl/yBy2TfRt6r1DoXpw9) |

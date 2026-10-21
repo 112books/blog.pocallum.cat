@@ -12,7 +12,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2023/10/DSF4785.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2023/10/DSF4785-1024x683.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2023/10/DSF4785-1024x683.jpg)](https://photos.app.goo.gl/FQs12QyePjjnBeAy6)
+[![Un home parla en un escenari fosc davant d'un públic assegut i una pantalla que projecta una bandera.](https://blog.pocallum.cat/wp-content/uploads/2023/10/DSF4785-1024x683.jpg)](https://photos.app.goo.gl/FQs12QyePjjnBeAy6)
 
 https://player.vimeo.com/video/871633494?h=3f2e42b199
 

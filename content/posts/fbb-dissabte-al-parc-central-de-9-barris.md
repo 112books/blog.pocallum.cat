@@ -10,7 +10,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2015/07/IMG_9713.jpg
 image: https://lh3.googleusercontent.com/-j1bHc7a8mjc/VaE08vr4n-I/AAAAAAAExhc/zChboJxD81k/s640-Ic42/IMG_9713.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-j1bHc7a8mjc/VaE08vr4n-I/AAAAAAAExhc/zChboJxD81k/s640-Ic42/IMG_9713.jpg)](https://picasaweb.google.com/103138221614479310970/FBBDIssabteAlParcCentralDe9Barris?authuser=0&feat=embedwebsite)  |
+|  [![Dos homes amb ulleres de sol i samarretes del Festival de Blues somriuen fent polze enlaire davant l'escenari.](https://lh3.googleusercontent.com/-j1bHc7a8mjc/VaE08vr4n-I/AAAAAAAExhc/zChboJxD81k/s640-Ic42/IMG_9713.jpg)](https://picasaweb.google.com/103138221614479310970/FBBDIssabteAlParcCentralDe9Barris?authuser=0&feat=embedwebsite)  |
 | --- |
 | De [FBB - Divendres al Parc Central de 9 Barris](https://picasaweb.google.com/103138221614479310970/FBBDIssabteAlParcCentralDe9Barris?authuser=0&feat=embedwebsite) |
 

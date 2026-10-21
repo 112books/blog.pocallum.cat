@@ -14,6 +14,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/09/2493-Diana-CN400
 image: https://lh6.googleusercontent.com/-9RcFpTKI0kg/UiKPF68MCRI/AAAAAAAD5Hg/vQl1VzPDmkA/s640/2493%2520-%2520Diana%2520-%2520CN400%2520-%2520011.jpg
 ---
 
-|  [![](https://lh6.googleusercontent.com/-9RcFpTKI0kg/UiKPF68MCRI/AAAAAAAD5Hg/vQl1VzPDmkA/s640/2493%2520-%2520Diana%2520-%2520CN400%2520-%2520011.jpg)](https://photos.app.goo.gl/qfudTFBfFXwgy8kQ6)  |
+|  [![Enfiladissa de fulles verdes en forma de cor i flors morades en un jardí de Barcelona.](https://lh6.googleusercontent.com/-9RcFpTKI0kg/UiKPF68MCRI/AAAAAAAD5Hg/vQl1VzPDmkA/s640/2493%2520-%2520Diana%2520-%2520CN400%2520-%2520011.jpg)](https://photos.app.goo.gl/qfudTFBfFXwgy8kQ6)  |
 | --- |
 | De [2493 - Diana F+ - CN 400](https://photos.app.goo.gl/qfudTFBfFXwgy8kQ6) |

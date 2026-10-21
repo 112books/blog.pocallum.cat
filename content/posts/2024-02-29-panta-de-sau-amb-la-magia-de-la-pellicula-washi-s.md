@@ -12,6 +12,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/03/2024-02-29-Panta
 image: https://blog.pocallum.cat/wp-content/uploads/2024/03/2024-02-29-Panta-de-Sau-LM6-WashiS-50ISO-0030-1024x630.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/03/2024-02-29-Panta-de-Sau-LM6-WashiS-50ISO-0030-1024x630.jpg)](https://photos.app.goo.gl/nZi3zxh4tSznMd9r8)
+[![Una barca de fusta abandonada en un terreny sec i pedregós davant d'una gran formació rocosa.](https://blog.pocallum.cat/wp-content/uploads/2024/03/2024-02-29-Panta-de-Sau-LM6-WashiS-50ISO-0030-1024x630.jpg)](https://photos.app.goo.gl/nZi3zxh4tSznMd9r8)
 
 Soc un conegut amant de les pel·lícules [Washifilm](https://filmwashi.com/en/products/135_films/). N'he fet servir de quasi totes, però la Washi S molt poquet. Vaig pensar que podia quedar quelcom ben dramàtic per fotografiar el Pantà de Sau amb la Leica M6 i una òptica [#](#)Voigtlander Color-Skopar 21mm f/4. Recordeu que és ISO50 i pancromàtica! Podeu veure els resultats prement sobre la fotografia.

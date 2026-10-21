@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2016/04/IMG_9888.jpg
 image: https://lh3.googleusercontent.com/-x0i_e4NWhk8/Vv9_duPZa1I/AAAAAAAFCzM/vQTsZEVlPXcFyMKRMc3w3n88Y3CdnRUtgCCo/s640-Ic42/IMG_9888.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-x0i_e4NWhk8/Vv9_duPZa1I/AAAAAAAFCzM/vQTsZEVlPXcFyMKRMc3w3n88Y3CdnRUtgCCo/s640-Ic42/IMG_9888.jpg)](https://photos.app.goo.gl/K2tEcyup6A8Ked5GA)  |
+|  [![Un cantant gran, amb vestit negre i mocador, canta amb passió amb els ulls tancats davant d'un micròfon.](https://lh3.googleusercontent.com/-x0i_e4NWhk8/Vv9_duPZa1I/AAAAAAAFCzM/vQTsZEVlPXcFyMKRMc3w3n88Y3CdnRUtgCCo/s640-Ic42/IMG_9888.jpg)](https://photos.app.goo.gl/K2tEcyup6A8Ked5GA)  |
 | --- |
 | De [Andrés de Jerez amb Edgar Platón i el Rubio de la Isla](https://photos.app.goo.gl/K2tEcyup6A8Ked5GA) |

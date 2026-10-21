@@ -15,6 +15,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/10/5158-Diana-Pinho
 image: https://lh6.googleusercontent.com/-_qkd_0lXfvE/UnDK125KxEI/AAAAAAAD8Xc/rFNYbtD0Ig0/s640/5158%2520-%2520Diana%2520Pinhole%2520-%2520RedScale%2520100%2520-%2520008.jpg
 ---
 
-|  [![](https://lh6.googleusercontent.com/-_qkd_0lXfvE/UnDK125KxEI/AAAAAAAD8Xc/rFNYbtD0Ig0/s640/5158%2520-%2520Diana%2520Pinhole%2520-%2520RedScale%2520100%2520-%2520008.jpg)](https://photos.app.goo.gl/jG4cRP71Pkpb8m54A)  |
+|  [![Torre metàl·lica d'alta tensió vista des de baix, amb les bigues creuades contra un cel vermellós i ennuvolat.](https://lh6.googleusercontent.com/-_qkd_0lXfvE/UnDK125KxEI/AAAAAAAD8Xc/rFNYbtD0Ig0/s640/5158%2520-%2520Diana%2520Pinhole%2520-%2520RedScale%2520100%2520-%2520008.jpg)](https://photos.app.goo.gl/jG4cRP71Pkpb8m54A)  |
 | --- |
 | De [5158 - Diana Pinhole - RedScale 100](https://photos.app.goo.gl/jG4cRP71Pkpb8m54A) |

@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2016/01/DSCF3339.jpg
 image: https://lh3.googleusercontent.com/-gRHmKmdfbHI/VppjsfXqKWI/AAAAAAAE-q0/4aWPWQDGE0Q/s640-Ic42/DSCF3339.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-gRHmKmdfbHI/VppjsfXqKWI/AAAAAAAE-q0/4aWPWQDGE0Q/s640-Ic42/DSCF3339.jpg)](https://photos.app.goo.gl/da3GyAwVoJvm1Tgt9)  |
+|  [![Dona amb ulleres de sol i jaqueta de cuir negra allarga el braç per protegir-se del sol en un carrer amb palmeres.](https://lh3.googleusercontent.com/-gRHmKmdfbHI/VppjsfXqKWI/AAAAAAAE-q0/4aWPWQDGE0Q/s640-Ic42/DSCF3339.jpg)](https://photos.app.goo.gl/da3GyAwVoJvm1Tgt9)  |
 | --- |
 | De [Taller "No tengo ni idea!"](https://photos.app.goo.gl/da3GyAwVoJvm1Tgt9) |

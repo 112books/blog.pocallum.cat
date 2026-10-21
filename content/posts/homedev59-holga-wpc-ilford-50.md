@@ -11,6 +11,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2015/12/HD59-HolgaWPC-00
 image: https://lh3.googleusercontent.com/-skCCu9SNnRI/Vn8otO3P5bI/AAAAAAAE91w/t8Fs4CDEQFc/s640-Ic42/HD%25252359%252520-%252520HolgaWPC%252520-%252520004.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-skCCu9SNnRI/Vn8otO3P5bI/AAAAAAAE91w/t8Fs4CDEQFc/s640-Ic42/HD%25252359%252520-%252520HolgaWPC%252520-%252520004.jpg)](https://photos.app.goo.gl/Qdhrvr283pQsZdJK6)  |
+|  [![Un noi somrient amb una jaqueta gruixuda seu en unes escales de fusta rústiques envoltades de vegetació seca.](https://lh3.googleusercontent.com/-skCCu9SNnRI/Vn8otO3P5bI/AAAAAAAE91w/t8Fs4CDEQFc/s640-Ic42/HD%25252359%252520-%252520HolgaWPC%252520-%252520004.jpg)](https://photos.app.goo.gl/Qdhrvr283pQsZdJK6)  |
 | --- |
 | De [Homedev#59 - Holga WPC](https://photos.app.goo.gl/Qdhrvr283pQsZdJK6) |

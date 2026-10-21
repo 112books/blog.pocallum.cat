@@ -25,7 +25,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2025/05/DSF5917-1024x683.jpg
 description: "Visita les fotografies de la meva escapada fotogràfica a Menorca: racons secrets, experiències personals i una selecció d’imatges digitals capturades amb la Fuji X-Pro1. Menorca, vista a través de l’objectiu d’un apassionat de la fotografia."
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/05/DSF5917-1024x683.jpg)](https://photos.app.goo.gl/uaMswsD6d5waJsas8)
+[![Un veler blanc navega per un mar blau en calma sota un cel amb núvols i rastres d'avions, vist des d'unes roques.](https://blog.pocallum.cat/wp-content/uploads/2025/05/DSF5917-1024x683.jpg)](https://photos.app.goo.gl/uaMswsD6d5waJsas8)
 
 Qui em coneix sap que, quan puc perdre’m, ho faig a l’illa de Menorca, una terra que em té completament enamorat.
 

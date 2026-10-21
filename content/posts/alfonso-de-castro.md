@@ -12,7 +12,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2020/11/2020-11-11-Alfonso-0
 
 <figure>
 
-![](https://blog.pocallum.cat/wp-content/uploads/2020/11/2020-11-11-Alfonso-001.jpg)
+![Un fotògraf assegut amb els braços creuats subjecta una càmera, amb samarreta fosca i texans, sobre un fons blanc.](https://blog.pocallum.cat/wp-content/uploads/2020/11/2020-11-11-Alfonso-001.jpg)
 
 <figcaption>
 

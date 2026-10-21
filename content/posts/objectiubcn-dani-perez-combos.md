@@ -10,7 +10,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2014/04/IMG_6344.jpg
 image: https://lh3.googleusercontent.com/-cFrndV_QNXs/UzsyCxpwpSI/AAAAAAAEFFg/naqgRpZQuTQ/s640/IMG_6344.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-cFrndV_QNXs/UzsyCxpwpSI/AAAAAAAEFFg/naqgRpZQuTQ/s640/IMG_6344.jpg)](https://photos.app.goo.gl/tF1HYxGbcdcjvcww9)  |
+|  [![Dos músics toquen el saxòfon en una sala d'assaig amb un teclat al mig.](https://lh3.googleusercontent.com/-cFrndV_QNXs/UzsyCxpwpSI/AAAAAAAEFFg/naqgRpZQuTQ/s640/IMG_6344.jpg)](https://photos.app.goo.gl/tF1HYxGbcdcjvcww9)  |
 | --- |
 | De [ObjectiuBCN - Dani Pérez + Combos](https://photos.app.goo.gl/tF1HYxGbcdcjvcww9) |
 

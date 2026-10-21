@@ -42,7 +42,7 @@ Les noves generacions opten per altres coordenades sonores, més patxangueres o 
 
 Sigui com sigui, ahir, a Nou Barris, vam tenir dues bones tasses de R’n’R per a qui encara en vulgui. I per a qui no… també.
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2026/02/IMG_4838-1024x683.jpg)](https://photos.app.goo.gl/EAUv8iREAsHsUnpN7)
+[![Una cantant rossa canta al micròfon acompanyada d'una baixista i un bateria en un escenari fosc, en blanc i negre.](https://blog.pocallum.cat/wp-content/uploads/2026/02/IMG_4838-1024x683.jpg)](https://photos.app.goo.gl/EAUv8iREAsHsUnpN7)
 
 ### **Elektra**
 
@@ -52,7 +52,7 @@ Influenciades pel rock en totes les seves formes, segueixen l’estela de refere
 
 En directe ofereixen intensitat i energia, però sobretot connexió. El primer impacte va ser clar: joventut, personalitat i ja amb alguns temes propis. Si amb aquesta edat ja s’atreveixen a defensar material original amb aquesta seguretat, el recorregut pot ser molt interessant. No, no tots els joves viuen instal·lats en el reggaeton. Al·leluia.
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2026/02/IMG_5034-1-1024x683.jpg)](https://photos.app.goo.gl/EAUv8iREAsHsUnpN7)
+[![Concert de rock en blanc i negre amb músics tocant enèrgicament en un escenari fosc de club.](https://blog.pocallum.cat/wp-content/uploads/2026/02/IMG_5034-1-1024x683.jpg)](https://photos.app.goo.gl/EAUv8iREAsHsUnpN7)
 
 **The Capaces**
 

@@ -23,7 +23,7 @@ description: "Inauguració d'exposició al Centre Cívic Vázquez Montalbán (Va
 title-seo: "Inauguració Exposició Vallvidrera | Centre Vázquez Montalbán 2025"
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2011/03/IMG_3309.jpg)](https://photos.app.goo.gl/LEbHwaKeTStks24k7)
+[![Un home calb toca el saxòfon assegut en una sala àmplia amb taules d'estovalles vermelles i cadires grogues.](https://blog.pocallum.cat/wp-content/uploads/2011/03/IMG_3309.jpg)](https://photos.app.goo.gl/LEbHwaKeTStks24k7)
 
 Ahir vaig tenir el plaer d'inaugurar una exposició al **Centre Cívic Vázquez Montalbán** a **Vallvidrera**, Barcelona. El centre va oferir un deliciós pica-pica que va fer les delícies dels assistents, i després vam gaudir d'un concert de **Dani Pérez Organic**, que va ser genial!
 

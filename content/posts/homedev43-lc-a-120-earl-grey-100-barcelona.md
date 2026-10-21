@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2015/04/HD43-LC-A120-Ear
 image: https://lh4.googleusercontent.com/-9SD_Q_EAdoA/VR_-QQRb9WI/AAAAAAAEpsw/193-ouT9By4/s640/HD%252343%2520-%2520LC-A120%2520-%2520EarlGr006.jpg
 ---
 
-|  [![](https://lh4.googleusercontent.com/-9SD_Q_EAdoA/VR_-QQRb9WI/AAAAAAAEpsw/193-ouT9By4/s640/HD%252343%2520-%2520LC-A120%2520-%2520EarlGr006.jpg)](https://photos.app.goo.gl/GJSQafHV1Bws5pw79)  |
+|  [![Vianants passejant per la vorera davant la façana ondulada i els balcons de la Pedrera de Gaudí, a Barcelona.](https://lh4.googleusercontent.com/-9SD_Q_EAdoA/VR_-QQRb9WI/AAAAAAAEpsw/193-ouT9By4/s640/HD%252343%2520-%2520LC-A120%2520-%2520EarlGr006.jpg)](https://photos.app.goo.gl/GJSQafHV1Bws5pw79)  |
 | --- |
 | De [Homedev#43 - LC-A 120 - Earl Grey 100 - Barcelona](https://photos.app.goo.gl/GJSQafHV1Bws5pw79) |

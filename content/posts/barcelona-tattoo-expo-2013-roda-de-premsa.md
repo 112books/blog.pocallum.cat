@@ -17,7 +17,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/10/MG_8408.jpg
 image: https://lh6.googleusercontent.com/-RIcscivWScY/Uk2VDfGfgMI/AAAAAAAD6Pg/_R1b4Sq0wqI/s640/_MG_8408.jpg
 ---
 
-|  [![](https://lh6.googleusercontent.com/-RIcscivWScY/Uk2VDfGfgMI/AAAAAAAD6Pg/_R1b4Sq0wqI/s640/_MG_8408.jpg)](https://photos.app.goo.gl/fsAvn1r8q3uqYWMT8)  |
+|  [![Dos homes somriuen abraçats en una llibreria cultural, sostenint petites figures amb pals.](https://lh6.googleusercontent.com/-RIcscivWScY/Uk2VDfGfgMI/AAAAAAAD6Pg/_R1b4Sq0wqI/s640/_MG_8408.jpg)](https://photos.app.goo.gl/fsAvn1r8q3uqYWMT8)  |
 | --- |
 | De [Barcelona Tattoo Expo 2013 - Roda de premsa](https://photos.app.goo.gl/fsAvn1r8q3uqYWMT8) |
 

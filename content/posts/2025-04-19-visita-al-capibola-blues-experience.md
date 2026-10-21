@@ -29,7 +29,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2025/04/2025-04-19-LM6-RPX40
 description: "Descobreix Capibola Blues Experience, un espai únic a la vessant de Montserrat dedicat a la residència, creació i difusió musical, amb activitats per a músics, escoles i col·lectius locals."
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/04/2025-04-19-LM6-RPX400@200-Visita-Guilli-Capibola-0012-1024x606.jpg)](https://photos.app.goo.gl/omEecyWgeYzvcDnJ6)
+[![Un home gran amb cabells llargs toca el saxòfon en un local amb parets de pedra.](https://blog.pocallum.cat/wp-content/uploads/2025/04/2025-04-19-LM6-RPX400@200-Visita-Guilli-Capibola-0012-1024x606.jpg)](https://photos.app.goo.gl/omEecyWgeYzvcDnJ6)
 
 En temps de Pasqua, els ateus patim una mica! Són dies de festa que sempre venen bé, però cal anar amb compte on anem. A vegades sembla que estem envoltats de gent parlant amb amics imaginaris, o de persones que maltracten barbuts peluts clavats a creus amb claus rovellats. I no parlem dels disfressats del Ku Klux Klan cridant bestiesses a ninots disfressats de fades o coses semblants. En fi, una època de l’any on convé anar amb molt de compte per no acabar malament.
 
@@ -39,13 +39,13 @@ Gràcies a ells vaig començar i créixer en la fotografia musical, disparant a 
 
 Aquestes persones són imprescindibles per a la cultura i per fer les coses tan bé com ho fan.
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/04/IMG_2203-1024x399.jpg)
+![Un home amb ulleres i jaqueta taronja fa un selfie estirat sobre una superfície vermella enmig de roques.](https://blog.pocallum.cat/wp-content/uploads/2025/04/IMG_2203-1024x399.jpg)
 
 Vaig anar en transport públic fins a Olesa de Montserrat, on en Güilli em va venir a buscar en cotxe fins a la megamasia que ara es coneix com a [Capibola Blues Experience](https://www.instagram.com/capibolabluesexperience/). Aquest nou projecte està ubicat en un punt estratègic entre Collbató, Esparreguera, Monistrol i Olesa, a Ca n’Estruc Nou, a la vessant de Montserrat, un lloc màgic per a la creació i difusió musical.
 
 Allà s’ofereix a grups i músics la possibilitat de fer residències musicals per assajar, crear i gravar música en un ambient relaxat, proper i sense luxes superflus, envoltats de natura i la màgia de Montserrat. La finca és tan gran que permet que els artistes puguin estar-hi amb familiars i fins i tot cuinar, fent que l’estada sigui còmoda i inspiradora.
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/04/IMG_2199-1024x351.jpg)
+![Prat amb una tenda índia blanca, ombres allargades, muntanyes verdes, un camí de pedra i un cel blau amb núvols.](https://blog.pocallum.cat/wp-content/uploads/2025/04/IMG_2199-1024x351.jpg)
 
 El projecte no vol ser elitista, sinó tot el contrari: vol formar part del teixit local i prioritza les estades i activitats de col·lectius i entitats del territori que comparteixin la seva filosofia. A més, s’hi organitzen assajos i audicions per a bandes emergents, concerts, _jam sessions_, classes magistrals, seminaris, debats i activitats pedagògiques per a escoles i entitats musicals de la zona.
 
@@ -55,7 +55,7 @@ Vaig ser molt feliç de veure aquest nou cau d’en Güilli i passar-hi el dia p
 
 Salut i música!
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/04/camphoto_1804928587-768x1024.jpg)
+![Un home gran amb barret de palla somriu i fa un gest de polze amunt assegut a taula davant d'una casa de pedra.](https://blog.pocallum.cat/wp-content/uploads/2025/04/camphoto_1804928587-768x1024.jpg)
 
 **Ubicació i contacte:**
 

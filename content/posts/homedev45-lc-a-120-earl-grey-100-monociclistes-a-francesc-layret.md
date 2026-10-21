@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2015/04/HD45-LC-120-EG00
 image: https://lh6.googleusercontent.com/-0lcTPZX_QNw/VSq41GjLItI/AAAAAAAEqZ4/zrb-8mNrZ2U/s640/HD%252345%2520-%2520LC-120%2520-%2520EG004.jpg
 ---
 
-|  [![](https://lh6.googleusercontent.com/-0lcTPZX_QNw/VSq41GjLItI/AAAAAAAEqZ4/zrb-8mNrZ2U/s640/HD%252345%2520-%2520LC-120%2520-%2520EG004.jpg)](https://photos.app.goo.gl/7av6ucH1HNWb7e5d6)  |
+|  [![Sis joves fan equilibris i acrobàcies amb monocicles en una plaça de barri de Barcelona, amb un noi saltant.](https://lh6.googleusercontent.com/-0lcTPZX_QNw/VSq41GjLItI/AAAAAAAEqZ4/zrb-8mNrZ2U/s640/HD%252345%2520-%2520LC-120%2520-%2520EG004.jpg)](https://photos.app.goo.gl/7av6ucH1HNWb7e5d6)  |
 | --- |
 | De [Homedev#45 - LC-a 120 - Earl Grey 100](https://photos.app.goo.gl/7av6ucH1HNWb7e5d6) |

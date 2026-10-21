@@ -13,6 +13,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2011/02/IMG_9456-1.jpg
 image: https://lh4.googleusercontent.com/_xYdsA1KqJRQ/TU-mltPWWmI/AAAAAAACC9g/x6sVcRKmIDo/s640/IMG_9456.jpg
 ---
 
-|  [![](https://lh4.googleusercontent.com/_xYdsA1KqJRQ/TU-mltPWWmI/AAAAAAACC9g/x6sVcRKmIDo/s640/IMG_9456.jpg)](https://photos.app.goo.gl/jd46c7iEDbXEvPfZ6)  |
+|  [![Un trombonista toca en un escenari fosc il·luminat per un focus blau intens, amb micròfons al voltant.](https://lh4.googleusercontent.com/_xYdsA1KqJRQ/TU-mltPWWmI/AAAAAAACC9g/x6sVcRKmIDo/s640/IMG_9456.jpg)](https://photos.app.goo.gl/jd46c7iEDbXEvPfZ6)  |
 | --- |
 | De [9binblack - Barcelona Big Blues Band amb Mark Tortorici](https://photos.app.goo.gl/jd46c7iEDbXEvPfZ6) |

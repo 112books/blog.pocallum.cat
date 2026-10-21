@@ -12,7 +12,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_4395.jpg
 image: https://lh6.googleusercontent.com/-FthvtpOrCoQ/TwlVFtsaHsI/AAAAAAACfdA/7iS4iBGcojQ/s640/IMG_4395.jpg
 ---
 
-|  [![](https://lh6.googleusercontent.com/-FthvtpOrCoQ/TwlVFtsaHsI/AAAAAAACfdA/7iS4iBGcojQ/s640/IMG_4395.jpg)](https://photos.app.goo.gl/EHXkU1Uz9F1iriLE9)  |
+|  [![excepte el context del blog.*](https://lh6.googleusercontent.com/-FthvtpOrCoQ/TwlVFtsaHsI/AAAAAAACfdA/7iS4iBGcojQ/s640/IMG_4395.jpg)](https://photos.app.goo.gl/EHXkU1Uz9F1iriLE9)  |
 | --- |
 | De [Little Victor & his Combo - BeGood](https://photos.app.goo.gl/EHXkU1Uz9F1iriLE9) |
 

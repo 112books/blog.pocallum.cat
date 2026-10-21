@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2014/02/IMG_3291.jpg
 image: https://lh3.googleusercontent.com/-dJZWeShb0eQ/Uu1g0cfMjyI/AAAAAAAEBqo/xBI27EPeXZE/s640/IMG_3291.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-dJZWeShb0eQ/Uu1g0cfMjyI/AAAAAAAEBqo/xBI27EPeXZE/s640/IMG_3291.jpg)](https://photos.app.goo.gl/4xXPVd9npefT4UCNA)  |
+|  [![Dos músics actuen en directe en una galeria; un canta amb micro i l'altre toca la guitarra asseguts.](https://lh3.googleusercontent.com/-dJZWeShb0eQ/Uu1g0cfMjyI/AAAAAAAEBqo/xBI27EPeXZE/s640/IMG_3291.jpg)](https://photos.app.goo.gl/4xXPVd9npefT4UCNA)  |
 | --- |
 | De [Vermut sical - Flamenco amb Senen i Jordi Guerrero](https://photos.app.goo.gl/4xXPVd9npefT4UCNA) |

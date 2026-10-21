@@ -11,6 +11,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2014/10/5166-Diana-Pinho
 image: https://lh3.googleusercontent.com/-IQV7gfYUlx0/VEkiPg57uoI/AAAAAAAEZgs/DiuwiT4TjVE/s640/5166%2520-%2520Diana%2520Pinhole%2520-RS100%2520-006.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-IQV7gfYUlx0/VEkiPg57uoI/AAAAAAAEZgs/DiuwiT4TjVE/s640/5166%2520-%2520Diana%2520Pinhole%2520-RS100%2520-006.jpg)](https://photos.app.goo.gl/T84CkUsouCeGBC8D8)  |
+|  [![Un cep de vinya en un camp de terra seca, il·luminat per una llum groga i càlida de posta de sol.](https://lh3.googleusercontent.com/-IQV7gfYUlx0/VEkiPg57uoI/AAAAAAAEZgs/DiuwiT4TjVE/s640/5166%2520-%2520Diana%2520Pinhole%2520-RS100%2520-006.jpg)](https://photos.app.goo.gl/T84CkUsouCeGBC8D8)  |
 | --- |
 | De [5166 - Diana Pinhole -Redscale 100](https://photos.app.goo.gl/T84CkUsouCeGBC8D8) |

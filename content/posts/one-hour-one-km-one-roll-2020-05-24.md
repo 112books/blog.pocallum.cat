@@ -13,7 +13,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2020/05/2020-05-24-031-635x1
 
 <figure>
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2020/05/2020-05-24-031-635x1024.jpg)](https://photos.app.goo.gl/32KrFQquqWncmSu87)
+[![Tronc de fusta gruixut amb dues fileres verticals de forats circulars, en un entorn natural.](https://blog.pocallum.cat/wp-content/uploads/2020/05/2020-05-24-031-635x1024.jpg)](https://photos.app.goo.gl/32KrFQquqWncmSu87)
 
 <figcaption>
 

@@ -14,7 +14,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/04/IMG_0621.jpg
 image: https://lh5.googleusercontent.com/-egOchCSm0nA/T5211zgs1gI/AAAAAAAC5_s/Jbe81--ETFQ/s800/IMG_0621.jpg
 ---
 
-|  [![](https://lh5.googleusercontent.com/-egOchCSm0nA/T5211zgs1gI/AAAAAAAC5_s/Jbe81--ETFQ/s800/IMG_0621.jpg)](https://photos.app.goo.gl/EE7r5nanlyChJ7p92)  |
+|  [![Dues fotografies en blanc i negre en una safata mostren dues noies en un carrer i una figura clara davant d'una església.](https://lh5.googleusercontent.com/-egOchCSm0nA/T5211zgs1gI/AAAAAAAC5_s/Jbe81--ETFQ/s800/IMG_0621.jpg)](https://photos.app.goo.gl/EE7r5nanlyChJ7p92)  |
 | --- |
 | De [Pinhole day a Can Basté](https://photos.app.goo.gl/EE7r5nanlyChJ7p92) |
 

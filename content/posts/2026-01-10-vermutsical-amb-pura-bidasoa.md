@@ -28,7 +28,7 @@ description: "El primer Vermutsical del 2026 porta Pura Bidasoa al Casal de la P
 title-seo: "Vermutsical amb Pura Bidasoa al Casal Prosperitat"
 ---
 
-![](https://blog.pocallum.cat/wp-content/uploads/2026/01/DSCF2572-1024x683.jpg)
+![Una dona consulta el mòbil mentre una banda toca al fons d'un local amb públic assegut i un home somrient.](https://blog.pocallum.cat/wp-content/uploads/2026/01/DSCF2572-1024x683.jpg)
 
 Els Vermutsicals continuen aquest 2026 al [Casal de Barri de la Prosperitat](https://www.instagram.com/casalbprospe/). El primer de l’any ens porta de nou sons llatinoamericans, aquesta vegada amb el grup **Pura Bidasoa**. El nom del projecte remet al **bar Bidasoa**, al barri Gòtic de Barcelona, on els seus membres es van conèixer per primer cop.
 

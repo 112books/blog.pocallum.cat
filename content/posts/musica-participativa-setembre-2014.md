@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2014/09/IMG_4455.jpg
 image: https://lh6.googleusercontent.com/-wMEHR_nnHOo/VB7YUfY-gjI/AAAAAAAEVqY/DoM5jIkl-QE/s640/IMG_4455.jpg
 ---
 
-|  [![](https://lh6.googleusercontent.com/-wMEHR_nnHOo/VB7YUfY-gjI/AAAAAAAEVqY/DoM5jIkl-QE/s640/IMG_4455.jpg)](https://photos.app.goo.gl/FUB1u5jC8XrzVj6c8)  |
+|  [![Home gran amb samarreta fosca assegut en un espai urbà de nit, mirant de costat amb expressió pensativa.](https://lh6.googleusercontent.com/-wMEHR_nnHOo/VB7YUfY-gjI/AAAAAAAEVqY/DoM5jIkl-QE/s640/IMG_4455.jpg)](https://photos.app.goo.gl/FUB1u5jC8XrzVj6c8)  |
 | --- |
 | De [Musica Participativa - setembre 2014](https://photos.app.goo.gl/FUB1u5jC8XrzVj6c8) |

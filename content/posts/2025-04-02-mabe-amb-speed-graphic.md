@@ -22,7 +22,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2025/04/2025-04-02-GraflexSp
 description: "Captura la bellesa del Gran Format amb la càmera Graflex Speed Graphic i la model Mabe. Resultats únics i emotius en un entorn analògic."
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/04/2025-04-02-GraflexSpeedGraphic-Foma100@200-Mabe-0002-819x1024.jpg)](https://photos.app.goo.gl/tLZvPRFHyvBmocYX6)
+[![Retrat en blanc i negre d'una jove d'esguard seriós, amb cabells llargs i top de ratlles, sobre fons fosc.](https://blog.pocallum.cat/wp-content/uploads/2025/04/2025-04-02-GraflexSpeedGraphic-Foma100@200-Mabe-0002-819x1024.jpg)](https://photos.app.goo.gl/tLZvPRFHyvBmocYX6)
 
 Ahir vaig convèncer la bonica [Mabe](https://www.instagram.com/mabe.briones/) per fer unes [proves amb una pel·lícula caducada d'_origen perestroik_](https://blog.pocallum.cat/2025/04/02/2025-04-02-mabe-amb-pellicula-sovietica/). El rodet que vam posar a prova era només la meitat, ja que havia dividit el film original en dues parts. Així que la mini sessió va ser molt curta, massa curta.
 
@@ -40,10 +40,10 @@ La distància focal d'aquesta càmera, 135 mm, és equivalent a uns 45 mm aproxi
 
 Després de saber-ne més sobre l'equipament utilitzat —sí, soc un xic _freak_—, els resultats els podeu veure fent [clic sobre la fotografia](https://photos.app.goo.gl/tLZvPRFHyvBmocYX6) que il·lustra l'article o directament en aquesta petita galeria.
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/04/2025-04-02-GraflexSpeedGraphic-Foma100@200-Mabe-0002-819x1024.jpg)
+![Una jove de cabell llarg amb samarreta ratllada mira a càmera en un retrat en blanc i negre amb fons fosc.](https://blog.pocallum.cat/wp-content/uploads/2025/04/2025-04-02-GraflexSpeedGraphic-Foma100@200-Mabe-0002-819x1024.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/04/2025-04-02-GraflexSpeedGraphic-Foma100@200-Mabe-0001-819x1024.jpg)
+![Una jove de cabells llargs i top de ratlles mira la càmera amb les mans al clatell sobre un fons fosc.](https://blog.pocallum.cat/wp-content/uploads/2025/04/2025-04-02-GraflexSpeedGraphic-Foma100@200-Mabe-0001-819x1024.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/04/2025-04-02-GraflexSpeedGraphic-Foma100@200-Mabe-0003-815x1024.jpg)
+![Dona jove de perfil, amb la mà a la galta mirant cap amunt, en un retrat en blanc i negre sobre fons fosc.](https://blog.pocallum.cat/wp-content/uploads/2025/04/2025-04-02-GraflexSpeedGraphic-Foma100@200-Mabe-0003-815x1024.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/04/2025-04-02-GraflexSpeedGraphic-Foma100@200-Mabe-0004-819x1024.jpg)
+![Primer pla en blanc i negre d'una dona jove amb cabells llargs que mira seriosament a la càmera.](https://blog.pocallum.cat/wp-content/uploads/2025/04/2025-04-02-GraflexSpeedGraphic-Foma100@200-Mabe-0004-819x1024.jpg)

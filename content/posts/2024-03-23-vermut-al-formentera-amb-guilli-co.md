@@ -11,6 +11,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/03/DSF9070.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2024/03/DSF9070-1024x683.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/03/DSF9070-1024x683.jpg)](https://photos.app.goo.gl/rXTvyhnhzFLkdUL27)
+[![Tres músics assagen en una sala de parets de maó rosa, amb un guitarrista assegut, un bateria i un saxofonista.](https://blog.pocallum.cat/wp-content/uploads/2024/03/DSF9070-1024x683.jpg)](https://photos.app.goo.gl/rXTvyhnhzFLkdUL27)
 
 Migdia de vermut al [Bar Formentera](https://www.instagram.com/barformentera41/) amb concert amb en Güilli i la seva _troup_. Vaig ser-hi poca estona, però ben segur es va embolicar fins ben entrada la tarda.

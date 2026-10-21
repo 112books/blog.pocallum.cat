@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_8522-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_8522-1024x680.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_8522-1024x680.jpg)](https://photos.app.goo.gl/FWTdzmiWDPT4Aiww9)
+[![Unes mans brutes de fang donen forma a un bol de ceràmica en un torn de terrissaire.](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_8522-1024x680.jpg)](https://photos.app.goo.gl/FWTdzmiWDPT4Aiww9)
 
 Obrador de ceràmica Terra i Foc. El Pago (Subirats), Barcelona - [Totes les fotos](https://photos.app.goo.gl/FWTdzmiWDPT4Aiww9)

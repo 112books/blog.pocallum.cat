@@ -11,6 +11,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2014/05/HomeDev6-Holga12
 image: https://lh5.googleusercontent.com/-BMx0RqnOx-g/U2P_5Yt4ueI/AAAAAAAEIyA/OngTQu_DxnQ/s640/HomeDev%25236%2520-%2520Holga120WPC%2520001.jpg
 ---
 
-|  [![](https://lh5.googleusercontent.com/-BMx0RqnOx-g/U2P_5Yt4ueI/AAAAAAAEIyA/OngTQu_DxnQ/s640/HomeDev%25236%2520-%2520Holga120WPC%2520001.jpg)](https://photos.app.goo.gl/3sDWPiyvTtuN7kw29)  |
+|  [![Sala d'estar amb un sofà, una taula amb una ampolla, una planta i un portàtil obert en primer pla davant d'una finestra.](https://lh5.googleusercontent.com/-BMx0RqnOx-g/U2P_5Yt4ueI/AAAAAAAEIyA/OngTQu_DxnQ/s640/HomeDev%25236%2520-%2520Holga120WPC%2520001.jpg)](https://photos.app.goo.gl/3sDWPiyvTtuN7kw29)  |
 | --- |
 | De [HomeDev#06- Holga-120WPC - Rollei Retro 400](https://photos.app.goo.gl/3sDWPiyvTtuN7kw29) |

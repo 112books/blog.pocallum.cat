@@ -10,6 +10,6 @@ tags: []
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_3782-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_3782.jpg
 ---
-[![](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_3782.jpg)](https://photos.app.goo.gl/7EHeW8C1nukH6VEM6)
+[![Una multitud de persones passeja entre les parades d'un festival cultural sota una gran coberta.](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_3782.jpg)](https://photos.app.goo.gl/7EHeW8C1nukH6VEM6)
 
 [Totes les fotografies](https://photos.app.goo.gl/7EHeW8C1nukH6VEM6)

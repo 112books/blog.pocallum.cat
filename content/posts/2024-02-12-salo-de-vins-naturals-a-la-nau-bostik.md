@@ -11,7 +11,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/02/L1410745.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2024/02/L1410745-1024x683.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/02/L1410745-1024x683.jpg)](https://photos.app.goo.gl/B6uD1cRZ6F9iVn5C6)
+[![Un home beu aigua d'una ampolla en un espai interior amb grans motxilles en primer pla i gent al fons.](https://blog.pocallum.cat/wp-content/uploads/2024/02/L1410745-1024x683.jpg)](https://photos.app.goo.gl/B6uD1cRZ6F9iVn5C6)
 
 ## **9a edició Saló dels Vins Naturals a Barcelona**
 

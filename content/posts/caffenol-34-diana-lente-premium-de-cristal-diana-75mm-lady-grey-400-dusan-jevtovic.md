@@ -16,7 +16,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/11/Caffenol-34-Dian
 image: https://lh5.googleusercontent.com/-MzJnR7_51wE/UpFdsmjBWFI/AAAAAAAD94k/c_O-WcCEhrw/s640/Caffenol%2520%252334%2520-Diana%2520-%2520010.jpg
 ---
 
-|  [![](https://lh5.googleusercontent.com/-MzJnR7_51wE/UpFdsmjBWFI/AAAAAAAD94k/c_O-WcCEhrw/s640/Caffenol%2520%252334%2520-Diana%2520-%2520010.jpg)](https://photos.app.goo.gl/H9p32o7iprgjT2CHA)  |
+|  [![Músic barbut amb ulleres i auriculars toca la guitarra elèctrica davant d'un micròfon en un escenari fosc.](https://lh5.googleusercontent.com/-MzJnR7_51wE/UpFdsmjBWFI/AAAAAAAD94k/c_O-WcCEhrw/s640/Caffenol%2520%252334%2520-Diana%2520-%2520010.jpg)](https://photos.app.goo.gl/H9p32o7iprgjT2CHA)  |
 | --- |
 | De [Caffenol #34 - Diana + Lente Premium de Cristal Diana+ 75mm - Lady Grey 400 – Dusan Jevtovic](https://photos.app.goo.gl/H9p32o7iprgjT2CHA) |
 

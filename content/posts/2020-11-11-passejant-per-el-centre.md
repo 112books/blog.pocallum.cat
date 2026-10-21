@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2020/10/2020-11-11-032.j
 image: https://lh3.googleusercontent.com/pw/ACtC-3f9TO_x-QOMdW9fs0PsdyswLxJ3MBC44jXinq5rsJRc_Z-KLKDtORFQLADTxlIJMnEGfPMg2DbZ0TQShnYotp2nvZhH_1XccRpKQrLv_Ths16hDxC-LRnM9xnIrWabU39KUNUcQVV5qCuH2vgUCMibSEw=w1703-h1049-no?authuser=0
 ---
 
-[![](https://lh3.googleusercontent.com/pw/ACtC-3f9TO_x-QOMdW9fs0PsdyswLxJ3MBC44jXinq5rsJRc_Z-KLKDtORFQLADTxlIJMnEGfPMg2DbZ0TQShnYotp2nvZhH_1XccRpKQrLv_Ths16hDxC-LRnM9xnIrWabU39KUNUcQVV5qCuH2vgUCMibSEw=w1703-h1049-no?authuser=0)](https://photos.app.goo.gl/RgYQitSpQmQbc1sv6)
+[![Un alt gratacel de finestres rectangulars vist des de baix entre les branques dels arbres.](https://lh3.googleusercontent.com/pw/ACtC-3f9TO_x-QOMdW9fs0PsdyswLxJ3MBC44jXinq5rsJRc_Z-KLKDtORFQLADTxlIJMnEGfPMg2DbZ0TQShnYotp2nvZhH_1XccRpKQrLv_Ths16hDxC-LRnM9xnIrWabU39KUNUcQVV5qCuH2vgUCMibSEw=w1703-h1049-no?authuser=0)](https://photos.app.goo.gl/RgYQitSpQmQbc1sv6)
 
 Leica M6 - Minitar 32 f/2.8 - PanF+

@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2014/12/672906.jpg
 image: https://lh6.googleusercontent.com/-GkwKk4q88w4/VKP7KhSs-DI/AAAAAAAEiFc/TOwb4Bk_u4c/s640/672906.jpg
 ---
 
-|  [![](https://lh6.googleusercontent.com/-GkwKk4q88w4/VKP7KhSs-DI/AAAAAAAEiFc/TOwb4Bk_u4c/s640/672906.jpg)](https://photos.app.goo.gl/cdJNFK7XfDbyBS4A6)  |
+|  [![Una dona gran i un noi jove, ajupits al bosc, somriuen amb cistelles plenes de bolets collits.](https://lh6.googleusercontent.com/-GkwKk4q88w4/VKP7KhSs-DI/AAAAAAAEiFc/TOwb4Bk_u4c/s640/672906.jpg)](https://photos.app.goo.gl/cdJNFK7XfDbyBS4A6)  |
 | --- |
 | De [6729 - Pentax K1000 - LomoChrome](https://photos.app.goo.gl/cdJNFK7XfDbyBS4A6) |

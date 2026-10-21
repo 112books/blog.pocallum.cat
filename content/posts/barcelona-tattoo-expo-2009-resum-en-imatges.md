@@ -10,7 +10,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_1640-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_1640-1024x682.jpg
 ---
 
-![](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_1640-1024x682.jpg)
+![Home calb amb ulleres de sol i un tatuatge de flames al coll, de perfil davant d'un edifici de maó a Barcelona.](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_1640-1024x682.jpg)
 
 Totes les galeries de la Barcelona Tattoo Expo 2009 ([www.barcelonatattooexpo.com](http://www.barcelonatattooexpo.com))
 

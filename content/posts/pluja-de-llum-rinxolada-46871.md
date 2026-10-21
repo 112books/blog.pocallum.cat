@@ -10,4 +10,4 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/01/Pluja-de-llum-ri
 image: https://blog.pocallum.cat/wp-content/uploads/2012/01/Pluja-de-llum-rinxolada.jpg
 ---
 
-![](https://blog.pocallum.cat/wp-content/uploads/2012/01/Pluja-de-llum-rinxolada.jpg)
+![Rastres de llum blanca i taronja dibuixen formes ondulades en la foscor d'un espectacle nocturn a Barcelona.](https://blog.pocallum.cat/wp-content/uploads/2012/01/Pluja-de-llum-rinxolada.jpg)

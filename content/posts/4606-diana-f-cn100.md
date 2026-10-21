@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2014/10/4606-Diana-F-CN1
 image: https://lh3.googleusercontent.com/-ABqhBV5Hn94/VCwyC7wTAvI/AAAAAAAEV-g/N3HzSkUaMwI/s640/4606%2520-%2520Diana%2520F%2520-%2520CN100%2520-001.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-ABqhBV5Hn94/VCwyC7wTAvI/AAAAAAAEV-g/N3HzSkUaMwI/s640/4606%2520-%2520Diana%2520F%2520-%2520CN100%2520-001.jpg)](https://photos.app.goo.gl/gCcwbzVGmSZyxgJw7)  |
+|  [![Una gran noria blanca presideix un parc d'atraccions amb parades de colors i gratacels moderns al fons.](https://lh3.googleusercontent.com/-ABqhBV5Hn94/VCwyC7wTAvI/AAAAAAAEV-g/N3HzSkUaMwI/s640/4606%2520-%2520Diana%2520F%2520-%2520CN100%2520-001.jpg)](https://photos.app.goo.gl/gCcwbzVGmSZyxgJw7)  |
 | --- |
 | De [4606 - Diana F - CN100](https://photos.app.goo.gl/gCcwbzVGmSZyxgJw7) |

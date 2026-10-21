@@ -14,6 +14,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/09/IMG_4888.jpg
 image: https://lh4.googleusercontent.com/-FcjlmaTHXf0/UFICHjaroAI/AAAAAAADTwg/88X_87FlWmo/s800/IMG_4888.jpg
 ---
 
-|  [![](https://lh4.googleusercontent.com/-FcjlmaTHXf0/UFICHjaroAI/AAAAAAADTwg/88X_87FlWmo/s800/IMG_4888.jpg)](https://photos.app.goo.gl/iETHYSk9N6pHGzGP6)  |
+|  [![Vista panoràmica de Barcelona amb la ciutat estesa sota un cel immens amb núvols i clarianes blaves.](https://lh4.googleusercontent.com/-FcjlmaTHXf0/UFICHjaroAI/AAAAAAADTwg/88X_87FlWmo/s800/IMG_4888.jpg)](https://photos.app.goo.gl/iETHYSk9N6pHGzGP6)  |
 | --- |
 | De [Vistes de Barcelona - Torre baró](https://photos.app.goo.gl/iETHYSk9N6pHGzGP6) |

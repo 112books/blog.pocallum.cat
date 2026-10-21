@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2014/03/KD09-Bronica-011
 image: https://lh6.googleusercontent.com/-GduTJdzqs3U/UxkLdxu96qI/AAAAAAAEDiQ/_j_H5G8b4Wg/s640/KD%252309%2520-%2520Bronica%2520-%2520011.jpg
 ---
 
-|  [![](https://lh6.googleusercontent.com/-GduTJdzqs3U/UxkLdxu96qI/AAAAAAAEDiQ/_j_H5G8b4Wg/s640/KD%252309%2520-%2520Bronica%2520-%2520011.jpg)](https://photos.app.goo.gl/5x74HdieFifdy53R7)  |
+|  [![Persona jove amb cabells arrissats que es mira fixament i es toca el cap en un retrat en clarobscur.](https://lh6.googleusercontent.com/-GduTJdzqs3U/UxkLdxu96qI/AAAAAAAEDiQ/_j_H5G8b4Wg/s640/KD%252309%2520-%2520Bronica%2520-%2520011.jpg)](https://photos.app.goo.gl/5x74HdieFifdy53R7)  |
 | --- |
 | De [Kodak Dev#09 - Zenza Bronica ETRS - Rolley Retro 400](https://photos.app.goo.gl/5x74HdieFifdy53R7) |

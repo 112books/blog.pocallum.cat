@@ -10,7 +10,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2015/07/IMG_1079.jpg
 image: https://lh3.googleusercontent.com/-vSndgMlFIls/VaKIbUX2D-I/AAAAAAAEyNw/RmwAUspwNdQ/s640-Ic42/IMG_1079.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-vSndgMlFIls/VaKIbUX2D-I/AAAAAAAEyNw/RmwAUspwNdQ/s640-Ic42/IMG_1079.jpg)](https://photos.app.goo.gl/f3b6dqjnoV8msfCH7)  |
+|  [![Un home gran amb barret fosc i vestit clar somriu i allarga la mà cap al públic en un escenari fosc.](https://lh3.googleusercontent.com/-vSndgMlFIls/VaKIbUX2D-I/AAAAAAAEyNw/RmwAUspwNdQ/s640-Ic42/IMG_1079.jpg)](https://photos.app.goo.gl/f3b6dqjnoV8msfCH7)  |
 | --- |
 | De [FBB - Dissabte al Parc Central de 9 Barris](https://photos.app.goo.gl/f3b6dqjnoV8msfCH7) |
 

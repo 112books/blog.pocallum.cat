@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2015/10/DSCF1275.jpg
 image: https://lh3.googleusercontent.com/-JrFgVchbEHE/Vi5ujidG7dI/AAAAAAAE5rg/mF4qLt0cL2A/s640-Ic42/DSCF1275.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-JrFgVchbEHE/Vi5ujidG7dI/AAAAAAAE5rg/mF4qLt0cL2A/s640-Ic42/DSCF1275.jpg)](https://photos.app.goo.gl/Qdf6MuppZMPRQoYz9)  |
+|  [![Un grup de persones subjecta un plafó amb una imatge antiga de Montjuïc en un acte cultural.](https://lh3.googleusercontent.com/-JrFgVchbEHE/Vi5ujidG7dI/AAAAAAAE5rg/mF4qLt0cL2A/s640-Ic42/DSCF1275.jpg)](https://photos.app.goo.gl/Qdf6MuppZMPRQoYz9)  |
 | --- |
 | De [Homenatge a les Barraques de Montjuïc](https://photos.app.goo.gl/Qdf6MuppZMPRQoYz9) |

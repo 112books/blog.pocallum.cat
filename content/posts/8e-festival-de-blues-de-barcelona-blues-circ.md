@@ -10,7 +10,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_9186-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_9186-1024x682.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_9186-1024x682.jpg)](https://photos.app.goo.gl/qDbrP8ZZz1rbjbuV6)
+[![Un grup de músics toca en directe en un escenari fosc, amb un home ajupit al tambor i altres companys darrere.](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_9186-1024x682.jpg)](https://photos.app.goo.gl/qDbrP8ZZz1rbjbuV6)
 
 Blues de Circ, el títol de la proposta escènica creada conjuntament per artistes circenses formats a l’Escola de Circ Rogelio Rivel de Barcelona i el grup novell Huckleberry Finn, contactat a través de la Societat de Blues de Barcelona. Tots plegats han treballat orientats per l’experiència de l’internacional i veterà trio de pallassos Los Excéntricos, a la direcció de l’espectacle, i de Miriam Aparicio a la direcció musical, en la vessant artística, i per Francesc Marsellés i Menu Carvajal, en l’àmbit de producció.
 

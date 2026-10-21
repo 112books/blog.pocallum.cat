@@ -12,7 +12,7 @@ image: https://lh3.googleusercontent.com/pw/ACtC-3fGhJyqTqFB-MipVlHwwvInVv52lGKo
 
 <figure>
 
-[![](https://lh3.googleusercontent.com/pw/ACtC-3fGhJyqTqFB-MipVlHwwvInVv52lGKoDWbfHQuDrKvbAsWf98b-1Gn0olto_8yU6hNo2klugxwJInoA4xOCnVNfLG8SkKlFUVkuE-Mq8nBMJG3XHyTFkpE_9EzvVwMKSq6czq25Noy6Xv7n2GQnNtEuxA=w1253-h1247-no?authuser=0)](https://photos.app.goo.gl/JXMVxQ7YgDcojEL29)
+[![Una dona jove, amb brusa fosca, fa una ganyota i s'assenyala el cap amb el dit en un retrat en blanc i negre.](https://lh3.googleusercontent.com/pw/ACtC-3fGhJyqTqFB-MipVlHwwvInVv52lGKoDWbfHQuDrKvbAsWf98b-1Gn0olto_8yU6hNo2klugxwJInoA4xOCnVNfLG8SkKlFUVkuE-Mq8nBMJG3XHyTFkpE_9EzvVwMKSq6czq25Noy6Xv7n2GQnNtEuxA=w1253-h1247-no?authuser=0)](https://photos.app.goo.gl/JXMVxQ7YgDcojEL29)
 
 <figcaption>
 

@@ -10,4 +10,4 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2023/04/cartell-pinhole-
 image: https://blog.pocallum.cat/wp-content/uploads/2023/04/cartell-pinhole-day-2023-1024x724.png
 ---
 
-![](https://blog.pocallum.cat/wp-content/uploads/2023/04/cartell-pinhole-day-2023-1024x724.png)
+![Dues càmeres estenopeiques de metall en primer pla damunt una pedra, amb un paisatge rural en blanc i negre al fons.](https://blog.pocallum.cat/wp-content/uploads/2023/04/cartell-pinhole-day-2023-1024x724.png)

@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2015/04/900405JoanLomogr
 image: https://lh6.googleusercontent.com/-AuSQtNP_gzU/VS_7F9eTt-I/AAAAAAAEqtI/9wd17vHl0VI/s640/900405JoanLomography.jpg
 ---
 
-|  [![](https://lh6.googleusercontent.com/-AuSQtNP_gzU/VS_7F9eTt-I/AAAAAAAEqtI/9wd17vHl0VI/s640/900405JoanLomography.jpg)](https://photos.app.goo.gl/TBhAjaGxU4gTBdNv7)  |
+|  [![Dos cactus columnars espinosos destaquen en primer pla davant d'un cel blau amb palmeres desenfocades al fons.](https://lh6.googleusercontent.com/-AuSQtNP_gzU/VS_7F9eTt-I/AAAAAAAEqtI/9wd17vHl0VI/s640/900405JoanLomography.jpg)](https://photos.app.goo.gl/TBhAjaGxU4gTBdNv7)  |
 | --- |
 | De [Lomotaller "Día Mundial de la fotografía analógica"](https://photos.app.goo.gl/TBhAjaGxU4gTBdNv7) |

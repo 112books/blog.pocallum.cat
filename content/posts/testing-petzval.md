@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2014/11/IMG_5271.jpg
 image: https://lh5.googleusercontent.com/-AF8MAfQkij8/VGFFqWfmA9I/AAAAAAAEb30/dYtpu6tp5rY/s640/IMG_5271.jpg
 ---
 
-|  [![](https://lh5.googleusercontent.com/-AF8MAfQkij8/VGFFqWfmA9I/AAAAAAAEb30/dYtpu6tp5rY/s640/IMG_5271.jpg)](https://photos.app.goo.gl/yR6fdUDjoWUVouKL6)  |
+|  [![Retrat en blanc i negre d'una jove de cabells llargs que mira cap avall, pensativa, en un entorn desenfocat.](https://lh5.googleusercontent.com/-AF8MAfQkij8/VGFFqWfmA9I/AAAAAAAEb30/dYtpu6tp5rY/s640/IMG_5271.jpg)](https://photos.app.goo.gl/yR6fdUDjoWUVouKL6)  |
 | --- |
 | De [Testing Petzval](https://photos.app.goo.gl/yR6fdUDjoWUVouKL6) |

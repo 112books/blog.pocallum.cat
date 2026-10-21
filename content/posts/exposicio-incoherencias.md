@@ -10,7 +10,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2021/04/cover_2-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2021/04/cover_2.jpg
 ---
 
-![](https://blog.pocallum.cat/wp-content/uploads/2021/04/cover_2.jpg)
+![Un home ajupit remena entre les escombraries mentre un gran estol d'ocells vola al seu voltant.](https://blog.pocallum.cat/wp-content/uploads/2021/04/cover_2.jpg)
 
 _Incoherencias: una pequeña historia de lo absurdo_ és un intent per posar en comú els desitjos i plaers quotidians: la bona taula, el bon vi, converses interessants i com no, una determinada manera de fer fotografia. Passejos, viatges, el clima, la solitud i la gentada s'amunteguen generant experiències que modulen la nostra manera de veure. És un treball expressament negre, fosc, però no trist i encara que costi entrellucar la felicitat en les retorçades variacions d'aquest blanc i negre sense concessions, en l'esforç, en el recorregut de la seva lectura hi ha una certa promesa de satisfacció, a manera d'expiació, tal vegada?
 

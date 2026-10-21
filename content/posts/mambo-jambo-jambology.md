@@ -10,7 +10,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2016/05/IMG_2071.jpg
 image: https://lh3.googleusercontent.com/-qFwm3R6Wc9k/Vz5YLX7fbSI/AAAAAAAFK-k/RWKsh-DSZ6IMhduE6PUqR51B9GeeNYZ9gCCo/s640/IMG_2071.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-qFwm3R6Wc9k/Vz5YLX7fbSI/AAAAAAAFK-k/RWKsh-DSZ6IMhduE6PUqR51B9GeeNYZ9gCCo/s640/IMG_2071.jpg)](https://picasaweb.google.com/103138221614479310970/6286558661120194049?authuser=0&feat=embedwebsite)  |
+|  [![Un saxofonista, un contrabaixista i un bateria actuen en directe en un escenari fosc amb focus de llum.](https://lh3.googleusercontent.com/-qFwm3R6Wc9k/Vz5YLX7fbSI/AAAAAAAFK-k/RWKsh-DSZ6IMhduE6PUqR51B9GeeNYZ9gCCo/s640/IMG_2071.jpg)](https://picasaweb.google.com/103138221614479310970/6286558661120194049?authuser=0&feat=embedwebsite)  |
 | --- |
 | De [Mambo Jambo](https://picasaweb.google.com/103138221614479310970/6286558661120194049?authuser=0&feat=embedwebsite) |
 

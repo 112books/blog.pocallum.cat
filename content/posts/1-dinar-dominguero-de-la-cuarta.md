@@ -11,6 +11,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2011/02/IMG_2145.jpg
 image: https://lh5.googleusercontent.com/_xYdsA1KqJRQ/TWr0cgvUFZI/AAAAAAACEAE/sjZB0OKG1-w/s640/IMG_2145.jpg
 ---
 
-|  [![](https://lh5.googleusercontent.com/_xYdsA1KqJRQ/TWr0cgvUFZI/AAAAAAACEAE/sjZB0OKG1-w/s640/IMG_2145.jpg)](https://photos.app.goo.gl/Evmrz6mSLa8yy5BW9)  |
+|  [![Grup de persones dinant al voltant d'una taula llarga en un pati amb parets plenes de grafitis.](https://lh5.googleusercontent.com/_xYdsA1KqJRQ/TWr0cgvUFZI/AAAAAAACEAE/sjZB0OKG1-w/s640/IMG_2145.jpg)](https://photos.app.goo.gl/Evmrz6mSLa8yy5BW9)  |
 | --- |
 | De [1ª Dinar dominguero de "la Cuarta"!! 27-02-11](https://photos.app.goo.gl/Evmrz6mSLa8yy5BW9) |

@@ -13,6 +13,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2011/10/IMG_8450.jpg
 image: https://lh6.googleusercontent.com/-7aYlKq90tH4/To3wmBfgmnI/AAAAAAACWqo/4ZSewfE3CMQ/s640/IMG_8450.jpg
 ---
 
-|  [![](https://lh6.googleusercontent.com/-7aYlKq90tH4/To3wmBfgmnI/AAAAAAACWqo/4ZSewfE3CMQ/s640/IMG_8450.jpg)](https://photos.app.goo.gl/WeD5PupuqrXYkuh47)  |
+|  [![Una noia amb ulleres de sol i camisa de quadres està estirada sobre una superfície blanca en un interior.](https://lh6.googleusercontent.com/-7aYlKq90tH4/To3wmBfgmnI/AAAAAAACWqo/4ZSewfE3CMQ/s640/IMG_8450.jpg)](https://photos.app.goo.gl/WeD5PupuqrXYkuh47)  |
 | --- |
 | De [Barcelona Tattoo Expo 2011 - Domi](https://picasaweb.google.com/linuxbcn/BarcelonaTattooExpo2011Domingo?authuser=0&feat=embedwebsite)[ngo](https://photos.app.goo.gl/WeD5PupuqrXYkuh47) |

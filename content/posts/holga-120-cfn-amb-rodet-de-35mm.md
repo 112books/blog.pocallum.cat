@@ -14,7 +14,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/11/8563-holga-35mm-
 image: https://lh6.googleusercontent.com/-RPNeItjtONg/UJVGCW3b0rI/AAAAAAADa1U/3XisxtupWF4/s800/8563-holga%252035mm%2520-002.jpg
 ---
 
-|  [![](https://lh6.googleusercontent.com/-RPNeItjtONg/UJVGCW3b0rI/AAAAAAADa1U/3XisxtupWF4/s800/8563-holga%252035mm%2520-002.jpg)](https://photos.app.goo.gl/Wbg4nqpcq4kZ2xjp8)  |
+|  [![Muntanyes boscoses sota un cel núvol, emmarcades per les perforacions d'una tira de negatiu fotogràfic.](https://lh6.googleusercontent.com/-RPNeItjtONg/UJVGCW3b0rI/AAAAAAADa1U/3XisxtupWF4/s800/8563-holga%252035mm%2520-002.jpg)](https://photos.app.goo.gl/Wbg4nqpcq4kZ2xjp8)  |
 | --- |
 | De [Holga 120 CFN amb rodet de 35mm](https://photos.app.goo.gl/Wbg4nqpcq4kZ2xjp8) |
 

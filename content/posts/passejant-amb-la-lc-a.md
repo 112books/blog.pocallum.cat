@@ -10,7 +10,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2023/09/2023-09-Soltes-B
 image: https://blog.pocallum.cat/wp-content/uploads/2023/09/2023-09-Soltes-B-LCA-Foma100-0021-1024x620.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2023/09/2023-09-Soltes-B-LCA-Foma100-0021-1024x620.jpg)](https://photos.app.goo.gl/6WgYVsa2M1zybdj18)
+[![Un noi d'esquena amb samarreta i una noia asseguda conversen en un entorn urbà amb arbres i edificis al fons.](https://blog.pocallum.cat/wp-content/uploads/2023/09/2023-09-Soltes-B-LCA-Foma100-0021-1024x620.jpg)](https://photos.app.goo.gl/6WgYVsa2M1zybdj18)
 
 M'encanta caminar. M'encanta fer fotos. Si sumem això a sentir bona música, passen coses.
 

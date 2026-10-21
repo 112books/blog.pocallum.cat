@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2016/03/Joan02Lomography
 image: https://lh3.googleusercontent.com/-2Pp8ectNMDE/VtcOfOezgzI/AAAAAAAFBIA/yaTlHVkr7KQ/s640-Ic42/Joan02Lomography.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-2Pp8ectNMDE/VtcOfOezgzI/AAAAAAAFBIA/yaTlHVkr7KQ/s640-Ic42/Joan02Lomography.jpg)](https://photos.app.goo.gl/NsA3B3gsr6demweZA)  |
+|  [![Persona amb cabells rinxolats fent una foto amb càmera analògica en una plaça o passeig amb palmeres al fons.](https://lh3.googleusercontent.com/-2Pp8ectNMDE/VtcOfOezgzI/AAAAAAAFBIA/yaTlHVkr7KQ/s640-Ic42/Joan02Lomography.jpg)](https://photos.app.goo.gl/NsA3B3gsr6demweZA)  |
 | --- |
 | De [LomoTaller revelat en Blanc i Negre](https://photos.app.goo.gl/NsA3B3gsr6demweZA) |

@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2014/09/382805.jpg
 image: https://lh6.googleusercontent.com/-IbhITmV8NTc/VAm5dwONm8I/AAAAAAAEUVE/q26Q9gyumH4/s640/382805.jpg
 ---
 
-|  [![](https://lh6.googleusercontent.com/-IbhITmV8NTc/VAm5dwONm8I/AAAAAAAEUVE/q26Q9gyumH4/s640/382805.jpg)](https://photos.app.goo.gl/KZra54LycrLx9mEz8)  |
+|  [![Vies de tren s'allunyen en perspectiva cap a un horitzó taronja, envoltades de vegetació seca i catenàries.](https://lh6.googleusercontent.com/-IbhITmV8NTc/VAm5dwONm8I/AAAAAAAEUVE/q26Q9gyumH4/s640/382805.jpg)](https://photos.app.goo.gl/KZra54LycrLx9mEz8)  |
 | --- |
 | De [3828 - Holga CFN - Redscale 100](https://photos.app.goo.gl/KZra54LycrLx9mEz8) |

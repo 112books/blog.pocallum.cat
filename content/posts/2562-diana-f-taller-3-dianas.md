@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2014/07/256209JoanLomogr
 image: https://lh3.googleusercontent.com/-WCPc7-LCns4/U9HyvyC6vTI/AAAAAAAEQTI/VMzzXcvYT5w/s640/256209JoanLomography.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-WCPc7-LCns4/U9HyvyC6vTI/AAAAAAAEQTI/VMzzXcvYT5w/s640/256209JoanLomography.jpg)](https://photos.app.goo.gl/bqRE6YDMUVnp3PXS9)  |
+|  [![Galeria d'un claustre gòtic amb voltes de creueria, columnes esveltes i arcs ogivals, il·luminada per la llum natural.](https://lh3.googleusercontent.com/-WCPc7-LCns4/U9HyvyC6vTI/AAAAAAAEQTI/VMzzXcvYT5w/s640/256209JoanLomography.jpg)](https://photos.app.goo.gl/bqRE6YDMUVnp3PXS9)  |
 | --- |
 | De [2562 - Diana F - Taller 3 Dianas](https://photos.app.goo.gl/bqRE6YDMUVnp3PXS9) |

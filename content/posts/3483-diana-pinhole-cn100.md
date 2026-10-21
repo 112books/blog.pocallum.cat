@@ -11,6 +11,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2014/08/3483-Diana-Pinho
 image: https://lh4.googleusercontent.com/-ZJcAHq6DX0c/U_7-O7tGoUI/AAAAAAAETQA/Xi93VBKdavs/s640/3483%2520-%2520Diana%2520Pinhole%2520-%2520CN100%2520-%2520005.jpg
 ---
 
-|  [![](https://lh4.googleusercontent.com/-ZJcAHq6DX0c/U_7-O7tGoUI/AAAAAAAETQA/Xi93VBKdavs/s640/3483%2520-%2520Diana%2520Pinhole%2520-%2520CN100%2520-%2520005.jpg)](https://photos.app.goo.gl/ExAsoeYNpnscJXTPA)  |
+|  [![Un camí de pedra puja cap a un edifici amb finestres, entre arbres, sota una llum lila i groga molt intensa.](https://lh4.googleusercontent.com/-ZJcAHq6DX0c/U_7-O7tGoUI/AAAAAAAETQA/Xi93VBKdavs/s640/3483%2520-%2520Diana%2520Pinhole%2520-%2520CN100%2520-%2520005.jpg)](https://photos.app.goo.gl/ExAsoeYNpnscJXTPA)  |
 | --- |
 | De [3483 - Diana Pinhole - CN100](https://photos.app.goo.gl/ExAsoeYNpnscJXTPA) |

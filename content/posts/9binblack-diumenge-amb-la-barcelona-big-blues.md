@@ -13,6 +13,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/02/IMG_7661.jpg
 image: https://lh6.googleusercontent.com/-h-Jea0ZEfLA/T0rMFUhSiZI/AAAAAAACkCo/CpIHnhCcMp4/s800/IMG_7661.jpg
 ---
 
-|  [![](https://lh6.googleusercontent.com/-h-Jea0ZEfLA/T0rMFUhSiZI/AAAAAAACkCo/CpIHnhCcMp4/s800/IMG_7661.jpg)](https://photos.app.goo.gl/qHBsD3s4Byq8GHnZ8)  |
+|  [![Músics d'una banda toquen en directe en un escenari fosc, amb un teclista d'esquena en primer pla i cables a terra.](https://lh6.googleusercontent.com/-h-Jea0ZEfLA/T0rMFUhSiZI/AAAAAAACkCo/CpIHnhCcMp4/s800/IMG_7661.jpg)](https://photos.app.goo.gl/qHBsD3s4Byq8GHnZ8)  |
 | --- |
 | De [9BinBlack - Diumenge amb la Barcelona Big Blues Band](https://photos.app.goo.gl/qHBsD3s4Byq8GHnZ8) |

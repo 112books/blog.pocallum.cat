@@ -26,7 +26,7 @@ description: "Descobreix el Tablao de Carmen al Poble Espanyol a través de la m
 title-seo: "Tablao de Carmen: un vespre amb el duende | Joan Linux"
 ---
 
-![](https://blog.pocallum.cat/wp-content/uploads/2026/02/L1540563-1024x683.jpg)
+![Una ballarina de flamenc amb vestit de lunars balla a l'escenari mentre una dona pica de mans i el públic mira.](https://blog.pocallum.cat/wp-content/uploads/2026/02/L1540563-1024x683.jpg)
 
 ## El _duende_ em persegueix!
 
@@ -42,17 +42,17 @@ El dijous 4 de febrer vaig arribar al Poble Espanyol sense conèixer ni l’espa
 
 * * *
 
-![](https://blog.pocallum.cat/wp-content/uploads/2026/02/L1540589-683x1024.jpg)
+![Dona ballant flamenc amb moviment intens en un local, amb públic assegut al fons.](https://blog.pocallum.cat/wp-content/uploads/2026/02/L1540589-683x1024.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2026/02/L1540432-1-683x1024.jpg)
+![Home d'esquena en primer pla en un escenari amb una dona asseguda amb vestit de volants i un guitarrista a l'esquerra.](https://blog.pocallum.cat/wp-content/uploads/2026/02/L1540432-1-683x1024.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2026/02/L1540383-683x1024.jpg)
+![Una ballarina de flamenc amb vestit de volants balla en un tablao mentre un home assegut l'observa i aplaudeix.](https://blog.pocallum.cat/wp-content/uploads/2026/02/L1540383-683x1024.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2026/02/L1540559-683x1024.jpg)
+![Dona ballant flamenc amb un vestit de lunars en un escenari amb públic assegut.](https://blog.pocallum.cat/wp-content/uploads/2026/02/L1540559-683x1024.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2026/02/L1540479-683x1024.jpg)
+![Un home balla flamenc amb els braços enlaire davant d'unes dones de vestits de lunars en un tablao.](https://blog.pocallum.cat/wp-content/uploads/2026/02/L1540479-683x1024.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2026/02/L1540548-683x1024.jpg)
+![Una ballarina de flamenc amb un vestit de lunars balla amb els braços enlaire davant d'un públic assegut en un local.](https://blog.pocallum.cat/wp-content/uploads/2026/02/L1540548-683x1024.jpg)
 
 ### **El primer passe**
 

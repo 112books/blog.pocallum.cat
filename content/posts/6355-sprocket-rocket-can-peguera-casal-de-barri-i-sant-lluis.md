@@ -15,6 +15,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/12/6355-SprR-CN800-
 image: https://lh6.googleusercontent.com/-IR63eXK-scA/UqjhHPRdXNI/AAAAAAAD-ag/o113O0u8-nM/s800/6355%2520-%2520SprR%2520-%2520CN800%2520-%2520%2520001.jpg
 ---
 
-|  [![](https://lh6.googleusercontent.com/-IR63eXK-scA/UqjhHPRdXNI/AAAAAAAD-ag/o113O0u8-nM/s800/6355%2520-%2520SprR%2520-%2520CN800%2520-%2520%2520001.jpg)](https://photos.app.goo.gl/8YcvuTe63d8ixD8z9)  |
+|  [![Carrer fosc de nit amb un fanal encès, un edifici blanc al fons i el marc del negatiu fotogràfic visible.](https://lh6.googleusercontent.com/-IR63eXK-scA/UqjhHPRdXNI/AAAAAAAD-ag/o113O0u8-nM/s800/6355%2520-%2520SprR%2520-%2520CN800%2520-%2520%2520001.jpg)](https://photos.app.goo.gl/8YcvuTe63d8ixD8z9)  |
 | --- |
 | De [6355 - Sprocket Rocket - CN800](https://photos.app.goo.gl/8YcvuTe63d8ixD8z9) |

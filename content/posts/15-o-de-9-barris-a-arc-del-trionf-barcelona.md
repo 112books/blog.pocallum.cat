@@ -14,6 +14,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2011/10/IMG_6898.jpg
 image: https://lh3.googleusercontent.com/-Lqvligy_t5w/Tpr5QqOiCFI/AAAAAAACZG8/QGIyH1d7mIA/s800/IMG_6898.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-Lqvligy_t5w/Tpr5QqOiCFI/AAAAAAACZG8/QGIyH1d7mIA/s800/IMG_6898.jpg)](https://photos.app.goo.gl/yxTJLx8gX1bjUb6d6)  |
+|  [![Un home d'esquena aixeca un gran cartell reivindicatiu davant d'una multitud en un carrer de Barcelona.](https://lh3.googleusercontent.com/-Lqvligy_t5w/Tpr5QqOiCFI/AAAAAAACZG8/QGIyH1d7mIA/s800/IMG_6898.jpg)](https://photos.app.goo.gl/yxTJLx8gX1bjUb6d6)  |
 | --- |
 | De [15-O, de 9 Barris a Arc del Trionf (Barcelona)](https://photos.app.goo.gl/yxTJLx8gX1bjUb6d6) |

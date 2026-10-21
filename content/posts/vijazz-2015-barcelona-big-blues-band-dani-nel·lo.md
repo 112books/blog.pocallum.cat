@@ -16,7 +16,7 @@ description: "Barcelona Big Blues Band i Dani Nel·lo al ViJazz 2015 a Rambla Vi
 title-seo: "ViJazz 2015: Barcelona Big Blues Band + Dani Nel·lo | Vilafranca"
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2015/07/IMG_8613-1024x682.jpg)](https://photos.app.goo.gl/7SubrBqkqzdPGHEG7)
+[![Un home de blanc toca amb passió el contrabaix en un escenari fosc il·luminat amb llums blaves.](https://blog.pocallum.cat/wp-content/uploads/2015/07/IMG_8613-1024x682.jpg)](https://photos.app.goo.gl/7SubrBqkqzdPGHEG7)
 
 La **[Barcelona Big Blues Band](https://barcelonabigbluesband.com/)** va deixar el públic bocadat amb la seva actuació a la Rambla de Vilafranca del Penedès durant el **ViJazz 2015**. L'espectacle, que va comptar amb la col·laboració especial de **Dani Nel·lo**, va ser tot un punt d'inflexió en el festival.
 

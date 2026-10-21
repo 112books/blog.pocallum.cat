@@ -32,10 +32,10 @@ Amb una tècnica que evoca l’estètica “_are, bure, boke_” (gra, desenfoca
 
 No et perdis aquesta obra que desafia les convencions i obre un diàleg necessari sobre la nostra convivència amb els gossos. “_I wanna be your dog_” estarà disponible en format digital aquesta mateixa setmana. Prepara’t per veure Barcelona i els seus habitants canins com mai els havies vist!
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/10/I-wanna-be-your-Dog-001-1024x640.png)](https://blog.pocallum.cat/wp-content/uploads/2024/10/I-wanna-be-your-Dog-001.png)
+[![Un gos negre passeja per una vorera de llambordes amb tapes de clavegueram a Barcelona, seguit d'un altre de blanc.](https://blog.pocallum.cat/wp-content/uploads/2024/10/I-wanna-be-your-Dog-001-1024x640.png)](https://blog.pocallum.cat/wp-content/uploads/2024/10/I-wanna-be-your-Dog-001.png)
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/10/I-wanna-be-your-Dog-002-1024x641.png)](https://blog.pocallum.cat/wp-content/uploads/2024/10/I-wanna-be-your-Dog-002.png)
+[![Les cames d'una persona i un gos blanc es creuen en moviment sobre un paviment de rajoles desenfocat.](https://blog.pocallum.cat/wp-content/uploads/2024/10/I-wanna-be-your-Dog-002-1024x641.png)](https://blog.pocallum.cat/wp-content/uploads/2024/10/I-wanna-be-your-Dog-002.png)
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/10/I-wanna-be-your-Dog-003-1024x640.png)](https://blog.pocallum.cat/wp-content/uploads/2024/10/I-wanna-be-your-Dog-003.png)
+[![Una persona de texans passeja un gos negre lligat amb corretja per un terra de llambordes.](https://blog.pocallum.cat/wp-content/uploads/2024/10/I-wanna-be-your-Dog-003-1024x640.png)](https://blog.pocallum.cat/wp-content/uploads/2024/10/I-wanna-be-your-Dog-003.png)
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/10/I-wanna-be-your-Dog-004-1024x641.png)](https://blog.pocallum.cat/wp-content/uploads/2024/10/I-wanna-be-your-Dog-004.png)
+[![Una persona passeja un gos blanc i negre amb una corretja llarga per un carrer asfaltat amb arbres i un cotxe blanc.](https://blog.pocallum.cat/wp-content/uploads/2024/10/I-wanna-be-your-Dog-004-1024x641.png)](https://blog.pocallum.cat/wp-content/uploads/2024/10/I-wanna-be-your-Dog-004.png)

@@ -11,6 +11,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_8070.jpg
 image: https://lh6.googleusercontent.com/-2pagaG4pp5w/TyWZcTTHbCI/AAAAAAAChXw/4JX7hVIsNE0/s800/IMG_8070.jpg
 ---
 
-|  [![](https://lh6.googleusercontent.com/-2pagaG4pp5w/TyWZcTTHbCI/AAAAAAAChXw/4JX7hVIsNE0/s800/IMG_8070.jpg)](https://photos.app.goo.gl/RFR7kPJgUxZEmNoi6)  |
+|  [![Una torre elèctrica d'alta tensió s'enlaira cap al cel blau de Barcelona amb núvols prims.](https://lh6.googleusercontent.com/-2pagaG4pp5w/TyWZcTTHbCI/AAAAAAAChXw/4JX7hVIsNE0/s800/IMG_8070.jpg)](https://photos.app.goo.gl/RFR7kPJgUxZEmNoi6)  |
 | --- |
 | De [Passeig per Torre Baró](https://photos.app.goo.gl/RFR7kPJgUxZEmNoi6) |

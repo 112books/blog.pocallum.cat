@@ -10,6 +10,6 @@ tags: []
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_4187-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_4187.jpg
 ---
-![](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_4187.jpg)
+![Siluetes de grans sitges i xemeneies industrials al costat d'una carretera amb fanals, sota un cel blau clar.](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_4187.jpg)
 
 [Totes les fotos](https://photos.app.goo.gl/ReBQdtxSgVc4Trqu9)

@@ -12,7 +12,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2022/02/bratia-683x1024.jpg
 
 <figure>
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2022/02/bratia-683x1024.jpg)](https://photos.app.goo.gl/5swisFscUNmAJCZ69)
+[![Tres joves músics treballen al voltant d'una taula de mescles en un estudi de gravació.](https://blog.pocallum.cat/wp-content/uploads/2022/02/bratia-683x1024.jpg)](https://photos.app.goo.gl/5swisFscUNmAJCZ69)
 
 <figcaption>
 

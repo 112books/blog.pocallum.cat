@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2015/09/156431-LC-a120-f
 image: https://lh3.googleusercontent.com/-Q_FZhZrX7zI/VehMpr2rxEI/AAAAAAAE1hs/ZFeLKHMO9Qs/s640-Ic42/156431%252520-%252520LC-a120%252520-%252520fujid007.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-Q_FZhZrX7zI/VehMpr2rxEI/AAAAAAAE1hs/ZFeLKHMO9Qs/s640-Ic42/156431%252520-%252520LC-a120%252520-%252520fujid007.jpg)](https://photos.app.goo.gl/TXaWhexn67eZsep56)  |
+|  [![Prats verds amb una tanca de filferro en primer pla, un petit poble al fons i muntanyes sota un cel blau amb núvols.](https://lh3.googleusercontent.com/-Q_FZhZrX7zI/VehMpr2rxEI/AAAAAAAE1hs/ZFeLKHMO9Qs/s640-Ic42/156431%252520-%252520LC-a120%252520-%252520fujid007.jpg)](https://photos.app.goo.gl/TXaWhexn67eZsep56)  |
 | --- |
 | De [156431 - LC-A 120 - Fuji Provia](https://photos.app.goo.gl/TXaWhexn67eZsep56) |

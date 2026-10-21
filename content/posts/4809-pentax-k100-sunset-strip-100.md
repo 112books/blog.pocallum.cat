@@ -13,6 +13,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/10/4809-K1000-sunse
 image: https://lh6.googleusercontent.com/-TYE5Glrm4VI/Ul8W0QmRvzI/AAAAAAAD7s8/811YiMCr0TM/s640/4809%2520-%2520K1000%2520-%2520sunset%2520-011.jpg
 ---
 
-|  [![](https://lh6.googleusercontent.com/-TYE5Glrm4VI/Ul8W0QmRvzI/AAAAAAAD7s8/811YiMCr0TM/s640/4809%2520-%2520K1000%2520-%2520sunset%2520-011.jpg)](https://photos.app.goo.gl/oiQ18VzCtaBJLXnU6)  |
+|  [![Una persona jove amb jaqueta verda descansa amb els ulls tancats recolzada en una paret blava.](https://lh6.googleusercontent.com/-TYE5Glrm4VI/Ul8W0QmRvzI/AAAAAAAD7s8/811YiMCr0TM/s640/4809%2520-%2520K1000%2520-%2520sunset%2520-011.jpg)](https://photos.app.goo.gl/oiQ18VzCtaBJLXnU6)  |
 | --- |
 | De [4809 - Pentax K100 - Sunset Strip 100](https://photos.app.goo.gl/oiQ18VzCtaBJLXnU6) |

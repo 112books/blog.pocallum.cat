@@ -35,7 +35,7 @@ description: "Un viatge fotogràfic per les Guilleries amb Manel Sala “Ulls”
 title-seo: "‘Boix is dead’: escapada fotogràfica a les Guilleries"
 ---
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/10/L1520650-1024x576.jpg)
+![Branques seques i arbustos en primer pla amb vistes a un paisatge de muntanya amb cingles i valls.](https://blog.pocallum.cat/wp-content/uploads/2025/10/L1520650-1024x576.jpg)
 
 _Així de malalts estàn els boix als voltants de Tavertet._
 

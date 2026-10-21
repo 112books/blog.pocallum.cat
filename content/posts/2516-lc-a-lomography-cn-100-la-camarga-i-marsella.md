@@ -16,6 +16,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/08/2516-LC-A-CN100-
 image: https://lh3.googleusercontent.com/-5vQTMgDkXLA/Uh6QDKEMreI/AAAAAAAD3_Q/-Tb3j7Pn7qk/s640/2516%2520-%2520LC-A%2520-%2520CN100%2520-%2520029.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-5vQTMgDkXLA/Uh6QDKEMreI/AAAAAAAD3_Q/-Tb3j7Pn7qk/s640/2516%2520-%2520LC-A%2520-%2520CN100%2520-%2520029.jpg)](https://photos.app.goo.gl/vpX2nUYFB46ts2Ve9)  |
+|  [![Primer pla d'un terra ondulat amb vistes a l'església de Santa Maria del Mar sota un cel blau clar.](https://lh3.googleusercontent.com/-5vQTMgDkXLA/Uh6QDKEMreI/AAAAAAAD3_Q/-Tb3j7Pn7qk/s640/2516%2520-%2520LC-A%2520-%2520CN100%2520-%2520029.jpg)](https://photos.app.goo.gl/vpX2nUYFB46ts2Ve9)  |
 | --- |
 | De [2516 - LC-A - Lomography CN 100](https://photos.app.goo.gl/vpX2nUYFB46ts2Ve9) |

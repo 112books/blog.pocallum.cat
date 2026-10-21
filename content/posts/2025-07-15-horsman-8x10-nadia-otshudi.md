@@ -28,7 +28,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2025/07/2025-07-15-Horsman8x
 description: "Descobreix la importància del procés i l’artesania darrere la fotografia en gran format amb la càmera Horsman 8x10, a través d’un retrat únic a la fotògrafa Nadia Otshudi, i el projecte “40 anys de Blues a Barcelona”."
 ---
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/07/2025-07-15-Horsman8x10-Foma100-Nadia-Otshudi-0001-806x1024.jpg)
+![Dona jove amb rastes recollides i braç tatuat, mirant-se pensativa amb la mà a l'espatlla, en un retrat d'estudi.](https://blog.pocallum.cat/wp-content/uploads/2025/07/2025-07-15-Horsman8x10-Foma100-Nadia-Otshudi-0001-806x1024.jpg)
 
 Fa més de cinc anys que exploro intensament les possibilitats d’aquesta fantàstica —i gegantina— càmera de gran format. No és una eina senzilla ni pràctica: requereix paciència i precisió, però l’impacte dels negatius que genera —8x10 polzades, o el que és el mateix, 20 x 25 centímetres— és simplement màgic. Sembla com si capturés més informació de la que l’ull mateix pot abastar.
 

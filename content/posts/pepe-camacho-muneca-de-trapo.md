@@ -14,7 +14,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2011/02/IMG_2057.jpg
 image: https://lh6.googleusercontent.com/_xYdsA1KqJRQ/TWm4PKwEMAI/AAAAAAACD9Y/XV79NIhHylw/s640/IMG_2057.jpg
 ---
 
-|  [![](https://lh6.googleusercontent.com/_xYdsA1KqJRQ/TWm4PKwEMAI/AAAAAAACD9Y/XV79NIhHylw/s640/IMG_2057.jpg)](https://photos.app.goo.gl/Gmvg6gZ4bAK6xiib7)  |
+|  [![Mans d'un percussionista en ple moviment tocant un cajón sota llums vermelles en un escenari fosc de concert.](https://lh6.googleusercontent.com/_xYdsA1KqJRQ/TWm4PKwEMAI/AAAAAAACD9Y/XV79NIhHylw/s640/IMG_2057.jpg)](https://photos.app.goo.gl/Gmvg6gZ4bAK6xiib7)  |
 | --- |
 | De [Pepe Camacho & Muñeca de Trapo](https://photos.app.goo.gl/Gmvg6gZ4bAK6xiib7) |
 

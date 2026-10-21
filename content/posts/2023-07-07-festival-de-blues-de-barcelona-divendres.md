@@ -20,7 +20,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2023/07/L1320425.jpg
 image: https://lh3.googleusercontent.com/pw/AIL4fc_4FgH0FQPMB6WaN1qekeZURQv4fGkAXi0ljWLzC06mC6jdS9FziJo6WL22wNElWMvbf8CxU1lUvZBQRTfFGgkuci0Qnabeca8GQVObodXBXwzeV4qmPsIksGO_J4l-mnljJ-a019Oqo15OFDzp2VfwSw=w1734-h975-s-no?authuser=0
 ---
 
-[![](https://lh3.googleusercontent.com/pw/AIL4fc_4FgH0FQPMB6WaN1qekeZURQv4fGkAXi0ljWLzC06mC6jdS9FziJo6WL22wNElWMvbf8CxU1lUvZBQRTfFGgkuci0Qnabeca8GQVObodXBXwzeV4qmPsIksGO_J4l-mnljJ-a019Oqo15OFDzp2VfwSw=w1734-h975-s-no?authuser=0)](https://photos.app.goo.gl/xH7SzpTtaVdgq1dN9)
+[![Un saxofonista calb actua en directe amb una guitarrista i un altre músic sota llums liles davant d'uns arcs de pedra.](https://lh3.googleusercontent.com/pw/AIL4fc_4FgH0FQPMB6WaN1qekeZURQv4fGkAXi0ljWLzC06mC6jdS9FziJo6WL22wNElWMvbf8CxU1lUvZBQRTfFGgkuci0Qnabeca8GQVObodXBXwzeV4qmPsIksGO_J4l-mnljJ-a019Oqo15OFDzp2VfwSw=w1734-h975-s-no?authuser=0)](https://photos.app.goo.gl/xH7SzpTtaVdgq1dN9)
 
 Primer dia d'actuacions a la XXI edició del Festival de Blues de Barcelona. A la seu del districte de Nou Barris amb les increïbles actuacions de:
 

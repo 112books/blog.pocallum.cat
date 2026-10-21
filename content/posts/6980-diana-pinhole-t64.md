@@ -11,6 +11,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2015/01/6980-DianaPinhol
 image: https://lh5.googleusercontent.com/-XAvxixK2ca8/VLRrKyO5TXI/AAAAAAAEiyg/BWoS0IG75cc/s640/6980-DianaPinhole-T64%2520-%2520011.jpg
 ---
 
-|  [![](https://lh5.googleusercontent.com/-XAvxixK2ca8/VLRrKyO5TXI/AAAAAAAEiyg/BWoS0IG75cc/s640/6980-DianaPinhole-T64%2520-%2520011.jpg)](https://photos.app.goo.gl/WRAS8weVuhJk1mLN7)  |
+|  [![Interior ruïnós amb terra de rajoles, parets escrostonades i sostre de bigues de fusta, obert a un pati exterior.](https://lh5.googleusercontent.com/-XAvxixK2ca8/VLRrKyO5TXI/AAAAAAAEiyg/BWoS0IG75cc/s640/6980-DianaPinhole-T64%2520-%2520011.jpg)](https://photos.app.goo.gl/WRAS8weVuhJk1mLN7)  |
 | --- |
 | De [6980 - Diana Pinhole - T64](https://photos.app.goo.gl/WRAS8weVuhJk1mLN7) |

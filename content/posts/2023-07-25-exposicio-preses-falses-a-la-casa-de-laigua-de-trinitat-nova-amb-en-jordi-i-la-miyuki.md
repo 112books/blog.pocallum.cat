@@ -16,7 +16,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2023/07/L1340015-1024x57
 image: https://blog.pocallum.cat/wp-content/uploads/2023/07/L1340015-1024x576.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2023/07/L1340015-1024x576.jpg)](https://photos.app.goo.gl/txbbcPdDfpqTmT4g7)
+[![Un home gran i una dona amb barret miren sorpresos cap a una finestra amb reixa en un espai cultural.](https://blog.pocallum.cat/wp-content/uploads/2023/07/L1340015-1024x576.jpg)](https://photos.app.goo.gl/txbbcPdDfpqTmT4g7)
 
 Avui he pogut quedar amb en [Jordi](https://www.instagram.com/gatillepisphoto/) i la [Miyuki](https://www.instagram.com/miyupixi/) per visitar l'Exposició "Preses Falses - 40 anys de Blues a Barcelona" que està a la Casa de l'Aigua de Trinitat Nova fins a finals de setembre (excepte l'agost que tanquen). A més hem pogut veure un xic tot el que s'hi fa en aquest centre museístic del meu barri, recomanable 200%.
 

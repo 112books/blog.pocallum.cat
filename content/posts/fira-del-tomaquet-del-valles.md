@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2015/07/IMG_8646.jpg
 image: https://lh3.googleusercontent.com/-2bCcixoODho/VbOcSSkzWOI/AAAAAAAEykY/fWa-HL3XL6Y/s640-Ic42/IMG_8646.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-2bCcixoODho/VbOcSSkzWOI/AAAAAAAEykY/fWa-HL3XL6Y/s640-Ic42/IMG_8646.jpg)](https://photos.app.goo.gl/jqWgo81z4wD81d8Q6)  |
+|  [![Una forquilla de fusta clavada en una tapa de tomàquet, damunt el full d'una degustació de tapes a Barcelona.](https://lh3.googleusercontent.com/-2bCcixoODho/VbOcSSkzWOI/AAAAAAAEykY/fWa-HL3XL6Y/s640-Ic42/IMG_8646.jpg)](https://photos.app.goo.gl/jqWgo81z4wD81d8Q6)  |
 | --- |
 | De [Fira del Tomàquet del Vallès](https://photos.app.goo.gl/jqWgo81z4wD81d8Q6) |

@@ -11,6 +11,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/03/L1420378.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2024/03/L1420378-1024x576.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/03/L1420378-1024x576.jpg)](https://photos.app.goo.gl/oFFf876hJGPy7cpu9)
+[![Una lent central reflecteix una figura borrosa en una estructura de fusta, en un espai amb prestatges plens de llibres.](https://blog.pocallum.cat/wp-content/uploads/2024/03/L1420378-1024x576.jpg)](https://photos.app.goo.gl/oFFf876hJGPy7cpu9)
 
 Fantàstic matí de [taller](https://www.instagram.com/explore/tags/taller/) de [Gran Format](https://www.instagram.com/explore/tags/granformat/) amb la vella [#woodycam](https://www.instagram.com/explore/tags/woodycam/) a [@lomography.embassy.barcelona](https://www.instagram.com/lomography.embassy.barcelona/). El millor els alumnes i les seves ganes d’aprendre. Aviat els resultats que han sigut espectaculars.

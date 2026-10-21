@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2015/11/335508JoanLomogr
 image: https://lh3.googleusercontent.com/-_v-py8MCTWw/VjTkg0dKUeI/AAAAAAAE5vU/qfKy7gspx-g/s640-Ic42/335508JoanLomography.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-_v-py8MCTWw/VjTkg0dKUeI/AAAAAAAE5vU/qfKy7gspx-g/s640-Ic42/335508JoanLomography.jpg)](https://photos.app.goo.gl/aumqds1CkmrqWXE39)  |
+|  [![? Sí. * Sense cometes ni claudàtors? Sí. * No copiar text? No n'hi ha. Fem una petita millora a la B per assegurar que cabia i era fluida:](https://lh3.googleusercontent.com/-_v-py8MCTWw/VjTkg0dKUeI/AAAAAAAE5vU/qfKy7gspx-g/s640-Ic42/335508JoanLomography.jpg)](https://photos.app.goo.gl/aumqds1CkmrqWXE39)  |
 | --- |
 | De [LomoTaller "No tengo ni idea" 24-10-2015](https://photos.app.goo.gl/aumqds1CkmrqWXE39) |

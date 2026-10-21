@@ -14,6 +14,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/04/IMG_2673.jpg
 image: https://lh6.googleusercontent.com/-pXOZ-yCKjBw/UWH1uXyvSVI/AAAAAAADovM/kBIKkedwghI/s640/IMG_2673.jpg
 ---
 
-|  [![](https://lh6.googleusercontent.com/-pXOZ-yCKjBw/UWH1uXyvSVI/AAAAAAADovM/kBIKkedwghI/s640/IMG_2673.jpg)](https://photos.app.goo.gl/NueFdv4AcKuU5xzRA)  |
+|  [![Públic assegut mirant una actuació teatral en un escenari exterior sota una carpa vermella amb banderins.](https://lh6.googleusercontent.com/-pXOZ-yCKjBw/UWH1uXyvSVI/AAAAAAADovM/kBIKkedwghI/s640/IMG_2673.jpg)](https://photos.app.goo.gl/NueFdv4AcKuU5xzRA)  |
 | --- |
 | De [Feria de Abril 2013 - diumenge](https://photos.app.goo.gl/NueFdv4AcKuU5xzRA) |

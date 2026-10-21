@@ -10,4 +10,4 @@ tags: []
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2020/07/2020-07-11-C-027.jpg
 image: https://lh3.googleusercontent.com/pw/ACtC-3dQbCWzz2d6TB0Dc6mwdUnlgbdxEbumHZwVG1qpTULvPYlToBzyuhZxCkLogrnnRR-OME2Mwz5V7AsvBATbRSjgTpRJu_fYOCfQwNuSbsBMOFQTudy0wNjccl8g2YIO6U820Y-QfRkxFE0CglLYriB8Ew=w1696-h1108-no?authuser=0
 ---
-[![](https://lh3.googleusercontent.com/pw/ACtC-3dQbCWzz2d6TB0Dc6mwdUnlgbdxEbumHZwVG1qpTULvPYlToBzyuhZxCkLogrnnRR-OME2Mwz5V7AsvBATbRSjgTpRJu_fYOCfQwNuSbsBMOFQTudy0wNjccl8g2YIO6U820Y-QfRkxFE0CglLYriB8Ew=w1696-h1108-no?authuser=0)](https://photos.app.goo.gl/fioQtFLN9M2ViJHc9)
+[![Un contrabaixista canta amb gran expressió mentre un saxofonista toca en un escenari fosc de club de jazz.](https://lh3.googleusercontent.com/pw/ACtC-3dQbCWzz2d6TB0Dc6mwdUnlgbdxEbumHZwVG1qpTULvPYlToBzyuhZxCkLogrnnRR-OME2Mwz5V7AsvBATbRSjgTpRJu_fYOCfQwNuSbsBMOFQTudy0wNjccl8g2YIO6U820Y-QfRkxFE0CglLYriB8Ew=w1696-h1108-no?authuser=0)](https://photos.app.goo.gl/fioQtFLN9M2ViJHc9)

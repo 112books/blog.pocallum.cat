@@ -26,7 +26,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2025/07/IMG_9133-1024x683.jp
 description: "Crònica i el resum fotogràfic del concert de Corto.Alto al Vijazz 2025, una proposta de jazz contemporani liderada per Liam Shortall que combina tradició, innovació i improvisació en directe a Vilafranca del Penedès."
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/07/IMG_9133-1024x683.jpg)](https://photos.app.goo.gl/tXT9fPis3n5bp5Py7)
+[![Un músic toca alhora el trombó i el baix elèctric en un escenari amb fum i llums de concert.](https://blog.pocallum.cat/wp-content/uploads/2025/07/IMG_9133-1024x683.jpg)](https://photos.app.goo.gl/tXT9fPis3n5bp5Py7)
 
 Dissabte, després del concert del [María Esteban Quartet](https://blog.pocallum.cat/2025/07/08/2025-07-05-vijazz-2025-maria-esteban-quintet/) al Claustre de Sant Francesc, vaig tornar ràpid cap a l’escenari principal per assegurar-me una bona posició i poder disparar als [Corto.Alto](https://www.cortoalto.com).
 

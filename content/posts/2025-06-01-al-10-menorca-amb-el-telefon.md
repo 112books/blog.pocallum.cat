@@ -22,7 +22,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2025/06/L1510323-1024x576.jp
 description: "Descobreix com el telèfon intel·ligent s’ha convertit en una eina imprescindible per al viatger i fotògraf: geolocalització, cronologia, panoràmiques, macro, fotometria i compartició d’imatges, tot en un mateix dispositiu."
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/06/L1510323-1024x576.jpg)](https://photos.app.goo.gl/Ns1SUgqBAMvaMz496)
+[![Un far blanc i negre s'alça sobre un penya-segat rocós amb el sol brillant al darrere.](https://blog.pocallum.cat/wp-content/uploads/2025/06/L1510323-1024x576.jpg)](https://photos.app.goo.gl/Ns1SUgqBAMvaMz496)
 
 Sóc usuari i apassionat amant de la fotografia química, la de tota la vida. També utilitzo càmeres digitals per treballar, però cada vegada més el telèfon intel·ligent s’ha convertit en un afegitó imprescindible.
 

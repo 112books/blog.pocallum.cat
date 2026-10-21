@@ -27,7 +27,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2024/11/L1500082-Mejorado-NR
 description: "Descobreix el futur de la música a Barcelona amb aquesta big band de joves talents peninsulars. Un concert espectacular a la Nau Bostik que demostra la qualitat i versatilitat d'aquests intèrprets formats a les escoles de música de la ciutat."
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/11/L1500082-Mejorado-NR-1024x576.jpg)](https://photos.app.goo.gl/bjBTgD4d72YGXbV86)
+[![Músics de jazz toquen el saxòfon i la trompeta en un escenari fosc durant un concert en directe.](https://blog.pocallum.cat/wp-content/uploads/2024/11/L1500082-Mejorado-NR-1024x576.jpg)](https://photos.app.goo.gl/bjBTgD4d72YGXbV86)
 
 Un any més, aquesta big band formada per joves talents de tota la península, ara assentats a Barcelona, ha ofert un concert espectacular a la [Nau Bostik](https://naubostik.com/esdeveniment/concert-·-oli-big-band/).
 

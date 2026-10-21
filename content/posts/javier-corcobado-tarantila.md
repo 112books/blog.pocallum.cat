@@ -19,7 +19,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_8245wtmk-1.j
 image: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_8245wtmk.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_8245wtmk.jpg)](https://photos.app.goo.gl/vjr96rgi4u7oqHyKA)
+[![Un home calb amb camisa fosca canta al micròfon en un escenari fosc il·luminat per un focus.](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_8245wtmk.jpg)](https://photos.app.goo.gl/vjr96rgi4u7oqHyKA)
 
 Bé, ahir al vespre vaig poder gaudir del ja clàssic [Javier Corcobado](https://javiercorcobado.eus/) i uns surrealistes Tarantula a la Sala Apolo. Javier Corcobado, músic, poeta i editor de somnis… Va oferir l'espectacle anomenat "Canciones Insolubles", una adaptació del recopilatori de les seves cançons del 1989 al 2006 editat per Dro. Els músics que l'acompanyen son:
 

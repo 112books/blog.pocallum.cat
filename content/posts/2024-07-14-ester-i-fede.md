@@ -12,6 +12,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/07/2024-07-14-Hasse
 image: https://blog.pocallum.cat/wp-content/uploads/2024/07/2024-07-14-Hassel-Fomapan-Ester-i-Federico-D-0006-1024x1024.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/07/2024-07-14-Hassel-Fomapan-Ester-i-Federico-D-0006-1024x1024.jpg)](https://photos.app.goo.gl/RRC9zHWPgctMqaqSA)
+[![Una dona i un home posen d'esquena l'un a l'altre, amb els braços creuats, davant d'un fons clar d'estudi.](https://blog.pocallum.cat/wp-content/uploads/2024/07/2024-07-14-Hassel-Fomapan-Ester-i-Federico-D-0006-1024x1024.jpg)](https://photos.app.goo.gl/RRC9zHWPgctMqaqSA)
 
 Per l'estudi han passat!

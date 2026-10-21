@@ -12,7 +12,7 @@ image: https://lh3.googleusercontent.com/pw/AM-JKLWLAWW2w4mwC-7AQZecaVjYnak4NOPP
 
 <figure>
 
-[![](https://lh3.googleusercontent.com/pw/AM-JKLWLAWW2w4mwC-7AQZecaVjYnak4NOPPxN6sCaYrRne7dXuYKQDWbJywMeXtujLhY6obuRYaA9UVRNRI2N2n0SV7SKjdC4l7YWEHrlSSkJKKG7OzBuGj5UwTgA8iStOVYJCOK0sqRBWctuZrFNBGY4v_cA=w1764-h1122-no?authuser=0)](https://photos.app.goo.gl/G1Wx6EqnQ3SvjXsk8)
+[![Un contrabaixista i un saxofonista actuen amb força en un concert de jazz fosc il·luminat per focusos.](https://lh3.googleusercontent.com/pw/AM-JKLWLAWW2w4mwC-7AQZecaVjYnak4NOPPxN6sCaYrRne7dXuYKQDWbJywMeXtujLhY6obuRYaA9UVRNRI2N2n0SV7SKjdC4l7YWEHrlSSkJKKG7OzBuGj5UwTgA8iStOVYJCOK0sqRBWctuZrFNBGY4v_cA=w1764-h1122-no?authuser=0)](https://photos.app.goo.gl/G1Wx6EqnQ3SvjXsk8)
 
 <figcaption>
 

@@ -22,7 +22,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2025/06/IMG_3389-768x1024.jp
 description: "Explora la biodiversitat de Menorca caminant pels seus camins i descobrint la seva rica flora i fauna, des de tortugues autòctones fins a orquídies silvestres i plantes endèmiques."
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/06/IMG_3389-768x1024.jpg)](https://photos.app.goo.gl/DSqXXZJ8vdKDP2Sp9)
+[![Plantes suculentes verdes creixen en forats d'una roca rugosa i clara sota la llum solar.](https://blog.pocallum.cat/wp-content/uploads/2025/06/IMG_3389-768x1024.jpg)](https://photos.app.goo.gl/DSqXXZJ8vdKDP2Sp9)
 
 _En aquesta fotografia podeu veure el poc conegut fonoll marí. Si se’n coneix l’ús, es pot preparar envinagrat per donar un toc especial a amanides o per acompanyar diversos plats._
 

@@ -13,6 +13,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/08/MG_7009.jpg
 image: https://lh4.googleusercontent.com/-dk45AosA9wc/Uf8JWHsEINI/AAAAAAAD2g8/_vkQEr54M5E/s640/_MG_7009.jpg
 ---
 
-|  [![](https://lh4.googleusercontent.com/-dk45AosA9wc/Uf8JWHsEINI/AAAAAAAD2g8/_vkQEr54M5E/s640/_MG_7009.jpg)](https://photos.app.goo.gl/JEjMUVHC74tUmeWs8)  |
+|  [![Una banda de jazz actua en un club fosc, amb un pianista assegut i músics tocant vents i contrabaix.](https://lh4.googleusercontent.com/-dk45AosA9wc/Uf8JWHsEINI/AAAAAAAD2g8/_vkQEr54M5E/s640/_MG_7009.jpg)](https://photos.app.goo.gl/JEjMUVHC74tUmeWs8)  |
 | --- |
 | De [Barcelona Big Blues Band amb Mike Sanchez](https://photos.app.goo.gl/JEjMUVHC74tUmeWs8) |

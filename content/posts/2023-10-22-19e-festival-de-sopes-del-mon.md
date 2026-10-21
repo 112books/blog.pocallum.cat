@@ -19,7 +19,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2023/10/IMG_7256-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2023/10/IMG_7256-1-1024x683.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2023/10/IMG_7256-1-1024x683.jpg)](https://photos.app.goo.gl/WxEyo3yvmsuMBYr57)
+[![Una dona beu d'un got de paper blanc enmig d'una multitud en un carrer de Barcelona.](https://blog.pocallum.cat/wp-content/uploads/2023/10/IMG_7256-1-1024x683.jpg)](https://photos.app.goo.gl/WxEyo3yvmsuMBYr57)
 
 19a edició del popular i genial Festival de Sopes del món mundial, organitzat per l'Associació 9 Barris Acull i la Xarxa d’Intercanvi de Coneixements.
 

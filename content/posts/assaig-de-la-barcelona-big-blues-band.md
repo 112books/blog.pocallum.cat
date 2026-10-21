@@ -12,7 +12,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2011/04/IMG_4433-1.jpg
 image: https://lh5.googleusercontent.com/_xYdsA1KqJRQ/TZ4D3yu74TI/AAAAAAACGEg/cqnxuQkzErw/s640/IMG_4433.jpg
 ---
 
-|  [![](https://lh5.googleusercontent.com/_xYdsA1KqJRQ/TZ4D3yu74TI/AAAAAAACGEg/cqnxuQkzErw/s640/IMG_4433.jpg)](https://photos.app.goo.gl/G1R1u1CNbJp27hRc9)  |
+|  [![Un home amb camiseta negra toca un contrabaix vermell en una sala d'assaig i assenyala amb la mà.](https://lh5.googleusercontent.com/_xYdsA1KqJRQ/TZ4D3yu74TI/AAAAAAACGEg/cqnxuQkzErw/s640/IMG_4433.jpg)](https://photos.app.goo.gl/G1R1u1CNbJp27hRc9)  |
 | --- |
 | De [Barcelona Big Blues Band - Assaig 07/04/11](https://photos.app.goo.gl/G1R1u1CNbJp27hRc9) |
 

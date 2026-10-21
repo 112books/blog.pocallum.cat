@@ -26,7 +26,7 @@ description: "Prospehell Metal Fest 2025 al Casal Joves Prosperitat: Homicidal F
 title-seo: "Prospehell Metal Fest 2025 Casal Joves Prosperitat'"
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/03/DSCF0272-1024x683.jpg)](https://photos.app.goo.gl/DYkXzwXFGRoUeG9u7)
+[![Joves en un concert fosc: una noia desenfocada en primer pla i un noi darrere, amb un focus de llum al fons.](https://blog.pocallum.cat/wp-content/uploads/2025/03/DSCF0272-1024x683.jpg)](https://photos.app.goo.gl/DYkXzwXFGRoUeG9u7)
 
 Aquest dissabte, intens dissabte, va tocar passar-se a lluir el pel (o la falta d'aquest en el meu cas) pel [Casal de Joves de Prosperitat](https://www.instagram.com/cjprospe/).
 

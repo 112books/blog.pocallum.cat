@@ -13,6 +13,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/04/2024-04-22-LM6-A
 image: https://blog.pocallum.cat/wp-content/uploads/2024/04/2024-04-22-LM6-APX400-Feria-de-Abril-graffiti-0029.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/04/2024-04-22-LM6-APX400-Feria-de-Abril-graffiti-0029.jpg)](https://photos.app.goo.gl/xXNchAMz2azDX2qP9)
+[![Un home d'esquena pinta un mural amb esprai sobre una paret, dret en una escala amb una bossa plena de llaunes al davant.](https://blog.pocallum.cat/wp-content/uploads/2024/04/2024-04-22-LM6-APX400-Feria-de-Abril-graffiti-0029.jpg)](https://photos.app.goo.gl/xXNchAMz2azDX2qP9)
 
 Instant del procés de creació d'una obra d'art urbà dins la @NauBostik

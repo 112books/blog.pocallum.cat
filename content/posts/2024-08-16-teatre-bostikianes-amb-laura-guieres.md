@@ -18,7 +18,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2024/08/L1470912-Mejorad
 image: https://blog.pocallum.cat/wp-content/uploads/2024/08/L1470912-Mejorado-NR-683x1024.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2024/08/L1470912-Mejorado-NR-683x1024.jpg)](https://photos.app.goo.gl/akGisexCVMyiiz3T7)
+[![Una dona amb ulleres seu en un escenari fosc al costat d'una gran titella d'àvia amb trenes i vestit negre.](https://blog.pocallum.cat/wp-content/uploads/2024/08/L1470912-Mejorado-NR-683x1024.jpg)](https://photos.app.goo.gl/akGisexCVMyiiz3T7)
 
 Ahir vaig tenir el gust de poder tornar a gaudir del teatre! Ara ja feia massa que no hi anba i això no pot ser. La companya de la Nau Bostik, la gran [Laura Guiteres](https://sites.google.com/view/produccions-maria-palomo/inici?authuser=0), va representar la obra teatro-musical Bostikianes. Encara no l'havia vist en aquest expectacle on, en aquesta part de la triologia, fa de cuidadora de la senyora Anna Maria Bòstik. Una persona gran a la que l'actriu i cantant Laura dona veu i, de quina manera maravellosa, li fa cantaar en viu alguns grans temes clàssics.  
 M'ho vaig passar pipa, ara ja tinc ganes de veure els dos espectacles que encara no he vist d'ella.

@@ -12,7 +12,7 @@ image: https://lh3.googleusercontent.com/pw/ACtC-3fjFEQL4niZfU1_n3Heq_iKPcjo-blk
 
 <figure>
 
-[![](https://lh3.googleusercontent.com/pw/ACtC-3fjFEQL4niZfU1_n3Heq_iKPcjo-blk4eC9nZHT20MfcEFazg2xQcsagpoM-9FfxLDRlYo-3NGGB8VCgDVXKQyUd2EW9uzccuGuEWwVSO789cnyrFSIou7Ckc2l5Uz2rPgAQ7azv7twq0i4lNhDv9R3CA=w780-h1246-no?authuser=0)](https://photos.app.goo.gl/CvsKbL5QFUomvCsV8)
+[![Un home observa un pont de pedra sobre un riu que reflecteix un edifici antic amb bastides.](https://lh3.googleusercontent.com/pw/ACtC-3fjFEQL4niZfU1_n3Heq_iKPcjo-blk4eC9nZHT20MfcEFazg2xQcsagpoM-9FfxLDRlYo-3NGGB8VCgDVXKQyUd2EW9uzccuGuEWwVSO789cnyrFSIou7Ckc2l5Uz2rPgAQ7azv7twq0i4lNhDv9R3CA=w780-h1246-no?authuser=0)](https://photos.app.goo.gl/CvsKbL5QFUomvCsV8)
 
 <figcaption>
 

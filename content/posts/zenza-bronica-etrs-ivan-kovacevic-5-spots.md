@@ -10,6 +10,6 @@ tags: []
 thumbnail: https://blog.pocallum.cat/wp-content/uploads/2014/04/7706-Bronica-CN400-014.jpg
 image: https://lh3.googleusercontent.com/-xJR_xGPr3Ic/U1qnvJG82xI/AAAAAAAEG7k/zdRIaIbxR0U/s640/7706%2520-%2520Bronica%2520-%2520CN400%2520-014.jpg
 ---
-|  [![](https://lh3.googleusercontent.com/-xJR_xGPr3Ic/U1qnvJG82xI/AAAAAAAEG7k/zdRIaIbxR0U/s640/7706%2520-%2520Bronica%2520-%2520CN400%2520-014.jpg)](https://photos.app.goo.gl/6LGwizJpyic9MsMs8)  |
+|  [![Cinc homes rient i gesticulant al voltant d'una taula amb begudes en un bar de parets vermelles.](https://lh3.googleusercontent.com/-xJR_xGPr3Ic/U1qnvJG82xI/AAAAAAAEG7k/zdRIaIbxR0U/s640/7706%2520-%2520Bronica%2520-%2520CN400%2520-014.jpg)](https://photos.app.goo.gl/6LGwizJpyic9MsMs8)  |
 | --- |
 | De [Zenza Bronica ETRS - Ivan Kovacevic 5 spots](https://photos.app.goo.gl/6LGwizJpyic9MsMs8) |

@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2013/03/IMG_9383.jpg
 image: https://lh4.googleusercontent.com/--VkW1THkOx4/UQ5tCG0t21I/AAAAAAADhjs/rv1KQ8kg2d8/s640/IMG_9383.jpg
 ---
 
-|  [![](https://lh4.googleusercontent.com/--VkW1THkOx4/UQ5tCG0t21I/AAAAAAADhjs/rv1KQ8kg2d8/s640/IMG_9383.jpg)](https://photos.app.goo.gl/EeE91HBuwzfvdYTB6)  |
+|  [![El baixista, el cantant i el guitarrista actuen en un escenari fosc amb llums circulars roses.](https://lh4.googleusercontent.com/--VkW1THkOx4/UQ5tCG0t21I/AAAAAAADhjs/rv1KQ8kg2d8/s640/IMG_9383.jpg)](https://photos.app.goo.gl/EeE91HBuwzfvdYTB6)  |
 | --- |
 | De [9BinBlack - Ateneu Popular 9 Barris - Combos Escola Blues- Vin Out - Marina BBface & The Beatroots](https://photos.app.goo.gl/EeE91HBuwzfvdYTB6) |

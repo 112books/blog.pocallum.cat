@@ -15,7 +15,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2023/10/L1360139-Mejorad
 image: https://blog.pocallum.cat/wp-content/uploads/2023/10/L1360139-Mejorado-NR-1024x576.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2023/10/L1360139-Mejorado-NR-1024x576.jpg)](https://photos.app.goo.gl/nFGsBDXDkdSvr26p8)
+[![Tres performers semidespullats equipats amb aparells sonors a la boca i al cap actuen en un escenari fosc.](https://blog.pocallum.cat/wp-content/uploads/2023/10/L1360139-Mejorado-NR-1024x576.jpg)](https://photos.app.goo.gl/nFGsBDXDkdSvr26p8)
 
 I en aquesta segona jornada del Festival Mixtur a la @NauBostik hem pogut gaudir d'[Ensemble Kompopolex](https://mixturbcn.com/es/programa-2023/ensemble-kompopolex), formació polonesa que amb la seva música performativa no deixa indiferent.
 

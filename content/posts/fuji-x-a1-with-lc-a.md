@@ -10,7 +10,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2015/08/DSCF8418.jpg
 image: https://lh3.googleusercontent.com/-xnwu2A5NExI/VeJIZE3UrfI/AAAAAAAE0h8/GALcPrXCtqY/s640-Ic42/DSCF8418.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-xnwu2A5NExI/VeJIZE3UrfI/AAAAAAAE0h8/GALcPrXCtqY/s640-Ic42/DSCF8418.jpg)](https://photos.app.goo.gl/1CKpaxdrgqz8q3oZ6)  |
+|  [![Una dona amb barret i ulleres de sol es toca la vora del barret davant del reflex d'un edifici clàssic barceloní.](https://lh3.googleusercontent.com/-xnwu2A5NExI/VeJIZE3UrfI/AAAAAAAE0h8/GALcPrXCtqY/s640-Ic42/DSCF8418.jpg)](https://photos.app.goo.gl/1CKpaxdrgqz8q3oZ6)  |
 | --- |
 | De [Fuji X-A1 with LC-A](https://photos.app.goo.gl/1CKpaxdrgqz8q3oZ6) |
 

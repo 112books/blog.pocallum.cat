@@ -30,7 +30,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2025/04/2025-04-19-LM6-Foma1
 description: "Una ruta espectacular pels Cingles de Tavertet i Sot de Balà, una travessa per la natura feréstega del Collsacabra amb vistes impressionants i fotografies analògiques."
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/04/2025-04-19-LM6-Foma100@400-Tavertet-2-0024-1024x613.jpg)](https://photos.app.goo.gl/PeN3CwLSuQzvACjB6)
+[![Un riu ample serpenteja al fons d'un congost envoltat de muntanyes boscoses i parets rocalloses.](https://blog.pocallum.cat/wp-content/uploads/2025/04/2025-04-19-LM6-Foma100@400-Tavertet-2-0024-1024x613.jpg)](https://photos.app.goo.gl/PeN3CwLSuQzvACjB6)
 
 Feu clic a la fotografia per veure les fotos fetes amb rodet.
 
@@ -48,7 +48,7 @@ La ruta que vam fer va ser més o menys aquesta que podeu veure a [ca.wikiloc.co
 
 Vam seguir en direcció al pic anomenat _Morro d’Abella_, tot vorejant els singles mentre pujàvem per corriols poc definits. Abans d’arribar-hi, vam haver de superar uns sortints pujant unes escales metàl·liques que algú ha instal·lat fermament. Gràcies, companys! Val a dir que per primera vegada vaig posar-me un arnès, ja que el tete no es refia de mi i ben fet que fa, impressiona molt enfilar-se per aquestes escales suspès al buit.
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/04/IMG_2273-1024x246.jpg)](https://photos.app.goo.gl/uCdXq79YD8nX1Bdf6)
+[![Àmplia vall boscosa envoltada de penya-segats, amb primer pla de roca vermellosa i cel blau.](https://blog.pocallum.cat/wp-content/uploads/2025/04/IMG_2273-1024x246.jpg)](https://photos.app.goo.gl/uCdXq79YD8nX1Bdf6)
 
 _Algunes més amb color fetes amb el temèfon  
 _
@@ -67,7 +67,7 @@ Ara que ja fa dos dies de l’aventura, encara tinc les cuixes ressentides amb p
 
 Si la voleu fer o alguna similar, recordeu **sempre** consultar el temps que farà i anar-hi ben equipats: aigua suficient, bon calçat, un telèfon per emergències amb bateria supletòria, prou menjar, una bossa per emportar-nos la brossa i, per descomptat, alguna andròmina per fer fotografies.
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/04/2025-04-19-LCa-Foma100@200-Varies-0034-1024x622.jpg)](https://photos.app.goo.gl/4aVzBV76nzcLzUCs6)
+[![Cames amb botes de muntanya descansen sobre una roca amb vistes a un congost profund amb un riu al fons.](https://blog.pocallum.cat/wp-content/uploads/2025/04/2025-04-19-LCa-Foma100@200-Varies-0034-1024x622.jpg)](https://photos.app.goo.gl/4aVzBV76nzcLzUCs6)
 
 _Algunes fotografies més amb la petita Lomo LC-a original_
 

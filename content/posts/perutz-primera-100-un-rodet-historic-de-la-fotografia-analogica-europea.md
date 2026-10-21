@@ -26,17 +26,17 @@ image: https://blog.pocallum.cat/wp-content/uploads/2025/05/2025-04-17-LM6-Perut
 description: "Experiència personal amb un rodet Perutz Primera 100, una pel·lícula analògica històrica d’origen alemany, popular als anys 80 i 90, i avui redescoberta per a experiments fotogràfics únics."
 ---
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/05/2025-04-17-LM6-PerutzPrimera100-varies-0002-1024x612.jpg)
+![Paisatge rural amb matolls en primer pla, camps de conreu i una línia d'arbres al fons sota un cel clar.](https://blog.pocallum.cat/wp-content/uploads/2025/05/2025-04-17-LM6-PerutzPrimera100-varies-0002-1024x612.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/05/2025-04-17-LM6-PerutzPrimera100-varies-0004-1024x622.jpg)
+![Camí de terra entre vinyes, amb una caseta i un cotxe blanc a l'esquerra i muntanyes al fons.](https://blog.pocallum.cat/wp-content/uploads/2025/05/2025-04-17-LM6-PerutzPrimera100-varies-0004-1024x622.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/05/2025-04-17-LM6-PerutzPrimera100-varies-0007-1-1024x633.jpg)
+![Un pagès amb gorra condueix un tractor vermell per un camp de vinyes amb filferros al capvespre.](https://blog.pocallum.cat/wp-content/uploads/2025/05/2025-04-17-LM6-PerutzPrimera100-varies-0007-1-1024x633.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/05/2025-04-17-LM6-PerutzPrimera100-varies-0010-1024x612.jpg)
+![Extens camp de vinyes amb un camí de terra a la dreta, turons al fons i un cel clar en un paisatge rural.](https://blog.pocallum.cat/wp-content/uploads/2025/05/2025-04-17-LM6-PerutzPrimera100-varies-0010-1024x612.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/05/2025-04-17-LM6-PerutzPrimera100-varies-0013-1024x629.jpg)
+![Panoràmica d'una àmplia vall boscosa amb petits pobles, camps i muntanyes al fons, des d'un prat d'herba alta.](https://blog.pocallum.cat/wp-content/uploads/2025/05/2025-04-17-LM6-PerutzPrimera100-varies-0013-1024x629.jpg)
 
-![](https://blog.pocallum.cat/wp-content/uploads/2025/05/2025-04-17-LM6-PerutzPrimera100-varies-0017-1024x599.jpg)
+![Lliris liles florint davant de figueres de moro i un camp de terra llaurat al fons.](https://blog.pocallum.cat/wp-content/uploads/2025/05/2025-04-17-LM6-PerutzPrimera100-varies-0017-1024x599.jpg)
 
 _Unes poquetes fotografies de mostra disparades al Penedès_
 
@@ -50,6 +50,6 @@ En el meu cas, no vaig poder veure la data de caducitat al rodet (probablement e
 
 Si mai teniu rodets antics per casa, no els llenceu! Penseu en mi: els donaré una nova vida.
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/05/ad-ad-sign-perutz-photographic-film-33364874.jpg.webp)](https://prints.alamy.com/alamy-archives-collection/kitsch/ad-ad-sign-perutz-photographic-film-33364874.html)
+[![Granota verda amb banyador de ratlles i bossa al pit fa una foto amb una càmera antiga i porta un sol groc en un pal.](https://blog.pocallum.cat/wp-content/uploads/2025/05/ad-ad-sign-perutz-photographic-film-33364874.jpg.webp)](https://prints.alamy.com/alamy-archives-collection/kitsch/ad-ad-sign-perutz-photographic-film-33364874.html)
 
 Aquí un cartell que he trobat en la meva recerca, si li feu clic fins i tot el podeu comprar!

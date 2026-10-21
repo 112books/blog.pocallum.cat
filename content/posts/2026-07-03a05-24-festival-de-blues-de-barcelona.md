@@ -32,7 +32,7 @@ description: "Crònica de la primera jornada del 24è Festival de Blues de Barce
 title-seo: "24è Festival de Blues de Barcelona 2026 | Primera jornada a Nou Barris"
 ---
 
-![](https://blog.pocallum.cat/wp-content/uploads/2026/07/IMG_9690-1024x683.jpg)
+![Una cantant amb els cabells al vent canta amb passió davant d'un micròfon en un escenari fosc.](https://blog.pocallum.cat/wp-content/uploads/2026/07/IMG_9690-1024x683.jpg)
 
 Un any més hem tingut la sort de poder assistir al **[Festival de Blues de Barcelona](https://www.festivalbluesbarcelona.com)**, al districte de Nou Barris. I un any més, la gent de **Capibola Blues** ho ha tornat a fer.
 

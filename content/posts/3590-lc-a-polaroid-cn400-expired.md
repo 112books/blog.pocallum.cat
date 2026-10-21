@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2015/11/359024.jpg
 image: https://lh3.googleusercontent.com/-KSP7KuDTvas/VkTD10uaqSI/AAAAAAAE6To/DrhZvozZqg0/s640-Ic42/359024.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-KSP7KuDTvas/VkTD10uaqSI/AAAAAAAE6To/DrhZvozZqg0/s640-Ic42/359024.jpg)](https://photos.app.goo.gl/YKZPYLCXaXDmCCYQ7)  |
+|  [![Un gran cartell de Damm delimita un terreny erm amb un edifici alt al fons a Barcelona.](https://lh3.googleusercontent.com/-KSP7KuDTvas/VkTD10uaqSI/AAAAAAAE6To/DrhZvozZqg0/s640-Ic42/359024.jpg)](https://photos.app.goo.gl/YKZPYLCXaXDmCCYQ7)  |
 | --- |
 | De [3590 LC-A+ - Polaroid CN400 expired](https://photos.app.goo.gl/YKZPYLCXaXDmCCYQ7) |

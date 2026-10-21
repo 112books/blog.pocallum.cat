@@ -23,7 +23,7 @@ image: https://blog.pocallum.cat/wp-content/uploads/2025/05/DSCF0598-1024x683.jp
 description: "Resum de la 13a edició de ProspeCreativa, l’esdeveniment de música emergent i artistes locals al barri de la Prosperitat, Barcelona. Galeria de fotos i moments destacats."
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/05/DSCF0598-1024x683.jpg)](https://photos.app.goo.gl/XqSycVYtXQc8e5hH6)
+[![Diversos músics toquen en directe en un escenari fosc, amb un home cantant dempeus i altres asseguts amb els instruments.](https://blog.pocallum.cat/wp-content/uploads/2025/05/DSCF0598-1024x683.jpg)](https://photos.app.goo.gl/XqSycVYtXQc8e5hH6)
 
 Petit resum de la ja **13a edició de ProspeCreativa**. Aquesta és una cita imprescindible organitzada i pensada per als artistes emergents —i no tant— del barri de la Prosperitat.
 

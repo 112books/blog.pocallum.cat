@@ -12,7 +12,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/02/Miseria-a-Barcel
 image: https://blog.pocallum.cat/wp-content/uploads/2012/02/Miseria-a-Barcelona.jpg
 ---
 
-![](https://blog.pocallum.cat/wp-content/uploads/2012/02/Miseria-a-Barcelona.jpg)
+![Una persona descansa estirada a terra sobre rajoles grises, coberta amb una jaqueta fosca i amb una bossa al costat.](https://blog.pocallum.cat/wp-content/uploads/2012/02/Miseria-a-Barcelona.jpg)
 
 No sé si estic deprimit per veure cada dia pitjor el meu entorn, però penso que cal com a mínim denunciar que a Barcelona cada dia hi ha més i més gent que està en una situació ben precària.
 

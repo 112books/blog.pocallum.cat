@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2014/07/1875-LC-A-007.jp
 image: https://lh6.googleusercontent.com/-fVmzl662Kjs/U7QBkNC5x0I/AAAAAAAENJc/9uoH17SD4p0/s640/1875%2520-%2520LC-A%2520-%2520007.jpg
 ---
 
-|  [![](https://lh6.googleusercontent.com/-fVmzl662Kjs/U7QBkNC5x0I/AAAAAAAENJc/9uoH17SD4p0/s640/1875%2520-%2520LC-A%2520-%2520007.jpg)](https://photos.app.goo.gl/Q7dY6xh6SMdauq9R9)  |
+|  [![Una llarga xemeneia fosca s'alça en contrapicat cap a un cel blau amb núvols, amb arbres a la base.](https://lh6.googleusercontent.com/-fVmzl662Kjs/U7QBkNC5x0I/AAAAAAAENJc/9uoH17SD4p0/s640/1875%2520-%2520LC-A%2520-%2520007.jpg)](https://photos.app.goo.gl/Q7dY6xh6SMdauq9R9)  |
 | --- |
 | De [1875 - LC-A - Agfa Vista 200 expired](https://photos.app.goo.gl/Q7dY6xh6SMdauq9R9) |

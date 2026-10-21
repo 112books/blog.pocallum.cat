@@ -13,4 +13,4 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/12/0106-Sprocket-Ro
 image: https://blog.pocallum.cat/wp-content/uploads/2012/12/0106-Sprocket-Rocke-011-1-1024x418.jpg
 ---
 
-![](https://blog.pocallum.cat/wp-content/uploads/2012/12/0106-Sprocket-Rocke-011-1-1024x418.jpg)
+![Una dona fa una ganyota traient la llengua al costat d'un home amb ulleres en un local fosc amb prestatges.](https://blog.pocallum.cat/wp-content/uploads/2012/12/0106-Sprocket-Rocke-011-1-1024x418.jpg)

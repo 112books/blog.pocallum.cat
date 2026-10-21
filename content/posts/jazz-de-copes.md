@@ -10,6 +10,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_3180-1.jpg
 image: https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_3180.jpg
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_3180.jpg)](https://photos.app.goo.gl/u2o2uE18MEZcMB5Y6)
+[![Una jove cantant amb vestit negre canta amb els ulls tancats en un escenari fosc il·luminat amb llums de colors.](https://blog.pocallum.cat/wp-content/uploads/2012/01/IMG_3180.jpg)](https://photos.app.goo.gl/u2o2uE18MEZcMB5Y6)
 
 Una nit més de música meravellosa al Casal de barri de Prosperitat. Aquesta vetllada ha estat gràcies a Jazz de Copes i el seu Jazz accessible i brillant. Una nit que no oblidaré. -> [Àlbum complert](https://photos.app.goo.gl/u2o2uE18MEZcMB5Y6)

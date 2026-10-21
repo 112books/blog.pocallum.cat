@@ -22,7 +22,7 @@ description: "Sortida de tardor amb Manel Sala a la fageda de la Grevolosa, un d
 title-seo: "Escapada fotogràfica a la fageda de la Grevolosa | Pocallum.cat"
 ---
 
-[![](https://blog.pocallum.cat/wp-content/uploads/2025/11/L1530105-1024x576.jpg)](https://photos.app.goo.gl/HoAmZZ2gL1i2hTMNA)
+[![Un petit bolet vermell amb el peu blanc creix entre fulles seques i branques al terra del bosc.](https://blog.pocallum.cat/wp-content/uploads/2025/11/L1530105-1024x576.jpg)](https://photos.app.goo.gl/HoAmZZ2gL1i2hTMNA)
 
 Seguim amb la tardor, aquesta estació de transició entre la calor estiuenca i el fred hivernal. A ciutat només la notem per l’escurçament dels dies i perquè cal abrigar-se més, però si tenim la sort d’escapar-nos fora vila, descobrim un altre món. En aquestes zones rurals, on el soroll i l’estrès són desconeguts, el silenci i la magnificència de la natura —si se saben mirar— es converteixen en una autèntica obra d’art en constant transformació. Els elements naturals descomponen la matèria orgànica i ens regalen una paleta de colors càlida i rica en matisos.
 

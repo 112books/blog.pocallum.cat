@@ -13,6 +13,6 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2012/07/IMG_3905.jpg
 image: https://lh3.googleusercontent.com/-KwvqVDZFzbw/UA6-2UVTW0I/AAAAAAADQ7I/DRPKPaTkXtc/s640/IMG_3905.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-KwvqVDZFzbw/UA6-2UVTW0I/AAAAAAADQ7I/DRPKPaTkXtc/s640/IMG_3905.jpg)](https://photos.app.goo.gl/CxrheHtGJJs6q4kY8)  |
+|  [![Plataformes de fusta angulars sobre un estany verd davant d'unes grades i un mural de festival en un parc urbà.](https://lh3.googleusercontent.com/-KwvqVDZFzbw/UA6-2UVTW0I/AAAAAAADQ7I/DRPKPaTkXtc/s640/IMG_3905.jpg)](https://photos.app.goo.gl/CxrheHtGJJs6q4kY8)  |
 | --- |
 | De [10è Festival de Blues de Barcelona - Graffiti NBQ final](https://photos.app.goo.gl/CxrheHtGJJs6q4kY8) |

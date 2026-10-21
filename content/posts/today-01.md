@@ -10,7 +10,7 @@ thumbnail: https://blog.pocallum.cat/wp-content/uploads/2016/02/DSCF6251.jpg
 image: https://lh3.googleusercontent.com/-gMZPgZ1kxiY/VsjA8Q1ZU4I/AAAAAAAFAqI/RuSTWY4yGCA/s640-Ic42/DSCF6251.jpg
 ---
 
-|  [![](https://lh3.googleusercontent.com/-gMZPgZ1kxiY/VsjA8Q1ZU4I/AAAAAAAFAqI/RuSTWY4yGCA/s640-Ic42/DSCF6251.jpg)](https://photos.app.goo.gl/33MSREt3NShM6ztN7)  |
+|  [![Dona somrient amb jaqueta porpra es subjecta els cabells al vent en una platja assolellada, amb una altra persona a la dreta.](https://lh3.googleusercontent.com/-gMZPgZ1kxiY/VsjA8Q1ZU4I/AAAAAAAFAqI/RuSTWY4yGCA/s640-Ic42/DSCF6251.jpg)](https://photos.app.goo.gl/33MSREt3NShM6ztN7)  |
 | --- |
 | De [#today 01](https://photos.app.goo.gl/33MSREt3NShM6ztN7) |
 
