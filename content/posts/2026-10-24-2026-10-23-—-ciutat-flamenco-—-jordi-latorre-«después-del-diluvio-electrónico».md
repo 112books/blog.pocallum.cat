@@ -28,6 +28,8 @@ title-seo: 'Jordi Latorre al Ciutat Flamenco: «Después del diluvio electrónic
 description: Crònica de «Después del diluvio electrónico», l’obra de Jordi Latorre, Carmela Muñoz i Zúbel Arana presentada al Ciutat Flamenco el 23 d’octubre de 2026.
 ---
 
+{{< vimeo 1239051907 >}}
+
 La colla d’en [Jordi Latorre](https://www.instagram.com/jordilatorre_/), amb Carmela Muñoz i Zúbel Arana, ha presentat dins del [Ciutat Flamenco](https://ciutatflamenco.com/ca/edicio-2026/jordi-latorre/) la seva obra _Después del diluvio electrónico_.
 
 Una aposta, sens dubte, arriscada i contemporània, que de ben segur ha encantat i desencantat a parts iguals. Jo soc dels primers: entusiasmat i excitat, vaig quedar després de presenciar-la.
