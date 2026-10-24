@@ -56,7 +56,7 @@ Felicitats, felicitats i felicitats! Un nou fan incondicional!
 - Dramatúrgia: [**Aina Serena**](<Aina Serena>)
 - Disseny de llums: [**Fixture Overload**](https://www.instagram.com/fixtureoverload/)
 - Assessoria artística: **Juan Carlos Lérida i Pedro Ordóñez**
-- Tècnics de so: **Ander Mora y Joel Alexander**
+- Tècnics de so: **Ander Mora i Joel Alexander**
 - Mastering: [**Marc Teixidó**](https://www.instagram.com/marc.teixi/) **(Tetric)** 
 - Ajudant de producció: [**Marjorie Nastro**](https://www.instagram.com/la_tijera_y_el_papel/)
 
