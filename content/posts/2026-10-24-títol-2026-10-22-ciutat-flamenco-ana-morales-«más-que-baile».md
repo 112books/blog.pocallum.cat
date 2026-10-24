@@ -43,7 +43,7 @@ Pràcticament nua d’escenografia, presenta les diferents peces de ball molt be
 
 Sigui com sigui, no descriuré cada peça amb què ens va delectar. Ni us parlaré de si tècnicament això o allò. El que sí que us recomano és que aneu a veure l’espectacle si en teniu l’oportunitat.
 
-**Ana Morales** | idea original, coreografia i baile
-**Jesús Corbacho** | cante
-**Fran Vinuesa** | guitarra
-**Daniel Suárez** | bateria
+- **Ana Morales** | idea original, coreografia i baile
+- **Jesús Corbacho** | cante
+- **Fran Vinuesa** | guitarra
+- **Daniel Suárez** | bateria
