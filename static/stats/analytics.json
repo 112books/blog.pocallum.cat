@@ -1,10 +1,10 @@
 {
-  "generated": "2026-10-23T22:12:00.750240Z",
+  "generated": "2026-10-24T00:43:38.933493Z",
   "period": {
-    "start": "2025-10-23",
-    "end": "2026-10-23"
+    "start": "2025-10-24",
+    "end": "2026-10-24"
   },
-  "total": 2089,
+  "total": 2094,
   "total_unique": 0,
   "hits_by_day": [
     {
@@ -437,13 +437,17 @@
     },
     {
       "date": "2026-10-23",
+      "count": 5
+    },
+    {
+      "date": "2026-10-24",
       "count": 1
     }
   ],
   "hits": [
     {
       "path": "/",
-      "count": 317
+      "count": 319
     },
     {
       "path": "/2026/07/11/2026-07-11-prospe-beach-again",
@@ -470,12 +474,12 @@
       "count": 24
     },
     {
-      "path": "/2026/09/07/2026-09-06-festival-masimas-2026-el-parallel-oblidat-recordant-a-merche-mar",
+      "path": "/2026/10/19/2026-10-18-ciutat-flamenco-districte-flamenco",
       "count": 22
     },
     {
-      "path": "/2026/10/19/2026-10-18-ciutat-flamenco-districte-flamenco",
-      "count": 21
+      "path": "/2026/09/07/2026-09-06-festival-masimas-2026-el-parallel-oblidat-recordant-a-merche-mar",
+      "count": 22
     },
     {
       "path": "/2026/08/19/2026-08-18-despedida-anike-lamoso",
@@ -534,6 +538,10 @@
       "count": 13
     },
     {
+      "path": "/2026/10/18/2026-10-19-ciutat-flamenco-esperanza-garrido-firmamento",
+      "count": 12
+    },
+    {
       "path": "/2026/10/18/2026-10-17-14a-revelat-maneres-descapar",
       "count": 12
     },
@@ -544,10 +552,6 @@
     {
       "path": "/2026/09/04/2026-09-04-lanomala",
       "count": 12
-    },
-    {
-      "path": "/2026/10/18/2026-10-19-ciutat-flamenco-esperanza-garrido-firmamento",
-      "count": 11
     },
     {
       "path": "/2026/07/06/2026-07-03a05-24-festival-de-blues-de-barcelona",
@@ -645,16 +649,16 @@
   "hits_windows": [
     {
       "path": "/",
-      "d7": 24,
-      "d30": 110,
-      "d90": 271,
-      "d365": 317
+      "d7": 25,
+      "d30": 103,
+      "d90": 273,
+      "d365": 319
     },
     {
       "path": "/2026/07/11/2026-07-11-prospe-beach-again",
       "d7": 0,
       "d30": 1,
-      "d90": 16,
+      "d90": 15,
       "d365": 86
     },
     {
@@ -681,16 +685,23 @@
     {
       "path": "/2026/09/20/2026-09-19-casal-de-barri-de-prosperitat-tributo-a-amaral",
       "d7": 0,
-      "d30": 14,
+      "d30": 10,
       "d90": 28,
       "d365": 28
     },
     {
       "path": "/2026/09/20/2026-09-19-festa-major-de-verdum-verdum-punkfest",
       "d7": 0,
-      "d30": 13,
+      "d30": 12,
       "d90": 24,
       "d365": 24
+    },
+    {
+      "path": "/2026/10/19/2026-10-18-ciutat-flamenco-districte-flamenco",
+      "d7": 22,
+      "d30": 22,
+      "d90": 22,
+      "d365": 22
     },
     {
       "path": "/2026/09/07/2026-09-06-festival-masimas-2026-el-parallel-oblidat-recordant-a-merche-mar",
@@ -698,13 +709,6 @@
       "d30": 5,
       "d90": 22,
       "d365": 22
-    },
-    {
-      "path": "/2026/10/19/2026-10-18-ciutat-flamenco-districte-flamenco",
-      "d7": 21,
-      "d30": 21,
-      "d90": 21,
-      "d365": 21
     },
     {
       "path": "/2026/08/19/2026-08-18-despedida-anike-lamoso",
@@ -723,7 +727,7 @@
     {
       "path": "/arxiu",
       "d7": 1,
-      "d30": 10,
+      "d30": 9,
       "d90": 16,
       "d365": 16
     },
@@ -751,7 +755,7 @@
     {
       "path": "/about",
       "d7": 1,
-      "d30": 6,
+      "d30": 5,
       "d90": 14,
       "d365": 15
     },
@@ -805,6 +809,13 @@
       "d365": 13
     },
     {
+      "path": "/2026/10/18/2026-10-19-ciutat-flamenco-esperanza-garrido-firmamento",
+      "d7": 12,
+      "d30": 12,
+      "d90": 12,
+      "d365": 12
+    },
+    {
       "path": "/2026/10/18/2026-10-17-14a-revelat-maneres-descapar",
       "d7": 12,
       "d30": 12,
@@ -824,13 +835,6 @@
       "d30": 6,
       "d90": 12,
       "d365": 12
-    },
-    {
-      "path": "/2026/10/18/2026-10-19-ciutat-flamenco-esperanza-garrido-firmamento",
-      "d7": 11,
-      "d30": 11,
-      "d90": 11,
-      "d365": 11
     },
     {
       "path": "/2026/07/06/2026-07-03a05-24-festival-de-blues-de-barcelona",
@@ -862,7 +866,7 @@
     },
     {
       "path": "/2026/10/09/2026-10-08-renovaci%C3%B3-de-lart-urb%C3%A0-a-la-nau-bostik",
-      "d7": 1,
+      "d7": 0,
       "d30": 8,
       "d90": 8,
       "d365": 8
@@ -897,7 +901,7 @@
     },
     {
       "path": "/2026/06/28/2026-06-27-44a-la-cultura-va-de-festa",
-      "d7": 1,
+      "d7": 0,
       "d30": 1,
       "d90": 3,
       "d365": 8
@@ -918,7 +922,7 @@
     },
     {
       "path": "/2011/07/03/montjuic-de-nit-amb-chino-the-big-bet-i-barce",
-      "d7": 5,
+      "d7": 4,
       "d30": 6,
       "d90": 6,
       "d365": 6
@@ -1176,6 +1180,13 @@
       "d365": 4
     },
     {
+      "path": "/2025/10/30/2025-10-30-castanyada-diabolica-de-la-sagrera",
+      "d7": 2,
+      "d30": 2,
+      "d90": 3,
+      "d365": 4
+    },
+    {
       "path": "/2026/05/30/2026-05-29-la-juganera-a-la-nau-bostik",
       "d7": 0,
       "d30": 0,
@@ -1380,7 +1391,7 @@
     },
     {
       "path": "/2025/10/25/2025-10-24-districte-flamenco-al-ciutat-flamenco-barcelona",
-      "d7": 1,
+      "d7": 0,
       "d30": 1,
       "d90": 2,
       "d365": 3
@@ -1421,13 +1432,6 @@
       "d365": 3
     },
     {
-      "path": "/2025/10/30/2025-10-30-castanyada-diabolica-de-la-sagrera",
-      "d7": 1,
-      "d30": 1,
-      "d90": 2,
-      "d365": 3
-    },
-    {
       "path": "/2011/09/01/holga-cfn-120-primer-test-en-asa-100",
       "d7": 0,
       "d30": 1,
@@ -1450,7 +1454,7 @@
     },
     {
       "path": "/tag/miranda-alfonso",
-      "d7": 2,
+      "d7": 0,
       "d30": 2,
       "d90": 2,
       "d365": 2
@@ -1577,7 +1581,7 @@
     {
       "path": "/tag/littlejordi",
       "d7": 0,
-      "d30": 2,
+      "d30": 1,
       "d90": 2,
       "d365": 2
     },
@@ -1611,7 +1615,7 @@
     },
     {
       "path": "/blog",
-      "d7": 1,
+      "d7": 0,
       "d30": 1,
       "d90": 2,
       "d365": 2
@@ -2479,21 +2483,21 @@
     },
     {
       "path": "/wp-json/oembed/1.0/embed?format=xml&url=https%3A%2F%2Fblog.pocallum.cat%2F2011%2F03%2F19%2Fvermut-sical-i-si-no-cal-tambe-la-roja-caori%2F",
-      "d7": 1,
+      "d7": 0,
       "d30": 1,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fblog.pocallum.cat%2F2022%2F09%2F05%2Fvisa-pour-limage-2022-perpinya%2F",
-      "d7": 1,
+      "d7": 0,
       "d30": 1,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/wp-json/wp/v2/posts/2380",
-      "d7": 1,
+      "d7": 0,
       "d30": 1,
       "d90": 1,
       "d365": 1
@@ -3663,7 +3667,7 @@
     {
       "path": "/2023/03/12/2023-03-12-arundo-donax-2023-la-puebla-de-hijar",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 1,
       "d365": 1
     },
@@ -5834,14 +5838,14 @@
       "path": "/2023/06/30/romina",
       "d7": 0,
       "d30": 0,
-      "d90": 1,
+      "d90": 0,
       "d365": 1
     },
     {
       "path": "/2022/03/27/6477",
       "d7": 0,
       "d30": 0,
-      "d90": 1,
+      "d90": 0,
       "d365": 1
     },
     {
@@ -6427,8 +6431,8 @@
     }
   ],
   "by_section": {
-    "inici": 317,
-    "posts": 1010,
+    "inici": 319,
+    "posts": 1013,
     "cerca": 36,
     "arxiu": 23,
     "contact": 15,
@@ -6690,7 +6694,8 @@
       "2026-10-20": 8,
       "2026-10-21": 3,
       "2026-10-22": 1,
-      "2026-10-23": 1
+      "2026-10-23": 2,
+      "2026-10-24": 1
     },
     "/2026/07/11/2026-07-11-prospe-beach-again": {
       "2026-07-11": 5,
@@ -6807,6 +6812,13 @@
       "2026-10-03": 1,
       "2026-10-13": 1
     },
+    "/2026/10/19/2026-10-18-ciutat-flamenco-districte-flamenco": {
+      "2026-10-19": 6,
+      "2026-10-20": 9,
+      "2026-10-21": 5,
+      "2026-10-22": 1,
+      "2026-10-23": 1
+    },
     "/2026/09/07/2026-09-06-festival-masimas-2026-el-parallel-oblidat-recordant-a-merche-mar": {
       "2026-09-07": 2,
       "2026-09-08": 5,
@@ -6823,12 +6835,6 @@
       "2026-10-02": 1,
       "2026-10-18": 1,
       "2026-10-20": 1
-    },
-    "/2026/10/19/2026-10-18-ciutat-flamenco-districte-flamenco": {
-      "2026-10-19": 6,
-      "2026-10-20": 9,
-      "2026-10-21": 5,
-      "2026-10-22": 1
     },
     "/2026/08/19/2026-08-18-despedida-anike-lamoso": {
       "2026-08-19": 7,
@@ -6974,6 +6980,12 @@
       "2026-10-19": 2,
       "2026-10-22": 1
     },
+    "/2026/10/18/2026-10-19-ciutat-flamenco-esperanza-garrido-firmamento": {
+      "2026-10-19": 3,
+      "2026-10-20": 5,
+      "2026-10-21": 3,
+      "2026-10-23": 1
+    },
     "/2026/10/18/2026-10-17-14a-revelat-maneres-descapar": {
       "2026-10-18": 11,
       "2026-10-19": 1
@@ -6996,11 +7008,6 @@
       "2026-09-28": 1,
       "2026-09-29": 1,
       "2026-10-15": 1
-    },
-    "/2026/10/18/2026-10-19-ciutat-flamenco-esperanza-garrido-firmamento": {
-      "2026-10-19": 3,
-      "2026-10-20": 5,
-      "2026-10-21": 3
     },
     "/2026/07/06/2026-07-03a05-24-festival-de-blues-de-barcelona": {
       "2026-07-10": 2,
@@ -7278,6 +7285,12 @@
       "2026-07-12": 1,
       "2026-07-18": 2
     },
+    "/2025/10/30/2025-10-30-castanyada-diabolica-de-la-sagrera": {
+      "2026-07-08": 1,
+      "2026-08-02": 1,
+      "2026-10-20": 1,
+      "2026-10-23": 1
+    },
     "/2026/05/30/2026-05-29-la-juganera-a-la-nau-bostik": {
       "2026-07-07": 1,
       "2026-07-20": 1,
@@ -7435,11 +7448,6 @@
       "2026-07-12": 1,
       "2026-08-08": 1,
       "2026-10-17": 1
-    },
-    "/2025/10/30/2025-10-30-castanyada-diabolica-de-la-sagrera": {
-      "2026-07-08": 1,
-      "2026-08-02": 1,
-      "2026-10-20": 1
     },
     "/2011/09/01/holga-cfn-120-primer-test-en-asa-100": {
       "2026-07-07": 1,
@@ -9764,7 +9772,8 @@
       "2026-10-19": 21,
       "2026-10-20": 27,
       "2026-10-21": 11,
-      "2026-10-22": 3
+      "2026-10-22": 3,
+      "2026-10-23": 3
     },
     "inici": {
       "2026-07-07": 5,
@@ -9862,7 +9871,8 @@
       "2026-10-20": 8,
       "2026-10-21": 3,
       "2026-10-22": 1,
-      "2026-10-23": 1
+      "2026-10-23": 2,
+      "2026-10-24": 1
     },
     "category": {
       "2026-07-12": 1,
@@ -10560,12 +10570,12 @@
       "count": 24
     },
     {
-      "path": "/2026/09/07/2026-09-06-festival-masimas-2026-el-parallel-oblidat-recordant-a-merche-mar",
+      "path": "/2026/10/19/2026-10-18-ciutat-flamenco-districte-flamenco",
       "count": 22
     },
     {
-      "path": "/2026/10/19/2026-10-18-ciutat-flamenco-districte-flamenco",
-      "count": 21
+      "path": "/2026/09/07/2026-09-06-festival-masimas-2026-el-parallel-oblidat-recordant-a-merche-mar",
+      "count": 22
     },
     {
       "path": "/2026/08/19/2026-08-18-despedida-anike-lamoso",
@@ -10604,7 +10614,7 @@
     {
       "name": "Chrome",
       "id": "Chrome",
-      "count": 1557
+      "count": 1558
     },
     {
       "name": "Safari",
@@ -10631,7 +10641,7 @@
     {
       "name": "macOS",
       "id": "macOS",
-      "count": 807
+      "count": 808
     },
     {
       "name": "Linux",
@@ -10673,7 +10683,7 @@
     {
       "name": "desktophd",
       "id": "desktophd",
-      "count": 552
+      "count": 553
     },
     {
       "name": "tablet",
@@ -10690,7 +10700,7 @@
     {
       "name": "Spain",
       "id": "ES",
-      "count": 1391
+      "count": 1392
     },
     {
       "name": "United States",
@@ -10772,7 +10782,7 @@
     {
       "name": "Google",
       "id": "Google",
-      "count": 123
+      "count": 124
     },
     {
       "name": "www.9barrisimatge.org",
@@ -10797,7 +10807,7 @@
     {
       "name": "ig",
       "id": "ig",
-      "count": 10
+      "count": 11
     },
     {
       "name": "l.instagram.com",
