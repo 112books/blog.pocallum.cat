@@ -59,3 +59,21 @@ Felicitats, felicitats i felicitats! Un nou fan incondicional!
 - Tècnics de so: **Ander Mora y Joel Alexander**
 - Mastering: [**Marc Teixidó**](https://www.instagram.com/marc.teixi/) **(Tetric)** 
 - Ajudant de producció: [**Marjorie Nastro**](https://www.instagram.com/la_tijera_y_el_papel/)
+
+A l'entrada a l'espectacle la otganització repartia aquest poema:
+
+#### Después del diluvio electrónico
+
+_Todo suspenso escafandra de descompresión tembloroso aliento en la paz de Dios._
+
+_Bajo-sobre palpitante milagro de tierra el agua limpia los ruidos. Estanque encantado por el íntimo surtidor fiel espectáculo biológico autobiológico._
+
+_La violencia nos crea la ternura. El agua cruza por el fuego. La vida es fuego doliente y gozante. La energía está en la naturaleza, viva siempre._
+
+_Cruzamos por un cuerpo de carne donde no hace falta ser consciente para ser vital, donde la cohesión es tensión permanente hacia la Unidad._
+
+_La vida, desde nosotros, se inicia en el desgarro y el tiempo es la residencia del espíritu._
+
+_Individuo, cuerpo de muerte, separado, ausente, la electrónica te saca de la carne._
+
+José Val del Omar
