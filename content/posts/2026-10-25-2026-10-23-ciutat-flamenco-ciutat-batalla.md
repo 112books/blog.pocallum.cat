@@ -6,7 +6,21 @@ categories:
   - canon-eos-5d-mark-ii
   - canon-50-mm-f-1-8
   - canon-28-mm-f-2-8
-tags: []
+tags:
+  - Ciutat Flamenco
+  - Ciutat Batalla
+  - flamenco
+  - dansa flamenca
+  - dansa espanyola
+  - dansa contemporània
+  - Lora de Goya
+  - Álex Vizuete
+  - Ateneu Popular de Nou Barris
+  - Nou Barris
+  - Barcelona
+  - fotografia d’espectacles
+  - fotografia de dansa
+  - cultura a Barcelona
 thumbnail: /media/IMG_5836.jpg
 thumbnail_alt: «Ciutat Batalla 2026. Dansa, flamenco i improvisació davant l’Ateneu Popular de Nou Barris, en el marc del festival Ciutat Flamenco.»
 image: /media/IMG_5836.jpg
@@ -15,8 +29,8 @@ album_url: ''
 draft: false
 author: Pocallum
 noindex: false
-title-seo: ''
-description: ''
+title-seo: https://ciutatflamenco.com/ca/edicio-2026/ciutat-batalla-2026/
+description: Fotografies de Ciutat Batalla 2026, el concurs de dansa i flamenco del festival Ciutat Flamenco, celebrat davant l’Ateneu Popular de Nou Barris.
 ---
 
 {{< vimeo 1239202619 >}}
