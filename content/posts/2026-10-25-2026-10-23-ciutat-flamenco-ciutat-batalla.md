@@ -1,6 +1,6 @@
 ---
 title: 2026-10-23 - Ciutat Flamenco - Ciutat Batalla
-date: 2026-10-25T0:00:00+02:00
+date: 2026-10-23T0:00:00+02:00
 slug: ''
 categories:
   - canon-eos-5d-mark-ii
