@@ -1,5 +1,5 @@
 ---
-title: 'Títol: 2026-10-22 - Ciutat Flamenco - Ana Morales «Más que baile»'
+title: 2026-10-22 - Ciutat Flamenco - Ana Morales «Más que baile»
 date: 2026-10-24T0:00:00+02:00
 slug: ''
 categories:
