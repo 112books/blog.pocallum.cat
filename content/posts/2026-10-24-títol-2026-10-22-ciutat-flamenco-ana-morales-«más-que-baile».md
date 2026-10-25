@@ -1,6 +1,6 @@
 ---
 title: 2026-10-22 - Ciutat Flamenco - Ana Morales «Más que baile»
-date: 2026-10-24T0:00:00+02:00
+date: 2026-10-22T0:00:00+02:00
 slug: ''
 categories:
   - canon-eos-5d-mark-ii
