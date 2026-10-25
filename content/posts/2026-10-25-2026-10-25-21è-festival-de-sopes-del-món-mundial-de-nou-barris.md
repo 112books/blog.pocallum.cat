@@ -1,8 +1,10 @@
 ---
 title: 2026-10-25 -21è Festival de Sopes del Món Mundial de Nou Barris
-date: 2026-10-25T0:00:00+02:00
+date: 2026-10-27T0:00:00+01:00
 slug: ''
-categories: []
+categories:
+  - fuji-x-pro1
+  - fujinon-16mm-f2-8
 tags:
   - Festival de Sopes del Món Mundial
   - Festival de Sopes 2026
