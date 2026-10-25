@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-25T16:20:32.957897Z",
+  "generated": "2026-10-25T19:38:10.221294Z",
   "period": {
     "start": "2025-10-25",
     "end": "2026-10-25"
@@ -10626,7 +10626,7 @@
     {
       "name": "Chrome",
       "id": "Chrome",
-      "count": 1602
+      "count": 1615
     },
     {
       "name": "Safari",
@@ -10661,19 +10661,19 @@
       "count": 435
     },
     {
+      "name": "Android",
+      "id": "Android",
+      "count": 313
+    },
+    {
       "name": "iOS",
       "id": "iOS",
       "count": 306
     },
     {
-      "name": "Android",
-      "id": "Android",
-      "count": 304
-    },
-    {
       "name": "Windows",
       "id": "Windows",
-      "count": 279
+      "count": 283
     },
     {
       "name": "Desconegut",
@@ -10685,12 +10685,12 @@
     {
       "name": "desktop",
       "id": "desktop",
-      "count": 933
+      "count": 937
     },
     {
       "name": "phone",
       "id": "phone",
-      "count": 594
+      "count": 603
     },
     {
       "name": "desktophd",
@@ -10712,12 +10712,12 @@
     {
       "name": "Spain",
       "id": "ES",
-      "count": 1446
+      "count": 1455
     },
     {
       "name": "United States",
       "id": "US",
-      "count": 392
+      "count": 393
     },
     {
       "name": "Singapore",
@@ -10760,14 +10760,14 @@
       "count": 9
     },
     {
-      "name": "Italy",
-      "id": "IT",
+      "name": "Colombia",
+      "id": "CO",
       "count": 8
     },
     {
-      "name": "Colombia",
-      "id": "CO",
-      "count": 6
+      "name": "Italy",
+      "id": "IT",
+      "count": 8
     },
     {
       "name": "Sweden",
@@ -10775,13 +10775,13 @@
       "count": 5
     },
     {
-      "name": "Ukraine",
-      "id": "UA",
+      "name": "Ecuador",
+      "id": "EC",
       "count": 4
     },
     {
-      "name": "Venezuela",
-      "id": "VE",
+      "name": "Ukraine",
+      "id": "UA",
       "count": 4
     }
   ],
