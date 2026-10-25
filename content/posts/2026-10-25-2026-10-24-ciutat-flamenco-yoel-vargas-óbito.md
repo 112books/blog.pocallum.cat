@@ -2,7 +2,9 @@
 title: 2026-10-24 - Ciutat Flamenco - Yoel Vargas "Óbito"
 date: 2026-10-25T0:00:00+02:00
 slug: ''
-categories: []
+categories:
+  - canon-eos-5d-mark-ii
+  - sigma-70-200-mm-f-2-8-ii
 tags:
   - Ciutat Flamenco
   - Taller de Músics
@@ -21,8 +23,8 @@ tags:
 thumbnail: /media/IMG_5990.jpg
 thumbnail_alt: Yoel Vargas balla al costat de Juan Manuel de las Heras durant l’espectacle Óbito, que combina flamenc, dansa contemporània i música en directe al festival Ciutat Flamenco 2026, al Centre Artesà Tradicionàrius de Barcelona.
 image: /media/IMG_5990.jpg
-image_alt: ''
-album_url: Yoel Vargas balla al costat de Juan Manuel de las Heras durant l’espectacle Óbito, que combina flamenc, dansa contemporània i música en directe al festival Ciutat Flamenco 2026, al Centre Artesà Tradicionàrius de Barcelona.
+image_alt: Yoel Vargas balla al costat de Juan Manuel de las Heras durant l’espectacle Óbito, que combina flamenc, dansa contemporània i música en directe al festival Ciutat Flamenco 2026, al Centre Artesà Tradicionàrius de Barcelona.
+album_url: ''
 draft: false
 author: Pocallum
 noindex: false
