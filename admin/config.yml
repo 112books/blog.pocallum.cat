@@ -31,7 +31,7 @@ collections:
     preview_path: "{{year}}/{{month}}/{{day}}/{{slug}}"
     fields:
       - { label: "Títol", name: "title", widget: "string" }
-      - { label: "Data", name: "date", widget: "datetime", format: "YYYY-MM-DDTH:mm:ssZ", date_format: true, time_format: false }
+      - { label: "Data i hora", name: "date", widget: "datetime", format: "YYYY-MM-DDTHH:mm:ssZ", date_format: "YYYY-MM-DD", time_format: "HH:mm", default: "{{now}}", hint: "L'hora decideix l'ordre entre posts del mateix dia (el més recent surt primer). Si no la canvies, s'usa l'hora de creació." }
       - { label: "Slug", name: "slug", widget: "string", required: false, hint: "Opcional — es genera automàticament des del títol" }
       - { label: "Categories", name: "categories", widget: "relation", collection: "categories", value_field: "valor", search_fields: ["title", "valor"], display_fields: ["title"], multiple: true, required: false, hint: "Selecciona de la llista o crea una de nova a l'apartat Categories" }
       - { label: "Tags", name: "tags", widget: "list", required: false, hint: "Enganxa la llista separada per comes: jazz, blues, concert, ..." }
