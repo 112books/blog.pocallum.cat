@@ -1,6 +1,6 @@
 ---
 title: 2026-10-08 - Renovació de l'Art Urbà a la Nau Bostik
-date: 2026-10-09T0:00:00+02:00
+date: 2026-10-09T00:00:00+02:00
 slug: ''
 categories:
   - leica-d-lux-6

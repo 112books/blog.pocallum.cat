@@ -1,6 +1,6 @@
 ---
 title: '2026-10-03 - La Nuu Festival: una crònica sota la pluja'
-date: 2026-10-03T0:00:00+02:00
+date: 2026-10-03T00:00:00+02:00
 slug: ''
 categories:
   - fuji-x-pro1

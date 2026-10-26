@@ -1,6 +1,6 @@
 ---
 title: 2026-09-26 — Dinar de comiat de l’Eli, companya de la Nau Bostik. She’s gone!
-date: 2026-10-05T0:00:00+02:00
+date: 2026-10-05T00:00:00+02:00
 slug: ''
 categories:
   - lomography-lc-a

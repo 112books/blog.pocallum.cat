@@ -1,6 +1,6 @@
 ---
 title: 2026-09-20 - Marian Barahona Blues Reunion presenten el disc Randez-Blue al Jamboree
-date: 2026-09-21T0:00:00+02:00
+date: 2026-09-21T00:00:00+02:00
 slug: ''
 categories:
   - canon-eos-5d-mark-ii

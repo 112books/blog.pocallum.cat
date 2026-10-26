@@ -1,6 +1,6 @@
 ---
 title: 2026-10-08 - Asta and Salma en gran fromat
-date: 2026-10-11T0:00:00+02:00
+date: 2026-10-11T00:00:00+02:00
 slug: ''
 categories:
   - horsman-8x10″

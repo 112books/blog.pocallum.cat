@@ -1,6 +1,6 @@
 ---
 title: 2026-09-24 - La Mercè, baixant a Barcelona
-date: 2026-09-24T0:00:00+02:00
+date: 2026-09-24T00:00:00+02:00
 slug: ''
 categories:
   - fuji-x-pro1

@@ -1,6 +1,6 @@
 ---
 title: 2026-09-17 - Provant l’ADOX SCALA 50
-date: 2026-09-18T0:00:00+02:00
+date: 2026-09-18T00:00:00+02:00
 slug: ''
 description: 'Provo l’ADOX SCALA 50 com a negatiu: ISO 50, revelat manual durant 11 minuts i propera prova amb Rodinal. Experiments de fotografia analògica.'
 categories:

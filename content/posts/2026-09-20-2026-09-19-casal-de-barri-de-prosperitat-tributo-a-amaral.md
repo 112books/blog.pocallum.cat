@@ -1,6 +1,6 @@
 ---
 title: 2026-09-19 -Casal de barri de Prosperitat - Tributo a Amaral
-date: 2026-09-20T0:00:00+02:00
+date: 2026-09-20T00:00:00+02:00
 slug: ''
 description: 'Concert de Tributo a Amaral al Casal de barri de Prosperitat, dins les Festes del Verdum: música en viu, energia i molta festa.'
 categories:

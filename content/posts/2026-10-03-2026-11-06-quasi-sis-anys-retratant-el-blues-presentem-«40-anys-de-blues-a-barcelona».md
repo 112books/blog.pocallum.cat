@@ -1,6 +1,6 @@
 ---
 title: '2026-11-06 - Quasi sis anys retratant el blues: presentem «40 anys de blues a Barcelona»'
-date: 2026-10-03T0:00:00+02:00
+date: 2026-10-03T00:00:00+02:00
 slug: ''
 categories: []
 tags:

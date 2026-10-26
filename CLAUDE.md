@@ -385,6 +385,10 @@ En publicar el post *BAUM Fest 2026* des del CMS, ni la miniatura a la portada n
 
 En crear el post *Asta and Salma en gran fromat* des del CMS, la pujada de la fotografia (JPG de 1,2 MB) va fallar amb **«failed to fetch»**, però Sveltia **0.217.0** va desar igualment el post amb `thumbnail:`/`image:` apuntant al fitxer inexistent → imatge i `og:image` amb 404. Causa: bug [sveltia/sveltia-cms#1012](https://github.com/sveltia/sveltia-cms/issues/1012) (una sola mutació `createCommitOnBranch` per a totes les addicions; si GitHub falla amb 502/timeout —sense capçaleres CORS, el navegador només diu *failed to fetch*—, l'entrada es desa sense els recursos). Corregit a la **v0.221.1**. **Fix:** (1) commit `b5cdcfc491` — JPG original restaurat a `static/media/` amb el nom exacte del frontmatter + dimensions a `data/imatges_dim.json` (hero amb WebP de 2500); (2) commit `1e77600e65` — bundle self-hosted actualitzat **0.217.0 → 0.234.0** i CSP de `/admin/` ampliat (`blob:` a `connect-src`/`frame-src`, `manifest-src blob:`). Verificat a producció (JPG i WebP 200, `og:image` correcte; bundle 0.234.0, sha256 `51a07123…`). Detall a `docs/INCIDENCIA-IMATGE-CMS-2026-10-11.md`. **Nota:** el bundle `.mjs` es renombra a `sveltia-cms.js` i es carrega amb `type="module"`; Sveltia emet un `console.warn` «not an ES module» que és un fals positiu del seu xec per nom de fitxer (també apareixia a la 0.217.0). **Pendent de l'usuari:** confirmar el login del CMS i tornar a provar una pujada; si fallés, recollir l'error exacte de la consola.
 
+**Fix aplicat (2026-10-12) — imatge del contingut no renderitzada per URL amb espais sense encodar al Markdown:**
+
+En publicar el post *Holga Week amb una Holga CFN*, una de les dues imatges del cos del post no apareixia. Causa: el CMS havia escrit la URL de la imatge amb espais sense percent-encodar (`/media/2026-10-08 - Holga-CFN - ... - B - 0001.jpg`). **goldmark (CommonMark) no accepta espais en URLs de links/imatges sense `<>`**: en lloc de generar un `<img>`, va deixar la sintaxi `![alt](url)` com a text pla visible. La guàrdia `#ZgotmplZ` no ho detectava perquè no hi havia atribut HTML insegur — simplement no hi havia `<img>`. **Fix (commit `1cd8a8e853`):** (1) URL del post corregida amb `%20`; (2) `themes/blog/layouts/_markup/render-image.html` aplica `replace .Destination " " "%20"` defensivament; (3) nova guàrdia als dos workflows (`grep -rlP '!\[.+?\]\(/' public/`) que atura el deploy si queda markdown d'imatge sense renderitzar. Detall a `docs/INCIDENCIA-IMATGE-MARKDOWN-URL-ESPAIS-2026-10-12.md`. El CMS és inconsistent: de vegades encoda els espais i de vegades no; la guàrdia és la xarxa de seguretat.
+
 ### Configuració del CMS (config.yml)
 
 ```yaml
@@ -402,6 +406,8 @@ collections:
 **Imatges:** widget `image` → drag&drop → van a `static/media/` → commitades automàticament al repo.
 **Categories:** 92 termes gestionats com a col·lecció separada (content/categories/*/\_index.md).
 **Fons pàgines:** camp `imatgeFons` al frontmatter (widgets image a les pàgines fixes + \_index.md per al home).
+
+**Data i hora (2026-10-12):** el camp `date` dels posts accepta **hora** a més del dia (`time_format: "HH:mm"`, `format: "YYYY-MM-DDTHH:mm:ssZ"`, `default: "{{now}}"`). L'ordre de la portada, els llistats, l'arxiu i la tira del single surt de `.Date` (`.ByDate.Reverse`): amb hora, dos posts del mateix dia queden en l'ordre correcte (el més recent primer) en lloc de desempatar-se pel títol. L'URL no canvia (segueix sent `/:year/:month/:day/:slug/`). Les 13 dates que el CMS havia escrit amb hora d'un sol dígit (`T0:00:00`) s'han normalitzat a `T00:00:00` perquè el widget les torni a llegir bé.
 
 ### Workflow: deploy-produccio.yml (ja creat)
 

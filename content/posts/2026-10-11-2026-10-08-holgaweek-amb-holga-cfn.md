@@ -1,6 +1,6 @@
 ---
 title: 2026-10-08 — Holga Week amb una Holga CFN
-date: 2026-10-12T0:00:00+02:00
+date: 2026-10-12T00:00:00+02:00
 slug: ''
 categories:
   - holga-120cfn
