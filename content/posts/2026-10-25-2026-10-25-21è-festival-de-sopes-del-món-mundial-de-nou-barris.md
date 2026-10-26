@@ -26,7 +26,7 @@ thumbnail: /media/DSCF8484.jpg
 thumbnail_alt: Joves participants reparteixen la seva sopa durant el 21è Festival de Sopes del Món Mundial de Nou Barris, celebrat al barri de Canyelles el 25 d’octubre de 2026, en una jornada de convivència i diversitat cultural.
 image: /media/DSCF8484.jpg
 image_alt: Joves participants reparteixen la seva sopa durant el 21è Festival de Sopes del Món Mundial de Nou Barris, celebrat al barri de Canyelles el 25 d’octubre de 2026, en una jornada de convivència i diversitat cultural.
-album_url: https://photos.app.goo.gl/AZgAUgptxsSD5dRFA
+album_url: https://photos.app.goo.gl/9Dgq6UqvZ25b9Qy6A
 draft: false
 author: Pocallum
 noindex: false
