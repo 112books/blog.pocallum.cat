@@ -61,3 +61,4 @@ El `og:image` ja és correcte (1200 px, ~95 KB), però les xarxes guarden el pre
 - **Pàgines legals:** *Avís Legal*, *Política de Privacitat* i *Política de Cookies* **tenen contingut** (2,1 / 3,4 / 1,4 KB) i serveixen 200. La nota antiga deia que estaven buides *al WordPress*; al passar a Hugo es van omplir.
 - **Vídeos de Vimeo:** verificat al navegador real (2026-10-20) que es veuen bé al post de Ciutat Flamenco. El missatge de restricció només sortia al Chrome headless.
 - **Límit de 2500 px** a `static/media` (workflow `optimitza-media.yml`), **og:image** a 1200 px, **títols i rànquings per període** al dashboard.
+- **Hora als posts (2026-10-26):** el camp `date` del CMS accepta hora (`time_format: HH:mm`); l'ordre de portada/llistats/arxiu/tiro surt de `.Date`, així que dos posts del mateix dia es poden ordenar. Documentat a `docs/MANUAL-CMS.md`.

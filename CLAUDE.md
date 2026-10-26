@@ -407,6 +407,8 @@ collections:
 **Categories:** 92 termes gestionats com a col·lecció separada (content/categories/*/\_index.md).
 **Fons pàgines:** camp `imatgeFons` al frontmatter (widgets image a les pàgines fixes + \_index.md per al home).
 
+**Manual d'usuari (2026-10-26):** `docs/MANUAL-CMS.md` — guia per a qui publica des del CMS (camps, hora i ordre, imatges, drafts, errors típics). És el document que cal mantenir quan canviï el `config.yml`.
+
 **Data i hora (2026-10-12):** el camp `date` dels posts accepta **hora** a més del dia (`time_format: "HH:mm"`, `format: "YYYY-MM-DDTHH:mm:ssZ"`, `default: "{{now}}"`). L'ordre de la portada, els llistats, l'arxiu i la tira del single surt de `.Date` (`.ByDate.Reverse`): amb hora, dos posts del mateix dia queden en l'ordre correcte (el més recent primer) en lloc de desempatar-se pel títol. L'URL no canvia (segueix sent `/:year/:month/:day/:slug/`). Les 13 dates que el CMS havia escrit amb hora d'un sol dígit (`T0:00:00`) s'han normalitzat a `T00:00:00` perquè el widget les torni a llegir bé.
 
 ### Workflow: deploy-produccio.yml (ja creat)
