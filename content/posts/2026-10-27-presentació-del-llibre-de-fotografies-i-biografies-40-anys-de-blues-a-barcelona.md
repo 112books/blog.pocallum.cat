@@ -32,6 +32,8 @@ title-seo: 'Presentació de 40 anys de blues a Barcelona: llibre de fotografies 
 description: Després de sis anys de treball, presentem 40 anys de blues a Barcelona, un llibre amb les biografies de 150 músics i fotografies de Joan Linux. Presentació, exposició, venda i signatura d’exemplars el 6 de novembre a L’Hospitalet, dins el cicle L’H Blues & Boogie.
 ---
 
+![Cartell oficial de la presentació del llibre 40 anys de blues a Barcelona i de la inauguració de l’exposició fotogràfica, el divendres 6 de novembre de 2026, a les 19 h, al Centre Cultural Collblanc – La Torrassa, dins el cicle L’H Blues & Boogie.](/media/Presentació%20+%20Exposició%2040%20anys%20de%20Blues%20a%20Barcelona%20Cartell%20(2500).jpg)
+
 Després de **sis anys de treball**, presentem [_40 anys de blues a Barcelona_](https://40anysblues.112books.eu/), un projecte que documenta la trajectòria de l’escena barcelonina del blues.
 
 El llibre recull les biografies de **150 músics**, redactades per **Manolo López Poy**, i els retrats fotogràfics que **Joan Linux** ha realitzat artesanalment amb càmeres de gran format. Un projecte ben boig, que vol ser alhora una guia i un homenatge als protagonistes d’aquest gènere musical a Barcelona.
