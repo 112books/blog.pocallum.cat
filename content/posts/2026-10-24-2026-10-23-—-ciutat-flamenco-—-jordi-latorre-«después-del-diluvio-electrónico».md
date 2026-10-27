@@ -1,6 +1,6 @@
 ---
 title: '2026-10-23 — Ciutat Flamenco — Jordi Latorre: «Después del diluvio electrónico»'
-date: 2026-10-24T0:00:00+02:00
+date: 2026-10-24T19:00:00+02:00
 slug: ''
 categories:
   - canon-eos-5d-mark-ii
