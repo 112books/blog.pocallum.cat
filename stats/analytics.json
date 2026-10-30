@@ -1,10 +1,10 @@
 {
-  "generated": "2026-10-29T20:18:35.928568Z",
+  "generated": "2026-10-30T07:07:19.659113Z",
   "period": {
-    "start": "2025-10-29",
-    "end": "2026-10-29"
+    "start": "2025-10-30",
+    "end": "2026-10-30"
   },
-  "total": 2291,
+  "total": 2302,
   "total_unique": 0,
   "hits_by_day": [
     {
@@ -458,12 +458,20 @@
     {
       "date": "2026-10-28",
       "count": 24
+    },
+    {
+      "date": "2026-10-29",
+      "count": 8
+    },
+    {
+      "date": "2026-10-30",
+      "count": 3
     }
   ],
   "hits": [
     {
       "path": "/",
-      "count": 350
+      "count": 351
     },
     {
       "path": "/2026/07/11/2026-07-11-prospe-beach-again",
@@ -471,7 +479,7 @@
     },
     {
       "path": "/2026/07/26/2026-07-25-una-jornada-amb-els-barcelona-gipsy-balkan-orchestra",
-      "count": 47
+      "count": 48
     },
     {
       "path": "/cerca",
@@ -566,6 +574,10 @@
       "count": 12
     },
     {
+      "path": "/2026/10/24/2026-10-23-ciutat-flamenco-jordi-latorre-despu%C3%A9s-del-diluvio-electr%C3%B3nico",
+      "count": 12
+    },
+    {
       "path": "/2026/10/24/t%C3%ADtol-2026-10-22-ciutat-flamenco-ana-morales-m%C3%A1s-que-baile",
       "count": 12
     },
@@ -576,10 +588,6 @@
     {
       "path": "/2026/09/04/2026-09-04-lanomala",
       "count": 12
-    },
-    {
-      "path": "/2026/10/24/2026-10-23-ciutat-flamenco-jordi-latorre-despu%C3%A9s-del-diluvio-electr%C3%B3nico",
-      "count": 11
     },
     {
       "path": "/page/3",
@@ -665,10 +673,10 @@
   "hits_windows": [
     {
       "path": "/",
-      "d7": 35,
-      "d30": 117,
-      "d90": 293,
-      "d365": 350
+      "d7": 34,
+      "d30": 114,
+      "d90": 292,
+      "d365": 351
     },
     {
       "path": "/2026/07/11/2026-07-11-prospe-beach-again",
@@ -679,15 +687,15 @@
     },
     {
       "path": "/2026/07/26/2026-07-25-una-jornada-amb-els-barcelona-gipsy-balkan-orchestra",
-      "d7": 1,
-      "d30": 5,
+      "d7": 2,
+      "d30": 6,
       "d90": 14,
-      "d365": 47
+      "d365": 48
     },
     {
       "path": "/cerca",
       "d7": 1,
-      "d30": 13,
+      "d30": 12,
       "d90": 34,
       "d365": 37
     },
@@ -701,13 +709,13 @@
     {
       "path": "/2026/09/20/2026-09-19-casal-de-barri-de-prosperitat-tributo-a-amaral",
       "d7": 0,
-      "d30": 6,
+      "d30": 5,
       "d90": 28,
       "d365": 28
     },
     {
       "path": "/2026/10/19/2026-10-18-ciutat-flamenco-districte-flamenco",
-      "d7": 6,
+      "d7": 5,
       "d30": 26,
       "d90": 26,
       "d365": 26
@@ -715,35 +723,35 @@
     {
       "path": "/2026/09/20/2026-09-19-festa-major-de-verdum-verdum-punkfest",
       "d7": 1,
-      "d30": 7,
+      "d30": 4,
       "d90": 25,
       "d365": 25
     },
     {
       "path": "/2026/09/07/2026-09-06-festival-masimas-2026-el-parallel-oblidat-recordant-a-merche-mar",
       "d7": 0,
-      "d30": 4,
+      "d30": 3,
       "d90": 22,
       "d365": 22
     },
     {
       "path": "/arxiu",
       "d7": 3,
-      "d30": 8,
+      "d30": 6,
       "d90": 19,
       "d365": 19
     },
     {
       "path": "/2026/08/19/2026-08-18-despedida-anike-lamoso",
       "d7": 0,
-      "d30": 3,
+      "d30": 2,
       "d90": 19,
       "d365": 19
     },
     {
       "path": "/page/2",
       "d7": 3,
-      "d30": 13,
+      "d30": 11,
       "d90": 17,
       "d365": 17
     },
@@ -771,7 +779,7 @@
     {
       "path": "/contact",
       "d7": 1,
-      "d30": 3,
+      "d30": 2,
       "d90": 15,
       "d365": 16
     },
@@ -785,7 +793,7 @@
     {
       "path": "/about",
       "d7": 0,
-      "d30": 5,
+      "d30": 4,
       "d90": 14,
       "d365": 15
     },
@@ -799,7 +807,7 @@
     {
       "path": "/2026/09/01/2026-08-26-aiguestortes-de-dellui-a-lestany-llong-fugint-de-la-calor-estival",
       "d7": 0,
-      "d30": 2,
+      "d30": 1,
       "d90": 14,
       "d365": 14
     },
@@ -807,7 +815,7 @@
       "path": "/2026/07/31/2026-07-30-primeres-proves-per-al-repte-retrats-lents-de-112-revelats",
       "d7": 0,
       "d30": 0,
-      "d90": 14,
+      "d90": 11,
       "d365": 14
     },
     {
@@ -827,19 +835,26 @@
     {
       "path": "/aviso-legal",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 13,
       "d365": 13
     },
     {
       "path": "/2024/02/22/sessio-amb-la-ballarina-nahomi-itzel",
-      "d7": 1,
+      "d7": 0,
       "d30": 4,
       "d90": 10,
       "d365": 13
     },
     {
       "path": "/2026/10/25/2026-10-23-ciutat-flamenco-ciutat-batalla",
+      "d7": 12,
+      "d30": 12,
+      "d90": 12,
+      "d365": 12
+    },
+    {
+      "path": "/2026/10/24/2026-10-23-ciutat-flamenco-jordi-latorre-despu%C3%A9s-del-diluvio-electr%C3%B3nico",
       "d7": 12,
       "d30": 12,
       "d90": 12,
@@ -862,21 +877,14 @@
     {
       "path": "/2026/09/04/2026-09-04-lanomala",
       "d7": 0,
-      "d30": 2,
+      "d30": 1,
       "d90": 12,
       "d365": 12
     },
     {
-      "path": "/2026/10/24/2026-10-23-ciutat-flamenco-jordi-latorre-despu%C3%A9s-del-diluvio-electr%C3%B3nico",
-      "d7": 11,
-      "d30": 11,
-      "d90": 11,
-      "d365": 11
-    },
-    {
       "path": "/page/3",
       "d7": 3,
-      "d30": 10,
+      "d30": 9,
       "d90": 11,
       "d365": 11
     },
@@ -912,7 +920,7 @@
       "path": "/2026/04/08/superheadz-digital-harinezumila-magia-low-fi",
       "d7": 2,
       "d30": 3,
-      "d90": 7,
+      "d90": 6,
       "d365": 9
     },
     {
@@ -1016,7 +1024,7 @@
     {
       "path": "/page/5",
       "d7": 1,
-      "d30": 5,
+      "d30": 4,
       "d90": 6,
       "d365": 6
     },
@@ -1039,6 +1047,13 @@
       "d7": 0,
       "d30": 0,
       "d90": 2,
+      "d365": 6
+    },
+    {
+      "path": "/2026/06/27/2026-06-22a25-barcelona-big-blues-band-al-beatgarden-studios",
+      "d7": 2,
+      "d30": 5,
+      "d90": 5,
       "d365": 6
     },
     {
@@ -1154,13 +1169,6 @@
       "d365": 5
     },
     {
-      "path": "/2026/06/27/2026-06-22a25-barcelona-big-blues-band-al-beatgarden-studios",
-      "d7": 1,
-      "d30": 4,
-      "d90": 4,
-      "d365": 5
-    },
-    {
       "path": "/2026/06/02/2026-06-01-festes-de-prosperitat-xistorra-rock",
       "d7": 1,
       "d30": 2,
@@ -1173,6 +1181,13 @@
       "d30": 0,
       "d90": 0,
       "d365": 5
+    },
+    {
+      "path": "/2022/07/13/2022-07-09-20e-festival-de-blues-de-barcelona-barcelona-big-blues-band-ft-lluis-coloma",
+      "d7": 2,
+      "d30": 4,
+      "d90": 4,
+      "d365": 4
     },
     {
       "path": "/2026/10/11/2026-10-08-asta-and-salma-en-gran-fromat",
@@ -1191,7 +1206,7 @@
     {
       "path": "/2019/10/25/un-mati-amb-el-ferrer-juan-sin-sangre",
       "d7": 0,
-      "d30": 4,
+      "d30": 0,
       "d90": 4,
       "d365": 4
     },
@@ -1203,9 +1218,16 @@
       "d365": 4
     },
     {
+      "path": "/2026/06/27/2026-06-26-elvis-amb-barcelona-big-blues-band-agusti-burriel-the-velved-candels-noa-vd",
+      "d7": 1,
+      "d30": 3,
+      "d90": 4,
+      "d365": 4
+    },
+    {
       "path": "/2024/12/14/lliurament-de-premis-del-34e-concurs-fotografic-josep-anton-cordoncillo-jo-solana-trio",
       "d7": 0,
-      "d30": 2,
+      "d30": 0,
       "d90": 4,
       "d365": 4
     },
@@ -1219,7 +1241,7 @@
     {
       "path": "/2011/02/18/asturias-tatoo-expo-gijon-2009",
       "d7": 0,
-      "d30": 2,
+      "d30": 1,
       "d90": 4,
       "d365": 4
     },
@@ -1233,7 +1255,7 @@
     {
       "path": "/2021/12/18/entrega-de-premis-del-31e-concurs-de-fotografia-josep-anton-cordoncillo",
       "d7": 0,
-      "d30": 2,
+      "d30": 1,
       "d90": 4,
       "d365": 4
     },
@@ -1270,6 +1292,13 @@
       "d7": 0,
       "d30": 2,
       "d90": 2,
+      "d365": 4
+    },
+    {
+      "path": "/2026/03/21/2026-03-20-anton-jarls-kind-of-metal-al-jamboree",
+      "d7": 1,
+      "d30": 1,
+      "d90": 1,
       "d365": 4
     },
     {
@@ -1336,13 +1365,6 @@
       "d365": 3
     },
     {
-      "path": "/2022/07/13/2022-07-09-20e-festival-de-blues-de-barcelona-barcelona-big-blues-band-ft-lluis-coloma",
-      "d7": 1,
-      "d30": 3,
-      "d90": 3,
-      "d365": 3
-    },
-    {
       "path": "/tag/reviu-lespectacular-actuacio-de-la-barcelona-big-blues-band-al-vijazz-2015",
       "d7": 0,
       "d30": 3,
@@ -1366,14 +1388,7 @@
     {
       "path": "/2017/12/16/lliurament-de-premis-del-xxviii-concurs-de-fotografia-josep-anton-cordoncillo",
       "d7": 0,
-      "d30": 1,
-      "d90": 3,
-      "d365": 3
-    },
-    {
-      "path": "/2026/06/27/2026-06-26-elvis-amb-barcelona-big-blues-band-agusti-burriel-the-velved-candels-noa-vd",
-      "d7": 0,
-      "d30": 2,
+      "d30": 0,
       "d90": 3,
       "d365": 3
     },
@@ -1500,14 +1515,14 @@
       "path": "/2025/10/17/estrenant-la-camera-estenopeica-zero-2000",
       "d7": 0,
       "d30": 0,
-      "d90": 3,
+      "d90": 2,
       "d365": 3
     },
     {
       "path": "/2025/08/31/2025-08-26-tocant-el-cel-una-ruta-pels-pirineus",
       "d7": 0,
       "d30": 0,
-      "d90": 3,
+      "d90": 2,
       "d365": 3
     },
     {
@@ -1525,16 +1540,9 @@
       "d365": 3
     },
     {
-      "path": "/2026/03/21/2026-03-20-anton-jarls-kind-of-metal-al-jamboree",
-      "d7": 0,
-      "d30": 0,
-      "d90": 1,
-      "d365": 3
-    },
-    {
       "path": "/2024/11/16/2024-11-15-sant-xibeco-el-persianas-los-influencers-muertos",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 1,
       "d365": 3
     },
@@ -1665,23 +1673,30 @@
       "d365": 2
     },
     {
+      "path": "/2012/01/28/13-barcelona-tattoo-expo",
+      "d7": 1,
+      "d30": 2,
+      "d90": 2,
+      "d365": 2
+    },
+    {
       "path": "/page/199",
       "d7": 0,
-      "d30": 2,
+      "d30": 1,
       "d90": 2,
       "d365": 2
     },
     {
       "path": "/page/201",
       "d7": 0,
-      "d30": 2,
+      "d30": 1,
       "d90": 2,
       "d365": 2
     },
     {
       "path": "/2025/12/20/2025-12-19-dani-roto-posa-blues-a-lentrega-de-premis-del-35e-concurs-cordoncillo",
       "d7": 0,
-      "d30": 2,
+      "d30": 1,
       "d90": 2,
       "d365": 2
     },
@@ -1695,7 +1710,7 @@
     {
       "path": "/2021/12/17/2021-12-16-trofeus-juan-sin-sangre-per-9-barris-imatge",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 2,
       "d365": 2
     },
@@ -1737,7 +1752,7 @@
     {
       "path": "/tag/josep-anton-cordoncillo",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 2,
       "d365": 2
     },
@@ -1766,6 +1781,13 @@
       "path": "/tag/reggae-catalunya",
       "d7": 0,
       "d30": 0,
+      "d90": 2,
+      "d365": 2
+    },
+    {
+      "path": "/2011/10/01/barcelona-tattoo-expo-2011-divendres",
+      "d7": 1,
+      "d30": 1,
       "d90": 2,
       "d365": 2
     },
@@ -2297,7 +2319,7 @@
     {
       "path": "/tag/nou-barris-imatge",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 1,
       "d365": 2
     },
@@ -2426,6 +2448,20 @@
       "d30": 1,
       "d90": 1,
       "d365": 2
+    },
+    {
+      "path": "/2011/09/14/fotos-del-disc-de-bang-de-the-big-jamboree",
+      "d7": 1,
+      "d30": 1,
+      "d90": 1,
+      "d365": 1
+    },
+    {
+      "path": "/2011/10/02/barcelona-tattoo-expo-2011-dissabte",
+      "d7": 1,
+      "d30": 1,
+      "d90": 1,
+      "d365": 1
     },
     {
       "path": "/2023/08/03/2023-08-02-intercanvi-internacional-de-circ-barcelona-2023",
@@ -2674,7 +2710,7 @@
     },
     {
       "path": "/2026/01/13/antroporfomologia-01-el-naixement-duna-bestia-en-forma-de-fotollibre",
-      "d7": 1,
+      "d7": 0,
       "d30": 1,
       "d90": 1,
       "d365": 1
@@ -3408,13 +3444,6 @@
       "d365": 1
     },
     {
-      "path": "/2012/01/28/13-barcelona-tattoo-expo",
-      "d7": 0,
-      "d30": 1,
-      "d90": 1,
-      "d365": 1
-    },
-    {
       "path": "/2018/11/29/masterclass-amb-fulvio-paredes",
       "d7": 0,
       "d30": 1,
@@ -3585,259 +3614,259 @@
     {
       "path": "/page/200",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/tag/cultura/page/3",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/tag/cultura/page/2",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/category/ttartisian-27f-2-8",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/category/ttartisian-27f-2-8/page/2",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/tag/exposicio",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/tag/exposicio/page/2",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/posts/page/20",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/posts/page/7",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/posts/page/53",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/posts/page/92",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/category/jupiter-12-35mm-f-2-8",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/posts/page/83",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/tag/exposicio-fotografica",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/tag/9-barris-imatge",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/tag/casal-de-prosperitat",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/tag/esdeveniments-culturals",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/tag/jurat-fotografic",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/tag/fotografia-a-nou-barris",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/tag/blues-en-directe",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/tag/dani-roto",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/tag/musica-i-fotografia",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/tag/jo-solana-trio",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/tag/concurs-fotografic",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/tag/premis-josep-anton-cordoncillo",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/2023/12/16/2023-12-15-concert-sweet-marta-johnny-bigstone-a-la-entrega-de-premis-del-33e-concurs-josep-anton-cordoncillo",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/2018/12/15/lliurament-de-premis-de-la-29a-edicio-del-concurs-josep-anton-cordoncillo",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/tag/concurs-cordoncillo",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/politica-de-privacidad",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/2024/10/25/2024-10-25-mash-beer-fest-2024",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/2015/04/08/torre-baro-panoramica-analogica",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/2024/11/01/2024-10-31-escapada-al-montseny",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/2024/12/09/2024-10-31-montseny-en-color-analogic",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/2024/12/17/2024-09-menorca-un-tour-fotografic-a-lilla-estimada",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/2024/12/21/2024-12-20-no-somos-amigas-pd-surito",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/2024/12/23/2024-09-menorca-amb-telefon",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/arxiu/2024",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 1,
       "d365": 1
     },
@@ -4704,13 +4733,6 @@
     },
     {
       "path": "/2012/01/28/daniel-higienico-al-sidecar",
-      "d7": 0,
-      "d30": 0,
-      "d90": 1,
-      "d365": 1
-    },
-    {
-      "path": "/2011/10/01/barcelona-tattoo-expo-2011-divendres",
       "d7": 0,
       "d30": 0,
       "d90": 1,
@@ -6099,14 +6121,14 @@
       "path": "/category/camara/zero-2000-basic-version",
       "d7": 0,
       "d30": 0,
-      "d90": 1,
+      "d90": 0,
       "d365": 1
     },
     {
       "path": "/?p=41040",
       "d7": 0,
       "d30": 0,
-      "d90": 1,
+      "d90": 0,
       "d365": 1
     },
     {
@@ -6776,8 +6798,8 @@
     }
   ],
   "by_section": {
-    "inici": 350,
-    "posts": 1135,
+    "inici": 351,
+    "posts": 1145,
     "cerca": 37,
     "arxiu": 28,
     "page": 65,
@@ -7048,7 +7070,8 @@
       "2026-10-25": 9,
       "2026-10-26": 7,
       "2026-10-27": 4,
-      "2026-10-28": 2
+      "2026-10-28": 2,
+      "2026-10-29": 1
     },
     "/2026/07/11/2026-07-11-prospe-beach-again": {
       "2026-07-11": 5,
@@ -7090,7 +7113,8 @@
       "2026-10-04": 1,
       "2026-10-15": 2,
       "2026-10-21": 1,
-      "2026-10-26": 1
+      "2026-10-26": 1,
+      "2026-10-29": 1
     },
     "/cerca": {
       "2026-07-07": 1,
@@ -7367,6 +7391,12 @@
       "2026-10-27": 3,
       "2026-10-28": 1
     },
+    "/2026/10/24/2026-10-23-ciutat-flamenco-jordi-latorre-despu%C3%A9s-del-diluvio-electr%C3%B3nico": {
+      "2026-10-24": 7,
+      "2026-10-25": 3,
+      "2026-10-27": 1,
+      "2026-10-29": 1
+    },
     "/2026/10/24/t%C3%ADtol-2026-10-22-ciutat-flamenco-ana-morales-m%C3%A1s-que-baile": {
       "2026-10-24": 6,
       "2026-10-25": 3,
@@ -7391,11 +7421,6 @@
       "2026-09-28": 1,
       "2026-09-29": 1,
       "2026-10-15": 1
-    },
-    "/2026/10/24/2026-10-23-ciutat-flamenco-jordi-latorre-despu%C3%A9s-del-diluvio-electr%C3%B3nico": {
-      "2026-10-24": 7,
-      "2026-10-25": 3,
-      "2026-10-27": 1
     },
     "/page/3": {
       "2026-09-20": 1,
@@ -7554,6 +7579,14 @@
       "2026-09-06": 1,
       "2026-09-18": 1
     },
+    "/2026/06/27/2026-06-22a25-barcelona-big-blues-band-al-beatgarden-studios": {
+      "2026-07-14": 1,
+      "2026-10-15": 1,
+      "2026-10-18": 1,
+      "2026-10-20": 1,
+      "2026-10-28": 1,
+      "2026-10-29": 1
+    },
     "/2025/10/30/2025-10-30-castanyada-diabolica-de-la-sagrera": {
       "2026-07-08": 1,
       "2026-08-01": 1,
@@ -7632,13 +7665,6 @@
       "2026-10-21": 1,
       "2026-10-25": 2
     },
-    "/2026/06/27/2026-06-22a25-barcelona-big-blues-band-al-beatgarden-studios": {
-      "2026-07-14": 1,
-      "2026-10-15": 1,
-      "2026-10-18": 1,
-      "2026-10-20": 1,
-      "2026-10-28": 1
-    },
     "/2026/06/02/2026-06-01-festes-de-prosperitat-xistorra-rock": {
       "2026-07-12": 1,
       "2026-08-07": 1,
@@ -7649,6 +7675,12 @@
     "/2012/01/28/prospe-beach-2010": {
       "2026-07-12": 4,
       "2026-07-15": 1
+    },
+    "/2022/07/13/2022-07-09-20e-festival-de-blues-de-barcelona-barcelona-big-blues-band-ft-lluis-coloma": {
+      "2026-10-15": 1,
+      "2026-10-18": 1,
+      "2026-10-28": 1,
+      "2026-10-29": 1
     },
     "/2026/10/11/2026-10-08-asta-and-salma-en-gran-fromat": {
       "2026-10-11": 2,
@@ -7667,6 +7699,12 @@
       "2026-09-14": 1,
       "2026-09-16": 1,
       "2026-10-14": 1
+    },
+    "/2026/06/27/2026-06-26-elvis-amb-barcelona-big-blues-band-agusti-burriel-the-velved-candels-noa-vd": {
+      "2026-09-08": 1,
+      "2026-10-06": 1,
+      "2026-10-15": 1,
+      "2026-10-29": 1
     },
     "/2024/12/14/lliurament-de-premis-del-34e-concurs-fotografic-josep-anton-cordoncillo-jo-solana-trio": {
       "2026-08-29": 1,
@@ -7719,6 +7757,12 @@
       "2026-10-15": 1,
       "2026-10-18": 1
     },
+    "/2026/03/21/2026-03-20-anton-jarls-kind-of-metal-al-jamboree": {
+      "2026-07-13": 1,
+      "2026-07-30": 1,
+      "2026-07-31": 1,
+      "2026-10-29": 1
+    },
     "/2026/02/13/2026-02-12-bar-moebius-amb-tarantula-friends": {
       "2026-07-11": 1,
       "2026-07-14": 1,
@@ -7767,11 +7811,6 @@
       "2026-10-26": 1,
       "2026-10-28": 1
     },
-    "/2022/07/13/2022-07-09-20e-festival-de-blues-de-barcelona-barcelona-big-blues-band-ft-lluis-coloma": {
-      "2026-10-15": 1,
-      "2026-10-18": 1,
-      "2026-10-28": 1
-    },
     "/tag/reviu-lespectacular-actuacio-de-la-barcelona-big-blues-band-al-vijazz-2015": {
       "2026-10-15": 1,
       "2026-10-18": 1,
@@ -7790,11 +7829,6 @@
       "2026-09-17": 1,
       "2026-09-24": 1,
       "2026-09-29": 1
-    },
-    "/2026/06/27/2026-06-26-elvis-amb-barcelona-big-blues-band-agusti-burriel-the-velved-candels-noa-vd": {
-      "2026-09-08": 1,
-      "2026-10-06": 1,
-      "2026-10-15": 1
     },
     "/2026/09/04/2026-08-22-te-v-1009": {
       "2026-09-04": 1,
@@ -7880,11 +7914,6 @@
       "2026-09-17": 1,
       "2026-10-16": 1
     },
-    "/2026/03/21/2026-03-20-anton-jarls-kind-of-metal-al-jamboree": {
-      "2026-07-13": 1,
-      "2026-07-30": 1,
-      "2026-07-31": 1
-    },
     "/2024/11/16/2024-11-15-sant-xibeco-el-persianas-los-influencers-muertos": {
       "2026-07-12": 2,
       "2026-09-29": 1
@@ -7961,6 +7990,10 @@
       "2026-10-07": 1,
       "2026-10-20": 1
     },
+    "/2012/01/28/13-barcelona-tattoo-expo": {
+      "2026-10-03": 1,
+      "2026-10-29": 1
+    },
     "/page/199": {
       "2026-09-29": 1,
       "2026-10-02": 1
@@ -8020,6 +8053,10 @@
     "/tag/reggae-catalunya": {
       "2026-08-24": 1,
       "2026-08-25": 1
+    },
+    "/2011/10/01/barcelona-tattoo-expo-2011-divendres": {
+      "2026-08-17": 1,
+      "2026-10-30": 1
     },
     "/2011/05/08/fotografia-la-cultura-va-de-festa-parc-de-la": {
       "2026-08-17": 1,
@@ -8338,6 +8375,12 @@
     "/tag/berta-cots": {
       "2026-07-07": 1,
       "2026-10-20": 1
+    },
+    "/2011/09/14/fotos-del-disc-de-bang-de-the-big-jamboree": {
+      "2026-10-30": 1
+    },
+    "/2011/10/02/barcelona-tattoo-expo-2011-dissabte": {
+      "2026-10-30": 1
     },
     "/2023/08/03/2023-08-02-intercanvi-internacional-de-circ-barcelona-2023": {
       "2026-10-28": 1
@@ -8758,9 +8801,6 @@
     },
     "/2018/05/01/albarracin-terol-arago": {
       "2026-10-04": 1
-    },
-    "/2012/01/28/13-barcelona-tattoo-expo": {
-      "2026-10-03": 1
     },
     "/2018/11/29/masterclass-amb-fulvio-paredes": {
       "2026-10-03": 1
@@ -9315,9 +9355,6 @@
       "2026-08-17": 1
     },
     "/2012/01/28/daniel-higienico-al-sidecar": {
-      "2026-08-17": 1
-    },
-    "/2011/10/01/barcelona-tattoo-expo-2011-divendres": {
       "2026-08-17": 1
     },
     "/?query-0-page=120": {
@@ -10314,7 +10351,9 @@
       "2026-10-25": 36,
       "2026-10-26": 32,
       "2026-10-27": 13,
-      "2026-10-28": 18
+      "2026-10-28": 18,
+      "2026-10-29": 7,
+      "2026-10-30": 3
     },
     "inici": {
       "2026-07-07": 5,
@@ -10417,7 +10456,8 @@
       "2026-10-25": 9,
       "2026-10-26": 7,
       "2026-10-27": 4,
-      "2026-10-28": 2
+      "2026-10-28": 2,
+      "2026-10-29": 1
     },
     "category": {
       "2026-07-12": 1,
@@ -11123,7 +11163,7 @@
     },
     {
       "path": "/2026/07/26/2026-07-25-una-jornada-amb-els-barcelona-gipsy-balkan-orchestra",
-      "count": 47
+      "count": 48
     },
     {
       "path": "/2026/08/19/2026-08-18-isadora-passos-suspensio-capilar",
@@ -11182,12 +11222,12 @@
     {
       "name": "Chrome",
       "id": "Chrome",
-      "count": 1694
+      "count": 1696
     },
     {
       "name": "Safari",
       "id": "Safari",
-      "count": 480
+      "count": 484
     },
     {
       "name": "Firefox",
@@ -11209,7 +11249,7 @@
     {
       "name": "macOS",
       "id": "macOS",
-      "count": 845
+      "count": 846
     },
     {
       "name": "Linux",
@@ -11219,17 +11259,17 @@
     {
       "name": "iOS",
       "id": "iOS",
-      "count": 341
+      "count": 345
+    },
+    {
+      "name": "Android",
+      "id": "Android",
+      "count": 337
     },
     {
       "name": "Windows",
       "id": "Windows",
       "count": 337
-    },
-    {
-      "name": "Android",
-      "id": "Android",
-      "count": 336
     },
     {
       "name": "Desconegut",
@@ -11246,12 +11286,12 @@
     {
       "name": "phone",
       "id": "phone",
-      "count": 661
+      "count": 666
     },
     {
       "name": "desktophd",
       "id": "desktophd",
-      "count": 587
+      "count": 588
     },
     {
       "name": "tablet",
@@ -11268,7 +11308,7 @@
     {
       "name": "Spain",
       "id": "ES",
-      "count": 1542
+      "count": 1548
     },
     {
       "name": "United States",
@@ -11350,7 +11390,7 @@
     {
       "name": "Google",
       "id": "Google",
-      "count": 149
+      "count": 151
     },
     {
       "name": "www.9barrisimatge.org",
@@ -11370,7 +11410,7 @@
     {
       "name": "pocallum.cat",
       "id": "pocallum.cat",
-      "count": 17
+      "count": 20
     },
     {
       "name": "ig",
@@ -11383,14 +11423,14 @@
       "count": 9
     },
     {
+      "name": "ivankovacevic.com",
+      "id": "ivankovacevic.com",
+      "count": 9
+    },
+    {
       "name": "l.threads.com",
       "id": "l.threads.com",
       "count": 6
-    },
-    {
-      "name": "duckduckgo.com",
-      "id": "duckduckgo.com",
-      "count": 5
     }
   ]
 }
