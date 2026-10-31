@@ -1,10 +1,10 @@
 {
-  "generated": "2026-10-30T23:48:28.997462Z",
+  "generated": "2026-10-31T12:30:47.912055Z",
   "period": {
-    "start": "2025-10-30",
-    "end": "2026-10-30"
+    "start": "2025-10-31",
+    "end": "2026-10-31"
   },
-  "total": 2302,
+  "total": 2304,
   "total_unique": 0,
   "hits_by_day": [
     {
@@ -465,7 +465,7 @@
     },
     {
       "date": "2026-10-30",
-      "count": 3
+      "count": 5
     }
   ],
   "hits": [
@@ -658,24 +658,24 @@
       "count": 7
     },
     {
+      "path": "/2025/10/30/2025-10-30-castanyada-diabolica-de-la-sagrera",
+      "count": 7
+    },
+    {
       "path": "/2011/07/03/montjuic-de-nit-amb-chino-the-big-bet-i-barce",
       "count": 6
     },
     {
       "path": "/2026/09/24/2026-09-24-la-merc%C3%A8-baixant-a-barcelona",
       "count": 6
-    },
-    {
-      "path": "/2026/09/21/2026-09-20-marian-barahona-blues-reunion-presenten-el-disc-randez-blue-al-jamboree",
-      "count": 6
     }
   ],
   "hits_windows": [
     {
       "path": "/",
-      "d7": 34,
-      "d30": 114,
-      "d90": 292,
+      "d7": 32,
+      "d30": 109,
+      "d90": 290,
       "d365": 351
     },
     {
@@ -689,7 +689,7 @@
       "path": "/2026/07/26/2026-07-25-una-jornada-amb-els-barcelona-gipsy-balkan-orchestra",
       "d7": 2,
       "d30": 6,
-      "d90": 14,
+      "d90": 13,
       "d365": 48
     },
     {
@@ -715,7 +715,7 @@
     },
     {
       "path": "/2026/10/19/2026-10-18-ciutat-flamenco-districte-flamenco",
-      "d7": 5,
+      "d7": 4,
       "d30": 26,
       "d90": 26,
       "d365": 26
@@ -723,7 +723,7 @@
     {
       "path": "/2026/09/20/2026-09-19-festa-major-de-verdum-verdum-punkfest",
       "d7": 1,
-      "d30": 4,
+      "d30": 3,
       "d90": 25,
       "d365": 25
     },
@@ -785,7 +785,7 @@
     },
     {
       "path": "/2026/10/18/2026-10-19-ciutat-flamenco-esperanza-garrido-firmamento",
-      "d7": 4,
+      "d7": 3,
       "d30": 15,
       "d90": 15,
       "d365": 15
@@ -800,7 +800,7 @@
     {
       "path": "/2026/09/30/2026-09-29-una-cr%C3%B2nica-per-a-9barrisimatge-andr%C3%A9s-naya-i-els-seus-dos-llibres",
       "d7": 0,
-      "d30": 14,
+      "d30": 10,
       "d90": 14,
       "d365": 14
     },
@@ -815,7 +815,7 @@
       "path": "/2026/07/31/2026-07-30-primeres-proves-per-al-repte-retrats-lents-de-112-revelats",
       "d7": 0,
       "d30": 0,
-      "d90": 11,
+      "d90": 8,
       "d365": 14
     },
     {
@@ -1001,6 +1001,13 @@
       "d365": 7
     },
     {
+      "path": "/2025/10/30/2025-10-30-castanyada-diabolica-de-la-sagrera",
+      "d7": 3,
+      "d30": 5,
+      "d90": 5,
+      "d365": 7
+    },
+    {
       "path": "/2011/07/03/montjuic-de-nit-amb-chino-the-big-bet-i-barce",
       "d7": 0,
       "d30": 6,
@@ -1053,13 +1060,6 @@
       "path": "/2026/06/27/2026-06-22a25-barcelona-big-blues-band-al-beatgarden-studios",
       "d7": 2,
       "d30": 5,
-      "d90": 5,
-      "d365": 6
-    },
-    {
-      "path": "/2025/10/30/2025-10-30-castanyada-diabolica-de-la-sagrera",
-      "d7": 3,
-      "d30": 4,
       "d90": 5,
       "d365": 6
     },
@@ -1508,7 +1508,7 @@
       "path": "/2025/11/02/2025-11-01-passatge-del-terror",
       "d7": 1,
       "d30": 1,
-      "d90": 3,
+      "d90": 2,
       "d365": 3
     },
     {
@@ -2448,6 +2448,13 @@
       "d30": 1,
       "d90": 1,
       "d365": 2
+    },
+    {
+      "path": "/2024/11/06/2024-11-02-nit-danimes-al-casal-de-prosperitat",
+      "d7": 1,
+      "d30": 1,
+      "d90": 1,
+      "d365": 1
     },
     {
       "path": "/2011/09/14/fotos-del-disc-de-bang-de-the-big-jamboree",
@@ -3593,21 +3600,21 @@
     {
       "path": "/2016/08/30/homedev79-lc-a-kodak-400-tx",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/tag/performance",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/edit",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 1,
       "d365": 1
     },
@@ -6114,7 +6121,7 @@
       "path": "/2025/11/14/2025-11-14-artistes-en-accio-a-la-nau-bostik",
       "d7": 0,
       "d30": 0,
-      "d90": 1,
+      "d90": 0,
       "d365": 1
     },
     {
@@ -6799,7 +6806,7 @@
   ],
   "by_section": {
     "inici": 351,
-    "posts": 1145,
+    "posts": 1147,
     "cerca": 37,
     "arxiu": 28,
     "page": 65,
@@ -7539,6 +7546,15 @@
       "2026-09-17": 2,
       "2026-09-20": 1
     },
+    "/2025/10/30/2025-10-30-castanyada-diabolica-de-la-sagrera": {
+      "2026-07-08": 1,
+      "2026-08-01": 1,
+      "2026-10-19": 1,
+      "2026-10-23": 1,
+      "2026-10-26": 1,
+      "2026-10-27": 1,
+      "2026-10-30": 1
+    },
     "/2011/07/03/montjuic-de-nit-amb-chino-the-big-bet-i-barce": {
       "2026-10-15": 1,
       "2026-10-16": 1,
@@ -7586,14 +7602,6 @@
       "2026-10-20": 1,
       "2026-10-28": 1,
       "2026-10-29": 1
-    },
-    "/2025/10/30/2025-10-30-castanyada-diabolica-de-la-sagrera": {
-      "2026-07-08": 1,
-      "2026-08-01": 1,
-      "2026-10-19": 1,
-      "2026-10-23": 1,
-      "2026-10-26": 1,
-      "2026-10-27": 1
     },
     "/2026/10/22/2026-10-22-ciutat-flamenco-ana-morales-m%C3%A1s-que-baile": {
       "2026-10-25": 1,
@@ -8375,6 +8383,9 @@
     "/tag/berta-cots": {
       "2026-07-07": 1,
       "2026-10-20": 1
+    },
+    "/2024/11/06/2024-11-02-nit-danimes-al-casal-de-prosperitat": {
+      "2026-10-30": 1
     },
     "/2011/09/14/fotos-del-disc-de-bang-de-the-big-jamboree": {
       "2026-10-30": 1
@@ -10353,7 +10364,7 @@
       "2026-10-27": 13,
       "2026-10-28": 18,
       "2026-10-29": 7,
-      "2026-10-30": 3
+      "2026-10-30": 5
     },
     "inici": {
       "2026-07-07": 5,
@@ -11222,7 +11233,7 @@
     {
       "name": "Chrome",
       "id": "Chrome",
-      "count": 1697
+      "count": 1703
     },
     {
       "name": "Safari",
@@ -11262,14 +11273,14 @@
       "count": 346
     },
     {
+      "name": "Windows",
+      "id": "Windows",
+      "count": 343
+    },
+    {
       "name": "Android",
       "id": "Android",
       "count": 338
-    },
-    {
-      "name": "Windows",
-      "id": "Windows",
-      "count": 337
     },
     {
       "name": "Desconegut",
@@ -11281,7 +11292,7 @@
     {
       "name": "desktop",
       "id": "desktop",
-      "count": 993
+      "count": 999
     },
     {
       "name": "phone",
@@ -11308,7 +11319,7 @@
     {
       "name": "Spain",
       "id": "ES",
-      "count": 1550
+      "count": 1553
     },
     {
       "name": "United States",
@@ -11371,13 +11382,13 @@
       "count": 5
     },
     {
-      "name": "Ecuador",
-      "id": "EC",
+      "name": "Switzerland",
+      "id": "CH",
       "count": 4
     },
     {
-      "name": "Croatia",
-      "id": "HR",
+      "name": "Ecuador",
+      "id": "EC",
       "count": 4
     }
   ],
@@ -11428,8 +11439,8 @@
       "count": 9
     },
     {
-      "name": "l.threads.com",
-      "id": "l.threads.com",
+      "name": "chatgpt.com",
+      "id": "chatgpt.com",
       "count": 6
     }
   ]
