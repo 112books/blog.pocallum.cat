@@ -21,9 +21,9 @@ tags:
   - 112 Books
   - Revela’t
 thumbnail: /media/L1570375.jpg
-thumbnail_alt: ''
+thumbnail_alt: Un moment de la xerrada de Paco Gómez (Fracaso Books) i Laura C. Vela (Ediciones Comisura)
 image: /media/L1570375.jpg
-image_alt: ''
+image_alt: Un moment de la xerrada de Paco Gómez (Fracaso Books) i Laura C. Vela (Ediciones Comisura)
 album_url: https://photos.app.goo.gl/AxJRF25cSAHtaQs47
 draft: false
 author: Pocallum
