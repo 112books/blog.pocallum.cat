@@ -40,7 +40,7 @@ Sense entendre’n gaire —insisteixo, com sempre— i sense ser especialista e
 
 Aquí, aquesta colla ha portat el flamenc a un extrem que gairebé —però només gairebé— deriva en una altra cosa. Han aprofitat la tecnologia de manera molt impactant: escenografia amb projeccions en directe mitjançant telèfons i altres andròmines, ambientacions de colors sòlids —en una travessa en què cada color protagonitza una peça— i ritmes i textures sonores ben potents i punyents. També, és clar, hi ha hagut ball flamenc —que semblava entrenar una IA— i un impressionant joc d’ombres i projeccions amb un passadís fet només amb llençols. En alguns moments era molt complicat saber quantes persones ballaven realment.
 
-Però també ha sortit ell. Un cop més, els tempos i els límits del tempo eren una peça clau de l’obra. Impertèrrit, ha cantat jondament una mena de saeta. També hi ha hagut clarinets. I més ball.
+Però també hi ha hagut una veu. Un cop més, els tempos i els límits del tempo eren una peça clau de l’obra. Des de la taula de mescles, Jordi Latorre controlava el so, les imatges i els llums, mentre una veu cantava jondament una mena de saeta. També hi ha hagut clarinets. I més ball.
 
 Sens dubte, una experiència que, com es pot intuir pel títol, és ben poc convencional i gens ni mica tradicional.
 
