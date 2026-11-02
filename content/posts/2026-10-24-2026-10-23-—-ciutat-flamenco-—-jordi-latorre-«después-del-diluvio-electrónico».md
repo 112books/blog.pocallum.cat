@@ -55,8 +55,8 @@ Felicitats, felicitats i felicitats! Un nou fan incondicional!
 - Performance: [**Zúbel Arana**](https://www.instagram.com/zubeliya/)
 - Dramatúrgia: [**Aina Serena**](<Aina Serena>)
 - Disseny de llums: [**Fixture Overload**](https://www.instagram.com/fixtureoverload/)
-- Assessoria artística: **Juan Carlos Lérida i Pedro Ordóñez**
-- Tècnics de so: **Ander Mora i Joel Alexander**
+- Assessoria artística: [**Juan Carlos Lérida**](https://www.instagram.com/juancarlos.lerida/) **i** [**Pedro Ordóñez**](https://www.instagram.com/peeedrooo.es/)
+- Tècnics de so: [**Ander Mora**](https://www.instagram.com/andreaalamoora/) **i** [**Joel Alexander**](https://www.instagram.com/joelsander98/)
 - Mastering: [**Marc Teixidó**](https://www.instagram.com/marc.teixi/) **(Tetric)** 
 - Ajudant de producció: [**Marjorie Nastro**](https://www.instagram.com/la_tijera_y_el_papel/)
 
