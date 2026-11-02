@@ -1,10 +1,10 @@
 {
-  "generated": "2026-11-01T23:36:42.856010Z",
+  "generated": "2026-11-02T06:04:19.198319Z",
   "period": {
-    "start": "2025-11-01",
-    "end": "2026-11-01"
+    "start": "2025-11-02",
+    "end": "2026-11-02"
   },
-  "total": 2323,
+  "total": 2329,
   "total_unique": 0,
   "hits_by_day": [
     {
@@ -473,7 +473,7 @@
     },
     {
       "date": "2026-11-01",
-      "count": 3
+      "count": 9
     }
   ],
   "hits": [
@@ -681,9 +681,9 @@
   "hits_windows": [
     {
       "path": "/",
-      "d7": 27,
-      "d30": 108,
-      "d90": 294,
+      "d7": 18,
+      "d30": 103,
+      "d90": 291,
       "d365": 355
     },
     {
@@ -702,8 +702,8 @@
     },
     {
       "path": "/cerca",
-      "d7": 1,
-      "d30": 12,
+      "d7": 0,
+      "d30": 10,
       "d90": 34,
       "d365": 37
     },
@@ -717,20 +717,20 @@
     {
       "path": "/2026/09/20/2026-09-19-casal-de-barri-de-prosperitat-tributo-a-amaral",
       "d7": 0,
-      "d30": 4,
+      "d30": 3,
       "d90": 28,
       "d365": 28
     },
     {
       "path": "/2026/10/19/2026-10-18-ciutat-flamenco-districte-flamenco",
-      "d7": 3,
+      "d7": 1,
       "d30": 26,
       "d90": 26,
       "d365": 26
     },
     {
       "path": "/2026/09/20/2026-09-19-festa-major-de-verdum-verdum-punkfest",
-      "d7": 1,
+      "d7": 0,
       "d30": 3,
       "d90": 25,
       "d365": 25
@@ -738,14 +738,14 @@
     {
       "path": "/2026/09/07/2026-09-06-festival-masimas-2026-el-parallel-oblidat-recordant-a-merche-mar",
       "d7": 0,
-      "d30": 3,
+      "d30": 2,
       "d90": 22,
       "d365": 22
     },
     {
       "path": "/arxiu",
-      "d7": 3,
-      "d30": 6,
+      "d7": 2,
+      "d30": 5,
       "d90": 19,
       "d365": 19
     },
@@ -758,7 +758,7 @@
     },
     {
       "path": "/page/2",
-      "d7": 3,
+      "d7": 2,
       "d30": 11,
       "d90": 17,
       "d365": 17
@@ -787,7 +787,7 @@
     {
       "path": "/contact",
       "d7": 1,
-      "d30": 2,
+      "d30": 1,
       "d90": 15,
       "d365": 16
     },
@@ -801,14 +801,14 @@
     {
       "path": "/about",
       "d7": 0,
-      "d30": 4,
+      "d30": 2,
       "d90": 14,
       "d365": 15
     },
     {
       "path": "/2026/09/30/2026-09-29-una-cr%C3%B2nica-per-a-9barrisimatge-andr%C3%A9s-naya-i-els-seus-dos-llibres",
       "d7": 0,
-      "d30": 8,
+      "d30": 6,
       "d90": 14,
       "d365": 14
     },
@@ -856,21 +856,21 @@
     },
     {
       "path": "/2026/10/25/2026-10-23-ciutat-flamenco-ciutat-batalla",
-      "d7": 12,
-      "d30": 12,
-      "d90": 12,
-      "d365": 12
-    },
-    {
-      "path": "/2026/10/24/2026-10-23-ciutat-flamenco-jordi-latorre-despu%C3%A9s-del-diluvio-electr%C3%B3nico",
       "d7": 5,
       "d30": 12,
       "d90": 12,
       "d365": 12
     },
     {
+      "path": "/2026/10/24/2026-10-23-ciutat-flamenco-jordi-latorre-despu%C3%A9s-del-diluvio-electr%C3%B3nico",
+      "d7": 2,
+      "d30": 12,
+      "d90": 12,
+      "d365": 12
+    },
+    {
       "path": "/2026/10/24/t%C3%ADtol-2026-10-22-ciutat-flamenco-ana-morales-m%C3%A1s-que-baile",
-      "d7": 6,
+      "d7": 3,
       "d30": 12,
       "d90": 12,
       "d365": 12
@@ -878,7 +878,7 @@
     {
       "path": "/2026/09/06/visa-pour-limage-2026-una-jornada-de-fotoperiodisme-a-perpinya",
       "d7": 0,
-      "d30": 2,
+      "d30": 1,
       "d90": 12,
       "d365": 12
     },
@@ -891,8 +891,8 @@
     },
     {
       "path": "/page/3",
-      "d7": 3,
-      "d30": 9,
+      "d7": 2,
+      "d30": 8,
       "d90": 11,
       "d365": 11
     },
@@ -912,7 +912,7 @@
     },
     {
       "path": "/2026/10/25/2026-10-24-10-anys-de-date-una-huerta",
-      "d7": 9,
+      "d7": 7,
       "d30": 9,
       "d90": 9,
       "d365": 9
@@ -926,8 +926,8 @@
     },
     {
       "path": "/2026/04/08/superheadz-digital-harinezumila-magia-low-fi",
-      "d7": 2,
-      "d30": 3,
+      "d7": 0,
+      "d30": 2,
       "d90": 6,
       "d365": 9
     },
@@ -947,7 +947,7 @@
     },
     {
       "path": "/2026/10/25/2026-10-24-ciutat-flamenco-yoel-vargas-%C3%B3bito",
-      "d7": 8,
+      "d7": 5,
       "d30": 8,
       "d90": 8,
       "d365": 8
@@ -968,7 +968,7 @@
     },
     {
       "path": "/page/4",
-      "d7": 3,
+      "d7": 2,
       "d30": 7,
       "d90": 8,
       "d365": 8
@@ -1003,7 +1003,7 @@
     },
     {
       "path": "/2026/10/26/2026-10-24-10-anys-de-date-una-huerta",
-      "d7": 7,
+      "d7": 6,
       "d30": 7,
       "d90": 7,
       "d365": 7
@@ -1024,15 +1024,15 @@
     },
     {
       "path": "/categories",
-      "d7": 3,
-      "d30": 6,
+      "d7": 2,
+      "d30": 5,
       "d90": 6,
       "d365": 6
     },
     {
       "path": "/2026/09/24/2026-09-24-la-merc%C3%A8-baixant-a-barcelona",
       "d7": 0,
-      "d30": 2,
+      "d30": 1,
       "d90": 6,
       "d365": 6
     },
@@ -1080,7 +1080,14 @@
     },
     {
       "path": "/2026/10/22/2026-10-22-ciutat-flamenco-ana-morales-m%C3%A1s-que-baile",
-      "d7": 5,
+      "d7": 4,
+      "d30": 5,
+      "d90": 5,
+      "d365": 5
+    },
+    {
+      "path": "/2026/10/17/2026-10-17-14a-revelat-maneres-descapar",
+      "d7": 2,
       "d30": 5,
       "d90": 5,
       "d365": 5
@@ -1178,7 +1185,7 @@
     },
     {
       "path": "/2025/10/26/2025-10-25-ciutat-flamenco-barcelona-ciutat-batalla",
-      "d7": 2,
+      "d7": 0,
       "d30": 3,
       "d90": 4,
       "d365": 5
@@ -1198,15 +1205,15 @@
       "d365": 5
     },
     {
-      "path": "/2026/10/27/presentaci%C3%B3-del-llibre-de-fotografies-i-biografies-40-anys-de-blues-a-barcelona",
+      "path": "/2026/10/31/2026-10-28-i-29-festival-panor%C3%A0mic-fotoescriptures-al-cccb",
       "d7": 4,
       "d30": 4,
       "d90": 4,
       "d365": 4
     },
     {
-      "path": "/2026/10/17/2026-10-17-14a-revelat-maneres-descapar",
-      "d7": 1,
+      "path": "/2026/10/27/presentaci%C3%B3-del-llibre-de-fotografies-i-biografies-40-anys-de-blues-a-barcelona",
+      "d7": 4,
       "d30": 4,
       "d90": 4,
       "d365": 4
@@ -1263,7 +1270,7 @@
     {
       "path": "/2011/02/18/asturias-tatoo-expo-gijon-2009",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 4,
       "d365": 4
     },
@@ -1359,13 +1366,6 @@
       "d365": 4
     },
     {
-      "path": "/2026/10/31/2026-10-28-i-29-festival-panor%C3%A0mic-fotoescriptures-al-cccb",
-      "d7": 3,
-      "d30": 3,
-      "d90": 3,
-      "d365": 3
-    },
-    {
       "path": "/2026/10/23/2026-10-23-ciutat-flamenco-ciutat-batalla",
       "d7": 3,
       "d30": 3,
@@ -1374,7 +1374,7 @@
     },
     {
       "path": "/arxiu/2026/10",
-      "d7": 2,
+      "d7": 1,
       "d30": 3,
       "d90": 3,
       "d365": 3
@@ -1535,7 +1535,7 @@
     },
     {
       "path": "/2025/11/02/2025-11-01-passatge-del-terror",
-      "d7": 1,
+      "d7": 0,
       "d30": 1,
       "d90": 2,
       "d365": 3
@@ -1599,20 +1599,20 @@
     {
       "path": "/2011/09/01/holga-cfn-120-primer-test-en-asa-100",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 1,
       "d365": 3
     },
     {
       "path": "/2026/10/24/2026-10-22-ciutat-flamenco-ana-morales-m%C3%A1s-que-baile",
-      "d7": 2,
+      "d7": 1,
       "d30": 2,
       "d90": 2,
       "d365": 2
     },
     {
       "path": "/2025/07/17/2025-07-15-horsman-8x10-nadia-otshudi",
-      "d7": 2,
+      "d7": 1,
       "d30": 2,
       "d90": 2,
       "d365": 2
@@ -1627,6 +1627,13 @@
     {
       "path": "/tag/miranda-alfonso",
       "d7": 0,
+      "d30": 2,
+      "d90": 2,
+      "d365": 2
+    },
+    {
+      "path": "/2026/01/23/2026-01-22-inauguracio-sax-o-rama-2026",
+      "d7": 1,
       "d30": 2,
       "d90": 2,
       "d365": 2
@@ -1718,14 +1725,14 @@
     {
       "path": "/page/199",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 2,
       "d365": 2
     },
     {
       "path": "/page/201",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 2,
       "d365": 2
     },
@@ -1738,7 +1745,7 @@
     },
     {
       "path": "/tag/ciutat-batalla",
-      "d7": 1,
+      "d7": 0,
       "d30": 1,
       "d90": 2,
       "d365": 2
@@ -2367,6 +2374,13 @@
       "d365": 2
     },
     {
+      "path": "/2024/09/27/el-peto-de-la-mort",
+      "d7": 1,
+      "d30": 1,
+      "d90": 1,
+      "d365": 2
+    },
+    {
       "path": "/2012/01/22/placa-angel-pestana-prosperitat-barcelona",
       "d7": 0,
       "d30": 0,
@@ -2486,6 +2500,20 @@
       "d365": 2
     },
     {
+      "path": "/2018/11/17/san-xibeco-2018-dissabte",
+      "d7": 1,
+      "d30": 1,
+      "d90": 1,
+      "d365": 1
+    },
+    {
+      "path": "/2025/09/18/2025-09-11-la-magia-de-la-mitica-camera-lomography-lc-a",
+      "d7": 1,
+      "d30": 1,
+      "d90": 1,
+      "d365": 1
+    },
+    {
       "path": "/2024/11/10/2024-11-09-flamenco-de-barrio-taula-rodona-un-antes-y-un-despues-de-omega-kike-morente",
       "d7": 1,
       "d30": 1,
@@ -2599,154 +2627,154 @@
     },
     {
       "path": "/2011/02/12",
-      "d7": 1,
+      "d7": 0,
       "d30": 1,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/2013/05/25",
-      "d7": 1,
+      "d7": 0,
       "d30": 1,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/category/canon-eos-5/page/29",
-      "d7": 1,
+      "d7": 0,
       "d30": 1,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/wp-json/wp/v2/posts/32705",
-      "d7": 1,
+      "d7": 0,
       "d30": 1,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/2026/10/25/2026-10-24-ciutat-flamenco-yoel-vargas-%C3%B3bito/Yoel%20Vargas%20balla%20al%20costat%20de%20Juan%20Manuel%20de%20las%20Heras%20durant%20l%e2%80%99espectacle%20%c3%93bito,%20que%20combina%20flamenc,%20dansa%20contempor%c3%a0nia%20i%20m%c3%basica%20en%20directe%20al%20festival%20Ciutat%20Flamenco%202026,%20al%20Centre%20Artes%c3%a0%20Tradicion%c3%a0rius%20de%20Barcelona.",
-      "d7": 1,
+      "d7": 0,
       "d30": 1,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/2016/07/03",
-      "d7": 1,
+      "d7": 0,
       "d30": 1,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/2011/09/07/capitalisme-asiatic",
-      "d7": 1,
+      "d7": 0,
       "d30": 1,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/2015/06/02",
-      "d7": 1,
+      "d7": 0,
       "d30": 1,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/wp-json/oembed/1.0/embed?format=xml&url=https%3A%2F%2Fblog.pocallum.cat%2F2021%2F06%2F01%2F2021-05-29-atomic-leopards%2F",
-      "d7": 1,
+      "d7": 0,
       "d30": 1,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/2016/07/18/festival-de-blues-de-barcelona-wild-blues-a-torre-baro",
-      "d7": 1,
+      "d7": 0,
       "d30": 1,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/wp-json/oembed/1.0/embed?format=xml&url=https%3A%2F%2Fblog.pocallum.cat%2F2016%2F11%2F28%2Fhomedev85-leica-m6-hp5-400-forc%25cc%25a7at-a-1600-hc-110-131%2F",
-      "d7": 1,
+      "d7": 0,
       "d30": 1,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/2012/03/16",
-      "d7": 1,
+      "d7": 0,
       "d30": 1,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/2016/01/13/4673-noon-pinhole-612-fujichrome-provia-100f",
-      "d7": 1,
+      "d7": 0,
       "d30": 1,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/category/noon-pinhole-612",
-      "d7": 1,
+      "d7": 0,
       "d30": 1,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fblog.pocallum.cat%2F2013%2F07%2F13%2F11e-festival-de-blues-de-barcelona-big-dani-perez%2F",
-      "d7": 1,
+      "d7": 0,
       "d30": 1,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/wp-json/wp/v2/posts/39808",
-      "d7": 1,
+      "d7": 0,
       "d30": 1,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/wp-json/wp/v2/posts/3583",
-      "d7": 1,
+      "d7": 0,
       "d30": 1,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/2020/04/19",
-      "d7": 1,
+      "d7": 0,
       "d30": 1,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fblog.pocallum.cat%2F2012%2F03%2F06%2Ftorre-baro-al-capvespre%2F",
-      "d7": 1,
+      "d7": 0,
       "d30": 1,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/wp-json/wp/v2/posts/1624",
-      "d7": 1,
+      "d7": 0,
       "d30": 1,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/2015/05/19/hd49-caffenol-lc-a120-earl-grey-100",
-      "d7": 1,
+      "d7": 0,
       "d30": 1,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/2020/04/27/gran-dia-internacional-de-la-fotografia-estenopeica",
-      "d7": 1,
+      "d7": 0,
       "d30": 1,
       "d90": 1,
       "d365": 1
@@ -3026,13 +3054,6 @@
     },
     {
       "path": "/tag/11e-festival-de-blues-de-barcelona",
-      "d7": 0,
-      "d30": 1,
-      "d90": 1,
-      "d365": 1
-    },
-    {
-      "path": "/2026/01/23/2026-01-22-inauguracio-sax-o-rama-2026",
       "d7": 0,
       "d30": 1,
       "d90": 1,
@@ -3482,140 +3503,140 @@
     {
       "path": "/tag/straperlo-band",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/arxiu/2010",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/category/samyang-14-mm-f2-8-canon",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/category/canon-eos-6d/page/3",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/category/canon-eos-6d/page/2",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/category/canon-eos-6d",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/2012/01/28/cartell-cicle-lhospitalet-blues-boogie-2010",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/2011/12/01/holga-120-la-nostalgia-de-la-fotografia-analo",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/2012/10/09/lomography-holga-cfn",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/2013/07/15/lomo000659-holga-120-cfn-redscale-100",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/category/holga-120cfn/page/2",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/category/holga-120cfn/page/3",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/2014/04/16/homedev04-holga120s-rollei-retro-400",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/2016/08/24/retrats-de-la-prosperitat",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/2016/09/14/4331-holgas-120-portra-400",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/2020/05/13/one-hour-one-km-one-roll-2020-05-11",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/2022/04/17/2022-04-17-holga-s-ss-pedrola",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/category/holga-120s",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/2025/11/12/2025-11-11-natura-a-vista-dholga-cfn",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/tag/holga-120",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 1,
       "d365": 1
     },
@@ -6315,13 +6336,6 @@
       "d365": 1
     },
     {
-      "path": "/2024/09/27/el-peto-de-la-mort",
-      "d7": 0,
-      "d30": 0,
-      "d90": 0,
-      "d365": 1
-    },
-    {
       "path": "/2023/07/15/2023-07-14-iii-edicio-de-la-juganera-sagresamba-moon-walkers-band-les-testarudes-peko-selectors",
       "d7": 0,
       "d30": 0,
@@ -6828,7 +6842,7 @@
   ],
   "by_section": {
     "inici": 355,
-    "posts": 1161,
+    "posts": 1167,
     "cerca": 37,
     "arxiu": 28,
     "page": 65,
@@ -7642,6 +7656,13 @@
       "2026-10-26": 2,
       "2026-10-28": 2
     },
+    "/2026/10/17/2026-10-17-14a-revelat-maneres-descapar": {
+      "2026-10-19": 1,
+      "2026-10-21": 1,
+      "2026-10-24": 1,
+      "2026-10-31": 1,
+      "2026-11-01": 1
+    },
     "/2026/10/12/2026-10-08-holga-week-amb-una-holga-cfn": {
       "2026-10-12": 1,
       "2026-10-13": 1,
@@ -7718,16 +7739,14 @@
       "2026-07-12": 4,
       "2026-07-15": 1
     },
+    "/2026/10/31/2026-10-28-i-29-festival-panor%C3%A0mic-fotoescriptures-al-cccb": {
+      "2026-10-31": 2,
+      "2026-11-01": 2
+    },
     "/2026/10/27/presentaci%C3%B3-del-llibre-de-fotografies-i-biografies-40-anys-de-blues-a-barcelona": {
       "2026-10-27": 1,
       "2026-10-28": 1,
       "2026-10-31": 2
-    },
-    "/2026/10/17/2026-10-17-14a-revelat-maneres-descapar": {
-      "2026-10-19": 1,
-      "2026-10-21": 1,
-      "2026-10-24": 1,
-      "2026-10-31": 1
     },
     "/2022/07/13/2022-07-09-20e-festival-de-blues-de-barcelona-barcelona-big-blues-band-ft-lluis-coloma": {
       "2026-10-15": 1,
@@ -7838,10 +7857,6 @@
       "2026-07-08": 1,
       "2026-07-12": 1,
       "2026-08-08": 1
-    },
-    "/2026/10/31/2026-10-28-i-29-festival-panor%C3%A0mic-fotoescriptures-al-cccb": {
-      "2026-10-31": 2,
-      "2026-11-01": 1
     },
     "/2026/10/23/2026-10-23-ciutat-flamenco-ciutat-batalla": {
       "2026-10-26": 1,
@@ -8001,6 +8016,10 @@
     },
     "/tag/miranda-alfonso": {
       "2026-10-16": 2
+    },
+    "/2026/01/23/2026-01-22-inauguracio-sax-o-rama-2026": {
+      "2026-10-15": 1,
+      "2026-11-01": 1
     },
     "/2020/07/05/festival-de-blues-de-barcelona-chino-the-big-bet-sax-attack-2": {
       "2026-10-15": 1,
@@ -8364,6 +8383,10 @@
       "2026-07-18": 1,
       "2026-09-18": 1
     },
+    "/2024/09/27/el-peto-de-la-mort": {
+      "2026-07-15": 1,
+      "2026-11-01": 1
+    },
     "/2012/01/22/placa-angel-pestana-prosperitat-barcelona": {
       "2026-07-14": 1,
       "2026-09-25": 1
@@ -8430,6 +8453,12 @@
     "/tag/berta-cots": {
       "2026-07-07": 1,
       "2026-10-20": 1
+    },
+    "/2018/11/17/san-xibeco-2018-dissabte": {
+      "2026-11-01": 1
+    },
+    "/2025/09/18/2025-09-11-la-magia-de-la-mitica-camera-lomography-lc-a": {
+      "2026-11-01": 1
     },
     "/2024/11/10/2024-11-09-flamenco-de-barrio-taula-rodona-un-antes-y-un-despues-de-omega-kike-morente": {
       "2026-10-31": 1
@@ -8663,9 +8692,6 @@
       "2026-10-15": 1
     },
     "/tag/11e-festival-de-blues-de-barcelona": {
-      "2026-10-15": 1
-    },
-    "/2026/01/23/2026-01-22-inauguracio-sax-o-rama-2026": {
       "2026-10-15": 1
     },
     "/tag/big-band": {
@@ -10072,9 +10098,6 @@
     "/2026/04/23/2026-04-22-20-anys-de-la-sbb-al-fons-de-blues-de-la-biblioteca-tecla-sala": {
       "2026-07-15": 1
     },
-    "/2024/09/27/el-peto-de-la-mort": {
-      "2026-07-15": 1
-    },
     "/2023/07/15/2023-07-14-iii-edicio-de-la-juganera-sagresamba-moon-walkers-band-les-testarudes-peko-selectors": {
       "2026-07-15": 1
     },
@@ -10407,7 +10430,7 @@
       "2026-10-29": 7,
       "2026-10-30": 5,
       "2026-10-31": 13,
-      "2026-11-01": 1
+      "2026-11-01": 7
     },
     "inici": {
       "2026-07-07": 5,
@@ -11442,12 +11465,12 @@
     {
       "name": "Desconegut",
       "id": "Desconegut",
-      "count": 982
+      "count": 983
     },
     {
       "name": "Google",
       "id": "Google",
-      "count": 152
+      "count": 155
     },
     {
       "name": "www.9barrisimatge.org",
