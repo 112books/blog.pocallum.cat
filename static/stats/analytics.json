@@ -1,10 +1,10 @@
 {
-  "generated": "2026-11-02T23:31:04.394490Z",
+  "generated": "2026-11-03T06:48:06.470537Z",
   "period": {
-    "start": "2025-11-02",
-    "end": "2026-11-02"
+    "start": "2025-11-03",
+    "end": "2026-11-03"
   },
-  "total": 2329,
+  "total": 2338,
   "total_unique": 0,
   "hits_by_day": [
     {
@@ -474,12 +474,20 @@
     {
       "date": "2026-11-01",
       "count": 9
+    },
+    {
+      "date": "2026-11-02",
+      "count": 8
+    },
+    {
+      "date": "2026-11-03",
+      "count": 1
     }
   ],
   "hits": [
     {
       "path": "/",
-      "count": 355
+      "count": 356
     },
     {
       "path": "/2026/07/11/2026-07-11-prospe-beach-again",
@@ -503,7 +511,7 @@
     },
     {
       "path": "/2026/10/19/2026-10-18-ciutat-flamenco-districte-flamenco",
-      "count": 26
+      "count": 27
     },
     {
       "path": "/2026/09/20/2026-09-19-festa-major-de-verdum-verdum-punkfest",
@@ -530,6 +538,10 @@
       "count": 17
     },
     {
+      "path": "/2026/10/18/2026-10-19-ciutat-flamenco-esperanza-garrido-firmamento",
+      "count": 16
+    },
+    {
       "path": "/2026/10/17/2026-10-16-sopar-dentitats-al-casal-de-barri-de-prosperitat",
       "count": 16
     },
@@ -540,10 +552,6 @@
     {
       "path": "/contact",
       "count": 16
-    },
-    {
-      "path": "/2026/10/18/2026-10-19-ciutat-flamenco-esperanza-garrido-firmamento",
-      "count": 15
     },
     {
       "path": "/about",
@@ -681,10 +689,10 @@
   "hits_windows": [
     {
       "path": "/",
-      "d7": 18,
-      "d30": 103,
-      "d90": 291,
-      "d365": 355
+      "d7": 12,
+      "d30": 99,
+      "d90": 290,
+      "d365": 356
     },
     {
       "path": "/2026/07/11/2026-07-11-prospe-beach-again",
@@ -695,15 +703,15 @@
     },
     {
       "path": "/2026/07/26/2026-07-25-una-jornada-amb-els-barcelona-gipsy-balkan-orchestra",
-      "d7": 2,
+      "d7": 1,
       "d30": 6,
-      "d90": 12,
+      "d90": 11,
       "d365": 48
     },
     {
       "path": "/cerca",
       "d7": 0,
-      "d30": 10,
+      "d30": 9,
       "d90": 34,
       "d365": 37
     },
@@ -717,21 +725,21 @@
     {
       "path": "/2026/09/20/2026-09-19-casal-de-barri-de-prosperitat-tributo-a-amaral",
       "d7": 0,
-      "d30": 3,
+      "d30": 2,
       "d90": 28,
       "d365": 28
     },
     {
       "path": "/2026/10/19/2026-10-18-ciutat-flamenco-districte-flamenco",
-      "d7": 1,
-      "d30": 26,
-      "d90": 26,
-      "d365": 26
+      "d7": 2,
+      "d30": 27,
+      "d90": 27,
+      "d365": 27
     },
     {
       "path": "/2026/09/20/2026-09-19-festa-major-de-verdum-verdum-punkfest",
       "d7": 0,
-      "d30": 3,
+      "d30": 2,
       "d90": 25,
       "d365": 25
     },
@@ -771,6 +779,13 @@
       "d365": 17
     },
     {
+      "path": "/2026/10/18/2026-10-19-ciutat-flamenco-esperanza-garrido-firmamento",
+      "d7": 2,
+      "d30": 16,
+      "d90": 16,
+      "d365": 16
+    },
+    {
       "path": "/2026/10/17/2026-10-16-sopar-dentitats-al-casal-de-barri-de-prosperitat",
       "d7": 0,
       "d30": 16,
@@ -780,7 +795,7 @@
     {
       "path": "/2026/10/03/2026-10-03-la-nuu-festival-una-cr%C3%B2nica-sota-la-pluja",
       "d7": 0,
-      "d30": 16,
+      "d30": 7,
       "d90": 16,
       "d365": 16
     },
@@ -792,13 +807,6 @@
       "d365": 16
     },
     {
-      "path": "/2026/10/18/2026-10-19-ciutat-flamenco-esperanza-garrido-firmamento",
-      "d7": 1,
-      "d30": 15,
-      "d90": 15,
-      "d365": 15
-    },
-    {
       "path": "/about",
       "d7": 0,
       "d30": 2,
@@ -808,7 +816,7 @@
     {
       "path": "/2026/09/30/2026-09-29-una-cr%C3%B2nica-per-a-9barrisimatge-andr%C3%A9s-naya-i-els-seus-dos-llibres",
       "d7": 0,
-      "d30": 6,
+      "d30": 5,
       "d90": 14,
       "d365": 14
     },
@@ -830,7 +838,7 @@
       "path": "/2026/07/06/2026-07-04-24e-festival-de-blues-de-barcelona",
       "d7": 0,
       "d30": 2,
-      "d90": 4,
+      "d90": 3,
       "d365": 14
     },
     {
@@ -856,7 +864,7 @@
     },
     {
       "path": "/2026/10/25/2026-10-23-ciutat-flamenco-ciutat-batalla",
-      "d7": 5,
+      "d7": 4,
       "d30": 12,
       "d90": 12,
       "d365": 12
@@ -870,7 +878,7 @@
     },
     {
       "path": "/2026/10/24/t%C3%ADtol-2026-10-22-ciutat-flamenco-ana-morales-m%C3%A1s-que-baile",
-      "d7": 3,
+      "d7": 1,
       "d30": 12,
       "d90": 12,
       "d365": 12
@@ -912,7 +920,7 @@
     },
     {
       "path": "/2026/10/25/2026-10-24-10-anys-de-date-una-huerta",
-      "d7": 7,
+      "d7": 0,
       "d30": 9,
       "d90": 9,
       "d365": 9
@@ -940,14 +948,14 @@
     },
     {
       "path": "/2026/10/27/2026-10-25-21%C3%A8-festival-de-sopes-del-m%C3%B3n-mundial-de-nou-barris",
-      "d7": 8,
+      "d7": 3,
       "d30": 8,
       "d90": 8,
       "d365": 8
     },
     {
       "path": "/2026/10/25/2026-10-24-ciutat-flamenco-yoel-vargas-%C3%B3bito",
-      "d7": 5,
+      "d7": 2,
       "d30": 8,
       "d90": 8,
       "d365": 8
@@ -996,14 +1004,14 @@
     },
     {
       "path": "/2025/10/30/2025-10-30-castanyada-diabolica-de-la-sagrera",
-      "d7": 4,
+      "d7": 3,
       "d30": 6,
       "d90": 6,
       "d365": 8
     },
     {
       "path": "/2026/10/26/2026-10-24-10-anys-de-date-una-huerta",
-      "d7": 6,
+      "d7": 1,
       "d30": 7,
       "d90": 7,
       "d365": 7
@@ -1032,7 +1040,7 @@
     {
       "path": "/2026/09/24/2026-09-24-la-merc%C3%A8-baixant-a-barcelona",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 6,
       "d365": 6
     },
@@ -1080,7 +1088,7 @@
     },
     {
       "path": "/2026/10/22/2026-10-22-ciutat-flamenco-ana-morales-m%C3%A1s-que-baile",
-      "d7": 4,
+      "d7": 2,
       "d30": 5,
       "d90": 5,
       "d365": 5
@@ -1192,8 +1200,8 @@
     },
     {
       "path": "/2026/06/02/2026-06-01-festes-de-prosperitat-xistorra-rock",
-      "d7": 1,
-      "d30": 2,
+      "d7": 0,
+      "d30": 1,
       "d90": 4,
       "d365": 5
     },
@@ -1235,7 +1243,7 @@
     {
       "path": "/2026/10/03/2026-11-06-quasi-sis-anys-retratant-el-blues-presentem-40-anys-de-blues-a-barcelona",
       "d7": 1,
-      "d30": 4,
+      "d30": 1,
       "d90": 4,
       "d365": 4
     },
@@ -1348,7 +1356,7 @@
       "path": "/2026/05/30/2026-05-29-la-juganera-a-la-nau-bostik",
       "d7": 0,
       "d30": 0,
-      "d90": 2,
+      "d90": 1,
       "d365": 4
     },
     {
@@ -1367,7 +1375,7 @@
     },
     {
       "path": "/2026/10/23/2026-10-23-ciutat-flamenco-ciutat-batalla",
-      "d7": 3,
+      "d7": 2,
       "d30": 3,
       "d90": 3,
       "d365": 3
@@ -1388,7 +1396,7 @@
     },
     {
       "path": "/2023/04/30/2023-04-30-barcelona-big-blues-band-martin-burguez-al-jamboree",
-      "d7": 2,
+      "d7": 1,
       "d30": 3,
       "d90": 3,
       "d365": 3
@@ -1558,7 +1566,7 @@
       "path": "/2012/01/28/barcelona-tattoo-expo-2009",
       "d7": 0,
       "d30": 1,
-      "d90": 2,
+      "d90": 1,
       "d365": 3
     },
     {
@@ -1604,8 +1612,15 @@
       "d365": 3
     },
     {
+      "path": "/2020/01/29/ricardo-voss",
+      "d7": 2,
+      "d30": 2,
+      "d90": 2,
+      "d365": 2
+    },
+    {
       "path": "/2026/10/24/2026-10-22-ciutat-flamenco-ana-morales-m%C3%A1s-que-baile",
-      "d7": 1,
+      "d7": 0,
       "d30": 2,
       "d90": 2,
       "d365": 2
@@ -1718,7 +1733,7 @@
     {
       "path": "/2012/01/28/13-barcelona-tattoo-expo",
       "d7": 1,
-      "d30": 2,
+      "d30": 1,
       "d90": 2,
       "d365": 2
     },
@@ -2500,6 +2515,34 @@
       "d365": 2
     },
     {
+      "path": "/tag/llumatics",
+      "d7": 1,
+      "d30": 1,
+      "d90": 1,
+      "d365": 1
+    },
+    {
+      "path": "/tag/portrait",
+      "d7": 1,
+      "d30": 1,
+      "d90": 1,
+      "d365": 1
+    },
+    {
+      "path": "/tag/ricardo-voss",
+      "d7": 1,
+      "d30": 1,
+      "d90": 1,
+      "d365": 1
+    },
+    {
+      "path": "/2025/11/18/2025-11-18-berta-corts-davant-la-hasselblad",
+      "d7": 1,
+      "d30": 1,
+      "d90": 1,
+      "d365": 1
+    },
+    {
       "path": "/2018/11/17/san-xibeco-2018-dissabte",
       "d7": 1,
       "d30": 1,
@@ -2564,63 +2607,63 @@
     },
     {
       "path": "/2016/01/10/homedev66-noon-pinhole-612-ilford-panf-plus-50",
-      "d7": 1,
+      "d7": 0,
       "d30": 1,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/wp-json/wp/v2/tags/1415",
-      "d7": 1,
+      "d7": 0,
       "d30": 1,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/wp-json/oembed/1.0/embed?format=xml&url=https%3A%2F%2Fblog.pocallum.cat%2F2014%2F07%2F10%2F2190-pentax-k1000-ektachrome-p1600%2F",
-      "d7": 1,
+      "d7": 0,
       "d30": 1,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/2020/06/16",
-      "d7": 1,
+      "d7": 0,
       "d30": 1,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/2013/03/27",
-      "d7": 1,
+      "d7": 0,
       "d30": 1,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/wp-json/wp/v2/tags/849",
-      "d7": 1,
+      "d7": 0,
       "d30": 1,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/2012/10/23",
-      "d7": 1,
+      "d7": 0,
       "d30": 1,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/tag/fotografia-amateur/feed",
-      "d7": 1,
+      "d7": 0,
       "d30": 1,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/2011/10/page/2",
-      "d7": 1,
+      "d7": 0,
       "d30": 1,
       "d90": 1,
       "d365": 1
@@ -3496,7 +3539,7 @@
     {
       "path": "/2018/11/29/masterclass-amb-fulvio-paredes",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 1,
       "d365": 1
     },
@@ -6157,7 +6200,7 @@
       "path": "/2025/06/18/2025-06-01-la-flora-menorquina",
       "d7": 0,
       "d30": 0,
-      "d90": 1,
+      "d90": 0,
       "d365": 1
     },
     {
@@ -6841,8 +6884,8 @@
     }
   ],
   "by_section": {
-    "inici": 355,
-    "posts": 1167,
+    "inici": 356,
+    "posts": 1172,
     "cerca": 37,
     "arxiu": 28,
     "page": 65,
@@ -6861,7 +6904,7 @@
     "?query-0-page=8": 5,
     "?query-0-page=186": 5,
     "?query-0-page=189": 5,
-    "tag": 130,
+    "tag": 133,
     "?query-0-page=25": 4,
     "en-us": 4,
     "politica-de-cookies": 4,
@@ -7116,7 +7159,8 @@
       "2026-10-28": 2,
       "2026-10-29": 1,
       "2026-10-31": 2,
-      "2026-11-01": 2
+      "2026-11-01": 2,
+      "2026-11-02": 1
     },
     "/2026/07/11/2026-07-11-prospe-beach-again": {
       "2026-07-11": 5,
@@ -7231,7 +7275,8 @@
       "2026-10-23": 1,
       "2026-10-24": 1,
       "2026-10-25": 2,
-      "2026-10-28": 1
+      "2026-10-28": 1,
+      "2026-11-03": 1
     },
     "/2026/09/20/2026-09-19-festa-major-de-verdum-verdum-punkfest": {
       "2026-09-20": 5,
@@ -7318,6 +7363,15 @@
       "2026-09-22": 1,
       "2026-10-27": 1
     },
+    "/2026/10/18/2026-10-19-ciutat-flamenco-esperanza-garrido-firmamento": {
+      "2026-10-19": 3,
+      "2026-10-20": 5,
+      "2026-10-21": 3,
+      "2026-10-23": 1,
+      "2026-10-24": 2,
+      "2026-10-28": 1,
+      "2026-11-02": 1
+    },
     "/2026/10/17/2026-10-16-sopar-dentitats-al-casal-de-barri-de-prosperitat": {
       "2026-10-16": 1,
       "2026-10-17": 6,
@@ -7343,14 +7397,6 @@
       "2026-09-22": 1,
       "2026-09-29": 1,
       "2026-10-02": 1,
-      "2026-10-28": 1
-    },
-    "/2026/10/18/2026-10-19-ciutat-flamenco-esperanza-garrido-firmamento": {
-      "2026-10-19": 3,
-      "2026-10-20": 5,
-      "2026-10-21": 3,
-      "2026-10-23": 1,
-      "2026-10-24": 2,
       "2026-10-28": 1
     },
     "/about": {
@@ -8002,6 +8048,9 @@
       "2026-07-08": 1,
       "2026-10-02": 1
     },
+    "/2020/01/29/ricardo-voss": {
+      "2026-11-02": 2
+    },
     "/2026/10/24/2026-10-22-ciutat-flamenco-ana-morales-m%C3%A1s-que-baile": {
       "2026-10-25": 1,
       "2026-10-26": 1
@@ -8453,6 +8502,18 @@
     "/tag/berta-cots": {
       "2026-07-07": 1,
       "2026-10-20": 1
+    },
+    "/tag/llumatics": {
+      "2026-11-02": 1
+    },
+    "/tag/portrait": {
+      "2026-11-02": 1
+    },
+    "/tag/ricardo-voss": {
+      "2026-11-02": 1
+    },
+    "/2025/11/18/2025-11-18-berta-corts-davant-la-hasselblad": {
+      "2026-11-02": 1
     },
     "/2018/11/17/san-xibeco-2018-dissabte": {
       "2026-11-01": 1
@@ -10430,7 +10491,9 @@
       "2026-10-29": 7,
       "2026-10-30": 5,
       "2026-10-31": 13,
-      "2026-11-01": 7
+      "2026-11-01": 7,
+      "2026-11-02": 4,
+      "2026-11-03": 1
     },
     "inici": {
       "2026-07-07": 5,
@@ -10536,7 +10599,8 @@
       "2026-10-28": 2,
       "2026-10-29": 1,
       "2026-10-31": 2,
-      "2026-11-01": 2
+      "2026-11-01": 2,
+      "2026-11-02": 1
     },
     "category": {
       "2026-07-12": 1,
@@ -10603,7 +10667,8 @@
       "2026-10-20": 6,
       "2026-10-21": 1,
       "2026-10-25": 1,
-      "2026-10-26": 1
+      "2026-10-26": 1,
+      "2026-11-02": 3
     },
     "page": {
       "2026-07-12": 14,
@@ -11255,7 +11320,7 @@
     },
     {
       "path": "/2026/10/19/2026-10-18-ciutat-flamenco-districte-flamenco",
-      "count": 26
+      "count": 27
     },
     {
       "path": "/2026/09/20/2026-09-19-festa-major-de-verdum-verdum-punkfest",
@@ -11274,16 +11339,16 @@
       "count": 17
     },
     {
+      "path": "/2026/10/18/2026-10-19-ciutat-flamenco-esperanza-garrido-firmamento",
+      "count": 16
+    },
+    {
       "path": "/2026/10/17/2026-10-16-sopar-dentitats-al-casal-de-barri-de-prosperitat",
       "count": 16
     },
     {
       "path": "/2026/10/03/2026-10-03-la-nuu-festival-una-cr%C3%B2nica-sota-la-pluja",
       "count": 16
-    },
-    {
-      "path": "/2026/10/18/2026-10-19-ciutat-flamenco-esperanza-garrido-firmamento",
-      "count": 15
     },
     {
       "path": "/2026/09/30/2026-09-29-una-cr%C3%B2nica-per-a-9barrisimatge-andr%C3%A9s-naya-i-els-seus-dos-llibres",
@@ -11302,7 +11367,7 @@
     {
       "name": "Chrome",
       "id": "Chrome",
-      "count": 1718
+      "count": 1720
     },
     {
       "name": "Safari",
@@ -11344,12 +11409,12 @@
     {
       "name": "Windows",
       "id": "Windows",
-      "count": 345
+      "count": 346
     },
     {
       "name": "Android",
       "id": "Android",
-      "count": 342
+      "count": 343
     },
     {
       "name": "Desconegut",
@@ -11361,12 +11426,12 @@
     {
       "name": "desktop",
       "id": "desktop",
-      "count": 1002
+      "count": 1003
     },
     {
       "name": "phone",
       "id": "phone",
-      "count": 683
+      "count": 684
     },
     {
       "name": "desktophd",
@@ -11388,7 +11453,7 @@
     {
       "name": "Spain",
       "id": "ES",
-      "count": 1580
+      "count": 1582
     },
     {
       "name": "United States",
@@ -11465,12 +11530,12 @@
     {
       "name": "Desconegut",
       "id": "Desconegut",
-      "count": 983
+      "count": 985
     },
     {
       "name": "Google",
       "id": "Google",
-      "count": 155
+      "count": 158
     },
     {
       "name": "www.9barrisimatge.org",
