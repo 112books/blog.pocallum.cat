@@ -1,10 +1,10 @@
 {
-  "generated": "2026-11-04T17:17:03.100744Z",
+  "generated": "2026-11-05T03:30:22.615176Z",
   "period": {
-    "start": "2025-11-04",
-    "end": "2026-11-04"
+    "start": "2025-11-05",
+    "end": "2026-11-05"
   },
-  "total": 2346,
+  "total": 2348,
   "total_unique": 0,
   "hits_by_day": [
     {
@@ -482,6 +482,10 @@
     {
       "date": "2026-11-03",
       "count": 9
+    },
+    {
+      "date": "2026-11-04",
+      "count": 2
     }
   ],
   "hits": [
@@ -570,6 +574,10 @@
       "count": 14
     },
     {
+      "path": "/2024/02/22/sessio-amb-la-ballarina-nahomi-itzel",
+      "count": 14
+    },
+    {
       "path": "/2026/07/06/2026-07-04-24e-festival-de-blues-de-barcelona",
       "count": 14
     },
@@ -579,10 +587,6 @@
     },
     {
       "path": "/aviso-legal",
-      "count": 13
-    },
-    {
-      "path": "/2024/02/22/sessio-amb-la-ballarina-nahomi-itzel",
       "count": 13
     },
     {
@@ -689,9 +693,9 @@
   "hits_windows": [
     {
       "path": "/",
-      "d7": 8,
-      "d30": 96,
-      "d90": 289,
+      "d7": 6,
+      "d30": 87,
+      "d90": 285,
       "d365": 356
     },
     {
@@ -705,7 +709,7 @@
       "path": "/2026/07/26/2026-07-25-una-jornada-amb-els-barcelona-gipsy-balkan-orchestra",
       "d7": 1,
       "d30": 5,
-      "d90": 11,
+      "d90": 10,
       "d365": 48
     },
     {
@@ -725,13 +729,13 @@
     {
       "path": "/2026/09/20/2026-09-19-casal-de-barri-de-prosperitat-tributo-a-amaral",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 28,
       "d365": 28
     },
     {
       "path": "/2026/10/19/2026-10-18-ciutat-flamenco-districte-flamenco",
-      "d7": 2,
+      "d7": 1,
       "d30": 27,
       "d90": 27,
       "d365": 27
@@ -752,7 +756,7 @@
     },
     {
       "path": "/arxiu",
-      "d7": 1,
+      "d7": 0,
       "d30": 5,
       "d90": 19,
       "d365": 19
@@ -767,7 +771,7 @@
     {
       "path": "/page/2",
       "d7": 0,
-      "d30": 11,
+      "d30": 10,
       "d90": 17,
       "d365": 17
     },
@@ -780,7 +784,7 @@
     },
     {
       "path": "/2026/10/18/2026-10-19-ciutat-flamenco-esperanza-garrido-firmamento",
-      "d7": 2,
+      "d7": 1,
       "d30": 16,
       "d90": 16,
       "d365": 16
@@ -795,13 +799,13 @@
     {
       "path": "/2026/10/03/2026-10-03-la-nuu-festival-una-cr%C3%B2nica-sota-la-pluja",
       "d7": 0,
-      "d30": 4,
+      "d30": 2,
       "d90": 16,
       "d365": 16
     },
     {
       "path": "/contact",
-      "d7": 1,
+      "d7": 0,
       "d30": 1,
       "d90": 15,
       "d365": 16
@@ -809,7 +813,7 @@
     {
       "path": "/about",
       "d7": 0,
-      "d30": 2,
+      "d30": 1,
       "d90": 14,
       "d365": 15
     },
@@ -835,6 +839,13 @@
       "d365": 14
     },
     {
+      "path": "/2024/02/22/sessio-amb-la-ballarina-nahomi-itzel",
+      "d7": 1,
+      "d30": 5,
+      "d90": 11,
+      "d365": 14
+    },
+    {
       "path": "/2026/07/06/2026-07-04-24e-festival-de-blues-de-barcelona",
       "d7": 0,
       "d30": 2,
@@ -856,15 +867,8 @@
       "d365": 13
     },
     {
-      "path": "/2024/02/22/sessio-amb-la-ballarina-nahomi-itzel",
-      "d7": 0,
-      "d30": 4,
-      "d90": 10,
-      "d365": 13
-    },
-    {
       "path": "/2026/10/25/2026-10-23-ciutat-flamenco-ciutat-batalla",
-      "d7": 1,
+      "d7": 0,
       "d30": 12,
       "d90": 12,
       "d365": 12
@@ -878,7 +882,7 @@
     },
     {
       "path": "/2026/10/24/t%C3%ADtol-2026-10-22-ciutat-flamenco-ana-morales-m%C3%A1s-que-baile",
-      "d7": 1,
+      "d7": 0,
       "d30": 12,
       "d90": 12,
       "d365": 12
@@ -900,7 +904,7 @@
     {
       "path": "/page/3",
       "d7": 0,
-      "d30": 8,
+      "d30": 7,
       "d90": 11,
       "d365": 11
     },
@@ -948,14 +952,14 @@
     },
     {
       "path": "/2026/10/27/2026-10-25-21%C3%A8-festival-de-sopes-del-m%C3%B3n-mundial-de-nou-barris",
-      "d7": 2,
+      "d7": 1,
       "d30": 8,
       "d90": 8,
       "d365": 8
     },
     {
       "path": "/2026/10/25/2026-10-24-ciutat-flamenco-yoel-vargas-%C3%B3bito",
-      "d7": 1,
+      "d7": 0,
       "d30": 8,
       "d90": 8,
       "d365": 8
@@ -970,14 +974,14 @@
     {
       "path": "/2026/10/05/2026-09-26-dinar-de-comiat-de-leli-companya-de-la-nau-bostik.-shes-gone",
       "d7": 0,
-      "d30": 8,
+      "d30": 3,
       "d90": 8,
       "d365": 8
     },
     {
       "path": "/page/4",
       "d7": 0,
-      "d30": 7,
+      "d30": 6,
       "d90": 8,
       "d365": 8
     },
@@ -1011,7 +1015,7 @@
     },
     {
       "path": "/2026/10/26/2026-10-24-10-anys-de-date-una-huerta",
-      "d7": 1,
+      "d7": 0,
       "d30": 7,
       "d90": 7,
       "d365": 7
@@ -1025,7 +1029,7 @@
     },
     {
       "path": "/2026/06/27/2026-06-22a25-barcelona-big-blues-band-al-beatgarden-studios",
-      "d7": 3,
+      "d7": 2,
       "d30": 6,
       "d90": 6,
       "d365": 7
@@ -1046,8 +1050,8 @@
     },
     {
       "path": "/categories",
-      "d7": 2,
-      "d30": 5,
+      "d7": 1,
+      "d30": 4,
       "d90": 6,
       "d365": 6
     },
@@ -1068,7 +1072,7 @@
     {
       "path": "/page/5",
       "d7": 0,
-      "d30": 4,
+      "d30": 3,
       "d90": 6,
       "d365": 6
     },
@@ -1095,7 +1099,7 @@
     },
     {
       "path": "/2026/10/22/2026-10-22-ciutat-flamenco-ana-morales-m%C3%A1s-que-baile",
-      "d7": 2,
+      "d7": 0,
       "d30": 5,
       "d90": 5,
       "d365": 5
@@ -1109,7 +1113,7 @@
     },
     {
       "path": "/2022/07/13/2022-07-09-20e-festival-de-blues-de-barcelona-barcelona-big-blues-band-ft-lluis-coloma",
-      "d7": 3,
+      "d7": 2,
       "d30": 5,
       "d90": 5,
       "d365": 5
@@ -1235,7 +1239,7 @@
     },
     {
       "path": "/2026/10/27/presentaci%C3%B3-del-llibre-de-fotografies-i-biografies-40-anys-de-blues-a-barcelona",
-      "d7": 3,
+      "d7": 2,
       "d30": 4,
       "d90": 4,
       "d365": 4
@@ -1307,7 +1311,7 @@
       "path": "/en-us",
       "d7": 0,
       "d30": 0,
-      "d90": 4,
+      "d90": 2,
       "d365": 4
     },
     {
@@ -1382,7 +1386,7 @@
     },
     {
       "path": "/arxiu/2026/10",
-      "d7": 1,
+      "d7": 0,
       "d30": 3,
       "d90": 3,
       "d365": 3
@@ -1396,7 +1400,7 @@
     },
     {
       "path": "/2023/04/30/2023-04-30-barcelona-big-blues-band-martin-burguez-al-jamboree",
-      "d7": 1,
+      "d7": 0,
       "d30": 3,
       "d90": 3,
       "d365": 3
@@ -1410,7 +1414,7 @@
     },
     {
       "path": "/2020/04/23/diana-multi-pinhole-operator-ilford-delta-3200400",
-      "d7": 1,
+      "d7": 0,
       "d30": 3,
       "d90": 3,
       "d365": 3
@@ -1584,6 +1588,13 @@
       "d365": 3
     },
     {
+      "path": "/2012/01/22/placa-angel-pestana-prosperitat-barcelona",
+      "d7": 1,
+      "d30": 1,
+      "d90": 2,
+      "d365": 3
+    },
+    {
       "path": "/2024/11/16/2024-11-15-sant-xibeco-el-persianas-los-influencers-muertos",
       "d7": 0,
       "d30": 0,
@@ -1641,7 +1652,7 @@
     },
     {
       "path": "/2025/07/17/2025-07-15-horsman-8x10-nadia-otshudi",
-      "d7": 1,
+      "d7": 0,
       "d30": 2,
       "d90": 2,
       "d365": 2
@@ -2403,13 +2414,6 @@
       "d365": 2
     },
     {
-      "path": "/2012/01/22/placa-angel-pestana-prosperitat-barcelona",
-      "d7": 0,
-      "d30": 0,
-      "d90": 1,
-      "d365": 2
-    },
-    {
       "path": "/2026/03/28/2026-03-27-mocebars-al-casal-de-barri-de-prosperitat",
       "d7": 0,
       "d30": 1,
@@ -2593,21 +2597,21 @@
     },
     {
       "path": "/2023/08/03/2023-08-02-intercanvi-internacional-de-circ-barcelona-2023",
-      "d7": 1,
+      "d7": 0,
       "d30": 1,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/2025/08/07/2025-08-06-mostra-de-circ",
-      "d7": 1,
+      "d7": 0,
       "d30": 1,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/2020/04/20/dissabte-plujos-a-la-prosperitat-dia-de-pinhole",
-      "d7": 1,
+      "d7": 0,
       "d30": 1,
       "d90": 1,
       "d365": 1
@@ -3525,14 +3529,14 @@
     {
       "path": "/__diagnostic_tracking_check__",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/category/sigma-70-200-mm-f-2-8-ii/page/2",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 1,
       "d365": 1
     },
@@ -6892,7 +6896,7 @@
   ],
   "by_section": {
     "inici": 356,
-    "posts": 1180,
+    "posts": 1182,
     "cerca": 37,
     "arxiu": 28,
     "page": 65,
@@ -7447,6 +7451,19 @@
       "2026-08-19": 2,
       "2026-09-16": 1
     },
+    "/2024/02/22/sessio-amb-la-ballarina-nahomi-itzel": {
+      "2026-07-17": 1,
+      "2026-07-26": 2,
+      "2026-08-10": 1,
+      "2026-08-22": 1,
+      "2026-09-07": 2,
+      "2026-09-09": 1,
+      "2026-09-26": 1,
+      "2026-10-11": 1,
+      "2026-10-19": 2,
+      "2026-10-22": 1,
+      "2026-11-04": 1
+    },
     "/2026/07/06/2026-07-04-24e-festival-de-blues-de-barcelona": {
       "2026-07-09": 2,
       "2026-07-10": 2,
@@ -7471,18 +7488,6 @@
       "2026-08-13": 4,
       "2026-08-15": 6,
       "2026-09-29": 1
-    },
-    "/2024/02/22/sessio-amb-la-ballarina-nahomi-itzel": {
-      "2026-07-17": 1,
-      "2026-07-26": 2,
-      "2026-08-10": 1,
-      "2026-08-22": 1,
-      "2026-09-07": 2,
-      "2026-09-09": 1,
-      "2026-09-26": 1,
-      "2026-10-11": 1,
-      "2026-10-19": 2,
-      "2026-10-22": 1
     },
     "/2026/10/25/2026-10-23-ciutat-flamenco-ciutat-batalla": {
       "2026-10-25": 7,
@@ -8042,6 +8047,11 @@
       "2026-09-01": 1,
       "2026-11-03": 1
     },
+    "/2012/01/22/placa-angel-pestana-prosperitat-barcelona": {
+      "2026-07-14": 1,
+      "2026-09-25": 1,
+      "2026-11-04": 1
+    },
     "/2024/11/16/2024-11-15-sant-xibeco-el-persianas-los-influencers-muertos": {
       "2026-07-12": 2,
       "2026-09-29": 1
@@ -8452,10 +8462,6 @@
     "/2024/09/27/el-peto-de-la-mort": {
       "2026-07-15": 1,
       "2026-11-01": 1
-    },
-    "/2012/01/22/placa-angel-pestana-prosperitat-barcelona": {
-      "2026-07-14": 1,
-      "2026-09-25": 1
     },
     "/2026/03/28/2026-03-27-mocebars-al-casal-de-barri-de-prosperitat": {
       "2026-07-12": 1,
@@ -10509,7 +10515,8 @@
       "2026-10-31": 13,
       "2026-11-01": 7,
       "2026-11-02": 4,
-      "2026-11-03": 9
+      "2026-11-03": 9,
+      "2026-11-04": 2
     },
     "inici": {
       "2026-07-07": 5,
@@ -11383,7 +11390,7 @@
     {
       "name": "Chrome",
       "id": "Chrome",
-      "count": 1728
+      "count": 1729
     },
     {
       "name": "Safari",
@@ -11430,7 +11437,7 @@
     {
       "name": "Android",
       "id": "Android",
-      "count": 346
+      "count": 347
     },
     {
       "name": "Desconegut",
@@ -11452,7 +11459,7 @@
     {
       "name": "desktophd",
       "id": "desktophd",
-      "count": 599
+      "count": 600
     },
     {
       "name": "tablet",
@@ -11551,7 +11558,7 @@
     {
       "name": "Google",
       "id": "Google",
-      "count": 162
+      "count": 163
     },
     {
       "name": "www.9barrisimatge.org",
@@ -11566,7 +11573,7 @@
     {
       "name": "www.facebook.com",
       "id": "www.facebook.com",
-      "count": 28
+      "count": 29
     },
     {
       "name": "pocallum.cat",
