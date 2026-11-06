@@ -1,10 +1,10 @@
 {
-  "generated": "2026-11-05T20:40:48.179466Z",
+  "generated": "2026-11-06T09:25:44.199598Z",
   "period": {
-    "start": "2025-11-05",
-    "end": "2026-11-05"
+    "start": "2025-11-06",
+    "end": "2026-11-06"
   },
-  "total": 2348,
+  "total": 2351,
   "total_unique": 0,
   "hits_by_day": [
     {
@@ -486,12 +486,16 @@
     {
       "date": "2026-11-04",
       "count": 2
+    },
+    {
+      "date": "2026-11-05",
+      "count": 3
     }
   ],
   "hits": [
     {
       "path": "/",
-      "count": 356
+      "count": 357
     },
     {
       "path": "/2026/07/11/2026-07-11-prospe-beach-again",
@@ -678,16 +682,16 @@
       "count": 7
     },
     {
+      "path": "/2026/10/03/2026-11-06-quasi-sis-anys-retratant-el-blues-presentem-40-anys-de-blues-a-barcelona",
+      "count": 7
+    },
+    {
       "path": "/2026/09/10/2026-08-24a28-escapada-a-taull",
       "count": 7
     },
     {
       "path": "/2026/06/27/2026-06-22a25-barcelona-big-blues-band-al-beatgarden-studios",
       "count": 7
-    },
-    {
-      "path": "/2011/07/03/montjuic-de-nit-amb-chino-the-big-bet-i-barce",
-      "count": 6
     }
   ],
   "hits_windows": [
@@ -695,8 +699,8 @@
       "path": "/",
       "d7": 6,
       "d30": 87,
-      "d90": 285,
-      "d365": 356
+      "d90": 286,
+      "d365": 357
     },
     {
       "path": "/2026/07/11/2026-07-11-prospe-beach-again",
@@ -707,7 +711,7 @@
     },
     {
       "path": "/2026/07/26/2026-07-25-una-jornada-amb-els-barcelona-gipsy-balkan-orchestra",
-      "d7": 1,
+      "d7": 0,
       "d30": 5,
       "d90": 10,
       "d365": 48
@@ -820,7 +824,7 @@
     {
       "path": "/2026/09/30/2026-09-29-una-cr%C3%B2nica-per-a-9barrisimatge-andr%C3%A9s-naya-i-els-seus-dos-llibres",
       "d7": 0,
-      "d30": 5,
+      "d30": 2,
       "d90": 14,
       "d365": 14
     },
@@ -875,7 +879,7 @@
     },
     {
       "path": "/2026/10/24/2026-10-23-ciutat-flamenco-jordi-latorre-despu%C3%A9s-del-diluvio-electr%C3%B3nico",
-      "d7": 1,
+      "d7": 0,
       "d30": 12,
       "d90": 12,
       "d365": 12
@@ -974,7 +978,7 @@
     {
       "path": "/2026/10/05/2026-09-26-dinar-de-comiat-de-leli-companya-de-la-nau-bostik.-shes-gone",
       "d7": 0,
-      "d30": 3,
+      "d30": 2,
       "d90": 8,
       "d365": 8
     },
@@ -1021,6 +1025,13 @@
       "d365": 7
     },
     {
+      "path": "/2026/10/03/2026-11-06-quasi-sis-anys-retratant-el-blues-presentem-40-anys-de-blues-a-barcelona",
+      "d7": 3,
+      "d30": 4,
+      "d90": 7,
+      "d365": 7
+    },
+    {
       "path": "/2026/09/10/2026-08-24a28-escapada-a-taull",
       "d7": 0,
       "d30": 0,
@@ -1029,7 +1040,7 @@
     },
     {
       "path": "/2026/06/27/2026-06-22a25-barcelona-big-blues-band-al-beatgarden-studios",
-      "d7": 2,
+      "d7": 1,
       "d30": 6,
       "d90": 6,
       "d365": 7
@@ -1038,13 +1049,6 @@
       "path": "/2011/07/03/montjuic-de-nit-amb-chino-the-big-bet-i-barce",
       "d7": 0,
       "d30": 6,
-      "d90": 6,
-      "d365": 6
-    },
-    {
-      "path": "/2026/10/03/2026-11-06-quasi-sis-anys-retratant-el-blues-presentem-40-anys-de-blues-a-barcelona",
-      "d7": 2,
-      "d30": 3,
       "d90": 6,
       "d365": 6
     },
@@ -1113,7 +1117,7 @@
     },
     {
       "path": "/2022/07/13/2022-07-09-20e-festival-de-blues-de-barcelona-barcelona-big-blues-band-ft-lluis-coloma",
-      "d7": 2,
+      "d7": 1,
       "d30": 5,
       "d90": 5,
       "d365": 5
@@ -1141,8 +1145,8 @@
     },
     {
       "path": "/2026/06/27/2026-06-26-elvis-amb-barcelona-big-blues-band-agusti-burriel-the-velved-candels-noa-vd",
-      "d7": 2,
-      "d30": 4,
+      "d7": 1,
+      "d30": 3,
       "d90": 5,
       "d365": 5
     },
@@ -1220,7 +1224,7 @@
       "path": "/2026/06/02/2026-06-01-festes-de-prosperitat-xistorra-rock",
       "d7": 0,
       "d30": 1,
-      "d90": 4,
+      "d90": 3,
       "d365": 5
     },
     {
@@ -1304,7 +1308,7 @@
       "path": "/2014/04/21/ivan-kovacevic-5-spots-en-campari-milano",
       "d7": 0,
       "d30": 1,
-      "d90": 4,
+      "d90": 1,
       "d365": 4
     },
     {
@@ -1337,7 +1341,7 @@
     },
     {
       "path": "/2026/03/21/2026-03-20-anton-jarls-kind-of-metal-al-jamboree",
-      "d7": 1,
+      "d7": 0,
       "d30": 1,
       "d90": 1,
       "d365": 4
@@ -1757,7 +1761,7 @@
     },
     {
       "path": "/2012/01/28/13-barcelona-tattoo-expo",
-      "d7": 1,
+      "d7": 0,
       "d30": 1,
       "d90": 2,
       "d365": 2
@@ -1807,7 +1811,7 @@
     {
       "path": "/2022/11/06/2022-11-06-homenatge-andres-naya",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 2,
       "d365": 2
     },
@@ -1849,6 +1853,13 @@
     {
       "path": "/blog",
       "d7": 0,
+      "d30": 1,
+      "d90": 2,
+      "d365": 2
+    },
+    {
+      "path": "/2026/02/21/2026-02-20-nou-barris-naits-the-capaces-elektra",
+      "d7": 1,
       "d30": 1,
       "d90": 2,
       "d365": 2
@@ -4577,13 +4588,6 @@
       "d365": 1
     },
     {
-      "path": "/2026/02/21/2026-02-20-nou-barris-naits-the-capaces-elektra",
-      "d7": 0,
-      "d30": 0,
-      "d90": 1,
-      "d365": 1
-    },
-    {
       "path": "/2026/09/06/2026-09-05-novament-a-perpinya-a-la-visa-pour-limage/?_thumbnail_id=41162&preview=true&preview_id=41161&preview_nonce=142ec016f3",
       "d7": 0,
       "d30": 0,
@@ -6895,8 +6899,8 @@
     }
   ],
   "by_section": {
-    "inici": 356,
-    "posts": 1182,
+    "inici": 357,
+    "posts": 1184,
     "cerca": 37,
     "arxiu": 28,
     "page": 65,
@@ -7171,7 +7175,8 @@
       "2026-10-29": 1,
       "2026-10-31": 2,
       "2026-11-01": 2,
-      "2026-11-02": 1
+      "2026-11-02": 1,
+      "2026-11-05": 1
     },
     "/2026/07/11/2026-07-11-prospe-beach-again": {
       "2026-07-11": 5,
@@ -7649,6 +7654,12 @@
       "2026-10-26": 5,
       "2026-10-28": 1
     },
+    "/2026/10/03/2026-11-06-quasi-sis-anys-retratant-el-blues-presentem-40-anys-de-blues-a-barcelona": {
+      "2026-10-03": 3,
+      "2026-10-27": 1,
+      "2026-11-03": 2,
+      "2026-11-05": 1
+    },
     "/2026/09/10/2026-08-24a28-escapada-a-taull": {
       "2026-09-10": 4,
       "2026-09-17": 2,
@@ -7669,11 +7680,6 @@
       "2026-10-18": 2,
       "2026-10-19": 1,
       "2026-10-20": 1
-    },
-    "/2026/10/03/2026-11-06-quasi-sis-anys-retratant-el-blues-presentem-40-anys-de-blues-a-barcelona": {
-      "2026-10-03": 3,
-      "2026-10-27": 1,
-      "2026-11-03": 2
     },
     "/categories": {
       "2026-10-02": 1,
@@ -8199,6 +8205,10 @@
     "/blog": {
       "2026-09-16": 1,
       "2026-10-16": 1
+    },
+    "/2026/02/21/2026-02-20-nou-barris-naits-the-capaces-elektra": {
+      "2026-09-07": 1,
+      "2026-11-05": 1
     },
     "/2025/12/28/2025-12-28-despedint-el-sol-a-torre-baro": {
       "2026-08-24": 1,
@@ -9404,9 +9414,6 @@
     "/?s=Barcelona+Blues+Festival": {
       "2026-09-08": 1
     },
-    "/2026/02/21/2026-02-20-nou-barris-naits-the-capaces-elektra": {
-      "2026-09-07": 1
-    },
     "/2026/09/06/2026-09-05-novament-a-perpinya-a-la-visa-pour-limage/?_thumbnail_id=41162&preview=true&preview_id=41161&preview_nonce=142ec016f3": {
       "2026-09-07": 1
     },
@@ -10516,7 +10523,8 @@
       "2026-11-01": 7,
       "2026-11-02": 4,
       "2026-11-03": 9,
-      "2026-11-04": 2
+      "2026-11-04": 2,
+      "2026-11-05": 2
     },
     "inici": {
       "2026-07-07": 5,
@@ -10623,7 +10631,8 @@
       "2026-10-29": 1,
       "2026-10-31": 2,
       "2026-11-01": 2,
-      "2026-11-02": 1
+      "2026-11-02": 1,
+      "2026-11-05": 1
     },
     "category": {
       "2026-07-12": 1,
@@ -11390,7 +11399,7 @@
     {
       "name": "Chrome",
       "id": "Chrome",
-      "count": 1731
+      "count": 1738
     },
     {
       "name": "Safari",
@@ -11400,7 +11409,7 @@
     {
       "name": "Firefox",
       "id": "Firefox",
-      "count": 116
+      "count": 117
     },
     {
       "name": "Desconegut",
@@ -11430,14 +11439,14 @@
       "count": 357
     },
     {
-      "name": "Windows",
-      "id": "Windows",
-      "count": 350
-    },
-    {
       "name": "Android",
       "id": "Android",
-      "count": 348
+      "count": 354
+    },
+    {
+      "name": "Windows",
+      "id": "Windows",
+      "count": 352
     },
     {
       "name": "Desconegut",
@@ -11449,12 +11458,12 @@
     {
       "name": "desktop",
       "id": "desktop",
-      "count": 1006
+      "count": 1007
     },
     {
       "name": "phone",
       "id": "phone",
-      "count": 688
+      "count": 694
     },
     {
       "name": "desktophd",
@@ -11464,7 +11473,7 @@
     {
       "name": "tablet",
       "id": "tablet",
-      "count": 54
+      "count": 55
     },
     {
       "name": "unknown",
@@ -11476,7 +11485,7 @@
     {
       "name": "Spain",
       "id": "ES",
-      "count": 1588
+      "count": 1595
     },
     {
       "name": "United States",
@@ -11519,13 +11528,13 @@
       "count": 12
     },
     {
-      "name": "Colombia",
-      "id": "CO",
-      "count": 9
-    },
-    {
       "name": "India",
       "id": "IN",
+      "count": 10
+    },
+    {
+      "name": "Colombia",
+      "id": "CO",
       "count": 9
     },
     {
@@ -11553,12 +11562,12 @@
     {
       "name": "Desconegut",
       "id": "Desconegut",
-      "count": 987
+      "count": 989
     },
     {
       "name": "Google",
       "id": "Google",
-      "count": 163
+      "count": 164
     },
     {
       "name": "www.9barrisimatge.org",
