@@ -20,7 +20,7 @@ thumbnail: /media/DSCF9020.jpg
 thumbnail_alt: Nit de rock dur en clau femenina al Casal de barri de Prosperitat
 image: /media/DSCF9020.jpg
 image_alt: ''
-album_url: ''
+album_url: https://photos.app.goo.gl/zSovMLaMGqHk49nt6
 draft: false
 author: Pocallum
 noindex: false
