@@ -1,10 +1,10 @@
 {
-  "generated": "2026-11-06T23:09:11.780475Z",
+  "generated": "2026-11-07T10:10:29.416961Z",
   "period": {
-    "start": "2025-11-06",
-    "end": "2026-11-06"
+    "start": "2025-11-07",
+    "end": "2026-11-07"
   },
-  "total": 2351,
+  "total": 2360,
   "total_unique": 0,
   "hits_by_day": [
     {
@@ -490,12 +490,16 @@
     {
       "date": "2026-11-05",
       "count": 3
+    },
+    {
+      "date": "2026-11-06",
+      "count": 9
     }
   ],
   "hits": [
     {
       "path": "/",
-      "count": 357
+      "count": 358
     },
     {
       "path": "/2026/07/11/2026-07-11-prospe-beach-again",
@@ -594,6 +598,10 @@
       "count": 13
     },
     {
+      "path": "/2026/10/25/2026-10-24-10-anys-de-date-una-huerta",
+      "count": 12
+    },
+    {
       "path": "/2026/10/25/2026-10-23-ciutat-flamenco-ciutat-batalla",
       "count": 12
     },
@@ -626,10 +634,6 @@
       "count": 10
     },
     {
-      "path": "/2026/10/25/2026-10-24-10-anys-de-date-una-huerta",
-      "count": 9
-    },
-    {
       "path": "/blog.pocallum.cat",
       "count": 9
     },
@@ -643,6 +647,10 @@
     },
     {
       "path": "/2026/10/27/2026-10-25-21%C3%A8-festival-de-sopes-del-m%C3%B3n-mundial-de-nou-barris",
+      "count": 8
+    },
+    {
+      "path": "/2026/10/26/2026-10-24-10-anys-de-date-una-huerta",
       "count": 8
     },
     {
@@ -678,10 +686,6 @@
       "count": 8
     },
     {
-      "path": "/2026/10/26/2026-10-24-10-anys-de-date-una-huerta",
-      "count": 7
-    },
-    {
       "path": "/2026/10/03/2026-11-06-quasi-sis-anys-retratant-el-blues-presentem-40-anys-de-blues-a-barcelona",
       "count": 7
     },
@@ -697,10 +701,10 @@
   "hits_windows": [
     {
       "path": "/",
-      "d7": 6,
-      "d30": 87,
+      "d7": 7,
+      "d30": 81,
       "d90": 286,
-      "d365": 357
+      "d365": 358
     },
     {
       "path": "/2026/07/11/2026-07-11-prospe-beach-again",
@@ -719,7 +723,7 @@
     {
       "path": "/cerca",
       "d7": 0,
-      "d30": 8,
+      "d30": 7,
       "d90": 34,
       "d365": 37
     },
@@ -761,7 +765,7 @@
     {
       "path": "/arxiu",
       "d7": 0,
-      "d30": 5,
+      "d30": 4,
       "d90": 19,
       "d365": 19
     },
@@ -775,7 +779,7 @@
     {
       "path": "/page/2",
       "d7": 0,
-      "d30": 10,
+      "d30": 7,
       "d90": 17,
       "d365": 17
     },
@@ -803,7 +807,7 @@
     {
       "path": "/2026/10/03/2026-10-03-la-nuu-festival-una-cr%C3%B2nica-sota-la-pluja",
       "d7": 0,
-      "d30": 2,
+      "d30": 1,
       "d90": 16,
       "d365": 16
     },
@@ -824,14 +828,14 @@
     {
       "path": "/2026/09/30/2026-09-29-una-cr%C3%B2nica-per-a-9barrisimatge-andr%C3%A9s-naya-i-els-seus-dos-llibres",
       "d7": 0,
-      "d30": 2,
+      "d30": 1,
       "d90": 14,
       "d365": 14
     },
     {
       "path": "/2026/09/01/2026-08-26-aiguestortes-de-dellui-a-lestany-llong-fugint-de-la-calor-estival",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 14,
       "d365": 14
     },
@@ -852,7 +856,7 @@
     {
       "path": "/2026/07/06/2026-07-04-24e-festival-de-blues-de-barcelona",
       "d7": 0,
-      "d30": 2,
+      "d30": 1,
       "d90": 3,
       "d365": 14
     },
@@ -869,6 +873,13 @@
       "d30": 0,
       "d90": 13,
       "d365": 13
+    },
+    {
+      "path": "/2026/10/25/2026-10-24-10-anys-de-date-una-huerta",
+      "d7": 3,
+      "d30": 12,
+      "d90": 12,
+      "d365": 12
     },
     {
       "path": "/2026/10/25/2026-10-23-ciutat-flamenco-ciutat-batalla",
@@ -894,7 +905,7 @@
     {
       "path": "/2026/09/06/visa-pour-limage-2026-una-jornada-de-fotoperiodisme-a-perpinya",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 12,
       "d365": 12
     },
@@ -908,7 +919,7 @@
     {
       "path": "/page/3",
       "d7": 0,
-      "d30": 7,
+      "d30": 5,
       "d90": 11,
       "d365": 11
     },
@@ -925,13 +936,6 @@
       "d30": 0,
       "d90": 2,
       "d365": 10
-    },
-    {
-      "path": "/2026/10/25/2026-10-24-10-anys-de-date-una-huerta",
-      "d7": 0,
-      "d30": 9,
-      "d90": 9,
-      "d365": 9
     },
     {
       "path": "/blog.pocallum.cat",
@@ -962,6 +966,13 @@
       "d365": 8
     },
     {
+      "path": "/2026/10/26/2026-10-24-10-anys-de-date-una-huerta",
+      "d7": 1,
+      "d30": 8,
+      "d90": 8,
+      "d365": 8
+    },
+    {
       "path": "/2026/10/25/2026-10-24-ciutat-flamenco-yoel-vargas-%C3%B3bito",
       "d7": 0,
       "d30": 8,
@@ -978,14 +989,14 @@
     {
       "path": "/2026/10/05/2026-09-26-dinar-de-comiat-de-leli-companya-de-la-nau-bostik.-shes-gone",
       "d7": 0,
-      "d30": 2,
+      "d30": 1,
       "d90": 8,
       "d365": 8
     },
     {
       "path": "/page/4",
       "d7": 0,
-      "d30": 6,
+      "d30": 4,
       "d90": 8,
       "d365": 8
     },
@@ -1012,17 +1023,10 @@
     },
     {
       "path": "/2025/10/30/2025-10-30-castanyada-diabolica-de-la-sagrera",
-      "d7": 2,
+      "d7": 1,
       "d30": 6,
       "d90": 6,
       "d365": 8
-    },
-    {
-      "path": "/2026/10/26/2026-10-24-10-anys-de-date-una-huerta",
-      "d7": 0,
-      "d30": 7,
-      "d90": 7,
-      "d365": 7
     },
     {
       "path": "/2026/10/03/2026-11-06-quasi-sis-anys-retratant-el-blues-presentem-40-anys-de-blues-a-barcelona",
@@ -1076,7 +1080,7 @@
     {
       "path": "/page/5",
       "d7": 0,
-      "d30": 3,
+      "d30": 2,
       "d90": 6,
       "d365": 6
     },
@@ -1099,6 +1103,13 @@
       "d7": 0,
       "d30": 0,
       "d90": 2,
+      "d365": 6
+    },
+    {
+      "path": "/2026/06/02/2026-06-01-festes-de-prosperitat-xistorra-rock",
+      "d7": 1,
+      "d30": 2,
+      "d90": 4,
       "d365": 6
     },
     {
@@ -1132,7 +1143,7 @@
     {
       "path": "/2026/10/07/2026-10-02-baum-fest-2026-tinta-i-art",
       "d7": 0,
-      "d30": 5,
+      "d30": 1,
       "d90": 5,
       "d365": 5
     },
@@ -1221,13 +1232,6 @@
       "d365": 5
     },
     {
-      "path": "/2026/06/02/2026-06-01-festes-de-prosperitat-xistorra-rock",
-      "d7": 0,
-      "d30": 1,
-      "d90": 3,
-      "d365": 5
-    },
-    {
       "path": "/2012/01/28/prospe-beach-2010",
       "d7": 0,
       "d30": 0,
@@ -1301,7 +1305,7 @@
       "path": "/2021/12/18/entrega-de-premis-del-31e-concurs-de-fotografia-josep-anton-cordoncillo",
       "d7": 0,
       "d30": 1,
-      "d90": 4,
+      "d90": 3,
       "d365": 4
     },
     {
@@ -1337,6 +1341,13 @@
       "d7": 0,
       "d30": 2,
       "d90": 2,
+      "d365": 4
+    },
+    {
+      "path": "/2012/01/22/placa-angel-pestana-prosperitat-barcelona",
+      "d7": 2,
+      "d30": 2,
+      "d90": 3,
       "d365": 4
     },
     {
@@ -1378,7 +1389,7 @@
       "path": "/2013/12/08/caffenol-35-pentaxk1000-kodak-tmax-100-can-peguera",
       "d7": 0,
       "d30": 0,
-      "d90": 1,
+      "d90": 0,
       "d365": 4
     },
     {
@@ -1447,7 +1458,7 @@
     {
       "path": "/2025/01/25/2025-01-25-ladies-first-al-sax-o-rama-2025",
       "d7": 0,
-      "d30": 2,
+      "d30": 0,
       "d90": 3,
       "d365": 3
     },
@@ -1573,7 +1584,7 @@
     {
       "path": "/2012/01/28/barcelona-tattoo-expo-2009",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 1,
       "d365": 3
     },
@@ -1586,13 +1597,6 @@
     },
     {
       "path": "/2025/10/24/2025-10-23-captura-u-fuga-jose-manuel-alvarez-dins-el-festival-ciutat-flamenco",
-      "d7": 1,
-      "d30": 1,
-      "d90": 2,
-      "d365": 3
-    },
-    {
-      "path": "/2012/01/22/placa-angel-pestana-prosperitat-barcelona",
       "d7": 1,
       "d30": 1,
       "d90": 2,
@@ -1623,7 +1627,7 @@
       "path": "/2021/03/28/sandra-sas",
       "d7": 0,
       "d30": 1,
-      "d90": 2,
+      "d90": 1,
       "d365": 3
     },
     {
@@ -1755,7 +1759,7 @@
     {
       "path": "/arxiu/2026",
       "d7": 0,
-      "d30": 2,
+      "d30": 1,
       "d90": 2,
       "d365": 2
     },
@@ -1880,7 +1884,7 @@
     },
     {
       "path": "/2011/10/01/barcelona-tattoo-expo-2011-divendres",
-      "d7": 1,
+      "d7": 0,
       "d30": 1,
       "d90": 2,
       "d365": 2
@@ -2316,70 +2320,70 @@
       "path": "/tag/video-de-sessio",
       "d7": 0,
       "d30": 0,
-      "d90": 2,
+      "d90": 0,
       "d365": 2
     },
     {
       "path": "/tag/purtas",
       "d7": 0,
       "d30": 0,
-      "d90": 2,
+      "d90": 0,
       "d365": 2
     },
     {
       "path": "/2020/04/04/2020-04-03-auto-confinament-amb-diana-multi-pinhole",
       "d7": 0,
       "d30": 0,
-      "d90": 2,
+      "d90": 0,
       "d365": 2
     },
     {
       "path": "/2016/05/20/mambo-jambo-jambology",
       "d7": 0,
       "d30": 0,
-      "d90": 2,
+      "d90": 0,
       "d365": 2
     },
     {
       "path": "/2014/08/27/3472-pentax-k1000",
       "d7": 0,
       "d30": 0,
-      "d90": 2,
+      "d90": 0,
       "d365": 2
     },
     {
       "path": "/tag/pati-llimona",
       "d7": 0,
       "d30": 0,
-      "d90": 2,
+      "d90": 0,
       "d365": 2
     },
     {
       "path": "/tag/axillirpunk",
       "d7": 0,
       "d30": 0,
-      "d90": 2,
+      "d90": 0,
       "d365": 2
     },
     {
       "path": "/2017/07/03/hd132-al-poble-2",
       "d7": 0,
       "d30": 0,
-      "d90": 2,
+      "d90": 0,
       "d365": 2
     },
     {
       "path": "/2019/09/01/leon-i-asturies",
       "d7": 0,
       "d30": 0,
-      "d90": 2,
+      "d90": 0,
       "d365": 2
     },
     {
       "path": "/tag/refugi-climatic",
       "d7": 0,
       "d30": 0,
-      "d90": 2,
+      "d90": 0,
       "d365": 2
     },
     {
@@ -2530,6 +2534,20 @@
       "d365": 2
     },
     {
+      "path": "/tag/san-xibeco",
+      "d7": 1,
+      "d30": 1,
+      "d90": 1,
+      "d365": 1
+    },
+    {
+      "path": "/2026/05/10/pocallum-cat-estrena-nova-web",
+      "d7": 1,
+      "d30": 1,
+      "d90": 1,
+      "d365": 1
+    },
+    {
       "path": "/2020/12/01/alfonso-de-castro-again",
       "d7": 1,
       "d30": 1,
@@ -2587,21 +2605,21 @@
     },
     {
       "path": "/2024/11/06/2024-11-02-nit-danimes-al-casal-de-prosperitat",
-      "d7": 1,
+      "d7": 0,
       "d30": 1,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/2011/09/14/fotos-del-disc-de-bang-de-the-big-jamboree",
-      "d7": 1,
+      "d7": 0,
       "d30": 1,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/2011/10/02/barcelona-tattoo-expo-2011-dissabte",
-      "d7": 1,
+      "d7": 0,
       "d30": 1,
       "d90": 1,
       "d365": 1
@@ -3519,21 +3537,21 @@
     {
       "path": "/2015/10/05/barcelonatattooexpo-2015-monika-aln-y-nudoss-aabye",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/tag/sax-o-rama",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/tag/fotoperiodisme",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 1,
       "d365": 1
     },
@@ -5907,294 +5925,294 @@
       "path": "/2017/05/13/les-nits-de-capibola-blues-amb-the-company-store",
       "d7": 0,
       "d30": 0,
-      "d90": 1,
+      "d90": 0,
       "d365": 1
     },
     {
       "path": "/2016/06/04/festes-de-prospe-2016-segon-divendres",
       "d7": 0,
       "d30": 0,
-      "d90": 1,
+      "d90": 0,
       "d365": 1
     },
     {
       "path": "/2023/04/16/2023-04-15-iftar-a-nou-barris",
       "d7": 0,
       "d30": 0,
-      "d90": 1,
+      "d90": 0,
       "d365": 1
     },
     {
       "path": "/tag/belair6x12",
       "d7": 0,
       "d30": 0,
-      "d90": 1,
+      "d90": 0,
       "d365": 1
     },
     {
       "path": "/category/camara/canon-eos-6d/page/8",
       "d7": 0,
       "d30": 0,
-      "d90": 1,
+      "d90": 0,
       "d365": 1
     },
     {
       "path": "/tag/camera-panoramica",
       "d7": 0,
       "d30": 0,
-      "d90": 1,
+      "d90": 0,
       "d365": 1
     },
     {
       "path": "/2016/09/04/vermutsical-el-cateto-opuesto",
       "d7": 0,
       "d30": 0,
-      "d90": 1,
+      "d90": 0,
       "d365": 1
     },
     {
       "path": "/2013/05/12/vermutsical-amb-iza-pepe-camacho",
       "d7": 0,
       "d30": 0,
-      "d90": 1,
+      "d90": 0,
       "d365": 1
     },
     {
       "path": "/tag/sira",
       "d7": 0,
       "d30": 0,
-      "d90": 1,
+      "d90": 0,
       "d365": 1
     },
     {
       "path": "/2017/03/26/festival-de-sopes-del-mon-2017",
       "d7": 0,
       "d30": 0,
-      "d90": 1,
+      "d90": 0,
       "d365": 1
     },
     {
       "path": "/2020/06/04/one-hour-one-km-one-roll-2020-06-03",
       "d7": 0,
       "d30": 0,
-      "d90": 1,
+      "d90": 0,
       "d365": 1
     },
     {
       "path": "/tag/diy",
       "d7": 0,
       "d30": 0,
-      "d90": 1,
+      "d90": 0,
       "d365": 1
     },
     {
       "path": "/2022/07/23/2022-07-22-papa-orbe-los-cientificos-del-sabor",
       "d7": 0,
       "d30": 0,
-      "d90": 1,
+      "d90": 0,
       "d365": 1
     },
     {
       "path": "/2011/07/06/boca",
       "d7": 0,
       "d30": 0,
-      "d90": 1,
+      "d90": 0,
       "d365": 1
     },
     {
       "path": "/2017/03/04/taller-de-revelat-experimental-amb-vi-negre-wineol",
       "d7": 0,
       "d30": 0,
-      "d90": 1,
+      "d90": 0,
       "d365": 1
     },
     {
       "path": "/tag/frederico-vannini",
       "d7": 0,
       "d30": 0,
-      "d90": 1,
+      "d90": 0,
       "d365": 1
     },
     {
       "path": "/tag/barcelonacultura",
       "d7": 0,
       "d30": 0,
-      "d90": 1,
+      "d90": 0,
       "d365": 1
     },
     {
       "path": "/tag/cultura-musical",
       "d7": 0,
       "d30": 0,
-      "d90": 1,
+      "d90": 0,
       "d365": 1
     },
     {
       "path": "/tag/analogic/page/3",
       "d7": 0,
       "d30": 0,
-      "d90": 1,
+      "d90": 0,
       "d365": 1
     },
     {
       "path": "/tag/rodet-de-color",
       "d7": 0,
       "d30": 0,
-      "d90": 1,
+      "d90": 0,
       "d365": 1
     },
     {
       "path": "/2012/06/09/vermutsical-al-casal-enrico-trio-jazz",
       "d7": 0,
       "d30": 0,
-      "d90": 1,
+      "d90": 0,
       "d365": 1
     },
     {
       "path": "/2014/05/18/cece-giannotti-al-casal-de-barri-de-prosperitat",
       "d7": 0,
       "d30": 0,
-      "d90": 1,
+      "d90": 0,
       "d365": 1
     },
     {
       "path": "/2013/03/27/2711-la-sardina",
       "d7": 0,
       "d30": 0,
-      "d90": 1,
+      "d90": 0,
       "d365": 1
     },
     {
       "path": "/tag/ruines",
       "d7": 0,
       "d30": 0,
-      "d90": 1,
+      "d90": 0,
       "d365": 1
     },
     {
       "path": "/tag/sprocketrocket",
       "d7": 0,
       "d30": 0,
-      "d90": 1,
+      "d90": 0,
       "d365": 1
     },
     {
       "path": "/2014/10/28/5271-cosinacx2-cn800",
       "d7": 0,
       "d30": 0,
-      "d90": 1,
+      "d90": 0,
       "d365": 1
     },
     {
       "path": "/2020/01/13/blues-a-la-casa-de-laigua",
       "d7": 0,
       "d30": 0,
-      "d90": 1,
+      "d90": 0,
       "d365": 1
     },
     {
       "path": "/tag/bigdaniperez",
       "d7": 0,
       "d30": 0,
-      "d90": 1,
+      "d90": 0,
       "d365": 1
     },
     {
       "path": "/2012/12/15/vites-de-barcelona-a-ciutat-meridiana",
       "d7": 0,
       "d30": 0,
-      "d90": 1,
+      "d90": 0,
       "d365": 1
     },
     {
       "path": "/category/optioca/page/3",
       "d7": 0,
       "d30": 0,
-      "d90": 1,
+      "d90": 0,
       "d365": 1
     },
     {
       "path": "/tag/viatges",
       "d7": 0,
       "d30": 0,
-      "d90": 1,
+      "d90": 0,
       "d365": 1
     },
     {
       "path": "/2015/04/01/1138-holga-wpc-fujichrome-t64",
       "d7": 0,
       "d30": 0,
-      "d90": 1,
+      "d90": 0,
       "d365": 1
     },
     {
       "path": "/2013/12/19/prospeorquesta",
       "d7": 0,
       "d30": 0,
-      "d90": 1,
+      "d90": 0,
       "d365": 1
     },
     {
       "path": "/tag/parccentral",
       "d7": 0,
       "d30": 0,
-      "d90": 1,
+      "d90": 0,
       "d365": 1
     },
     {
       "path": "/2019/04/24/escapada-ss-2019-amb-4x5",
       "d7": 0,
       "d30": 0,
-      "d90": 1,
+      "d90": 0,
       "d365": 1
     },
     {
       "path": "/tag/concerts-catalunya",
       "d7": 0,
       "d30": 0,
-      "d90": 1,
+      "d90": 0,
       "d365": 1
     },
     {
       "path": "/tag/video-musical",
       "d7": 0,
       "d30": 0,
-      "d90": 1,
+      "d90": 0,
       "d365": 1
     },
     {
       "path": "/2013/05/15/caffenol-04-diana-pinhole-bollei-bn-400",
       "d7": 0,
       "d30": 0,
-      "d90": 1,
+      "d90": 0,
       "d365": 1
     },
     {
       "path": "/tag/heavymetal",
       "d7": 0,
       "d30": 0,
-      "d90": 1,
+      "d90": 0,
       "d365": 1
     },
     {
       "path": "/tag/amants-del-cafe",
       "d7": 0,
       "d30": 0,
-      "d90": 1,
+      "d90": 0,
       "d365": 1
     },
     {
       "path": "/tag/daniel-higienico",
       "d7": 0,
       "d30": 0,
-      "d90": 1,
+      "d90": 0,
       "d365": 1
     },
     {
       "path": "/tag/bcneta",
       "d7": 0,
       "d30": 0,
-      "d90": 1,
+      "d90": 0,
       "d365": 1
     },
     {
@@ -6899,8 +6917,8 @@
     }
   ],
   "by_section": {
-    "inici": 357,
-    "posts": 1184,
+    "inici": 358,
+    "posts": 1191,
     "cerca": 37,
     "arxiu": 28,
     "page": 65,
@@ -6919,7 +6937,7 @@
     "?query-0-page=8": 5,
     "?query-0-page=186": 5,
     "?query-0-page=189": 5,
-    "tag": 133,
+    "tag": 134,
     "?query-0-page=25": 4,
     "en-us": 4,
     "politica-de-cookies": 4,
@@ -7176,7 +7194,8 @@
       "2026-10-31": 2,
       "2026-11-01": 2,
       "2026-11-02": 1,
-      "2026-11-05": 1
+      "2026-11-05": 1,
+      "2026-11-06": 1
     },
     "/2026/07/11/2026-07-11-prospe-beach-again": {
       "2026-07-11": 5,
@@ -7494,6 +7513,11 @@
       "2026-08-15": 6,
       "2026-09-29": 1
     },
+    "/2026/10/25/2026-10-24-10-anys-de-date-una-huerta": {
+      "2026-10-25": 2,
+      "2026-10-26": 7,
+      "2026-11-06": 3
+    },
     "/2026/10/25/2026-10-23-ciutat-flamenco-ciutat-batalla": {
       "2026-10-25": 7,
       "2026-10-26": 1,
@@ -7563,10 +7587,6 @@
       "2026-09-15": 1,
       "2026-10-04": 1
     },
-    "/2026/10/25/2026-10-24-10-anys-de-date-una-huerta": {
-      "2026-10-25": 2,
-      "2026-10-26": 7
-    },
     "/blog.pocallum.cat": {
       "2026-09-15": 7,
       "2026-09-16": 1,
@@ -7594,6 +7614,12 @@
       "2026-10-27": 1,
       "2026-10-28": 1,
       "2026-10-31": 1
+    },
+    "/2026/10/26/2026-10-24-10-anys-de-date-una-huerta": {
+      "2026-10-25": 1,
+      "2026-10-26": 5,
+      "2026-10-28": 1,
+      "2026-11-06": 1
     },
     "/2026/10/25/2026-10-24-ciutat-flamenco-yoel-vargas-%C3%B3bito": {
       "2026-10-25": 3,
@@ -7648,11 +7674,6 @@
       "2026-10-27": 1,
       "2026-10-30": 1,
       "2026-10-31": 1
-    },
-    "/2026/10/26/2026-10-24-10-anys-de-date-una-huerta": {
-      "2026-10-25": 1,
-      "2026-10-26": 5,
-      "2026-10-28": 1
     },
     "/2026/10/03/2026-11-06-quasi-sis-anys-retratant-el-blues-presentem-40-anys-de-blues-a-barcelona": {
       "2026-10-03": 3,
@@ -7721,6 +7742,14 @@
       "2026-07-21": 2,
       "2026-09-06": 1,
       "2026-09-18": 1
+    },
+    "/2026/06/02/2026-06-01-festes-de-prosperitat-xistorra-rock": {
+      "2026-07-12": 1,
+      "2026-08-07": 1,
+      "2026-09-19": 1,
+      "2026-10-03": 1,
+      "2026-10-26": 1,
+      "2026-11-06": 1
     },
     "/2026/10/22/2026-10-22-ciutat-flamenco-ana-morales-m%C3%A1s-que-baile": {
       "2026-10-25": 1,
@@ -7806,13 +7835,6 @@
       "2026-10-21": 1,
       "2026-10-25": 2
     },
-    "/2026/06/02/2026-06-01-festes-de-prosperitat-xistorra-rock": {
-      "2026-07-12": 1,
-      "2026-08-07": 1,
-      "2026-09-19": 1,
-      "2026-10-03": 1,
-      "2026-10-26": 1
-    },
     "/2012/01/28/prospe-beach-2010": {
       "2026-07-12": 4,
       "2026-07-15": 1
@@ -7890,6 +7912,12 @@
       "2026-07-18": 2,
       "2026-10-15": 1,
       "2026-10-18": 1
+    },
+    "/2012/01/22/placa-angel-pestana-prosperitat-barcelona": {
+      "2026-07-14": 1,
+      "2026-09-25": 1,
+      "2026-11-04": 1,
+      "2026-11-06": 1
     },
     "/2026/03/21/2026-03-20-anton-jarls-kind-of-metal-al-jamboree": {
       "2026-07-13": 1,
@@ -8052,11 +8080,6 @@
       "2026-07-23": 1,
       "2026-09-01": 1,
       "2026-11-03": 1
-    },
-    "/2012/01/22/placa-angel-pestana-prosperitat-barcelona": {
-      "2026-07-14": 1,
-      "2026-09-25": 1,
-      "2026-11-04": 1
     },
     "/2024/11/16/2024-11-15-sant-xibeco-el-persianas-los-influencers-muertos": {
       "2026-07-12": 2,
@@ -8531,6 +8554,12 @@
     "/tag/berta-cots": {
       "2026-07-07": 1,
       "2026-10-20": 1
+    },
+    "/tag/san-xibeco": {
+      "2026-11-06": 1
+    },
+    "/2026/05/10/pocallum-cat-estrena-nova-web": {
+      "2026-11-06": 1
     },
     "/2020/12/01/alfonso-de-castro-again": {
       "2026-11-03": 1
@@ -10524,7 +10553,8 @@
       "2026-11-02": 4,
       "2026-11-03": 9,
       "2026-11-04": 2,
-      "2026-11-05": 2
+      "2026-11-05": 2,
+      "2026-11-06": 7
     },
     "inici": {
       "2026-07-07": 5,
@@ -10632,7 +10662,8 @@
       "2026-10-31": 2,
       "2026-11-01": 2,
       "2026-11-02": 1,
-      "2026-11-05": 1
+      "2026-11-05": 1,
+      "2026-11-06": 1
     },
     "category": {
       "2026-07-12": 1,
@@ -10700,7 +10731,8 @@
       "2026-10-21": 1,
       "2026-10-25": 1,
       "2026-10-26": 1,
-      "2026-11-02": 3
+      "2026-11-02": 3,
+      "2026-11-06": 1
     },
     "page": {
       "2026-07-12": 14,
@@ -11567,7 +11599,7 @@
     {
       "name": "Google",
       "id": "Google",
-      "count": 164
+      "count": 167
     },
     {
       "name": "www.9barrisimatge.org",
@@ -11577,7 +11609,7 @@
     {
       "name": "9barrisimatge.org",
       "id": "9barrisimatge.org",
-      "count": 45
+      "count": 48
     },
     {
       "name": "www.facebook.com",
