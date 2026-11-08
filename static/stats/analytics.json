@@ -1,10 +1,10 @@
 {
-  "generated": "2026-11-07T20:53:27.885615Z",
+  "generated": "2026-11-08T00:37:05.536734Z",
   "period": {
-    "start": "2025-11-07",
-    "end": "2026-11-07"
+    "start": "2025-11-08",
+    "end": "2026-11-08"
   },
-  "total": 2360,
+  "total": 2390,
   "total_unique": 0,
   "hits_by_day": [
     {
@@ -494,12 +494,16 @@
     {
       "date": "2026-11-06",
       "count": 9
+    },
+    {
+      "date": "2026-11-07",
+      "count": 30
     }
   ],
   "hits": [
     {
       "path": "/",
-      "count": 358
+      "count": 364
     },
     {
       "path": "/2026/07/11/2026-07-11-prospe-beach-again",
@@ -511,7 +515,7 @@
     },
     {
       "path": "/cerca",
-      "count": 37
+      "count": 38
     },
     {
       "path": "/2026/08/19/2026-08-18-isadora-passos-suspensio-capilar",
@@ -535,7 +539,7 @@
     },
     {
       "path": "/arxiu",
-      "count": 19
+      "count": 20
     },
     {
       "path": "/2026/08/19/2026-08-18-despedida-anike-lamoso",
@@ -634,6 +638,10 @@
       "count": 10
     },
     {
+      "path": "/2026/11/07/2026-11-06-elektra-i-hekate-heads-nit-de-punk-rock-a-la-prosperitat",
+      "count": 9
+    },
+    {
       "path": "/blog.pocallum.cat",
       "count": 9
     },
@@ -666,6 +674,10 @@
       "count": 8
     },
     {
+      "path": "/categories",
+      "count": 8
+    },
+    {
       "path": "/page/4",
       "count": 8
     },
@@ -688,23 +700,15 @@
     {
       "path": "/2026/10/03/2026-11-06-quasi-sis-anys-retratant-el-blues-presentem-40-anys-de-blues-a-barcelona",
       "count": 7
-    },
-    {
-      "path": "/2026/09/10/2026-08-24a28-escapada-a-taull",
-      "count": 7
-    },
-    {
-      "path": "/2026/06/27/2026-06-22a25-barcelona-big-blues-band-al-beatgarden-studios",
-      "count": 7
     }
   ],
   "hits_windows": [
     {
       "path": "/",
-      "d7": 7,
-      "d30": 81,
-      "d90": 286,
-      "d365": 358
+      "d7": 11,
+      "d30": 86,
+      "d90": 288,
+      "d365": 364
     },
     {
       "path": "/2026/07/11/2026-07-11-prospe-beach-again",
@@ -722,15 +726,15 @@
     },
     {
       "path": "/cerca",
-      "d7": 0,
-      "d30": 7,
-      "d90": 34,
-      "d365": 37
+      "d7": 1,
+      "d30": 8,
+      "d90": 33,
+      "d365": 38
     },
     {
       "path": "/2026/08/19/2026-08-18-isadora-passos-suspensio-capilar",
       "d7": 1,
-      "d30": 2,
+      "d30": 1,
       "d90": 31,
       "d365": 31
     },
@@ -764,10 +768,10 @@
     },
     {
       "path": "/arxiu",
-      "d7": 0,
-      "d30": 4,
-      "d90": 19,
-      "d365": 19
+      "d7": 1,
+      "d30": 5,
+      "d90": 20,
+      "d365": 20
     },
     {
       "path": "/2026/08/19/2026-08-18-despedida-anike-lamoso",
@@ -779,7 +783,7 @@
     {
       "path": "/page/2",
       "d7": 0,
-      "d30": 7,
+      "d30": 6,
       "d90": 17,
       "d365": 17
     },
@@ -815,14 +819,14 @@
       "path": "/contact",
       "d7": 0,
       "d30": 1,
-      "d90": 15,
+      "d90": 11,
       "d365": 16
     },
     {
       "path": "/about",
       "d7": 0,
       "d30": 1,
-      "d90": 14,
+      "d90": 12,
       "d365": 15
     },
     {
@@ -843,7 +847,7 @@
       "path": "/2026/07/31/2026-07-30-primeres-proves-per-al-repte-retrats-lents-de-112-revelats",
       "d7": 0,
       "d30": 0,
-      "d90": 8,
+      "d90": 3,
       "d365": 14
     },
     {
@@ -871,7 +875,7 @@
       "path": "/aviso-legal",
       "d7": 0,
       "d30": 0,
-      "d90": 13,
+      "d90": 11,
       "d365": 13
     },
     {
@@ -938,6 +942,13 @@
       "d365": 10
     },
     {
+      "path": "/2026/11/07/2026-11-06-elektra-i-hekate-heads-nit-de-punk-rock-a-la-prosperitat",
+      "d7": 9,
+      "d30": 9,
+      "d90": 9,
+      "d365": 9
+    },
+    {
       "path": "/blog.pocallum.cat",
       "d7": 0,
       "d30": 0,
@@ -960,7 +971,7 @@
     },
     {
       "path": "/2026/10/27/2026-10-25-21%C3%A8-festival-de-sopes-del-m%C3%B3n-mundial-de-nou-barris",
-      "d7": 1,
+      "d7": 0,
       "d30": 8,
       "d90": 8,
       "d365": 8
@@ -994,6 +1005,13 @@
       "d365": 8
     },
     {
+      "path": "/categories",
+      "d7": 2,
+      "d30": 6,
+      "d90": 8,
+      "d365": 8
+    },
+    {
       "path": "/page/4",
       "d7": 0,
       "d30": 4,
@@ -1023,7 +1041,7 @@
     },
     {
       "path": "/2025/10/30/2025-10-30-castanyada-diabolica-de-la-sagrera",
-      "d7": 1,
+      "d7": 0,
       "d30": 6,
       "d90": 6,
       "d365": 8
@@ -1053,13 +1071,6 @@
       "path": "/2011/07/03/montjuic-de-nit-amb-chino-the-big-bet-i-barce",
       "d7": 0,
       "d30": 6,
-      "d90": 6,
-      "d365": 6
-    },
-    {
-      "path": "/categories",
-      "d7": 1,
-      "d30": 4,
       "d90": 6,
       "d365": 6
     },
@@ -1113,6 +1124,13 @@
       "d365": 6
     },
     {
+      "path": "/2026/10/31/2026-10-28-i-29-festival-panor%C3%A0mic-fotoescriptures-al-cccb",
+      "d7": 3,
+      "d30": 5,
+      "d90": 5,
+      "d365": 5
+    },
+    {
       "path": "/2026/10/22/2026-10-22-ciutat-flamenco-ana-morales-m%C3%A1s-que-baile",
       "d7": 0,
       "d30": 5,
@@ -1121,7 +1139,7 @@
     },
     {
       "path": "/2026/10/17/2026-10-17-14a-revelat-maneres-descapar",
-      "d7": 2,
+      "d7": 1,
       "d30": 5,
       "d90": 5,
       "d365": 5
@@ -1143,7 +1161,7 @@
     {
       "path": "/2026/10/07/2026-10-02-baum-fest-2026-tinta-i-art",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 5,
       "d365": 5
     },
@@ -1156,7 +1174,7 @@
     },
     {
       "path": "/2026/06/27/2026-06-26-elvis-amb-barcelona-big-blues-band-agusti-burriel-the-velved-candels-noa-vd",
-      "d7": 1,
+      "d7": 0,
       "d30": 3,
       "d90": 5,
       "d365": 5
@@ -1239,15 +1257,8 @@
       "d365": 5
     },
     {
-      "path": "/2026/10/31/2026-10-28-i-29-festival-panor%C3%A0mic-fotoescriptures-al-cccb",
-      "d7": 4,
-      "d30": 4,
-      "d90": 4,
-      "d365": 4
-    },
-    {
       "path": "/2026/10/27/presentaci%C3%B3-del-llibre-de-fotografies-i-biografies-40-anys-de-blues-a-barcelona",
-      "d7": 2,
+      "d7": 0,
       "d30": 4,
       "d90": 4,
       "d365": 4
@@ -1408,7 +1419,7 @@
     },
     {
       "path": "/2025/04/07/2025-04-06-barcelona-big-blues-band-feat-noa-vd",
-      "d7": 1,
+      "d7": 0,
       "d30": 3,
       "d90": 3,
       "d365": 3
@@ -1687,6 +1698,13 @@
       "d365": 2
     },
     {
+      "path": "/2021/07/12/2021-07-11-19e-festival-de-blues-de-barcelona-barcelona-big-blues-band-ft-spencer-evoy",
+      "d7": 1,
+      "d30": 2,
+      "d90": 2,
+      "d365": 2
+    },
+    {
       "path": "/2020/07/05/festival-de-blues-de-barcelona-chino-the-big-bet-sax-attack-2",
       "d7": 0,
       "d30": 2,
@@ -1695,21 +1713,21 @@
     },
     {
       "path": "/2011/04/07/assaig-de-la-barcelona-big-blues-band",
-      "d7": 1,
+      "d7": 0,
       "d30": 2,
       "d90": 2,
       "d365": 2
     },
     {
       "path": "/2014/05/01/barcelona-big-blues-band-tercer-dia-a-lestudi",
-      "d7": 1,
+      "d7": 0,
       "d30": 2,
       "d90": 2,
       "d365": 2
     },
     {
       "path": "/2013/08/05/barcelona-big-blues-band-amb-mike-sanchez",
-      "d7": 1,
+      "d7": 0,
       "d30": 2,
       "d90": 2,
       "d365": 2
@@ -1822,7 +1840,7 @@
     {
       "path": "/tag/littlejordi",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 2,
       "d365": 2
     },
@@ -1836,7 +1854,7 @@
     {
       "path": "/2020/07/04/festival-de-blues-de-barcelona-a-ciegas",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 2,
       "d365": 2
     },
@@ -2534,6 +2552,69 @@
       "d365": 2
     },
     {
+      "path": "/category/fuji-x-pro1",
+      "d7": 1,
+      "d30": 1,
+      "d90": 1,
+      "d365": 1
+    },
+    {
+      "path": "/tag/elektra",
+      "d7": 1,
+      "d30": 1,
+      "d90": 1,
+      "d365": 1
+    },
+    {
+      "path": "/arxiu/2026/11",
+      "d7": 1,
+      "d30": 1,
+      "d90": 1,
+      "d365": 1
+    },
+    {
+      "path": "/2026/11/07/2026-11-06-my-coffee-adwads-2026-a-la-nau-bostik",
+      "d7": 1,
+      "d30": 1,
+      "d90": 1,
+      "d365": 1
+    },
+    {
+      "path": "/tag/meet-your-coffee-awards",
+      "d7": 1,
+      "d30": 1,
+      "d90": 1,
+      "d365": 1
+    },
+    {
+      "path": "/2026/01/16/2026-01-15-20e-aniversari-de-sant-andreu-jazz-band",
+      "d7": 1,
+      "d30": 1,
+      "d90": 1,
+      "d365": 1
+    },
+    {
+      "path": "/category/canon-50-mm-f-1-8",
+      "d7": 1,
+      "d30": 1,
+      "d90": 1,
+      "d365": 1
+    },
+    {
+      "path": "/2024/02/12/2024-02-12-salo-de-vins-naturals-a-la-nau-bostik",
+      "d7": 1,
+      "d30": 1,
+      "d90": 1,
+      "d365": 1
+    },
+    {
+      "path": "/2024/02/11/2024-02-10-carnestoltes-a-nou-barris-rua-central-gran-festa-de-carnaval-a-lateneu-popular-de-nou-barris",
+      "d7": 1,
+      "d30": 1,
+      "d90": 1,
+      "d365": 1
+    },
+    {
       "path": "/tag/san-xibeco",
       "d7": 1,
       "d30": 1,
@@ -2598,7 +2679,7 @@
     },
     {
       "path": "/2024/11/10/2024-11-09-flamenco-de-barrio-taula-rodona-un-antes-y-un-despues-de-omega-kike-morente",
-      "d7": 1,
+      "d7": 0,
       "d30": 1,
       "d90": 1,
       "d365": 1
@@ -3157,13 +3238,6 @@
       "d365": 1
     },
     {
-      "path": "/2021/07/12/2021-07-11-19e-festival-de-blues-de-barcelona-barcelona-big-blues-band-ft-spencer-evoy",
-      "d7": 0,
-      "d30": 1,
-      "d90": 1,
-      "d365": 1
-    },
-    {
       "path": "/2011/02/08/sessio-fotografica-amb-barcelona-big-blues-ba",
       "d7": 0,
       "d30": 1,
@@ -3509,28 +3583,28 @@
     {
       "path": "/2026/03/15/2026-03-13-jazz-i-am-darrer-dia-al-molono",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/2022/06/28/20e-festival-de-blues-de-barcelona-presentacio-de-preses-falses-40-anys-de-blues-a-barcelona",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/2025/04/22/2025-05-19-la-puda-un-tresor-abandonat-a-la-vora-de-montserrat",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/tag/agfa-aviphot-pan-200-peo-ar-200",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 1,
       "d365": 1
     },
@@ -6917,18 +6991,18 @@
     }
   ],
   "by_section": {
-    "inici": 358,
-    "posts": 1191,
-    "cerca": 37,
-    "arxiu": 28,
+    "inici": 364,
+    "posts": 1206,
+    "cerca": 38,
+    "arxiu": 30,
     "page": 65,
     "contact": 16,
     "about": 15,
     "aviso-legal": 13,
     "blog.pocallum.cat": 24,
     "?query-0-page=2": 9,
-    "category": 191,
-    "categories": 6,
+    "categories": 8,
+    "category": 193,
     "?query-0-page=10": 5,
     "?query-0-page=191": 5,
     "?query-0-page=188": 5,
@@ -6937,7 +7011,7 @@
     "?query-0-page=8": 5,
     "?query-0-page=186": 5,
     "?query-0-page=189": 5,
-    "tag": 134,
+    "tag": 136,
     "?query-0-page=25": 4,
     "en-us": 4,
     "politica-de-cookies": 4,
@@ -7195,7 +7269,8 @@
       "2026-11-01": 2,
       "2026-11-02": 1,
       "2026-11-05": 1,
-      "2026-11-06": 1
+      "2026-11-06": 1,
+      "2026-11-07": 6
     },
     "/2026/07/11/2026-07-11-prospe-beach-again": {
       "2026-07-11": 5,
@@ -7269,7 +7344,8 @@
       "2026-10-15": 1,
       "2026-10-18": 2,
       "2026-10-20": 1,
-      "2026-10-25": 1
+      "2026-10-25": 1,
+      "2026-11-07": 1
     },
     "/2026/08/19/2026-08-18-isadora-passos-suspensio-capilar": {
       "2026-08-19": 6,
@@ -7360,7 +7436,8 @@
       "2026-10-20": 1,
       "2026-10-25": 1,
       "2026-10-27": 1,
-      "2026-10-28": 1
+      "2026-10-28": 1,
+      "2026-11-07": 1
     },
     "/2026/08/19/2026-08-18-despedida-anike-lamoso": {
       "2026-08-19": 8,
@@ -7587,6 +7664,9 @@
       "2026-09-15": 1,
       "2026-10-04": 1
     },
+    "/2026/11/07/2026-11-06-elektra-i-hekate-heads-nit-de-punk-rock-a-la-prosperitat": {
+      "2026-11-07": 9
+    },
     "/blog.pocallum.cat": {
       "2026-09-15": 7,
       "2026-09-16": 1,
@@ -7636,6 +7716,15 @@
       "2026-10-06": 1,
       "2026-10-07": 1,
       "2026-10-10": 1
+    },
+    "/categories": {
+      "2026-10-02": 1,
+      "2026-10-05": 1,
+      "2026-10-20": 1,
+      "2026-10-25": 1,
+      "2026-10-28": 1,
+      "2026-10-31": 1,
+      "2026-11-07": 2
     },
     "/page/4": {
       "2026-09-20": 1,
@@ -7702,14 +7791,6 @@
       "2026-10-19": 1,
       "2026-10-20": 1
     },
-    "/categories": {
-      "2026-10-02": 1,
-      "2026-10-05": 1,
-      "2026-10-20": 1,
-      "2026-10-25": 1,
-      "2026-10-28": 1,
-      "2026-10-31": 1
-    },
     "/2026/09/24/2026-09-24-la-merc%C3%A8-baixant-a-barcelona": {
       "2026-09-24": 2,
       "2026-09-25": 2,
@@ -7750,6 +7831,11 @@
       "2026-10-03": 1,
       "2026-10-26": 1,
       "2026-11-06": 1
+    },
+    "/2026/10/31/2026-10-28-i-29-festival-panor%C3%A0mic-fotoescriptures-al-cccb": {
+      "2026-10-31": 2,
+      "2026-11-01": 2,
+      "2026-11-07": 1
     },
     "/2026/10/22/2026-10-22-ciutat-flamenco-ana-morales-m%C3%A1s-que-baile": {
       "2026-10-25": 1,
@@ -7838,10 +7924,6 @@
     "/2012/01/28/prospe-beach-2010": {
       "2026-07-12": 4,
       "2026-07-15": 1
-    },
-    "/2026/10/31/2026-10-28-i-29-festival-panor%C3%A0mic-fotoescriptures-al-cccb": {
-      "2026-10-31": 2,
-      "2026-11-01": 2
     },
     "/2026/10/27/presentaci%C3%B3-del-llibre-de-fotografies-i-biografies-40-anys-de-blues-a-barcelona": {
       "2026-10-27": 1,
@@ -8129,6 +8211,10 @@
     "/2026/01/23/2026-01-22-inauguracio-sax-o-rama-2026": {
       "2026-10-15": 1,
       "2026-11-01": 1
+    },
+    "/2021/07/12/2021-07-11-19e-festival-de-blues-de-barcelona-barcelona-big-blues-band-ft-spencer-evoy": {
+      "2026-10-15": 1,
+      "2026-11-07": 1
     },
     "/2020/07/05/festival-de-blues-de-barcelona-chino-the-big-bet-sax-attack-2": {
       "2026-10-15": 1,
@@ -8555,6 +8641,33 @@
       "2026-07-07": 1,
       "2026-10-20": 1
     },
+    "/category/fuji-x-pro1": {
+      "2026-11-07": 1
+    },
+    "/tag/elektra": {
+      "2026-11-07": 1
+    },
+    "/arxiu/2026/11": {
+      "2026-11-07": 1
+    },
+    "/2026/11/07/2026-11-06-my-coffee-adwads-2026-a-la-nau-bostik": {
+      "2026-11-07": 1
+    },
+    "/tag/meet-your-coffee-awards": {
+      "2026-11-07": 1
+    },
+    "/2026/01/16/2026-01-15-20e-aniversari-de-sant-andreu-jazz-band": {
+      "2026-11-07": 1
+    },
+    "/category/canon-50-mm-f-1-8": {
+      "2026-11-07": 1
+    },
+    "/2024/02/12/2024-02-12-salo-de-vins-naturals-a-la-nau-bostik": {
+      "2026-11-07": 1
+    },
+    "/2024/02/11/2024-02-10-carnestoltes-a-nou-barris-rua-central-gran-festa-de-carnaval-a-lateneu-popular-de-nou-barris": {
+      "2026-11-07": 1
+    },
     "/tag/san-xibeco": {
       "2026-11-06": 1
     },
@@ -8820,9 +8933,6 @@
       "2026-10-15": 1
     },
     "/2021/07/08/2021-07-07-19e-festival-de-blues-de-barcelona-big-dani-perez-albert-bello-quintet": {
-      "2026-10-15": 1
-    },
-    "/2021/07/12/2021-07-11-19e-festival-de-blues-de-barcelona-barcelona-big-blues-band-ft-spencer-evoy": {
       "2026-10-15": 1
     },
     "/2011/02/08/sessio-fotografica-amb-barcelona-big-blues-ba": {
@@ -10554,7 +10664,8 @@
       "2026-11-03": 9,
       "2026-11-04": 2,
       "2026-11-05": 2,
-      "2026-11-06": 7
+      "2026-11-06": 7,
+      "2026-11-07": 15
     },
     "inici": {
       "2026-07-07": 5,
@@ -10663,7 +10774,8 @@
       "2026-11-01": 2,
       "2026-11-02": 1,
       "2026-11-05": 1,
-      "2026-11-06": 1
+      "2026-11-06": 1,
+      "2026-11-07": 6
     },
     "category": {
       "2026-07-12": 1,
@@ -10685,7 +10797,8 @@
       "2026-10-10": 1,
       "2026-10-11": 2,
       "2026-10-15": 1,
-      "2026-10-25": 2
+      "2026-10-25": 2,
+      "2026-11-07": 2
     },
     "tag": {
       "2026-07-07": 2,
@@ -10732,7 +10845,8 @@
       "2026-10-25": 1,
       "2026-10-26": 1,
       "2026-11-02": 3,
-      "2026-11-06": 1
+      "2026-11-06": 1,
+      "2026-11-07": 2
     },
     "page": {
       "2026-07-12": 14,
@@ -10780,7 +10894,8 @@
       "2026-10-15": 1,
       "2026-10-18": 2,
       "2026-10-20": 1,
-      "2026-10-25": 1
+      "2026-10-25": 1,
+      "2026-11-07": 1
     },
     "arxiu": {
       "2026-09-15": 2,
@@ -10796,7 +10911,8 @@
       "2026-10-20": 3,
       "2026-10-25": 2,
       "2026-10-27": 1,
-      "2026-10-28": 2
+      "2026-10-28": 2,
+      "2026-11-07": 2
     },
     "blog.pocallum.cat": {
       "2026-09-15": 22,
@@ -10856,7 +10972,8 @@
       "2026-10-20": 1,
       "2026-10-25": 1,
       "2026-10-28": 1,
-      "2026-10-31": 1
+      "2026-10-31": 1,
+      "2026-11-07": 2
     },
     "?query-0-page=10": {
       "2026-08-13": 5
@@ -11431,12 +11548,12 @@
     {
       "name": "Chrome",
       "id": "Chrome",
-      "count": 1750
+      "count": 1762
     },
     {
       "name": "Safari",
       "id": "Safari",
-      "count": 497
+      "count": 505
     },
     {
       "name": "Firefox",
@@ -11458,7 +11575,7 @@
     {
       "name": "macOS",
       "id": "macOS",
-      "count": 861
+      "count": 862
     },
     {
       "name": "Linux",
@@ -11468,17 +11585,17 @@
     {
       "name": "iOS",
       "id": "iOS",
-      "count": 357
-    },
-    {
-      "name": "Windows",
-      "id": "Windows",
-      "count": 357
+      "count": 365
     },
     {
       "name": "Android",
       "id": "Android",
-      "count": 356
+      "count": 364
+    },
+    {
+      "name": "Windows",
+      "id": "Windows",
+      "count": 360
     },
     {
       "name": "Desconegut",
@@ -11495,12 +11612,12 @@
     {
       "name": "phone",
       "id": "phone",
-      "count": 696
+      "count": 712
     },
     {
       "name": "desktophd",
       "id": "desktophd",
-      "count": 604
+      "count": 608
     },
     {
       "name": "tablet",
@@ -11517,12 +11634,12 @@
     {
       "name": "Spain",
       "id": "ES",
-      "count": 1606
+      "count": 1623
     },
     {
       "name": "United States",
       "id": "US",
-      "count": 396
+      "count": 399
     },
     {
       "name": "Singapore",
@@ -11594,12 +11711,12 @@
     {
       "name": "Desconegut",
       "id": "Desconegut",
-      "count": 989
+      "count": 993
     },
     {
       "name": "Google",
       "id": "Google",
-      "count": 167
+      "count": 170
     },
     {
       "name": "www.9barrisimatge.org",
@@ -11609,12 +11726,12 @@
     {
       "name": "9barrisimatge.org",
       "id": "9barrisimatge.org",
-      "count": 48
+      "count": 49
     },
     {
       "name": "www.facebook.com",
       "id": "www.facebook.com",
-      "count": 29
+      "count": 32
     },
     {
       "name": "pocallum.cat",
@@ -11629,7 +11746,7 @@
     {
       "name": "l.instagram.com",
       "id": "l.instagram.com",
-      "count": 9
+      "count": 11
     },
     {
       "name": "ivankovacevic.com",
@@ -11639,7 +11756,7 @@
     {
       "name": "barcelonabigbluesband.com",
       "id": "barcelonabigbluesband.com",
-      "count": 8
+      "count": 9
     }
   ]
 }
