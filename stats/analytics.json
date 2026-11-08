@@ -1,10 +1,10 @@
 {
-  "generated": "2026-11-08T00:37:05.536734Z",
+  "generated": "2026-11-08T15:13:15.811619Z",
   "period": {
     "start": "2025-11-08",
     "end": "2026-11-08"
   },
-  "total": 2390,
+  "total": 2391,
   "total_unique": 0,
   "hits_by_day": [
     {
@@ -498,6 +498,10 @@
     {
       "date": "2026-11-07",
       "count": 30
+    },
+    {
+      "date": "2026-11-08",
+      "count": 1
     }
   ],
   "hits": [
@@ -630,16 +634,16 @@
       "count": 11
     },
     {
+      "path": "/2026/11/07/2026-11-06-elektra-i-hekate-heads-nit-de-punk-rock-a-la-prosperitat",
+      "count": 10
+    },
+    {
       "path": "/2026/07/06/2026-07-03a05-24-festival-de-blues-de-barcelona",
       "count": 10
     },
     {
       "path": "/2026/07/05/2026-07-03-05-24e-festival-de-blues-de-barcelona-organitzacio-colaboradors-amics-i-voluntaris",
       "count": 10
-    },
-    {
-      "path": "/2026/11/07/2026-11-06-elektra-i-hekate-heads-nit-de-punk-rock-a-la-prosperitat",
-      "count": 9
     },
     {
       "path": "/blog.pocallum.cat",
@@ -928,6 +932,13 @@
       "d365": 11
     },
     {
+      "path": "/2026/11/07/2026-11-06-elektra-i-hekate-heads-nit-de-punk-rock-a-la-prosperitat",
+      "d7": 10,
+      "d30": 10,
+      "d90": 10,
+      "d365": 10
+    },
+    {
       "path": "/2026/07/06/2026-07-03a05-24-festival-de-blues-de-barcelona",
       "d7": 0,
       "d30": 0,
@@ -940,13 +951,6 @@
       "d30": 0,
       "d90": 2,
       "d365": 10
-    },
-    {
-      "path": "/2026/11/07/2026-11-06-elektra-i-hekate-heads-nit-de-punk-rock-a-la-prosperitat",
-      "d7": 9,
-      "d30": 9,
-      "d90": 9,
-      "d365": 9
     },
     {
       "path": "/blog.pocallum.cat",
@@ -6992,7 +6996,7 @@
   ],
   "by_section": {
     "inici": 364,
-    "posts": 1206,
+    "posts": 1207,
     "cerca": 38,
     "arxiu": 30,
     "page": 65,
@@ -7643,6 +7647,10 @@
       "2026-10-25": 1,
       "2026-10-27": 2
     },
+    "/2026/11/07/2026-11-06-elektra-i-hekate-heads-nit-de-punk-rock-a-la-prosperitat": {
+      "2026-11-07": 9,
+      "2026-11-08": 1
+    },
     "/2026/07/06/2026-07-03a05-24-festival-de-blues-de-barcelona": {
       "2026-07-10": 2,
       "2026-07-11": 1,
@@ -7663,9 +7671,6 @@
       "2026-08-02": 1,
       "2026-09-15": 1,
       "2026-10-04": 1
-    },
-    "/2026/11/07/2026-11-06-elektra-i-hekate-heads-nit-de-punk-rock-a-la-prosperitat": {
-      "2026-11-07": 9
     },
     "/blog.pocallum.cat": {
       "2026-09-15": 7,
@@ -10665,7 +10670,8 @@
       "2026-11-04": 2,
       "2026-11-05": 2,
       "2026-11-06": 7,
-      "2026-11-07": 15
+      "2026-11-07": 15,
+      "2026-11-08": 1
     },
     "inici": {
       "2026-07-07": 5,
@@ -11548,12 +11554,12 @@
     {
       "name": "Chrome",
       "id": "Chrome",
-      "count": 1762
+      "count": 1774
     },
     {
       "name": "Safari",
       "id": "Safari",
-      "count": 505
+      "count": 510
     },
     {
       "name": "Firefox",
@@ -11583,19 +11589,19 @@
       "count": 437
     },
     {
-      "name": "iOS",
-      "id": "iOS",
-      "count": 365
-    },
-    {
       "name": "Android",
       "id": "Android",
-      "count": 364
+      "count": 375
+    },
+    {
+      "name": "iOS",
+      "id": "iOS",
+      "count": 370
     },
     {
       "name": "Windows",
       "id": "Windows",
-      "count": 360
+      "count": 361
     },
     {
       "name": "Desconegut",
@@ -11607,12 +11613,12 @@
     {
       "name": "desktop",
       "id": "desktop",
-      "count": 1013
+      "count": 1014
     },
     {
       "name": "phone",
       "id": "phone",
-      "count": 712
+      "count": 723
     },
     {
       "name": "desktophd",
@@ -11622,7 +11628,7 @@
     {
       "name": "tablet",
       "id": "tablet",
-      "count": 55
+      "count": 60
     },
     {
       "name": "unknown",
@@ -11634,12 +11640,12 @@
     {
       "name": "Spain",
       "id": "ES",
-      "count": 1623
+      "count": 1639
     },
     {
       "name": "United States",
       "id": "US",
-      "count": 399
+      "count": 400
     },
     {
       "name": "Singapore",
@@ -11746,7 +11752,7 @@
     {
       "name": "l.instagram.com",
       "id": "l.instagram.com",
-      "count": 11
+      "count": 12
     },
     {
       "name": "ivankovacevic.com",
