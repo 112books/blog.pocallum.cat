@@ -1,10 +1,10 @@
 {
-  "generated": "2026-11-09T06:30:13.352570Z",
+  "generated": "2026-11-10T01:32:17.249099Z",
   "period": {
-    "start": "2025-11-09",
-    "end": "2026-11-09"
+    "start": "2025-11-10",
+    "end": "2026-11-10"
   },
-  "total": 2433,
+  "total": 2436,
   "total_unique": 0,
   "hits_by_day": [
     {
@@ -505,13 +505,13 @@
     },
     {
       "date": "2026-11-09",
-      "count": 17
+      "count": 20
     }
   ],
   "hits": [
     {
       "path": "/",
-      "count": 367
+      "count": 368
     },
     {
       "path": "/2026/07/11/2026-07-11-prospe-beach-again",
@@ -715,8 +715,8 @@
       "path": "/",
       "d7": 12,
       "d30": 82,
-      "d90": 287,
-      "d365": 367
+      "d90": 280,
+      "d365": 368
     },
     {
       "path": "/2026/07/11/2026-07-11-prospe-beach-again",
@@ -804,7 +804,7 @@
     },
     {
       "path": "/2026/10/18/2026-10-19-ciutat-flamenco-esperanza-garrido-firmamento",
-      "d7": 2,
+      "d7": 1,
       "d30": 17,
       "d90": 17,
       "d365": 17
@@ -1022,7 +1022,7 @@
     {
       "path": "/2026/10/05/2026-09-26-dinar-de-comiat-de-leli-companya-de-la-nau-bostik.-shes-gone",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 8,
       "d365": 8
     },
@@ -1090,6 +1090,13 @@
       "d365": 7
     },
     {
+      "path": "/2026/10/22/2026-10-22-ciutat-flamenco-ana-morales-m%C3%A1s-que-baile",
+      "d7": 1,
+      "d30": 6,
+      "d90": 6,
+      "d365": 6
+    },
+    {
       "path": "/2011/07/03/montjuic-de-nit-amb-chino-the-big-bet-i-barce",
       "d7": 0,
       "d30": 6,
@@ -1114,7 +1121,7 @@
       "path": "/2026/08/10/2026-07-29-anike-volant",
       "d7": 0,
       "d30": 0,
-      "d90": 3,
+      "d90": 1,
       "d365": 6
     },
     {
@@ -1134,13 +1141,6 @@
     {
       "path": "/2026/10/31/2026-10-28-i-29-festival-panor%C3%A0mic-fotoescriptures-al-cccb",
       "d7": 1,
-      "d30": 5,
-      "d90": 5,
-      "d365": 5
-    },
-    {
-      "path": "/2026/10/22/2026-10-22-ciutat-flamenco-ana-morales-m%C3%A1s-que-baile",
-      "d7": 0,
       "d30": 5,
       "d90": 5,
       "d365": 5
@@ -1345,7 +1345,7 @@
       "path": "/en-us",
       "d7": 0,
       "d30": 0,
-      "d90": 2,
+      "d90": 0,
       "d365": 4
     },
     {
@@ -1359,7 +1359,14 @@
       "path": "/tag/les-puigdomenech",
       "d7": 0,
       "d30": 0,
-      "d90": 2,
+      "d90": 1,
+      "d365": 4
+    },
+    {
+      "path": "/2025/10/24/2025-10-23-captura-u-fuga-jose-manuel-alvarez-dins-el-festival-ciutat-flamenco",
+      "d7": 2,
+      "d30": 2,
+      "d90": 3,
       "d365": 4
     },
     {
@@ -1622,13 +1629,6 @@
       "d365": 3
     },
     {
-      "path": "/2025/10/24/2025-10-23-captura-u-fuga-jose-manuel-alvarez-dins-el-festival-ciutat-flamenco",
-      "d7": 1,
-      "d30": 1,
-      "d90": 2,
-      "d365": 3
-    },
-    {
       "path": "/2024/11/16/2024-11-15-sant-xibeco-el-persianas-los-influencers-muertos",
       "d7": 0,
       "d30": 0,
@@ -1672,7 +1672,7 @@
     },
     {
       "path": "/2020/01/29/ricardo-voss",
-      "d7": 2,
+      "d7": 0,
       "d30": 2,
       "d90": 2,
       "d365": 2
@@ -2353,7 +2353,7 @@
       "path": "/2025/04/22/2025-04-19-fent-la-cabra-per-tavertet",
       "d7": 0,
       "d30": 0,
-      "d90": 2,
+      "d90": 1,
       "d365": 2
     },
     {
@@ -2729,28 +2729,28 @@
     },
     {
       "path": "/tag/llumatics",
-      "d7": 1,
+      "d7": 0,
       "d30": 1,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/tag/portrait",
-      "d7": 1,
+      "d7": 0,
       "d30": 1,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/tag/ricardo-voss",
-      "d7": 1,
+      "d7": 0,
       "d30": 1,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/2025/11/18/2025-11-18-berta-corts-davant-la-hasselblad",
-      "d7": 1,
+      "d7": 0,
       "d30": 1,
       "d90": 1,
       "d365": 1
@@ -3633,21 +3633,21 @@
     {
       "path": "/category/zenza-bronica-etrs",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/2025/05/05/perutz-primera-100-un-rodet-historic-de-la-fotografia-analogica-europea",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/2025/10/26/2025-10-26-ciutat-flamenco-barcelona-chicharron-circo-flamenco",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 1,
       "d365": 1
     },
@@ -6063,7 +6063,7 @@
       "path": "/2025/07/08/2025-07-05-vijazz-2025-avishai-cohen-trio",
       "d7": 0,
       "d30": 0,
-      "d90": 1,
+      "d90": 0,
       "d365": 1
     },
     {
@@ -7069,8 +7069,8 @@
     }
   ],
   "by_section": {
-    "inici": 367,
-    "posts": 1231,
+    "inici": 368,
+    "posts": 1233,
     "cerca": 38,
     "arxiu": 31,
     "page": 78,
@@ -7350,7 +7350,7 @@
       "2026-11-06": 1,
       "2026-11-07": 6,
       "2026-11-08": 2,
-      "2026-11-09": 1
+      "2026-11-09": 2
     },
     "/2026/07/11/2026-07-11-prospe-beach-again": {
       "2026-07-11": 5,
@@ -7889,6 +7889,12 @@
       "2026-10-29": 1,
       "2026-11-03": 1
     },
+    "/2026/10/22/2026-10-22-ciutat-flamenco-ana-morales-m%C3%A1s-que-baile": {
+      "2026-10-25": 1,
+      "2026-10-26": 2,
+      "2026-10-28": 2,
+      "2026-11-09": 1
+    },
     "/2011/07/03/montjuic-de-nit-amb-chino-the-big-bet-i-barce": {
       "2026-10-15": 1,
       "2026-10-16": 1,
@@ -7928,11 +7934,6 @@
       "2026-10-31": 2,
       "2026-11-01": 2,
       "2026-11-07": 1
-    },
-    "/2026/10/22/2026-10-22-ciutat-flamenco-ana-morales-m%C3%A1s-que-baile": {
-      "2026-10-25": 1,
-      "2026-10-26": 2,
-      "2026-10-28": 2
     },
     "/2026/10/17/2026-10-17-14a-revelat-maneres-descapar": {
       "2026-10-19": 1,
@@ -8087,6 +8088,12 @@
       "2026-07-26": 1,
       "2026-08-11": 1,
       "2026-08-15": 1
+    },
+    "/2025/10/24/2025-10-23-captura-u-fuga-jose-manuel-alvarez-dins-el-festival-ciutat-flamenco": {
+      "2026-07-23": 1,
+      "2026-09-01": 1,
+      "2026-11-03": 1,
+      "2026-11-09": 1
     },
     "/2013/07/05/barcelona-big-blues-band-al-vijazz-2013-a-vilafranca-del-penedes": {
       "2026-07-18": 2,
@@ -8255,11 +8262,6 @@
       "2026-07-23": 1,
       "2026-09-17": 1,
       "2026-10-16": 1
-    },
-    "/2025/10/24/2025-10-23-captura-u-fuga-jose-manuel-alvarez-dins-el-festival-ciutat-flamenco": {
-      "2026-07-23": 1,
-      "2026-09-01": 1,
-      "2026-11-03": 1
     },
     "/2024/11/16/2024-11-15-sant-xibeco-el-persianas-los-influencers-muertos": {
       "2026-07-12": 2,
@@ -10793,7 +10795,7 @@
       "2026-11-06": 7,
       "2026-11-07": 15,
       "2026-11-08": 22,
-      "2026-11-09": 3
+      "2026-11-09": 5
     },
     "inici": {
       "2026-07-07": 5,
@@ -10905,7 +10907,7 @@
       "2026-11-06": 1,
       "2026-11-07": 6,
       "2026-11-08": 2,
-      "2026-11-09": 1
+      "2026-11-09": 2
     },
     "category": {
       "2026-07-12": 1,
@@ -11681,12 +11683,12 @@
     {
       "name": "Chrome",
       "id": "Chrome",
-      "count": 1781
+      "count": 1783
     },
     {
       "name": "Safari",
       "id": "Safari",
-      "count": 529
+      "count": 530
     },
     {
       "name": "Firefox",
@@ -11708,7 +11710,7 @@
     {
       "name": "macOS",
       "id": "macOS",
-      "count": 865
+      "count": 867
     },
     {
       "name": "Linux",
@@ -11718,7 +11720,7 @@
     {
       "name": "iOS",
       "id": "iOS",
-      "count": 389
+      "count": 390
     },
     {
       "name": "Android",
@@ -11745,12 +11747,12 @@
     {
       "name": "phone",
       "id": "phone",
-      "count": 746
+      "count": 747
     },
     {
       "name": "desktophd",
       "id": "desktophd",
-      "count": 608
+      "count": 610
     },
     {
       "name": "tablet",
@@ -11767,12 +11769,12 @@
     {
       "name": "Spain",
       "id": "ES",
-      "count": 1662
+      "count": 1664
     },
     {
       "name": "United States",
       "id": "US",
-      "count": 400
+      "count": 401
     },
     {
       "name": "Singapore",
@@ -11864,7 +11866,7 @@
     {
       "name": "www.facebook.com",
       "id": "www.facebook.com",
-      "count": 32
+      "count": 33
     },
     {
       "name": "pocallum.cat",
