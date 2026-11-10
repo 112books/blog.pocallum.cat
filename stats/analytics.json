@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T09:51:15.417991Z",
+  "generated": "2026-11-10T23:23:25.707053Z",
   "period": {
     "start": "2025-11-10",
     "end": "2026-11-10"
@@ -11683,17 +11683,17 @@
     {
       "name": "Chrome",
       "id": "Chrome",
-      "count": 1788
-    },
-    {
-      "name": "Safari",
-      "id": "Safari",
-      "count": 530
+      "count": 2947
     },
     {
       "name": "Firefox",
       "id": "Firefox",
-      "count": 117
+      "count": 621
+    },
+    {
+      "name": "Safari",
+      "id": "Safari",
+      "count": 533
     },
     {
       "name": "Desconegut",
@@ -11708,9 +11708,14 @@
   ],
   "systems": [
     {
+      "name": "Windows",
+      "id": "Windows",
+      "count": 1521
+    },
+    {
       "name": "macOS",
       "id": "macOS",
-      "count": 872
+      "count": 1377
     },
     {
       "name": "Linux",
@@ -11720,17 +11725,12 @@
     {
       "name": "iOS",
       "id": "iOS",
-      "count": 390
+      "count": 391
     },
     {
       "name": "Android",
       "id": "Android",
       "count": 379
-    },
-    {
-      "name": "Windows",
-      "id": "Windows",
-      "count": 361
     },
     {
       "name": "Desconegut",
@@ -11742,12 +11742,12 @@
     {
       "name": "desktop",
       "id": "desktop",
-      "count": 1017
+      "count": 2682
     },
     {
       "name": "phone",
       "id": "phone",
-      "count": 747
+      "count": 748
     },
     {
       "name": "desktophd",
@@ -11769,12 +11769,17 @@
     {
       "name": "Spain",
       "id": "ES",
-      "count": 1667
+      "count": 1671
+    },
+    {
+      "name": "Seychelles",
+      "id": "SC",
+      "count": 710
     },
     {
       "name": "United States",
       "id": "US",
-      "count": 401
+      "count": 414
     },
     {
       "name": "Singapore",
@@ -11782,64 +11787,59 @@
       "count": 115
     },
     {
-      "name": "United Kingdom",
-      "id": "GB",
-      "count": 38
+      "name": "Pakistan",
+      "id": "PK",
+      "count": 96
     },
     {
-      "name": "Israel",
-      "id": "IL",
-      "count": 31
-    },
-    {
-      "name": "Germany",
-      "id": "DE",
-      "count": 30
+      "name": "Argentina",
+      "id": "AR",
+      "count": 84
     },
     {
       "name": "Brazil",
       "id": "BR",
-      "count": 25
+      "count": 84
     },
     {
-      "name": "France",
-      "id": "FR",
-      "count": 17
-    },
-    {
-      "name": "Indonesia",
-      "id": "ID",
-      "count": 12
+      "name": "Bangladesh",
+      "id": "BD",
+      "count": 81
     },
     {
       "name": "India",
       "id": "IN",
-      "count": 10
+      "count": 55
+    },
+    {
+      "name": "Vietnam",
+      "id": "VN",
+      "count": 54
+    },
+    {
+      "name": "South Africa",
+      "id": "ZA",
+      "count": 52
     },
     {
       "name": "Colombia",
       "id": "CO",
-      "count": 9
+      "count": 49
     },
     {
-      "name": "Italy",
-      "id": "IT",
-      "count": 8
+      "name": "Nigeria",
+      "id": "NG",
+      "count": 44
     },
     {
-      "name": "Sweden",
-      "id": "SE",
-      "count": 8
+      "name": "Mexico",
+      "id": "MX",
+      "count": 40
     },
     {
-      "name": "Switzerland",
-      "id": "CH",
-      "count": 4
-    },
-    {
-      "name": "Ecuador",
-      "id": "EC",
-      "count": 4
+      "name": "United Kingdom",
+      "id": "GB",
+      "count": 38
     }
   ],
   "refs": [
