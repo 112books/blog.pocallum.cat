@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T06:21:59.784563Z",
+  "generated": "2026-11-11T15:13:27.343562Z",
   "period": {
     "start": "2025-11-11",
     "end": "2026-11-11"
@@ -22282,7 +22282,7 @@
     {
       "name": "Chrome",
       "id": "Chrome",
-      "count": 2949
+      "count": 2981
     },
     {
       "name": "Firefox",
@@ -22309,7 +22309,7 @@
     {
       "name": "Windows",
       "id": "Windows",
-      "count": 1523
+      "count": 1555
     },
     {
       "name": "macOS",
@@ -22341,7 +22341,7 @@
     {
       "name": "desktop",
       "id": "desktop",
-      "count": 2684
+      "count": 2715
     },
     {
       "name": "phone",
@@ -22351,7 +22351,7 @@
     {
       "name": "desktophd",
       "id": "desktophd",
-      "count": 613
+      "count": 614
     },
     {
       "name": "tablet",
@@ -22378,12 +22378,12 @@
     {
       "name": "United States",
       "id": "US",
-      "count": 415
+      "count": 430
     },
     {
       "name": "Singapore",
       "id": "SG",
-      "count": 115
+      "count": 116
     },
     {
       "name": "Pakistan",
@@ -22391,19 +22391,19 @@
       "count": 96
     },
     {
+      "name": "Brazil",
+      "id": "BR",
+      "count": 88
+    },
+    {
       "name": "Argentina",
       "id": "AR",
       "count": 84
     },
     {
-      "name": "Brazil",
-      "id": "BR",
-      "count": 84
-    },
-    {
       "name": "Bangladesh",
       "id": "BD",
-      "count": 81
+      "count": 82
     },
     {
       "name": "India",
@@ -22413,7 +22413,7 @@
     {
       "name": "Vietnam",
       "id": "VN",
-      "count": 54
+      "count": 55
     },
     {
       "name": "South Africa",
@@ -22423,7 +22423,7 @@
     {
       "name": "Colombia",
       "id": "CO",
-      "count": 49
+      "count": 51
     },
     {
       "name": "Nigeria",
