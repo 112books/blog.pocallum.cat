@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T03:00:32.396128Z",
+  "generated": "2026-11-12T11:12:16.486485Z",
   "period": {
     "start": "2025-11-12",
     "end": "2026-11-12"
@@ -22326,7 +22326,7 @@
     {
       "name": "Chrome",
       "id": "Chrome",
-      "count": 3038
+      "count": 3077
     },
     {
       "name": "Firefox",
@@ -22353,7 +22353,7 @@
     {
       "name": "Windows",
       "id": "Windows",
-      "count": 1610
+      "count": 1649
     },
     {
       "name": "macOS",
@@ -22385,7 +22385,7 @@
     {
       "name": "desktop",
       "id": "desktop",
-      "count": 2770
+      "count": 2809
     },
     {
       "name": "phone",
@@ -22422,7 +22422,7 @@
     {
       "name": "United States",
       "id": "US",
-      "count": 453
+      "count": 475
     },
     {
       "name": "Singapore",
@@ -22430,14 +22430,14 @@
       "count": 116
     },
     {
+      "name": "Brazil",
+      "id": "BR",
+      "count": 98
+    },
+    {
       "name": "Pakistan",
       "id": "PK",
       "count": 96
-    },
-    {
-      "name": "Brazil",
-      "id": "BR",
-      "count": 95
     },
     {
       "name": "Argentina",
@@ -22450,19 +22450,19 @@
       "count": 82
     },
     {
-      "name": "India",
-      "id": "IN",
-      "count": 55
+      "name": "Colombia",
+      "id": "CO",
+      "count": 58
     },
     {
       "name": "Vietnam",
       "id": "VN",
-      "count": 55
+      "count": 56
     },
     {
-      "name": "Colombia",
-      "id": "CO",
-      "count": 54
+      "name": "India",
+      "id": "IN",
+      "count": 55
     },
     {
       "name": "South Africa",
