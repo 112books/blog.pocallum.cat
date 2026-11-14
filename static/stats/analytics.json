@@ -1,10 +1,10 @@
 {
-  "generated": "2026-11-13T22:39:10.310803Z",
+  "generated": "2026-11-14T10:39:00.886374Z",
   "period": {
-    "start": "2025-11-13",
-    "end": "2026-11-13"
+    "start": "2025-11-14",
+    "end": "2026-11-14"
   },
-  "total": 3635,
+  "total": 3640,
   "total_unique": 0,
   "hits_by_day": [
     {
@@ -417,7 +417,7 @@
     },
     {
       "date": "2026-10-18",
-      "count": 37
+      "count": 38
     },
     {
       "date": "2026-10-19",
@@ -509,7 +509,7 @@
     },
     {
       "date": "2026-11-10",
-      "count": 1625
+      "count": 1617
     },
     {
       "date": "2026-11-11",
@@ -521,7 +521,7 @@
     },
     {
       "date": "2026-11-13",
-      "count": 1
+      "count": 13
     }
   ],
   "hits": [
@@ -554,12 +554,12 @@
       "count": 28
     },
     {
-      "path": "/2026/09/20/2026-09-19-festa-major-de-verdum-verdum-punkfest",
-      "count": 25
+      "path": "/2026/11/07/2026-11-06-elektra-i-hekate-heads-nit-de-punk-rock-a-la-prosperitat",
+      "count": 26
     },
     {
-      "path": "/2026/11/07/2026-11-06-elektra-i-hekate-heads-nit-de-punk-rock-a-la-prosperitat",
-      "count": 24
+      "path": "/2026/09/20/2026-09-19-festa-major-de-verdum-verdum-punkfest",
+      "count": 25
     },
     {
       "path": "/arxiu",
@@ -626,6 +626,10 @@
       "count": 14
     },
     {
+      "path": "/2026/10/25/2026-10-24-10-anys-de-date-una-huerta",
+      "count": 13
+    },
+    {
       "path": "/2026/10/25/2026-10-23-ciutat-flamenco-ciutat-batalla",
       "count": 13
     },
@@ -644,10 +648,6 @@
     {
       "path": "/aviso-legal",
       "count": 13
-    },
-    {
-      "path": "/2026/10/25/2026-10-24-10-anys-de-date-una-huerta",
-      "count": 12
     },
     {
       "path": "/2026/10/24/2026-10-23-ciutat-flamenco-jordi-latorre-despu%C3%A9s-del-diluvio-electr%C3%B3nico",
@@ -729,16 +729,16 @@
   "hits_windows": [
     {
       "path": "/",
-      "d7": 16,
-      "d30": 83,
-      "d90": 278,
+      "d7": 15,
+      "d30": 82,
+      "d90": 275,
       "d365": 373
     },
     {
       "path": "/2026/07/11/2026-07-11-prospe-beach-again",
       "d7": 0,
       "d30": 0,
-      "d90": 12,
+      "d90": 11,
       "d365": 86
     },
     {
@@ -752,7 +752,7 @@
       "path": "/cerca",
       "d7": 1,
       "d30": 6,
-      "d90": 31,
+      "d90": 28,
       "d365": 38
     },
     {
@@ -777,18 +777,18 @@
       "d365": 28
     },
     {
+      "path": "/2026/11/07/2026-11-06-elektra-i-hekate-heads-nit-de-punk-rock-a-la-prosperitat",
+      "d7": 26,
+      "d30": 26,
+      "d90": 26,
+      "d365": 26
+    },
+    {
       "path": "/2026/09/20/2026-09-19-festa-major-de-verdum-verdum-punkfest",
       "d7": 0,
       "d30": 1,
       "d90": 25,
       "d365": 25
-    },
-    {
-      "path": "/2026/11/07/2026-11-06-elektra-i-hekate-heads-nit-de-punk-rock-a-la-prosperitat",
-      "d7": 24,
-      "d30": 24,
-      "d90": 24,
-      "d365": 24
     },
     {
       "path": "/arxiu",
@@ -829,7 +829,7 @@
       "path": "/contact",
       "d7": 1,
       "d30": 2,
-      "d90": 10,
+      "d90": 8,
       "d365": 17
     },
     {
@@ -864,7 +864,7 @@
       "path": "/about",
       "d7": 0,
       "d30": 1,
-      "d90": 10,
+      "d90": 8,
       "d365": 15
     },
     {
@@ -903,6 +903,13 @@
       "d365": 14
     },
     {
+      "path": "/2026/10/25/2026-10-24-10-anys-de-date-una-huerta",
+      "d7": 1,
+      "d30": 13,
+      "d90": 13,
+      "d365": 13
+    },
+    {
       "path": "/2026/10/25/2026-10-23-ciutat-flamenco-ciutat-batalla",
       "d7": 1,
       "d30": 13,
@@ -934,15 +941,8 @@
       "path": "/aviso-legal",
       "d7": 0,
       "d30": 0,
-      "d90": 7,
+      "d90": 1,
       "d365": 13
-    },
-    {
-      "path": "/2026/10/25/2026-10-24-10-anys-de-date-una-huerta",
-      "d7": 3,
-      "d30": 12,
-      "d90": 12,
-      "d365": 12
     },
     {
       "path": "/2026/10/24/2026-10-23-ciutat-flamenco-jordi-latorre-despu%C3%A9s-del-diluvio-electr%C3%B3nico",
@@ -981,7 +981,7 @@
     },
     {
       "path": "/2026/10/26/2026-10-24-10-anys-de-date-una-huerta",
-      "d7": 2,
+      "d7": 1,
       "d30": 9,
       "d90": 9,
       "d365": 9
@@ -1053,14 +1053,14 @@
       "path": "/2026/08/15/2026-08-12-laura-a-32-oc",
       "d7": 0,
       "d30": 0,
-      "d90": 8,
+      "d90": 7,
       "d365": 8
     },
     {
       "path": "/category/camara",
       "d7": 0,
       "d30": 0,
-      "d90": 6,
+      "d90": 0,
       "d365": 8
     },
     {
@@ -1156,7 +1156,7 @@
     },
     {
       "path": "/2026/06/02/2026-06-01-festes-de-prosperitat-xistorra-rock",
-      "d7": 1,
+      "d7": 0,
       "d30": 2,
       "d90": 4,
       "d365": 6
@@ -1185,7 +1185,7 @@
     {
       "path": "/2026/10/12/2026-10-08-holga-week-amb-una-holga-cfn",
       "d7": 0,
-      "d30": 3,
+      "d30": 2,
       "d90": 5,
       "d365": 5
     },
@@ -1206,7 +1206,7 @@
     {
       "path": "/tag/festa-major-prosperitat-2026",
       "d7": 1,
-      "d30": 2,
+      "d30": 1,
       "d90": 5,
       "d365": 5
     },
@@ -1284,7 +1284,7 @@
       "path": "/tag/les-puigdomenech",
       "d7": 1,
       "d30": 1,
-      "d90": 2,
+      "d90": 1,
       "d365": 5
     },
     {
@@ -1408,7 +1408,7 @@
     },
     {
       "path": "/2012/01/22/placa-angel-pestana-prosperitat-barcelona",
-      "d7": 1,
+      "d7": 0,
       "d30": 2,
       "d90": 3,
       "d365": 4
@@ -1418,6 +1418,13 @@
       "d7": 0,
       "d30": 1,
       "d90": 1,
+      "d365": 4
+    },
+    {
+      "path": "/2023/11/18/2023-11-18-sant-xibeco-i-santa-quinta-2023",
+      "d7": 1,
+      "d30": 2,
+      "d90": 2,
       "d365": 4
     },
     {
@@ -1736,13 +1743,6 @@
       "d365": 3
     },
     {
-      "path": "/2023/11/18/2023-11-18-sant-xibeco-i-santa-quinta-2023",
-      "d7": 0,
-      "d30": 1,
-      "d90": 1,
-      "d365": 3
-    },
-    {
       "path": "/2026/06/06/2026-06-05-festes-de-prosperitat-me-pirra-la-birra-fest-mocebares-prospe-oases",
       "d7": 0,
       "d30": 0,
@@ -1835,7 +1835,7 @@
     },
     {
       "path": "/tag/san-xibeco",
-      "d7": 2,
+      "d7": 1,
       "d30": 2,
       "d90": 2,
       "d365": 2
@@ -1898,6 +1898,13 @@
     },
     {
       "path": "/tag/barcelona-big-blues-band",
+      "d7": 1,
+      "d30": 2,
+      "d90": 2,
+      "d365": 2
+    },
+    {
+      "path": "/2023/06/21/2023-06-21-ventanas-abiertas-finestres-curioses-ateneu-popular-de-nou-barris",
       "d7": 1,
       "d30": 2,
       "d90": 2,
@@ -2404,21 +2411,21 @@
       "path": "/tag/wallapop",
       "d7": 1,
       "d30": 1,
-      "d90": 2,
+      "d90": 1,
       "d365": 2
     },
     {
       "path": "/category/exposici%C3%B3",
       "d7": 0,
       "d30": 0,
-      "d90": 2,
+      "d90": 0,
       "d365": 2
     },
     {
       "path": "/?query-0-page=149",
       "d7": 0,
       "d30": 0,
-      "d90": 1,
+      "d90": 0,
       "d365": 2
     },
     {
@@ -3085,6 +3092,55 @@
       "d30": 1,
       "d90": 1,
       "d365": 2
+    },
+    {
+      "path": "/2014/07/21/mambo-jambo-al-jamboree",
+      "d7": 1,
+      "d30": 1,
+      "d90": 1,
+      "d365": 1
+    },
+    {
+      "path": "/2011/02/22/assaig-al-barri",
+      "d7": 1,
+      "d30": 1,
+      "d90": 1,
+      "d365": 1
+    },
+    {
+      "path": "/2019/03/22/sessio-amb-elena-19-03-19",
+      "d7": 1,
+      "d30": 1,
+      "d90": 1,
+      "d365": 1
+    },
+    {
+      "path": "/2020/07/06/festival-de-blues-de-barcelona-sweet-marta-and-the-blues-shakers-2",
+      "d7": 1,
+      "d30": 1,
+      "d90": 1,
+      "d365": 1
+    },
+    {
+      "path": "/2025/07/25/presentem-anonimos-exposicio-fotografica-i-narracio-que-desafien-laparenca",
+      "d7": 1,
+      "d30": 1,
+      "d90": 1,
+      "d365": 1
+    },
+    {
+      "path": "/2025/12/18/2025-12-17-les-roquetes",
+      "d7": 1,
+      "d30": 1,
+      "d90": 1,
+      "d365": 1
+    },
+    {
+      "path": "/2013/11/29/5957-diana-f-cristal-optic-cn-400",
+      "d7": 1,
+      "d30": 1,
+      "d90": 1,
+      "d365": 1
     },
     {
       "path": "/2015/10/04",
@@ -14670,67 +14726,11 @@
       "d30": 1,
       "d90": 1,
       "d365": 1
-    },
-    {
-      "path": "/tag/9bi",
-      "d7": 1,
-      "d30": 1,
-      "d90": 1,
-      "d365": 1
-    },
-    {
-      "path": "/tag/roquetes",
-      "d7": 1,
-      "d30": 1,
-      "d90": 1,
-      "d365": 1
-    },
-    {
-      "path": "/tag/ses-olles",
-      "d7": 1,
-      "d30": 1,
-      "d90": 1,
-      "d365": 1
-    },
-    {
-      "path": "/tag/expo",
-      "d7": 1,
-      "d30": 1,
-      "d90": 1,
-      "d365": 1
-    },
-    {
-      "path": "/tag/artistes",
-      "d7": 1,
-      "d30": 1,
-      "d90": 1,
-      "d365": 1
-    },
-    {
-      "path": "/tag/barriprosperat",
-      "d7": 1,
-      "d30": 1,
-      "d90": 1,
-      "d365": 1
-    },
-    {
-      "path": "/tag/baristes",
-      "d7": 1,
-      "d30": 1,
-      "d90": 1,
-      "d365": 1
-    },
-    {
-      "path": "/tag/fotografia-nocturna",
-      "d7": 1,
-      "d30": 1,
-      "d90": 1,
-      "d365": 1
     }
   ],
   "by_section": {
     "inici": 373,
-    "posts": 1034,
+    "posts": 1047,
     "cerca": 38,
     "arxiu": 33,
     "page": 55,
@@ -14741,7 +14741,7 @@
     "blog.pocallum.cat": 9,
     "?query-0-page=2": 9,
     "category": 135,
-    "tag": 1655,
+    "tag": 1647,
     "?query-0-page=10": 5,
     "?query-0-page=191": 5,
     "?query-0-page=188": 5,
@@ -15044,6 +15044,12 @@
       "2026-10-04": 1,
       "2026-10-05": 1
     },
+    "/2026/11/07/2026-11-06-elektra-i-hekate-heads-nit-de-punk-rock-a-la-prosperitat": {
+      "2026-11-07": 9,
+      "2026-11-08": 14,
+      "2026-11-10": 1,
+      "2026-11-13": 2
+    },
     "/2026/09/20/2026-09-19-festa-major-de-verdum-verdum-punkfest": {
       "2026-09-20": 5,
       "2026-09-21": 5,
@@ -15058,11 +15064,6 @@
       "2026-10-03": 1,
       "2026-10-13": 1,
       "2026-10-25": 1
-    },
-    "/2026/11/07/2026-11-06-elektra-i-hekate-heads-nit-de-punk-rock-a-la-prosperitat": {
-      "2026-11-07": 9,
-      "2026-11-08": 14,
-      "2026-11-10": 1
     },
     "/arxiu": {
       "2026-09-15": 1,
@@ -15251,6 +15252,12 @@
       "2026-10-07": 1,
       "2026-10-13": 1
     },
+    "/2026/10/25/2026-10-24-10-anys-de-date-una-huerta": {
+      "2026-10-25": 2,
+      "2026-10-26": 7,
+      "2026-11-06": 3,
+      "2026-11-13": 1
+    },
     "/2026/10/25/2026-10-23-ciutat-flamenco-ciutat-batalla": {
       "2026-10-25": 7,
       "2026-10-26": 1,
@@ -15291,11 +15298,6 @@
       "2026-08-13": 4,
       "2026-08-15": 6,
       "2026-09-29": 1
-    },
-    "/2026/10/25/2026-10-24-10-anys-de-date-una-huerta": {
-      "2026-10-25": 2,
-      "2026-10-26": 7,
-      "2026-11-06": 3
     },
     "/2026/10/24/2026-10-23-ciutat-flamenco-jordi-latorre-despu%C3%A9s-del-diluvio-electr%C3%B3nico": {
       "2026-10-24": 7,
@@ -15704,6 +15706,11 @@
       "2026-07-31": 1,
       "2026-10-29": 1
     },
+    "/2023/11/18/2023-11-18-sant-xibeco-i-santa-quinta-2023": {
+      "2026-07-12": 2,
+      "2026-10-19": 1,
+      "2026-11-13": 1
+    },
     "/2026/02/13/2026-02-12-bar-moebius-amb-tarantula-friends": {
       "2026-07-11": 1,
       "2026-07-14": 1,
@@ -15905,10 +15912,6 @@
       "2026-07-12": 2,
       "2026-09-29": 1
     },
-    "/2023/11/18/2023-11-18-sant-xibeco-i-santa-quinta-2023": {
-      "2026-07-12": 2,
-      "2026-10-19": 1
-    },
     "/2026/06/06/2026-06-05-festes-de-prosperitat-me-pirra-la-birra-fest-mocebares-prospe-oases": {
       "2026-07-12": 2,
       "2026-07-26": 1
@@ -16000,6 +16003,10 @@
     "/tag/barcelona-big-blues-band": {
       "2026-10-18": 1,
       "2026-11-10": 1
+    },
+    "/2023/06/21/2023-06-21-ventanas-abiertas-finestres-curioses-ateneu-popular-de-nou-barris": {
+      "2026-10-18": 1,
+      "2026-11-13": 1
     },
     "/tag/revelat-2025": {
       "2026-10-18": 1,
@@ -16620,6 +16627,27 @@
     "/tag/berta-cots": {
       "2026-07-07": 1,
       "2026-10-20": 1
+    },
+    "/2014/07/21/mambo-jambo-al-jamboree": {
+      "2026-11-13": 1
+    },
+    "/2011/02/22/assaig-al-barri": {
+      "2026-11-13": 1
+    },
+    "/2019/03/22/sessio-amb-elena-19-03-19": {
+      "2026-11-13": 1
+    },
+    "/2020/07/06/festival-de-blues-de-barcelona-sweet-marta-and-the-blues-shakers-2": {
+      "2026-11-13": 1
+    },
+    "/2025/07/25/presentem-anonimos-exposicio-fotografica-i-narracio-que-desafien-laparenca": {
+      "2026-11-13": 1
+    },
+    "/2025/12/18/2025-12-17-les-roquetes": {
+      "2026-11-13": 1
+    },
+    "/2013/11/29/5957-diana-f-cristal-optic-cn-400": {
+      "2026-11-13": 1
     },
     "/2015/10/04": {
       "2026-11-13": 1
@@ -21585,30 +21613,6 @@
     },
     "/tag/pastanaga-bros": {
       "2026-11-10": 1
-    },
-    "/tag/9bi": {
-      "2026-11-10": 1
-    },
-    "/tag/roquetes": {
-      "2026-11-10": 1
-    },
-    "/tag/ses-olles": {
-      "2026-11-10": 1
-    },
-    "/tag/expo": {
-      "2026-11-10": 1
-    },
-    "/tag/artistes": {
-      "2026-11-10": 1
-    },
-    "/tag/barriprosperat": {
-      "2026-11-10": 1
-    },
-    "/tag/baristes": {
-      "2026-11-10": 1
-    },
-    "/tag/fotografia-nocturna": {
-      "2026-11-10": 1
     }
   },
   "sections_daily": {
@@ -21650,7 +21654,7 @@
       "2026-11-02": 1,
       "2026-11-06": 1,
       "2026-11-07": 2,
-      "2026-11-10": 1556,
+      "2026-11-10": 1548,
       "2026-11-11": 5,
       "2026-11-12": 4
     },
@@ -21752,7 +21756,7 @@
       "2026-10-15": 28,
       "2026-10-16": 5,
       "2026-10-17": 7,
-      "2026-10-18": 28,
+      "2026-10-18": 29,
       "2026-10-19": 22,
       "2026-10-20": 23,
       "2026-10-21": 10,
@@ -21777,7 +21781,8 @@
       "2026-11-09": 4,
       "2026-11-10": 6,
       "2026-11-11": 32,
-      "2026-11-12": 17
+      "2026-11-12": 17,
+      "2026-11-13": 12
     },
     "inici": {
       "2026-07-07": 5,
@@ -22300,12 +22305,12 @@
       "count": 28
     },
     {
-      "path": "/2026/09/20/2026-09-19-festa-major-de-verdum-verdum-punkfest",
-      "count": 25
+      "path": "/2026/11/07/2026-11-06-elektra-i-hekate-heads-nit-de-punk-rock-a-la-prosperitat",
+      "count": 26
     },
     {
-      "path": "/2026/11/07/2026-11-06-elektra-i-hekate-heads-nit-de-punk-rock-a-la-prosperitat",
-      "count": 24
+      "path": "/2026/09/20/2026-09-19-festa-major-de-verdum-verdum-punkfest",
+      "count": 25
     },
     {
       "path": "/2026/09/07/2026-09-06-festival-masimas-2026-el-parallel-oblidat-recordant-a-merche-mar",
@@ -22344,7 +22349,7 @@
     {
       "name": "Chrome",
       "id": "Chrome",
-      "count": 3102
+      "count": 3105
     },
     {
       "name": "Firefox",
@@ -22381,7 +22386,7 @@
     {
       "name": "Linux",
       "id": "Linux",
-      "count": 444
+      "count": 447
     },
     {
       "name": "iOS",
@@ -22403,7 +22408,7 @@
     {
       "name": "desktop",
       "id": "desktop",
-      "count": 2831
+      "count": 2834
     },
     {
       "name": "phone",
@@ -22440,7 +22445,7 @@
     {
       "name": "United States",
       "id": "US",
-      "count": 485
+      "count": 488
     },
     {
       "name": "Singapore",
@@ -22507,12 +22512,12 @@
     {
       "name": "Desconegut",
       "id": "Desconegut",
-      "count": 2804
+      "count": 2805
     },
     {
       "name": "Google",
       "id": "Google",
-      "count": 180
+      "count": 188
     },
     {
       "name": "www.9barrisimatge.org",
@@ -22522,7 +22527,7 @@
     {
       "name": "9barrisimatge.org",
       "id": "9barrisimatge.org",
-      "count": 54
+      "count": 57
     },
     {
       "name": "www.facebook.com",
