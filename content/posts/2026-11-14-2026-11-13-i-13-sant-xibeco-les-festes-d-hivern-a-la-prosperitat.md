@@ -2,7 +2,9 @@
 title: 2026-11-13 i 13 - Sant Xibeco, les festes d'hivern a la Prosperitat
 date: 2026-11-14T20:46:00+01:00
 slug: ''
-categories: []
+categories:
+  - fuji-x-pro1
+  - fujinon-16mm-f2-8
 tags:
   - Sant Xibeco
   - Santa Quinta
