@@ -1,10 +1,10 @@
 {
-  "generated": "2026-11-16T20:30:43.816211Z",
+  "generated": "2026-11-17T03:55:07.942552Z",
   "period": {
-    "start": "2025-11-16",
-    "end": "2026-11-16"
+    "start": "2025-11-17",
+    "end": "2026-11-17"
   },
-  "total": 3693,
+  "total": 3718,
   "total_unique": 0,
   "hits_by_day": [
     {
@@ -509,7 +509,7 @@
     },
     {
       "date": "2026-11-10",
-      "count": 1609
+      "count": 1605
     },
     {
       "date": "2026-11-11",
@@ -533,13 +533,13 @@
     },
     {
       "date": "2026-11-16",
-      "count": 1
+      "count": 30
     }
   ],
   "hits": [
     {
       "path": "/",
-      "count": 380
+      "count": 381
     },
     {
       "path": "/2026/07/11/2026-07-11-prospe-beach-again",
@@ -556,6 +556,10 @@
     {
       "path": "/2026/08/19/2026-08-18-isadora-passos-suspensio-capilar",
       "count": 34
+    },
+    {
+      "path": "/2026/11/15/2026-11-15-presentacio%CC%81-del-llibre-ella-tamb%C3%A9-hi-era-de-joni-d.",
+      "count": 31
     },
     {
       "path": "/2026/11/07/2026-11-06-elektra-i-hekate-heads-nit-de-punk-rock-a-la-prosperitat",
@@ -610,6 +614,10 @@
       "count": 16
     },
     {
+      "path": "/2026/10/25/2026-10-24-10-anys-de-date-una-huerta",
+      "count": 15
+    },
+    {
       "path": "/2026/10/24/t%C3%ADtol-2026-10-22-ciutat-flamenco-ana-morales-m%C3%A1s-que-baile",
       "count": 15
     },
@@ -620,10 +628,6 @@
     {
       "path": "/2026/07/06/2026-07-04-24e-festival-de-blues-de-barcelona",
       "count": 15
-    },
-    {
-      "path": "/2026/10/25/2026-10-24-10-anys-de-date-una-huerta",
-      "count": 14
     },
     {
       "path": "/2026/09/30/2026-09-29-una-cr%C3%B2nica-per-a-9barrisimatge-andr%C3%A9s-naya-i-els-seus-dos-llibres",
@@ -642,7 +646,7 @@
       "count": 14
     },
     {
-      "path": "/2026/11/15/2026-11-15-presentacio%CC%81-del-llibre-ella-tamb%C3%A9-hi-era-de-joni-d.",
+      "path": "/2026/11/14/2026-11-13-i-13-sant-xibeco-les-festes-dhivern-a-la-prosperitat",
       "count": 13
     },
     {
@@ -664,10 +668,6 @@
     {
       "path": "/aviso-legal",
       "count": 13
-    },
-    {
-      "path": "/2026/11/14/2026-11-13-i-13-sant-xibeco-les-festes-dhivern-a-la-prosperitat",
-      "count": 12
     },
     {
       "path": "/2026/10/24/2026-10-23-ciutat-flamenco-jordi-latorre-despu%C3%A9s-del-diluvio-electr%C3%B3nico",
@@ -741,10 +741,10 @@
   "hits_windows": [
     {
       "path": "/",
-      "d7": 14,
-      "d30": 85,
+      "d7": 13,
+      "d30": 84,
       "d90": 277,
-      "d365": 380
+      "d365": 381
     },
     {
       "path": "/2026/07/11/2026-07-11-prospe-beach-again",
@@ -773,6 +773,13 @@
       "d30": 4,
       "d90": 34,
       "d365": 34
+    },
+    {
+      "path": "/2026/11/15/2026-11-15-presentacio%CC%81-del-llibre-ella-tamb%C3%A9-hi-era-de-joni-d.",
+      "d7": 31,
+      "d30": 31,
+      "d90": 31,
+      "d365": 31
     },
     {
       "path": "/2026/11/07/2026-11-06-elektra-i-hekate-heads-nit-de-punk-rock-a-la-prosperitat",
@@ -825,14 +832,14 @@
     },
     {
       "path": "/page/2",
-      "d7": 1,
+      "d7": 0,
       "d30": 6,
       "d90": 18,
       "d365": 18
     },
     {
       "path": "/2026/10/18/2026-10-19-ciutat-flamenco-esperanza-garrido-firmamento",
-      "d7": 1,
+      "d7": 0,
       "d30": 17,
       "d90": 17,
       "d365": 17
@@ -854,7 +861,7 @@
     {
       "path": "/2026/10/17/2026-10-16-sopar-dentitats-al-casal-de-barri-de-prosperitat",
       "d7": 0,
-      "d30": 15,
+      "d30": 9,
       "d90": 16,
       "d365": 16
     },
@@ -864,6 +871,13 @@
       "d30": 1,
       "d90": 16,
       "d365": 16
+    },
+    {
+      "path": "/2026/10/25/2026-10-24-10-anys-de-date-una-huerta",
+      "d7": 3,
+      "d30": 15,
+      "d90": 15,
+      "d365": 15
     },
     {
       "path": "/2026/10/24/t%C3%ADtol-2026-10-22-ciutat-flamenco-ana-morales-m%C3%A1s-que-baile",
@@ -885,13 +899,6 @@
       "d30": 1,
       "d90": 4,
       "d365": 15
-    },
-    {
-      "path": "/2026/10/25/2026-10-24-10-anys-de-date-una-huerta",
-      "d7": 2,
-      "d30": 14,
-      "d90": 14,
-      "d365": 14
     },
     {
       "path": "/2026/09/30/2026-09-29-una-cr%C3%B2nica-per-a-9barrisimatge-andr%C3%A9s-naya-i-els-seus-dos-llibres",
@@ -922,7 +929,7 @@
       "d365": 14
     },
     {
-      "path": "/2026/11/15/2026-11-15-presentacio%CC%81-del-llibre-ella-tamb%C3%A9-hi-era-de-joni-d.",
+      "path": "/2026/11/14/2026-11-13-i-13-sant-xibeco-les-festes-dhivern-a-la-prosperitat",
       "d7": 13,
       "d30": 13,
       "d90": 13,
@@ -964,13 +971,6 @@
       "d365": 13
     },
     {
-      "path": "/2026/11/14/2026-11-13-i-13-sant-xibeco-les-festes-dhivern-a-la-prosperitat",
-      "d7": 12,
-      "d30": 12,
-      "d90": 12,
-      "d365": 12
-    },
-    {
       "path": "/2026/10/24/2026-10-23-ciutat-flamenco-jordi-latorre-despu%C3%A9s-del-diluvio-electr%C3%B3nico",
       "d7": 0,
       "d30": 12,
@@ -979,7 +979,7 @@
     },
     {
       "path": "/page/3",
-      "d7": 1,
+      "d7": 0,
       "d30": 5,
       "d90": 12,
       "d365": 12
@@ -1014,7 +1014,7 @@
     },
     {
       "path": "/page/4",
-      "d7": 1,
+      "d7": 0,
       "d30": 5,
       "d90": 9,
       "d365": 9
@@ -1070,7 +1070,7 @@
     },
     {
       "path": "/page/5",
-      "d7": 2,
+      "d7": 1,
       "d30": 4,
       "d90": 8,
       "d365": 8
@@ -1119,7 +1119,7 @@
     },
     {
       "path": "/2026/09/21/2026-09-20-marian-barahona-blues-reunion-presenten-el-disc-randez-blue-al-jamboree",
-      "d7": 1,
+      "d7": 0,
       "d30": 1,
       "d90": 7,
       "d365": 7
@@ -1147,7 +1147,7 @@
     },
     {
       "path": "/2026/10/22/2026-10-22-ciutat-flamenco-ana-morales-m%C3%A1s-que-baile",
-      "d7": 1,
+      "d7": 0,
       "d30": 6,
       "d90": 6,
       "d365": 6
@@ -1193,6 +1193,13 @@
       "d30": 2,
       "d90": 4,
       "d365": 6
+    },
+    {
+      "path": "/2026/11/15/2026-11-15-presentaci%C3%B3-del-llibre-ella-tamb%C3%A9-hi-era-de-joni-d.",
+      "d7": 5,
+      "d30": 5,
+      "d90": 5,
+      "d365": 5
     },
     {
       "path": "/2026/10/17/2026-10-17-14a-revelat-maneres-descapar",
@@ -1427,7 +1434,7 @@
     },
     {
       "path": "/2025/10/24/2025-10-23-captura-u-fuga-jose-manuel-alvarez-dins-el-festival-ciutat-flamenco",
-      "d7": 1,
+      "d7": 0,
       "d30": 2,
       "d90": 3,
       "d365": 4
@@ -1806,7 +1813,7 @@
     {
       "path": "/2021/03/28/sandra-sas",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 1,
       "d365": 3
     },
@@ -1995,14 +2002,14 @@
     {
       "path": "/tag/estiu-2026",
       "d7": 1,
-      "d30": 2,
+      "d30": 1,
       "d90": 2,
       "d365": 2
     },
     {
       "path": "/tag/sopar-dentitats",
       "d7": 1,
-      "d30": 2,
+      "d30": 1,
       "d90": 2,
       "d365": 2
     },
@@ -2444,7 +2451,7 @@
       "path": "/tag/retrat-estenopeic",
       "d7": 1,
       "d30": 1,
-      "d90": 2,
+      "d90": 1,
       "d365": 2
     },
     {
@@ -3167,6 +3174,27 @@
       "d30": 1,
       "d90": 1,
       "d365": 2
+    },
+    {
+      "path": "/2024/12/02/2024-12-20-cloenda-clot-amb-blues",
+      "d7": 1,
+      "d30": 1,
+      "d90": 1,
+      "d365": 1
+    },
+    {
+      "path": "/2026/11/15/2026-11-15-presentacio%CC%81-del-llibre-ella-tamb%C3%A9-hi-era-de-joni-d",
+      "d7": 1,
+      "d30": 1,
+      "d90": 1,
+      "d365": 1
+    },
+    {
+      "path": "/tag/hort-de-la-prosperitat",
+      "d7": 1,
+      "d30": 1,
+      "d90": 1,
+      "d365": 1
     },
     {
       "path": "/tag/nou-barris-naits",
@@ -14710,39 +14738,11 @@
       "d30": 1,
       "d90": 1,
       "d365": 1
-    },
-    {
-      "path": "/tag/alesbarriades",
-      "d7": 1,
-      "d30": 1,
-      "d90": 1,
-      "d365": 1
-    },
-    {
-      "path": "/category/brightin-star-28mmf-2-8",
-      "d7": 1,
-      "d30": 1,
-      "d90": 1,
-      "d365": 1
-    },
-    {
-      "path": "/tag/historia-2",
-      "d7": 1,
-      "d30": 1,
-      "d90": 1,
-      "d365": 1
-    },
-    {
-      "path": "/tag/critica-de-dansa",
-      "d7": 1,
-      "d30": 1,
-      "d90": 1,
-      "d365": 1
     }
   ],
   "by_section": {
-    "inici": 380,
-    "posts": 1088,
+    "inici": 381,
+    "posts": 1115,
     "cerca": 40,
     "arxiu": 33,
     "page": 55,
@@ -14752,8 +14752,8 @@
     "aviso-legal": 13,
     "blog.pocallum.cat": 9,
     "?query-0-page=2": 9,
-    "category": 136,
-    "tag": 1649,
+    "category": 135,
+    "tag": 1647,
     "?query-0-page=10": 5,
     "?query-0-page=191": 5,
     "?query-0-page=188": 5,
@@ -14936,7 +14936,8 @@
       "2026-11-10": 3,
       "2026-11-11": 2,
       "2026-11-14": 1,
-      "2026-11-15": 6
+      "2026-11-15": 6,
+      "2026-11-16": 1
     },
     "/2026/07/11/2026-07-11-prospe-beach-again": {
       "2026-07-11": 5,
@@ -15032,6 +15033,10 @@
       "2026-11-10": 1,
       "2026-11-14": 1,
       "2026-11-15": 1
+    },
+    "/2026/11/15/2026-11-15-presentacio%CC%81-del-llibre-ella-tamb%C3%A9-hi-era-de-joni-d.": {
+      "2026-11-15": 12,
+      "2026-11-16": 19
     },
     "/2026/11/07/2026-11-06-elektra-i-hekate-heads-nit-de-punk-rock-a-la-prosperitat": {
       "2026-11-07": 9,
@@ -15196,6 +15201,14 @@
       "2026-10-07": 1,
       "2026-10-24": 1
     },
+    "/2026/10/25/2026-10-24-10-anys-de-date-una-huerta": {
+      "2026-10-25": 2,
+      "2026-10-26": 7,
+      "2026-11-06": 3,
+      "2026-11-13": 1,
+      "2026-11-15": 1,
+      "2026-11-16": 1
+    },
     "/2026/10/24/t%C3%ADtol-2026-10-22-ciutat-flamenco-ana-morales-m%C3%A1s-que-baile": {
       "2026-10-24": 6,
       "2026-10-25": 3,
@@ -15230,13 +15243,6 @@
       "2026-08-28": 1,
       "2026-10-07": 1,
       "2026-10-13": 1,
-      "2026-11-15": 1
-    },
-    "/2026/10/25/2026-10-24-10-anys-de-date-una-huerta": {
-      "2026-10-25": 2,
-      "2026-10-26": 7,
-      "2026-11-06": 3,
-      "2026-11-13": 1,
       "2026-11-15": 1
     },
     "/2026/09/30/2026-09-29-una-cr%C3%B2nica-per-a-9barrisimatge-andr%C3%A9s-naya-i-els-seus-dos-llibres": {
@@ -15279,8 +15285,9 @@
       "2026-10-22": 1,
       "2026-11-04": 1
     },
-    "/2026/11/15/2026-11-15-presentacio%CC%81-del-llibre-ella-tamb%C3%A9-hi-era-de-joni-d.": {
-      "2026-11-15": 12,
+    "/2026/11/14/2026-11-13-i-13-sant-xibeco-les-festes-dhivern-a-la-prosperitat": {
+      "2026-11-14": 1,
+      "2026-11-15": 11,
       "2026-11-16": 1
     },
     "/2026/10/25/2026-10-23-ciutat-flamenco-ciutat-batalla": {
@@ -15323,10 +15330,6 @@
       "2026-08-13": 4,
       "2026-08-15": 6,
       "2026-09-29": 1
-    },
-    "/2026/11/14/2026-11-13-i-13-sant-xibeco-les-festes-dhivern-a-la-prosperitat": {
-      "2026-11-14": 1,
-      "2026-11-15": 11
     },
     "/2026/10/24/2026-10-23-ciutat-flamenco-jordi-latorre-despu%C3%A9s-del-diluvio-electr%C3%B3nico": {
       "2026-10-24": 7,
@@ -15550,6 +15553,9 @@
       "2026-10-03": 1,
       "2026-10-26": 1,
       "2026-11-06": 1
+    },
+    "/2026/11/15/2026-11-15-presentaci%C3%B3-del-llibre-ella-tamb%C3%A9-hi-era-de-joni-d.": {
+      "2026-11-16": 5
     },
     "/2026/10/17/2026-10-17-14a-revelat-maneres-descapar": {
       "2026-10-19": 1,
@@ -16685,6 +16691,15 @@
     "/tag/berta-cots": {
       "2026-07-07": 1,
       "2026-10-20": 1
+    },
+    "/2024/12/02/2024-12-20-cloenda-clot-amb-blues": {
+      "2026-11-16": 1
+    },
+    "/2026/11/15/2026-11-15-presentacio%CC%81-del-llibre-ella-tamb%C3%A9-hi-era-de-joni-d": {
+      "2026-11-16": 1
+    },
+    "/tag/hort-de-la-prosperitat": {
+      "2026-11-16": 1
     },
     "/tag/nou-barris-naits": {
       "2026-11-15": 1
@@ -21632,18 +21647,6 @@
     },
     "/tag/laura-c.-vela": {
       "2026-11-10": 1
-    },
-    "/tag/alesbarriades": {
-      "2026-11-10": 1
-    },
-    "/category/brightin-star-28mmf-2-8": {
-      "2026-11-10": 1
-    },
-    "/tag/historia-2": {
-      "2026-11-10": 1
-    },
-    "/tag/critica-de-dansa": {
-      "2026-11-10": 1
     }
   },
   "sections_daily": {
@@ -21685,11 +21688,12 @@
       "2026-11-02": 1,
       "2026-11-06": 1,
       "2026-11-07": 2,
-      "2026-11-10": 1540,
+      "2026-11-10": 1537,
       "2026-11-11": 5,
       "2026-11-12": 4,
       "2026-11-14": 1,
-      "2026-11-15": 8
+      "2026-11-15": 8,
+      "2026-11-16": 1
     },
     "posts": {
       "2026-07-07": 16,
@@ -21818,7 +21822,7 @@
       "2026-11-13": 12,
       "2026-11-14": 5,
       "2026-11-15": 34,
-      "2026-11-16": 1
+      "2026-11-16": 28
     },
     "inici": {
       "2026-07-07": 5,
@@ -21934,7 +21938,8 @@
       "2026-11-10": 3,
       "2026-11-11": 2,
       "2026-11-14": 1,
-      "2026-11-15": 6
+      "2026-11-15": 6,
+      "2026-11-16": 1
     },
     "category": {
       "2026-08-13": 69,
@@ -21949,7 +21954,7 @@
       "2026-10-11": 1,
       "2026-10-25": 1,
       "2026-11-07": 1,
-      "2026-11-10": 47,
+      "2026-11-10": 46,
       "2026-11-15": 1
     },
     "page": {
@@ -22337,6 +22342,10 @@
       "count": 34
     },
     {
+      "path": "/2026/11/15/2026-11-15-presentacio%CC%81-del-llibre-ella-tamb%C3%A9-hi-era-de-joni-d.",
+      "count": 31
+    },
+    {
       "path": "/2026/11/07/2026-11-06-elektra-i-hekate-heads-nit-de-punk-rock-a-la-prosperitat",
       "count": 30
     },
@@ -22377,11 +22386,7 @@
       "count": 16
     },
     {
-      "path": "/2026/10/24/t%C3%ADtol-2026-10-22-ciutat-flamenco-ana-morales-m%C3%A1s-que-baile",
-      "count": 15
-    },
-    {
-      "path": "/2026/07/06/2026-07-04-24e-festival-de-blues-de-barcelona",
+      "path": "/2026/10/25/2026-10-24-10-anys-de-date-una-huerta",
       "count": 15
     }
   ],
@@ -22389,7 +22394,7 @@
     {
       "name": "Chrome",
       "id": "Chrome",
-      "count": 3161
+      "count": 3162
     },
     {
       "name": "Firefox",
@@ -22421,7 +22426,7 @@
     {
       "name": "macOS",
       "id": "macOS",
-      "count": 1392
+      "count": 1393
     },
     {
       "name": "Linux",
@@ -22458,7 +22463,7 @@
     {
       "name": "desktophd",
       "id": "desktophd",
-      "count": 629
+      "count": 630
     },
     {
       "name": "tablet",
@@ -22475,7 +22480,7 @@
     {
       "name": "Spain",
       "id": "ES",
-      "count": 1767
+      "count": 1768
     },
     {
       "name": "Seychelles",
@@ -22552,12 +22557,12 @@
     {
       "name": "Desconegut",
       "id": "Desconegut",
-      "count": 2813
+      "count": 2825
     },
     {
       "name": "Google",
       "id": "Google",
-      "count": 197
+      "count": 200
     },
     {
       "name": "www.9barrisimatge.org",
@@ -22567,12 +22572,12 @@
     {
       "name": "9barrisimatge.org",
       "id": "9barrisimatge.org",
-      "count": 77
+      "count": 82
     },
     {
       "name": "www.facebook.com",
       "id": "www.facebook.com",
-      "count": 34
+      "count": 35
     },
     {
       "name": "pocallum.cat",
@@ -22582,7 +22587,7 @@
     {
       "name": "l.instagram.com",
       "id": "l.instagram.com",
-      "count": 19
+      "count": 20
     },
     {
       "name": "ig",
