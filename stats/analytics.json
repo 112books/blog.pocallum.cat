@@ -1,10 +1,10 @@
 {
-  "generated": "2026-11-20T20:21:51.015618Z",
+  "generated": "2026-11-21T09:55:55.689347Z",
   "period": {
-    "start": "2025-11-20",
-    "end": "2026-11-20"
+    "start": "2025-11-21",
+    "end": "2026-11-21"
   },
-  "total": 3745,
+  "total": 3754,
   "total_unique": 0,
   "hits_by_day": [
     {
@@ -509,7 +509,7 @@
     },
     {
       "date": "2026-11-10",
-      "count": 1600
+      "count": 1599
     },
     {
       "date": "2026-11-11",
@@ -546,12 +546,16 @@
     {
       "date": "2026-11-19",
       "count": 6
+    },
+    {
+      "date": "2026-11-20",
+      "count": 10
     }
   ],
   "hits": [
     {
       "path": "/",
-      "count": 385
+      "count": 386
     },
     {
       "path": "/2026/07/11/2026-07-11-prospe-beach-again",
@@ -563,11 +567,11 @@
     },
     {
       "path": "/cerca",
-      "count": 41
+      "count": 42
     },
     {
       "path": "/2026/11/15/2026-11-15-presentacio%CC%81-del-llibre-ella-tamb%C3%A9-hi-era-de-joni-d.",
-      "count": 39
+      "count": 40
     },
     {
       "path": "/2026/08/19/2026-08-18-isadora-passos-suspensio-capilar",
@@ -575,7 +579,7 @@
     },
     {
       "path": "/2026/11/07/2026-11-06-elektra-i-hekate-heads-nit-de-punk-rock-a-la-prosperitat",
-      "count": 31
+      "count": 32
     },
     {
       "path": "/2026/10/19/2026-10-18-ciutat-flamenco-districte-flamenco",
@@ -618,16 +622,16 @@
       "count": 17
     },
     {
+      "path": "/2026/11/14/2026-11-13-i-13-sant-xibeco-les-festes-dhivern-a-la-prosperitat",
+      "count": 16
+    },
+    {
       "path": "/2026/10/17/2026-10-16-sopar-dentitats-al-casal-de-barri-de-prosperitat",
       "count": 16
     },
     {
       "path": "/2026/10/03/2026-10-03-la-nuu-festival-una-cr%C3%B2nica-sota-la-pluja",
       "count": 16
-    },
-    {
-      "path": "/2026/11/14/2026-11-13-i-13-sant-xibeco-les-festes-dhivern-a-la-prosperitat",
-      "count": 15
     },
     {
       "path": "/2026/10/25/2026-10-24-10-anys-de-date-una-huerta",
@@ -644,6 +648,10 @@
     {
       "path": "/2026/07/06/2026-07-04-24e-festival-de-blues-de-barcelona",
       "count": 15
+    },
+    {
+      "path": "/categories",
+      "count": 14
     },
     {
       "path": "/2026/09/30/2026-09-29-una-cr%C3%B2nica-per-a-9barrisimatge-andr%C3%A9s-naya-i-els-seus-dos-llibres",
@@ -671,10 +679,6 @@
     },
     {
       "path": "/2026/10/18/2026-10-17-14a-revelat-maneres-descapar",
-      "count": 13
-    },
-    {
-      "path": "/categories",
       "count": 13
     },
     {
@@ -753,10 +757,10 @@
   "hits_windows": [
     {
       "path": "/",
-      "d7": 12,
-      "d30": 73,
+      "d7": 13,
+      "d30": 71,
       "d90": 271,
-      "d365": 385
+      "d365": 386
     },
     {
       "path": "/2026/07/11/2026-07-11-prospe-beach-again",
@@ -768,42 +772,42 @@
     {
       "path": "/2026/07/26/2026-07-25-una-jornada-amb-els-barcelona-gipsy-balkan-orchestra",
       "d7": 0,
-      "d30": 3,
+      "d30": 2,
       "d90": 9,
       "d365": 48
     },
     {
       "path": "/cerca",
-      "d7": 3,
-      "d30": 5,
-      "d90": 30,
-      "d365": 41
+      "d7": 4,
+      "d30": 6,
+      "d90": 31,
+      "d365": 42
     },
     {
       "path": "/2026/11/15/2026-11-15-presentacio%CC%81-del-llibre-ella-tamb%C3%A9-hi-era-de-joni-d.",
-      "d7": 39,
-      "d30": 39,
-      "d90": 39,
-      "d365": 39
+      "d7": 40,
+      "d30": 40,
+      "d90": 40,
+      "d365": 40
     },
     {
       "path": "/2026/08/19/2026-08-18-isadora-passos-suspensio-capilar",
       "d7": 3,
       "d30": 5,
-      "d90": 24,
+      "d90": 23,
       "d365": 35
     },
     {
       "path": "/2026/11/07/2026-11-06-elektra-i-hekate-heads-nit-de-punk-rock-a-la-prosperitat",
-      "d7": 7,
-      "d30": 31,
-      "d90": 31,
-      "d365": 31
+      "d7": 6,
+      "d30": 32,
+      "d90": 32,
+      "d365": 32
     },
     {
       "path": "/2026/10/19/2026-10-18-ciutat-flamenco-districte-flamenco",
       "d7": 0,
-      "d30": 12,
+      "d30": 8,
       "d90": 28,
       "d365": 28
     },
@@ -852,7 +856,7 @@
     {
       "path": "/2026/10/18/2026-10-19-ciutat-flamenco-esperanza-garrido-firmamento",
       "d7": 0,
-      "d30": 9,
+      "d30": 6,
       "d90": 17,
       "d365": 17
     },
@@ -871,6 +875,13 @@
       "d365": 17
     },
     {
+      "path": "/2026/11/14/2026-11-13-i-13-sant-xibeco-les-festes-dhivern-a-la-prosperitat",
+      "d7": 16,
+      "d30": 16,
+      "d90": 16,
+      "d365": 16
+    },
+    {
       "path": "/2026/10/17/2026-10-16-sopar-dentitats-al-casal-de-barri-de-prosperitat",
       "d7": 0,
       "d30": 0,
@@ -885,15 +896,8 @@
       "d365": 16
     },
     {
-      "path": "/2026/11/14/2026-11-13-i-13-sant-xibeco-les-festes-dhivern-a-la-prosperitat",
-      "d7": 15,
-      "d30": 15,
-      "d90": 15,
-      "d365": 15
-    },
-    {
       "path": "/2026/10/25/2026-10-24-10-anys-de-date-una-huerta",
-      "d7": 3,
+      "d7": 2,
       "d30": 15,
       "d90": 15,
       "d365": 15
@@ -918,6 +922,13 @@
       "d30": 1,
       "d90": 4,
       "d365": 15
+    },
+    {
+      "path": "/categories",
+      "d7": 1,
+      "d30": 11,
+      "d90": 14,
+      "d365": 14
     },
     {
       "path": "/2026/09/30/2026-09-29-una-cr%C3%B2nica-per-a-9barrisimatge-andr%C3%A9s-naya-i-els-seus-dos-llibres",
@@ -951,7 +962,7 @@
       "path": "/2024/02/22/sessio-amb-la-ballarina-nahomi-itzel",
       "d7": 0,
       "d30": 2,
-      "d90": 10,
+      "d90": 9,
       "d365": 14
     },
     {
@@ -965,13 +976,6 @@
       "path": "/2026/10/18/2026-10-17-14a-revelat-maneres-descapar",
       "d7": 0,
       "d30": 1,
-      "d90": 13,
-      "d365": 13
-    },
-    {
-      "path": "/categories",
-      "d7": 0,
-      "d30": 10,
       "d90": 13,
       "d365": 13
     },
@@ -1223,7 +1227,7 @@
     {
       "path": "/2026/10/17/2026-10-17-14a-revelat-maneres-descapar",
       "d7": 0,
-      "d30": 4,
+      "d30": 3,
       "d90": 5,
       "d365": 5
     },
@@ -1349,7 +1353,7 @@
     {
       "path": "/2025/10/26/2025-10-25-ciutat-flamenco-barcelona-ciutat-batalla",
       "d7": 0,
-      "d30": 3,
+      "d30": 2,
       "d90": 4,
       "d365": 5
     },
@@ -1474,9 +1478,16 @@
     },
     {
       "path": "/2023/11/18/2023-11-18-sant-xibeco-i-santa-quinta-2023",
-      "d7": 1,
+      "d7": 0,
       "d30": 1,
       "d90": 2,
+      "d365": 4
+    },
+    {
+      "path": "/2026/06/06/2026-06-05-festes-de-prosperitat-me-pirra-la-birra-fest-mocebares-prospe-oases",
+      "d7": 1,
+      "d30": 1,
+      "d90": 1,
       "d365": 4
     },
     {
@@ -1816,17 +1827,17 @@
       "d365": 3
     },
     {
+      "path": "/2026/03/28/2026-03-27-mocebars-al-casal-de-barri-de-prosperitat",
+      "d7": 1,
+      "d30": 1,
+      "d90": 2,
+      "d365": 3
+    },
+    {
       "path": "/2024/11/16/2024-11-15-sant-xibeco-el-persianas-los-influencers-muertos",
       "d7": 0,
       "d30": 0,
       "d90": 1,
-      "d365": 3
-    },
-    {
-      "path": "/2026/06/06/2026-06-05-festes-de-prosperitat-me-pirra-la-birra-fest-mocebares-prospe-oases",
-      "d7": 0,
-      "d30": 0,
-      "d90": 0,
       "d365": 3
     },
     {
@@ -1851,8 +1862,15 @@
       "d365": 3
     },
     {
-      "path": "/2025/07/25/presentem-anonimos-exposicio-fotografica-i-narracio-que-desafien-laparenca",
+      "path": "/2025/03/25/restaurant-diapositives-antigues",
       "d7": 2,
+      "d30": 2,
+      "d90": 2,
+      "d365": 2
+    },
+    {
+      "path": "/2025/07/25/presentem-anonimos-exposicio-fotografica-i-narracio-que-desafien-laparenca",
+      "d7": 1,
       "d30": 2,
       "d90": 2,
       "d365": 2
@@ -2020,7 +2038,7 @@
     },
     {
       "path": "/2023/06/21/2023-06-21-ventanas-abiertas-finestres-curioses-ateneu-popular-de-nou-barris",
-      "d7": 1,
+      "d7": 0,
       "d30": 1,
       "d90": 2,
       "d365": 2
@@ -2470,7 +2488,7 @@
       "path": "/tag/fotografia-de-retrat",
       "d7": 0,
       "d30": 1,
-      "d90": 2,
+      "d90": 1,
       "d365": 2
     },
     {
@@ -3090,13 +3108,6 @@
       "d365": 2
     },
     {
-      "path": "/2026/03/28/2026-03-27-mocebars-al-casal-de-barri-de-prosperitat",
-      "d7": 0,
-      "d30": 0,
-      "d90": 1,
-      "d365": 2
-    },
-    {
       "path": "/2012/01/28/sant-xibeco-2010-reopla-proyecto-luisbo",
       "d7": 0,
       "d30": 0,
@@ -3273,49 +3284,49 @@
     },
     {
       "path": "/2014/07/21/mambo-jambo-al-jamboree",
-      "d7": 1,
+      "d7": 0,
       "d30": 1,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/2011/02/22/assaig-al-barri",
-      "d7": 1,
+      "d7": 0,
       "d30": 1,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/2019/03/22/sessio-amb-elena-19-03-19",
-      "d7": 1,
+      "d7": 0,
       "d30": 1,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/2020/07/06/festival-de-blues-de-barcelona-sweet-marta-and-the-blues-shakers-2",
-      "d7": 1,
+      "d7": 0,
       "d30": 1,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/2025/12/18/2025-12-17-les-roquetes",
-      "d7": 1,
+      "d7": 0,
       "d30": 1,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/2013/11/29/5957-diana-f-cristal-optic-cn-400",
-      "d7": 1,
+      "d7": 0,
       "d30": 1,
       "d90": 1,
       "d365": 1
     },
     {
       "path": "/2015/10/04",
-      "d7": 1,
+      "d7": 0,
       "d30": 1,
       "d90": 1,
       "d365": 1
@@ -14743,29 +14754,22 @@
       "d30": 1,
       "d90": 1,
       "d365": 1
-    },
-    {
-      "path": "/tag/fbb23",
-      "d7": 0,
-      "d30": 1,
-      "d90": 1,
-      "d365": 1
     }
   ],
   "by_section": {
-    "inici": 385,
-    "posts": 1136,
-    "cerca": 41,
+    "inici": 386,
+    "posts": 1143,
+    "cerca": 42,
     "arxiu": 33,
     "page": 57,
     "contact": 17,
     "about": 15,
-    "categories": 13,
+    "categories": 14,
     "aviso-legal": 13,
     "blog.pocallum.cat": 9,
     "?query-0-page=2": 9,
     "category": 137,
-    "tag": 1644,
+    "tag": 1643,
     "?query-0-page=10": 5,
     "?query-0-page=191": 5,
     "?query-0-page=188": 5,
@@ -14952,7 +14956,8 @@
       "2026-11-16": 1,
       "2026-11-17": 1,
       "2026-11-18": 2,
-      "2026-11-19": 1
+      "2026-11-19": 1,
+      "2026-11-20": 1
     },
     "/2026/07/11/2026-07-11-prospe-beach-again": {
       "2026-07-11": 5,
@@ -15029,14 +15034,16 @@
       "2026-10-25": 1,
       "2026-11-07": 1,
       "2026-11-15": 2,
-      "2026-11-18": 1
+      "2026-11-18": 1,
+      "2026-11-20": 1
     },
     "/2026/11/15/2026-11-15-presentacio%CC%81-del-llibre-ella-tamb%C3%A9-hi-era-de-joni-d.": {
       "2026-11-15": 12,
       "2026-11-16": 19,
       "2026-11-17": 5,
       "2026-11-18": 2,
-      "2026-11-19": 1
+      "2026-11-19": 1,
+      "2026-11-20": 1
     },
     "/2026/08/19/2026-08-18-isadora-passos-suspensio-capilar": {
       "2026-08-19": 6,
@@ -15065,7 +15072,8 @@
       "2026-11-13": 2,
       "2026-11-14": 2,
       "2026-11-15": 2,
-      "2026-11-19": 1
+      "2026-11-19": 1,
+      "2026-11-20": 1
     },
     "/2026/10/19/2026-10-18-ciutat-flamenco-districte-flamenco": {
       "2026-10-19": 6,
@@ -15210,6 +15218,13 @@
       "2026-09-22": 1,
       "2026-10-27": 1
     },
+    "/2026/11/14/2026-11-13-i-13-sant-xibeco-les-festes-dhivern-a-la-prosperitat": {
+      "2026-11-14": 1,
+      "2026-11-15": 11,
+      "2026-11-16": 1,
+      "2026-11-17": 2,
+      "2026-11-20": 1
+    },
     "/2026/10/17/2026-10-16-sopar-dentitats-al-casal-de-barri-de-prosperitat": {
       "2026-10-16": 1,
       "2026-10-17": 6,
@@ -15223,12 +15238,6 @@
       "2026-10-05": 2,
       "2026-10-07": 1,
       "2026-10-24": 1
-    },
-    "/2026/11/14/2026-11-13-i-13-sant-xibeco-les-festes-dhivern-a-la-prosperitat": {
-      "2026-11-14": 1,
-      "2026-11-15": 11,
-      "2026-11-16": 1,
-      "2026-11-17": 2
     },
     "/2026/10/25/2026-10-24-10-anys-de-date-una-huerta": {
       "2026-10-25": 2,
@@ -15273,6 +15282,18 @@
       "2026-10-07": 1,
       "2026-10-13": 1,
       "2026-11-15": 1
+    },
+    "/categories": {
+      "2026-10-02": 1,
+      "2026-10-05": 1,
+      "2026-10-20": 1,
+      "2026-10-25": 1,
+      "2026-10-28": 1,
+      "2026-10-31": 1,
+      "2026-11-07": 2,
+      "2026-11-08": 1,
+      "2026-11-10": 4,
+      "2026-11-20": 1
     },
     "/2026/09/30/2026-09-29-una-cr%C3%B2nica-per-a-9barrisimatge-andr%C3%A9s-naya-i-els-seus-dos-llibres": {
       "2026-09-30": 4,
@@ -15338,17 +15359,6 @@
       "2026-10-18": 11,
       "2026-10-19": 1,
       "2026-10-24": 1
-    },
-    "/categories": {
-      "2026-10-02": 1,
-      "2026-10-05": 1,
-      "2026-10-20": 1,
-      "2026-10-25": 1,
-      "2026-10-28": 1,
-      "2026-10-31": 1,
-      "2026-11-07": 2,
-      "2026-11-08": 1,
-      "2026-11-10": 4
     },
     "/page/3": {
       "2026-09-20": 1,
@@ -15778,6 +15788,11 @@
       "2026-10-19": 1,
       "2026-11-13": 1
     },
+    "/2026/06/06/2026-06-05-festes-de-prosperitat-me-pirra-la-birra-fest-mocebares-prospe-oases": {
+      "2026-07-12": 2,
+      "2026-07-26": 1,
+      "2026-11-20": 1
+    },
     "/2026/02/13/2026-02-12-bar-moebius-amb-tarantula-friends": {
       "2026-07-11": 1,
       "2026-07-14": 1,
@@ -15993,13 +16008,14 @@
       "2026-09-17": 1,
       "2026-10-16": 1
     },
+    "/2026/03/28/2026-03-27-mocebars-al-casal-de-barri-de-prosperitat": {
+      "2026-07-12": 1,
+      "2026-10-13": 1,
+      "2026-11-20": 1
+    },
     "/2024/11/16/2024-11-15-sant-xibeco-el-persianas-los-influencers-muertos": {
       "2026-07-12": 2,
       "2026-09-29": 1
-    },
-    "/2026/06/06/2026-06-05-festes-de-prosperitat-me-pirra-la-birra-fest-mocebares-prospe-oases": {
-      "2026-07-12": 2,
-      "2026-07-26": 1
     },
     "/2021/03/28/sandra-sas": {
       "2026-07-11": 1,
@@ -16015,6 +16031,9 @@
       "2026-07-07": 1,
       "2026-07-08": 1,
       "2026-10-02": 1
+    },
+    "/2025/03/25/restaurant-diapositives-antigues": {
+      "2026-11-20": 2
     },
     "/2025/07/25/presentem-anonimos-exposicio-fotografica-i-narracio-que-desafien-laparenca": {
       "2026-11-13": 1,
@@ -16665,10 +16684,6 @@
     "/2023/07/15/2023-07-14-iii-edicio-de-la-juganera-sagresamba-moon-walkers-band-les-testarudes-peko-selectors": {
       "2026-07-15": 1,
       "2026-11-11": 1
-    },
-    "/2026/03/28/2026-03-27-mocebars-al-casal-de-barri-de-prosperitat": {
-      "2026-07-12": 1,
-      "2026-10-13": 1
     },
     "/2012/01/28/sant-xibeco-2010-reopla-proyecto-luisbo": {
       "2026-07-12": 1,
@@ -21676,9 +21691,6 @@
     },
     "/category/general": {
       "2026-11-10": 1
-    },
-    "/tag/fbb23": {
-      "2026-11-10": 1
     }
   },
   "sections_daily": {
@@ -21720,7 +21732,7 @@
       "2026-11-02": 1,
       "2026-11-06": 1,
       "2026-11-07": 2,
-      "2026-11-10": 1532,
+      "2026-11-10": 1531,
       "2026-11-11": 5,
       "2026-11-12": 4,
       "2026-11-14": 1,
@@ -21859,7 +21871,8 @@
       "2026-11-16": 28,
       "2026-11-17": 9,
       "2026-11-18": 7,
-      "2026-11-19": 4
+      "2026-11-19": 4,
+      "2026-11-20": 7
     },
     "inici": {
       "2026-07-07": 5,
@@ -21979,7 +21992,8 @@
       "2026-11-16": 1,
       "2026-11-17": 1,
       "2026-11-18": 2,
-      "2026-11-19": 1
+      "2026-11-19": 1,
+      "2026-11-20": 1
     },
     "category": {
       "2026-08-13": 69,
@@ -22048,7 +22062,8 @@
       "2026-10-25": 1,
       "2026-11-07": 1,
       "2026-11-15": 2,
-      "2026-11-18": 1
+      "2026-11-18": 1,
+      "2026-11-20": 1
     },
     "arxiu": {
       "2026-09-15": 1,
@@ -22106,7 +22121,8 @@
       "2026-10-31": 1,
       "2026-11-07": 2,
       "2026-11-08": 1,
-      "2026-11-10": 4
+      "2026-11-10": 4,
+      "2026-11-20": 1
     },
     "aviso-legal": {
       "2026-08-09": 2,
@@ -22383,7 +22399,7 @@
     },
     {
       "path": "/2026/11/15/2026-11-15-presentacio%CC%81-del-llibre-ella-tamb%C3%A9-hi-era-de-joni-d.",
-      "count": 39
+      "count": 40
     },
     {
       "path": "/2026/08/19/2026-08-18-isadora-passos-suspensio-capilar",
@@ -22391,7 +22407,7 @@
     },
     {
       "path": "/2026/11/07/2026-11-06-elektra-i-hekate-heads-nit-de-punk-rock-a-la-prosperitat",
-      "count": 31
+      "count": 32
     },
     {
       "path": "/2026/10/19/2026-10-18-ciutat-flamenco-districte-flamenco",
@@ -22422,23 +22438,23 @@
       "count": 17
     },
     {
+      "path": "/2026/11/14/2026-11-13-i-13-sant-xibeco-les-festes-dhivern-a-la-prosperitat",
+      "count": 16
+    },
+    {
       "path": "/2026/10/17/2026-10-16-sopar-dentitats-al-casal-de-barri-de-prosperitat",
       "count": 16
     },
     {
       "path": "/2026/10/03/2026-10-03-la-nuu-festival-una-cr%C3%B2nica-sota-la-pluja",
       "count": 16
-    },
-    {
-      "path": "/2026/11/14/2026-11-13-i-13-sant-xibeco-les-festes-dhivern-a-la-prosperitat",
-      "count": 15
     }
   ],
   "browsers": [
     {
       "name": "Chrome",
       "id": "Chrome",
-      "count": 3190
+      "count": 3192
     },
     {
       "name": "Firefox",
@@ -22448,7 +22464,7 @@
     {
       "name": "Safari",
       "id": "Safari",
-      "count": 560
+      "count": 561
     },
     {
       "name": "Desconegut",
@@ -22480,12 +22496,12 @@
     {
       "name": "Android",
       "id": "Android",
-      "count": 427
+      "count": 429
     },
     {
       "name": "iOS",
       "id": "iOS",
-      "count": 416
+      "count": 417
     },
     {
       "name": "Desconegut",
@@ -22502,7 +22518,7 @@
     {
       "name": "phone",
       "id": "phone",
-      "count": 821
+      "count": 824
     },
     {
       "name": "desktophd",
@@ -22524,7 +22540,7 @@
     {
       "name": "Spain",
       "id": "ES",
-      "count": 1804
+      "count": 1807
     },
     {
       "name": "Seychelles",
@@ -22601,7 +22617,7 @@
     {
       "name": "Desconegut",
       "id": "Desconegut",
-      "count": 2833
+      "count": 2838
     },
     {
       "name": "Google",
