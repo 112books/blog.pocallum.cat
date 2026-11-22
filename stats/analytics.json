@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-22T11:34:54.842482Z",
+  "generated": "2026-11-22T19:42:08.619065Z",
   "period": {
     "start": "2025-11-22",
     "end": "2026-11-22"
@@ -22467,17 +22467,17 @@
     {
       "name": "Chrome",
       "id": "Chrome",
-      "count": 3196
+      "count": 3206
     },
     {
       "name": "Firefox",
       "id": "Firefox",
-      "count": 641
+      "count": 642
     },
     {
       "name": "Safari",
       "id": "Safari",
-      "count": 561
+      "count": 562
     },
     {
       "name": "Desconegut",
@@ -22499,22 +22499,22 @@
     {
       "name": "macOS",
       "id": "macOS",
-      "count": 1411
+      "count": 1419
     },
     {
       "name": "Linux",
       "id": "Linux",
-      "count": 456
+      "count": 457
     },
     {
       "name": "Android",
       "id": "Android",
-      "count": 433
+      "count": 435
     },
     {
       "name": "iOS",
       "id": "iOS",
-      "count": 417
+      "count": 418
     },
     {
       "name": "Desconegut",
@@ -22526,12 +22526,12 @@
     {
       "name": "desktop",
       "id": "desktop",
-      "count": 2869
+      "count": 2878
     },
     {
       "name": "phone",
       "id": "phone",
-      "count": 824
+      "count": 827
     },
     {
       "name": "desktophd",
@@ -22553,7 +22553,7 @@
     {
       "name": "Spain",
       "id": "ES",
-      "count": 1809
+      "count": 1813
     },
     {
       "name": "Seychelles",
@@ -22563,7 +22563,7 @@
     {
       "name": "United States",
       "id": "US",
-      "count": 494
+      "count": 495
     },
     {
       "name": "Singapore",
@@ -22573,12 +22573,12 @@
     {
       "name": "Brazil",
       "id": "BR",
-      "count": 102
+      "count": 103
     },
     {
       "name": "Pakistan",
       "id": "PK",
-      "count": 97
+      "count": 98
     },
     {
       "name": "Argentina",
@@ -22598,12 +22598,12 @@
     {
       "name": "Vietnam",
       "id": "VN",
-      "count": 56
+      "count": 57
     },
     {
       "name": "India",
       "id": "IN",
-      "count": 55
+      "count": 56
     },
     {
       "name": "South Africa",
