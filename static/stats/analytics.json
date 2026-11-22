@@ -1,10 +1,10 @@
 {
-  "generated": "2026-11-21T23:17:42.107345Z",
+  "generated": "2026-11-22T11:34:54.842482Z",
   "period": {
-    "start": "2025-11-21",
-    "end": "2026-11-21"
+    "start": "2025-11-22",
+    "end": "2026-11-22"
   },
-  "total": 3754,
+  "total": 3759,
   "total_unique": 0,
   "hits_by_day": [
     {
@@ -509,7 +509,7 @@
     },
     {
       "date": "2026-11-10",
-      "count": 1599
+      "count": 1598
     },
     {
       "date": "2026-11-11",
@@ -550,6 +550,14 @@
     {
       "date": "2026-11-20",
       "count": 10
+    },
+    {
+      "date": "2026-11-21",
+      "count": 2
+    },
+    {
+      "date": "2026-11-22",
+      "count": 4
     }
   ],
   "hits": [
@@ -571,7 +579,7 @@
     },
     {
       "path": "/2026/11/15/2026-11-15-presentacio%CC%81-del-llibre-ella-tamb%C3%A9-hi-era-de-joni-d.",
-      "count": 40
+      "count": 41
     },
     {
       "path": "/2026/08/19/2026-08-18-isadora-passos-suspensio-capilar",
@@ -614,6 +622,14 @@
       "count": 17
     },
     {
+      "path": "/2026/10/17/2026-10-16-sopar-dentitats-al-casal-de-barri-de-prosperitat",
+      "count": 17
+    },
+    {
+      "path": "/2024/02/22/sessio-amb-la-ballarina-nahomi-itzel",
+      "count": 17
+    },
+    {
       "path": "/contact",
       "count": 17
     },
@@ -623,10 +639,6 @@
     },
     {
       "path": "/2026/11/14/2026-11-13-i-13-sant-xibeco-les-festes-dhivern-a-la-prosperitat",
-      "count": 16
-    },
-    {
-      "path": "/2026/10/17/2026-10-16-sopar-dentitats-al-casal-de-barri-de-prosperitat",
       "count": 16
     },
     {
@@ -667,10 +679,6 @@
     },
     {
       "path": "/2026/07/31/2026-07-30-primeres-proves-per-al-repte-retrats-lents-de-112-revelats",
-      "count": 14
-    },
-    {
-      "path": "/2024/02/22/sessio-amb-la-ballarina-nahomi-itzel",
       "count": 14
     },
     {
@@ -757,8 +765,8 @@
   "hits_windows": [
     {
       "path": "/",
-      "d7": 13,
-      "d30": 71,
+      "d7": 12,
+      "d30": 69,
       "d90": 271,
       "d365": 386
     },
@@ -766,7 +774,7 @@
       "path": "/2026/07/11/2026-07-11-prospe-beach-again",
       "d7": 0,
       "d30": 0,
-      "d90": 9,
+      "d90": 8,
       "d365": 86
     },
     {
@@ -785,21 +793,21 @@
     },
     {
       "path": "/2026/11/15/2026-11-15-presentacio%CC%81-del-llibre-ella-tamb%C3%A9-hi-era-de-joni-d.",
-      "d7": 40,
-      "d30": 40,
-      "d90": 40,
-      "d365": 40
+      "d7": 41,
+      "d30": 41,
+      "d90": 41,
+      "d365": 41
     },
     {
       "path": "/2026/08/19/2026-08-18-isadora-passos-suspensio-capilar",
-      "d7": 3,
+      "d7": 2,
       "d30": 5,
       "d90": 23,
       "d365": 35
     },
     {
       "path": "/2026/11/07/2026-11-06-elektra-i-hekate-heads-nit-de-punk-rock-a-la-prosperitat",
-      "d7": 6,
+      "d7": 4,
       "d30": 32,
       "d90": 32,
       "d365": 32
@@ -807,7 +815,7 @@
     {
       "path": "/2026/10/19/2026-10-18-ciutat-flamenco-districte-flamenco",
       "d7": 0,
-      "d30": 8,
+      "d30": 7,
       "d90": 28,
       "d365": 28
     },
@@ -861,6 +869,20 @@
       "d365": 17
     },
     {
+      "path": "/2026/10/17/2026-10-16-sopar-dentitats-al-casal-de-barri-de-prosperitat",
+      "d7": 1,
+      "d30": 1,
+      "d90": 17,
+      "d365": 17
+    },
+    {
+      "path": "/2024/02/22/sessio-amb-la-ballarina-nahomi-itzel",
+      "d7": 3,
+      "d30": 4,
+      "d90": 12,
+      "d365": 17
+    },
+    {
       "path": "/contact",
       "d7": 0,
       "d30": 2,
@@ -876,15 +898,8 @@
     },
     {
       "path": "/2026/11/14/2026-11-13-i-13-sant-xibeco-les-festes-dhivern-a-la-prosperitat",
-      "d7": 16,
+      "d7": 15,
       "d30": 16,
-      "d90": 16,
-      "d365": 16
-    },
-    {
-      "path": "/2026/10/17/2026-10-16-sopar-dentitats-al-casal-de-barri-de-prosperitat",
-      "d7": 0,
-      "d30": 0,
       "d90": 16,
       "d365": 16
     },
@@ -956,13 +971,6 @@
       "d7": 0,
       "d30": 0,
       "d90": 1,
-      "d365": 14
-    },
-    {
-      "path": "/2024/02/22/sessio-amb-la-ballarina-nahomi-itzel",
-      "d7": 0,
-      "d30": 2,
-      "d90": 9,
       "d365": 14
     },
     {
@@ -1898,7 +1906,7 @@
     },
     {
       "path": "/tag/sopar-dentitats-2",
-      "d7": 1,
+      "d7": 0,
       "d30": 2,
       "d90": 2,
       "d365": 2
@@ -3220,6 +3228,13 @@
       "d365": 2
     },
     {
+      "path": "/2025/05/04/2025-05-03-13a-prospe-creativa",
+      "d7": 1,
+      "d30": 1,
+      "d90": 1,
+      "d365": 1
+    },
+    {
       "path": "/2023/10/05/2023-10-05-mixtur-sondar-te-electric-ensemble",
       "d7": 1,
       "d30": 1,
@@ -3277,7 +3292,7 @@
     },
     {
       "path": "/2012/11/09/8859-holga-120-cfn-35mm-hack-nit-danimes",
-      "d7": 1,
+      "d7": 0,
       "d30": 1,
       "d90": 1,
       "d365": 1
@@ -14747,18 +14762,11 @@
       "d30": 1,
       "d90": 1,
       "d365": 1
-    },
-    {
-      "path": "/category/general",
-      "d7": 0,
-      "d30": 1,
-      "d90": 1,
-      "d365": 1
     }
   ],
   "by_section": {
     "inici": 386,
-    "posts": 1143,
+    "posts": 1149,
     "cerca": 42,
     "arxiu": 33,
     "page": 57,
@@ -14768,7 +14776,7 @@
     "aviso-legal": 13,
     "blog.pocallum.cat": 9,
     "?query-0-page=2": 9,
-    "category": 137,
+    "category": 136,
     "tag": 1643,
     "?query-0-page=10": 5,
     "?query-0-page=191": 5,
@@ -15043,7 +15051,8 @@
       "2026-11-17": 5,
       "2026-11-18": 2,
       "2026-11-19": 1,
-      "2026-11-20": 1
+      "2026-11-20": 1,
+      "2026-11-22": 1
     },
     "/2026/08/19/2026-08-18-isadora-passos-suspensio-capilar": {
       "2026-08-19": 6,
@@ -15191,6 +15200,28 @@
       "2026-11-02": 1,
       "2026-11-09": 1
     },
+    "/2026/10/17/2026-10-16-sopar-dentitats-al-casal-de-barri-de-prosperitat": {
+      "2026-10-16": 1,
+      "2026-10-17": 6,
+      "2026-10-18": 3,
+      "2026-10-19": 4,
+      "2026-10-20": 2,
+      "2026-11-21": 1
+    },
+    "/2024/02/22/sessio-amb-la-ballarina-nahomi-itzel": {
+      "2026-07-17": 1,
+      "2026-07-26": 2,
+      "2026-08-10": 1,
+      "2026-08-22": 1,
+      "2026-09-07": 2,
+      "2026-09-09": 1,
+      "2026-09-26": 1,
+      "2026-10-11": 1,
+      "2026-10-19": 2,
+      "2026-10-22": 1,
+      "2026-11-04": 1,
+      "2026-11-22": 3
+    },
     "/contact": {
       "2026-07-13": 1,
       "2026-08-09": 4,
@@ -15224,13 +15255,6 @@
       "2026-11-16": 1,
       "2026-11-17": 2,
       "2026-11-20": 1
-    },
-    "/2026/10/17/2026-10-16-sopar-dentitats-al-casal-de-barri-de-prosperitat": {
-      "2026-10-16": 1,
-      "2026-10-17": 6,
-      "2026-10-18": 3,
-      "2026-10-19": 4,
-      "2026-10-20": 2
     },
     "/2026/10/03/2026-10-03-la-nuu-festival-una-cr%C3%B2nica-sota-la-pluja": {
       "2026-10-03": 9,
@@ -15334,19 +15358,6 @@
       "2026-08-09": 5,
       "2026-08-19": 2,
       "2026-09-16": 1
-    },
-    "/2024/02/22/sessio-amb-la-ballarina-nahomi-itzel": {
-      "2026-07-17": 1,
-      "2026-07-26": 2,
-      "2026-08-10": 1,
-      "2026-08-22": 1,
-      "2026-09-07": 2,
-      "2026-09-09": 1,
-      "2026-09-26": 1,
-      "2026-10-11": 1,
-      "2026-10-19": 2,
-      "2026-10-22": 1,
-      "2026-11-04": 1
     },
     "/2026/10/25/2026-10-23-ciutat-flamenco-ciutat-batalla": {
       "2026-10-25": 7,
@@ -16747,6 +16758,9 @@
     "/tag/berta-cots": {
       "2026-07-07": 1,
       "2026-10-20": 1
+    },
+    "/2025/05/04/2025-05-03-13a-prospe-creativa": {
+      "2026-11-21": 1
     },
     "/2023/10/05/2023-10-05-mixtur-sondar-te-electric-ensemble": {
       "2026-11-19": 1
@@ -21688,9 +21702,6 @@
     },
     "/tag/magnamaradj": {
       "2026-11-10": 1
-    },
-    "/category/general": {
-      "2026-11-10": 1
     }
   },
   "sections_daily": {
@@ -21872,7 +21883,9 @@
       "2026-11-17": 9,
       "2026-11-18": 7,
       "2026-11-19": 4,
-      "2026-11-20": 7
+      "2026-11-20": 7,
+      "2026-11-21": 2,
+      "2026-11-22": 4
     },
     "inici": {
       "2026-07-07": 5,
@@ -22008,7 +22021,7 @@
       "2026-10-11": 1,
       "2026-10-25": 1,
       "2026-11-07": 1,
-      "2026-11-10": 46,
+      "2026-11-10": 45,
       "2026-11-15": 1,
       "2026-11-17": 1,
       "2026-11-19": 1
@@ -22399,7 +22412,7 @@
     },
     {
       "path": "/2026/11/15/2026-11-15-presentacio%CC%81-del-llibre-ella-tamb%C3%A9-hi-era-de-joni-d.",
-      "count": 40
+      "count": 41
     },
     {
       "path": "/2026/08/19/2026-08-18-isadora-passos-suspensio-capilar",
@@ -22434,19 +22447,19 @@
       "count": 17
     },
     {
+      "path": "/2026/10/17/2026-10-16-sopar-dentitats-al-casal-de-barri-de-prosperitat",
+      "count": 17
+    },
+    {
+      "path": "/2024/02/22/sessio-amb-la-ballarina-nahomi-itzel",
+      "count": 17
+    },
+    {
       "path": "/2026/07/06/2026-07-05-24e-festival-de-blues-de-barcelona-jam-session-de-clausura",
       "count": 17
     },
     {
       "path": "/2026/11/14/2026-11-13-i-13-sant-xibeco-les-festes-dhivern-a-la-prosperitat",
-      "count": 16
-    },
-    {
-      "path": "/2026/10/17/2026-10-16-sopar-dentitats-al-casal-de-barri-de-prosperitat",
-      "count": 16
-    },
-    {
-      "path": "/2026/10/03/2026-10-03-la-nuu-festival-una-cr%C3%B2nica-sota-la-pluja",
       "count": 16
     }
   ],
@@ -22454,7 +22467,7 @@
     {
       "name": "Chrome",
       "id": "Chrome",
-      "count": 3193
+      "count": 3196
     },
     {
       "name": "Firefox",
@@ -22474,14 +22487,14 @@
     {
       "name": "Dalvik",
       "id": "Dalvik",
-      "count": 2
+      "count": 3
     }
   ],
   "systems": [
     {
       "name": "Windows",
       "id": "Windows",
-      "count": 1685
+      "count": 1686
     },
     {
       "name": "macOS",
@@ -22496,7 +22509,7 @@
     {
       "name": "Android",
       "id": "Android",
-      "count": 430
+      "count": 433
     },
     {
       "name": "iOS",
@@ -22513,7 +22526,7 @@
     {
       "name": "desktop",
       "id": "desktop",
-      "count": 2868
+      "count": 2869
     },
     {
       "name": "phone",
@@ -22523,7 +22536,7 @@
     {
       "name": "desktophd",
       "id": "desktophd",
-      "count": 642
+      "count": 645
     },
     {
       "name": "tablet",
@@ -22540,7 +22553,7 @@
     {
       "name": "Spain",
       "id": "ES",
-      "count": 1808
+      "count": 1809
     },
     {
       "name": "Seychelles",
@@ -22550,7 +22563,7 @@
     {
       "name": "United States",
       "id": "US",
-      "count": 492
+      "count": 494
     },
     {
       "name": "Singapore",
@@ -22617,7 +22630,7 @@
     {
       "name": "Desconegut",
       "id": "Desconegut",
-      "count": 2838
+      "count": 2839
     },
     {
       "name": "Google",
@@ -22632,12 +22645,12 @@
     {
       "name": "9barrisimatge.org",
       "id": "9barrisimatge.org",
-      "count": 89
+      "count": 91
     },
     {
       "name": "www.facebook.com",
       "id": "www.facebook.com",
-      "count": 35
+      "count": 38
     },
     {
       "name": "pocallum.cat",
