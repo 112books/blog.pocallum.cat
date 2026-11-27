@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-26T15:18:41.052283Z",
+  "generated": "2026-11-27T09:42:17.575230Z",
   "period": {
-    "start": "2025-11-26",
-    "end": "2026-11-26"
+    "start": "2025-11-27",
+    "end": "2026-11-27"
   },
   "total": 3787,
   "total_unique": 0,
@@ -781,9 +781,9 @@
   "hits_windows": [
     {
       "path": "/",
-      "d7": 6,
-      "d30": 46,
-      "d90": 274,
+      "d7": 5,
+      "d30": 42,
+      "d90": 272,
       "d365": 390
     },
     {
@@ -809,7 +809,7 @@
     },
     {
       "path": "/2026/11/15/2026-11-15-presentacio%CC%81-del-llibre-ella-tamb%C3%A9-hi-era-de-joni-d.",
-      "d7": 3,
+      "d7": 2,
       "d30": 41,
       "d90": 41,
       "d365": 41
@@ -818,12 +818,12 @@
       "path": "/2026/08/19/2026-08-18-isadora-passos-suspensio-capilar",
       "d7": 0,
       "d30": 5,
-      "d90": 18,
+      "d90": 17,
       "d365": 35
     },
     {
       "path": "/2026/11/07/2026-11-06-elektra-i-hekate-heads-nit-de-punk-rock-a-la-prosperitat",
-      "d7": 3,
+      "d7": 2,
       "d30": 33,
       "d90": 33,
       "d365": 33
@@ -852,7 +852,7 @@
     {
       "path": "/arxiu",
       "d7": 0,
-      "d30": 5,
+      "d30": 4,
       "d90": 22,
       "d365": 22
     },
@@ -866,7 +866,7 @@
     {
       "path": "/page/2",
       "d7": 2,
-      "d30": 6,
+      "d30": 4,
       "d90": 21,
       "d365": 21
     },
@@ -915,8 +915,8 @@
     {
       "path": "/2026/07/06/2026-07-05-24e-festival-de-blues-de-barcelona-jam-session-de-clausura",
       "d7": 0,
-      "d30": 1,
-      "d90": 8,
+      "d30": 0,
+      "d90": 7,
       "d365": 17
     },
     {
@@ -958,7 +958,7 @@
       "path": "/2026/07/06/2026-07-04-24e-festival-de-blues-de-barcelona",
       "d7": 0,
       "d30": 1,
-      "d90": 4,
+      "d90": 3,
       "d365": 15
     },
     {
@@ -992,7 +992,7 @@
     {
       "path": "/2026/10/25/2026-10-23-ciutat-flamenco-ciutat-batalla",
       "d7": 0,
-      "d30": 5,
+      "d30": 2,
       "d90": 13,
       "d365": 13
     },
@@ -1006,7 +1006,7 @@
     {
       "path": "/page/3",
       "d7": 0,
-      "d30": 4,
+      "d30": 2,
       "d90": 13,
       "d365": 13
     },
@@ -1020,7 +1020,7 @@
     {
       "path": "/2026/10/24/2026-10-23-ciutat-flamenco-jordi-latorre-despu%C3%A9s-del-diluvio-electr%C3%B3nico",
       "d7": 0,
-      "d30": 2,
+      "d30": 1,
       "d90": 12,
       "d365": 12
     },
@@ -1035,7 +1035,7 @@
       "path": "/2026/07/06/2026-07-03a05-24-festival-de-blues-de-barcelona",
       "d7": 0,
       "d30": 0,
-      "d90": 2,
+      "d90": 1,
       "d365": 10
     },
     {
@@ -1055,7 +1055,7 @@
     {
       "path": "/page/4",
       "d7": 0,
-      "d30": 3,
+      "d30": 1,
       "d90": 9,
       "d365": 9
     },
@@ -1083,14 +1083,14 @@
     {
       "path": "/2026/10/27/2026-10-25-21%C3%A8-festival-de-sopes-del-m%C3%B3n-mundial-de-nou-barris",
       "d7": 0,
-      "d30": 3,
+      "d30": 2,
       "d90": 8,
       "d365": 8
     },
     {
       "path": "/2026/10/25/2026-10-24-ciutat-flamenco-yoel-vargas-%C3%B3bito",
       "d7": 0,
-      "d30": 2,
+      "d30": 1,
       "d90": 8,
       "d365": 8
     },
@@ -1111,7 +1111,7 @@
     {
       "path": "/page/5",
       "d7": 0,
-      "d30": 3,
+      "d30": 2,
       "d90": 8,
       "d365": 8
     },
@@ -1126,7 +1126,7 @@
       "path": "/2026/08/15/2026-08-12-laura-a-32-oc",
       "d7": 0,
       "d30": 0,
-      "d90": 1,
+      "d90": 0,
       "d365": 8
     },
     {
@@ -1146,7 +1146,7 @@
     {
       "path": "/2025/10/30/2025-10-30-castanyada-diabolica-de-la-sagrera",
       "d7": 0,
-      "d30": 3,
+      "d30": 2,
       "d90": 6,
       "d365": 8
     },
@@ -1160,7 +1160,7 @@
     {
       "path": "/2026/10/03/2026-11-06-quasi-sis-anys-retratant-el-blues-presentem-40-anys-de-blues-a-barcelona",
       "d7": 0,
-      "d30": 4,
+      "d30": 3,
       "d90": 7,
       "d365": 7
     },
@@ -1188,7 +1188,7 @@
     {
       "path": "/2026/10/27/presentaci%C3%B3-del-llibre-de-fotografies-i-biografies-40-anys-de-blues-a-barcelona",
       "d7": 1,
-      "d30": 6,
+      "d30": 5,
       "d90": 6,
       "d365": 6
     },
@@ -1376,7 +1376,7 @@
     },
     {
       "path": "/2021/12/18/entrega-de-premis-del-31e-concurs-de-fotografia-josep-anton-cordoncillo",
-      "d7": 1,
+      "d7": 0,
       "d30": 1,
       "d90": 4,
       "d365": 5
@@ -1483,7 +1483,7 @@
       "path": "/2025/04/22/2025-04-19-visita-al-capibola-blues-experience",
       "d7": 0,
       "d30": 0,
-      "d90": 3,
+      "d90": 2,
       "d365": 4
     },
     {
@@ -1587,7 +1587,7 @@
     {
       "path": "/2026/10/23/2026-10-23-ciutat-flamenco-ciutat-batalla",
       "d7": 0,
-      "d30": 2,
+      "d30": 0,
       "d90": 3,
       "d365": 3
     },
@@ -1957,7 +1957,7 @@
     },
     {
       "path": "/category/superheadz-digital-harinezumi",
-      "d7": 1,
+      "d7": 0,
       "d30": 2,
       "d90": 2,
       "d365": 2
@@ -3148,7 +3148,7 @@
     {
       "path": "/2025/10/27/2025-10-26-ciutat-flamenco-barcelona-chicharron-circo-flamenco",
       "d7": 0,
-      "d30": 1,
+      "d30": 0,
       "d90": 1,
       "d365": 2
     },
@@ -3343,7 +3343,7 @@
     },
     {
       "path": "/2023/10/05/2023-10-05-mixtur-sondar-te-electric-ensemble",
-      "d7": 1,
+      "d7": 0,
       "d30": 1,
       "d90": 1,
       "d365": 1
@@ -22523,7 +22523,7 @@
     {
       "name": "Chrome",
       "id": "Chrome",
-      "count": 3215
+      "count": 3217
     },
     {
       "name": "Firefox",
@@ -22560,7 +22560,7 @@
     {
       "name": "Linux",
       "id": "Linux",
-      "count": 458
+      "count": 460
     },
     {
       "name": "Android",
@@ -22582,7 +22582,7 @@
     {
       "name": "desktop",
       "id": "desktop",
-      "count": 2885
+      "count": 2887
     },
     {
       "name": "phone",
@@ -22619,7 +22619,7 @@
     {
       "name": "United States",
       "id": "US",
-      "count": 496
+      "count": 498
     },
     {
       "name": "Singapore",
